@@ -1,0 +1,228 @@
+---
+fr:
+  vincent-pascucci:
+    chapter-1:
+      c: 1
+      title: 'Introduction: family, school, work'
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:01,03
+          to: 00:00:05,24
+          text: My name is Pascucci.
+        sequence-2:
+          s: 2
+          from: 00:00:05,24
+          to: 00:00:09,24
+          text: I am of Italian origin.
+        sequence-3:
+          s: 3
+          from: 00:00:09,24
+          to: 00:00:18,20
+          text: I was born in Italy, in the region of Pesaro, at Sant’Angelo in l’Isola
+            to be exact.
+        sequence-4:
+          s: 4
+          from: 00:00:18,20
+          to: 00:00:22,21
+          text: That is a beautiful little hill.
+        sequence-5:
+          s: 5
+          from: 00:00:22,21
+          to: 00:00:28,11
+          text: I once had the opportunity to see my birthplace again.
+        sequence-6:
+          s: 6
+          from: 00:00:28,11
+          to: 00:00:29,25
+          text: ''
+        sequence-7:
+          s: 7
+          from: 00:00:29,25
+          to: 00:00:37,24
+          text: My parents came to France, thanks to an agreement concerning manual
+            laborers
+        sequence-8:
+          s: 8
+          from: 00:00:37,24
+          to: 00:00:39,09
+          text: ''
+        sequence-9:
+          s: 9
+          from: 00:00:39,09
+          to: 00:00:44,04
+          text: that had been signed between France and Italy after World War I.
+        sequence-10:
+          s: 10
+          from: 00:00:44,04
+          to: 00:00:52,12
+          text: These work contracts gave Italian antifascists the opportunity
+        sequence-11:
+          s: 11
+          from: 00:00:52,12
+          to: 00:01:01,20
+          text: to leave Italy legally and escape imprisonment.
+        sequence-12:
+          s: 12
+          from: 00:01:01,20
+          to: 00:01:10,04
+          text: I don’t know the exact date of my fathers’ emigration,
+        sequence-13:
+          s: 13
+          from: 00:01:10,04
+          to: 00:01:19,20
+          text: but it took place between 1921 and 1922, as I was born in 1923.
+        sequence-14:
+          s: 14
+          from: 00:01:19,20
+          to: 00:01:21,11
+          text: ''
+        sequence-15:
+          s: 15
+          from: 00:01:21,11
+          to: 00:01:29,20
+          text: When I was six months old, my mother and I came to France to join
+            my father.
+        sequence-16:
+          s: 16
+          from: 00:01:29,20
+          to: 00:01:30,26
+          text: ''
+        sequence-17:
+          s: 17
+          from: 00:01:30,26
+          to: 00:01:38,13
+          text: Since then I have lived in Nanterre. For almost 83 years now.
+        sequence-18:
+          s: 18
+          from: 00:01:38,13
+          to: 00:01:43,02
+          text: ''
+        sequence-19:
+          s: 19
+          from: 00:01:43,02
+          to: 00:01:47,03
+          text: My father was a Communist, an antifascist.
+        sequence-20:
+          s: 20
+          from: 00:01:47,03
+          to: 00:01:57,14
+          text: He joined the French Communist Party as soon as we got French citizenship.
+        sequence-21:
+          s: 21
+          from: 00:01:57,14
+          to: 00:02:09,00
+          text: He applied for naturalization in 1930. Otherwise it was very difficult
+            to find work.
+        sequence-22:
+          s: 22
+          from: 00:02:09,00
+          to: 00:02:09,28
+          text: ''
+        sequence-23:
+          s: 23
+          from: 00:02:09,28
+          to: 00:02:20,23
+          text: I went to school, “The Ecole Republique”, in Nanterre.
+        sequence-24:
+          s: 24
+          from: 00:02:20,23
+          to: 00:02:22,19
+          text: ''
+        sequence-25:
+          s: 25
+          from: 00:02:22,19
+          to: 00:02:33,09
+          text: The school has now disappeared to make way for the University Paris
+            X.
+        sequence-26:
+          s: 26
+          from: 00:02:33,09
+          to: 00:02:37,09
+          text: ''
+        sequence-27:
+          s: 27
+          from: 00:02:37,09
+          to: 00:02:46,27
+          text: I went to that school until the age of 13 and got my Elementary School
+            Certificate - Certificat d’Etudes.
+        sequence-28:
+          s: 28
+          from: 00:02:46,27
+          to: 00:02:57,25
+          text: To please my teacher, I took an entry test for high school, but it
+            was not my goal.
+        sequence-29:
+          s: 29
+          from: 00:02:57,25
+          to: 00:03:07,10
+          text: At the time my brother had just been born,
+        sequence-30:
+          s: 30
+          from: 00:03:07,10
+          to: 00:03:15,06
+          text: my mother was not working because she had a heart disease.
+        sequence-31:
+          s: 31
+          from: 00:03:15,06
+          to: 00:03:23,24
+          text: We needed to call the doctor often and my father was only a worker,
+            so we were not very rich.
+        sequence-32:
+          s: 32
+          from: 00:03:23,24
+          to: 00:03:31,18
+          text: On one hand, I wanted to contribute to the family by working.
+        sequence-33:
+          s: 33
+          from: 00:03:31,18
+          to: 00:03:36,10
+          text: On the other hand, I wanted
+        sequence-34:
+          s: 34
+          from: 00:03:36,10
+          to: 00:03:39,01
+          text: ''
+        sequence-35:
+          s: 35
+          from: 00:03:39,01
+          to: 00:03:46,02
+          text: to be free and independent. That was even more important.
+        sequence-36:
+          s: 36
+          from: 00:03:46,02
+          to: 00:03:48,03
+          text: ''
+        sequence-37:
+          s: 37
+          from: 00:03:48,03
+          to: 00:03:53,21
+          text: So at the age of 14, I started working.
+        sequence-38:
+          s: 38
+          from: 00:03:53,21
+          to: 00:04:08,20
+          text: That was in 1937/1938, during the first crisis, and unemployment was
+            a big issue.
+        sequence-39:
+          s: 39
+          from: 00:04:08,20
+          to: 00:04:14,19
+          text: As I had learned no trade, I did a little bit of everything.
+        sequence-40:
+          s: 40
+          from: 00:04:14,19
+          to: 00:04:17,08
+          text: ''
+        sequence-41:
+          s: 41
+          from: 00:04:17,08
+          to: 00:04:30,17
+          text: I worked in a toy factory; I also worked unloading the little boats
+            on the Seine.
+        sequence-42:
+          s: 42
+          from: 00:04:30,17
+          to: 00:04:41,10
+          text: I was not very picky about the work, as it was quite hard to find
+            a job at the time.

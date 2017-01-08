@@ -1,0 +1,200 @@
+---
+it:
+  lucien-ducastel:
+    chapter-8:
+      c: 8
+      title: Activity as eyewitness; message
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:01,08
+          to: 00:00:06,15
+          text: I was invited as a witness to a school.
+        sequence-2:
+          s: 2
+          from: 00:00:06,15
+          to: 00:00:15,20
+          text: 'I had a teacher friend and as we talked he said:'
+        sequence-3:
+          s: 3
+          from: 00:00:15,20
+          to: 00:00:26,05
+          text: "“You should come talk in schools, otherwise it will be forgotten
+            history.”"
+        sequence-4:
+          s: 4
+          from: 00:00:26,05
+          to: 00:00:31,19
+          text: I agreed, but hadn’t really thought about what that meant.
+        sequence-5:
+          s: 5
+          from: 00:00:31,19
+          to: 00:00:33,10
+          text: ''
+        sequence-6:
+          s: 6
+          from: 00:00:33,10
+          to: 00:00:39,02
+          text: So I went.
+        sequence-7:
+          s: 7
+          from: 00:00:39,02
+          to: 00:00:42,13
+          text: It was difficult.
+        sequence-8:
+          s: 8
+          from: 00:00:42,13
+          to: 00:00:50,21
+          text: 'When you are with 30 students, it is very difficult to talk about
+            all these things:'
+        sequence-9:
+          s: 9
+          from: 00:00:50,21
+          to: 00:00:51,29
+          text: ''
+        sequence-10:
+          s: 10
+          from: 00:00:51,29
+          to: 00:01:03,15
+          text: about the arrival of Jewish or Gypsy convoys, the children, sometimes
+            babies in their mothers arms.
+        sequence-11:
+          s: 11
+          from: 00:01:03,15
+          to: 00:01:11,29
+          text: I wondered if one should talk about it or rather not talk about it.
+        sequence-12:
+          s: 12
+          from: 00:01:11,29
+          to: 00:01:17,04
+          text: I decided to talk about what National Socialism had done,
+        sequence-13:
+          s: 13
+          from: 00:01:17,04
+          to: 00:01:23,05
+          text: about what we had gone through and about what we had seen with our
+            own eyes.
+        sequence-14:
+          s: 14
+          from: 00:01:23,05
+          to: 00:01:24,25
+          text: ''
+        sequence-15:
+          s: 15
+          from: 00:01:24,25
+          to: 00:01:26,10
+          text: In Birkenau,
+        sequence-16:
+          s: 16
+          from: 00:01:26,10
+          to: 00:01:27,18
+          text: ''
+        sequence-17:
+          s: 17
+          from: 00:01:27,18
+          to: 00:01:40,00
+          text: the first big camp we went to, these convoys arrived, filled with
+            Jews, with Gypsies.
+        sequence-18:
+          s: 18
+          from: 00:01:40,00
+          to: 00:01:49,05
+          text: There were men and women, but children as well, and babies in their
+            mother’s arms.
+        sequence-19:
+          s: 19
+          from: 00:01:49,05
+          to: 00:02:00,05
+          text: We saw them, we were not far away and we knew what was going to happen.
+            That hurt a lot, it still does.
+        sequence-20:
+          s: 20
+          from: 00:02:00,05
+          to: 00:02:09,04
+          text: Whenever I go to a school and have to talk about these subjects, concerning
+            children…
+        sequence-21:
+          s: 21
+          from: 00:02:09,04
+          to: 00:02:15,19
+          text: the soup doesn’t taste as good in the evening.
+        sequence-22:
+          s: 22
+          from: 00:02:15,19
+          to: 00:02:17,01
+          text: ''
+        sequence-23:
+          s: 23
+          from: 00:02:17,01
+          to: 00:02:27,29
+          text: What is remarkable when you go into a classroom is that you never
+            have to ask for silence.
+        sequence-24:
+          s: 24
+          from: 00:02:27,29
+          to: 00:02:39,08
+          text: They are very attentive to what one says. That encourages us to go
+            to the schools.
+        sequence-25:
+          s: 25
+          from: 00:02:39,08
+          to: 00:02:40,02
+          text: ''
+        sequence-26:
+          s: 26
+          from: 00:02:40,02
+          to: 00:02:49,00
+          text: I want to show what National Socialism was about, with all its horror
+            and its atrocities.
+        sequence-27:
+          s: 27
+          from: 00:02:49,00
+          to: 00:02:56,12
+          text: How important it is to develop fraternity between human beings.
+        sequence-28:
+          s: 28
+          from: 00:02:56,12
+          to: 00:03:02,00
+          text: You are young people. Don’t fight with each other. Be collegial.
+        sequence-29:
+          s: 29
+          from: 00:03:02,00
+          to: 00:03:08,19
+          text: Be friends because you don’t know what tomorrow will be like.
+        sequence-30:
+          s: 30
+          from: 00:03:08,19
+          to: 00:03:09,02
+          text: ''
+        sequence-31:
+          s: 31
+          from: 00:03:09,02
+          to: 00:03:17,13
+          text: You are human beings and the future is in you, you carry tomorrow
+            in you.
+        sequence-32:
+          s: 32
+          from: 00:03:17,13
+          to: 00:03:18,16
+          text: ''
+        sequence-33:
+          s: 33
+          from: 00:03:18,16
+          to: 00:03:30,01
+          text: Be fraternal, because that is the only way it will work. It doesn’t
+            matter how people look like.
+        sequence-34:
+          s: 34
+          from: 00:03:30,01
+          to: 00:03:38,29
+          text: You are all human beings, you can have dark-skinned friends, why not?
+        sequence-35:
+          s: 35
+          from: 00:03:38,29
+          to: 00:03:48,00
+          text: That will also help you to work better, work more seriously.
+        sequence-36:
+          s: 36
+          from: 00:03:48,00
+          to: 00:03:56,00
+          text: Be fraternal with each other no matter what origin you are from.

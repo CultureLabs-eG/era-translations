@@ -1,0 +1,28 @@
+---
+it:
+  lipej-kolenik:
+    chapter-9:
+      c: 9
+      title: Sending in children and women
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:01,09
+          to: 00:00:13,23
+          text: Most of the young people took a lot of the responsibility.
+        sequence-2:
+          s: 2
+          from: 00:00:13,23
+          to: 00:00:24,10
+          text: The police did not control the children quite as strictly as the older
+            people.
+        sequence-3:
+          s: 3
+          from: 00:00:24,10
+          to: 00:00:28,26
+          text: The little children used to carry the mail for us and so on.
+        sequence-4:
+          s: 4
+          from: 00:00:28,26
+          to: 00:00:34,04
+          text: And they informed us as well when somebody was wounded.

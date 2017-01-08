@@ -1,0 +1,64 @@
+---
+de:
+  anita-malavasi:
+    chapter-1:
+      c: 1
+      title: Introduction, family
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:00,18
+          to: 00:00:07,15
+          text: I was born in Roncolo di Quattro Castella on the 21st of May 1921.
+        sequence-2:
+          s: 2
+          from: 00:00:07,15
+          to: 00:00:14,27
+          text: We were a family of farmers, but our roots were different.
+        sequence-3:
+          s: 3
+          from: 00:00:14,27
+          to: 00:00:22,23
+          text: My grandfather had studied to become a music teacher and had founded
+            the band of Vezzano.
+        sequence-4:
+          s: 4
+          from: 00:00:22,23
+          to: 00:00:27,01
+          text: My grandmother was the daughter of the town-clerk of Vezzano.
+        sequence-5:
+          s: 5
+          from: 00:00:27,01
+          to: 00:00:36,20
+          text: He was involved in the struggle for the unity of Italy, together with
+            his brother, Baroni Radighieri.
+        sequence-6:
+          s: 6
+          from: 00:00:36,20
+          to: 00:00:48,06
+          text: My grandparents had both studied a lot more than farmers would have
+            normally done.
+        sequence-7:
+          s: 7
+          from: 00:00:48,06
+          to: 00:00:54,13
+          text: My grandmother used to read the newspaper everyday, although she was
+            a woman.
+        sequence-8:
+          s: 8
+          from: 00:00:54,13
+          to: 00:01:02,15
+          text: My father often reminded me about how important it was for women to
+            have education.
+        sequence-9:
+          s: 9
+          from: 00:01:02,15
+          to: 00:01:10,15
+          text: They got married when they were very young and since they weren't
+            able to find employment, they got into farming.
+        sequence-10:
+          s: 10
+          from: 00:01:10,15
+          to: 00:01:20,20
+          text: My father’s generation was the only one involved in farming only until
+            they were older and got involved in other things.

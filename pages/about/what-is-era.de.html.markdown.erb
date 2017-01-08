@@ -1,0 +1,41 @@
+---
+title:  About era
+---
+
+# Was ist ERA?
+
+## ERA is a space in which individual stories of people having resisted against the terror, humiliation and despair fascism brought over Europe are kept alive and visible for everybody.
+
+The protagonists and eyewitnesses will disappear in the next years. Soon, there will be no other testimonies of the happenings apart from those having been collected, recorded, recounted and written down. The European Resistance Archive will enable the documentation of this precious knowledge. It offers video interviews with women and men having taken part in the antifascist resistance. Six countries are represented in the project: [Poland](/en/resistance/poland/), [Slovenia](/en/resistance/slovenia/), [Austria](/en/resistance/austria/), [France](/en/resistance/france/), [Italy](/en/resistance/italy/) and [Germany](/en/resistance/germany/).
+
+In the process of creating this platform, young people participated actively in the realization of the project in form of doing the interviews. Historians, memory workers and a professional video-team guided the young participants in their work. We hope that this creates an understanding and coming together of the different generations and makes the understanding of the history of Europe possible.
+
+## ERA Goals
+
+The European Resistance Archive wants keep the knowledge of the resistance alive und wants to demonstrate by which means people contributed in the liberation of national socialist rule by their decision to fight against fascism, occupation and extermination.
+
+Aim of ERA is to create a common understanding of European rights as the result of a historical path characterized by the fight against fascism/Nazism. The active role of women in the fight against fascism/Nazism should be recognized. People of different political, social and religious motives fought in the resistance and did so because of their conscience. ERA wants to create and spread a European awareness that the resistance against fascism and Nazism played a constitutive role in the creation of the new Europe.
+
+In the current historical discourses, especially in the educational systems of schools, a national perspective stil dominates in most countries. We want ERA to become a forum in which the different national perspectives come together and lead to an understanding of European history for which the resistance against fascism and Nazism played a constitutional role.
+
+## ERA Project Partners
+<% data.project_partners.each_pair do |key, value| %>
+<a name="<%= key %>"></a>
+<h3><%= [t("#{key}.name"), t(value['country'])].join(", ") %></h3>
+<%= t("#{key}.description") %>
+ <% end %>
+
+
+<% content_for(:right_column) do %>
+  <h3>The Making of ERA-Video</h3>
+  <section>
+    <iframe width="405" height="304" src="https://www.youtube.com/embed/mm0H33z8bNU" frameborder="0" allowfullscreen></iframe>
+    The Making of ERA-Video shows you the process of the 9 months it took to generate the first steps of ERA. You will see the first meeting of all participants in Reggio Emilia, the realization of the interviews in the participating countries and the memorial trip to Krakow and Auschwitz in March 2007. <br />
+    The website has been created through the work of many people – so here you can get a small impression of the variety of working steps of the ERA-project.
+  </section>
+
+  <h3><%= t('project_teams') %></h3>
+  <% data.project_teams.each_pair do |key, value| %>
+    <%= link_to t("#{key}.name"), "##{key}" %><br />
+  <% end %>
+<% end %>

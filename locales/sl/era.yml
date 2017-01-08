@@ -1,0 +1,44 @@
+---
+sl:
+  language: language
+  interviewers: interview team
+  cameramen: camera team
+  date_of_interview: date of interview
+  alias_name: alias name
+  begin_of_engagement:
+  end_of_engagement:
+  resistance_groups: resistance groups
+  kind_of_resistance: kind of resistance
+  firstname: firstname
+  lastname: lastname
+  gender: gender
+  born_on: birthdate
+  died_on: died on
+  born_in: born in %{date}
+  country: country
+  religion: religion
+  place_of_birth: place of birth
+  place_of_residence: place of residence
+  home: Home
+  menu: Menu
+  about_era: About ERA
+  testimonies: Testimonies
+  resistance: Resistance
+  participate: Participate
+  press: Press
+  contact: Contact
+  partners: Partners
+  imprint: Imprint
+  mission_statement: ERA is a space in which individual stories of people having resisted against the terror, humiliation and despair fascism brought over Europe are kept alive and visible for everybody.
+  shortbio: Biography
+  transcript: Transcription
+  photo_gallery: Gallery
+  austria: Austria
+  france: France
+  germany: Germany
+  italy: Italy
+  poland: Poland
+  slovenia: Slovenia
+  resistance_movement_in: Resistance movements in...
+  subtitle_flash_message: For this video interview subtitles are available. Please use the subtitle button in the YouTube player to show/hide them.
+

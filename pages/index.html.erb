@@ -1,0 +1,15 @@
+---
+title: European Resistance Archive
+layout: grid
+---
+
+<% data.witnesses.each_pair do |id, witness| %>
+  <a href="/<%= locale %>/testimonies/<%= id %>/" class="grid-item grid-item-image">
+    <% concat image_tag "/images/witnesses/portrait-#{id}.jpg" %>
+    <div class="overlay">&nbsp;</div>
+    <div class="witness-name">
+      <% concat witness['firstname'] %> <br/>
+      <% concat witness['lastname'] %>
+    </div>
+  </a>
+<% end %>

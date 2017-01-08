@@ -1,0 +1,53 @@
+---
+en:
+  stefania-dambrowska:
+    chapter-1:
+      c: 1
+      title: Introduction, parents
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:00,14
+          to: 00:00:02,25
+          text: My name is Stefania Dąmbrowska.
+        sequence-2:
+          s: 2
+          from: 00:00:02,25
+          to: 00:00:12,29
+          text: I do not like my name, I am Stenia Dąmbrowska, formally Stefania,
+            my nick name is Stenia.
+        sequence-3:
+          s: 3
+          from: 00:00:12,29
+          to: 00:00:26,24
+          text: I was born on 12th October 1916 in Petersburg.
+        sequence-4:
+          s: 4
+          from: 00:00:26,24
+          to: 00:00:33,15
+          text: My father was a military man, Bohdan.
+        sequence-5:
+          s: 5
+          from: 00:00:33,15
+          to: 00:00:39,14
+          text: At that time in Russia, he was a cavalry captain I guess.
+        sequence-6:
+          s: 6
+          from: 00:00:39,14
+          to: 00:00:42,13
+          text: My mother, her maiden name was Kościałkowska,
+        sequence-7:
+          s: 7
+          from: 00:00:42,13
+          to: 00:00:46,26
+          text: was just next to her husband.
+        sequence-8:
+          s: 8
+          from: 00:00:46,26
+          to: 00:00:50,10
+          text: At that time already it was already custom that some women worked.
+        sequence-9:
+          s: 9
+          from: 00:00:50,10
+          to: 00:00:57,00
+          text: And my mum worked in some office called `Prodamed`.

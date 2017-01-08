@@ -1,0 +1,58 @@
+---
+it:
+  fernando-cavazzini:
+    chapter-7:
+      c: 7
+      title: First allied air-drop
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:00,13
+          to: 00:00:04,17
+          text: We heard there was an airplane flying back and forth.
+        sequence-2:
+          s: 2
+          from: 00:00:04,17
+          to: 00:00:10,25
+          text: So we made a triangle with three stacks of fascines.
+        sequence-3:
+          s: 3
+          from: 00:00:10,25
+          to: 00:00:16,11
+          text: That was the code word, and we set in on fire.
+        sequence-4:
+          s: 4
+          from: 00:00:16,11
+          to: 00:00:26,13
+          text: The airplane was flying in a large circle of quite a few kilometres.
+        sequence-5:
+          s: 5
+          from: 00:00:26,13
+          to: 00:00:32,14
+          text: When they noticed the triangle they launched the parachute.
+        sequence-6:
+          s: 6
+          from: 00:00:32,14
+          to: 00:00:35,26
+          text: It was a remarkable air-drop.
+        sequence-7:
+          s: 7
+          from: 00:00:35,26
+          to: 00:00:41,05
+          text: Afterwards the comrades from Modena came to us saying they wanted
+            the weapons.
+        sequence-8:
+          s: 8
+          from: 00:00:41,05
+          to: 00:00:46,07
+          text: We shared the guns with them, since there were 130-140 machine guns.
+        sequence-9:
+          s: 9
+          from: 00:00:46,07
+          to: 00:00:52,27
+          text: We were only around forty or fifty and had more than we needed.
+        sequence-10:
+          s: 10
+          from: 00:00:52,27
+          to: 00:00:56,15
+          text: From that day, the air-drops continued.

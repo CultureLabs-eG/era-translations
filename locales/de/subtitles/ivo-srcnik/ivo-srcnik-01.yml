@@ -1,0 +1,81 @@
+---
+de:
+  ivo-srcnik:
+    chapter-1:
+      c: 1
+      title: Introduction, family, youth
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:00,27
+          to: 00:00:05,10
+          text: Well, I come from a tradesman’s family.
+        sequence-2:
+          s: 2
+          from: 00:00:05,10
+          to: 00:00:09,09
+          text: My father was a tradesman, a woodworker.
+        sequence-3:
+          s: 3
+          from: 00:00:09,09
+          to: 00:00:11,22
+          text: My mother was a cook.
+        sequence-4:
+          s: 4
+          from: 00:00:11,22
+          to: 00:00:22,04
+          text: My mother came from Styria and my father from Carniola. They both
+            met in Ljubljana.
+        sequence-5:
+          s: 5
+          from: 00:00:22,04
+          to: 00:00:32,21
+          text: I was born 19 April 1924 in Recica near Savinja.
+        sequence-6:
+          s: 6
+          from: 00:00:32,21
+          to: 00:00:43,24
+          text: Then we moved. As far as our residence is concerned, we moved from
+        sequence-7:
+          s: 7
+          from: 00:00:43,24
+          to: 00:00:53,20
+          text: Sentjanz, Radmirje, Menges, Luc and we ended up here in Kropa.
+        sequence-8:
+          s: 8
+          from: 00:00:53,20
+          to: 00:00:54,20
+          text: ''
+        sequence-9:
+          s: 9
+          from: 00:00:54,20
+          to: 00:01:12,02
+          text: On 10 July 1942, I was mobilized to the German Arbeitsdienst, the
+            German labor service.
+        sequence-10:
+          s: 10
+          from: 00:01:12,02
+          to: 00:01:21,23
+          text: I was mobilized into this service, which was a sort of  paramilitary
+            type.
+        sequence-11:
+          s: 11
+          from: 00:01:21,23
+          to: 00:01:22,23
+          text: ''
+        sequence-12:
+          s: 12
+          from: 00:01:22,23
+          to: 00:01:28,21
+          text: I was in the Arbeitsdienst for six months.
+        sequence-13:
+          s: 13
+          from: 00:01:28,21
+          to: 00:01:30,00
+          text: ''
+        sequence-14:
+          s: 14
+          from: 00:01:30,00
+          to: 00:01:42,16
+          text: Then I returned in December 1942. By the time I got home, the call-up
+            for the German army was already waiting for me.

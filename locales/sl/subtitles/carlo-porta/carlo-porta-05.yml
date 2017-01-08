@@ -1,0 +1,449 @@
+---
+sl:
+  carlo-porta:
+    chapter-5:
+      c: 5
+      title: Deportation to Germany
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:00,26
+          to: 00:00:05,13
+          text: When I got back home I went to work there,
+        sequence-2:
+          s: 2
+          from: 00:00:05,13
+          to: 00:00:13,14
+          text: "but within three months I was called up for the Army again, \nsince
+            I was in the military when I was arrested."
+        sequence-3:
+          s: 3
+          from: 00:00:13,14
+          to: 00:00:20,17
+          text: I did my training for a second time, in Bari, and then I was sent
+            to Albania.
+        sequence-4:
+          s: 4
+          from: 00:00:20,17
+          to: 00:00:22,02
+          text: ''
+        sequence-5:
+          s: 5
+          from: 00:00:22,02
+          to: 00:00:27,19
+          text: I did not want to go, so I went to speak to my lieutenant colonel.
+        sequence-6:
+          s: 6
+          from: 00:00:27,19
+          to: 00:00:38,24
+          text: "I explained to him how I knew that I was not entitled to use a weapon
+            anymore, \nsince I had lost all my rights by being arrested."
+        sequence-7:
+          s: 7
+          from: 00:00:38,24
+          to: 00:00:47,19
+          text: "He replied that he went to fight in Albania \nwith the Blackshirts
+            although he was in the Army,"
+        sequence-8:
+          s: 8
+          from: 00:00:47,19
+          to: 00:00:52,11
+          text: and that if he had to go, then I would definitely go too.
+        sequence-9:
+          s: 9
+          from: 00:00:52,11
+          to: 00:00:58,03
+          text: After I had been in Albania, in Durres, for four or five months,
+        sequence-10:
+          s: 10
+          from: 00:00:58,03
+          to: 00:01:07,24
+          text: "I received a letter from the Government stating that I immediately
+            \nhad to go back to Italy, since I was not supposed to be there."
+        sequence-11:
+          s: 11
+          from: 00:01:07,24
+          to: 00:01:16,15
+          text: "I was taken to the port and embarked on a ship \nwhose name was Disentine."
+        sequence-12:
+          s: 12
+          from: 00:01:16,15
+          to: 00:01:26,01
+          text: "We stayed there three days without setting sail, \napparently because
+            there were British u-boats."
+        sequence-13:
+          s: 13
+          from: 00:01:26,01
+          to: 00:01:34,22
+          text: "Then one evening, from the ship, we saw \nthat there were great celebrations
+            in Durres,"
+        sequence-14:
+          s: 14
+          from: 00:01:34,22
+          to: 00:01:40,12
+          text: people hugging all around, and we decided to get off.
+        sequence-15:
+          s: 15
+          from: 00:01:40,12
+          to: 00:01:48,10
+          text: It was the 8th of September, Badoglio had just declared the armistice.
+        sequence-16:
+          s: 16
+          from: 00:01:48,10
+          to: 00:01:53,10
+          text: ''
+        sequence-17:
+          s: 17
+          from: 00:01:53,10
+          to: 00:02:01,02
+          text: 'There were also fifty German soldiers in Durres:'
+        sequence-18:
+          s: 18
+          from: 00:02:01,02
+          to: 00:02:08,16
+          text: they took off their uniforms and celebrated with us,
+        sequence-19:
+          s: 19
+          from: 00:02:08,16
+          to: 00:02:14,00
+          text: and got dressed as Germans again only eight days later.
+        sequence-20:
+          s: 20
+          from: 00:02:14,00
+          to: 00:02:20,08
+          text: From that day, nobody was able to correspond with Rome.
+        sequence-21:
+          s: 21
+          from: 00:02:20,08
+          to: 00:02:31,09
+          text: "Even those in charge of the different services or of the orderly
+            room \ncould not speak to anyone in Rome: nobody would answer."
+        sequence-22:
+          s: 22
+          from: 00:02:31,09
+          to: 00:02:34,05
+          text: Maybe it was better this way.
+        sequence-23:
+          s: 23
+          from: 00:02:34,05
+          to: 00:02:42,24
+          text: "One day, our officers in charge, such as General Mondini, from Parma,
+            \nwho was the Commanding General of my division,"
+        sequence-24:
+          s: 24
+          from: 00:02:42,24
+          to: 00:02:48,02
+          text: pulled the troops together and deliberately lied to us.
+        sequence-25:
+          s: 25
+          from: 00:02:48,02
+          to: 00:02:53,20
+          text: I think they knew from the very start that what they were telling
+            us was a lie,
+        sequence-26:
+          s: 26
+          from: 00:02:53,20
+          to: 00:03:01,05
+          text: "but they told us that they had reached an agreement with the Germans:
+            \nthey would take us to Trieste,"
+        sequence-27:
+          s: 27
+          from: 00:03:01,05
+          to: 00:03:05,11
+          text: where we would all be able to go our own way.
+        sequence-28:
+          s: 28
+          from: 00:03:05,11
+          to: 00:03:14,14
+          text: "I was quite skeptical, but we all got on the train. \nThere were
+            forty-two of us on each railcar."
+        sequence-29:
+          s: 29
+          from: 00:03:14,14
+          to: 00:03:15,11
+          text: ''
+        sequence-30:
+          s: 30
+          from: 00:03:15,11
+          to: 00:03:20,18
+          text: "When we reached the border the Germans locked the railcars, \nallegedly
+            because of the Partisans."
+        sequence-31:
+          s: 31
+          from: 00:03:20,18
+          to: 00:03:21,12
+          text: ''
+        sequence-32:
+          s: 32
+          from: 00:03:21,12
+          to: 00:03:29,15
+          text: "Come morning, I had a small booklet with a map \nand it turned out
+            we were in Austria."
+        sequence-33:
+          s: 33
+          from: 00:03:29,15
+          to: 00:03:33,02
+          text: I told the others that it didn’t look good at all.
+        sequence-34:
+          s: 34
+          from: 00:03:33,02
+          to: 00:03:41,25
+          text: I ended up in Neubrandenburg, 200 km to the north of Berlin.
+        sequence-35:
+          s: 35
+          from: 00:03:41,25
+          to: 00:03:54,13
+          text: "I was grateful that three or four years ago I was able \nto visit
+            the camp I was imprisoned in sixty years before."
+        sequence-36:
+          s: 36
+          from: 00:03:54,13
+          to: 00:04:01,01
+          text: We stayed there for a while, under constant air raids.
+        sequence-37:
+          s: 37
+          from: 00:04:01,01
+          to: 00:04:09,13
+          text: The Germans who were in charge of the camp stayed in the first two
+            shacks,
+        sequence-38:
+          s: 38
+          from: 00:04:09,13
+          to: 00:04:18,20
+          text: "then there were two shacks of female prisoners – \nRussian women
+            who worked on the railroad tracks with smaller shovels –"
+        sequence-39:
+          s: 39
+          from: 00:04:18,20
+          to: 00:04:26,05
+          text: "then the French, and finally us. \nI don’t know how many thousands
+            prisoners were in the camp."
+        sequence-40:
+          s: 40
+          from: 00:04:26,05
+          to: 00:04:35,25
+          text: "I should not forget to say that, at that point, \nI was still accompanied
+            by two non-commissioned officers"
+        sequence-41:
+          s: 41
+          from: 00:04:35,25
+          to: 00:04:41,25
+          text: who had kept my documents since the day we had embarked to leave Albania.
+        sequence-42:
+          s: 42
+          from: 00:04:41,25
+          to: 00:04:50,15
+          text: "One of them was from Cosenza, the other from Catanzaro, \nand I think
+            they were supposed to go back to Italy on special leave."
+        sequence-43:
+          s: 43
+          from: 00:04:50,15
+          to: 00:04:52,03
+          text: ''
+        sequence-44:
+          s: 44
+          from: 00:04:52,03
+          to: 00:05:03,06
+          text: "When everything changed I was slightly worried: \nthe two were beginning
+            to need something to drink,"
+        sequence-45:
+          s: 45
+          from: 00:05:03,06
+          to: 00:05:12,17
+          text: and I was aware of how the Germans were not particularly fond of communists.
+        sequence-46:
+          s: 46
+          from: 00:05:12,17
+          to: 00:05:19,08
+          text: One night, the Germans needed thirty people and came over to our shack.
+        sequence-47:
+          s: 47
+          from: 00:05:19,08
+          to: 00:05:25,22
+          text: "The two officers had been entitled to bunk beds, \nso they were sleeping
+            in a corner of the shack."
+        sequence-48:
+          s: 48
+          from: 00:05:25,22
+          to: 00:05:37,08
+          text: "We slept on straw on the floor, and I managed \nto get into the group
+            that was leaving."
+        sequence-49:
+          s: 49
+          from: 00:05:37,08
+          to: 00:05:42,21
+          text: "I never knew anything about them afterwards, \nand maybe I shouldn’t
+            have done this,"
+        sequence-50:
+          s: 50
+          from: 00:05:42,21
+          to: 00:05:48,17
+          text: "but I was afraid they would hand my documents to a guard. \nThe guards
+            were brutal there."
+        sequence-51:
+          s: 51
+          from: 00:05:48,17
+          to: 00:05:54,23
+          text: They used to come inside in the morning, screaming the word “Aufstehn”,
+        sequence-52:
+          s: 52
+          from: 00:05:54,23
+          to: 00:06:02,15
+          text: "At first, we wondered what we were supposed to do – \nmaybe get some
+            coffee! –"
+        sequence-53:
+          s: 53
+          from: 00:06:02,15
+          to: 00:06:07,20
+          text: then four or five of them came inside and started acting rough.
+        sequence-54:
+          s: 54
+          from: 00:06:07,20
+          to: 00:06:13,19
+          text: "We immediately understood that we had to get up, \neven if we couldn’t
+            understand the word."
+        sequence-55:
+          s: 55
+          from: 00:06:13,19
+          to: 00:06:20,15
+          text: They were really mean there, so I left and went to this other camp,
+        sequence-56:
+          s: 56
+          from: 00:06:20,15
+          to: 00:06:27,02
+          text: by a large river that had just been bombed, where we started to work.
+        sequence-57:
+          s: 57
+          from: 00:06:27,02
+          to: 00:06:33,23
+          text: "I lost all contact with the two officers afterwards, \nsince that
+            place was basically a marshalling camp,"
+        sequence-58:
+          s: 58
+          from: 00:06:33,23
+          to: 00:06:42,10
+          text: where 100-200 prisoners arrived by train every day.
+        sequence-59:
+          s: 59
+          from: 00:06:42,10
+          to: 00:06:48,03
+          text: ''
+        sequence-60:
+          s: 60
+          from: 00:06:48,03
+          to: 00:06:52,05
+          text: I’ve been in four different German internment camps.
+        sequence-61:
+          s: 61
+          from: 00:06:52,05
+          to: 00:07:02,20
+          text: "The last one I was in, where we were finally set free, \nwas called
+            Wickede and was in Westfalia, near Dortmund."
+        sequence-62:
+          s: 62
+          from: 00:07:02,20
+          to: 00:07:04,14
+          text: ''
+        sequence-63:
+          s: 63
+          from: 00:07:04,14
+          to: 00:07:09,15
+          text: Normally people used to go to sleep immediately.
+        sequence-64:
+          s: 64
+          from: 00:07:09,15
+          to: 00:07:19,15
+          text: "The camp I’ve been in for the longest period was in Hagen, \nagain
+            in Westfalia, near Dortmund, which was a very big city."
+        sequence-65:
+          s: 65
+          from: 00:07:19,15
+          to: 00:07:32,00
+          text: In Wickede, I had to get up at 5 in the morning, walk 2 km to the
+            station,
+        sequence-66:
+          s: 66
+          from: 00:07:32,00
+          to: 00:07:38,07
+          text: travel by train for 70 km, then walk to the job I had,
+        sequence-67:
+          s: 67
+          from: 00:07:38,07
+          to: 00:07:44,02
+          text: and sometimes I would end up getting back at nine in the evening.
+        sequence-68:
+          s: 68
+          from: 00:07:44,02
+          to: 00:07:49,07
+          text: There were also nasty episodes, although not too often.
+        sequence-69:
+          s: 69
+          from: 00:07:49,07
+          to: 00:07:59,06
+          text: "They might come to check on us at, say, 10:30 at night, \nso we would
+            have to gather in the hallway."
+        sequence-70:
+          s: 70
+          from: 00:07:59,06
+          to: 00:08:10,03
+          text: "One of us was sleeping in the corner, another one was ill, \nand
+            they would send us all outside to do some exercise."
+        sequence-71:
+          s: 71
+          from: 00:08:10,03
+          to: 00:08:19,18
+          text: "We wore wooden shoes that could easily be lost \nwhile walking down
+            the three steps that led to each shack."
+        sequence-72:
+          s: 72
+          from: 00:08:19,18
+          to: 00:08:25,10
+          text: Then they would have us walk in circles for hours, sometimes under
+            the rain.
+        sequence-73:
+          s: 73
+          from: 00:08:25,10
+          to: 00:08:31,03
+          text: Episodes of this kind were not too frequent, but definitely happened.
+        sequence-74:
+          s: 74
+          from: 00:08:31,03
+          to: 00:08:32,20
+          text: ''
+        sequence-75:
+          s: 75
+          from: 00:08:32,20
+          to: 00:08:39,25
+          text: "I was arrested, or, I should rather say, \nwe were loaded on their
+            trains on the 16th of September,"
+        sequence-76:
+          s: 76
+          from: 00:08:39,25
+          to: 00:08:44,17
+          text: and made it home only two years later, on the 14th of September.
+        sequence-77:
+          s: 77
+          from: 00:08:44,17
+          to: 00:08:52,05
+          text: We were near the Ruhr area, where most armament factories were located,
+        sequence-78:
+          s: 78
+          from: 00:08:52,05
+          to: 00:09:04,20
+          text: "including the tank factories that the Americans used to attack with
+            special bombs, \nin order to breach them."
+        sequence-79:
+          s: 79
+          from: 00:09:04,20
+          to: 00:09:09,17
+          text: We were bombarded every night, so I didn’t even think of running away,
+        sequence-80:
+          s: 80
+          from: 00:09:09,17
+          to: 00:09:14,24
+          text: because it would have meant running under these same bombs.
+        sequence-81:
+          s: 81
+          from: 00:09:14,24
+          to: 00:09:17,03
+          text: That’s what we went through.

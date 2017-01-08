@@ -1,0 +1,44 @@
+---
+it:
+  anita-malavasi:
+    chapter-12:
+      c: 12
+      title: Reflecting history
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:00,17
+          to: 00:00:03,04
+          text: I care about these stories.
+        sequence-2:
+          s: 2
+          from: 00:00:03,04
+          to: 00:00:04,10
+          text: ''
+        sequence-3:
+          s: 3
+          from: 00:00:04,10
+          to: 00:00:07,01
+          text: Not so much for myself.
+        sequence-4:
+          s: 4
+          from: 00:00:07,01
+          to: 00:00:15,11
+          text: Rather for the benefit they convey to those who listen and want to
+            think about them.
+        sequence-5:
+          s: 5
+          from: 00:00:15,11
+          to: 00:00:18,04
+          text: It was real life.
+        sequence-6:
+          s: 6
+          from: 00:00:18,04
+          to: 00:00:26,08
+          text: I’m not exaggerating things, even those episodes that are quite sensational.
+        sequence-7:
+          s: 7
+          from: 00:00:26,08
+          to: 00:00:35,06
+          text: I rather focus on reflecting on them. It’s all about the 20th century,
+            about the way we lived through it.

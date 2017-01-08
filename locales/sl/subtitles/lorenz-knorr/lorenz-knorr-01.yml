@@ -1,0 +1,280 @@
+---
+sl:
+  lorenz-knorr:
+    chapter-1:
+      c: 1
+      title: Presentation, Introduction
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:00,15
+          to: 00:00:04,04
+          text: My name is Lorenz Knorr;
+        sequence-2:
+          s: 2
+          from: 00:00:04,04
+          to: 00:00:15,26
+          text: born in 1921 and grown up in Eger, now Cheb, in the German populated
+            areas of Czechoslovakia.
+        sequence-3:
+          s: 3
+          from: 00:00:15,26
+          to: 00:00:16,23
+          text: ''
+        sequence-4:
+          s: 4
+          from: 00:00:16,23
+          to: 00:00:20,11
+          text: I am a trained typesetter and typographer.
+        sequence-5:
+          s: 5
+          from: 00:00:20,11
+          to: 00:00:21,08
+          text: ''
+        sequence-6:
+          s: 6
+          from: 00:00:21,08
+          to: 00:00:28,04
+          text: After 1945 I was active in the socialistic youth as a state and federation
+            secretary.
+        sequence-7:
+          s: 7
+          from: 00:00:28,04
+          to: 00:00:29,20
+          text: ''
+        sequence-8:
+          s: 8
+          from: 00:00:29,20
+          to: 00:00:33,19
+          text: For 25 years I was the head of the German Union of Peace
+        sequence-9:
+          s: 9
+          from: 00:00:33,19
+          to: 00:00:39,27
+          text: and then federation spokesman for the Association of the victims of
+            persecution by the Nazi regime.
+        sequence-10:
+          s: 10
+          from: 00:00:39,27
+          to: 00:00:42,18
+          text: ''
+        sequence-11:
+          s: 11
+          from: 00:00:42,18
+          to: 00:00:53,06
+          text: If you grew up in a family of a labour union official, in the German
+            populated areas of Czechoslovakia
+        sequence-12:
+          s: 12
+          from: 00:00:53,06
+          to: 00:00:54,20
+          text: ''
+        sequence-13:
+          s: 13
+          from: 00:00:54,20
+          to: 00:00:59,01
+          text: during the twenties and thirties, of the last century,
+        sequence-14:
+          s: 14
+          from: 00:00:59,01
+          to: 00:01:00,01
+          text: ''
+        sequence-15:
+          s: 15
+          from: 00:01:00,01
+          to: 00:01:09,02
+          text: you encountered the political problems and the political fights from
+            early childhood.
+        sequence-16:
+          s: 16
+          from: 00:01:09,02
+          to: 00:01:10,16
+          text: ''
+        sequence-17:
+          s: 17
+          from: 00:01:10,16
+          to: 00:01:16,18
+          text: In Eger my father was the most popular strike-leader before the First
+            World War
+        sequence-18:
+          s: 18
+          from: 00:01:16,18
+          to: 00:01:17,20
+          text: ''
+        sequence-19:
+          s: 19
+          from: 00:01:17,20
+          to: 00:01:24,24
+          text: and afterwards he was, although not fit for work,
+        sequence-20:
+          s: 20
+          from: 00:01:24,24
+          to: 00:01:31,03
+          text: still speaker at demonstrations and meetings of the union.
+        sequence-21:
+          s: 21
+          from: 00:01:31,03
+          to: 00:01:40,05
+          text: As his son, I obviously experienced this first hand, because my parents
+            often took me with them to political activities;
+        sequence-22:
+          s: 22
+          from: 00:01:40,05
+          to: 00:01:47,20
+          text: especially on the 1st May or on other red-letter days of the labour
+            movement.
+        sequence-23:
+          s: 23
+          from: 00:01:47,20
+          to: 00:01:49,05
+          text: ''
+        sequence-24:
+          s: 24
+          from: 00:01:49,05
+          to: 00:01:57,12
+          text: 'The moulding and forming impressions were: 1. the year 1933,'
+        sequence-25:
+          s: 25
+          from: 00:01:57,12
+          to: 00:02:06,06
+          text: when the German corpus and the German General staff shifted the power
+            towards the Nazi leading clique
+        sequence-26:
+          s: 26
+          from: 00:02:06,06
+          to: 00:02:10,13
+          text: 'and: 2. the year 1934, in Austria,'
+        sequence-27:
+          s: 27
+          from: 00:02:10,13
+          to: 00:02:17,29
+          text: when the latter gave power to the cleric-fascists who broke up the
+            labour movement.
+        sequence-28:
+          s: 28
+          from: 00:02:17,29
+          to: 00:02:19,03
+          text: ''
+        sequence-29:
+          s: 29
+          from: 00:02:19,03
+          to: 00:02:32,11
+          text: According to our understanding the development of mankind goes from
+            lower forms to increasing forms of living together,
+        sequence-30:
+          s: 30
+          from: 00:02:32,11
+          to: 00:02:33,16
+          text: ''
+        sequence-31:
+          s: 31
+          from: 00:02:33,16
+          to: 00:02:36,25
+          text: therefore that was obviously a heavy setback.
+        sequence-32:
+          s: 32
+          from: 00:02:36,25
+          to: 00:02:45,07
+          text: The German labour movement was the strongest and ideologically most
+            consolidated one in the ‘1st Internationale’,
+        sequence-33:
+          s: 33
+          from: 00:02:45,07
+          to: 00:02:46,03
+          text: ''
+        sequence-34:
+          s: 34
+          from: 00:02:46,03
+          to: 00:02:50,08
+          text: and you could say the same about the Austrian labour movement.
+        sequence-35:
+          s: 35
+          from: 00:02:50,08
+          to: 00:02:51,20
+          text: ''
+        sequence-36:
+          s: 36
+          from: 00:02:51,20
+          to: 00:02:59,04
+          text: We learned not only of the dirty fortunes of antifascists through
+            the immigrants,
+        sequence-37:
+          s: 37
+          from: 00:02:59,04
+          to: 00:03:10,15
+          text: but also experienced the international effects of what happened to
+            the setback of civilization in 1933.
+        sequence-38:
+          s: 38
+          from: 00:03:10,15
+          to: 00:03:11,27
+          text: ''
+        sequence-39:
+          s: 39
+          from: 00:03:11,27
+          to: 00:03:22,08
+          text: Up to this time in Czechoslovakia the focus of the German, as well
+            as the Czechoslovakian labour parties,
+        sequence-40:
+          s: 40
+          from: 00:03:22,08
+          to: 00:03:23,10
+          text: ''
+        sequence-41:
+          s: 41
+          from: 00:03:23,10
+          to: 00:03:33,25
+          text: was on the class struggle, which meant the fight for better material
+            and cultural living conditions.
+        sequence-42:
+          s: 42
+          from: 00:03:33,25
+          to: 00:03:34,19
+          text: ''
+        sequence-43:
+          s: 43
+          from: 00:03:34,19
+          to: 00:03:42,28
+          text: In 1933 this obviously didn’t stop, but the more the Nazis,
+        sequence-44:
+          s: 44
+          from: 00:03:42,28
+          to: 00:03:48,16
+          text: the Hitler supporters in the German areas of Czechoslovakia developed,
+        sequence-45:
+          s: 45
+          from: 00:03:48,16
+          to: 00:03:53,23
+          text: the more it amounted to a new political front status.
+        sequence-46:
+          s: 46
+          from: 00:03:53,23
+          to: 00:03:54,20
+          text: ''
+        sequence-47:
+          s: 47
+          from: 00:03:54,20
+          to: 00:04:04,02
+          text: On one side, supporters of Hitler in the German areas of Czechoslovakia,
+            who increasingly became more aggressive
+        sequence-48:
+          s: 48
+          from: 00:04:04,02
+          to: 00:04:08,29
+          text: and on the other side the German and Czech antifascists.
+        sequence-49:
+          s: 49
+          from: 00:04:08,29
+          to: 00:04:13,07
+          text: So it was not really the way it is now being claimed quite often,
+        sequence-50:
+          s: 50
+          from: 00:04:13,07
+          to: 00:04:16,13
+          text: that the Germans stood side by side with the Czechs.
+        sequence-51:
+          s: 51
+          from: 00:04:16,13
+          to: 00:04:27,03
+          text: A nationalistic perspective is a belated attempt to distract from
+            the real problems we had at that time.

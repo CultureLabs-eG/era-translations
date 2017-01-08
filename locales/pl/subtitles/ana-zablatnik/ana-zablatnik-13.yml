@@ -1,0 +1,43 @@
+---
+pl:
+  ana-zablatnik:
+    chapter-13:
+      c: 13
+      title: Conclusion
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:01,09
+          to: 00:00:11,15
+          text: I don’t know whether today’s youth can imagine this situation.
+        sequence-2:
+          s: 2
+          from: 00:00:11,15
+          to: 00:00:21,22
+          text: The war had been going on for five years already, more and more were
+            killed, it got worse.
+        sequence-3:
+          s: 3
+          from: 00:00:21,22
+          to: 00:00:23,09
+          text: ''
+        sequence-4:
+          s: 4
+          from: 00:00:23,09
+          to: 00:00:25,29
+          text: There was no real future for us.
+        sequence-5:
+          s: 5
+          from: 00:00:25,29
+          to: 00:00:27,14
+          text: ''
+        sequence-6:
+          s: 6
+          from: 00:00:27,14
+          to: 00:00:36,19
+          text: But that made you stronger to go into the resistance
+        sequence-7:
+          s: 7
+          from: 00:00:36,19
+          to: 00:00:40,10
+          text: and help wherever you could.

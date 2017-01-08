@@ -1,0 +1,39 @@
+---
+pl:
+  pierino-beggi:
+    chapter-10:
+      c: 10
+      title: Using a bazooka
+      subtitles:
+        sequence-1:
+          s: 1
+          from: 00:00:00,25
+          to: 00:00:07,11
+          text: We also tried to use the bazooka. It was something new for us.
+        sequence-2:
+          s: 2
+          from: 00:00:07,11
+          to: 00:00:13,17
+          text: But Fiorello was a genius regarding these matters. He looked at it
+            and examined it,
+        sequence-3:
+          s: 3
+          from: 00:00:13,17
+          to: 00:00:18,14
+          text: and one day he told us he wanted to try it on the road to Cavriago.
+        sequence-4:
+          s: 4
+          from: 00:00:18,14
+          to: 00:00:25,03
+          text: I bent down and he put the bazooka on my shoulder to manoeuvre it.
+        sequence-5:
+          s: 5
+          from: 00:00:25,03
+          to: 00:00:30,06
+          text: He fired as a truck went by. That was 6 kg of explosive. The truck
+            went off the road…
+        sequence-6:
+          s: 6
+          from: 00:00:30,06
+          to: 00:00:33,14
+          text: That was also part of our struggle…

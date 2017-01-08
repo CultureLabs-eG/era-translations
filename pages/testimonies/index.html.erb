@@ -1,0 +1,23 @@
+---
+title: Testimonies - Overview
+layout: grid
+---
+
+<% data.witnesses.each_pair do |id, witness| %>
+  <a href="/<%= locale %>/testimonies/<%= id %>/" class="testimony">
+    <h2>
+      <% concat witness['firstname'] %> <br/>
+      <% concat witness['lastname'] %>
+    </h2>
+    <% concat image_tag "/images/witnesses/portrait-#{id}.jpg" %>
+    <div class="quote">
+      <span><% concat t("#{id}.quote") %></span>
+    </div>
+    <div class="facts">
+      <% concat t('resistance') %> <%= period_of_engagement(id) %>, in
+      <% concat places_of_resistance_formated(id).uniq.join(', ') %> <br />
+      <% concat kinds_of_resistance(id).uniq.join(', ') %> <br />
+      <% concat I18n.l(Date.parse(data.interviews[id]['date_of_interview'])) %>
+    </div>
+  </a>
+<% end %>
