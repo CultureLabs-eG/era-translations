@@ -1,6 +1,8 @@
 # ERA-translations
 Translations for the [European Resistance Archive (ERA) project](http://www.resistance-archive.org)
 
+![ERA Logo](.images/era-logo.png)
+
 ## What is ERA?
 
 > ERA is a space in which individual stories of people having resisted against the terror, humiliation and despair fascism brought over Europe are kept alive and visible for everybody.
