@@ -1,7 +1,6 @@
-# ERA-translations
-Translations for the [European Resistance Archive (ERA) project](http://www.resistance-archive.org)
-
 ![ERA Logo](.images/era-logo.png)
+
+**Translations** for the [European Resistance Archive (ERA) project](http://www.resistance-archive.org)
 
 ## What is ERA?
 
@@ -13,7 +12,7 @@ The initial version of ERA was launched in 2007. [Several groups and organizatio
 
 ## What Languages?
 
-The language of the interviews is always the witness’ mother language, which compiles to the following list of „ERA“ languages:
+The language of the interviews is always the witness’ mother language, which compiles to the following list of „ERA languages“:
 
 	- French
 	- German
