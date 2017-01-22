@@ -20,11 +20,11 @@ The language of the interviews is always the witness’ mother language, which c
 	- Polish
 	- Slovenian
 
-In oder to make the content as accessible as possible for a wider audience, all ERA interviews had been transcribed and translated in to English. 
+In oder to make the content as accessible as possible for a wider audience, all ERA interviews had been transcribed and translated in to English.
 
 ## What is this repository?
 
-Due to the tight project budget, it was not possible to translate the contents into all „ERA languages“. 
+Due to the tight project budget, it was not possible to translate the contents into all „ERA languages“.
 
 With the release of a technologically updated version of ERA in 2016 the idea to [crowd-source](https://en.wikipedia.org/wiki/Crowdsourcing) the missing translations came up.
 
@@ -38,4 +38,4 @@ This repository on [Github](https://en.wikipedia.org/wiki/GitHub) is the central
 
 **Perfect!**
 
-Please check out the „How to get started“ section in the Wiki.
+👉 Please check out the [project Wiki](https://github.com/CultureLabs-eG/era-translations/wiki) and especially the [How to get started](https://github.com/CultureLabs-eG/era-translations/wiki/Get-Started) section.
