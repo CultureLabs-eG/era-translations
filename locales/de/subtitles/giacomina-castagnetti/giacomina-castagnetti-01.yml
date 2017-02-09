@@ -3,40 +3,41 @@ de:
   giacomina-castagnetti:
     chapter-1:
       c: 1
-      title: Family, social and political context
+      title: Familie, sozialer und politischer Kontext
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:00,18
           to: 00:00:03,11
-          text: My name is Giacomina Castagnetti.
+          text: Mein Name ist Giacomina Castagnetti.
         sequence-2:
           s: 2
           from: 00:00:03,11
           to: 00:00:08,13
-          text: I always accept when I’m asked to talk about my life.
+          text: Ich akzeptiere es immer, wenn mich jemand nach meiner
+            Lebensgeschichte fragt.
         sequence-3:
           s: 3
           from: 00:00:08,13
           to: 00:00:19,20
-          text: Not because I think it's very important, or interesting, or even unique,
-            but because I’ve lived
+          text: Nicht weil ich denke sie sei sehr wichtig, interessant,
+            oder einzigartig, sonder weil ich
         sequence-4:
           s: 4
           from: 00:00:19,20
           to: 00:00:25,08
-          text: through the darkest times of Italy’s history.
+          text: die dunkelsten Zeit italienischer Geschichte miterlebt habe,
         sequence-5:
           s: 5
           from: 00:00:25,08
           to: 00:00:26,17
-          text: ''
+          text: das faschistische Regim und den Zweiten Weltkrieg.
         sequence-6:
           s: 6
           from: 00:00:26,17
           to: 00:00:37,02
-          text: I was born in 1925, in Roncolo di Quattro Castella, in a large family
-            of sharecroppers.
+          text: Ich bin aus Roncolo di Quattro Castella, aus einer großen
+            Familie von Pachtbauern. Ich bin Jahrgang 1925.
         sequence-7:
           s: 7
           from: 00:00:37,02
@@ -46,14 +47,13 @@ de:
           s: 8
           from: 00:00:44,07
           to: 00:00:58,15
-          text: I was the youngest in the family, coming after six brothers and a
-            sister.
+          text: Ich war das jüngste Kind der Familie, nach sechs Brüdern und einer Schwester.
         sequence-9:
           s: 9
           from: 00:00:58,15
           to: 00:01:07,00
-          text: I was born three months after my father died. My mother was left a
-            widow with eight children.
+          text: Ich bin geboren drei Monate nach dem mein Vater starb.
+            Meine Mutter war eine Witwe mit acht Kindern.
         sequence-10:
           s: 10
           from: 00:01:07,00
@@ -63,7 +63,7 @@ de:
           s: 11
           from: 00:01:08,02
           to: 00:01:14,11
-          text: We have always been a very close-knit family.
+          text: Wir waren immer eine sehr eng verbundene Familie.
         sequence-12:
           s: 12
           from: 00:01:14,11
@@ -73,30 +73,30 @@ de:
           s: 13
           from: 00:01:15,16
           to: 00:01:21,29
-          text: As a woman, the law didn’t allow my mother to be the head of the family.
+          text: Das Gesetz erlaubte es meiner Mutter als Frau nicht, Familienvorstand zu sein.
         sequence-14:
           s: 14
           from: 00:01:21,29
           to: 00:01:26,13
-          text: So she couldn’t hold parental authority over the children.
+          text: Daher konnte sie keine elterliche Gewalt über die Kinder erhalten.
         sequence-15:
           s: 15
           from: 00:01:26,13
           to: 00:01:36,22
-          text: The court appointed a guardian who had to keep control over a poor
-            sharecropping family like ours.
+          text: Das Gericht hat einen Vormund bestimmt der die Kontrolle
+            über unsere arme Familie von Pachtbauern erhielt.
         sequence-16:
           s: 16
           from: 00:01:36,22
           to: 00:01:45,02
-          text: He came to our home to count how many forks and spoons we had, the
-            furniture and everything else.
+          text: Er kam in unser Haus um die Gabeln und Messer zu zählen,
+            die Möbel und alles andere.
         sequence-17:
           s: 17
           from: 00:01:45,02
           to: 00:01:52,10
-          text: He was to make sure that this fortune remained untouched for us children
-            until we came of age.
+          text: Er sollte sicherstellen, dass dieses Vermögen unberührt
+            bleibe bis wir Kinder volljährig waren.
         sequence-18:
           s: 18
           from: 00:01:52,10
@@ -106,71 +106,70 @@ de:
           s: 19
           from: 00:01:52,27
           to: 00:01:56,22
-          text: I started going to school in Roncolo.
+          text: Ich ging zur Schule in Roncolo.
         sequence-20:
           s: 20
           from: 00:01:56,22
           to: 00:01:58,22
-          text: ''
+          text: Da sich die Schule in einer landwirtschaftlichen Gegend befand
         sequence-21:
           s: 21
           from: 00:01:58,22
           to: 00:02:08,16
-          text: It only offered courses up to the third grade.
+          text: ging sie nur bis zur dritten Klasse.
         sequence-22:
           s: 22
           from: 00:02:08,16
           to: 00:02:21,23
-          text: I began to attend school with clogs on my feet, a cloth sack, two
-            notebooks -
+          text: Ich ging auf Holzschuhen zur Schule, mit einem Beutel, zwei
+            Notizbüchern -
         sequence-23:
           s: 23
           from: 00:02:21,23
           to: 00:02:30,27
-          text: one ruled and one squared – and a spelling-book
+          text: das eine liniert, das andere kariert – und einer Fibel
         sequence-24:
           s: 24
           from: 00:02:30,27
           to: 00:02:41,11
-          text: which had been passed on by all my brothers before I got it.
+          text: die von all meinen Brüdern weitergereicht wurde bevor ich sie kriegte.
         sequence-25:
           s: 25
           from: 00:02:41,11
           to: 00:02:51,17
-          text: 'At school there was a large banner that had been badly painted, that
-            said:'
+          text: 'In der Schule gab es ein großes Banner das schlecht gemalt war und sagte:'
         sequence-26:
           s: 26
           from: 00:02:51,17
           to: 00:02:54,17
-          text: "“The Duce is always right”."
+          text: "“Der Duce hat immer recht”."
         sequence-27:
           s: 27
           from: 00:02:54,17
           to: 00:03:04,01
-          text: 'Everything was made so that people believed in these things:'
+          text: 'Alles war so organisiert damit Leute an diese Sachen glaubten:'
         sequence-28:
           s: 28
           from: 00:03:04,01
           to: 00:03:13,06
-          text: that the Duce was not to be opposed and that he was always right in
-            what he said.
+          text: dass dem Duce nichts entgegenzusetzen ist und dass er recht hatte in
+            dem was er sagte.
         sequence-29:
           s: 29
           from: 00:03:13,06
           to: 00:03:24,10
-          text: 'In the morning we were given cod-liver oil: half a spoon to the girls,
-            a full spoon to the boys.'
+          text: 'Morgens kriegten wir Lebertran: einen halben Löffel für die Mädchen,
+            einen ganzen für die Jungs.'
         sequence-30:
           s: 30
           from: 00:03:24,10
           to: 00:03:31,05
-          text: This wasn’t a problem at all, since the oil was nasty and rancid,
+          text: Das war kein Problem, weil das Öl ekelig und widerlich war,
         sequence-31:
           s: 31
           from: 00:03:31,05
           to: 00:03:40,18
-          text: but it was already a sign of the discrimination existing towards women.
+          text: aber es war schon das erste Zeichen der Diskriminierung von Frauen.
         sequence-32:
           s: 32
           from: 00:03:40,18
