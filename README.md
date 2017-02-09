@@ -32,7 +32,7 @@ This repository on [Github](https://en.wikipedia.org/wiki/GitHub) is the central
 
 ## What about you?
 
-**You speak French, German, Italian, Polish, Slovenian or English?“**
+**You speak French, German, Italian, Polish, Slovenian or English?**
 
 **You want to help us with the translations?**
 
