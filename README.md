@@ -1,4 +1,4 @@
-![ERA Logo](.images/era-logo.png)
+![ERA Logo](https://github.com/CultureLabs-eG/era-translations/wiki/images/era-logo.png)
 
 **Translations** for the [European Resistance Archive (ERA) project](http://www.resistance-archive.org)
 
