@@ -26,12 +26,12 @@ de:
           s: 4
           from: 00:00:19,20
           to: 00:00:25,08
-          text: die dunkelsten Zeit italienischer Geschichte miterlebt habe,
+          text: die dunkelste Zeit der italienischen Geschichte miterlebt habe,
         sequence-5:
           s: 5
           from: 00:00:25,08
           to: 00:00:26,17
-          text: das faschistische Regim und den Zweiten Weltkrieg.
+          text: das faschistische Regime und den Zweiten Weltkrieg.
         sequence-6:
           s: 6
           from: 00:00:26,17
@@ -52,7 +52,7 @@ de:
           s: 9
           from: 00:00:58,15
           to: 00:01:07,00
-          text: Ich bin geboren drei Monate nach dem mein Vater starb.
+          text: Ich bin drei Monate nach dem Tod meines Vaters geboren.
             Meine Mutter war eine Witwe mit acht Kindern.
         sequence-10:
           s: 10
@@ -78,13 +78,13 @@ de:
           s: 14
           from: 00:01:21,29
           to: 00:01:26,13
-          text: Daher konnte sie keine elterliche Gewalt über die Kinder erhalten.
+          text: Deshalb bekam sie auch nicht das Sorgerecht für die Kinder.
         sequence-15:
           s: 15
           from: 00:01:26,13
           to: 00:01:36,22
-          text: Das Gericht hat einen Vormund bestimmt der die Kontrolle
-            über unsere arme Familie von Pachtbauern erhielt.
+          text: Das Gericht bestimmte einen Vormund, der eine ärmliche Bauernfamilie
+            wie die unsere kontrollieren sollte.
         sequence-16:
           s: 16
           from: 00:01:36,22
@@ -106,12 +106,12 @@ de:
           s: 19
           from: 00:01:52,27
           to: 00:01:56,22
-          text: Ich ging zur Schule in Roncolo.
+          text: Ich ging in Roncolo zur Schule.
         sequence-20:
           s: 20
           from: 00:01:56,22
           to: 00:01:58,22
-          text: Da sich die Schule in einer landwirtschaftlichen Gegend befand
+          text: Da sich die Schule in einer ländlichen Gegend befand
         sequence-21:
           s: 21
           from: 00:01:58,22
@@ -122,7 +122,7 @@ de:
           from: 00:02:08,16
           to: 00:02:21,23
           text: Ich ging auf Holzschuhen zur Schule, mit einem Beutel, zwei
-            Notizbüchern -
+            Schulheften -
         sequence-23:
           s: 23
           from: 00:02:21,23
@@ -132,12 +132,13 @@ de:
           s: 24
           from: 00:02:30,27
           to: 00:02:41,11
-          text: die von all meinen Brüdern weitergereicht wurde bevor ich sie kriegte.
+          text: die alle meine Brüder schon benutzt hatten, bevor ich sie kriegte.
         sequence-25:
           s: 25
           from: 00:02:41,11
           to: 00:02:51,17
-          text: 'In der Schule gab es ein großes Banner das schlecht gemalt war und sagte:'
+          text: 'In der Schule gab es ein großes Banner das schlecht gemalt war und
+            auf dem stand:'
         sequence-26:
           s: 26
           from: 00:02:51,17
@@ -152,24 +153,23 @@ de:
           s: 28
           from: 00:03:04,01
           to: 00:03:13,06
-          text: dass dem Duce nichts entgegenzusetzen ist und dass er recht hatte in
-            dem was er sagte.
+          text: dass dem Duce nichts entgegenzusetzen sei und er Recht habe in dem, was er sage.
         sequence-29:
           s: 29
           from: 00:03:13,06
           to: 00:03:24,10
-          text: 'Morgens kriegten wir Lebertran: einen halben Löffel für die Mädchen,
+          text: 'Morgens kriegten wir Lebertran: einen halben Teelöffel für die Mädchen,
             einen ganzen für die Jungs.'
         sequence-30:
           s: 30
           from: 00:03:24,10
           to: 00:03:31,05
-          text: Das war kein Problem, weil das Öl ekelig und widerlich war,
+          text: Das war nicht schlimm, weil das Öl eklig und ranzig schmeckte.
         sequence-31:
           s: 31
           from: 00:03:31,05
           to: 00:03:40,18
-          text: aber es war schon das erste Zeichen der Diskriminierung von Frauen.
+          text: Aber es war schon das erste Zeichen der Diskriminierung von Frauen.
         sequence-32:
           s: 32
           from: 00:03:40,18
