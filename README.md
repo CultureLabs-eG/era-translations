@@ -1,4 +1,4 @@
-![ERA Logo](.images/era-logo.png)
+![ERA Logo](https://github.com/CultureLabs-eG/era-translations/wiki/images/era-logo.png)
 
 **Translations** for the [European Resistance Archive (ERA) project](http://www.resistance-archive.org)
 
@@ -32,7 +32,7 @@ This repository on [Github](https://en.wikipedia.org/wiki/GitHub) is the central
 
 ## What about you?
 
-**You speak French, German, Italian, Polish, Slovenian or English?“**
+**You speak French, German, Italian, Polish, Slovenian or English?**
 
 **You want to help us with the translations?**
 
