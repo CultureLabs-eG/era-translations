@@ -3,24 +3,24 @@ de:
   vincent-pascucci:
     chapter-1:
       c: 1
-      title: 'Introduction: family, school, work'
+      title: 'Vorstellung: Familie, Schule, Arbeit'
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:01,03
           to: 00:00:05,24
-          text: My name is Pascucci.
+          text: Mein Name ist Pascucci.
         sequence-2:
           s: 2
           from: 00:00:05,24
           to: 00:00:09,24
-          text: I am of Italian origin.
+          text: Ich habe italienische Wurzeln.
         sequence-3:
           s: 3
           from: 00:00:09,24
           to: 00:00:18,20
-          text: I was born in Italy, in the region of Pesaro, at Sant’Angelo in l’Isola
-            to be exact.
+          text: Ich bin in Italien geboren, in der Gegend von Pesaro, in Sant’Angelo in Lizzola
+            um genau zu sein.
         sequence-4:
           s: 4
           from: 00:00:18,20
