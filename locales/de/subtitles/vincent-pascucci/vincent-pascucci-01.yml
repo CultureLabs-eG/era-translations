@@ -40,7 +40,7 @@ de:
           s: 7
           from: 00:00:29,25
           to: 00:00:37,24
-          text: Meine Eltern kamen nach Frankreich; im Rahmen von Verträgen über die Arbeiterschaft,
+          text: Meine Eltern kamen im Rahmen von Verträgen über die Arbeiterschaft nach Frankreich,
         sequence-8:
           s: 8
           from: 00:00:37,24
@@ -65,12 +65,12 @@ de:
           s: 12
           from: 00:01:01,20
           to: 00:01:10,04
-          text: Das genaue Datum der Auswanderung meines Vaters weiß ich nicht,
+          text: Ich weiß nicht, wann genau mein Vater ausgewandert ist,
         sequence-13:
           s: 13
           from: 00:01:10,04
           to: 00:01:19,20
-          text: aber es war zwischen 1921 und 1922, denn ich wurde 1923 geboren.
+          text: aber diese Migration fand zwischen 1921 und 1922 statt, denn ich bin 1923 geboren.
         sequence-14:
           s: 14
           from: 00:01:19,20
