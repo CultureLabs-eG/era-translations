@@ -24,7 +24,7 @@ de:
           s: 4
           from: 00:00:12,20
           to: 00:00:15,22
-          text: in Montecavolo di Quattro Castella,
+          text: in Montecavolo di Quattro Castella
         sequence-5:
           s: 5
           from: 00:00:15,22
@@ -34,7 +34,7 @@ de:
           s: 6
           from: 00:00:17,15
           to: 00:00:22,01
-          text: in dem kleinen Dorf Scampate, geboren.
+          text: in dem kleinen Dorf Scampate geboren.
         sequence-7:
           s: 7
           from: 00:00:22,01
@@ -117,7 +117,7 @@ de:
           s: 22
           from: 00:01:43,00
           to: 00:01:52,15
-          text: Und mein Vater versuchte, es mir zu erklären, so gut er konnte –
+          text: Mein Vater versuchte, es mir zu erklären, so gut er konnte –
            schließlich war ich noch ein kleines Mädchen.
         sequence-23:
           s: 23
@@ -150,16 +150,16 @@ de:
           s: 28
           from: 00:02:26,26
           to: 00:02:34,02
-          text: Ich war zehn damals.
+          text: Ich war damals zehn.
         sequence-29:
           s: 29
           from: 00:02:34,02
           to: 00:02:44,00
-          text: 1933, als sie begannen, viele Leute zu verhaften (sie hatten
-            auch schon davor Leute verhaftetet und verprügelt),
+          text: 1933, als sie begannen viele Leute zu verhaften – sie hatten
+            auch schon davor Leute verhaftetet und verprügelt –
         sequence-30:
           s: 30
           from: 00:02:44,00
           to: 00:02:57,20
-          text: wurde mir die Situation bewusst, und einige unserer Nachbarn
-            wurden in diesem Jahr verhaftet. 
+          text: wurde mir die Situation bewusst und einige unserer Nachbarn
+            wurden in diesem Jahr verhaftet.
