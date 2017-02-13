@@ -60,12 +60,12 @@ de:
           s: 11
           from: 00:00:52,12
           to: 00:01:01,20
-          text: Verhaftungen zu entkommen und Italien auf legalem Wege zu verlassen.
+          text: der Verhaftung zu entkommen und Italien auf legalem Wege zu verlassen.
         sequence-12:
           s: 12
           from: 00:01:01,20
           to: 00:01:10,04
-          text: Das genaue Datum der Emigration meines Vaters weiß ich nicht,
+          text: Das genaue Datum der Auswanderung meines Vaters weiß ich nicht,
         sequence-13:
           s: 13
           from: 00:01:10,04
@@ -80,7 +80,7 @@ de:
           s: 15
           from: 00:01:21,11
           to: 00:01:29,20
-          text: Als ich sechs Monate alt war, kamen meine Mutter und ich zu meinem Vater nach Frankreich.
+          text: Als ich sechs Monate alt war, zogen meine Mutter und ich zu meinem Vater nach Frankreich.
         sequence-16:
           s: 16
           from: 00:01:29,20
@@ -105,7 +105,7 @@ de:
           s: 20
           from: 00:01:47,03
           to: 00:01:57,14
-          text: Er trat der Kommunistischen Partei Frankreichs bei, so bald er die französische Staatsbürgerschaft erhielt.
+          text: Er trat der Kommunistischen Partei Frankreichs bei, sobald er die französische Staatsbürgerschaft erhielt.
         sequence-21:
           s: 21
           from: 00:01:57,14
@@ -201,7 +201,7 @@ de:
           s: 39
           from: 00:04:08,20
           to: 00:04:14,19
-          text: Da ich keine Ausbildung hatte, tat ich ein bisschen von allem.
+          text: Da ich keine Ausbildung hatte, tat ich ein bisschen was von allem.
         sequence-40:
           s: 40
           from: 00:04:14,19
@@ -216,4 +216,4 @@ de:
           s: 42
           from: 00:04:30,17
           to: 00:04:41,10
-          text: Man nahm die Arbeit, die man haben konnte. Es war schwierig genug Arbeit zu finden.
+          text: Man hat sich nicht so angestellt, wenn man Arbeit bekommen konnte. Es war schwierig genug Arbeit zu finden.
