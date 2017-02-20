@@ -196,7 +196,7 @@ de:
           s: 36
           from: 00:04:06,20
           to: 00:04:16,07
-          text: Wir waren alle wegen der Gymnastikaufführung aufgeregt,
+          text: Wir waren alle aufgeregt wegen der Gymnastikaufführung,
             an der wir gerabeitet hatten.
         sequence-37:
           s: 37
@@ -241,7 +241,7 @@ de:
           from: 00:04:50,00
           to: 00:05:00,21
           text: 'Ihnen wurden Flugblätter gegeben damit sie Hühneraufzucht lernen konnten,
-            und wie sie den Garten bestellen sollte: den “Kriegsgarten”.'
+            und wie sie den Garten bestellen sollten: den “Kriegsgarten”.'
         sequence-45:
           s: 45
           from: 00:05:00,21
@@ -292,7 +292,7 @@ de:
           s: 54
           from: 00:05:44,21
           to: 00:05:54,23
-          text: die die Arbeitskraft hervorbrachten um die Nation auf den Krieg vorzubereiten.
+          text: die die Arbeitskraft hervorbrachten, um die Nation auf den Krieg vorzubereiten.
         sequence-55:
           s: 55
           from: 00:05:54,23
@@ -324,7 +324,7 @@ de:
           s: 60
           from: 00:06:19,21
           to: 00:06:27,29
-          text: Ich habe nie herrausgefunden ob wir wirklich nicht das Geld hatten,
+          text: Ich habe nie herrausgefunden, ob wir wirklich nicht das Geld hatten,
         sequence-61:
           s: 61
           from: 00:06:27,29
@@ -339,13 +339,13 @@ de:
           s: 63
           from: 00:06:39,01
           to: 00:06:47,07
-          text: Nach der Vorstellung wurden an jeden Teilnehmer ein Osterei ausgeteilt.
+          text: Nach der Vorstellung wurde an jeden Teilnehmer ein Osterei ausgeteilt.
         sequence-64:
           s: 64
           from: 00:06:47,07
           to: 00:06:57,01
           text: Ich hatte nie zuvor eins gesehen. Es war fantastisch, mit seinem
-            leutend bunten Papier.
+            leuchtend bunten Papier.
         sequence-65:
           s: 65
           from: 00:06:57,01
@@ -363,7 +363,7 @@ de:
           from: 00:07:14,11
           to: 00:07:24,27
           text: das es anders sei wegen eines derart unsinnigen Anlasses? Weil es
-            keine weiße Bluse und schwarzen Rock besitzt?
+            keine weiße Bluse und keinen schwarzen Rock besitzt?
         sequence-68:
           s: 68
           from: 00:07:24,27
@@ -373,7 +373,7 @@ de:
           s: 69
           from: 00:07:30,11
           to: 00:07:35,16
-          text: habe ich ihm erzählt, was ich durchlebt habe als ich sieben war.
+          text: habe ich ihm erzählt, was ich durchlebt habe, als ich sieben war.
         sequence-70:
           s: 70
           from: 00:07:35,16
