@@ -180,30 +180,31 @@ de:
           s: 33
           from: 00:03:42,08
           to: 00:03:52,29
-          text: We didn’t take much math, but we spent a lot of time doing gymnastics,
-            as we had to forge our physique.
+          text: Wir hatten nicht viel Mathe, aber wir verbrachten viel Zeit mit Gymnastik
+            weil wir unsere Körper ertüchtigen sollten.
         sequence-34:
           s: 34
           from: 00:03:52,29
           to: 00:04:03,05
-          text: Since we didn’t have a gym, every day we spent two hours in the school
-            courtyard doing physical education,
+          text: Weil wir keine Turnhalle hatten haben wir jeden Tag zwei Stunden im
+            Hof Sport getrieben,
         sequence-35:
           s: 35
           from: 00:04:03,05
           to: 00:04:06,20
-          text: even in the winter when it turned cold.
+          text: selbst im Winter, wenn es kalt war.
         sequence-36:
           s: 36
           from: 00:04:06,20
           to: 00:04:16,07
-          text: We were all excited for the gymnastics display we were working on.
+          text: Wir waren alle aufgeregt wegen der Gymnastikaufführung,
+            an der wir gerabeitet hatten.
         sequence-37:
           s: 37
           from: 00:04:16,07
           to: 00:04:27,06
-          text: It would take place in the main square, in front of our parents and
-            all the others.
+          text: Sie sollte auf dem Hauptplatz stattfinden, für unsere Eltern
+            und alle anderen.
         sequence-38:
           s: 38
           from: 00:04:27,06
@@ -213,8 +214,8 @@ de:
           s: 39
           from: 00:04:28,13
           to: 00:04:36,27
-          text: 'However, Mussolini wanted children to wear a uniform from our earliest
-            childhood:'
+          text: 'Allerdings wollte Mussolini, dass Kinder schon von
+            frühster Jugend an Uniform trugen:'
         sequence-40:
           s: 40
           from: 00:04:36,27
@@ -224,7 +225,7 @@ de:
           s: 41
           from: 00:04:37,20
           to: 00:04:44,17
-          text: the “Figli della Lupa”, the “Balilla”, the “Piccole Italiane”, the
+          text: die “Figli della Lupa”, die “Balilla”, die “Piccole Italiane”, die
             “Avant-gardists”.
         sequence-42:
           s: 42
@@ -235,13 +236,13 @@ de:
           s: 43
           from: 00:04:46,11
           to: 00:04:50,00
-          text: Mothers were enrolled in the “Massaie rurali” (rural housewives),
+          text: Mütter wurden in die “Massaie rurali” (ländliche Hausfrauen) eingeschrieben.
         sequence-44:
           s: 44
           from: 00:04:50,00
           to: 00:05:00,21
-          text: 'and were given pamphlets for them to learn how to breed chickens
-            and work the garden: the “war garden”.'
+          text: 'Ihnen wurden Flugblätter gegeben damit sie Hühneraufzucht lernen konnten,
+            und wie sie den Garten bestellen sollten: den “Kriegsgarten”.'
         sequence-45:
           s: 45
           from: 00:05:00,21
@@ -251,7 +252,7 @@ de:
           s: 46
           from: 00:05:02,25
           to: 00:05:06,16
-          text: The whole family was
+          text: Die ganze Familie war
         sequence-47:
           s: 47
           from: 00:05:06,16
@@ -261,7 +262,7 @@ de:
           s: 48
           from: 00:05:08,20
           to: 00:05:11,01
-          text: organized.
+          text: organisiert.
         sequence-49:
           s: 49
           from: 00:05:11,01
@@ -271,29 +272,28 @@ de:
           s: 50
           from: 00:05:13,19
           to: 00:05:22,29
-          text: The Duce had also decided that large families were to be awarded with
-            a certificate.
+          text: Der Duce hat außerdem entschieden, dass große Familien mit einer Urkunde
+            ausgezeichnet werden sollten.
         sequence-51:
           s: 51
           from: 00:05:22,29
           to: 00:05:29,20
-          text: Even more so for our family since there were six boys and two girls.
+          text: Insbesondere unsere Familie, weil wir sechs Jungen und zwei Mädchen waren.
         sequence-52:
           s: 52
           from: 00:05:29,20
           to: 00:05:36,08
-          text: This certificate had to be displayed at home, so that everybody could
-            see
+          text: Diese Urkunden mussten im Haus ausgestellt sein, damit jeder sehen konnte,
         sequence-53:
           s: 53
           from: 00:05:36,08
           to: 00:05:44,21
-          text: that Mussolini had acknowledged these families
+          text: dass Mussolini diese Familien anerkannt hatte,
         sequence-54:
           s: 54
           from: 00:05:44,21
           to: 00:05:54,23
-          text: who had generated manpower for the nation to prepare for war.
+          text: die die Arbeitskraft hervorbrachten, um die Nation auf den Krieg vorzubereiten.
         sequence-55:
           s: 55
           from: 00:05:54,23
@@ -303,7 +303,7 @@ de:
           s: 56
           from: 00:05:55,23
           to: 00:06:01,01
-          text: When I was seven I suffered my first humiliation.
+          text: Als ich sieben war erlebte ich meine erste Demütigung.
         sequence-57:
           s: 57
           from: 00:06:01,01
@@ -313,24 +313,24 @@ de:
           s: 58
           from: 00:06:02,06
           to: 00:06:10,14
-          text: My mother didn’t have enough money to buy me the uniform of the “Piccole
-            Italiane”.
+          text: Meine Mutte hatte nicht genug Geld um mir die Uniform der “Piccole
+            Italiane” zu kaufen.
         sequence-59:
           s: 59
           from: 00:06:10,14
           to: 00:06:19,21
-          text: So I couldn’t take part in the gymnastics event, as I had dreamed
-            about.
+          text: Deshalb konnte ich nicht mit den Gymnasten auftreten, obwohl ich es
+            mir erträumt hatte.
         sequence-60:
           s: 60
           from: 00:06:19,21
           to: 00:06:27,29
-          text: I never found out if we really didn’t have any money
+          text: Ich habe nie herrausgefunden, ob wir wirklich nicht das Geld hatten,
         sequence-61:
           s: 61
           from: 00:06:27,29
           to: 00:06:37,04
-          text: or rather my mother didn’t want me to wear that uniform.
+          text: oder ob meine Mutter nicht wollte, dass ich diese Uniform trug.
         sequence-62:
           s: 62
           from: 00:06:37,04
@@ -340,43 +340,43 @@ de:
           s: 63
           from: 00:06:39,01
           to: 00:06:47,07
-          text: After the display they handed out an Easter egg to all the participants.
+          text: Nach der Vorstellung wurde an jeden Teilnehmer ein Osterei ausgeteilt.
         sequence-64:
           s: 64
           from: 00:06:47,07
           to: 00:06:57,01
-          text: I had never seen one before. It was amazing, with its shiny coloured
-            paper.
+          text: Ich hatte nie zuvor eins gesehen. Es war fantastisch, mit seinem
+            leuchtend bunten Papier.
         sequence-65:
           s: 65
           from: 00:06:57,01
           to: 00:07:08,18
-          text: The teacher handed out an egg to all the children while I was left
-            out. I wasn’t worth it.
+          text: Der Lehrer teilte jedem Kind ein Ei aus, aber ich wurde
+            ausgelassen. Ich war es nicht wert.
         sequence-66:
           s: 66
           from: 00:07:08,18
           to: 00:07:14,11
-          text: Can you imagine the despair of a seven-year-old girl, as she walked
-            home thinking
+          text: Kannst du dir die Verzweiflung eines siebenjährigen Mädchens vorstellen,
+            das nach Hause läuft und denkt
         sequence-67:
           s: 67
           from: 00:07:14,11
           to: 00:07:24,27
-          text: that she was different because of such a pointless motive? Because
-            she didn’t have a white shirt and a black skirt?
+          text: das es anders sei wegen eines derart unsinnigen Anlasses? Weil es
+            keine weiße Bluse und keinen schwarzen Rock besitzt?
         sequence-68:
           s: 68
           from: 00:07:24,27
           to: 00:07:30,11
-          text: After I had a son and a family of my own,
+          text: Nachdem ich einen Sohn und eine Familie hatte
         sequence-69:
           s: 69
           from: 00:07:30,11
           to: 00:07:35,16
-          text: I told him what I had gone through when I was seven.
+          text: habe ich ihm erzählt, was ich durchlebt habe, als ich sieben war.
         sequence-70:
           s: 70
           from: 00:07:35,16
           to: 00:07:41,00
-          text: So every year at Easter, he brings me a huge Easter egg.
+          text: Jedes Jahr zu Ostern bringt er mir ein riesiges Osterei.
