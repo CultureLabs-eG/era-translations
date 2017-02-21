@@ -3,13 +3,13 @@ de:
   lidia-valeriani:
     chapter-1:
       c: 1
-      title: Introduction, childhood during fascism
+      title: Einleitung, Kindheit im Faschismus
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:00,23
           to: 00:00:04,15
-          text: My name is Lidia Valeriani.
+          text: Ich heiße Lidia Valeriani.
         sequence-2:
           s: 2
           from: 00:00:04,15
@@ -19,12 +19,12 @@ de:
           s: 3
           from: 00:00:06,18
           to: 00:00:12,20
-          text: I was born on the 23rd of January 1923
+          text: Ich wurde am 23. Januar 1923
         sequence-4:
           s: 4
           from: 00:00:12,20
           to: 00:00:15,22
-          text: in Montecavolo di Quattro Castella,
+          text: in Montecavolo di Quattro Castella
         sequence-5:
           s: 5
           from: 00:00:15,22
@@ -34,7 +34,7 @@ de:
           s: 6
           from: 00:00:17,15
           to: 00:00:22,01
-          text: in a small hamlet called Scampate.
+          text: in dem kleinen Dorf Scampate geboren.
         sequence-7:
           s: 7
           from: 00:00:22,01
@@ -44,12 +44,12 @@ de:
           s: 8
           from: 00:00:27,09
           to: 00:00:31,10
-          text: Awful fascist times.
+          text: In schrecklichen faschistischen Zeiten,
         sequence-9:
           s: 9
           from: 00:00:31,10
           to: 00:00:34,16
-          text: My father was a victim of political persecution.
+          text: denn mein Vater war bereits Opfer politischer Verfolgung.
         sequence-10:
           s: 10
           from: 00:00:34,16
@@ -59,7 +59,7 @@ de:
           s: 11
           from: 00:00:39,28
           to: 00:00:44,05
-          text: I had two brothers older than I,
+          text: Ich hatte zwei ältere Brüder,
         sequence-12:
           s: 12
           from: 00:00:44,05
@@ -69,12 +69,12 @@ de:
           s: 13
           from: 00:00:45,13
           to: 00:00:53,06
-          text: and six more followed, making us a family of nine brothers.
+          text: sechs weitere folgten – wir waren eine Familie mit neun Kindern.
         sequence-14:
           s: 14
           from: 00:00:53,06
           to: 00:00:58,02
-          text: As soon as we started to go to school,
+          text: Als wir mit sechs Jahren die Schule besuchten,
         sequence-15:
           s: 15
           from: 00:00:58,02
@@ -84,30 +84,30 @@ de:
           s: 16
           from: 00:00:59,29
           to: 00:01:10,25
-          text: we already understood that things were different for us children of
-            antifascists,
+          text: erkannten wir bereits, dass wir als Kinder von Antifaschisten
+            anders waren als jene der Faschisten,
         sequence-17:
           s: 17
           from: 00:01:10,25
           to: 00:01:20,16
-          text: compared to those of the fascists, who were enrolled in the “Balilla”,
-            in the “Piccole Italiane” - the fascist youth organizations.
+          text: die Mitglieder bei den „Balilla“, bei den „Piccole Italiane“ –
+            den faschistischen Jugendorganisationen – waren.
         sequence-18:
           s: 18
           from: 00:01:20,16
           to: 00:01:22,09
-          text: ''
+          text: 'Diese Dinge gab es bereits in der Schule.'
         sequence-19:
           s: 19
           from: 00:01:22,09
           to: 00:01:28,15
-          text: I noticed and realized this when I was six,
+          text: Ich bemerkte und verstand das, als ich sechs Jahre alt war
         sequence-20:
           s: 20
           from: 00:01:28,15
           to: 00:01:41,23
-          text: and I started asking my father why we were considered differently
-            from the others.
+          text: und ich begann, meinen Vater zu fragen, warum wir in der Schule
+            anders als die anderen behandelt wurden.
         sequence-21:
           s: 21
           from: 00:01:41,23
@@ -117,8 +117,8 @@ de:
           s: 22
           from: 00:01:43,00
           to: 00:01:52,15
-          text: My father tried to explain it to me, as best he could since I was
-            still a little girl.
+          text: Mein Vater versuchte, es mir zu erklären, so gut er konnte –
+           schließlich war ich noch ein kleines Mädchen.
         sequence-23:
           s: 23
           from: 00:01:52,15
@@ -128,8 +128,8 @@ de:
           s: 24
           from: 00:01:53,11
           to: 00:02:02,28
-          text: He would have never enlisted us in the “Piccole Italiane”, or the
-            boys in the “Balilla”.
+          text: Niemals hätte er uns bei den „Piccole Italiane“ oder die Jungen
+            bei den „Balilla“ angemeldet.
         sequence-25:
           s: 25
           from: 00:02:02,28
@@ -139,8 +139,8 @@ de:
           s: 26
           from: 00:02:06,10
           to: 00:02:22,25
-          text: As we got older we began to understand how things were going, that
-            the antifascists had to go underground.
+          text: Als wir älter wurden, begannen wir einige Dinge zu verstehen,
+            etwa dass die Antifaschisten in den Untergrund gehen mussten.
         sequence-27:
           s: 27
           from: 00:02:22,25
@@ -150,16 +150,16 @@ de:
           s: 28
           from: 00:02:26,26
           to: 00:02:34,02
-          text: I was ten, it was obvious by then.
+          text: Ich war damals zehn.
         sequence-29:
           s: 29
           from: 00:02:34,02
           to: 00:02:44,00
-          text: In 1933, when they started arresting a lot of people (they arrested
-            and beat people even before that),
+          text: 1933, als sie begannen viele Leute zu verhaften – sie hatten
+            auch schon davor Leute verhaftet und verprügelt –,
         sequence-30:
           s: 30
           from: 00:02:44,00
           to: 00:02:57,20
-          text: I realized the situation, and some of our neighbours were arrested
-            that year.
+          text: wurde mir die Situation bewusst und einige unserer Nachbarn
+            wurden in diesem Jahr verhaftet.
