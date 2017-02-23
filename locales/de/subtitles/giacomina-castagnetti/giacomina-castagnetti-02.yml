@@ -63,12 +63,12 @@ de:
           s: 11
           from: 00:01:20,00
           to: 00:01:25,23
-          text: Um die verbleibenden zwei Jahre zu lernen, hätte ich weiter laufen müssen.
+          text: Für die verbleibenden zwei Schuljahre hätte ich einen längeren Schulweg gehabt.
         sequence-12:
           s: 12
           from: 00:01:25,23
           to: 00:01:37,12
-          text: Das hätte drei Kilometer zu den dreien hinzugefügt, die ich sowieso schon lief.
+          text: Das hätte drei Kilometer zu den Dreien hinzugefügt, die ich sowieso schon lief.
         sequence-13:
           s: 13
           from: 00:01:37,12
@@ -78,7 +78,7 @@ de:
           s: 14
           from: 00:01:43,14
           to: 00:02:05,01
-          text: Die meisten Familien dachten, dass wenn sie Opfer aufbringen würden,
+          text: Die meisten Familien dachten, dass wenn sie Opfer bringen müssten,
             dann sollte es für die Jungen sein, nicht für die Mädchen.
         sequence-15:
           s: 15
