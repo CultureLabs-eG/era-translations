@@ -3,13 +3,14 @@ de:
   giacomina-castagnetti:
     chapter-3:
       c: 3
-      title: Beginning of the War on Africa
+      title: Anfang des Krieges um Afrika -- War on Africa?
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:00,13
           to: 00:00:07,15
-          text: The preparation for the war in Africa was gaining momentum.
+          text: Die Vorbereitungen für den Krieg in Afrika sind angelaufen.
+            The preparation for the war in Africa was gaining momentum.
         sequence-2:
           s: 2
           from: 00:00:07,15
@@ -19,12 +20,14 @@ de:
           s: 3
           from: 00:00:10,13
           to: 00:00:14,12
-          text: Everything had to be geared to war.
+          text: Alles war für den Krieg ausgerüstet (geared)
+            Everything had to be geared to war.
         sequence-4:
           s: 4
           from: 00:00:14,12
           to: 00:00:21,17
-          text: Mussolini used to say that not one crumb of bread was to be wasted,
+          text: Mussolini hat gesagt, dass nicht ein Krümel Brot verschwendet werden sollte,
+            Mussolini used to say that not one crumb of bread was to be wasted,
         sequence-5:
           s: 5
           from: 00:00:21,17
@@ -34,7 +37,8 @@ de:
           s: 6
           from: 00:00:23,18
           to: 00:00:28,00
-          text: as it could serve a soldier in Africa.
+          text: denn es hilft einem Soldaten in Afrika.
+            as it could serve a soldier in Africa.
         sequence-7:
           s: 7
           from: 00:00:28,00
@@ -44,18 +48,23 @@ de:
           s: 8
           from: 00:00:29,25
           to: 00:00:53,00
-          text: I was hearing different stories from my brothers and their friends.
+          text: Ich habe unterschiedliche Geschichten von meinen Brürdern und deren Freunden gehört.
+            Ich sah viel auf zu meinen Brüdern, weil mein Vater gestorben war.
+            I was hearing different stories from my brothers and their friends.
             I looked at my brothers a lot since my father had died.
         sequence-9:
           s: 9
           from: 00:00:53,00
           to: 00:00:57,11
-          text: I remember what Strozzi said.
+          text: Ich erinnere mich noch, was Strozzi sagte.
+            I remember what Strozzi said.
         sequence-10:
           s: 10
           from: 00:00:57,11
           to: 00:01:08,12
-          text: He was very young, a neighbour of ours who later became the vice-president
+          text: Er war sehr jung. Einer unserer Nachbarn, der später Vize-President
+            der Riunite Milch wurde.
+            He was very young, a neighbour of ours who later became the vice-president
             of the Riunite dairy.
         sequence-11:
           s: 11
@@ -66,12 +75,14 @@ de:
           s: 12
           from: 00:01:08,23
           to: 00:01:14,11
-          text: Referring to what Mussolini had said about farmers,
+          text: Bezogen auf das, was Mussolini über Bauern sagte,
+            Referring to what Mussolini had said about farmers,
         sequence-13:
           s: 13
           from: 00:01:14,11
           to: 00:01:22,18
-          text: that they needed to go to war, in order to create an empire and conquer
+          text: dass sie in den Krieg ziehen müssten, um ein `empire` zu gründen und neues Land zum Bearbeiten/Beackern/? zu erobern,
+            that they needed to go to war, in order to create an empire and conquer
             new land to work,
         sequence-14:
           s: 14
