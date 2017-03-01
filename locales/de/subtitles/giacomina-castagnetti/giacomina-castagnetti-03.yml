@@ -9,8 +9,7 @@ de:
           s: 1
           from: 00:00:00,13
           to: 00:00:07,15
-          text: Die Vorbereitungen für den Krieg in Afrika sind angelaufen.
-            The preparation for the war in Africa was gaining momentum.
+          text: Die Vorbereitungen für den Krieg in Afrika sind in Schwung gekommen.
         sequence-2:
           s: 2
           from: 00:00:07,15
@@ -20,14 +19,12 @@ de:
           s: 3
           from: 00:00:10,13
           to: 00:00:14,12
-          text: Alles war für den Krieg ausgerüstet (geared)
-            Everything had to be geared to war.
+          text: Alle Bemühungen sollten auf den Krieg ausgerichtet werden.
         sequence-4:
           s: 4
           from: 00:00:14,12
           to: 00:00:21,17
-          text: Mussolini hat gesagt, dass nicht ein Krümel Brot verschwendet werden sollte,
-            Mussolini used to say that not one crumb of bread was to be wasted,
+          text: Mussolini pflegte zu sagen, dass nicht ein Krümel Brot verschwendet werden sollte,
         sequence-5:
           s: 5
           from: 00:00:21,17
@@ -37,8 +34,7 @@ de:
           s: 6
           from: 00:00:23,18
           to: 00:00:28,00
-          text: denn es hilft einem Soldaten in Afrika.
-            as it could serve a soldier in Africa.
+          text: denn es könnte einem Soldaten in Afrika dienen.
         sequence-7:
           s: 7
           from: 00:00:28,00
@@ -49,23 +45,18 @@ de:
           from: 00:00:29,25
           to: 00:00:53,00
           text: Ich habe unterschiedliche Geschichten von meinen Brürdern und deren Freunden gehört.
-            Ich sah viel auf zu meinen Brüdern, weil mein Vater gestorben war.
-            I was hearing different stories from my brothers and their friends.
-            I looked at my brothers a lot since my father had died.
+            Ich sah viel auf zu meinen Brüdern, seit mein Vater gestorben war.
         sequence-9:
           s: 9
           from: 00:00:53,00
           to: 00:00:57,11
           text: Ich erinnere mich noch, was Strozzi sagte.
-            I remember what Strozzi said.
         sequence-10:
           s: 10
           from: 00:00:57,11
           to: 00:01:08,12
           text: Er war sehr jung. Einer unserer Nachbarn, der später Vize-President
-            der Riunite Milch wurde.
-            He was very young, a neighbour of ours who later became the vice-president
-            of the Riunite dairy.
+            der Riunite-Molkerei wurde.
         sequence-11:
           s: 11
           from: 00:01:08,12
@@ -76,20 +67,19 @@ de:
           from: 00:01:08,23
           to: 00:01:14,11
           text: Bezogen auf das, was Mussolini über Bauern sagte,
-            Referring to what Mussolini had said about farmers,
         sequence-13:
           s: 13
           from: 00:01:14,11
           to: 00:01:22,18
-          text: dass sie in den Krieg ziehen müssten, um ein `empire` zu gründen und neues Land zum Bearbeiten/Beackern/? zu erobern,
-            that they needed to go to war, in order to create an empire and conquer
-            new land to work,
+          text: dass sie in den Krieg ziehen müssten, um ein Reich zu begründen und
+            neues Land erobern, um es zu bearbeiten,
         sequence-14:
           s: 14
           from: 00:01:22,18
           to: 00:01:31,00
-          text: 'I remember Strozzi saying: “War has never brought anything good for
-            the poor”.'
+          text:
+            'Ich erinnere mich an Strozzi: "Der Krieg hat noch nie etwas Gutes
+            für die Armen gebracht".'
         sequence-15:
           s: 15
           from: 00:01:31,00
@@ -99,41 +89,41 @@ de:
           s: 16
           from: 00:01:31,23
           to: 00:01:40,24
-          text: Around the same time, the landlord invited all the farmers to go over
-            at her house
+          text: Etwa zu der gleichen Zeit lud die Gutsherrin alle Landwirte ein, zu
+            ihrem Haus zu kommen
         sequence-17:
           s: 17
           from: 00:01:40,24
           to: 00:01:48,12
-          text: and listen to Mussolini’s speech about the beginning of the war in
-            Africa.
+          text: und Mussolini’s Ansprach zum Kriegsbegin in Afrika zu zu hören.
         sequence-18:
           s: 18
           from: 00:01:48,12
           to: 00:01:56,19
-          text: My mother and I went in front of the landlord’s living room.
+          text: Meine Mutter nahm meine Hand und führte mich vor das Wohnzimmer der Gräfin.
         sequence-19:
           s: 19
           from: 00:01:56,19
           to: 00:02:01,20
-          text: We couldn’t go inside the house in order not to dirty it.
+          text: Wir konnten nicht ins Haus herreingehen, um es nicht zu beschmutzen.
         sequence-20:
           s: 20
           from: 00:02:01,20
           to: 00:02:07,08
-          text: My mother had been told to call the farmers to listen to the Duce.
+          text: Meine Mutter hatte die Verpflichtung alle Bauern einzuladen, sich
+            den Duce anzuhören.
         sequence-21:
           s: 21
           from: 00:02:07,08
           to: 00:02:14,29
-          text: I was very happy. I was going to do something different and listen
-            to a new thing.
+          text: Ich war sehr glücklich. Ich ging um etwas ganz anderes zu tun, mir ein
+            neues Ding anzuhören.
         sequence-22:
           s: 22
           from: 00:02:14,29
           to: 00:02:24,26
-          text: When I heard the radio I was dazed since I couldn’t understand where
-            that deep voice was coming from.
+          text: Als ich das Radio hörte war ich wie benebelt, weil ich nicht verstehen
+            konnte, wo die tiefe Stimme her kam.
         sequence-23:
           s: 23
           from: 00:02:24,26
@@ -143,12 +133,12 @@ de:
           s: 24
           from: 00:02:26,15
           to: 00:02:33,01
-          text: I didn’t understand what the voice was saying
+          text: Ich verstand nicht, wovon die Stimme sprach
         sequence-25:
           s: 25
           from: 00:02:33,01
           to: 00:02:38,23
-          text: and the meaning behind those words, unlike my mother.
+          text: oder was die Bedeutung hinter den Worten war, im Gegensatz zu meiner Mutter.
         sequence-26:
           s: 26
           from: 00:02:38,23
@@ -158,16 +148,16 @@ de:
           s: 27
           from: 00:02:39,26
           to: 00:02:49,09
-          text: I realized it had to be something terrible when I saw my mother crying
-            on our way back home.
+          text: Mir wurde klar, dass es sich um etwas Schreckliches handelte, als meiner Mutter
+            auf dem Heimweg die Tränen kamen.
         sequence-28:
           s: 28
           from: 00:02:49,09
           to: 00:02:59,18
-          text: She was thinking about her six boys, who all were almost old enough
-            to be enlisted for war.
+          text: Sie dachte an ihre sechs Söhne, die alle fast alt genug waren, um
+            für den Krieg eingezogen zu werden.
         sequence-29:
           s: 29
           from: 00:02:59,18
           to: 00:03:05,10
-          text: From that moment I wasn’t happy having listened to the radio.
+          text: Von dem Moment an war ich nicht mehr froh, das Radio gehört zu haben.
