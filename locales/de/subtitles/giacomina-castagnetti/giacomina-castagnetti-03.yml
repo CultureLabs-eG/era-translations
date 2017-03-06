@@ -34,7 +34,7 @@ de:
           s: 6
           from: 00:00:23,18
           to: 00:00:28,00
-          text: denn es könnte einem Soldaten in Afrika dienen.
+          text: denn er könnte einem Soldaten in Afrika helfen.
         sequence-7:
           s: 7
           from: 00:00:28,00
@@ -95,7 +95,7 @@ de:
           s: 17
           from: 00:01:40,24
           to: 00:01:48,12
-          text: und Mussolini’s Ansprach zum Kriegsbegin in Afrika zu zu hören.
+          text: und Mussolini’s Ansprach zum Kriegsbeginn in Afrika zu hören.
         sequence-18:
           s: 18
           from: 00:01:48,12
@@ -110,13 +110,13 @@ de:
           s: 20
           from: 00:02:01,20
           to: 00:02:07,08
-          text: Meine Mutter hatte die Verpflichtung alle Bauern einzuladen, sich
+          text: Meine Mutter hatte die Verpflichtung, alle Bauern einzuladen, sich
             den Duce anzuhören.
         sequence-21:
           s: 21
           from: 00:02:07,08
           to: 00:02:14,29
-          text: Ich war sehr glücklich. Ich ging um etwas ganz anderes zu tun, mir ein
+          text: Ich war sehr glücklich. Ich ging um etwas ganz andersartiges zu tun, mir ein
             neues Ding anzuhören.
         sequence-22:
           s: 22
@@ -138,7 +138,7 @@ de:
           s: 25
           from: 00:02:33,01
           to: 00:02:38,23
-          text: oder was die Bedeutung hinter den Worten war, im Gegensatz zu meiner Mutter.
+          text: oder was die Bedeutung hinter den Worten war - im Gegensatz zu meiner Mutter.
         sequence-26:
           s: 26
           from: 00:02:38,23
@@ -148,8 +148,8 @@ de:
           s: 27
           from: 00:02:39,26
           to: 00:02:49,09
-          text: Mir wurde klar, dass es sich um etwas Schreckliches handelte, als meiner Mutter
-            auf dem Heimweg die Tränen kamen.
+          text: Als meiner Mutter auf dem Heimweg die Tränen kamen wurde mir klar,
+            dass es sich um etwas Schreckliches handelte.
         sequence-28:
           s: 28
           from: 00:02:49,09
