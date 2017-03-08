@@ -9,8 +9,7 @@ de:
           s: 1
           from: 00:00:01,17
           to: 00:00:23,01
-          text: My father was a foundling, who was adopted by my grandfather, Carlo
-            Zebenini, when he was just a baby.
+          text: Mein Vater war ein Findelkind und wurde schon als Baby von meinem Großvater, Carlo Zebenini, adoptiert.
         sequence-2:
           s: 2
           from: 00:00:23,01
