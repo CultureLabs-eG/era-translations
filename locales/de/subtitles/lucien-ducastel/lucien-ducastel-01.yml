@@ -20,7 +20,7 @@ de:
           from: 00:00:12,25
           to: 00:00:25,18
           text: Ich war drei Jahre lang Metzgerlehrling, aber das gefiel mir gar
-            nicht. Dann fing ich an, auf dem Bau zu arbeiten, im Metallbau.
+            nicht. Dann fing ich an auf dem Bau zu arbeiten, im Metallbau.
         sequence-4:
           s: 4
           from: 00:00:25,18
@@ -63,7 +63,7 @@ de:
           s: 11
           from: 00:01:09,05
           to: 00:01:16,12
-          text: Das war mir sehr wichtig. Danach fing ich an, zu arbeiten.
+          text: Das war mir sehr wichtig. Danach fing ich an zu arbeiten.
         sequence-12:
           s: 12
           from: 00:01:16,12
@@ -90,7 +90,7 @@ de:
           s: 16
           from: 00:01:34,04
           to: 00:01:41,26
-          text: Dann fing ich an, im Hoch- und Tiefbau zu arbeiten,
+          text: Dann fing ich an im Hoch- und Tiefbau zu arbeiten,
             machte Reparaturen auf Schiffen und so weiter.
         sequence-17:
           s: 17
@@ -106,7 +106,7 @@ de:
           s: 19
           from: 00:01:48,03
           to: 00:01:56,22
-          text: 1936 war ich 16 Jahre alt und ich fing an, in Fabriken zu arbeiten.
+          text: 1936 war ich 16 Jahre alt und ich fing an in Fabriken zu arbeiten.
         sequence-20:
           s: 20
           from: 00:01:56,22
@@ -128,16 +128,14 @@ de:
           from: 00:02:25,00
           to: 00:02:33,27
           text: Daraufhin bildete sich die Arbeiterbeweung heraus. Zu dieser Zeit war ich
-          bereits Teil des Arbeiterumfelds.
+          bereits Teil des Arbeitermilieus.
         sequence-24:
           s: 24
           from: 00:02:33,27
           to: 00:02:42,26
-          text: Unter diesen Umständen stieg die Bewegung von 1936 überall
-           ein wenig weiter auf und es gab große Demonstrationen.
+          text: Unter diesen Umständen wurde die Bewegung von 1936 überall ein wenig stärker und es gab diese große Demonstration von 1936.
         sequence-25:
           s: 25
           from: 00:02:42,26
           to: 00:02:48,12
-          text: Alles, was das für die Arbeiterbewegung in Frankreich bedeutete.
-            Das war sehr wichtig, das ist gewiss.
+          text: Und was das alles für die Arbeiterbewegung in Frankreich bedeutete, war sehr wichtig. Das ist gewiss.
