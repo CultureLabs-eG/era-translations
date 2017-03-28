@@ -3,7 +3,7 @@ de:
   giacomo-notari:
     chapter-4:
       c: 4
-      title: First partisan action; arms, deportations, fear
+      title: Erste Partisanenaktion; Waffen, Deportationen, Angst
       subtitles:
         sequence-1:
           s: 1
@@ -124,23 +124,22 @@ de:
           s: 23
           from: 00:01:55,24
           to: 00:02:02,21
-          text: We went to Ligonchio and there really was a crowd of partisans there.
+          text: Wir kamen nach Ligonchio und fanden dort unendlich viele Partisanen vor,
         sequence-24:
           s: 24
           from: 00:02:02,21
           to: 00:02:06,00
-          text: Unfortunately, not all of them were armed.
+          text: aber leider waren nicht alle bewaffnet.
         sequence-25:
           s: 25
           from: 00:02:06,00
           to: 00:02:18,24
-          text: More partisans came, who wanted to fight, to enrol.
+          text: Der Zustrom von Jugendlichen, die kämpfen und Partisanen werden wollten, war größer als die Anzahl Waffen,
         sequence-26:
           s: 26
           from: 00:02:18,24
           to: 00:02:28,00
-          text: More than weapons dropped from the sky or taken during attacks to
-            the German garrisons.
+          text: die mit Fallschirmen abgeworfen oder bei Angriffen auf deutsche Stützpunkte erbeutet wurden.
         sequence-27:
           s: 27
           from: 00:02:28,00
@@ -150,8 +149,7 @@ de:
           s: 28
           from: 00:02:28,26
           to: 00:02:39,19
-          text: I was luckier than others, since I was given an English machine gun,
-            a Sten gun, which was quite short.
+          text: Ich hatte mehr Glück als andere, denn ich bekam eine englische Maschinenpistole, eine Sten. Eine recht kurze Waffe.
         sequence-29:
           s: 29
           from: 00:02:39,19
@@ -161,13 +159,12 @@ de:
           s: 30
           from: 00:02:43,18
           to: 00:02:51,19
-          text: You could disassemble it in three pieces and hide it, and put it together
-            quickly.
+          text: Aber funktionstüchtig. Man konnte sie in drei Teile zerlegen, verstecken und schnell wieder zusammensetzen.
         sequence-31:
           s: 31
           from: 00:02:51,19
           to: 00:02:57,00
-          text: And I also had a 9 mm Beretta and four hand grenades.
+          text: Ich bekam auch eine 9 mm Beretta-Pistole. Und vier Handgranaten.
         sequence-32:
           s: 32
           from: 00:02:57,00
@@ -177,18 +174,17 @@ de:
           s: 33
           from: 00:02:59,16
           to: 00:03:04,17
-          text: I stayed there with the First Battalion
+          text: Ich war dann beim Ersten Bataillon,
         sequence-34:
           s: 34
           from: 00:03:04,17
           to: 00:03:11,12
-          text: and we used to go on road 63, where German garrisons were all over
-            the place.
+          text: wir gingen oft an die Staatsstraße 63, wo sich die ganzen deutschen Stützpunkte befanden.
         sequence-35:
           s: 35
           from: 00:03:11,12
           to: 00:03:19,15
-          text: Not long after, around July, there was a great mop-up.
+          text: Kurze Zeit später, im Juli, gibt es eine große Durchkämmungsaktion (Razzia).
         sequence-36:
           s: 36
           from: 00:03:19,15
@@ -198,40 +194,38 @@ de:
           s: 37
           from: 00:03:20,08
           to: 00:03:30,21
-          text: The Goering attacked, we fought back for a day and a half, two days.
+          text: Die (Division)-Goering griff an. Anderthalb oder zwei Tage lang wurde dagegen gehalten. 
         sequence-38:
           s: 38
           from: 00:03:30,21
           to: 00:03:34,06
-          text: Then there was a disbandment,
+          text: Dann lösten wir unsere Verbände auf,
         sequence-39:
           s: 39
           from: 00:03:34,06
           to: 00:03:39,03
-          text: because it’s really hard to resist against an attack
+          text: denn beim Angriff einer deutschen Division mit Panzerfahrzeugen, Artillerie, 
         sequence-40:
           s: 40
           from: 00:03:39,03
           to: 00:03:50,04
-          text: from a German division with armoured vehicles, artillery, small airplanes,
-            special forces.
+          text: Kleinflugzeugen und Spezialeinheiten Widerstand zu leisten, das ist schwierig.
         sequence-41:
           s: 41
           from: 00:03:50,04
           to: 00:03:56,13
-          text: Maybe it wasn’t even right to fight back as we did,
+          text: Vielleicht war es gar nicht richtig derartigen Widerstand zu leisten,
         sequence-42:
           s: 42
           from: 00:03:56,13
           to: 00:04:01,29
-          text: since guerrilla means attacking and withdrawing, coming back and so
-            on.
+          text: denn Guerilla bedeutete angreifen, zurückziehen, angreifen und zurückziehen und wiederkommen.
         sequence-43:
           s: 43
           from: 00:04:01,29
           to: 00:04:11,05
-          text: That time however it was decided to fight back jointly. We suffered
-            many casualties in the end.
+          text: In jener Situtation aber wollte man eine Front bilden ... 
+          das ist uns teuer zu stehen gekommen, es gab viele Tote und Vermisste.
         sequence-44:
           s: 44
           from: 00:04:11,05
@@ -240,19 +234,19 @@ de:
         sequence-45:
           s: 45
           from: 00:04:12,13
-          to: 00:04:15,03
-          text: 'Then the Germans took away more than a thousand men:'
+          to: 00:04:16,03
+          text: 'Dann verschleppten die Deutschen noch über eintausend Männer:'
         sequence-46:
           s: 46
-          from: 00:04:15,03
+          from: 00:04:16,03
           to: 00:04:28,28
-          text: all those who were able to work, and I think also a few women, were
-            sent to Germany.
+          text: sie brachten alle Gefangenen, die arbeitsfähig waren, nach Deutschland. 
+          Ich glaube nur zwei Frauen haben sie weggeschafft, aber tausend Männer.
         sequence-47:
           s: 47
           from: 00:04:28,28
           to: 00:04:32,23
-          text: That time there was a complete disbandment.
+          text: Darum also die Auflösung, eine Komplettauflösung.
         sequence-48:
           s: 48
           from: 00:04:32,23
@@ -262,13 +256,12 @@ de:
           s: 49
           from: 00:04:34,06
           to: 00:04:39,19
-          text: After that, the Germans left,
+          text: Danach zogen die Deutschen ab, die Division
         sequence-50:
           s: 50
           from: 00:04:39,19
           to: 00:04:47,29
-          text: their division withdrew, but the garrisons on road 63 remained until
-            the end of the war.
+          text: zog sich zurück, aber die Stützpunkte entlang der Staatsstraße 63 blieben bis zum Kriegsende da.
         sequence-51:
           s: 51
           from: 00:04:47,29
@@ -278,7 +271,7 @@ de:
           s: 52
           from: 00:04:49,02
           to: 00:04:55,16
-          text: We slowly recovered, difficultly,
+          text: Allmählich schlossen sich unsere Reihen wieder, jedoch mühsam.
         sequence-53:
           s: 53
           from: 00:04:55,16
@@ -288,8 +281,7 @@ de:
           s: 54
           from: 00:04:56,20
           to: 00:05:03,03
-          text: and I remember I stayed home around ten days because of this, helping
-            my father,
+          text: Ich erinnere mich, dass ich zehn Tage zu Hause war und meinem Vater sogar bei der Getreideaussaat geholfen habe.
         sequence-55:
           s: 55
           from: 00:05:03,03
@@ -299,8 +291,7 @@ de:
           s: 56
           from: 00:05:04,06
           to: 00:05:12,02
-          text: while my brother had gone away with Frigio, Bedeschi. They were faster
-            in getting back together.
+          text: Während mein Bruder bei "Frigio" war, bei der Bedeschi-Abteilung, die haben schneller wieder zusammengefunden.
         sequence-57:
           s: 57
           from: 00:05:12,02
@@ -310,12 +301,12 @@ de:
           s: 58
           from: 00:05:12,29
           to: 00:05:16,10
-          text: Sure, there were moments we were afraid,
+          text: Angst, ja, es gab Momente, in denen wir Angst hatten.
         sequence-59:
           s: 59
           from: 00:05:16,10
           to: 00:05:21,26
-          text: but actually, it was more about being irresponsible than afraid.
+          text: Aber weißt du, richtig Angst ... ich war eher leichtsinnig.
         sequence-60:
           s: 60
           from: 00:05:21,26
@@ -325,20 +316,17 @@ de:
           s: 61
           from: 00:05:22,23
           to: 00:05:28,22
-          text: When I think about it now, I realize that we could have done so much
-            more without that much efforts and dangers.
+          text: Wenn ich zurückdenke, wieviel mehr wir hätten tun können, mit geringerer Anstrengung und mit weniger Risiko.
         sequence-62:
           s: 62
           from: 00:05:28,22
           to: 00:05:38,23
-          text: I’ve been afraid one night because I had never heard this German machine
-            gun shoot,
+          text: An einem Abend hatte ich Angst, denn nie zuvor hatte ich dieses deutsche Maschinengewehr feuern gehört,
         sequence-63:
           s: 63
           from: 00:05:38,23
           to: 00:05:44,00
-          text: 'they called it “raganella” (tree frog): it could shoot so fast, so
-            many bullets.'
+          text: 'es wurde “raganella” (Ratsche) genannt: ein Gewehr, dass sehr schnell schoss, so viele Patronen.'
         sequence-64:
           s: 64
           from: 00:05:44,00
@@ -348,7 +336,7 @@ de:
           s: 65
           from: 00:05:46,16
           to: 00:05:51,17
-          text: That was really the only time my heart was pounding.
+          text: Ich glaube es war das einzige Mal, dass mein Herz so wummerte.
         sequence-66:
           s: 66
           from: 00:05:51,17
@@ -358,15 +346,14 @@ de:
           s: 67
           from: 00:05:53,09
           to: 00:06:00,04
-          text: Later I realized it was quite distant, but at the moment I thought
-            it was there, a few steps away,
+          text: Später habe ich festestellt, dass es weit weg war, aber es schien nah zu sein, wenige Schritte entfernt,
         sequence-68:
           s: 68
           from: 00:06:00,04
           to: 00:06:04,17
-          text: this nasty sound in the silence of the night.
+          text: nein wirklich, dieser häßliche Klang in der Stille der Nacht.
         sequence-69:
           s: 69
           from: 00:06:04,17
           to: 00:06:13,18
-          text: I felt fear that night, at least for a short time.
+          text: An jenem Abend hatte ich ein wenig Angst, für eine Weile.
