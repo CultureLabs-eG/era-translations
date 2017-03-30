@@ -3,30 +3,29 @@ de:
   lidia-valeriani:
     chapter-9:
       c: 9
-      title: Military actions
+      title: Militärische Aktionen
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:00,17
           to: 00:00:17,07
-          text: We had drawn together most of our forces in the lowlands around Reggio,
-            around Limiti, Soliera, Carpi.
+          text: In der Po-Ebene zwischen Limidi, Soliera, Carpi hatten wir alle unsere Kräfte zusammengezogen, 
+          einen Großteil unserer Kräfte.
         sequence-2:
           s: 2
           from: 00:00:17,07
           to: 00:00:21,12
-          text: All the houses were with us.
+          text: Denn alle Häuser, alle Ortschaften waren auf unserer Seite.
         sequence-3:
           s: 3
           from: 00:00:21,12
           to: 00:00:33,25
-          text: There was actually a time when that area was called “free zone”, because
-            nobody could get in.
+          text: Es gab auch eine Zeit, da nannten wir das ein "befreites Gebiet". Das betrat sonst niemand.
         sequence-4:
           s: 4
           from: 00:00:33,25
           to: 00:00:37,05
-          text: However
+          text: Allerdings hatten auch die Nazis
         sequence-5:
           s: 5
           from: 00:00:37,05
@@ -36,12 +35,12 @@ de:
           s: 6
           from: 00:00:39,17
           to: 00:00:50,12
-          text: the Nazi fascists had also been looking at that area, just like us.
+          text: und die Faschisten ein Auge auf das Gebiet geworfen, nicht nur wir.
         sequence-7:
           s: 7
           from: 00:00:50,12
           to: 00:00:55,28
-          text: At a certain point they decided to do a mop-up to free the area.
+          text: Irgendwann haben sie beschlossen eine Razzia zu machen, um das Gebiet zu befreien. 
         sequence-8:
           s: 8
           from: 00:00:55,28
@@ -51,13 +50,13 @@ de:
           s: 9
           from: 00:00:56,29
           to: 00:01:07,09
-          text: They were going to do it with such forces, machine guns and heavy
-            ammunition.
+          text: Aber eine Razzia mit vielen Kräften, mit Maschinengewehren, mit schwerem Gerät und schweren Waffen, 
+          um das Gebiet einzunehmen.
         sequence-10:
           s: 10
           from: 00:01:07,09
           to: 00:01:15,06
-          text: They would have more or less destroyed our whole organization.
+          text: Dabei hätten sie wahrscheinlich unsere gesamte Organisation zerstört.
         sequence-11:
           s: 11
           from: 00:01:15,06
@@ -67,18 +66,18 @@ de:
           s: 12
           from: 00:01:16,18
           to: 00:01:23,00
-          text: We met at the headquarters and decided we had to leave.
+          text: Also haben wir uns im Hauptquartier getroffen und beschlossen zu verschwinden.
         sequence-13:
           s: 13
           from: 00:01:23,00
           to: 00:01:38,15
-          text: As usual it was the dispatch-rider who had to face this battle,
+          text: Wie üblich musste eine Stafette los und sich um das Gefecht kümmern,
         sequence-14:
           s: 14
           from: 00:01:38,15
           to: 00:01:49,22
-          text: in order to go and inform all our comrades, otherwise they would have
-            been slaughtered.
+          text: denn das war ein richtig schweres Gefecht. Die Stafette musste unsere Leute warnen, damit sie vorbereitet waren.
+          Sonst wären sie massakriert worden.
         sequence-15:
           s: 15
           from: 00:01:49,22
@@ -88,8 +87,8 @@ de:
           s: 16
           from: 00:01:50,10
           to: 00:01:58,11
-          text: If they couldn’t be ready in time, they could at least withdraw before
-            they all got killed.
+          text: Und wenn sie nicht gefechtsbereit waren, dann konnten sie sich zumindest rechtzeitig zurückziehen, 
+          bevor sie getötet wurden.
         sequence-17:
           s: 17
           from: 00:01:58,11
@@ -99,12 +98,12 @@ de:
           s: 18
           from: 00:01:59,06
           to: 00:02:01,15
-          text: At a certain point I declared I would go.
+          text: 'Irgendwann hab ich gesagt: „Ich gehe”.'
         sequence-19:
           s: 19
           from: 00:02:01,15
           to: 00:02:06,01
-          text: I already knew the area. I had gone there often.
+          text: Ich kannte das Gebiet schon gut, weil ich da oft gewesen war.
         sequence-20:
           s: 20
           from: 00:02:06,01
@@ -114,7 +113,7 @@ de:
           s: 21
           from: 00:02:08,28
           to: 00:02:13,28
-          text: We had many families of peasants there, wonderful families.
+          text: Wir hatten dort viele Bauernfamilien, wunderbare Familien.
         sequence-22:
           s: 22
           from: 00:02:13,28
@@ -124,13 +123,12 @@ de:
           s: 23
           from: 00:02:14,24
           to: 00:02:19,03
-          text: 'I said: “I’m going, give me the gun and I’ll head over there”.'
+          text: 'Ich sage also: „Ich gehe. Gebt mir einen Revolver”.'
         sequence-24:
           s: 24
           from: 00:02:19,03
           to: 00:02:29,08
-          text: I was given the orders, essentially those that could be remembered
-            and passed on and left.
+          text: Die Befehle behielt man so gut es ging im Gedächtnis und holte sie zu gegebener Zeit hervor. Ich gehe los.
         sequence-25:
           s: 25
           from: 00:02:29,08
@@ -140,7 +138,7 @@ de:
           s: 26
           from: 00:02:30,23
           to: 00:02:34,02
-          text: I met this patrol. What could I do?
+          text: Dann treffe ich auf diese Streife. Was tun?
         sequence-27:
           s: 27
           from: 00:02:34,02
@@ -150,18 +148,18 @@ de:
           s: 28
           from: 00:02:36,06
           to: 00:02:40,09
-          text: They ordered me to stop. I pulled my gun and started to shoot.
+          text: Sie fordern mich auf anzuhalten. Ich ziehe meinen Revolver und schieße.
         sequence-29:
           s: 29
           from: 00:02:40,09
           to: 00:02:58,29
-          text: I shot while I was riding the bicycle, I shot as long as I could carry
-            on until I reached the right place and inform all the others.
+          text: Ich schieße während ich Fahrrad fahre. Ich fahre, schieße so lange es geht und fahre weiter, 
+          bis ich an meinen Zielort komme, anhalten kann und denen Bescheid geben kann, die sich dann zurückziehen. 
         sequence-30:
           s: 30
           from: 00:02:58,29
           to: 00:03:05,22
-          text: After that we spread the news quite quickly.
+          text: Die Nachricht wurde dann schnell weiter verbreitet.
         sequence-31:
           s: 31
           from: 00:03:05,22
@@ -171,23 +169,23 @@ de:
           s: 32
           from: 00:03:07,07
           to: 00:03:15,03
-          text: I managed to get through all these bullets,
+          text: Tja, so bin ich durch die ganzen Schüsse und Kugeln durchgekommen,
         sequence-33:
           s: 33
           from: 00:03:15,03
           to: 00:03:28,10
-          text: this mess because when it was them shooting they didn’t need to save
-            ammunition.
+          text: durch dieses Chaos. Denn als die schossen, brauchten sie keine Munition sparen. 
+          Mir wär sie aber irgendwann ausgegangen.
         sequence-34:
           s: 34
           from: 00:03:28,10
           to: 00:03:33,26
-          text: We had to do it, but they had plenty.
+          text: Wir mussten auch darauf aufpassen, aber sie hatten (Munition) im Überfluß.
         sequence-35:
           s: 35
           from: 00:03:33,26
           to: 00:03:44,15
-          text: But I made it. The battle went well and they survived.
+          text: Aber ich habe es geschafft. Das Gefecht ist gut ausgegangen, alles hat geklappt und alle konnten sich retten.
         sequence-36:
           s: 36
           from: 00:03:44,15
@@ -197,31 +195,31 @@ de:
           s: 37
           from: 00:03:45,06
           to: 00:03:57,11
-          text: We might laugh about it now, but can you figure out how many comrades
-            survived when they all could have died?
+          text: Die Sache ist gut gegangen und heute lachen wir drüber. Aber es konnten sich alle retten. 
+          Wisst ihr, wie viele Leute dabei hätten sterben können, wenn man sie überrascht hätte.
         sequence-38:
           s: 38
           from: 00:03:57,11
           to: 00:04:06,10
-          text: I didn’t even know this episode was known,
+          text: Ich wusste gar nicht, dass diese Episode bekannt war.
         sequence-39:
           s: 39
           from: 00:04:06,10
           to: 00:04:15,20
-          text: until one day the Carabinieri came knocking at my door telling me
+          text: Doch eines Tages standen Carabinieri vor meiner Tür und sagten,
         sequence-40:
           s: 40
           from: 00:04:15,20
           to: 00:04:26,03
-          text: that I would be awarded by the army, by the government.
+          text: dass ich von der Armee, vom Staat ausgezeichnet worden bin, mit dieser Silbermedaille
         sequence-41:
           s: 41
           from: 00:04:26,03
           to: 00:04:29,11
-          text: I would be awarded a silver medal for military valour.
+          text: für militärische Verdienste.
         sequence-42:
           s: 42
           from: 00:04:29,11
           to: 00:04:39,19
-          text: I wasn’t even proud of this, since I didn’t know that from such a
-            story one could obtain this medal.
+          text: Besonders stolz war ich darauf gar nicht, denn mir war nicht klar, 
+          dass man sich mit sowas diese schöne Medaille verdienen konnte.
