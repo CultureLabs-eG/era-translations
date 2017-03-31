@@ -188,7 +188,7 @@ de:
           s: 35
           from: 00:03:47,23
           to: 00:03:54,28
-          text: Die Tage vergingen und die Lager wurde immer komplizierter, weil der König noch da war.
+          text: Die Tage vergingen und die Lage wurde immer komplizierter, weil der König noch da war.
         sequence-36:
           s: 36
           from: 00:03:54,28
@@ -203,12 +203,12 @@ de:
           s: 38
           from: 00:04:08,18
           to: 00:04:14,26
-          text: Die Nachrichten wurden mit Fahrrädern überbracht, das ging schnell. 
+          text: Die Nachrichten wurden mit Fahrrädern überbracht, das ging schnell.
         sequence-39:
           s: 39
           from: 00:04:14,26
           to: 00:04:27,06
-          text: Innerhalb einer Stunde wusste an dem Abend das ganze Land, dass der Waffenstillstand unterzeichnet worden war. 
+          text: Innerhalb einer Stunde wusste an dem Abend das ganze Land, dass der Waffenstillstand unterzeichnet worden war.
         sequence-40:
           s: 40
           from: 00:04:27,06
@@ -233,7 +233,7 @@ de:
           s: 44
           from: 00:04:58,13
           to: 00:05:04,10
-          text: und ihnen Kleidng zu geben, weil sie in Gefahr waren.
+          text: und ihnen Kleidung zu geben, weil sie in Gefahr waren.
         sequence-45:
           s: 45
           from: 00:05:04,10
