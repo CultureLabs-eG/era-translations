@@ -9,8 +9,8 @@ de:
           s: 1
           from: 00:00:00,17
           to: 00:00:17,07
-          text: In der Po-Ebene zwischen Limidi, Soliera, Carpi hatten wir alle unsere Kräfte zusammengezogen, 
-          einen Großteil unserer Kräfte.
+          text: In der Po-Ebene zwischen Limidi, Soliera, Carpi hatten wir alle unsere Kräfte zusammengezogen,
+            einen Großteil unserer Kräfte.
         sequence-2:
           s: 2
           from: 00:00:17,07
@@ -40,7 +40,7 @@ de:
           s: 7
           from: 00:00:50,12
           to: 00:00:55,28
-          text: Irgendwann haben sie beschlossen eine Razzia zu machen, um das Gebiet zu befreien. 
+          text: Irgendwann haben sie beschlossen eine Razzia zu machen, um das Gebiet zu befreien.
         sequence-8:
           s: 8
           from: 00:00:55,28
@@ -50,8 +50,8 @@ de:
           s: 9
           from: 00:00:56,29
           to: 00:01:07,09
-          text: Aber eine Razzia mit vielen Kräften, mit Maschinengewehren, mit schwerem Gerät und schweren Waffen, 
-          um das Gebiet einzunehmen.
+          text: Aber eine Razzia mit vielen Kräften, mit Maschinengewehren, mit schwerem Gerät und schweren Waffen,
+            um das Gebiet einzunehmen.
         sequence-10:
           s: 10
           from: 00:01:07,09
@@ -77,7 +77,7 @@ de:
           from: 00:01:38,15
           to: 00:01:49,22
           text: denn das war ein richtig schweres Gefecht. Die Stafette musste unsere Leute warnen, damit sie vorbereitet waren.
-          Sonst wären sie massakriert worden.
+            Sonst wären sie massakriert worden.
         sequence-15:
           s: 15
           from: 00:01:49,22
@@ -87,8 +87,8 @@ de:
           s: 16
           from: 00:01:50,10
           to: 00:01:58,11
-          text: Und wenn sie nicht gefechtsbereit waren, dann konnten sie sich zumindest rechtzeitig zurückziehen, 
-          bevor sie getötet wurden.
+          text: Und wenn sie nicht gefechtsbereit waren, dann konnten sie sich zumindest rechtzeitig zurückziehen,
+            bevor sie getötet wurden.
         sequence-17:
           s: 17
           from: 00:01:58,11
@@ -153,8 +153,8 @@ de:
           s: 29
           from: 00:02:40,09
           to: 00:02:58,29
-          text: Ich schieße während ich Fahrrad fahre. Ich fahre, schieße so lange es geht und fahre weiter, 
-          bis ich an meinen Zielort komme, anhalten kann und denen Bescheid geben kann, die sich dann zurückziehen. 
+          text: Ich schieße während ich Fahrrad fahre. Ich fahre, schieße so lange es geht und fahre weiter,
+            bis ich an meinen Zielort komme, anhalten kann und denen Bescheid geben kann, die sich dann zurückziehen.
         sequence-30:
           s: 30
           from: 00:02:58,29
@@ -174,8 +174,8 @@ de:
           s: 33
           from: 00:03:15,03
           to: 00:03:28,10
-          text: durch dieses Chaos. Denn als die schossen, brauchten sie keine Munition sparen. 
-          Mir wär sie aber irgendwann ausgegangen.
+          text: durch dieses Chaos. Denn als die schossen, brauchten sie keine Munition sparen.
+            Mir wär sie aber irgendwann ausgegangen.
         sequence-34:
           s: 34
           from: 00:03:28,10
@@ -195,8 +195,8 @@ de:
           s: 37
           from: 00:03:45,06
           to: 00:03:57,11
-          text: Die Sache ist gut gegangen und heute lachen wir drüber. Aber es konnten sich alle retten. 
-          Wisst ihr, wie viele Leute dabei hätten sterben können, wenn man sie überrascht hätte.
+          text: Die Sache ist gut gegangen und heute lachen wir drüber. Aber es konnten sich alle retten.
+            Wisst ihr, wie viele Leute dabei hätten sterben können, wenn man sie überrascht hätte.
         sequence-38:
           s: 38
           from: 00:03:57,11
@@ -221,5 +221,5 @@ de:
           s: 42
           from: 00:04:29,11
           to: 00:04:39,19
-          text: Besonders stolz war ich darauf gar nicht, denn mir war nicht klar, 
-          dass man sich mit sowas diese schöne Medaille verdienen konnte.
+          text: Besonders stolz war ich darauf gar nicht, denn mir war nicht klar,
+            dass man sich mit sowas diese schöne Medaille verdienen konnte.

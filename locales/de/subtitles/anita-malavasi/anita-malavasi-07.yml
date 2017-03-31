@@ -49,8 +49,8 @@ de:
           s: 9
           from: 00:00:56,07
           to: 00:01:06,22
-          text: Am Anfang werdet ihr langsam lernen. Ihr lernt die Waffen zu benutzen, lernt die Waffen kennen, 
-          wie man sie pflegt, schützt, lädt und einsetzt.
+          text: Am Anfang werdet ihr langsam lernen. Ihr lernt die Waffen zu benutzen, lernt die Waffen kennen,
+            wie man sie pflegt, schützt, lädt und einsetzt.
         sequence-10:
           s: 10
           from: 00:01:06,22
@@ -65,8 +65,8 @@ de:
           s: 12
           from: 00:01:22,27
           to: 00:01:32,11
-          text: Niemand hier darf euch in Schwierigkeiten bringen 
-          und ihr müsst euch so verhalten, dass niemand anders in Schwierigkeiten gebracht wird”.
+          text: Niemand hier darf euch in Schwierigkeiten bringen
+            und ihr müsst euch so verhalten, dass niemand anders in Schwierigkeiten gebracht wird”.
         sequence-13:
           s: 13
           from: 00:01:32,11
@@ -81,13 +81,13 @@ de:
           s: 15
           from: 00:01:43,23
           to: 00:01:50,28
-          text: So habe ich die erste Nacht zwischen De Pietri, einem Partisanen aus Reggio, mit dem ich auch später 
+          text: So habe ich die erste Nacht zwischen De Pietri, einem Partisanen aus Reggio, mit dem ich auch später
         sequence-16:
           s: 16
           from: 00:01:50,28
           to: 00:02:05,17
-          text: noch befreundet war, und einem jungen sardischen Carabiniere verbracht. 
-          Der Carabiniere hatte sich deutschen Befehlen widersetzt und war zu den Partisanen geflohen.
+          text: noch befreundet war, und einem jungen sardischen Carabiniere verbracht.
+            Der Carabiniere hatte sich deutschen Befehlen widersetzt und war zu den Partisanen geflohen.
         sequence-17:
           s: 17
           from: 00:02:05,17
@@ -123,8 +123,8 @@ de:
           s: 23
           from: 00:02:34,29
           to: 00:02:47,15
-          text: Überall wo sie auftauchten, selbst ganz junge, 
-          wurden sie festgehalten, durchsucht und im besten Fall in Konzentrationslager gebracht. 
+          text: Überall wo sie auftauchten, selbst ganz junge,
+            wurden sie festgehalten, durchsucht und im besten Fall in Konzentrationslager gebracht.
         sequence-24:
           s: 24
           from: 00:02:47,15
@@ -135,30 +135,30 @@ de:
           s: 25
           from: 00:02:57,26
           to: 00:03:03,11
-          text: Wir kümmerten uns um Druckerzeugnisse, Propaganda, Waffen, alles mögliche. 
+          text: Wir kümmerten uns um Druckerzeugnisse, Propaganda, Waffen, alles mögliche.
         sequence-26:
           s: 26
           from: 00:03:03,11
           to: 00:03:09,21
-          text: Wenn eine GAP- oder SAP-Einheit in der Po-Ebene unterwegs war, 
+          text: Wenn eine GAP- oder SAP-Einheit in der Po-Ebene unterwegs war,
         sequence-27:
           s: 27
           from: 00:03:09,21
           to: 00:03:19,25
-          text: dann ging eine Frau voran. Auch die Rosselli-Abteilung in den Bergen, wenn sie zum Beispiel in 
-          Cavandola bei Canossa war   
+          text: dann ging eine Frau voran. Auch die Rosselli-Abteilung in den Bergen, wenn sie zum Beispiel in
+            Cavandola bei Canossa war
         sequence-28:
           s: 28
           from: 00:03:19,25
           to: 00:03:29,02
-          text: und nach Quattro Castella kam, oder eine Aktion auf der Via Emilia machte, 
-          dann war eine Frau die Kundschafterin. 
+          text: und nach Quattro Castella kam, oder eine Aktion auf der Via Emilia machte,
+            dann war eine Frau die Kundschafterin.
         sequence-29:
           s: 29
           from: 00:03:29,02
           to: 00:03:39,26
-          text: Sie wurden Stafetten genannt, aber wir waren Kundschafterinnen. 
-          Wir gingen voraus, um zu sehen, was los war, liefen zurück und berichteten, ob der Weg frei war. 
+          text: Sie wurden Stafetten genannt, aber wir waren Kundschafterinnen.
+            Wir gingen voraus, um zu sehen, was los war, liefen zurück und berichteten, ob der Weg frei war.
         sequence-30:
           s: 30
           from: 00:03:39,26
