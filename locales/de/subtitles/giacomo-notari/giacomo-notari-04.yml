@@ -355,5 +355,10 @@ de:
         sequence-69:
           s: 69
           from: 00:06:04,17
-          to: 00:06:13,18
+          to: 00:06:09,18
           text: An jenem Abend hatte ich ein wenig Angst, für eine Weile.
+        sequence-70:
+          s: 70
+          from: 00:06:09,18
+          to: 00:06:13,18
+          text: Größere Probleme hatte ich sonst eigentlich nicht.
