@@ -71,12 +71,12 @@ de:
           s: 13
           from: 00:01:23,00
           to: 00:01:38,15
-          text: Wie üblich musste eine Stafette los und sich um das Gefecht kümmern,
+          text: Wie üblich musste eine Stafette los und sich um das Gefecht kümmern, denn das war ein richtig schweres Gefecht.
         sequence-14:
           s: 14
           from: 00:01:38,15
           to: 00:01:49,22
-          text: denn das war ein richtig schweres Gefecht. Die Stafette musste unsere Leute warnen, damit sie vorbereitet waren.
+          text: Die Stafette musste unsere Leute warnen, damit sie vorbereitet waren.
             Sonst wären sie massakriert worden.
         sequence-15:
           s: 15
@@ -152,14 +152,14 @@ de:
         sequence-29:
           s: 29
           from: 00:02:40,09
-          to: 00:02:58,29
+          to: 00:02:55,29
           text: Ich schieße während ich Fahrrad fahre. Ich fahre, schieße so lange es geht und fahre weiter,
-            bis ich an meinen Zielort komme, anhalten kann und denen Bescheid geben kann, die sich dann zurückziehen.
+            bis ich an meinen Zielort komme, anhalten kann
         sequence-30:
           s: 30
-          from: 00:02:58,29
+          from: 00:02:55,29
           to: 00:03:05,22
-          text: Die Nachricht wurde dann schnell weiter verbreitet.
+          text: und denen Bescheid geben kann, die sich dann zurückziehen. Die Nachricht wurde dann schnell weiter verbreitet.
         sequence-31:
           s: 31
           from: 00:03:05,22
