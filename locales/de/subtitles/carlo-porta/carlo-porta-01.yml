@@ -9,33 +9,33 @@ de:
           s: 1
           from: 00:00:00,16
           to: 00:00:05,05
-          text: I was born in Gavasseto.
+          text: Ich bin in Gavasseto geboren.
         sequence-2:
           s: 2
           from: 00:00:05,05
           to: 00:00:18,12
-          text: I had three sisters, my mother and father were socialists.
+          text: Alle in meiner Familie, drei Schwestern, meine Mutter, mein Vater waren Sozialisten.
         sequence-3:
           s: 3
           from: 00:00:18,12
           to: 00:00:30,15
-          text: They worked for the Socialist Party and took part in its activities.
+          text: Sie waren auch alle in der Sozialistischen Partei aktiv.
         sequence-4:
           s: 4
           from: 00:00:30,15
           to: 00:00:37,08
-          text: Therefore, I was an antifascist since I was a kid,
+          text: Wenn man so will, bin auch ich also von klein auf Antifaschist.
         sequence-5:
           s: 5
           from: 00:00:37,08
           to: 00:00:44,22
-          text: "and I remember neatly the day when, in 1923 – \nI think I was five
-            then –"
+          text: "Sehr genau erinnere ich mich zum Beispiel an den Tag, \nich muss fünf gewesen sein,"
+
         sequence-6:
           s: 6
           from: 00:00:44,22
           to: 00:00:51,26
-          text: the consumer cooperative of Gavasseto was burned down.
+          text: an dem sie die Konsumgesellschaft niederbrannten.
         sequence-7:
           s: 7
           from: 00:00:51,26
