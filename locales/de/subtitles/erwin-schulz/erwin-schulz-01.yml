@@ -3,13 +3,13 @@ de:
   erwin-schulz:
     chapter-1:
       c: 1
-      title: Introduction, School, Malnutrition
+      title: Einleitung, Schule, Unterernährung
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:00,19
           to: 00:00:02,26
-          text: My name is Erwin Schulz.
+          text: Mein Name ist Erwin Schulz.
         sequence-2:
           s: 2
           from: 00:00:02,26
@@ -19,7 +19,7 @@ de:
           s: 3
           from: 00:00:04,05
           to: 00:00:13,08
-          text: I was born on 13th of October 1912 in Tempelhof (Berlin).
+          text: Ich bin am 13. Oktober 1912 in (Berlin) Tempelhof geboren.
         sequence-4:
           s: 4
           from: 00:00:13,08
@@ -29,7 +29,7 @@ de:
           s: 5
           from: 00:00:14,13
           to: 00:00:25,01
-          text: My mother definitely had a hard time during the war.
+          text: Meine Mutter, die hatte es natürlich während des Krieges sehr schwer gehabt.
         sequence-6:
           s: 6
           from: 00:00:25,01
@@ -39,7 +39,7 @@ de:
           s: 7
           from: 00:00:26,06
           to: 00:00:30,29
-          text: In 1915 my sister was born.
+          text: 1915 ist meine Schwester geboren.
         sequence-8:
           s: 8
           from: 00:00:30,29
@@ -49,8 +49,7 @@ de:
           s: 9
           from: 00:00:32,29
           to: 00:00:46,05
-          text: It was especially hard in 1917 (as my father was conscripted as a
-            soldier),
+          text: Und besonders schwierig wurde es ja (mein Vater war ja eingezogen, als Soldat),
         sequence-10:
           s: 10
           from: 00:00:46,05
@@ -60,8 +59,7 @@ de:
           s: 11
           from: 00:00:47,14
           to: 00:01:00,02
-          text: where the food situation for the German population became more and
-            more difficult.
+          text: 1917 in dem Kohlrübenwinter, wo die Ernährungslage für die deutsche Bevölkerung immer schwieriger wurde.
         sequence-12:
           s: 12
           from: 00:01:00,02
@@ -71,7 +69,7 @@ de:
           s: 13
           from: 00:01:01,14
           to: 00:01:05,19
-          text: I started school in 1919.
+          text: Ich kam 1919 zur Schule.
         sequence-14:
           s: 14
           from: 00:01:05,19
@@ -81,7 +79,7 @@ de:
           s: 15
           from: 00:01:07,06
           to: 00:01:13,05
-          text: The school was not far away from our parents’ flat.
+          text: Die Schule war nicht weit entfernt von unserer elterlichen Wohnung ...
         sequence-16:
           s: 16
           from: 00:01:13,05
@@ -91,7 +89,7 @@ de:
           s: 17
           from: 00:01:14,16
           to: 00:01:26,26
-          text: Role model functions developed later with progressing age.
+          text: ... und Vorbildwirkungen die entwickelten sich später – nicht - mit zunehmendem Alter.
         sequence-18:
           s: 18
           from: 00:01:26,26
@@ -101,7 +99,7 @@ de:
           s: 19
           from: 00:01:28,28
           to: 00:01:39,14
-          text: But there was no role model between the teachers I had.
+          text: Von den Lehrern, die ich da hatte, als Vorbild – war keiner, gab’s nicht.
         sequence-20:
           s: 20
           from: 00:01:39,14
@@ -111,7 +109,7 @@ de:
           s: 21
           from: 00:01:40,28
           to: 00:01:51,23
-          text: Partly, they were teachers who had been demobbed by the imperial army
+          text: Das waren ja auch teilweise Lehrer, die demobilisiert wurden von der kaiserlichen Armee,
         sequence-22:
           s: 22
           from: 00:01:51,23
@@ -121,47 +119,44 @@ de:
           s: 23
           from: 00:01:53,03
           to: 00:02:01,09
-          text: and who were put into teaching profession; like the sports teacher
+          text: und die im Schuldienst eingesetzt wurden; wie z.B. ...
         sequence-24:
           s: 24
           from: 00:02:01,09
           to: 00:02:10,09
-          text: or the teacher of religious education who had no educational skills.
+          text: ... der Turnlehrer oder der Religionslehrer – nicht - die keine pädagogischen Fähigkeiten hatten.
         sequence-25:
           s: 25
           from: 00:02:10,09
           to: 00:02:23,05
-          text: And characteristic for this time was that we had a teacher who was
-            a real bully.
+          text: Und typisch ist in der Zeit, das wir hatten noch einen Lehrer so’n richtiger Prügelheld.
         sequence-26:
           s: 26
           from: 00:02:23,05
           to: 00:02:37,03
-          text: When the lesson was about to start, first two or three pupils were
-            given a good thrashing, with the cane.
+          text: Wenn die Stunde begann, haben erst zwei, drei Dresche gekriegt, mit dem Rohrstock. Also das war schon so typisch, wenn der kam.
         sequence-27:
           s: 27
           from: 00:02:37,03
           to: 00:02:51,20
-          text: 'Maybe another thing: I was malnourished and was given ‘Quaker feeding’.'
+          text: Und so vielleicht noch eine Sache: Ich war ja auch unterernährt und bekam damals "Quäkerspeisung".
         sequence-28:
           s: 28
           from: 00:02:51,20
           to: 00:03:00,06
-          text: That was from the United States, from the Quaker association
+          text: Das war von den Vereinigten Staaten, von der Quäkerorganisation, ...
         sequence-29:
           s: 29
           from: 00:03:00,06
           to: 00:03:05,08
-          text: and there I got half a litre of milk soup and a bread roll.
+          text: ... und da bekam ich einen halben Liter Milchsuppe und ein Brötchen.
         sequence-30:
           s: 30
           from: 00:03:05,08
           to: 00:03:06,04
-          text: ''
+          text:  Das hat natürlich dann dazu beigetragen, dass man zusätzliche Ernährung hatte.
         sequence-31:
           s: 31
           from: 00:03:06,04
           to: 00:03:30,00
-          text: You have to see that this was 1920/21, where a lot of problems occurred
-            in this post-war period.
+          text: Wir müssen ja sehen, das war 1920/21 wo noch eigentlich in der Nachkriegszeit sich auch viele Probleme ergaben.
