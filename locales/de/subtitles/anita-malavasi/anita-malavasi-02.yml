@@ -1,5 +1,5 @@
 ---
-pl:
+de:
   anita-malavasi:
     chapter-2:
       c: 2
@@ -220,7 +220,7 @@ pl:
           s: 43
           from: 00:04:18,11
           to: 00:04:27,28
-          text: Die älteren Männer mochten mich. Sie begannen mir, Dinge zu erklären, die ich vorher nur sehr allgemein wusste.
+          text: Die älteren Männer mochten mich. Sie begannen, mir Dinge zu erklären, von denen ich vorher nur sehr allgemein wusste.
         sequence-44:
           s: 44
           from: 00:04:27,28
@@ -240,7 +240,7 @@ pl:
           s: 47
           from: 00:04:46,19
           to: 00:04:55,00
-          text: Ich begann zu verstehen und die Dinge aus einem anderen Blickwinkel zu sehen, der mich mehr ansprach.
+          text: Ich begann zu verstehen und die Dinge aus einem anderen Blickwinkel zu sehen, den ich sehr interessant fand.
         sequence-48:
           s: 48
           from: 00:04:55,00
