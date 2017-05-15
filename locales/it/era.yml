@@ -14,7 +14,7 @@ it:
   gender: genere
   born_on: data di nascita
   died_on: data di morte
-  born_in: born in %{date}
+  born_in: classe %{date} # e.g. GIACOMO NOTARI (BORN IN 1927) http://www.resistance-archive.org/en/testimonies/giacomo-notari/
   country: paese
   religion: religione
   place_of_birth: luogo di nascita
