@@ -3,94 +3,95 @@ de:
   carlo-porta:
     chapter-8:
       c: 8
-      title: Three days without bread
+      title: Drei Tage kein Brot
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:00,13
           to: 00:00:05,08
-          text: Some of the interpreters, even those who were Italian,
+          text: Einige der Übersetzer, die auch Italiener waren,
         sequence-2:
           s: 2
           from: 00:00:05,08
           to: 00:00:12,26
-          text: kept telling us there was a chance that Mussolini and Hitler
+          text: sagten uns, dass es da eine Möglichkeit gäbe, dass Mussolini und Hitler
         sequence-3:
           s: 3
           from: 00:00:12,26
           to: 00:00:19,27
-          text: decided that there had to be no Italian prisoners in this country.
+          text: beschlossen hatten, dass die Italiener nicht als Gefangene in diesem Land zu bleiben brauchten.
         sequence-4:
           s: 4
           from: 00:00:19,27
           to: 00:00:26,00
-          text: We’re talking about the famous IMIs (Internati Militari Italiani),
+          text: Es ging um die berühmten IMI. Auf der Uniform, die einer trug,
         sequence-5:
           s: 5
           from: 00:00:26,00
-          to: 00:00:35,13
-          text: "Italian interned soldiers who were supposed \nto wear this acronym
-            on the uniform."
+          to: 00:00:31,13
+          text: musste IMI draufstehen (Italienische Militärinternierte).
         sequence-6:
           s: 6
-          from: 00:00:35,13
+          from: 00:00:31,13
           to: 00:00:41,28
-          text: "Four or five of us, including two Sardinian sergeants \nof the Italian
-            financial police (the “Guardia di Finanza”),"
+          text: Wir, angefangen bei mir und zwei sardischen Hauptmännern der Finanzpolizei, zu viert oder fünft also,
         sequence-7:
           s: 7
           from: 00:00:41,28
           to: 00:00:47,10
-          text: "managed to convince all the others not to sign. \nWe were 550 in
-            my camp."
+          text: wir haben es geschafft, dass niemand unterschrieb. In meinem Lager waren wir 500.
         sequence-8:
           s: 8
           from: 00:00:47,10
           to: 00:00:51,26
-          text: 'They would tell us: “We’ll send you back home to Italy'
+          text: Während die sagten "wir schicken Euch nach Italien
         sequence-9:
           s: 9
           from: 00:00:51,26
           to: 00:00:55,25
-          text: and there the Monte Rosa division is waiting for you”.
+          text: und da wartet die (Gebirgsjägerdivision) Monte Rosa auf euch”,
         sequence-10:
           s: 10
           from: 00:00:55,25
           to: 00:01:00,18
-          text: We could only imagine what the Monte Rosa was,
+          text: konnten wir nur ahnen, was die Monte Rosa sein sollte.
         sequence-11:
           s: 11
           from: 00:01:00,18
           to: 00:01:03,27
-          text: 'but this is what we would tell them:'
+          text: Wisst ihr, was wir sagten?
         sequence-12:
           s: 12
           from: 00:01:03,27
           to: 00:01:12,29
-          text: "“Let’s not sign anything. On the Russian front we’re too weak, \nwe’re
-            outnumbered, and that’s exactly where we’ll end up!”."
+          text: “Leute, wir unterschreiben nichts, denn an der Front in Russland fehlt es uns an Kräften, es fehlen Soldaten. Die schicken uns an die russische Front!"
         sequence-13:
           s: 13
           from: 00:01:12,29
           to: 00:01:15,07
-          text: So nobody signed.
+          text: Keiner hat unterschrieben.
         sequence-14:
           s: 14
           from: 00:01:15,07
           to: 00:01:19,01
-          text: The “Lagerfuhrer”, the boss of all bosses,
+          text: Der Chef aller Chefs, der “Lagerführer”,
         sequence-15:
           s: 15
           from: 00:01:19,01
           to: 00:01:22,08
-          text: was so furious one day that we were sanctioned to
+          text: ist eines Tages so wütend geworden ...
         sequence-16:
           s: 16
           from: 00:01:22,08
           to: 00:01:25,09
-          text: "– I will tell you this in German –"
+          text: "– Ich sag das auf Deutsch –"
         sequence-17:
           s: 17
           from: 00:01:25,09
-          to: 00:01:32,26
-          text: "“Diese Leute morgen früh kein Brot”: \nno bread for three days."
+          to: 00:01:30,00
+          text: “Diese Leute morgen früh kein Brot”. Die haben uns echt drei Tage kein Brot gegeben.
+        sequence-18:
+          s: 18
+          from: 00:01:30,00
+          to: 00:01:34,00
+          text: Die haben uns echt drei Tage lang kein Brot gegeben.

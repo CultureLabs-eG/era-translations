@@ -9,34 +9,32 @@ de:
           s: 1
           from: 00:00:01,22
           to: 00:00:11,17
-          text: During the elections of 1935, the reactionary government of Nanterre
+          text: Bei den Wahlen von 1935 wurde die reaktionäre Stadtverwaltung von Nanterre
         sequence-2:
           s: 2
           from: 00:00:11,17
           to: 00:00:22,19
-          text: had been replaced by a communist government.
+          text: durch eine kommunistische Regierung ersetzt.
         sequence-3:
           s: 3
           from: 00:00:22,19
           to: 00:00:32,07
-          text: During the electoral campaign, there were always meetings in the various
-            neighborhoods.
+          text: Während des Wahlkampfes gab es immer Versammlungen in den verschiedenen Vierteln.
         sequence-4:
           s: 4
           from: 00:00:32,07
           to: 00:00:41,19
-          text: These meetings were called “Le compte rendu des mandats”. My father
-            often took me along.
+          text: Diese Versammlungen hießen „Le compte rendu des mandats“. Mein Vater nahm mich oft mit.
         sequence-5:
           s: 5
           from: 00:00:41,19
           to: 00:00:48,17
-          text: I participated at meetings for the legislative elections
+          text: Ich nahm an Versammlungen zur Parlamentswahl teil,
         sequence-6:
           s: 6
           from: 00:00:48,17
           to: 00:00:57,00
-          text: in which Waldeck Rocher won against the Comte De Fels.
+          text: bei der Waldeck Rocher gegen den Comte De Fels gewann.
         sequence-7:
           s: 7
           from: 00:00:57,00
@@ -46,18 +44,18 @@ de:
           s: 8
           from: 00:00:58,09
           to: 00:01:03,08
-          text: My father also took me to my first demonstration.
+          text: Mein Vater nahm mich auch zu meiner ersten Demonstration mit.
         sequence-9:
           s: 9
           from: 00:01:03,08
           to: 00:01:11,20
-          text: It was called the “Wall of the Confederates” in memory of the Paris
-            Commune (1870/71).
+          text: Sie stand unter dem Motto „Mauer der Genossen“ – in Gedenken an die Pariser
+            Kommune (1870/71).
         sequence-10:
           s: 10
           from: 00:01:11,20
           to: 00:01:21,09
-          text: I remember meeting my teacher, a young socialist, at the demonstration.
+          text: Ich erinnere mich, dort einen Lehrer getroffen zu haben – einen jungen Sozialisten.
         sequence-11:
           s: 11
           from: 00:01:21,09
@@ -67,7 +65,7 @@ de:
           s: 12
           from: 00:01:23,23
           to: 00:01:28,25
-          text: I belonged to the Communist Youth Movement.
+          text: Ich gehörte zur kommunistischen Jugendbewegung.
         sequence-13:
           s: 13
           from: 00:01:28,25
@@ -77,13 +75,12 @@ de:
           s: 14
           from: 00:01:29,27
           to: 00:01:42,06
-          text: I was responsible for the distribution of the newspaper “l’Avantgarde”
-            until the war,
+          text: Ich war bis zum Krieg für die Verteilung der Zeitung „l’Avantgarde“ verantwortlich.
         sequence-15:
           s: 15
           from: 00:01:42,06
           to: 00:01:49,20
-          text: until the banning of the Communist Party.
+          text: Bis die Kommunistische Partei verboten wurde.
         sequence-16:
           s: 16
           from: 00:01:49,20
@@ -93,13 +90,12 @@ de:
           s: 17
           from: 00:01:50,19
           to: 00:02:08,09
-          text: The Communist Party was banned after the non-aggression treaty between
-            Hitler and Stalin (1939).
+          text: Die Kommunistische Partei wurde nach dem Nicht-Angriffs-Pakt zwischen Hitler und Stalin (1939) verboten.
         sequence-18:
           s: 18
           from: 00:02:08,09
           to: 00:02:13,09
-          text: The treaty was seen very negatively by the population
+          text: Der Pakt wurde in der Bevölkerung sehr negativ angesehen
         sequence-19:
           s: 19
           from: 00:02:13,09
@@ -109,9 +105,9 @@ de:
           s: 20
           from: 00:02:15,05
           to: 00:02:21,16
-          text: and became subject of propaganda from the French government.
+          text: und wurde zum Thema der Propaganda der französischen Regierung.
         sequence-21:
           s: 21
           from: 00:02:21,16
           to: 00:02:32,15
-          text: When distributing leaflets I was sometimes insulted by the workers.
+          text: Beim Verteilen von Handzetteln wurde ich manchmal von den Arbeitern beschimpft.
