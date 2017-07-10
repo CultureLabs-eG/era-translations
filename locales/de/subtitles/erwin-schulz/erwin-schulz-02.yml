@@ -34,7 +34,7 @@ de:
           s: 6
           from: 00:00:23,27
           to: 00:00:33,27
-          text: Eine Sache die noch gerade in diese Zeit fällt: 1923, die Inflation.
+          text: 'Eine Sache die noch gerade in diese Zeit fällt: 1923, die Inflation.'
         sequence-7:
           s: 7
           from: 00:00:33,27
@@ -159,12 +159,12 @@ de:
           s: 31
           from: 00:02:47,08
           to: 00:02:50,26
-          text: Mein Onkel hat sich auch drum bemüht – abgelehnt.
+          text: Mein Onkel hat sich auch darum bemüht – abgelehnt.
         sequence-32:
           s: 32
           from: 00:02:50,26
           to: 00:02:57,02
-          text: Dann hat ein anderer Onkel gesagt: „Na, dann wirst du Maurer - auch nichts.
+          text: 'Dann hat ein anderer Onkel gesagt: „Na, dann wirst du Maurer - auch nichts.'
         sequence-33:
           s: 33
           from: 00:02:57,02
@@ -174,12 +174,12 @@ de:
           s: 34
           from: 00:03:06,17
           to: 00:03:18,03
-          text: Und dann fing ich an bei der Firma Jonas als jugendlicher Angestellter. Ich war dann in der Zeit
+          text: Und dann fing ich an bei der Firma 'Jonas' als jugendlicher Angestellter. Ich war dann in der Zeit
         sequence-35:
           s: 35
           from: 00:03:18,03
           to: 00:03:25,16
-          text: – na, ein besserer Laufbursche. Für ’ne gewisse Zeit. Das war 1927.
+          text: ein besserer Laufbursche. Für ’ne gewisse Zeit. Das war 1927.
         sequence-36:
           s: 36
           from: 00:03:25,16
