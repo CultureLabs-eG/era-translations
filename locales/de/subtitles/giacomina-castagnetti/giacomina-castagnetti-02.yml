@@ -9,7 +9,7 @@ de:
           s: 1
           from: 00:00:00,12
           to: 00:00:07,05
-          text: Ich habe nie vergessen, dass, wenn der Gutsherr im Hof ankam,
+          text: Ich habe nie vergessen, dass, wenn die Gutsherrin im Hof ankam,
         sequence-2:
           s: 2
           from: 00:00:07,05
@@ -25,30 +25,28 @@ de:
           s: 4
           from: 00:00:29,23
           to: 00:00:35,08
-          text: Sie war die Gräfin Carbonieri zu Parma.
+          text: Sie war die Gräfin Carbonieri aus Parma.
         sequence-5:
           s: 5
           from: 00:00:35,08
           to: 00:00:41,00
-          text: Später habe ich verstanden, warum wir hineingehen mussten.
+          text: "Später habe ich verstanden warum: im Pachtvertrag galten Kinder nicht als Arbeitskräfte, nur als hungrige Mäuler."
         sequence-6:
           s: 6
           from: 00:00:41,00
           to: 00:00:50,17
-          text: Meine Mutter wollte nicht, dass die Gräfin uns Kinder sieht, die wir
-            noch nicht arbeiten konnten.
+          text: Mutter wollte nicht, dass die Herrin bei ihrer Ankunft acht Kinder sah,
         sequence-7:
           s: 7
           from: 00:00:50,17
           to: 00:01:02,17
-          text: Sie wollte die Gräfin nicht dazu verleiten, zu zählen, wie viele Gläser
-            Milch sie jeden Morgen brauchte, um uns zu ernähren.
+          text: von denen vier nicht arbeiten konnten.
         sequence-8:
           s: 8
           from: 00:01:02,17
           to: 00:01:14,00
-          text: Sollten vier von uns Kindern nicht mitarbeiten, dann waren wir
-            laut Pachtvertrag nur weitere hungrige Münder.
+          text: Die Gräfin sollte keine Gelegenheit bekommen nachzuzählen, wie viele Gläser
+            Milch die Mutter jeden Morgen unterschlug, um uns zu ernähren.
         sequence-9:
           s: 9
           from: 00:01:14,00
