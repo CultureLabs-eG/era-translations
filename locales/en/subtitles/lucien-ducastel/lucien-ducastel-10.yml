@@ -1,34 +1,31 @@
----
 en:
   lucien-ducastel:
     chapter-10:
       c: 10
-      title: The number on the arm
+      title: "The number on the arm"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,26
-          to: 00:00:07,09
-          text: Often the children ask me why I don’t have the number removed.
+          from: "00:00:00,26"
+          to: "00:00:07,09"
+          text: "Often the children ask me why I don’t have the number removed."
         sequence-2:
           s: 2
-          from: 00:00:07,09
-          to: 00:00:13,09
-          text: I tell them, I could have it removed, but I won’t.
+          from: "00:00:07,09"
+          to: "00:00:13,09"
+          text: "I tell them, I could have it removed, but I won’t."
         sequence-3:
           s: 3
-          from: 00:00:13,09
-          to: 00:00:20,13
-          text: It was done by the Nazis, the people working for the Nazis.
+          from: "00:00:13,09"
+          to: "00:00:20,13"
+          text: "It was done by the Nazis, the people working for the Nazis."
         sequence-4:
           s: 4
-          from: 00:00:20,13
-          to: 00:00:28,11
-          text: We weren’t called by our names but by a number that we had to learn
-            to say in German.
+          from: "00:00:20,13"
+          to: "00:00:28,11"
+          text: "We weren’t called by our names but by a number that we had to learn to say in German."
         sequence-5:
           s: 5
-          from: 00:00:28,11
-          to: 00:00:38,03
-          text: It doesn’t bother me to have it on the arm. I don’t carry it around
-            for advertisement. It’s just reality, that’s all.
+          from: "00:00:28,11"
+          to: "00:00:38,03"
+          text: "It doesn’t bother me to have it on the arm. I don’t carry it around for advertisement. It’s just reality, that’s all."

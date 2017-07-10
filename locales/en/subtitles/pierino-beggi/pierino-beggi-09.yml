@@ -1,55 +1,51 @@
----
 en:
   pierino-beggi:
     chapter-9:
       c: 9
-      title: Mines against the cavalry
+      title: "Mines against the cavalry"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,19
-          to: 00:00:08,25
-          text: The Germans could not use armoured vehicles and tanks around the mountains,
+          from: "00:00:00,19"
+          to: "00:00:08,25"
+          text: "The Germans could not use armoured vehicles and tanks around the mountains,"
         sequence-2:
           s: 2
-          from: 00:00:08,25
-          to: 00:00:13,25
-          text: as we had blown up all the bridges.
+          from: "00:00:08,25"
+          to: "00:00:13,25"
+          text: "as we had blown up all the bridges."
         sequence-3:
           s: 3
-          from: 00:00:13,25
-          to: 00:00:20,28
-          text: So they didn’t succeed when they repeatedly tried to surround the
-            mountains.
+          from: "00:00:13,25"
+          to: "00:00:20,28"
+          text: "So they didn’t succeed when they repeatedly tried to surround the mountains."
         sequence-4:
           s: 4
-          from: 00:00:20,28
-          to: 00:00:21,00
-          text: ''
+          from: "00:00:20,28"
+          to: "00:00:21,00"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:21,00
-          to: 00:00:26,08
-          text: Then they set up the Mongolian cavalry unit.
+          from: "00:00:21,00"
+          to: "00:00:26,08"
+          text: "Then they set up the Mongolian cavalry unit."
         sequence-6:
           s: 6
-          from: 00:00:26,08
-          to: 00:00:34,23
-          text: It was made up of soldiers who came from the south of the Soviet Union.
+          from: "00:00:26,08"
+          to: "00:00:34,23"
+          text: "It was made up of soldiers who came from the south of the Soviet Union."
         sequence-7:
           s: 7
-          from: 00:00:34,23
-          to: 00:00:42,05
-          text: We heard they were moving uphill from the lowlands trying to surround
-            the area.
+          from: "00:00:34,23"
+          to: "00:00:42,05"
+          text: "We heard they were moving uphill from the lowlands trying to surround the area."
         sequence-8:
           s: 8
-          from: 00:00:42,05
-          to: 00:00:50,06
-          text: We knew they would come by the road that begins by the church of Rivalta.
+          from: "00:00:42,05"
+          to: "00:00:50,06"
+          text: "We knew they would come by the road that begins by the church of Rivalta."
         sequence-9:
           s: 9
-          from: 00:00:50,06
-          to: 00:01:00,18
-          text: We mined the whole road. You probably know how antitank mines work.
-            We saw horses blown up in the air…
+          from: "00:00:50,06"
+          to: "00:01:00,18"
+          text: "We mined the whole road. You probably know how antitank mines work. We saw horses blown up in the air…"

@@ -1,179 +1,166 @@
----
 en:
   tadeusz-sulowski:
     chapter-7:
       c: 7
-      title: Defeat in Okecie
+      title: "Defeat in Okecie"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,00
-          to: 00:00:10,15
-          text: In 1943, I got into the Home Army.
+          from: "00:00:01,00"
+          to: "00:00:10,15"
+          text: "In 1943, I got into the Home Army."
         sequence-2:
           s: 2
-          from: 00:00:10,15
-          to: 00:00:17,15
-          text: So, unfortunately, I wasn’t fighting with my friends from scout times
-            in the Warsaw Uprising,
+          from: "00:00:10,15"
+          to: "00:00:17,15"
+          text: "So, unfortunately, I wasn’t fighting with my friends from scout times in the Warsaw Uprising,"
         sequence-3:
           s: 3
-          from: 00:00:17,15
-          to: 00:00:29,10
-          text: because I was already a Home Army soldier, stationed at the 7th Infantry
-            regiment called ‘Garłuch’ at Okęcie.
+          from: "00:00:17,15"
+          to: "00:00:29,10"
+          text: "because I was already a Home Army soldier, stationed at the 7th Infantry regiment called ‘Garłuch’ at Okęcie."
         sequence-4:
           s: 4
-          from: 00:00:29,10
-          to: 00:00:30,10
-          text: ''
+          from: "00:00:29,10"
+          to: "00:00:30,10"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:30,10
-          to: 00:00:36,05
-          text: It turns out that the commander of the regiment, major ‘Wysocki’,
+          from: "00:00:30,10"
+          to: "00:00:36,05"
+          text: "It turns out that the commander of the regiment, major ‘Wysocki’,"
         sequence-6:
           s: 6
-          from: 00:00:36,05
-          to: 00:00:40,18
-          text: it was his pseudonym, his real name was Babiarz,
+          from: "00:00:36,05"
+          to: "00:00:40,18"
+          text: "it was his pseudonym, his real name was Babiarz,"
         sequence-7:
           s: 7
-          from: 00:00:40,18
-          to: 00:00:53,00
-          text: found out that the Germans had fortified the airport strongly.
+          from: "00:00:40,18"
+          to: "00:00:53,00"
+          text: "found out that the Germans had fortified the airport strongly."
         sequence-8:
           s: 8
-          from: 00:00:53,00
-          to: 00:01:04,15
-          text: They had collected a huge load of arms, machine guns and so on.
+          from: "00:00:53,00"
+          to: "00:01:04,15"
+          text: "They had collected a huge load of arms, machine guns and so on."
         sequence-9:
           s: 9
-          from: 00:01:04,15
-          to: 00:01:14,01
-          text: The Home Army had very few weapons, actually none.
+          from: "00:01:04,15"
+          to: "00:01:14,01"
+          text: "The Home Army had very few weapons, actually none."
         sequence-10:
           s: 10
-          from: 00:01:14,01
-          to: 00:01:22,29
-          text: We just had these grenades and our platoon had two machine guns from
-            the WWI, without the feeders.
+          from: "00:01:14,01"
+          to: "00:01:22,29"
+          text: "We just had these grenades and our platoon had two machine guns from the WWI, without the feeders."
         sequence-11:
           s: 11
-          from: 00:01:22,29
-          to: 00:01:30,19
-          text: You had to insert each bullet separately into the barrel, because
-            otherwise there was no shooting,
+          from: "00:01:22,29"
+          to: "00:01:30,19"
+          text: "You had to insert each bullet separately into the barrel, because otherwise there was no shooting,"
         sequence-12:
           s: 12
-          from: 00:01:30,19
-          to: 00:01:36,22
-          text: because we didn’t have those clips which work as magazines for the
-            bullets.
+          from: "00:01:30,19"
+          to: "00:01:36,22"
+          text: "because we didn’t have those clips which work as magazines for the bullets."
         sequence-13:
           s: 13
-          from: 00:01:36,22
-          to: 00:01:37,13
-          text: ''
+          from: "00:01:36,22"
+          to: "00:01:37,13"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:37,13
-          to: 00:01:46,11
-          text: The commander of the regiment, at 4 o´clock gave an order to not attack
-            those hangars.
+          from: "00:01:37,13"
+          to: "00:01:46,11"
+          text: "The commander of the regiment, at 4 o´clock gave an order to not attack those hangars."
         sequence-15:
           s: 15
-          from: 00:01:46,11
-          to: 00:01:56,17
-          text: I don’t know why this order was not given at 1 or 2 o´clock.
+          from: "00:01:46,11"
+          to: "00:01:56,17"
+          text: "I don’t know why this order was not given at 1 or 2 o´clock."
         sequence-16:
           s: 16
-          from: 00:01:56,17
-          to: 00:01:59,15
-          text: And the ‘W’ hour (hour of attack) was at 5 o´clock.
+          from: "00:01:56,17"
+          to: "00:01:59,15"
+          text: "And the ‘W’ hour (hour of attack) was at 5 o´clock."
         sequence-17:
           s: 17
-          from: 00:01:59,15
-          to: 00:02:08,18
-          text: The order brought by the liaison officer got there, but at 17.30,
-            it was too late.
+          from: "00:01:59,15"
+          to: "00:02:08,18"
+          text: "The order brought by the liaison officer got there, but at 17.30, it was too late."
         sequence-18:
           s: 18
-          from: 00:02:08,18
-          to: 00:02:14,09
-          text: The attack was carried out by a group of barely armed men from the
-            ‘Kuba’ battery.
+          from: "00:02:08,18"
+          to: "00:02:14,09"
+          text: "The attack was carried out by a group of barely armed men from the ‘Kuba’ battery."
         sequence-19:
           s: 19
-          from: 00:02:14,09
-          to: 00:02:20,03
-          text: Within half an hour 125 men were killed.
+          from: "00:02:14,09"
+          to: "00:02:20,03"
+          text: "Within half an hour 125 men were killed."
         sequence-20:
           s: 20
-          from: 00:02:20,03
-          to: 00:02:25,10
-          text: ''
+          from: "00:02:20,03"
+          to: "00:02:25,10"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:02:25,10
-          to: 00:02:33,18
-          text: I bear personal grudges towards the commander that he had not given
-            the order at least an hour earlier.
+          from: "00:02:25,10"
+          to: "00:02:33,18"
+          text: "I bear personal grudges towards the commander that he had not given the order at least an hour earlier."
         sequence-22:
           s: 22
-          from: 00:02:33,18
-          to: 00:02:41,11
-          text: After all he knew there were no phones so the orders had to be carried
-            out on foot.
+          from: "00:02:33,18"
+          to: "00:02:41,11"
+          text: "After all he knew there were no phones so the orders had to be carried out on foot."
         sequence-23:
           s: 23
-          from: 00:02:41,11
-          to: 00:02:47,14
-          text: And often you couldn’t carry them out, because you ran up into a patrol
-            or something.
+          from: "00:02:41,11"
+          to: "00:02:47,14"
+          text: "And often you couldn’t carry them out, because you ran up into a patrol or something."
         sequence-24:
           s: 24
-          from: 00:02:47,14
-          to: 00:02:53,17
-          text: So you send not just one messenger, but a few.
+          from: "00:02:47,14"
+          to: "00:02:53,17"
+          text: "So you send not just one messenger, but a few."
         sequence-25:
           s: 25
-          from: 00:02:53,17
-          to: 00:02:59,04
-          text: That is how it ended. That is why the regiment got disbanded.
+          from: "00:02:53,17"
+          to: "00:02:59,04"
+          text: "That is how it ended. That is why the regiment got disbanded."
         sequence-26:
           s: 26
-          from: 00:02:59,04
-          to: 00:03:11,22
-          text: Either we got through to Warsaw on our own or to the Kampinos Forest.
+          from: "00:02:59,04"
+          to: "00:03:11,22"
+          text: "Either we got through to Warsaw on our own or to the Kampinos Forest."
         sequence-27:
           s: 27
-          from: 00:03:11,22
-          to: 00:03:24,15
-          text: When this order to disband reached us, my commander and friend, cadet
-            ‘Witold’ wanted to shoot himself.
+          from: "00:03:11,22"
+          to: "00:03:24,15"
+          text: "When this order to disband reached us, my commander and friend, cadet ‘Witold’ wanted to shoot himself."
         sequence-28:
           s: 28
-          from: 00:03:24,15
-          to: 00:03:31,13
-          text: Lieutenant ‘Andrzej’, the commander of this company grabbed his sten,
+          from: "00:03:24,15"
+          to: "00:03:31,13"
+          text: "Lieutenant ‘Andrzej’, the commander of this company grabbed his sten,"
         sequence-29:
           s: 29
-          from: 00:03:31,13
-          to: 00:03:38,05
-          text: 'I took him by the hands and told him: ‘What, have you gone mad, cadet?!'
+          from: "00:03:31,13"
+          to: "00:03:38,05"
+          text: "I took him by the hands and told him: ‘What, have you gone mad, cadet?!"
         sequence-30:
           s: 30
-          from: 00:03:38,05
-          to: 00:03:42,08
-          text: The war is just beginning and you want to commit suicide?!
+          from: "00:03:38,05"
+          to: "00:03:42,08"
+          text: "The war is just beginning and you want to commit suicide?!"
         sequence-31:
           s: 31
-          from: 00:03:42,08
-          to: 00:03:48,06
-          text: There will still be chances for you to get shot five times!’
+          from: "00:03:42,08"
+          to: "00:03:48,06"
+          text: "There will still be chances for you to get shot five times!’"
         sequence-32:
           s: 32
-          from: 00:03:48,06
-          to: 00:03:53,07
-          text: So he stayed. He died later on. He never returned from guerrilla fighting.
+          from: "00:03:48,06"
+          to: "00:03:53,07"
+          text: "So he stayed. He died later on. He never returned from guerrilla fighting."

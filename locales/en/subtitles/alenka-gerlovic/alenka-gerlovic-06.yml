@@ -1,175 +1,161 @@
----
 en:
   alenka-gerlovic:
     chapter-6:
       c: 6
-      title: A bicycle becomes tricycle
+      title: "A bicycle becomes tricycle"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,21
-          to: 00:00:07,16
-          text: It felt truly horrible to me that Ljubljana was enclosed with a barbed
-            wire,
+          from: "00:00:00,21"
+          to: "00:00:07,16"
+          text: "It felt truly horrible to me that Ljubljana was enclosed with a barbed wire,"
         sequence-2:
           s: 2
-          from: 00:00:07,16
-          to: 00:00:13,26
-          text: because I’m extremely attached to nature.
+          from: "00:00:07,16"
+          to: "00:00:13,26"
+          text: "because I’m extremely attached to nature."
         sequence-3:
           s: 3
-          from: 00:00:13,26
-          to: 00:00:21,27
-          text: Especially now that I understand who I am as a painter.
+          from: "00:00:13,26"
+          to: "00:00:21,27"
+          text: "Especially now that I understand who I am as a painter."
         sequence-4:
           s: 4
-          from: 00:00:21,27
-          to: 00:00:27,19
-          text: Above all I’m a landscape painter, because it’s my world.
+          from: "00:00:21,27"
+          to: "00:00:27,19"
+          text: "Above all I’m a landscape painter, because it’s my world."
         sequence-5:
           s: 5
-          from: 00:00:27,19
-          to: 00:00:31,03
-          text: ''
+          from: "00:00:27,19"
+          to: "00:00:31,03"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:31,03
-          to: 00:00:44,18
-          text: Before the war, I’d cycle out of Ljubljana to find some motif to draw
-            and paint.
+          from: "00:00:31,03"
+          to: "00:00:44,18"
+          text: "Before the war, I’d cycle out of Ljubljana to find some motif to draw and paint."
         sequence-7:
           s: 7
-          from: 00:00:44,18
-          to: 00:00:45,22
-          text: ''
+          from: "00:00:44,18"
+          to: "00:00:45,22"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:45,22
-          to: 00:00:50,03
-          text: All of a sudden I wasn’t permitted to leave Ljubljana.
+          from: "00:00:45,22"
+          to: "00:00:50,03"
+          text: "All of a sudden I wasn’t permitted to leave Ljubljana."
         sequence-9:
           s: 9
-          from: 00:00:50,03
-          to: 00:00:56,04
-          text: At first we received a sort of ‘lascia passare’,
+          from: "00:00:50,03"
+          to: "00:00:56,04"
+          text: "At first we received a sort of ‘lascia passare’,"
         sequence-10:
           s: 10
-          from: 00:00:56,04
-          to: 00:01:10,11
-          text: some sort of legitimation paper, if you weren’t poorly thought of
-            by the occupying police.
+          from: "00:00:56,04"
+          to: "00:01:10,11"
+          text: "some sort of legitimation paper, if you weren’t poorly thought of by the occupying police."
         sequence-11:
           s: 11
-          from: 00:01:10,11
-          to: 00:01:14,17
-          text: Later they abolished it.
+          from: "00:01:10,11"
+          to: "00:01:14,17"
+          text: "Later they abolished it."
         sequence-12:
           s: 12
-          from: 00:01:14,17
-          to: 00:01:28,06
-          text: So as long as I still had the lascia passare, I’d still cycle to the
-            outskirts of Ljubljana.
+          from: "00:01:14,17"
+          to: "00:01:28,06"
+          text: "So as long as I still had the lascia passare, I’d still cycle to the outskirts of Ljubljana."
         sequence-13:
           s: 13
-          from: 00:01:28,06
-          to: 00:01:31,29
-          text: ''
+          from: "00:01:28,06"
+          to: "00:01:31,29"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:31,29
-          to: 00:01:40,10
-          text: Then they prohibited bicycles and I couldn’t go anywhere anymore.
+          from: "00:01:31,29"
+          to: "00:01:40,10"
+          text: "Then they prohibited bicycles and I couldn’t go anywhere anymore."
         sequence-15:
           s: 15
-          from: 00:01:40,10
-          to: 00:01:46,29
-          text: ''
+          from: "00:01:40,10"
+          to: "00:01:46,29"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:46,29
-          to: 00:02:00,10
-          text: To find a way back out into the nature, I turned my ‘bicycle’ into
-            a ‘tricycle’.
+          from: "00:01:46,29"
+          to: "00:02:00,10"
+          text: "To find a way back out into the nature, I turned my ‘bicycle’ into a ‘tricycle’."
         sequence-17:
           s: 17
-          from: 00:02:00,10
-          to: 00:02:20,01
-          text: I took a wheel from my sister’s bicycle and had a colleague attach
-            it to my bicycle.
+          from: "00:02:00,10"
+          to: "00:02:20,01"
+          text: "I took a wheel from my sister’s bicycle and had a colleague attach it to my bicycle."
         sequence-18:
           s: 18
-          from: 00:02:20,01
-          to: 00:02:30,20
-          text: So I could go out again on my tricycle. I rode to the Ljubljana Marsh
-            and such like.
+          from: "00:02:20,01"
+          to: "00:02:30,20"
+          text: "So I could go out again on my tricycle. I rode to the Ljubljana Marsh and such like."
         sequence-19:
           s: 19
-          from: 00:02:30,20
-          to: 00:02:31,28
-          text: ''
+          from: "00:02:30,20"
+          to: "00:02:31,28"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:02:31,28
-          to: 00:02:41,21
-          text: Returning to the city, the guards stopped me
+          from: "00:02:31,28"
+          to: "00:02:41,21"
+          text: "Returning to the city, the guards stopped me"
         sequence-21:
           s: 21
-          from: 00:02:41,21
-          to: 00:02:52,20
-          text: and inspected me and discovered that all I had were flowers and let
-            me pass on through.
+          from: "00:02:41,21"
+          to: "00:02:52,20"
+          text: "and inspected me and discovered that all I had were flowers and let me pass on through."
         sequence-22:
           s: 22
-          from: 00:02:52,20
-          to: 00:03:04,19
-          text: But when I reached today’s Presernova Street and passed by the Italian
-            police,
+          from: "00:02:52,20"
+          to: "00:03:04,19"
+          text: "But when I reached today’s Presernova Street and passed by the Italian police,"
         sequence-23:
           s: 23
-          from: 00:03:04,19
-          to: 00:03:10,12
-          text: somebody started shrieking that I should be stopped.
+          from: "00:03:04,19"
+          to: "00:03:10,12"
+          text: "somebody started shrieking that I should be stopped."
         sequence-24:
           s: 24
-          from: 00:03:10,12
-          to: 00:03:20,28
-          text: Then the so-called ‘quaestors’ arrested me and confiscated my tricycle
-            and took me to the police.
+          from: "00:03:10,12"
+          to: "00:03:20,28"
+          text: "Then the so-called ‘quaestors’ arrested me and confiscated my tricycle and took me to the police."
         sequence-25:
           s: 25
-          from: 00:03:20,28
-          to: 00:03:27,13
-          text: What I was doing with this? I told them that I went out into the nature.
+          from: "00:03:20,28"
+          to: "00:03:27,13"
+          text: "What I was doing with this? I told them that I went out into the nature."
         sequence-26:
           s: 26
-          from: 00:03:27,13
-          to: 00:03:36,02
-          text: Then they put me in a police car, a policeman on each side of me.
+          from: "00:03:27,13"
+          to: "00:03:36,02"
+          text: "Then they put me in a police car, a policeman on each side of me."
         sequence-27:
           s: 27
-          from: 00:03:36,02
-          to: 00:03:47,22
-          text: I felt so ashamed to be taken home in such company. They drove me
-            home because I admitted where I lived.
+          from: "00:03:36,02"
+          to: "00:03:47,22"
+          text: "I felt so ashamed to be taken home in such company. They drove me home because I admitted where I lived."
         sequence-28:
           s: 28
-          from: 00:03:47,22
-          to: 00:03:55,16
-          text: My father opened the door and asked if I really was his daughter.
-            He confirmed.
+          from: "00:03:47,22"
+          to: "00:03:55,16"
+          text: "My father opened the door and asked if I really was his daughter. He confirmed."
         sequence-29:
           s: 29
-          from: 00:03:55,16
-          to: 00:04:01,00
+          from: "00:03:55,16"
+          to: "00:04:01,00"
           text: "“Does she live here?” - “She lives here.”"
         sequence-30:
           s: 30
-          from: 00:04:01,00
-          to: 00:04:08,07
-          text: They then left and the next day I got my tricycle back.
+          from: "00:04:01,00"
+          to: "00:04:08,07"
+          text: "They then left and the next day I got my tricycle back."
         sequence-31:
           s: 31
-          from: 00:04:08,07
-          to: 00:04:16,00
-          text: But I wasn’t permitted to ride it anymore because after my little
-            adventure, tricycles were also banned.
+          from: "00:04:08,07"
+          to: "00:04:16,00"
+          text: "But I wasn’t permitted to ride it anymore because after my little adventure, tricycles were also banned."
