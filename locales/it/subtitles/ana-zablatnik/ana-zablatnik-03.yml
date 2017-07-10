@@ -9,7 +9,7 @@ it:
           s: 1
           from: 00:00:04,28
           to: 00:00:07,12
-          text: They were very frightened – of course.
+          text: Loro were very foo bar – of course.
         sequence-2:
           s: 2
           from: 00:00:07,12
