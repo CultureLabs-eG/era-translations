@@ -9,7 +9,7 @@ de:
           s: 1
           from: 00:00:00,21
           to: 00:00:05,13
-          text: I can’t remember when my father came back home.
+          text: Wann mein Vater nach Hause gekommen ist kann ich nicht sagen.
         sequence-2:
           s: 2
           from: 00:00:05,13
@@ -19,12 +19,12 @@ de:
           s: 3
           from: 00:00:07,02
           to: 00:00:16,09
-          text: When soldiers, who were demobbed, came through Tempelhof,
+          text: Wenn da Soldaten, die demobilisiert wurden, bei uns durch Tempelhof zogen,
         sequence-4:
           s: 4
           from: 00:00:16,09
           to: 00:00:22,15
-          text: I always used to run there but I never saw my father with them.
+          text: bin ich immer hingerannt, aber meinen Vater habe ich dabei nie gesehen.
         sequence-5:
           s: 5
           from: 00:00:22,15
@@ -34,7 +34,7 @@ de:
           s: 6
           from: 00:00:23,27
           to: 00:00:33,27
-          text: 'One thing that just belongs to this time: 1923, the inflation.'
+          text: 'Eine Sache die noch gerade in diese Zeit fällt: 1923, die Inflation.'
         sequence-7:
           s: 7
           from: 00:00:33,27
@@ -44,7 +44,7 @@ de:
           s: 8
           from: 00:00:35,05
           to: 00:00:43,23
-          text: My sister used to stand in front of the baker’s shop, me at the butcher’s
+          text: Da hat meine Schwester vor’m Bäckerladen gestanden, ich beim Fleischer
         sequence-9:
           s: 9
           from: 00:00:43,23
@@ -54,19 +54,17 @@ de:
           s: 10
           from: 00:00:44,27
           to: 00:00:55,23
-          text: and we used to wait until my father came back from work and he had
-            a backpack full of money.
+          text: und haben dann gewartet, bis mein Vater von der Arbeit kam, und der hatte einen Rucksack voller Geld.
         sequence-11:
           s: 11
           from: 00:00:55,23
           to: 00:01:08,25
-          text: Then he used to give us bundles of it and with them we paid for the
-            bread or a 250 g of sausage or a 500 g of meat.
+          text: Und da hat er uns denn Pakete gegeben, und da haben wir dann Brot bezahlt oder ein halbes Pfund Wurst oder ein Pfund Fleisch
         sequence-12:
           s: 12
           from: 00:01:08,25
           to: 00:01:14,27
-          text: The money was worthless the next day.
+          text: das Geld war ja dann am anderen Tag wieder wertlos
         sequence-13:
           s: 13
           from: 00:01:14,27
@@ -76,22 +74,22 @@ de:
           s: 14
           from: 00:01:15,24
           to: 00:01:25,14
-          text: During this time many sank into poverty.
+          text: und in dieser Zeit verarmten ja viele.
         sequence-15:
           s: 15
           from: 00:01:25,14
           to: 00:01:32,18
-          text: A lot of people had paid war bonds
+          text: Viele hatten auch während des Krieges Kriegsanleihe bezahlt,
         sequence-16:
           s: 16
           from: 00:01:32,18
           to: 00:01:37,08
-          text: and they became invalid – were not worth anything.
+          text: und die wurde ungültig – war nichts mehr wert.
         sequence-17:
           s: 17
           from: 00:01:37,08
           to: 00:01:42,15
-          text: So, whoever had no material goods, lost everything.
+          text: Also, wer keine Sachgüter hatte, der hat alles verloren.
         sequence-18:
           s: 18
           from: 00:01:42,15
@@ -101,17 +99,17 @@ de:
           s: 19
           from: 00:01:43,22
           to: 00:01:58,07
-          text: 1927 I left school.
+          text: 1927 bin ich aus der 8. Klasse oder der 1. Klasse, ich weiß nicht wie damals die Klasse war, entlassen worden,
         sequence-20:
           s: 20
           from: 00:01:58,07
           to: 00:02:03,14
-          text: ''
+          text: das Schuljahr war zu Ende.
         sequence-21:
           s: 21
           from: 00:02:03,14
           to: 00:02:09,06
-          text: Then I tried for an apprenticeship.
+          text: Da bemühte ich mich um eine Lehrstelle.
         sequence-22:
           s: 22
           from: 00:02:09,06
@@ -121,7 +119,7 @@ de:
           s: 23
           from: 00:02:10,17
           to: 00:02:19,05
-          text: I didn’t get one, although I had good school reports.
+          text: Hab keine Lehrstelle 1927 bekommen, obgleich ich auch gute Zeugnisse hatte.
         sequence-24:
           s: 24
           from: 00:02:19,05
@@ -130,24 +128,23 @@ de:
         sequence-25:
           s: 25
           from: 00:02:20,05
-          to: 00:02:28,24
-          text: It was in this time, as well,
+          to: 00:02:24,24
+          text: Auch in dieser Zeit war es ja schon so,
         sequence-26:
           s: 26
-          from: 00:02:28,24
+          from: 00:02:24,24
           to: 00:02:30,03
-          text: ''
+          text: 'dass die Gymnasiasten - die waren ja älter.'
         sequence-27:
           s: 27
           from: 00:02:30,03
           to: 00:02:33,24
-          text: that the grammar school pupils were older.
+          text: 'Ein vierzehnjähriger oder ein siebzehn-, achtzehnjähriger'
         sequence-28:
           s: 28
           from: 00:02:33,24
           to: 00:02:42,20
-          text: There is a difference between the strength of a fourteen year old
-            boy or a seventeen/eighteen year old young man.
+          text: der hat ja andere körperliche Kräfte.
         sequence-29:
           s: 29
           from: 00:02:42,20
@@ -157,51 +154,49 @@ de:
           s: 30
           from: 00:02:43,29
           to: 00:02:47,08
-          text: I wanted to become a type setter.
+          text: Also, ich wollte da Schriftsetzer werden.
         sequence-31:
           s: 31
           from: 00:02:47,08
           to: 00:02:50,26
-          text: My uncle sought for a place – rejected.
+          text: Mein Onkel hat sich auch darum bemüht – abgelehnt.
         sequence-32:
           s: 32
           from: 00:02:50,26
           to: 00:02:57,02
-          text: 'Then another uncle said: “Well, then you become a bricklayer” – as
-            well, no success.'
+          text: 'Dann hat ein anderer Onkel gesagt: „Na, dann wirst du Maurer - auch nichts.'
         sequence-33:
           s: 33
           from: 00:02:57,02
           to: 00:03:06,17
-          text: My father was a metal worker – again, nothing.
+          text: Mein Vater war Schlosser – auch nichts. Also, alle Bemühungen sind sozusagen fehlgeschlagen.
         sequence-34:
           s: 34
           from: 00:03:06,17
-          to: 00:03:23,03
-          text: And then I started at the company ‘Jonas’ as an adolescent employee.
+          to: 00:03:18,03
+          text: Und dann fing ich an bei der Firma 'Jonas' als jugendlicher Angestellter. Ich war dann in der Zeit
         sequence-35:
           s: 35
-          from: 00:03:23,03
+          from: 00:03:18,03
           to: 00:03:25,16
-          text: That was in 1927.
+          text: ein besserer Laufbursche. Für ’ne gewisse Zeit. Das war 1927.
         sequence-36:
           s: 36
           from: 00:03:25,16
-          to: 00:03:33,19
-          text: During this time I joined the trade union, the central association
-            of the employees.
+          to: 00:03:30,19
+          text: Ich bin zu dieser Zeit auch eingetreten in die Gewerkschaft,
         sequence-37:
           s: 37
-          from: 00:03:33,19
+          from: 00:03:30,19
           to: 00:03:34,11
-          text: ''
+          text: in den Zentralverband der Angestellten.
         sequence-38:
           s: 38
           from: 00:03:34,11
           to: 00:03:50,27
-          text: The head office was in the same building. Later on,
+          text: Und die Zentrale war auch in demselben Haus. Das führte dann nachher später auch in der Zeit dazu,
         sequence-39:
           s: 39
           from: 00:03:50,27
           to: 00:03:57,00
-          text: that led to my dismissal, because of my activity in the union.
+          text: daß ich wegen einer gewerkschaftlichen Tätigkeit doch entlassen wurde.
