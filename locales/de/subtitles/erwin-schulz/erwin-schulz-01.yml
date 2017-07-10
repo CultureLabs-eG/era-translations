@@ -79,7 +79,7 @@ de:
           s: 15
           from: 00:01:07,06
           to: 00:01:13,05
-          text: Die Schule war nicht weit entfernt von unserer elterlichen Wohnung ...
+          text: Die Schule war nicht weit entfernt von unserer elterlichen Wohnung
         sequence-16:
           s: 16
           from: 00:01:13,05
@@ -89,7 +89,7 @@ de:
           s: 17
           from: 00:01:14,16
           to: 00:01:26,26
-          text: ... und Vorbildwirkungen die entwickelten sich später – nicht - mit zunehmendem Alter.
+          text: und Vorbildwirkungen die entwickelten sich später – nicht - mit zunehmendem Alter.
         sequence-18:
           s: 18
           from: 00:01:26,26
@@ -119,12 +119,12 @@ de:
           s: 23
           from: 00:01:53,03
           to: 00:02:01,09
-          text: und die im Schuldienst eingesetzt wurden; wie z.B. ...
+          text: und die im Schuldienst eingesetzt wurden; wie z.B.
         sequence-24:
           s: 24
           from: 00:02:01,09
           to: 00:02:10,09
-          text: ... der Turnlehrer oder der Religionslehrer – nicht - die keine pädagogischen Fähigkeiten hatten.
+          text: der Turnlehrer oder der Religionslehrer – nicht - die keine pädagogischen Fähigkeiten hatten.
         sequence-25:
           s: 25
           from: 00:02:10,09
@@ -144,12 +144,12 @@ de:
           s: 28
           from: 00:02:51,20
           to: 00:03:00,06
-          text: Das war von den Vereinigten Staaten, von der Quäkerorganisation, ...
+          text: Das war von den Vereinigten Staaten, von der Quäkerorganisation,
         sequence-29:
           s: 29
           from: 00:03:00,06
           to: 00:03:05,08
-          text: ... und da bekam ich einen halben Liter Milchsuppe und ein Brötchen.
+          text: und da bekam ich einen halben Liter Milchsuppe und ein Brötchen.
         sequence-30:
           s: 30
           from: 00:03:05,08
