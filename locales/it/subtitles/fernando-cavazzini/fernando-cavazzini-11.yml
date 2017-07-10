@@ -1,107 +1,101 @@
----
 it:
   fernando-cavazzini:
     chapter-11:
       c: 11
-      title: It was hard to forgive…
+      title: "It was hard to forgive…"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,18
-          to: 00:00:04,15
-          text: We were all between 15 and 28 years old.
+          from: "00:00:00,18"
+          to: "00:00:04,15"
+          text: "We were all between 15 and 28 years old."
         sequence-2:
           s: 2
-          from: 00:00:04,15
-          to: 00:00:09,16
-          text: A boy called Francia wasn’t even fifteen.
+          from: "00:00:04,15"
+          to: "00:00:09,16"
+          text: "A boy called Francia wasn’t even fifteen."
         sequence-3:
           s: 3
-          from: 00:00:09,16
-          to: 00:00:15,24
-          text: Another one from Guastalla, who’s still alive, was seventeen,
+          from: "00:00:09,16"
+          to: "00:00:15,24"
+          text: "Another one from Guastalla, who’s still alive, was seventeen,"
         sequence-4:
           s: 4
-          from: 00:00:15,24
-          to: 00:00:22,03
-          text: the others were around 20-21 years old.
+          from: "00:00:15,24"
+          to: "00:00:22,03"
+          text: "the others were around 20-21 years old."
         sequence-5:
           s: 5
-          from: 00:00:22,03
-          to: 00:00:24,18
-          text: ''
+          from: "00:00:22,03"
+          to: "00:00:24,18"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:24,18
-          to: 00:00:33,17
-          text: There was one of us who was 28, who was married and father of a one-year
-            old child.
+          from: "00:00:24,18"
+          to: "00:00:33,17"
+          text: "There was one of us who was 28, who was married and father of a one-year old child."
         sequence-7:
           s: 7
-          from: 00:00:33,17
-          to: 00:00:40,06
-          text: They arrested his wife, then they tortured her and raped her.
+          from: "00:00:33,17"
+          to: "00:00:40,06"
+          text: "They arrested his wife, then they tortured her and raped her."
         sequence-8:
           s: 8
-          from: 00:00:40,06
-          to: 00:00:46,18
-          text: From this story one can understand what happened after the war.
+          from: "00:00:40,06"
+          to: "00:00:46,18"
+          text: "From this story one can understand what happened after the war."
         sequence-9:
           s: 9
-          from: 00:00:46,18
-          to: 00:00:54,07
-          text: Some felt they had to get vengeance for all the brutality of the fascists
-            and the Germans.
+          from: "00:00:46,18"
+          to: "00:00:54,07"
+          text: "Some felt they had to get vengeance for all the brutality of the fascists and the Germans."
         sequence-10:
           s: 10
-          from: 00:00:54,07
-          to: 00:01:02,07
-          text: 'I’ve never agreed with retaliation: once the war is over everything
-            is over.'
+          from: "00:00:54,07"
+          to: "00:01:02,07"
+          text: "I’ve never agreed with retaliation: once the war is over everything is over."
         sequence-11:
           s: 11
-          from: 00:01:02,07
-          to: 00:01:09,24
-          text: 'On the other hand, we have to put ourselves in the shoes of those
-            partisans, or even civilians, who had to bear these episodes:'
+          from: "00:01:02,07"
+          to: "00:01:09,24"
+          text: "On the other hand, we have to put ourselves in the shoes of those partisans, or even civilians, who had to bear these episodes:"
         sequence-12:
           s: 12
-          from: 00:01:09,24
-          to: 00:01:17,18
-          text: It’s hard to caress your torturer’s cheek when you meet him after
-            the war.
+          from: "00:01:09,24"
+          to: "00:01:17,18"
+          text: "It’s hard to caress your torturer’s cheek when you meet him after the war."
         sequence-13:
           s: 13
-          from: 00:01:17,18
-          to: 00:01:20,27
-          text: ''
+          from: "00:01:17,18"
+          to: "00:01:20,27"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:20,27
-          to: 00:01:25,25
-          text: We must understand what happened during the war.
+          from: "00:01:20,27"
+          to: "00:01:25,25"
+          text: "We must understand what happened during the war."
         sequence-15:
           s: 15
-          from: 00:01:25,25
-          to: 00:01:32,08
-          text: These brutalities affected us too.
+          from: "00:01:25,25"
+          to: "00:01:32,08"
+          text: "These brutalities affected us too."
         sequence-16:
           s: 16
-          from: 00:01:32,08
-          to: 00:01:39,26
-          text: These slaughters and the violence were something terrible for us.
+          from: "00:01:32,08"
+          to: "00:01:39,26"
+          text: "These slaughters and the violence were something terrible for us."
         sequence-17:
           s: 17
-          from: 00:01:39,26
-          to: 00:01:43,16
-          text: Although I was a member of Azione Cattolica,
+          from: "00:01:39,26"
+          to: "00:01:43,16"
+          text: "Although I was a member of Azione Cattolica,"
         sequence-18:
           s: 18
-          from: 00:01:43,16
-          to: 00:01:48,27
-          text: I believed in the values of forgiveness and of similar principles,
+          from: "00:01:43,16"
+          to: "00:01:48,27"
+          text: "I believed in the values of forgiveness and of similar principles,"
         sequence-19:
           s: 19
-          from: 00:01:48,27
-          to: 00:01:52,15
-          text: it was hard for me, too.
+          from: "00:01:48,27"
+          to: "00:01:52,15"
+          text: "it was hard for me, too."

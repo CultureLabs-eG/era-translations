@@ -1,207 +1,191 @@
----
 it:
   tadeusz-sulowski:
     chapter-8:
       c: 8
-      title: Becoming a partisan; battle against Germans
+      title: "Becoming a partisan; battle against Germans"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,25
-          to: 00:00:09,12
-          text: We got into the Chojnów forests and joined the guerrilla unit ‘Lance’.
+          from: "00:00:00,25"
+          to: "00:00:09,12"
+          text: "We got into the Chojnów forests and joined the guerrilla unit ‘Lance’."
         sequence-2:
           s: 2
-          from: 00:00:09,12
-          to: 00:00:14,10
-          text: A squad that came from the Zamość region.
+          from: "00:00:09,12"
+          to: "00:00:14,10"
+          text: "A squad that came from the Zamość region."
         sequence-3:
           s: 3
-          from: 00:00:14,10
-          to: 00:00:22,08
-          text: Pretty well armed. We started our guerrilla life there.
+          from: "00:00:14,10"
+          to: "00:00:22,08"
+          text: "Pretty well armed. We started our guerrilla life there."
         sequence-4:
           s: 4
-          from: 00:00:22,08
-          to: 00:00:23,12
-          text: ''
+          from: "00:00:22,08"
+          to: "00:00:23,12"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:23,12
-          to: 00:00:27,00
-          text: Together with ‘Lance’ we crossed the Pilica river.
+          from: "00:00:23,12"
+          to: "00:00:27,00"
+          text: "Together with ‘Lance’ we crossed the Pilica river."
         sequence-6:
           s: 6
-          from: 00:00:27,00
-          to: 00:00:32,19
-          text: ''
+          from: "00:00:27,00"
+          to: "00:00:32,19"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:32,19
-          to: 00:00:41,15
-          text: Because I could ride, and somebody from the horse patrol had just
-            died,
+          from: "00:00:32,19"
+          to: "00:00:41,15"
+          text: "Because I could ride, and somebody from the horse patrol had just died,"
         sequence-8:
           s: 8
-          from: 00:00:41,15
-          to: 00:00:48,11
-          text: they put me on a horse and I liked it there.
+          from: "00:00:41,15"
+          to: "00:00:48,11"
+          text: "they put me on a horse and I liked it there."
         sequence-9:
           s: 9
-          from: 00:00:48,11
-          to: 00:01:04,25
-          text: You know, for a 15 year old boy who suddenly found himself in a guerrilla
-            squad and was given a horse, it was real fun.
+          from: "00:00:48,11"
+          to: "00:01:04,25"
+          text: "You know, for a 15 year old boy who suddenly found himself in a guerrilla squad and was given a horse, it was real fun."
         sequence-10:
           s: 10
-          from: 00:01:04,25
-          to: 00:01:14,28
-          text: Of course, it did not soothe my pain not to be in the Uprising.
+          from: "00:01:04,25"
+          to: "00:01:14,28"
+          text: "Of course, it did not soothe my pain not to be in the Uprising."
         sequence-11:
           s: 11
-          from: 00:01:14,28
-          to: 00:01:21,27
-          text: After all my sisters were there, my mother stayed in Warsaw too, and
-            my grandma as well.
+          from: "00:01:14,28"
+          to: "00:01:21,27"
+          text: "After all my sisters were there, my mother stayed in Warsaw too, and my grandma as well."
         sequence-12:
           s: 12
-          from: 00:01:21,27
-          to: 00:01:31,28
-          text: And me, so far without an injury... nothing happened to me.
+          from: "00:01:21,27"
+          to: "00:01:31,28"
+          text: "And me, so far without an injury... nothing happened to me."
         sequence-13:
           s: 13
-          from: 00:01:31,28
-          to: 00:01:44,25
-          text: I’m in the guerrilla troop, moving away from Warsaw.
+          from: "00:01:31,28"
+          to: "00:01:44,25"
+          text: "I’m in the guerrilla troop, moving away from Warsaw."
         sequence-14:
           s: 14
-          from: 00:01:44,25
-          to: 00:02:00,05
-          text: Having crossed the Pilica we reached a village, where a large guerrilla
-            group was stationed in a forest,
+          from: "00:01:44,25"
+          to: "00:02:00,05"
+          text: "Having crossed the Pilica we reached a village, where a large guerrilla group was stationed in a forest,"
         sequence-15:
           s: 15
-          from: 00:02:00,05
-          to: 00:02:06,10
-          text: around a thousand soldiers. The25th Piotrków Infantry Regiment.
+          from: "00:02:00,05"
+          to: "00:02:06,10"
+          text: "around a thousand soldiers. The25th Piotrków Infantry Regiment."
         sequence-16:
           s: 16
-          from: 00:02:06,10
-          to: 00:02:18,26
+          from: "00:02:06,10"
+          to: "00:02:18,26"
           text: "‘Lanca’ decided to join this unit, because it was a small group."
         sequence-17:
           s: 17
-          from: 00:02:18,26
-          to: 00:02:31,12
-          text: Just around 150 people. The 25th Regiment was quite a big unit. It
-            was a regiment, a thousand people.
+          from: "00:02:18,26"
+          to: "00:02:31,12"
+          text: "Just around 150 people. The 25th Regiment was quite a big unit. It was a regiment, a thousand people."
         sequence-18:
           s: 18
-          from: 00:02:31,12
-          to: 00:02:48,22
-          text: They gave us a warm welcome, they even gave us pay.
+          from: "00:02:31,12"
+          to: "00:02:48,22"
+          text: "They gave us a warm welcome, they even gave us pay."
         sequence-19:
           s: 19
-          from: 00:02:48,22
-          to: 00:03:02,11
-          text: Yet the very first night ‘Lanca’ ordered to saddle up horses, pack
-            the wagons and he retreated from the unit, God knows where.
+          from: "00:02:48,22"
+          to: "00:03:02,11"
+          text: "Yet the very first night ‘Lanca’ ordered to saddle up horses, pack the wagons and he retreated from the unit, God knows where."
         sequence-20:
           s: 20
-          from: 00:03:02,11
-          to: 00:03:03,13
-          text: ''
+          from: "00:03:02,11"
+          to: "00:03:03,13"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:03:03,13
-          to: 00:03:06,12
-          text: In fact, he just took the pay and ran away.
+          from: "00:03:03,13"
+          to: "00:03:06,12"
+          text: "In fact, he just took the pay and ran away."
         sequence-22:
           s: 22
-          from: 00:03:06,12
-          to: 00:03:09,21
-          text: ''
+          from: "00:03:06,12"
+          to: "00:03:09,21"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:03:09,21
-          to: 00:03:18,16
-          text: The good thing was that our commander, lieutenant ‘Osuch’ was on friendly
-            terms with the commander of the regiment in Włodzimierz,
+          from: "00:03:09,21"
+          to: "00:03:18,16"
+          text: "The good thing was that our commander, lieutenant ‘Osuch’ was on friendly terms with the commander of the regiment in Włodzimierz,"
         sequence-24:
           s: 24
-          from: 00:03:18,16
-          to: 00:03:35,15
-          text: and he supported us and the major accepted us in the regiment after
-            all.
+          from: "00:03:18,16"
+          to: "00:03:35,15"
+          text: "and he supported us and the major accepted us in the regiment after all."
         sequence-25:
           s: 25
-          from: 00:03:35,15
-          to: 00:03:43,22
-          text: In this regiment we secured its position in the village of Mechlin.
-            For almost a month.
+          from: "00:03:35,15"
+          to: "00:03:43,22"
+          text: "In this regiment we secured its position in the village of Mechlin. For almost a month."
         sequence-26:
           s: 26
-          from: 00:03:43,22
-          to: 00:03:54,25
-          text: But after this time we went to another place, a bad one, because it
-            was close to a road.
+          from: "00:03:43,22"
+          to: "00:03:54,25"
+          text: "But after this time we went to another place, a bad one, because it was close to a road."
         sequence-27:
           s: 27
-          from: 00:03:54,25
-          to: 00:04:11,29
-          text: It ended sadly, because the Germans attacked. It was too close to
-            the road and these people died.
+          from: "00:03:54,25"
+          to: "00:04:11,29"
+          text: "It ended sadly, because the Germans attacked. It was too close to the road and these people died."
         sequence-28:
           s: 28
-          from: 00:04:11,29
-          to: 00:04:17,20
-          text: Yet we luckily were left unharmed. Nobody attacked us.
+          from: "00:04:11,29"
+          to: "00:04:17,20"
+          text: "Yet we luckily were left unharmed. Nobody attacked us."
         sequence-29:
           s: 29
-          from: 00:04:17,20
-          to: 00:04:22,04
-          text: Contrary, in the Mechlin village, where we stayed for almost a month,
+          from: "00:04:17,20"
+          to: "00:04:22,04"
+          text: "Contrary, in the Mechlin village, where we stayed for almost a month,"
         sequence-30:
           s: 30
-          from: 00:04:22,04
-          to: 00:04:33,25
-          text: they organized a sweep operation, attacking us with all the forces
-            of Kalmucks, those Vlasov followers from the RONA.
+          from: "00:04:22,04"
+          to: "00:04:33,25"
+          text: "they organized a sweep operation, attacking us with all the forces of Kalmucks, those Vlasov followers from the RONA."
         sequence-31:
           s: 31
-          from: 00:04:33,25
-          to: 00:04:46,03
-          text: You know, these Soviet troops which were taken prisoner by the Germans
-            and then incorporated in the German army.
+          from: "00:04:33,25"
+          to: "00:04:46,03"
+          text: "You know, these Soviet troops which were taken prisoner by the Germans and then incorporated in the German army."
         sequence-32:
           s: 32
-          from: 00:04:46,03
-          to: 00:04:53,18
-          text: The Germans mainly used them to liquidate the guerrillas, the Warsaw
-            Uprising
+          from: "00:04:46,03"
+          to: "00:04:53,18"
+          text: "The Germans mainly used them to liquidate the guerrillas, the Warsaw Uprising"
         sequence-33:
           s: 33
-          from: 00:04:53,18
-          to: 00:05:01,04
-          text: and these people showed incredible cruelty. These were savage people.
+          from: "00:04:53,18"
+          to: "00:05:01,04"
+          text: "and these people showed incredible cruelty. These were savage people."
         sequence-34:
           s: 34
-          from: 00:05:01,04
-          to: 00:05:03,04
-          text: ''
+          from: "00:05:01,04"
+          to: "00:05:03,04"
+          text: ~
         sequence-35:
           s: 35
-          from: 00:05:03,04
-          to: 00:05:12,29
-          text: They attacked the Stefanów village, where the 25th regiment was stationed,
+          from: "00:05:03,04"
+          to: "00:05:12,29"
+          text: "They attacked the Stefanów village, where the 25th regiment was stationed,"
         sequence-36:
           s: 36
-          from: 00:05:12,29
-          to: 00:05:24,15
-          text: nearby there was the village of Gałki, where the 72nd Regiment was,
-            smaller, around 500 people.
+          from: "00:05:12,29"
+          to: "00:05:24,15"
+          text: "nearby there was the village of Gałki, where the 72nd Regiment was, smaller, around 500 people."
         sequence-37:
           s: 37
-          from: 00:05:24,15
-          to: 00:05:32,08
-          text: So both these regiments fought a whole day battle with the Germans,
+          from: "00:05:24,15"
+          to: "00:05:32,08"
+          text: "So both these regiments fought a whole day battle with the Germans,"

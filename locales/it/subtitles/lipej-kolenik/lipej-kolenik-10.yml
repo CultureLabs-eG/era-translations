@@ -1,175 +1,171 @@
----
 it:
   lipej-kolenik:
     chapter-10:
       c: 10
-      title: Women in the resistance
+      title: "Women in the resistance"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,17
-          to: 00:00:03,03
-          text: The women were really poor.
+          from: "00:00:00,17"
+          to: "00:00:03,03"
+          text: "The women were really poor."
         sequence-2:
           s: 2
-          from: 00:00:03,03
-          to: 00:00:04,26
-          text: ''
+          from: "00:00:03,03"
+          to: "00:00:04,26"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:04,26
-          to: 00:00:11,29
-          text: Because they really had to pay for this, more than the others.
+          from: "00:00:04,26"
+          to: "00:00:11,29"
+          text: "Because they really had to pay for this, more than the others."
         sequence-4:
           s: 4
-          from: 00:00:11,29
-          to: 00:00:15,11
-          text: ''
+          from: "00:00:11,29"
+          to: "00:00:15,11"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:15,11
-          to: 00:00:20,18
-          text: But they were really brave women.
+          from: "00:00:15,11"
+          to: "00:00:20,18"
+          text: "But they were really brave women."
         sequence-6:
           s: 6
-          from: 00:00:20,18
-          to: 00:00:23,15
-          text: Some were braver than the men.
+          from: "00:00:20,18"
+          to: "00:00:23,15"
+          text: "Some were braver than the men."
         sequence-7:
           s: 7
-          from: 00:00:23,15
-          to: 00:00:31,12
-          text: Three of those women I took into my heart and will never forget.
+          from: "00:00:23,15"
+          to: "00:00:31,12"
+          text: "Three of those women I took into my heart and will never forget."
         sequence-8:
           s: 8
-          from: 00:00:31,12
-          to: 00:00:34,04
-          text: They had no fears.
+          from: "00:00:31,12"
+          to: "00:00:34,04"
+          text: "They had no fears."
         sequence-9:
           s: 9
-          from: 00:00:34,04
-          to: 00:00:41,01
-          text: If there was any returned shooting they shot just the same as the
-            others.
+          from: "00:00:34,04"
+          to: "00:00:41,01"
+          text: "If there was any returned shooting they shot just the same as the others."
         sequence-10:
           s: 10
-          from: 00:00:41,01
-          to: 00:00:49,06
-          text: But some were placid.
+          from: "00:00:41,01"
+          to: "00:00:49,06"
+          text: "But some were placid."
         sequence-11:
           s: 11
-          from: 00:00:49,06
-          to: 00:00:50,16
-          text: ''
+          from: "00:00:49,06"
+          to: "00:00:50,16"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:00:50,16
-          to: 00:01:00,14
-          text: They had nothing to laugh about, because of their “monthly problems”.
+          from: "00:00:50,16"
+          to: "00:01:00,14"
+          text: "They had nothing to laugh about, because of their “monthly problems”."
         sequence-13:
           s: 13
-          from: 00:01:00,14
-          to: 00:01:07,17
-          text: To manage all that and get through was not easy.
+          from: "00:01:00,14"
+          to: "00:01:07,17"
+          text: "To manage all that and get through was not easy."
         sequence-14:
           s: 14
-          from: 00:01:07,17
-          to: 00:01:18,13
-          text: But they did get through and showed courage.
+          from: "00:01:07,17"
+          to: "00:01:18,13"
+          text: "But they did get through and showed courage."
         sequence-15:
           s: 15
-          from: 00:01:18,13
-          to: 00:01:19,08
-          text: ''
+          from: "00:01:18,13"
+          to: "00:01:19,08"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:19,08
-          to: 00:01:33,19
-          text: Most of them did the paper work in the battalions, for the bigger
-            organisations.
+          from: "00:01:19,08"
+          to: "00:01:33,19"
+          text: "Most of them did the paper work in the battalions, for the bigger organisations."
         sequence-17:
           s: 17
-          from: 00:01:33,19
-          to: 00:01:37,28
-          text: But not everyone got a job like that.
+          from: "00:01:33,19"
+          to: "00:01:37,28"
+          text: "But not everyone got a job like that."
         sequence-18:
           s: 18
-          from: 00:01:37,28
-          to: 00:01:40,19
-          text: ''
+          from: "00:01:37,28"
+          to: "00:01:40,19"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:40,19
-          to: 00:01:43,17
-          text: But it was not easy for the women.
+          from: "00:01:40,19"
+          to: "00:01:43,17"
+          text: "But it was not easy for the women."
         sequence-20:
           s: 20
-          from: 00:01:43,17
-          to: 00:01:53,04
-          text: ''
+          from: "00:01:43,17"
+          to: "00:01:53,04"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:01:53,04
-          to: 00:01:59,27
-          text: Some women were picked to help the wounded.
+          from: "00:01:53,04"
+          to: "00:01:59,27"
+          text: "Some women were picked to help the wounded."
         sequence-22:
           s: 22
-          from: 00:01:59,27
-          to: 00:02:01,25
-          text: ''
+          from: "00:01:59,27"
+          to: "00:02:01,25"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:02:01,25
-          to: 00:02:10,01
-          text: They were also very courageous. They helped as well as they could.
+          from: "00:02:01,25"
+          to: "00:02:10,01"
+          text: "They were also very courageous. They helped as well as they could."
         sequence-24:
           s: 24
-          from: 00:02:10,01
-          to: 00:02:22,20
-          text: When I was wounded on 19th March 1945, women were there, as well.
+          from: "00:02:10,01"
+          to: "00:02:22,20"
+          text: "When I was wounded on 19th March 1945, women were there, as well."
         sequence-25:
           s: 25
-          from: 00:02:22,20
-          to: 00:02:27,24
-          text: They helped me first and then carried me to a farmer’s
+          from: "00:02:22,20"
+          to: "00:02:27,24"
+          text: "They helped me first and then carried me to a farmer’s"
         sequence-26:
           s: 26
-          from: 00:02:27,24
-          to: 00:02:37,06
-          text: and from there behind a hut that had been a wood shed before.
+          from: "00:02:27,24"
+          to: "00:02:37,06"
+          text: "and from there behind a hut that had been a wood shed before."
         sequence-27:
           s: 27
-          from: 00:02:37,06
-          to: 00:02:44,25
-          text: They had a shack for the forestry workers and that was where I lived
-            until the end of the war.
+          from: "00:02:37,06"
+          to: "00:02:44,25"
+          text: "They had a shack for the forestry workers and that was where I lived until the end of the war."
         sequence-28:
           s: 28
-          from: 00:02:44,25
-          to: 00:02:49,21
-          text: Again it were the women who helped me.
+          from: "00:02:44,25"
+          to: "00:02:49,21"
+          text: "Again it were the women who helped me."
         sequence-29:
           s: 29
-          from: 00:02:49,21
-          to: 00:02:55,18
-          text: They brought milk, bread and sugar.
+          from: "00:02:49,21"
+          to: "00:02:55,18"
+          text: "They brought milk, bread and sugar."
         sequence-30:
           s: 30
-          from: 00:02:55,18
-          to: 00:02:59,28
-          text: They cared for me like my mother.
+          from: "00:02:55,18"
+          to: "00:02:59,28"
+          text: "They cared for me like my mother."
         sequence-31:
           s: 31
-          from: 00:02:59,28
-          to: 00:03:02,23
-          text: I will never forget these people.
+          from: "00:02:59,28"
+          to: "00:03:02,23"
+          text: "I will never forget these people."
         sequence-32:
           s: 32
-          from: 00:03:02,23
-          to: 00:03:08,23
-          text: You cannot repay for that either.
+          from: "00:03:02,23"
+          to: "00:03:08,23"
+          text: "You cannot repay for that either."
         sequence-33:
           s: 33
-          from: 00:03:08,23
-          to: 00:03:13,09
-          text: Only a real thank you, nothing else.
+          from: "00:03:08,23"
+          to: "00:03:13,09"
+          text: "Only a real thank you, nothing else."

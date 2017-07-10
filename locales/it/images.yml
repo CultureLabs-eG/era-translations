@@ -1,454 +1,380 @@
----
 it:
-  giacomo-notari:
-    images:
-      0ac4ecf684ed5e74a9bc30258209c40f.jpg:
-        title: Il giovane partigiano »Willi«, Giacomo Notari, nel maggio 1945
-        description: ''
-      9b43014173f9150bfae3bf2ef49fb77d.jpg:
-        title: Giacomo Notari mostra le sue tessere
-        description: Giacomo Notari mostra la sua collezione di tessere d’iscrizione
-          al PCI dal dopoguerra a oggi (PDS poi DS)
-      186da4d663dac0509da676e39b6e9841.jpg:
-        title: "»Willi« e Giacomo"
-        description: ''
-      6325c5818ba93d7aa44e80a176baa815.jpg:
-        title: Un momento dell’intervista a Giacomo Notari per ERA
-        description: ''
-      a838be34ccd6d7fe2b06a6abfc77609a.jpg:
-        title: Giacomo Notari nell’ufficio dell’ANPI
-        description: Giacomo Notari nell’ufficio dell’ANPI (Associazione Nazionale
-          Partigiani d’ Italia) di Reggio Emilia che presiede da 5 anni, insieme a
-          lui altri ex partigiani in un momento di lavoro quotidiano
-  lidia-valeriani:
-    images:
-      6c085a8b5881dc1d34aa18004e4306b9.jpg:
-        title: La medaglia d’argento al Valor militare conferita a Lidia Valeriani
-        description: La medaglia d’argento al Valor militare conferita a Lidia Valeriani
-          »Aurora« per l’impegno nella lotta di Liberazione Nazionale nel 1968.
-      90b3db6040a2042853543d7bcc6f24d5.jpg:
-        title: Lidia Valeriani al centro fra due compagni del suo GAP
-        description: Lidia Valeriani al centro fra due compagni del suo GAP (sulla
-          destra Umberto Bisi »Omar« comandante della Brigata), foto scattata poco
-          dopo la liberazione di Modena, aprile 1945.
-      1a0455262afe6b77d115cf706b36c68d.jpg:
-        title: Lidia Valeriani, terza ragazza seduta sul carro
-        description: Lidia Valeriani, terza ragazza seduta sul carro partendo da destra,
-          a Modena nei primi giorni del maggio 1945.
-      8d7148745272ea7193a38f4e29214e06.jpg:
-        title: Lidia Valeriani è la terza ragazza in piedi sulla scalinata
-        description: Maggio 1945, Modena. Lidia Valeriani è la terza ragazza in piedi
-          sulla scalinata, partendo da sinistra.
-      0575f32ce3d4c46cab46b35db3b93c9b.jpg:
-        title: 30 maggio 1945, sfilata per la Liberazione di Modena,
-        description: 30 maggio 1945, sfilata per la Liberazione di Modena, Lidia Valeriani
-          con l’impermeabile bianco, sorregge la bandiera tricolore italiana. Sul
-          palco retrostante i rappresentanti del CLN modenese e delle truppe alleate,
-          rendono omaggio al passaggio dei resistenti
-      dbe88b127c6385dd7c35d0baba78b9e2.jpg:
-        title: 30 maggio 1945. I partigiani durante la sfilata per Liberazione di
-          Modena
-        description: 30 maggio 1945. I partigiani durante la sfilata per Liberazione
-          di Modena in via Emilia , Lidia Valeriani con la bandiera della Brigata.
-  fernando-cavazzini:
-    images:
-      33dbdcc4e46a68ddebf3faf3e20314f5.jpg:
-        title: 26 luglio 1943, si festeggia la caduta del fascismo a Reggio Emilia
-        description: '26 luglio 1943, si festeggia la caduta del fascismo a Reggio
-          Emilia: il secondo da dx che guarda in macchina è Fernando Cavazzini'
-      a5496aed7c7de4af07de9da2712c68ce.jpg:
-        title: Caduta del fascismo a Reggio Emilia, il 26 luglio 1943
-        description: Caduta del fascismo a Reggio Emilia, il 26 luglio 1943, si festeggia
-          la liberazione dei detenuti politici che vengono liberati dal Carcere di
-          San Tommaso
-      e996223845160f12453e217baf79cbf5.jpg:
-        title: Fernando Cavazzini a sinistra e Ugo Veronesi il 6 marzo 1944
-        description: Fernando Cavazzini a sinistra e Ugo Veronesi il 6 marzo 1944,
-          ultima foto scattata prima di intraprendere la strada della montagna dove
-          raggiungeranno le formazioni partigiane
-      a5f8bfcda72263c9864d5c33c41b4858.jpg:
-        title: Fernando Cavazzini ritratto da partigiano
-        description: Fernando Cavazzini ritratto da partigiano, dopo la Liberazione
-          nel maggio 1945.
-      936e394c9f3d7a4a0cbcc510ff2f41f1.jpg:
-        title: Cavazzini nella Reggio liberata, nel maggio del 1945
-        description: ''
-      aff5b7f658cfd6df0b487326c731458c.jpg:
-        title: Fernando Cavazzini mentre riceve la Medaglia di Bronzo al Valor militare
-        description: Fernando Cavazzini mentre riceve la Medaglia di Bronzo al Valor
-          militare per il suo impegno nella Resistenza, Reggio Emilia, Caserma Zucchi,
-          1967.
-      25fcfe35563dfa4d77314c023a81f667.jpg:
-        title: Novembre 2006, durante l'incontro preparatorio all'intervista ERA
-        description: Novembre 2006, durante l'incontro preparatorio all'intervista
-          ERA, spiega a Dario Tarasconi il momento della scelta di partire per la
-          montagna.
-      84d65565c91aac770ac59fc0c750c079.jpg:
-        title: Novembre 2006, durante l'incontro preparatorio all'intervista ERA
-        description: Novembre 2006, durante l'incontro preparatorio all'intervista
-          ERA con Simona Morani e Dario Tarasconi.
-  giacomina-castagnetti:
-    images:
-      5ab13c7b4df1dcd85cdcd73ebe4d04a2.jpg:
-        title: Giacomina Castagnetti (con gli occhiali)
-        description: Giacomina Castagnetti (con gli occhiali) mentra passeggia con
-          un'amica in via Crispi (RE), il 20 settembre del 1944.
-  anita-malavasi:
-    images:
-      264d771f9b85f6397d8a004ca2937f84.jpg:
-        title: Annita Malavasi a 17 anni, è il 1938.
-        description: ''
-      ead0b50e0481f4c03137aaf425b3dacb.jpg:
-        title: Annita Malavasi è la prima a destra in »uniforme« da partigiana
-        description: Annita Malavasi è la prima a destra in »uniforme« da partigiana
-          insieme ad alcuni compagni, sono i primi giorni del maggio 1945
-      2d53f1609fdc2d8ab6e9c72a61ca3f20.jpg:
-        title: Annita Malavasi, la terza in piedi da sinistra
-        description: Annita Malavasi, la terza in piedi da sinistra una decina di
-          giorni dopo il 25 aprile 1945 insieme a un gruppo di partigiani e partigiane
-      4dd6dadc115dda2b9c58ce6c1a5cf825.jpg:
-        title: Autunno 1943, poco tempo dopo l'occupazione tedesca di Reggio Emilia
-        description: 'Autunno 1943, poco tempo dopo l''occupazione tedesca di Reggio
-          Emilia, Annita Malavasi in centro città con il volto teso: è appena passata
-          una pattuglia SS'
-      b394f04646a385ea29f9426e83093ace.jpg:
-        title: Interno di un falso documento d’identità
-        description: Interno di un falso documento d’identità utilizzato da Annita
-          Malavasi durante la lotta di Liberazione, gennaio-febbraio 1945
-      d7da3c24d2f22a029a599fd85aa2638a.jpg:
-        title: Fronte di un falso documento d’identità
-        description: Fronte di un falso documento d’identità utilizzato da Annita
-          Malavasi durante la lotta di Liberazione, gennaio-febbraio 1945
-      bd99fe8dc4dc5ea30d0b29b4f88aaa75.jpg:
-        title: Annita Malavasi, a 30 anni (1951)
-        description: ''
-      f79debcab7d6bb775fd3e301652cc4a8.jpg:
-        title: Annita Malavasi nel dopoguerra
-        description: 'Annita Malavasi nel dopoguerra continua il suo impegno politico:
-          in questa foto è ritratta su un palco durante un comizio, è il primo anniversario
-          della Liberazione, il 25 aprile 1946.'
-      93ee2bd7f32aed29912ab28593722cb0.jpg:
-        title: Dicembre 2006, Reggio Emilia
-        description: Dicembre 2006, Reggio Emilia, Annita Malavasi durante le riprese
-          per le interviste ERA.
-      228266dfb60973295edf128cc2cd0151.jpg:
-        title: Dicembre 2006, Reggio Emilia
-        description: Dicembre 2006, Reggio Emilia, Annita Malavasi durante le riprese
-          per le interviste ERA.
-  pierino-beggi:
-    images:
-      6aa783ea4f99a2713dc435d582a6f188.jpg:
-        title: Pierino Beggi a 19 anni, è il 1939
-        description: ''
-      e680aa2658643ee5ce89a10d01488ece.jpg:
-        title: Il documento di riconoscimento di partigiano
-        description: Il documento di riconoscimento di partigiano (volontari della
-          libertà così denominati dopo la liberazione di Roma quando si costituisce
-          il Corpo volontari della Libertà) consegnato a Beggi dopo la Liberazione.
-      a8b5d477ad3e7425ba87e84298927813.jpg:
-        title: Beggi (in piedi ultimo a destra), è il Gennaio del 1940
-        description: Beggi (in piedi ultimo a destra) in posa goliardica con gli amici
-          prima di partire per il servizio militare, è il Gennaio del 1940
-      e887eaf686366d27e9ad3503540366c0.jpg:
-        title: Lorenzo Gennari (Fiorello)
-        description: Lorenzo Gennari (Fiorello) gappista, Medaglia d'oro al Valor
-          militare per la Resistenza, morto in azione il 13 aprile del 1945; citato
-          da Beggi nella sua intervista perché suo grande amico e compagno di azioni
-      5380c4a5b9ef90e664e6dd5f81e5775c.jpg:
-        title: Pierino Beggi (il secondo da destra) con Palmiro Togliatti
-        description: Nel dopoguerra Beggi entra a far parte della Polizia Ausiliaria.
-          In questa foto del 1946 è ritratto con Palmiro Togliatti, segretario nazionale
-          del PCI dopo la liberazione, durante una visita a Reggio Emilia. Pierino
-          Beggi (il secondo da destra) in quest'occasione fu la sua guardia del corpo
-  giovanna-quadreri:
-    images:
-      cd48bff09454eb7e486a418d397aea06.jpg:
-        title: Documento alleato del British Liaison Mission del maggio 1945, che
-          attesta il ruolo svolto come staffetta
-        description: Documento alleato del British Liaison Mission del maggio 1945,
-          firmato dall’Officer John Lees, che attesta il ruolo svolto come staffetta.
-      12921745128b1132f66f6c6c6f48e16f.jpg:
-        title: Lasciapassare del »Gufo Nero« del 14.04.1945, firmato da »Kiss« Giulio
-          Davoli
-        description: Lasciapassare del »Gufo Nero« del 14.04.1945, firmato da »Kiss«
-          Giulio Davoli.
-      ce07e8a8874b939f66ae7fb6b1b2ea5a.jpg:
-        title: Il frontespizio della tessera dell’Associazione Partigiana 1945/1946
-        description: Il frontespizio della tessera dell’Associazione Partigiana 1945/1946.
-      25abd47e9564d408b71e4b2613a2af78.jpg:
-        title: Il retro della tessera dell’Associazione Partigiana 1945/1946
-        description: Il retro della tessera dell’Associazione Partigiana 1945/1946.
-      47d726560ca16b488856b9e60c44a89f.jpg:
-        title: Giovanna Quadreri in risaia a Vercelli (Piemonte), giugno 1945
-        description: Giovanna Quadreri in risaia a Vercelli (Piemonte), giugno 1945.
-      5c59c6b1732d0353da5534ae5bb57e00.jpg:
-        title: Giovanna Quadreri in risaia a Vercelli (Piemonte), giugno 1945, con
-          a destra la sorella »Foresta« Laura Quadreri
-        description: Giovanna Quadreri in risaia a Vercelli (Piemonte), giugno 1945,
-          con a destra la sorella »Foresta« Laura Quadreri.
-      f569e939e97647c3ff1fa8dfcd6e7e23.jpg:
-        title: Albinea 2001, Giovanna Quadreri e »Gordon« Glauco Monducci espongono
-          le loro bandiere storiche
-        description: Albinea 2001, Giovanna Quadreri e »Gordon« Glauco Monducci, comandante
-          del gruppo »Gufo Nero«, espongono le loro bandiere storiche.
-      4cfd2ca99697a39cdb6baea46c284a7e.jpg:
-        title: 'Reggio Emilia marzo 2007: il gruppo di ERA che ha intervistato Giovanna
-          Quadreri'
-        description: 'Reggio Emilia marzo 2007: il gruppo di ERA che ha intervistato
-          Giovanna Quadreri.'
-  carlo-porta:
-    images:
-      65e56cd33fcdf49e29f208e5b33c445d.jpg:
-        title: Fronte della scheda segnaletica di polizia di Carlo Porta
-        description: ''
-      73e839d21660bd421b6ae7969207cf68.jpg:
-        title: Retro della scheda segnaletica di polizia di Carlo Porta
-        description: ''
-      ac5caedd80155584682e991e60f1b071.jpg:
-        title: Scheda associativa ANPI
-        description: Scheda associativa ANPI di Carlo Porta
-      8be20d9dfda7a998b68c991edef180b7.jpg:
-        title: 1939 alla Colonia Penale di Pisticci (Matera)
-        description: 1939 alla Colonia Penale di Pisticci (Matera) Carlo Porta é il
-          secondo a destra
-      5eb88ed10e7c902f10e556e08ac4bcad.jpg:
-        title: 25 aprile 2007
-        description: 25 aprile 2007 l'ultimo passato insieme
   erwin-schulz:
     images:
       2805da083decc277f1e19e52797fb903.jpg:
-        title: Bill of indictment 9th May 1935
-        description: ''
+        title: "Bill of indictment 9th May 1935"
+        description: ~
       73144d58c17d7c6c7e0b4194cfdc6ccc.jpg:
-        title: Bill of indictment, page 2
-        description: ''
+        title: "Bill of indictment, page 2"
+        description: ~
       8fb5f40636c82e70ab91dacbe400d2bf.jpg:
-        title: Bill of indictment, page 3
-        description: ''
+        title: "Bill of indictment, page 3"
+        description: ~
       db7887c55e8440700dbdb25d40969318.jpg:
-        title: Bill of indictment, page 4
-        description: ''
+        title: "Bill of indictment, page 4"
+        description: ~
       cf04cd1297672d2c11cae3803ce6b5d2.jpg:
-        title: Speech at a reunion of the former moor soldiers, 2005
-        description: ''
+        title: "Speech at a reunion of the former moor soldiers, 2005"
+        description: ~
       3be16ac7ac4b1fcc154195982c1c671c.jpg:
-        title: Antifascist newspaper from Fort Devens
-        description: Antifascist newspaper from the POW camp Fort Devens
+        title: "Antifascist newspaper from Fort Devens"
+        description: "Antifascist newspaper from the POW camp Fort Devens"
       e64406c0d6a130a79905ca2096b747fc.jpg:
         title: "»Cantine«, bar of the ›Fichte‹ sports ground, 1932"
-        description: ''
+        description: ~
       78f9b0f9c47d324acf9bde1fe382d9ef.jpg:
-        title: Reporting obligation after release from imprisonment, 1940
-        description: ''
+        title: "Reporting obligation after release from imprisonment, 1940"
+        description: ~
       f08be2de58d0cc767b24b1aae51fd332.jpg:
-        title: Children and youngsters from Luckau 1988
-        description: Children and youngsters from Luckau 1988, with Erwin Schulz in
-          the monument of the ›Köpenicker Blutwoche‹
+        title: "Children and youngsters from Luckau 1988"
+        description: "Children and youngsters from Luckau 1988, with Erwin Schulz in the monument of the ›Köpenicker Blutwoche‹"
       1723e635d2e3fa982bc0d22e521f4013.jpg:
-        title: The brass band of ›Fichte‹ before 1933
-        description: ''
+        title: "The brass band of ›Fichte‹ before 1933"
+        description: ~
       72f940cbef3321a91aaeb22759f027a6.jpg:
-        title: Honouring for his commitment
-        description: ''
+        title: "Honouring for his commitment"
+        description: ~
       ee264efab684bad154b8df6738119ee2.jpg:
-        title: Erwin Schulz in the fifties of the last century
-        description: ''
+        title: "Erwin Schulz in the fifties of the last century"
+        description: ~
       116c94c957a7c6e89833d6cdf2519881.jpg:
-        title: Erwin Schulz with Hermann Bagdal, also a former moor soldier, 2001
-        description: ''
+        title: "Erwin Schulz with Hermann Bagdal, also a former moor soldier, 2001"
+        description: ~
       34789e8c7492c8903622b859cb31af7a.jpg:
-        title: Erwin Schulz with his parents, 1956
-        description: ''
+        title: "Erwin Schulz with his parents, 1956"
+        description: ~
       0a697e3d7c4c7f8d77d61279aecbeecd.jpg:
-        title: Erwin Schulz with his wife, 2001
-        description: ''
+        title: "Erwin Schulz with his wife, 2001"
+        description: ~
       115502931e73ef7d8e96884984563479.jpg:
         title: "›Fichte‹ songbook with club emblem, 1927"
-        description: ''
+        description: ~
       c8ebf7252d1f88dcb36f3e9ad2d315fa.jpg:
         title: "›Fichte‹ songbook of 1927"
-        description: ''
+        description: ~
       3865eaf0d77a992ebc6e76c3370fe680.jpg:
-        title: Memorial stone in front of ›Bürgermoor‹
-        description: Memorial stone in front of ›Bürgermoor‹ engraved with the first
-          verse of the song of the moor soldiers
+        title: "Memorial stone in front of ›Bürgermoor‹"
+        description: "Memorial stone in front of ›Bürgermoor‹ engraved with the first verse of the song of the moor soldiers"
       1d171a81619abff0d3d7bfe8c9d1a90b.jpg:
-        title: Youth centre, 1932
-        description: ''
+        title: "Youth centre, 1932"
+        description: ~
       dbdb64276c44eeb59437b0d68cb5e5d1.jpg:
-        title: Meeting room and bar of the ›Fichte‹ sports ground, 1932
-        description: ''
+        title: "Meeting room and bar of the ›Fichte‹ sports ground, 1932"
+        description: ~
       ffba4a1ef6ac9ab6da88c890425e0923.jpg:
-        title: Children’s photo of Erwin Schulz and his sister Erla Schulz
-        description: ''
+        title: "Children’s photo of Erwin Schulz and his sister Erla Schulz"
+        description: ~
       f31c50854f97c2191df3419e9134e233.jpg:
-        title: Sports event, June 1929
-        description: ''
+        title: "Sports event, June 1929"
+        description: ~
       ab951eb2ef4b6dad9fd8a40fc8c8d3fd.jpg:
-        title: Summons received in detention
-        description: ''
+        title: "Summons received in detention"
+        description: ~
       1cc637a3aa3eec2a3bb8fd85d541dc74.jpg:
         title: "›Moor soldiers: Franz Kain, Gerhard Koinor, Erwin Schulz, Fritz Fitteum‹"
-        description: ''
+        description: ~
       5a12e145da577f37c403b60f27f824d5.jpg:
-        title: 1931, protest March against the prohibition of the Spartakiad
-        description: ''
+        title: "1931, protest March against the prohibition of the Spartakiad"
+        description: ~
       d42c65873882ac4d25433a324c0185d9.jpg:
-        title: Sister Erla during a trip with folding canoes on the river Donau, 1939
-        description: ''
+        title: "Sister Erla during a trip with folding canoes on the river Donau, 1939"
+        description: ~
       3e3c1a1f62cc8b018e5d7c9a28f47def.jpg:
         title: "›Student’s summer event‹, 1988"
-        description: ''
+        description: ~
       ff3520099c11e5e7f4e54c4bd3074712.jpg:
-        title: Reunion moor soldiers, 1991
-        description: ''
+        title: "Reunion moor soldiers, 1991"
+        description: ~
       c8a172269d0e018db29e5c5c8a7d9f20.jpg:
-        title: Reunion of former Luckau prisoners in the market square of Luckau,
-          1986
-        description: ''
+        title: "Reunion of former Luckau prisoners in the market square of Luckau, 1986"
+        description: ~
       07f86647bd14a734a74ac2f67974e2b2.jpg:
-        title: Reunion of the moor soldiers, 1991
-        description: ''
+        title: "Reunion of the moor soldiers, 1991"
+        description: ~
       efdf50a832e0cc730716f8bc5dbd2e6e.jpg:
-        title: Reunion moor soldiers, 2001
-        description: ''
+        title: "Reunion moor soldiers, 2001"
+        description: ~
       b9c2ca2e9247a00b51faabe0454c3954.jpg:
-        title: Verdict confirmation
-        description: ''
+        title: "Verdict confirmation"
+        description: ~
       dca7e0c49fcfcdf09146e20381828aae.jpg:
-        title: Hiking tour in the Elbe Sandstone Mountains, 1948
-        description: ''
+        title: "Hiking tour in the Elbe Sandstone Mountains, 1948"
+        description: ~
       114f488c54cb6ab5684875211630acbc.jpg:
-        title: During a bus tour along the moor camps 2003
-        description: ''
+        title: "During a bus tour along the moor camps 2003"
+        description: ~
       f35bea244890b9487a9ac9dc2e5a93a0.jpg:
-        title: Another cover of the POW newspaper
-        description: ''
+        title: "Another cover of the POW newspaper"
+        description: ~
       9568c14776136e716bc9772a7ee4f6c4.jpg:
-        title: Werner Seelenbinder memorial run 1983
-        description: ''
+        title: "Werner Seelenbinder memorial run 1983"
+        description: ~
       51b6cceeef2341cd95503eb3767359ac.jpg:
-        title: Newspaper article of the ›Berliner Woche‹
-        description: ''
+        title: "Newspaper article of the ›Berliner Woche‹"
+        description: ~
       96c5164fc61b07d13a616d2ab2d570bd.jpg:
-        title: Newspaper article, 1935
-        description: ''
+        title: "Newspaper article, 1935"
+        description: ~
   lorenz-knorr:
     images:
       62a1f1012e1e39c25c0f7ea4f52f3ade.jpg:
         title: Confirmation
-        description: Confirmation for antifascist work by the Socialdemocratic Labor
-          Party of the CSSR
+        description: "Confirmation for antifascist work by the Socialdemocratic Labor Party of the CSSR"
       7964d7ef71a2267b7d9ae95fe19461c3.jpg:
-        title: Lorenz Knorr during the interview
-        description: Lorenz Knorr during the interview in his flat.
+        title: "Lorenz Knorr during the interview"
+        description: "Lorenz Knorr during the interview in his flat."
       4330040055bb5fe58e2166949235aa90.jpg:
-        title: Lorenz Knorr during the interview
-        description: Lorenz Knorr during the interview in his flat
+        title: "Lorenz Knorr during the interview"
+        description: "Lorenz Knorr during the interview in his flat"
+  giacomo-notari:
+    images:
+      0ac4ecf684ed5e74a9bc30258209c40f.jpg:
+        title: "Il giovane partigiano »Willi«, Giacomo Notari, nel maggio 1945"
+        description: ~
+      9b43014173f9150bfae3bf2ef49fb77d.jpg:
+        title: "Giacomo Notari mostra le sue tessere"
+        description: "Giacomo Notari mostra la sua collezione di tessere d’iscrizione al PCI dal dopoguerra a oggi (PDS poi DS)"
+      186da4d663dac0509da676e39b6e9841.jpg:
+        title: "»Willi« e Giacomo"
+        description: ~
+      6325c5818ba93d7aa44e80a176baa815.jpg:
+        title: "Un momento dell’intervista a Giacomo Notari per ERA"
+        description: ~
+      a838be34ccd6d7fe2b06a6abfc77609a.jpg:
+        title: "Giacomo Notari nell’ufficio dell’ANPI"
+        description: "Giacomo Notari nell’ufficio dell’ANPI (Associazione Nazionale Partigiani d’ Italia) di Reggio Emilia che presiede da 5 anni, insieme a lui altri ex partigiani in un momento di lavoro quotidiano"
+  lidia-valeriani:
+    images:
+      6c085a8b5881dc1d34aa18004e4306b9.jpg:
+        title: "La medaglia d’argento al Valor militare conferita a Lidia Valeriani"
+        description: "La medaglia d’argento al Valor militare conferita a Lidia Valeriani »Aurora« per l’impegno nella lotta di Liberazione Nazionale nel 1968."
+      90b3db6040a2042853543d7bcc6f24d5.jpg:
+        title: "Lidia Valeriani al centro fra due compagni del suo GAP"
+        description: "Lidia Valeriani al centro fra due compagni del suo GAP (sulla destra Umberto Bisi »Omar« comandante della Brigata), foto scattata poco dopo la liberazione di Modena, aprile 1945."
+      1a0455262afe6b77d115cf706b36c68d.jpg:
+        title: "Lidia Valeriani, terza ragazza seduta sul carro"
+        description: "Lidia Valeriani, terza ragazza seduta sul carro partendo da destra, a Modena nei primi giorni del maggio 1945."
+      8d7148745272ea7193a38f4e29214e06.jpg:
+        title: "Lidia Valeriani è la terza ragazza in piedi sulla scalinata"
+        description: "Maggio 1945, Modena. Lidia Valeriani è la terza ragazza in piedi sulla scalinata, partendo da sinistra."
+      0575f32ce3d4c46cab46b35db3b93c9b.jpg:
+        title: "30 maggio 1945, sfilata per la Liberazione di Modena,"
+        description: "30 maggio 1945, sfilata per la Liberazione di Modena, Lidia Valeriani con l’impermeabile bianco, sorregge la bandiera tricolore italiana. Sul palco retrostante i rappresentanti del CLN modenese e delle truppe alleate, rendono omaggio al passaggio dei resistenti"
+      dbe88b127c6385dd7c35d0baba78b9e2.jpg:
+        title: "30 maggio 1945. I partigiani durante la sfilata per Liberazione di Modena"
+        description: "30 maggio 1945. I partigiani durante la sfilata per Liberazione di Modena in via Emilia , Lidia Valeriani con la bandiera della Brigata."
   stanislaw-baranowski:
     images:
       ae790790449a1b76ec3f3dc33bdd9961.jpg:
-        title: autumn 2006, Warsaw, Stanisław Baranowski in his apartment flat
-        description: ''
+        title: "autumn 2006, Warsaw, Stanisław Baranowski in his apartment flat"
+        description: ~
       b193ca6112c496ea293f22342d544aa6.jpg:
-        title: Warsaw, 1945-46. Ruins of Warsaw ghetto
-        description: Warsaw, 1945-46. Ruins of Warsaw ghetto and St. Augustine’s church
-          at 18, Nowolipki Street. Polish Press Agency/ Stanisław Dąbrowiecki
+        title: "Warsaw, 1945-46. Ruins of Warsaw ghetto"
+        description: "Warsaw, 1945-46. Ruins of Warsaw ghetto and St. Augustine’s church at 18, Nowolipki Street. Polish Press Agency/ Stanisław Dąbrowiecki"
   stefania-dambrowska:
     images:
       a85d5d47ae749606ba0e5418e687a05e.jpg:
-        title: autumn 2006, Warsaw, Stefania Dąmbrowska and two young participants
-          of the ERA project
-        description: ''
+        title: "autumn 2006, Warsaw, Stefania Dąmbrowska and two young participants of the ERA project"
+        description: ~
   tadeusz-sulowski:
     images:
       ce78f06bb42f5878a51eec0440c355ba.jpg:
-        title: Tadeusz Sułowski’s aunt in the concentration camp in Auschwitz
-        description: ''
+        title: "Tadeusz Sułowski’s aunt in the concentration camp in Auschwitz"
+        description: ~
       9dc30b8bd9aa9948de681d5778f847e1.jpg:
-        title: Tadeusz Sułowski’s aunt in the concentration camp in Auschwitz
-        description: ''
+        title: "Tadeusz Sułowski’s aunt in the concentration camp in Auschwitz"
+        description: ~
       dc005904fd0e6de717686380015c5962.jpg:
-        title: Tadeusz Sułowski’s aunt in the concentration camp in Auschwitz. A portrait
-          drawn by a family member.
-        description: ''
+        title: "Tadeusz Sułowski’s aunt in the concentration camp in Auschwitz. A portrait drawn by a family member."
+        description: ~
       0ee7c5acc01799bfcb6d5fa38cfe6c04.jpg:
-        title: Tadeusz Sułowski as a boy.
-        description: ''
+        title: "Tadeusz Sułowski as a boy."
+        description: ~
       ba44e0da97d4861d9dc58e7e58b2d6bc.jpg:
-        title: Tadeusz Sułowski as a young man.
-        description: ''
+        title: "Tadeusz Sułowski as a young man."
+        description: ~
       ba6d3a77a2eb8fe3e141979d59008db2.jpg:
-        title: autumn 2006, Józefów, Tadeusz Sułowski in his garden.
-        description: ''
+        title: "autumn 2006, Józefów, Tadeusz Sułowski in his garden."
+        description: ~
   ana-zablatnik:
     images:
       cb4a0a18c3bacba2fd7c0daa81c1f3af.jpg:
-        title: Acknowledgement of Ana Zablatnik being a Partisan
-        description: Acknowledgement of Ana Zablatnik being a Partisan, issued by
-          the then SFRJ (Socialist Federal Republic of Yugoslavia)
+        title: "Acknowledgement of Ana Zablatnik being a Partisan"
+        description: "Acknowledgement of Ana Zablatnik being a Partisan, issued by the then SFRJ (Socialist Federal Republic of Yugoslavia)"
       76016d30123ce716bf1c3f877cbf0008.jpg:
-        title: Foto of the young Ana Zablatnik in her passport
-        description: ''
+        title: "Foto of the young Ana Zablatnik in her passport"
+        description: ~
       5652689e1eb29f8a7042739c11b902aa.jpg:
-        title: Ana Zabltanik showing documents from her time in the resistance
-        description: Ana Zabltanik showing documents from her time in the resistance
-          during the interview
+        title: "Ana Zabltanik showing documents from her time in the resistance"
+        description: "Ana Zabltanik showing documents from her time in the resistance during the interview"
       36d684811a26ab0c3e5a6457e1fa9e94.jpg:
-        title: Ana Zablatnik´s signature in her passport
-        description: ''
+        title: "Ana Zablatnik´s signature in her passport"
+        description: ~
       ea2af0523497b1d0994c725bddbc051e.jpg:
-        title: Poems being written by Ana Zablatnik in prison
-        description: ''
+        title: "Poems being written by Ana Zablatnik in prison"
+        description: ~
+  fernando-cavazzini:
+    images:
+      33dbdcc4e46a68ddebf3faf3e20314f5.jpg:
+        title: "26 luglio 1943, si festeggia la caduta del fascismo a Reggio Emilia"
+        description: "26 luglio 1943, si festeggia la caduta del fascismo a Reggio Emilia: il secondo da dx che guarda in macchina è Fernando Cavazzini"
+      a5496aed7c7de4af07de9da2712c68ce.jpg:
+        title: "Caduta del fascismo a Reggio Emilia, il 26 luglio 1943"
+        description: "Caduta del fascismo a Reggio Emilia, il 26 luglio 1943, si festeggia la liberazione dei detenuti politici che vengono liberati dal Carcere di San Tommaso"
+      e996223845160f12453e217baf79cbf5.jpg:
+        title: "Fernando Cavazzini a sinistra e Ugo Veronesi il 6 marzo 1944"
+        description: "Fernando Cavazzini a sinistra e Ugo Veronesi il 6 marzo 1944, ultima foto scattata prima di intraprendere la strada della montagna dove raggiungeranno le formazioni partigiane"
+      a5f8bfcda72263c9864d5c33c41b4858.jpg:
+        title: "Fernando Cavazzini ritratto da partigiano"
+        description: ~
+      936e394c9f3d7a4a0cbcc510ff2f41f1.jpg:
+        title: "Cavazzini nella Reggio liberata, nel maggio del 1945"
+        description: ~
+      aff5b7f658cfd6df0b487326c731458c.jpg:
+        title: "Fernando Cavazzini mentre riceve la Medaglia di Bronzo al Valor militare"
+        description: "Fernando Cavazzini mentre riceve la Medaglia di Bronzo al Valor militare per il suo impegno nella Resistenza, Reggio Emilia, Caserma Zucchi, 1967."
+      25fcfe35563dfa4d77314c023a81f667.jpg:
+        title: "Novembre 2006, durante l'incontro preparatorio all'intervista ERA"
+        description: "Novembre 2006, durante l'incontro preparatorio all'intervista ERA, spiega a Dario Tarasconi il momento della scelta di partire per la montagna."
+      84d65565c91aac770ac59fc0c750c079.jpg:
+        title: "Novembre 2006, durante l'incontro preparatorio all'intervista ERA"
+        description: "Novembre 2006, durante l'incontro preparatorio all'intervista ERA con Simona Morani e Dario Tarasconi."
+  giacomina-castagnetti:
+    images:
+      5ab13c7b4df1dcd85cdcd73ebe4d04a2.jpg:
+        title: "Giacomina Castagnetti (con gli occhiali)"
+        description: "Giacomina Castagnetti (con gli occhiali) mentra passeggia con un'amica in via Crispi (RE), il 20 settembre del 1944."
+  anita-malavasi:
+    images:
+      264d771f9b85f6397d8a004ca2937f84.jpg:
+        title: "Annita Malavasi a 17 anni, è il 1938."
+        description: ~
+      ead0b50e0481f4c03137aaf425b3dacb.jpg:
+        title: "Annita Malavasi è la prima a destra in »uniforme« da partigiana"
+        description: "Annita Malavasi è la prima a destra in »uniforme« da partigiana insieme ad alcuni compagni, sono i primi giorni del maggio 1945"
+      2d53f1609fdc2d8ab6e9c72a61ca3f20.jpg:
+        title: "Annita Malavasi, la terza in piedi da sinistra"
+        description: "Annita Malavasi, la terza in piedi da sinistra una decina di giorni dopo il 25 aprile 1945 insieme a un gruppo di partigiani e partigiane"
+      4dd6dadc115dda2b9c58ce6c1a5cf825.jpg:
+        title: "Autunno 1943, poco tempo dopo l'occupazione tedesca di Reggio Emilia"
+        description: "Autunno 1943, poco tempo dopo l'occupazione tedesca di Reggio Emilia, Annita Malavasi in centro città con il volto teso: è appena passata una pattuglia SS"
+      b394f04646a385ea29f9426e83093ace.jpg:
+        title: "Interno di un falso documento d’identità"
+        description: "Interno di un falso documento d’identità utilizzato da Annita Malavasi durante la lotta di Liberazione, gennaio-febbraio 1945"
+      d7da3c24d2f22a029a599fd85aa2638a.jpg:
+        title: "Fronte di un falso documento d’identità"
+        description: "Fronte di un falso documento d’identità utilizzato da Annita Malavasi durante la lotta di Liberazione, gennaio-febbraio 1945"
+      bd99fe8dc4dc5ea30d0b29b4f88aaa75.jpg:
+        title: "Annita Malavasi, a 30 anni (1951)"
+        description: ~
+      f79debcab7d6bb775fd3e301652cc4a8.jpg:
+        title: "Annita Malavasi nel dopoguerra"
+        description: "Annita Malavasi nel dopoguerra continua il suo impegno politico: in questa foto è ritratta su un palco durante un comizio, è il primo anniversario della Liberazione, il 25 aprile 1946."
+      93ee2bd7f32aed29912ab28593722cb0.jpg:
+        title: "Dicembre 2006, Reggio Emilia"
+        description: "Dicembre 2006, Reggio Emilia, Annita Malavasi durante le riprese per le interviste ERA."
+      228266dfb60973295edf128cc2cd0151.jpg:
+        title: "Dicembre 2006, Reggio Emilia"
+        description: "Dicembre 2006, Reggio Emilia, Annita Malavasi durante le riprese per le interviste ERA."
+  pierino-beggi:
+    images:
+      6aa783ea4f99a2713dc435d582a6f188.jpg:
+        title: "Pierino Beggi a 19 anni, è il 1939"
+        description: ~
+      e680aa2658643ee5ce89a10d01488ece.jpg:
+        title: "Il documento di riconoscimento di partigiano"
+        description: "Il documento di riconoscimento di partigiano (volontari della libertà così denominati dopo la liberazione di Roma quando si costituisce il Corpo volontari della Libertà) consegnato a Beggi dopo la Liberazione."
+      a8b5d477ad3e7425ba87e84298927813.jpg:
+        title: "Beggi (in piedi ultimo a destra), è il Gennaio del 1940"
+        description: "Beggi (in piedi ultimo a destra) in posa goliardica con gli amici prima di partire per il servizio militare, è il Gennaio del 1940"
+      e887eaf686366d27e9ad3503540366c0.jpg:
+        title: "Lorenzo Gennari (Fiorello)"
+        description: "Lorenzo Gennari (Fiorello) gappista, Medaglia d'oro al Valor militare per la Resistenza, morto in azione il 13 aprile del 1945; citato da Beggi nella sua intervista perché suo grande amico e compagno di azioni"
+      5380c4a5b9ef90e664e6dd5f81e5775c.jpg:
+        title: "Pierino Beggi (il secondo da destra) con Palmiro Togliatti"
+        description: "Nel dopoguerra Beggi entra a far parte della Polizia Ausiliaria. In questa foto del 1946 è ritratto con Palmiro Togliatti, segretario nazionale del PCI dopo la liberazione, durante una visita a Reggio Emilia. Pierino Beggi (il secondo da destra) in quest'occasione fu la sua guardia del corpo"
+  giovanna-quadreri:
+    images:
+      cd48bff09454eb7e486a418d397aea06.jpg:
+        title: "Documento alleato del British Liaison Mission del maggio 1945, che attesta il ruolo svolto come staffetta"
+        description: "Documento alleato del British Liaison Mission del maggio 1945, firmato dall’Officer John Lees, che attesta il ruolo svolto come staffetta."
+      12921745128b1132f66f6c6c6f48e16f.jpg:
+        title: "Lasciapassare del »Gufo Nero« del 14.04.1945, firmato da »Kiss« Giulio Davoli"
+        description: "Lasciapassare del »Gufo Nero« del 14.04.1945, firmato da »Kiss« Giulio Davoli."
+      ce07e8a8874b939f66ae7fb6b1b2ea5a.jpg:
+        title: "Il frontespizio della tessera dell’Associazione Partigiana 1945/1946"
+        description: "Il frontespizio della tessera dell’Associazione Partigiana 1945/1946."
+      25abd47e9564d408b71e4b2613a2af78.jpg:
+        title: "Il retro della tessera dell’Associazione Partigiana 1945/1946"
+        description: "Il retro della tessera dell’Associazione Partigiana 1945/1946."
+      47d726560ca16b488856b9e60c44a89f.jpg:
+        title: "Giovanna Quadreri in risaia a Vercelli (Piemonte), giugno 1945"
+        description: "Giovanna Quadreri in risaia a Vercelli (Piemonte), giugno 1945."
+      5c59c6b1732d0353da5534ae5bb57e00.jpg:
+        title: "Giovanna Quadreri in risaia a Vercelli (Piemonte), giugno 1945, con a destra la sorella »Foresta« Laura Quadreri"
+        description: "Giovanna Quadreri in risaia a Vercelli (Piemonte), giugno 1945, con a destra la sorella »Foresta« Laura Quadreri."
+      f569e939e97647c3ff1fa8dfcd6e7e23.jpg:
+        title: "Albinea 2001, Giovanna Quadreri e »Gordon« Glauco Monducci espongono le loro bandiere storiche"
+        description: "Albinea 2001, Giovanna Quadreri e »Gordon« Glauco Monducci, comandante del gruppo »Gufo Nero«, espongono le loro bandiere storiche."
+      4cfd2ca99697a39cdb6baea46c284a7e.jpg:
+        title: "Reggio Emilia marzo 2007: il gruppo di ERA che ha intervistato Giovanna Quadreri"
+        description: "Reggio Emilia marzo 2007: il gruppo di ERA che ha intervistato Giovanna Quadreri."
   alenka-gerlovic:
     images:
       0e45252e805aeefc14cca8991fafba68.jpg:
-        title: 'Alenka Gerlovič: Autumn in the sinkhole, 2004'
-        description: ''
+        title: "Alenka Gerlovič: Autumn in the sinkhole, 2004"
+        description: ~
       112e70edc7464d009c11e829a13816f9.jpg:
-        title: 'Alenka Gerlovič: Town at the seaside, 1973/74'
-        description: ''
+        title: "Alenka Gerlovič: Town at the seaside, 1973/74"
+        description: ~
       3c365ec952e8181d9f61456a5b02e4b5.jpg:
-        title: 'Alenka Gerlovič: Abandoned vineyards in the shadow, 1969'
-        description: ''
+        title: "Alenka Gerlovič: Abandoned vineyards in the shadow, 1969"
+        description: ~
       974ffd2bf26c37533c802f78f086eeda.jpg:
-        title: Lasciapassare of Alenka Gerlovič
-        description: Lasciapassare of Alenka Gerlovič during the Italian occupation
-          of Ljubljana (Slovenia), 1941 - 1943
+        title: "Lasciapassare of Alenka Gerlovič"
+        description: "Lasciapassare of Alenka Gerlovič during the Italian occupation of Ljubljana (Slovenia), 1941 - 1943"
       02b727be603f6450af991fa025608260.jpg:
-        title: Alenka Gerlovič with her husband Vito Globočnik, June 1945
-        description: Alenka Gerlovič with her husband Vito Globočnik in Maribor (Slovenia),
-          June 1945
+        title: "Alenka Gerlovič with her husband Vito Globočnik, June 1945"
+        description: "Alenka Gerlovič with her husband Vito Globočnik in Maribor (Slovenia), June 1945"
       6e2eb694c2f077bc8233f3e74970b8e4.jpg:
-        title: Alenka Gerlovič, 2006
-        description: Alenka Gerlovič in the botanical gardens of Ljubljana (Slovenia),
-          2006
+        title: "Alenka Gerlovič, 2006"
+        description: "Alenka Gerlovič in the botanical gardens of Ljubljana (Slovenia), 2006"
   ciril-zlobec:
     images:
       40a6b72e8e87e4406ee58ad024b64d74.jpg:
-        title: Ciril Zlobec, wearing the partisan uniform, May 1945
-        description: ''
+        title: "Ciril Zlobec, wearing the partisan uniform, May 1945"
+        description: ~
       710af4cd24b0207fcfa8ad88a66e5cdd.jpg:
-        title: Ciril Zlobec, 1964
-        description: ''
+        title: "Ciril Zlobec, 1964"
+        description: ~
       a1e605e011721253a0e9689bec9491f9.jpg:
-        title: Ciril Zlobec, 1984
-        description: ''
+        title: "Ciril Zlobec, 1984"
+        description: ~
   ivo-srcnik:
     images:
+      8440f1d1030f497c725b881b0ec89a80.jpg:
+        title: ~
+        description: ~
+      a21f2a4464daa6fafad7037925b1622a.jpg:
+        title: ~
+        description: ~
+      26181c700a7c60429e45b899dd326bc3.jpg:
+        title: ~
+        description: ~
+  carlo-porta:
+    images:
       65e56cd33fcdf49e29f208e5b33c445d.jpg:
-        title: Front side of Carlo Porta's police booking card
-        description: ''
+        title: "Fronte della scheda segnaletica di polizia di Carlo Porta"
+        description: ~
       73e839d21660bd421b6ae7969207cf68.jpg:
-        title: Back side of Carlo Porta's police booking card
-        description: ''
+        title: "Retro della scheda segnaletica di polizia di Carlo Porta"
+        description: ~
       ac5caedd80155584682e991e60f1b071.jpg:
-        title: Carlo Porta's ANPI membership card
-        description: ''
+        title: "Scheda associativa ANPI"
+        description: ~
       8be20d9dfda7a998b68c991edef180b7.jpg:
-        title: 1939, at the penal colony in Pisticci (Matera)
-        description: 1939, at the penal colony in Pisticci (Matera) Carlo Porta is
-          the second from the right
+        title: "1939 alla Colonia Penale di Pisticci (Matera)"
+        description: "1939 alla Colonia Penale di Pisticci (Matera) Carlo Porta é il secondo a destra"
       5eb88ed10e7c902f10e556e08ac4bcad.jpg:
-        title: 25th of April 2007, the last one spent together
-        description: ''
+        title: "25 aprile 2007"
+        description: ~

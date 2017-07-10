@@ -1,377 +1,356 @@
----
 it:
   fernando-cavazzini:
     chapter-5:
       c: 5
-      title: The battle of Cerré Sologno
+      title: "The battle of Cerré Sologno"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,13
-          to: 00:00:07,03
-          text: Luigi was supposed to go with 30 men to blow up the Gatta Bridge
+          from: "00:00:00,13"
+          to: "00:00:07,03"
+          text: "Luigi was supposed to go with 30 men to blow up the Gatta Bridge"
         sequence-2:
           s: 2
-          from: 00:00:07,03
-          to: 00:00:08,00
-          text: ''
+          from: "00:00:07,03"
+          to: "00:00:08,00"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:08,00
-          to: 00:00:12,20
-          text: and disarm the garrison guarding it.
+          from: "00:00:08,00"
+          to: "00:00:12,20"
+          text: "and disarm the garrison guarding it."
         sequence-4:
           s: 4
-          from: 00:00:12,20
-          to: 00:00:17,00
-          text: The rest of the group had to go to Ligonchio
+          from: "00:00:12,20"
+          to: "00:00:17,00"
+          text: "The rest of the group had to go to Ligonchio"
         sequence-5:
           s: 5
-          from: 00:00:17,00
-          to: 00:00:23,11
-          text: and neutralize the garrison counting something like 20 or 25 fascists.
-            So we left.
+          from: "00:00:17,00"
+          to: "00:00:23,11"
+          text: "and neutralize the garrison counting something like 20 or 25 fascists. So we left."
         sequence-6:
           s: 6
-          from: 00:00:23,11
-          to: 00:00:30,20
-          text: We didn’t even have dinner because we had marched for a long time
-            to make it to Santonio.
+          from: "00:00:23,11"
+          to: "00:00:30,20"
+          text: "We didn’t even have dinner because we had marched for a long time to make it to Santonio."
         sequence-7:
           s: 7
-          from: 00:00:30,20
-          to: 00:00:32,27
-          text: We didn’t stop.
+          from: "00:00:30,20"
+          to: "00:00:32,27"
+          text: "We didn’t stop."
         sequence-8:
           s: 8
-          from: 00:00:32,27
-          to: 00:00:41,07
-          text: Half way between Santonio and Ligonchio, in Cerrè Sologno,
+          from: "00:00:32,27"
+          to: "00:00:41,07"
+          text: "Half way between Santonio and Ligonchio, in Cerrè Sologno,"
         sequence-9:
           s: 9
-          from: 00:00:41,07
-          to: 00:00:47,13
-          text: at seven in the morning, we couldn’t move any further during the day
+          from: "00:00:41,07"
+          to: "00:00:47,13"
+          text: "at seven in the morning, we couldn’t move any further during the day"
         sequence-10:
           s: 10
-          from: 00:00:47,13
-          to: 00:00:53,15
-          text: because the German reconnaissance airplanes were flying over the area
-            and would have spotted us.
+          from: "00:00:47,13"
+          to: "00:00:53,15"
+          text: "because the German reconnaissance airplanes were flying over the area and would have spotted us."
         sequence-11:
           s: 11
-          from: 00:00:53,15
-          to: 00:01:01,25
-          text: So we stopped in Cerrè to rest, planning to get moving again in the
-            evening and reach Ligonchio.
+          from: "00:00:53,15"
+          to: "00:01:01,25"
+          text: "So we stopped in Cerrè to rest, planning to get moving again in the evening and reach Ligonchio."
         sequence-12:
           s: 12
-          from: 00:01:01,25
-          to: 00:01:10,21
-          text: At eight one of our sentinels fired a shot and the Germans were there.
+          from: "00:01:01,25"
+          to: "00:01:10,21"
+          text: "At eight one of our sentinels fired a shot and the Germans were there."
         sequence-13:
           s: 13
-          from: 00:01:10,21
-          to: 00:01:19,01
-          text: We were at south east, taking control of the first houses.
+          from: "00:01:10,21"
+          to: "00:01:19,01"
+          text: "We were at south east, taking control of the first houses."
         sequence-14:
           s: 14
-          from: 00:01:19,01
-          to: 00:01:26,05
-          text: The Germans were coming from the west, and lined up to the west and
-            north.
+          from: "00:01:19,01"
+          to: "00:01:26,05"
+          text: "The Germans were coming from the west, and lined up to the west and north."
         sequence-15:
           s: 15
-          from: 00:01:26,05
-          to: 00:01:34,07
-          text: In some cases fascists, Germans and partisans were mixed up in the
-            same house.
+          from: "00:01:26,05"
+          to: "00:01:34,07"
+          text: "In some cases fascists, Germans and partisans were mixed up in the same house."
         sequence-16:
           s: 16
-          from: 00:01:34,07
-          to: 00:01:40,13
-          text: I remember this partisan who was in a house when the door opened and
-            in came a German.
+          from: "00:01:34,07"
+          to: "00:01:40,13"
+          text: "I remember this partisan who was in a house when the door opened and in came a German."
         sequence-17:
           s: 17
-          from: 00:01:40,13
-          to: 00:01:47,00
-          text: They were both aiming their gun at each other, until the German walked
-            back without shooting.
+          from: "00:01:40,13"
+          to: "00:01:47,00"
+          text: "They were both aiming their gun at each other, until the German walked back without shooting."
         sequence-18:
           s: 18
-          from: 00:01:47,00
-          to: 00:01:50,20
-          text: If he had, they both would have died.
+          from: "00:01:47,00"
+          to: "00:01:50,20"
+          text: "If he had, they both would have died."
         sequence-19:
           s: 19
-          from: 00:01:50,20
-          to: 00:01:53,19
-          text: Then what happened?
+          from: "00:01:50,20"
+          to: "00:01:53,19"
+          text: "Then what happened?"
         sequence-20:
           s: 20
-          from: 00:01:53,19
-          to: 00:02:04,06
-          text: The battle had started 15-20 minutes before and our commander Miro
-            was hurt badly.
+          from: "00:01:53,19"
+          to: "00:02:04,06"
+          text: "The battle had started 15-20 minutes before and our commander Miro was hurt badly."
         sequence-21:
           s: 21
-          from: 00:02:04,06
-          to: 00:02:10,20
-          text: Barbolini too, who was the commander of those from Modena.
+          from: "00:02:04,06"
+          to: "00:02:10,20"
+          text: "Barbolini too, who was the commander of those from Modena."
         sequence-22:
           s: 22
-          from: 00:02:10,20
-          to: 00:02:16,17
-          text: After that Eros took charge.
+          from: "00:02:10,20"
+          to: "00:02:16,17"
+          text: "After that Eros took charge."
         sequence-23:
           s: 23
-          from: 00:02:16,17
-          to: 00:02:23,11
-          text: But one of the machine guns we had, the French St.Etienne, had the
-            wrong ammunition.
+          from: "00:02:16,17"
+          to: "00:02:23,11"
+          text: "But one of the machine guns we had, the French St.Etienne, had the wrong ammunition."
         sequence-24:
           s: 24
-          from: 00:02:23,11
-          to: 00:02:24,28
-          text: It didn’t fire one shot.
+          from: "00:02:23,11"
+          to: "00:02:24,28"
+          text: "It didn’t fire one shot."
         sequence-25:
           s: 25
-          from: 00:02:24,28
-          to: 00:02:30,24
-          text: The other one, a Breda, worked properly,
+          from: "00:02:24,28"
+          to: "00:02:30,24"
+          text: "The other one, a Breda, worked properly,"
         sequence-26:
           s: 26
-          from: 00:02:30,24
-          to: 00:02:37,22
-          text: but had been placed in an open spot, since we had to do everything
-            in a hurry.
+          from: "00:02:30,24"
+          to: "00:02:37,22"
+          text: "but had been placed in an open spot, since we had to do everything in a hurry."
         sequence-27:
           s: 27
-          from: 00:02:37,22
-          to: 00:02:44,15
-          text: After the first shot was fired, a German with a rifle and binoculars
+          from: "00:02:37,22"
+          to: "00:02:44,15"
+          text: "After the first shot was fired, a German with a rifle and binoculars"
         sequence-28:
           s: 28
-          from: 00:02:44,15
-          to: 00:02:48,14
-          text: shot him in the middle of the head and killed him.
+          from: "00:02:44,15"
+          to: "00:02:48,14"
+          text: "shot him in the middle of the head and killed him."
         sequence-29:
           s: 29
-          from: 00:02:48,14
-          to: 00:02:51,12
-          text: So that machine gun was useless.
+          from: "00:02:48,14"
+          to: "00:02:51,12"
+          text: "So that machine gun was useless."
         sequence-30:
           s: 30
-          from: 00:02:51,12
-          to: 00:02:57,12
-          text: We were badly equipped, while they were really highly armed.
+          from: "00:02:51,12"
+          to: "00:02:57,12"
+          text: "We were badly equipped, while they were really highly armed."
         sequence-31:
           s: 31
-          from: 00:02:57,12
-          to: 00:03:07,07
-          text: Around 10:30 or 11, I was in the highest position in Cerrè Sologno,
+          from: "00:02:57,12"
+          to: "00:03:07,07"
+          text: "Around 10:30 or 11, I was in the highest position in Cerrè Sologno,"
         sequence-32:
           s: 32
-          from: 00:03:07,07
-          to: 00:03:15,06
-          text: right in front of the spot where today you can find the monument of
-            our fallen.
+          from: "00:03:07,07"
+          to: "00:03:15,06"
+          text: "right in front of the spot where today you can find the monument of our fallen."
         sequence-33:
           s: 33
-          from: 00:03:15,06
-          to: 00:03:23,11
-          text: I was with Viktor, a Russian who had a machine gun
+          from: "00:03:15,06"
+          to: "00:03:23,11"
+          text: "I was with Viktor, a Russian who had a machine gun"
         sequence-34:
           s: 34
-          from: 00:03:23,11
-          to: 00:03:33,00
-          text: that had been taken from a fascist by the women in Montecavolo.
+          from: "00:03:23,11"
+          to: "00:03:33,00"
+          text: "that had been taken from a fascist by the women in Montecavolo."
         sequence-35:
           s: 35
-          from: 00:03:33,00
-          to: 00:03:37,28
-          text: That was the only machine gun we had.
+          from: "00:03:33,00"
+          to: "00:03:37,28"
+          text: "That was the only machine gun we had."
         sequence-36:
           s: 36
-          from: 00:03:37,28
-          to: 00:03:42,18
-          text: Then there was also one of my comrades from Cella. It was four of
-            us there.
+          from: "00:03:37,28"
+          to: "00:03:42,18"
+          text: "Then there was also one of my comrades from Cella. It was four of us there."
         sequence-37:
           s: 37
-          from: 00:03:42,18
-          to: 00:03:47,12
-          text: I could overlook the whole main street of Cerrè Sologno.
+          from: "00:03:42,18"
+          to: "00:03:47,12"
+          text: "I could overlook the whole main street of Cerrè Sologno."
         sequence-38:
           s: 38
-          from: 00:03:47,12
-          to: 00:03:50,24
-          text: This young man was walking towards us with a gun.
+          from: "00:03:47,12"
+          to: "00:03:50,24"
+          text: "This young man was walking towards us with a gun."
         sequence-39:
           s: 39
-          from: 00:03:50,24
-          to: 00:03:56,22
-          text: As he realized he had 3 or 4 guns aimed at him, he raised his hands
-            and dropped his gun.
+          from: "00:03:50,24"
+          to: "00:03:56,22"
+          text: "As he realized he had 3 or 4 guns aimed at him, he raised his hands and dropped his gun."
         sequence-40:
           s: 40
-          from: 00:03:56,22
-          to: 00:03:59,18
-          text: We told him to come forward,
+          from: "00:03:56,22"
+          to: "00:03:59,18"
+          text: "We told him to come forward,"
         sequence-41:
           s: 41
-          from: 00:03:59,18
-          to: 00:04:07,19
-          text: then we arrested him, questioned him for some news, and took him to
-            the command.
+          from: "00:03:59,18"
+          to: "00:04:07,19"
+          text: "then we arrested him, questioned him for some news, and took him to the command."
         sequence-42:
           s: 42
-          from: 00:04:07,19
-          to: 00:04:12,18
-          text: There we saw Barbolini’s sister, Sonia, who was desperate.
+          from: "00:04:07,19"
+          to: "00:04:12,18"
+          text: "There we saw Barbolini’s sister, Sonia, who was desperate."
         sequence-43:
           s: 43
-          from: 00:04:12,18
-          to: 00:04:17,23
-          text: Our wounded men had already been taken there.
+          from: "00:04:12,18"
+          to: "00:04:17,23"
+          text: "Our wounded men had already been taken there."
         sequence-44:
           s: 44
-          from: 00:04:17,23
-          to: 00:04:25,22
-          text: She told us that a German unit from Cinque Cerri was on its way.
+          from: "00:04:17,23"
+          to: "00:04:25,22"
+          text: "She told us that a German unit from Cinque Cerri was on its way."
         sequence-45:
           s: 45
-          from: 00:04:25,22
-          to: 00:04:32,08
-          text: If that company made it over there, it would have been a slaughtering
-            for us.
+          from: "00:04:25,22"
+          to: "00:04:32,08"
+          text: "If that company made it over there, it would have been a slaughtering for us."
         sequence-46:
           s: 46
-          from: 00:04:32,08
-          to: 00:04:42,13
-          text: We didn’t have enough cover to draw back since the mountain behind
-            us had more than a meter of snow.
+          from: "00:04:32,08"
+          to: "00:04:42,13"
+          text: "We didn’t have enough cover to draw back since the mountain behind us had more than a meter of snow."
         sequence-47:
           s: 47
-          from: 00:04:42,13
-          to: 00:04:47,23
-          text: If we withdrew like that they would have shot us.
+          from: "00:04:42,13"
+          to: "00:04:47,23"
+          text: "If we withdrew like that they would have shot us."
         sequence-48:
           s: 48
-          from: 00:04:47,23
-          to: 00:04:53,26
-          text: It was almost noon at that point,
+          from: "00:04:47,23"
+          to: "00:04:53,26"
+          text: "It was almost noon at that point,"
         sequence-49:
           s: 49
-          from: 00:04:53,26
-          to: 00:05:00,07
-          text: and it wasn’t clear if we were winning or losing the battle.
+          from: "00:04:53,26"
+          to: "00:05:00,07"
+          text: "and it wasn’t clear if we were winning or losing the battle."
         sequence-50:
           s: 50
-          from: 00:05:00,07
-          to: 00:05:05,15
-          text: Then the fascists started singing “Battaglione”.
+          from: "00:05:00,07"
+          to: "00:05:05,15"
+          text: "Then the fascists started singing “Battaglione”."
         sequence-51:
           s: 51
-          from: 00:05:05,15
-          to: 00:05:08,26
+          from: "00:05:05,15"
+          to: "00:05:08,26"
           text: "“Battaglioni” was a song which read:"
         sequence-52:
           s: 52
-          from: 00:05:08,26
-          to: 00:05:15,23
+          from: "00:05:08,26"
+          to: "00:05:15,23"
           text: "“Battalions of the Duce, death squads, created for life,"
         sequence-53:
           s: 53
-          from: 00:05:15,23
-          to: 00:05:26,26
-          text: in spring we’ll take part in the battle of Mussolini, brave troops…”
+          from: "00:05:15,23"
+          to: "00:05:26,26"
+          text: "in spring we’ll take part in the battle of Mussolini, brave troops…”"
         sequence-54:
           s: 54
-          from: 00:05:26,26
-          to: 00:05:30,17
-          text: They sang for 5 or 10 minutes.
+          from: "00:05:26,26"
+          to: "00:05:30,17"
+          text: "They sang for 5 or 10 minutes."
         sequence-55:
           s: 55
-          from: 00:05:30,17
-          to: 00:05:34,26
-          text: 'After a while our side was singing “Bandiera rossa”:'
+          from: "00:05:30,17"
+          to: "00:05:34,26"
+          text: "After a while our side was singing “Bandiera rossa”:"
         sequence-56:
           s: 56
-          from: 00:05:34,26
-          to: 00:05:42,05
+          from: "00:05:34,26"
+          to: "00:05:42,05"
           text: "“Bandiera rossa, let’s go, at arms, etc.”"
         sequence-57:
           s: 57
-          from: 00:05:42,05
-          to: 00:05:49,26
-          text: I was really surprised because I didn’t even know these songs, not
-            even “Bandiera rossa”.
+          from: "00:05:42,05"
+          to: "00:05:49,26"
+          text: "I was really surprised because I didn’t even know these songs, not even “Bandiera rossa”."
         sequence-58:
           s: 58
-          from: 00:05:49,26
-          to: 00:05:51,01
-          text: What happened next?
+          from: "00:05:49,26"
+          to: "00:05:51,01"
+          text: "What happened next?"
         sequence-59:
           s: 59
-          from: 00:05:51,01
-          to: 00:05:57,18
-          text: The fascists had found out that there was a column of people coming.
+          from: "00:05:51,01"
+          to: "00:05:57,18"
+          text: "The fascists had found out that there was a column of people coming."
         sequence-60:
           s: 60
-          from: 00:05:57,18
-          to: 00:06:03,02
-          text: They thought it was Germans or fascists but it was our own people.
+          from: "00:05:57,18"
+          to: "00:06:03,02"
+          text: "They thought it was Germans or fascists but it was our own people."
         sequence-61:
           s: 61
-          from: 00:06:03,02
-          to: 00:06:12,04
-          text: It was Luigi, who had been informed about the battle in Cerrè after
-            he had disarmed the fascists in Gatta.
+          from: "00:06:03,02"
+          to: "00:06:12,04"
+          text: "It was Luigi, who had been informed about the battle in Cerrè after he had disarmed the fascists in Gatta."
         sequence-62:
           s: 62
-          from: 00:06:12,04
-          to: 00:06:19,08
-          text: He decided to make an effort to sneak up behind the Germans.
+          from: "00:06:12,04"
+          to: "00:06:19,08"
+          text: "He decided to make an effort to sneak up behind the Germans."
         sequence-63:
           s: 63
-          from: 00:06:19,08
-          to: 00:06:26,11
-          text: After he arrived we took control to the north, south and east.
+          from: "00:06:19,08"
+          to: "00:06:26,11"
+          text: "After he arrived we took control to the north, south and east."
         sequence-64:
           s: 64
-          from: 00:06:26,11
-          to: 00:06:32,23
-          text: The Germans could only make it towards the west, but at that point
-            they disbanded.
+          from: "00:06:26,11"
+          to: "00:06:32,23"
+          text: "The Germans could only make it towards the west, but at that point they disbanded."
         sequence-65:
           s: 65
-          from: 00:06:32,23
-          to: 00:06:37,09
-          text: Some ran away, 22 surrendered.
+          from: "00:06:32,23"
+          to: "00:06:37,09"
+          text: "Some ran away, 22 surrendered."
         sequence-66:
           s: 66
-          from: 00:06:37,09
-          to: 00:06:41,11
-          text: The battle ended at around two in the afternoon.
+          from: "00:06:37,09"
+          to: "00:06:41,11"
+          text: "The battle ended at around two in the afternoon."
         sequence-67:
           s: 67
-          from: 00:06:41,11
-          to: 00:06:45,24
-          text: Ten Germans had died, along with many wounded,
+          from: "00:06:41,11"
+          to: "00:06:45,24"
+          text: "Ten Germans had died, along with many wounded,"
         sequence-68:
           s: 68
-          from: 00:06:45,24
-          to: 00:06:50,01
-          text: and we had 22 prisoners who had surrendered.
+          from: "00:06:45,24"
+          to: "00:06:50,01"
+          text: "and we had 22 prisoners who had surrendered."
         sequence-69:
           s: 69
-          from: 00:06:50,01
-          to: 00:06:54,07
-          text: On our side there were seven casualties and eleven wounded.
+          from: "00:06:50,01"
+          to: "00:06:54,07"
+          text: "On our side there were seven casualties and eleven wounded."
         sequence-70:
           s: 70
-          from: 00:06:54,07
-          to: 00:06:58,23
-          text: It was one of the heaviest battles during the whole Resistance.
+          from: "00:06:54,07"
+          to: "00:06:58,23"
+          text: "It was one of the heaviest battles during the whole Resistance."

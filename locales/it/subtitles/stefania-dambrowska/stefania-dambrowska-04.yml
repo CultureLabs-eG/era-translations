@@ -1,184 +1,171 @@
----
 it:
   stefania-dambrowska:
     chapter-4:
       c: 4
-      title: Hiding a Jewish-Polish couple; financial situation
+      title: "Hiding a Jewish-Polish couple; financial situation"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,28
-          to: 00:00:06,14
-          text: After the Zambrowicz family, the next people came.
+          from: "00:00:01,28"
+          to: "00:00:06,14"
+          text: "After the Zambrowicz family, the next people came."
         sequence-2:
           s: 2
-          from: 00:00:06,14
-          to: 00:00:29,03
-          text: The lady was Jewish, she was a friend of my uncles wife.
+          from: "00:00:06,14"
+          to: "00:00:29,03"
+          text: "The lady was Jewish, she was a friend of my uncles wife."
         sequence-3:
           s: 3
-          from: 00:00:29,03
-          to: 00:00:36,25
-          text: During the first war at POW, she was baptized, was very catholic,
+          from: "00:00:29,03"
+          to: "00:00:36,25"
+          text: "During the first war at POW, she was baptized, was very catholic,"
         sequence-4:
           s: 4
-          from: 00:00:36,25
-          to: 00:00:43,04
-          text: but all people from Orwidów knew she was a person of Jewish origin.
+          from: "00:00:36,25"
+          to: "00:00:43,04"
+          text: "but all people from Orwidów knew she was a person of Jewish origin."
         sequence-5:
           s: 5
-          from: 00:00:43,04
-          to: 00:00:50,16
-          text: She used to come every summer to visit her friend, I mean my uncle`s
-            wife.
+          from: "00:00:43,04"
+          to: "00:00:50,16"
+          text: "She used to come every summer to visit her friend, I mean my uncle`s wife."
         sequence-6:
           s: 6
-          from: 00:00:50,16
-          to: 00:00:53,17
-          text: He was Aryan.
+          from: "00:00:50,16"
+          to: "00:00:53,17"
+          text: "He was Aryan."
         sequence-7:
           s: 7
-          from: 00:00:53,17
-          to: 00:01:05,04
-          text: They wanted to find out, what happened to my aunt.
+          from: "00:00:53,17"
+          to: "00:01:05,04"
+          text: "They wanted to find out, what happened to my aunt."
         sequence-8:
           s: 8
-          from: 00:01:05,04
-          to: 00:01:09,01
-          text: She thought that maybe my aunt was there, she did not know she was
-            deported.
+          from: "00:01:05,04"
+          to: "00:01:09,01"
+          text: "She thought that maybe my aunt was there, she did not know she was deported."
         sequence-9:
           s: 9
-          from: 00:01:09,01
-          to: 00:01:13,17
-          text: When finally she found out about it they decided to come back to Warsaw.
+          from: "00:01:09,01"
+          to: "00:01:13,17"
+          text: "When finally she found out about it they decided to come back to Warsaw."
         sequence-10:
           s: 10
-          from: 00:01:13,17
-          to: 00:01:17,09
-          text: ''
+          from: "00:01:13,17"
+          to: "00:01:17,09"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:01:17,09
-          to: 00:01:21,01
-          text: I wanted them to stay but I knew that I was exposing others.
+          from: "00:01:17,09"
+          to: "00:01:21,01"
+          text: "I wanted them to stay but I knew that I was exposing others."
         sequence-12:
           s: 12
-          from: 00:01:21,01
-          to: 00:01:30,09
-          text: 'In this situation I invited all workers to the porch and said: Listen,'
+          from: "00:01:21,01"
+          to: "00:01:30,09"
+          text: "In this situation I invited all workers to the porch and said: Listen,"
         sequence-13:
           s: 13
-          from: 00:01:30,09
-          to: 00:01:39,24
-          text: I would like this family to stay but I do not want to make a decision
-            alone because our life is in danger.
+          from: "00:01:30,09"
+          to: "00:01:39,24"
+          text: "I would like this family to stay but I do not want to make a decision alone because our life is in danger."
         sequence-14:
           s: 14
-          from: 00:01:39,24
-          to: 00:01:47,13
-          text: So if nobody says a word it will be good for this family and for us.
+          from: "00:01:39,24"
+          to: "00:01:47,13"
+          text: "So if nobody says a word it will be good for this family and for us."
         sequence-15:
           s: 15
-          from: 00:01:47,13
-          to: 00:01:50,03
-          text: If somebody reveals them living here, he is a bastard,
+          from: "00:01:47,13"
+          to: "00:01:50,03"
+          text: "If somebody reveals them living here, he is a bastard,"
         sequence-16:
           s: 16
-          from: 00:01:50,03
-          to: 00:01:56,21
-          text: maybe it will be a credit for the Germans but we will all have to
-            suffer.
+          from: "00:01:50,03"
+          to: "00:01:56,21"
+          text: "maybe it will be a credit for the Germans but we will all have to suffer."
         sequence-17:
           s: 17
-          from: 00:01:56,21
-          to: 00:02:08,16
-          text: If somebody reports about it, betrays, then we – all citizens of Orwidów,
-            will be responsible for that.
+          from: "00:01:56,21"
+          to: "00:02:08,16"
+          text: "If somebody reports about it, betrays, then we – all citizens of Orwidów, will be responsible for that."
         sequence-18:
           s: 18
-          from: 00:02:08,16
-          to: 00:02:09,14
-          text: So they stayed.
+          from: "00:02:08,16"
+          to: "00:02:09,14"
+          text: "So they stayed."
         sequence-19:
           s: 19
-          from: 00:02:09,14
-          to: 00:02:20,09
-          text: There were some incidents, moments where we got some signals and they
-            had to leave Orwidów for a few days, that there was some danger.
+          from: "00:02:09,14"
+          to: "00:02:20,09"
+          text: "There were some incidents, moments where we got some signals and they had to leave Orwidów for a few days, that there was some danger."
         sequence-20:
           s: 20
-          from: 00:02:20,09
-          to: 00:02:36,07
-          text: We shared everything, ate together, all that we managed to collect,
-            all money was shared.
+          from: "00:02:20,09"
+          to: "00:02:36,07"
+          text: "We shared everything, ate together, all that we managed to collect, all money was shared."
         sequence-21:
           s: 21
-          from: 00:02:36,07
-          to: 00:02:42,18
-          text: During the German times, I used to go to the villages and sell.
+          from: "00:02:36,07"
+          to: "00:02:42,18"
+          text: "During the German times, I used to go to the villages and sell."
         sequence-22:
           s: 22
-          from: 00:02:42,18
-          to: 00:02:51,02
-          text: The house was furnished, so I sold duvets, linen, place settings,
-            covers.
+          from: "00:02:42,18"
+          to: "00:02:51,02"
+          text: "The house was furnished, so I sold duvets, linen, place settings, covers."
         sequence-23:
           s: 23
-          from: 00:02:51,02
-          to: 00:03:00,00
-          text: I sold that as we had to live somehow.
+          from: "00:02:51,02"
+          to: "00:03:00,00"
+          text: "I sold that as we had to live somehow."
         sequence-24:
           s: 24
-          from: 00:03:00,00
-          to: 00:03:04,13
-          text: The Zambrowicz family was there but they lived by themselves.
+          from: "00:03:00,00"
+          to: "00:03:04,13"
+          text: "The Zambrowicz family was there but they lived by themselves."
         sequence-25:
           s: 25
-          from: 00:03:04,13
-          to: 00:03:12,06
-          text: Well, I had known Natka for a long time, since our childhood.
+          from: "00:03:04,13"
+          to: "00:03:12,06"
+          text: "Well, I had known Natka for a long time, since our childhood."
         sequence-26:
           s: 26
-          from: 00:03:12,06
-          to: 00:03:27,06
-          text: Stefan worked a little bit, but he had no idea how to work in the
-            countryside.
+          from: "00:03:12,06"
+          to: "00:03:27,06"
+          text: "Stefan worked a little bit, but he had no idea how to work in the countryside."
         sequence-27:
           s: 27
-          from: 00:03:27,06
-          to: 00:03:30,07
-          text: He was a city person, a journalist,
+          from: "00:03:27,06"
+          to: "00:03:30,07"
+          text: "He was a city person, a journalist,"
         sequence-28:
           s: 28
-          from: 00:03:30,07
-          to: 00:03:36,01
-          text: so he had no clue, but obviously he was trying to do something, tried
-            to help.
+          from: "00:03:30,07"
+          to: "00:03:36,01"
+          text: "so he had no clue, but obviously he was trying to do something, tried to help."
         sequence-29:
           s: 29
-          from: 00:03:36,01
-          to: 00:03:39,29
-          text: The wages were not as good as during the Soviets times,
+          from: "00:03:36,01"
+          to: "00:03:39,29"
+          text: "The wages were not as good as during the Soviets times,"
         sequence-30:
           s: 30
-          from: 00:03:39,29
-          to: 00:03:53,29
-          text: we had to do anything, load the wood for the Germans, offer help by
-            lending the horse, carriage and a worker.
+          from: "00:03:39,29"
+          to: "00:03:53,29"
+          text: "we had to do anything, load the wood for the Germans, offer help by lending the horse, carriage and a worker."
         sequence-31:
           s: 31
-          from: 00:03:53,29
-          to: 00:03:58,28
-          text: So we did not make any money.
+          from: "00:03:53,29"
+          to: "00:03:58,28"
+          text: "So we did not make any money."
         sequence-32:
           s: 32
-          from: 00:03:58,28
-          to: 00:04:04,15
-          text: We had to steal wood from our own forest,
+          from: "00:03:58,28"
+          to: "00:04:04,15"
+          text: "We had to steal wood from our own forest,"
         sequence-33:
           s: 33
-          from: 00:04:04,15
-          to: 00:04:14,21
-          text: some dry trees we used to cut down and take to Vilnius where we sold
-            it to make some money.
+          from: "00:04:04,15"
+          to: "00:04:14,21"
+          text: "some dry trees we used to cut down and take to Vilnius where we sold it to make some money."

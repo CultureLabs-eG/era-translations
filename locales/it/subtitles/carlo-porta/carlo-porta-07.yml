@@ -1,109 +1,117 @@
----
 it:
   carlo-porta:
     chapter-7:
       c: 7
-      title: The cold and the work
+      title: "The cold and the work"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,17
-          to: 00:00:03,21
-          text: 'When we arrived there, the French asked us:'
+          from: "00:00:00,17"
+          to: "00:00:03,21"
+          text: "When we arrived there, the French asked us:"
         sequence-2:
           s: 2
-          from: 00:00:03,21
-          to: 00:00:09,09
-          text: "“Since you come from the outside, what do people say? \nHow long
-            will the war last?”."
+          from: "00:00:03,21"
+          to: "00:00:09,09"
+          text: |-
+              “Since you come from the outside, what do people say? 
+              How long will the war last?”.
         sequence-3:
           s: 3
-          from: 00:00:09,09
-          to: 00:00:17,04
-          text: "We always thought we knew everything, \nand we told them it would
-            only last one or two more months,"
+          from: "00:00:09,09"
+          to: "00:00:17,04"
+          text: |-
+              We always thought we knew everything, 
+              and we told them it would only last one or two more months,
         sequence-4:
           s: 4
-          from: 00:00:17,04
-          to: 00:00:26,17
-          text: "but they replied it would go on for another two years. \nThey were
-            right, the war went on for two more years."
+          from: "00:00:17,04"
+          to: "00:00:26,17"
+          text: |-
+              but they replied it would go on for another two years. 
+              They were right, the war went on for two more years.
         sequence-5:
           s: 5
-          from: 00:00:26,17
-          to: 00:00:27,20
-          text: ''
+          from: "00:00:26,17"
+          to: "00:00:27,20"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:27,20
-          to: 00:00:33,08
-          text: "There were women who had to work on the railroad \nwith shovels and
-            pickaxes."
+          from: "00:00:27,20"
+          to: "00:00:33,08"
+          text: |-
+              There were women who had to work on the railroad 
+              with shovels and pickaxes.
         sequence-7:
           s: 7
-          from: 00:00:33,08
-          to: 00:00:38,25
-          text: "Sometimes they were even pregnant, \nand trust me, that’s hard work."
+          from: "00:00:33,08"
+          to: "00:00:38,25"
+          text: |-
+              Sometimes they were even pregnant, 
+              and trust me, that’s hard work.
         sequence-8:
           s: 8
-          from: 00:00:38,25
-          to: 00:00:43,03
-          text: They didn’t do a headcount at night,
+          from: "00:00:38,25"
+          to: "00:00:43,03"
+          text: "They didn’t do a headcount at night,"
         sequence-9:
           s: 9
-          from: 00:00:43,03
-          to: 00:00:49,14
-          text: "to see who was back and who wasn’t, \nthey didn’t care if ten of
-            us had died during the day."
+          from: "00:00:43,03"
+          to: "00:00:49,14"
+          text: |-
+              to see who was back and who wasn’t, 
+              they didn’t care if ten of us had died during the day.
         sequence-10:
           s: 10
-          from: 00:00:49,14
-          to: 00:00:56,13
-          text: "Similarly, they did not expect us to work too hard, \nbut we had
-            to be at work every day."
+          from: "00:00:49,14"
+          to: "00:00:56,13"
+          text: |-
+              Similarly, they did not expect us to work too hard, 
+              but we had to be at work every day.
         sequence-11:
           s: 11
-          from: 00:00:56,13
-          to: 00:00:57,05
-          text: ''
+          from: "00:00:56,13"
+          to: "00:00:57,05"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:00:57,05
-          to: 00:01:01,21
-          text: In my camp, after we woke up at five,
+          from: "00:00:57,05"
+          to: "00:01:01,21"
+          text: "In my camp, after we woke up at five,"
         sequence-13:
           s: 13
-          from: 00:01:01,21
-          to: 00:01:05,05
-          text: we were supposed to get up and leave with the others,
+          from: "00:01:01,21"
+          to: "00:01:05,05"
+          text: "we were supposed to get up and leave with the others,"
         sequence-14:
           s: 14
-          from: 00:01:05,05
-          to: 00:01:10,21
-          text: but after that there was no control on what we did during the day.
+          from: "00:01:05,05"
+          to: "00:01:10,21"
+          text: "but after that there was no control on what we did during the day."
         sequence-15:
           s: 15
-          from: 00:01:10,21
-          to: 00:01:13,24
-          text: And in any case, there was nowhere we could go.
+          from: "00:01:10,21"
+          to: "00:01:13,24"
+          text: "And in any case, there was nowhere we could go."
         sequence-16:
           s: 16
-          from: 00:01:13,24
-          to: 00:01:20,23
-          text: "You were simply expected to be at work, \neven if you didn’t do anything
-            all day."
+          from: "00:01:13,24"
+          to: "00:01:20,23"
+          text: |-
+              You were simply expected to be at work, 
+              even if you didn’t do anything all day.
         sequence-17:
           s: 17
-          from: 00:01:20,23
-          to: 00:01:22,24
-          text: ''
+          from: "00:01:20,23"
+          to: "00:01:22,24"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:01:22,24
-          to: 00:01:26,25
-          text: It was very cold where we were.
+          from: "00:01:22,24"
+          to: "00:01:26,25"
+          text: "It was very cold where we were."
         sequence-19:
           s: 19
-          from: 00:01:26,25
-          to: 00:01:30,18
-          text: There were Russian women, as well as some men.
+          from: "00:01:26,25"
+          to: "00:01:30,18"
+          text: "There were Russian women, as well as some men."

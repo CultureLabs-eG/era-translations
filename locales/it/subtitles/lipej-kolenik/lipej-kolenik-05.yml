@@ -1,175 +1,166 @@
----
 it:
   lipej-kolenik:
     chapter-5:
       c: 5
-      title: Joining the partisan army
+      title: "Joining the partisan army"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,12
-          to: 00:00:03,09
-          text: So I went home.
+          from: "00:00:01,12"
+          to: "00:00:03,09"
+          text: "So I went home."
         sequence-2:
           s: 2
-          from: 00:00:03,09
-          to: 00:00:07,26
-          text: On the first evening the partisans, acquaintances were already there.
+          from: "00:00:03,09"
+          to: "00:00:07,26"
+          text: "On the first evening the partisans, acquaintances were already there."
         sequence-3:
           s: 3
-          from: 00:00:07,26
-          to: 00:00:11,13
-          text: After 14 days the holiday was over.
+          from: "00:00:07,26"
+          to: "00:00:11,13"
+          text: "After 14 days the holiday was over."
         sequence-4:
           s: 4
-          from: 00:00:11,13
-          to: 00:00:15,12
+          from: "00:00:11,13"
+          to: "00:00:15,12"
           text: "“Well, what are we going to do, mother?” My mother was crying again."
         sequence-5:
           s: 5
-          from: 00:00:15,12
-          to: 00:00:19,08
-          text: She sprinkled me with holy water.
+          from: "00:00:15,12"
+          to: "00:00:19,08"
+          text: "She sprinkled me with holy water."
         sequence-6:
           s: 6
-          from: 00:00:19,08
-          to: 00:00:30,07
-          text: "“Mother, that doesn’t help! I will not go back to the ones that sentenced
-            us to death.”"
+          from: "00:00:19,08"
+          to: "00:00:30,07"
+          text: "“Mother, that doesn’t help! I will not go back to the ones that sentenced us to death.”"
         sequence-7:
           s: 7
-          from: 00:00:30,07
-          to: 00:00:36,00
-          text: 'So I went and the commander of the partisans said:'
+          from: "00:00:30,07"
+          to: "00:00:36,00"
+          text: "So I went and the commander of the partisans said:"
         sequence-8:
           s: 8
-          from: 00:00:36,00
-          to: 00:00:39,00
-          text: ''
+          from: "00:00:36,00"
+          to: "00:00:39,00"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:39,00
-          to: 00:00:41,18
+          from: "00:00:39,00"
+          to: "00:00:41,18"
           text: "“We will come and pick you up."
         sequence-10:
           s: 10
-          from: 00:00:41,18
-          to: 00:00:42,17
-          text: ''
+          from: "00:00:41,18"
+          to: "00:00:42,17"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:42,17
-          to: 00:00:54,25
-          text: We will bring enough people so your family won’t be resettled or get
-            locked into jail.”
+          from: "00:00:42,17"
+          to: "00:00:54,25"
+          text: "We will bring enough people so your family won’t be resettled or get locked into jail.”"
         sequence-12:
           s: 12
-          from: 00:00:54,25
-          to: 00:00:56,06
-          text: ''
+          from: "00:00:54,25"
+          to: "00:00:56,06"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:00:56,06
-          to: 00:00:57,26
-          text: The evening came.
+          from: "00:00:56,06"
+          to: "00:00:57,26"
+          text: "The evening came."
         sequence-14:
           s: 14
-          from: 00:00:57,26
-          to: 00:01:05,22
-          text: No partisan called up, but the commander had told me I would be gone
-            in the evening.
+          from: "00:00:57,26"
+          to: "00:01:05,22"
+          text: "No partisan called up, but the commander had told me I would be gone in the evening."
         sequence-15:
           s: 15
-          from: 00:01:05,22
-          to: 00:01:12,27
-          text: I went back to Bleiburg and picked up my military equipment.
+          from: "00:01:05,22"
+          to: "00:01:12,27"
+          text: "I went back to Bleiburg and picked up my military equipment."
         sequence-16:
           s: 16
-          from: 00:01:12,27
-          to: 00:01:19,11
-          text: 'On the next day I met the commander of the partisans and said to
-            him:'
+          from: "00:01:12,27"
+          to: "00:01:19,11"
+          text: "On the next day I met the commander of the partisans and said to him:"
         sequence-17:
           s: 17
-          from: 00:01:19,11
-          to: 00:01:21,04
+          from: "00:01:19,11"
+          to: "00:01:21,04"
           text: "“Why didn’t you come?”"
         sequence-18:
           s: 18
-          from: 00:01:21,04
-          to: 00:01:22,10
-          text: 'He said to me:'
+          from: "00:01:21,04"
+          to: "00:01:22,10"
+          text: "He said to me:"
         sequence-19:
           s: 19
-          from: 00:01:22,10
-          to: 00:01:24,27
+          from: "00:01:22,10"
+          to: "00:01:24,27"
           text: "“You know by yourself where you belong.”"
         sequence-20:
           s: 20
-          from: 00:01:24,27
-          to: 00:01:29,07
-          text: That was easily said in those days.
+          from: "00:01:24,27"
+          to: "00:01:29,07"
+          text: "That was easily said in those days."
         sequence-21:
           s: 21
-          from: 00:01:29,07
-          to: 00:01:32,25
-          text: But it was not an easy thing to do.
+          from: "00:01:29,07"
+          to: "00:01:32,25"
+          text: "But it was not an easy thing to do."
         sequence-22:
           s: 22
-          from: 00:01:32,25
-          to: 00:01:38,16
-          text: But the English bombarded Klagenfurt in those days.
+          from: "00:01:32,25"
+          to: "00:01:38,16"
+          text: "But the English bombarded Klagenfurt in those days."
         sequence-23:
           s: 23
-          from: 00:01:38,16
-          to: 00:01:51,29
-          text: 'When the police came afterwards to ask if I had reported somewhere,
-            my mother said:'
+          from: "00:01:38,16"
+          to: "00:01:51,29"
+          text: "When the police came afterwards to ask if I had reported somewhere, my mother said:"
         sequence-24:
           s: 24
-          from: 00:01:51,29
-          to: 00:01:56,03
-          text: ''
+          from: "00:01:51,29"
+          to: "00:01:56,03"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:01:56,03
-          to: 00:02:00,07
+          from: "00:01:56,03"
+          to: "00:02:00,07"
           text: "“Maybe he has been killed in the air raid.”"
         sequence-26:
           s: 26
-          from: 00:02:00,07
-          to: 00:02:09,09
-          text: My Mother was clever. There was an illegal co-worker of the partisans
-            in Bleiburg.
+          from: "00:02:00,07"
+          to: "00:02:09,09"
+          text: "My Mother was clever. There was an illegal co-worker of the partisans in Bleiburg."
         sequence-27:
           s: 27
-          from: 00:02:09,09
-          to: 00:02:21,28
-          text: After 2 to 3 weeks, my mother gave one of them a parcel to take it
-            to this woman.
+          from: "00:02:09,09"
+          to: "00:02:21,28"
+          text: "After 2 to 3 weeks, my mother gave one of them a parcel to take it to this woman."
         sequence-28:
           s: 28
-          from: 00:02:21,28
-          to: 00:02:31,17
-          text: Later this woman took the parcel to the post with my military address
-            on it,
+          from: "00:02:21,28"
+          to: "00:02:31,17"
+          text: "Later this woman took the parcel to the post with my military address on it,"
         sequence-29:
           s: 29
-          from: 00:02:31,17
-          to: 00:02:35,24
-          text: the one I should have reported to after my holiday.
+          from: "00:02:31,17"
+          to: "00:02:35,24"
+          text: "the one I should have reported to after my holiday."
         sequence-30:
           s: 30
-          from: 00:02:35,24
-          to: 00:02:36,25
-          text: ''
+          from: "00:02:35,24"
+          to: "00:02:36,25"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:02:36,25
-          to: 00:02:38,11
-          text: The parcel came back again…
+          from: "00:02:36,25"
+          to: "00:02:38,11"
+          text: "The parcel came back again…"
         sequence-32:
           s: 32
-          from: 00:02:38,11
-          to: 00:02:42,11
-          text: The parcels kept going backwards and forwards.
+          from: "00:02:38,11"
+          to: "00:02:42,11"
+          text: "The parcels kept going backwards and forwards."
