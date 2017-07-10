@@ -3,13 +3,13 @@ it:
   lucien-ducastel:
     chapter-1:
       c: 1
-      title: 'Introduction: family, school, work'
+      title: 'Introduzione: la famiglia, la scuola, il lavoro'
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:00,11
           to: 00:00:08,05
-          text: My name is Lucien Ducastel. I am from the Seine-Maritime, in Normandy.
+          text: Mi chiamo Lucien Ducastel. Sono originario della Seine-Maritime, sono normanno d'origine.
         sequence-2:
           s: 2
           from: 00:00:08,05
@@ -19,13 +19,13 @@ it:
           s: 3
           from: 00:00:12,25
           to: 00:00:25,18
-          text: For three years, I was an apprentice butcher, but did not like it
-            at all. I started working in construction, as a metal worker.
+          text: Ho imparato il mestiere di macellaio per tre anni, ma non mi piaceva affatto.
+             Mi sono messo a lavorare nell'edilizia, nel metallurgico, ecc.
         sequence-4:
           s: 4
           from: 00:00:25,18
           to: 00:00:30,19
-          text: I worked very hard.
+          text: Ho fatto dei lavori molto duri. E dunque è andata così.
         sequence-5:
           s: 5
           from: 00:00:30,19
@@ -35,14 +35,12 @@ it:
           s: 6
           from: 00:00:35,20
           to: 00:00:42,19
-          text: My parents, my father was a metal worker, a hard working man. He repaired
-            ships.
+          text: I miei genitori, mio padre era operaio, un meccanico, era uno che lavorava duro. Faceva riparazioni a bordo delle navi.
         sequence-7:
           s: 7
           from: 00:00:42,19
           to: 00:00:50,23
-          text: Sometimes he worked on two or three ships a week. My mother was a
-            textile worker.
+          text: Lavorava molto duro. E mia madre era operaia nel tessile. I miei genitori erano operai, lavoravano entrambi. E io andavo a scuola e non c'era problema.
         sequence-8:
           s: 8
           from: 00:00:50,23
@@ -52,24 +50,22 @@ it:
           s: 9
           from: 00:00:53,12
           to: 00:01:01,06
-          text: I have my elementary school certificate. I was barely twelve years
-            old.
+          text: Io ho il mio certificato delle scuole elementari… Avevo appena dodici anni, o undici e mezzo.
         sequence-10:
           s: 10
           from: 00:01:01,06
           to: 00:01:09,05
-          text: My birthday is in the end of August and I got the certificate in June.
+          text: Ne facevo dodici a fine agosto e ho ricevuto il certificato a giugno.
         sequence-11:
           s: 11
           from: 00:01:09,05
           to: 00:01:16,12
-          text: It was important to me. Afterwards, I started working.
+          text: Dunque, ho ricevuto questo certificato. Era molto importante per me. Dopo mi sono messo a lavorare.
         sequence-12:
           s: 12
           from: 00:01:16,12
           to: 00:01:24,13
-          text: And as I had very little ideas about what I wanted to do I became
-            an apprentice butcher.
+          text: E, siccome avevo poche idee su cosa fare, ho imparato il mestiere di macellaio.
         sequence-13:
           s: 13
           from: 00:01:24,13
@@ -79,8 +75,7 @@ it:
           s: 14
           from: 00:01:25,02
           to: 00:01:33,10
-          text: I worked there for three and a half years. I started to learn about
-            the work. But in the end I never became a butcher.
+          text: Ho lavorato là tre anni e mezzo. Facevo le commissioni, lavoravo e imparavo… Ma alla fine non sono diventato macellaio.
         sequence-15:
           s: 15
           from: 00:01:33,10
