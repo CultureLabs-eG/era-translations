@@ -1,151 +1,136 @@
----
 en:
   lorenz-knorr:
     chapter-12:
       c: 12
-      title: Relationship between men and women of resistance
+      title: "Relationship between men and women of resistance"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,10
-          to: 00:00:06,09
-          text: During the illegal fight emotions had to be pushed back as far as
-            possible.
+          from: "00:00:00,10"
+          to: "00:00:06,09"
+          text: "During the illegal fight emotions had to be pushed back as far as possible."
         sequence-2:
           s: 2
-          from: 00:00:06,09
-          to: 00:00:17,07
-          text: Before the Nazis marched in, from 33 activists in the anti-fascist
-            resistance 11 were female comrades.
+          from: "00:00:06,09"
+          to: "00:00:17,07"
+          text: "Before the Nazis marched in, from 33 activists in the anti-fascist resistance 11 were female comrades."
         sequence-3:
           s: 3
-          from: 00:00:17,07
-          to: 00:00:20,24
-          text: They achieved the same as the men.
+          from: "00:00:17,07"
+          to: "00:00:20,24"
+          text: "They achieved the same as the men."
         sequence-4:
           s: 4
-          from: 00:00:20,24
-          to: 00:00:28,16
-          text: Once I had to kiss unwillingly.
+          from: "00:00:20,24"
+          to: "00:00:28,16"
+          text: "Once I had to kiss unwillingly."
         sequence-5:
           s: 5
-          from: 00:00:28,16
-          to: 00:00:39,18
-          text: While hanging up posters, we were caught by an SS-patrol, walking
-            a path no patrol ever used.
+          from: "00:00:28,16"
+          to: "00:00:39,18"
+          text: "While hanging up posters, we were caught by an SS-patrol, walking a path no patrol ever used."
         sequence-6:
           s: 6
-          from: 00:00:39,18
-          to: 00:00:43,16
-          text: 'As I am sticking, I say: “Oh, the SS is coming!”'
+          from: "00:00:39,18"
+          to: "00:00:43,16"
+          text: "As I am sticking, I say: “Oh, the SS is coming!”"
         sequence-7:
           s: 7
-          from: 00:00:43,16
-          to: 00:00:50,02
-          text: I instinctively put my back to the poster, and as was a cold season,
+          from: "00:00:43,16"
+          to: "00:00:50,02"
+          text: "I instinctively put my back to the poster, and as was a cold season,"
         sequence-8:
           s: 8
-          from: 00:00:50,02
-          to: 00:00:56,05
-          text: 'I covered the bucket of glue with my coat and she snuggled up to
-            me and said:'
+          from: "00:00:50,02"
+          to: "00:00:56,05"
+          text: "I covered the bucket of glue with my coat and she snuggled up to me and said:"
         sequence-9:
           s: 9
-          from: 00:00:56,05
-          to: 00:00:58,26
+          from: "00:00:56,05"
+          to: "00:00:58,26"
           text: "“Now we have to kiss – it’s the rule!”"
         sequence-10:
           s: 10
-          from: 00:00:58,26
-          to: 00:01:04,06
-          text: We kissed to cheat the SS-people and they really thought that is a
-            loving couple.
+          from: "00:00:58,26"
+          to: "00:01:04,06"
+          text: "We kissed to cheat the SS-people and they really thought that is a loving couple."
         sequence-11:
           s: 11
-          from: 00:01:04,06
-          to: 00:01:12,19
-          text: 'They had the cheek to say: “Kissing is not enough. Remember the ‘Fuehrer’
-            needs soldiers, the ‘Fuehrer’ needs offsprings!”'
+          from: "00:01:04,06"
+          to: "00:01:12,19"
+          text: "They had the cheek to say: “Kissing is not enough. Remember the ‘Fuehrer’ needs soldiers, the ‘Fuehrer’ needs offsprings!”"
         sequence-12:
           s: 12
-          from: 00:01:12,19
-          to: 00:01:24,01
-          text: We just went through such a thing with throbbing heart, but that had
-            nothing to do with emotions.
+          from: "00:01:12,19"
+          to: "00:01:24,01"
+          text: "We just went through such a thing with throbbing heart, but that had nothing to do with emotions."
         sequence-13:
           s: 13
-          from: 00:01:24,01
-          to: 00:01:29,14
-          text: Apart from that we had connections to our (female) radio operators
-            that were abroad,
+          from: "00:01:24,01"
+          to: "00:01:29,14"
+          text: "Apart from that we had connections to our (female) radio operators that were abroad,"
         sequence-14:
           s: 14
-          from: 00:01:29,14
-          to: 00:01:36,03
-          text: but that was initially limited to radio contact and coded correspondence.
+          from: "00:01:29,14"
+          to: "00:01:36,03"
+          text: "but that was initially limited to radio contact and coded correspondence."
         sequence-15:
           s: 15
-          from: 00:01:36,03
-          to: 00:01:46,15
-          text: 'When I was in Eger on holiday or because I needed my glass eye I
-            used to say to the battalion’s doctor:'
+          from: "00:01:36,03"
+          to: "00:01:46,15"
+          text: "When I was in Eger on holiday or because I needed my glass eye I used to say to the battalion’s doctor:"
         sequence-16:
           s: 16
-          from: 00:01:46,15
-          to: 00:01:50,22
+          from: "00:01:46,15"
+          to: "00:01:50,22"
           text: "“Well, in Warsaw they are not able to make decent glass eyes."
         sequence-17:
           s: 17
-          from: 00:01:50,22
-          to: 00:01:53,16
-          text: In Wiesbaden they make the best glass eyes.
+          from: "00:01:50,22"
+          to: "00:01:53,16"
+          text: "In Wiesbaden they make the best glass eyes."
         sequence-18:
           s: 18
-          from: 00:01:53,16
-          to: 00:02:00,26
-          text: Then I got marching orders from near the front or from Russia or Poland
-            to Wiesbaden
+          from: "00:01:53,16"
+          to: "00:02:00,26"
+          text: "Then I got marching orders from near the front or from Russia or Poland to Wiesbaden"
         sequence-19:
           s: 19
-          from: 00:02:00,26
-          to: 00:02:06,27
-          text: 'and then I took a detour past Eger. And i told to one or two:'
+          from: "00:02:00,26"
+          to: "00:02:06,27"
+          text: "and then I took a detour past Eger. And i told to one or two:"
         sequence-20:
           s: 20
-          from: 00:02:06,27
-          to: 00:02:11,03
-          text: "“During this time I will be available in Eger. Can’t you come there,
-            as well?”"
+          from: "00:02:06,27"
+          to: "00:02:11,03"
+          text: "“During this time I will be available in Eger. Can’t you come there, as well?”"
         sequence-21:
           s: 21
-          from: 00:02:11,03
-          to: 00:02:17,05
-          text: We then met female comrades who were in Norway or Copenhagen.
+          from: "00:02:11,03"
+          to: "00:02:17,05"
+          text: "We then met female comrades who were in Norway or Copenhagen."
         sequence-22:
           s: 22
-          from: 00:02:17,05
-          to: 00:02:24,12
-          text: It was very hard to co-ordinate such a holiday,
+          from: "00:02:17,05"
+          to: "00:02:24,12"
+          text: "It was very hard to co-ordinate such a holiday,"
         sequence-23:
           s: 23
-          from: 00:02:24,12
-          to: 00:02:29,14
-          text: but it was obviously an exchange of experience that was thorough,
+          from: "00:02:24,12"
+          to: "00:02:29,14"
+          text: "but it was obviously an exchange of experience that was thorough,"
         sequence-24:
           s: 24
-          from: 00:02:29,14
-          to: 00:02:36,12
-          text: because you had to confine yourself to communicating in telegram styles
-            during radio or coded correspondence.
+          from: "00:02:29,14"
+          to: "00:02:36,12"
+          text: "because you had to confine yourself to communicating in telegram styles during radio or coded correspondence."
         sequence-25:
           s: 25
-          from: 00:02:36,12
-          to: 00:02:41,07
-          text: 'And now you were able to analyse together: What has happened and
-            what needs to be done?'
+          from: "00:02:36,12"
+          to: "00:02:41,07"
+          text: "And now you were able to analyse together: What has happened and what needs to be done?"
         sequence-26:
           s: 26
-          from: 00:02:41,07
-          to: 00:02:51,03
-          text: These meetings took place, but it was really a thing that was quite
-            free of emotions.
+          from: "00:02:41,07"
+          to: "00:02:51,03"
+          text: "These meetings took place, but it was really a thing that was quite free of emotions."

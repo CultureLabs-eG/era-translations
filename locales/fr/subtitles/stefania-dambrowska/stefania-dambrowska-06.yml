@@ -1,390 +1,371 @@
----
 fr:
   stefania-dambrowska:
     chapter-6:
       c: 6
-      title: Minkowscy’s death, hiding a Jewish child
+      title: "Minkowscy’s death, hiding a Jewish child"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,26
-          to: 00:00:03,05
-          text: It was 1941.
+          from: "00:00:00,26"
+          to: "00:00:03,05"
+          text: "It was 1941."
         sequence-2:
           s: 2
-          from: 00:00:03,05
-          to: 00:00:09,06
-          text: The German-Soviet war broke out in June 1941 and it was still this
-            year.
+          from: "00:00:03,05"
+          to: "00:00:09,06"
+          text: "The German-Soviet war broke out in June 1941 and it was still this year."
         sequence-3:
           s: 3
-          from: 00:00:09,06
-          to: 00:00:11,29
-          text: ''
+          from: "00:00:09,06"
+          to: "00:00:11,29"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:11,29
-          to: 00:00:19,11
-          text: So I tried hard to rent a wagon, which could take us to Belarus.
+          from: "00:00:11,29"
+          to: "00:00:19,11"
+          text: "So I tried hard to rent a wagon, which could take us to Belarus."
         sequence-5:
           s: 5
-          from: 00:00:19,11
-          to: 00:00:28,12
-          text: Hana had some clothes, Arnold did not have any, but she had some stuff,
+          from: "00:00:19,11"
+          to: "00:00:28,12"
+          text: "Hana had some clothes, Arnold did not have any, but she had some stuff,"
         sequence-6:
           s: 6
-          from: 00:00:28,12
-          to: 00:00:34,19
-          text: maybe she got something from her father. But we had something which
-            could be sold.
+          from: "00:00:28,12"
+          to: "00:00:34,19"
+          text: "maybe she got something from her father. But we had something which could be sold."
         sequence-7:
           s: 7
-          from: 00:00:34,19
-          to: 00:00:38,04
-          text: I had little money, but enough to buy food.
+          from: "00:00:34,19"
+          to: "00:00:38,04"
+          text: "I had little money, but enough to buy food."
         sequence-8:
           s: 8
-          from: 00:00:38,04
-          to: 00:00:46,10
-          text: There was one man, who bought some small land from Orwidów.
+          from: "00:00:38,04"
+          to: "00:00:46,10"
+          text: "There was one man, who bought some small land from Orwidów."
         sequence-9:
           s: 9
-          from: 00:00:46,10
-          to: 00:00:47,07
-          text: ''
+          from: "00:00:46,10"
+          to: "00:00:47,07"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:47,07
-          to: 00:00:54,21
-          text: He was called Dzanuk as he was always dreaming about going to America,
+          from: "00:00:47,07"
+          to: "00:00:54,21"
+          text: "He was called Dzanuk as he was always dreaming about going to America,"
         sequence-11:
           s: 11
-          from: 00:00:54,21
-          to: 00:00:59,28
-          text: that is why he was called like that, but his real last name was Mackiewicz,
-            Janek Mackiewicz.
+          from: "00:00:54,21"
+          to: "00:00:59,28"
+          text: "that is why he was called like that, but his real last name was Mackiewicz, Janek Mackiewicz."
         sequence-12:
           s: 12
-          from: 00:00:59,28
-          to: 00:01:10,12
-          text: He decided, that he could take them by horse about 100 kilometers
-            to Belarus to the Fedecki family.
+          from: "00:00:59,28"
+          to: "00:01:10,12"
+          text: "He decided, that he could take them by horse about 100 kilometers to Belarus to the Fedecki family."
         sequence-13:
           s: 13
-          from: 00:01:10,12
-          to: 00:01:14,20
-          text: They died there by the way.
+          from: "00:01:10,12"
+          to: "00:01:14,20"
+          text: "They died there by the way."
         sequence-14:
           s: 14
-          from: 00:01:14,20
-          to: 00:01:19,17
-          text: So one family left our place.
+          from: "00:01:14,20"
+          to: "00:01:19,17"
+          text: "So one family left our place."
         sequence-15:
           s: 15
-          from: 00:01:19,17
-          to: 00:01:26,00
-          text: I went to Vilnius, I had a contact spot because I had to get documents
-            for one person
+          from: "00:01:19,17"
+          to: "00:01:26,00"
+          text: "I went to Vilnius, I had a contact spot because I had to get documents for one person"
         sequence-16:
           s: 16
-          from: 00:01:26,00
-          to: 00:01:34,05
-          text: who was supposed to come to me in Orwidów, take those documents and
-            go, I guess to Warsaw.
+          from: "00:01:26,00"
+          to: "00:01:34,05"
+          text: "who was supposed to come to me in Orwidów, take those documents and go, I guess to Warsaw."
         sequence-17:
           s: 17
-          from: 00:01:34,05
-          to: 00:01:36,15
-          text: ''
+          from: "00:01:34,05"
+          to: "00:01:36,15"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:01:36,15
-          to: 00:01:39,16
-          text: I went to a lady that I saw once in my life.
+          from: "00:01:36,15"
+          to: "00:01:39,16"
+          text: "I went to a lady that I saw once in my life."
         sequence-19:
           s: 19
-          from: 00:01:39,16
-          to: 00:01:41,03
-          text: ''
+          from: "00:01:39,16"
+          to: "00:01:41,03"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:01:41,03
-          to: 00:01:44,12
-          text: It was my contact spot.
+          from: "00:01:41,03"
+          to: "00:01:44,12"
+          text: "It was my contact spot."
         sequence-21:
           s: 21
-          from: 00:01:44,12
-          to: 00:01:45,12
-          text: ''
+          from: "00:01:44,12"
+          to: "00:01:45,12"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:01:45,12
-          to: 00:01:49,18
-          text: 'She said to me: you can save a child.'
+          from: "00:01:45,12"
+          to: "00:01:49,18"
+          text: "She said to me: you can save a child."
         sequence-23:
           s: 23
-          from: 00:01:49,18
-          to: 00:01:51,19
-          text: ''
+          from: "00:01:49,18"
+          to: "00:01:51,19"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:01:51,19
-          to: 00:02:00,04
-          text: Additionally, I did not like children, they were horrible.
+          from: "00:01:51,19"
+          to: "00:02:00,04"
+          text: "Additionally, I did not like children, they were horrible."
         sequence-25:
           s: 25
-          from: 00:02:00,04
-          to: 00:02:01,14
-          text: ''
+          from: "00:02:00,04"
+          to: "00:02:01,14"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:02:01,14
-          to: 00:02:14,25
-          text: So there is a story that her friend from Warsaw, not exactly from
-            Warsaw, she was more from Vilnius.
+          from: "00:02:01,14"
+          to: "00:02:14,25"
+          text: "So there is a story that her friend from Warsaw, not exactly from Warsaw, she was more from Vilnius."
         sequence-27:
           s: 27
-          from: 00:02:14,25
-          to: 00:02:25,10
-          text: Before the Second World War they took part in some first-aid course.
+          from: "00:02:14,25"
+          to: "00:02:25,10"
+          text: "Before the Second World War they took part in some first-aid course."
         sequence-28:
           s: 28
-          from: 00:02:25,10
-          to: 00:02:27,00
-          text: ''
+          from: "00:02:25,10"
+          to: "00:02:27,00"
+          text: ~
         sequence-29:
           s: 29
-          from: 00:02:27,00
-          to: 00:02:35,14
-          text: So she had parents in Vilnius and her child, it was a girl who was
-            3 years old was left at her parents.
+          from: "00:02:27,00"
+          to: "00:02:35,14"
+          text: "So she had parents in Vilnius and her child, it was a girl who was 3 years old was left at her parents."
         sequence-30:
           s: 30
-          from: 00:02:35,14
-          to: 00:02:39,09
-          text: ''
+          from: "00:02:35,14"
+          to: "00:02:39,09"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:02:39,09
-          to: 00:02:43,03
-          text: She was living in Grodno as her husband was chemistry engineer
+          from: "00:02:39,09"
+          to: "00:02:43,03"
+          text: "She was living in Grodno as her husband was chemistry engineer"
         sequence-32:
           s: 32
-          from: 00:02:43,03
-          to: 00:02:50,00
-          text: and worked in Grodno in a chemical factory for the Soviet Union
+          from: "00:02:43,03"
+          to: "00:02:50,00"
+          text: "and worked in Grodno in a chemical factory for the Soviet Union"
         sequence-33:
           s: 33
-          from: 00:02:50,00
-          to: 00:03:02,03
-          text: and when the war broke out, Mr. Józef was deported into the Soviet
-            Union to set up some factories there,
+          from: "00:02:50,00"
+          to: "00:03:02,03"
+          text: "and when the war broke out, Mr. Józef was deported into the Soviet Union to set up some factories there,"
         sequence-34:
           s: 34
-          from: 00:03:02,03
-          to: 00:03:12,29
-          text: and his wife with the second child, was sent somewhere into Russia.
+          from: "00:03:02,03"
+          to: "00:03:12,29"
+          text: "and his wife with the second child, was sent somewhere into Russia."
         sequence-35:
           s: 35
-          from: 00:03:12,29
-          to: 00:03:14,27
-          text: ''
+          from: "00:03:12,29"
+          to: "00:03:14,27"
+          text: ~
         sequence-36:
           s: 36
-          from: 00:03:14,27
-          to: 00:03:24,09
-          text: The child had very good papers as my college was Aryan
+          from: "00:03:14,27"
+          to: "00:03:24,09"
+          text: "The child had very good papers as my college was Aryan"
         sequence-37:
           s: 37
-          from: 00:03:24,09
-          to: 00:03:36,03
-          text: and decided to give her last name and exactly the last name of her
-            husband.
+          from: "00:03:24,09"
+          to: "00:03:36,03"
+          text: "and decided to give her last name and exactly the last name of her husband."
         sequence-38:
           s: 38
-          from: 00:03:36,03
-          to: 00:03:41,14
-          text: And the priest, in Vilnius there were 2 priests, so the priest Kretowicz,
-            Chlebowicz,
+          from: "00:03:36,03"
+          to: "00:03:41,14"
+          text: "And the priest, in Vilnius there were 2 priests, so the priest Kretowicz, Chlebowicz,"
         sequence-39:
           s: 39
-          from: 00:03:41,14
-          to: 00:03:48,15
-          text: priest Chlebowicz gave this child a birth certificate saying that
-            she is a child of Irena and Jan Nowicki.
+          from: "00:03:41,14"
+          to: "00:03:48,15"
+          text: "priest Chlebowicz gave this child a birth certificate saying that she is a child of Irena and Jan Nowicki."
         sequence-40:
           s: 40
-          from: 00:03:48,15
-          to: 00:03:49,15
-          text: ''
+          from: "00:03:48,15"
+          to: "00:03:49,15"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:03:49,15
-          to: 00:03:51,08
-          text: And again the same story happens.
+          from: "00:03:49,15"
+          to: "00:03:51,08"
+          text: "And again the same story happens."
         sequence-42:
           s: 42
-          from: 00:03:51,08
-          to: 00:03:57,05
-          text: I go to Orwidów and say – this story, are we taking it or not?
+          from: "00:03:51,08"
+          to: "00:03:57,05"
+          text: "I go to Orwidów and say – this story, are we taking it or not?"
         sequence-43:
           s: 43
-          from: 00:03:57,05
-          to: 00:04:01,20
-          text: All take responsibility for that.
+          from: "00:03:57,05"
+          to: "00:04:01,20"
+          text: "All take responsibility for that."
         sequence-44:
           s: 44
-          from: 00:04:01,20
-          to: 00:04:03,24
-          text: ''
+          from: "00:04:01,20"
+          to: "00:04:03,24"
+          text: ~
         sequence-45:
           s: 45
-          from: 00:04:03,24
-          to: 00:04:08,20
-          text: Ok, but how to explain the presence of this child
+          from: "00:04:03,24"
+          to: "00:04:08,20"
+          text: "Ok, but how to explain the presence of this child"
         sequence-46:
           s: 46
-          from: 00:04:08,20
-          to: 00:04:20,11
-          text: so I created the story because Irena was a white-pink blonde,
+          from: "00:04:08,20"
+          to: "00:04:20,11"
+          text: "so I created the story because Irena was a white-pink blonde,"
         sequence-47:
           s: 47
-          from: 00:04:20,11
-          to: 00:04:21,26
-          text: ''
+          from: "00:04:20,11"
+          to: "00:04:21,26"
+          text: ~
         sequence-48:
           s: 48
-          from: 00:04:21,26
-          to: 00:04:33,07
-          text: the child had also fair hair and blue eyes so we could say it was
-            Irena`s daughter,
+          from: "00:04:21,26"
+          to: "00:04:33,07"
+          text: "the child had also fair hair and blue eyes so we could say it was Irena`s daughter,"
         sequence-49:
           s: 49
-          from: 00:04:33,07
-          to: 00:04:34,16
-          text: ''
+          from: "00:04:33,07"
+          to: "00:04:34,16"
+          text: ~
         sequence-50:
           s: 50
-          from: 00:04:34,16
-          to: 00:04:36,27
-          text: but the child could not say even a word in Polish,
+          from: "00:04:34,16"
+          to: "00:04:36,27"
+          text: "but the child could not say even a word in Polish,"
         sequence-51:
           s: 51
-          from: 00:04:36,27
-          to: 00:04:37,23
-          text: ''
+          from: "00:04:36,27"
+          to: "00:04:37,23"
+          text: ~
         sequence-52:
           s: 52
-          from: 00:04:37,23
-          to: 00:04:39,20
-          text: she could speak only Russian
+          from: "00:04:37,23"
+          to: "00:04:39,20"
+          text: "she could speak only Russian"
         sequence-53:
           s: 53
-          from: 00:04:39,20
-          to: 00:04:40,27
-          text: ''
+          from: "00:04:39,20"
+          to: "00:04:40,27"
+          text: ~
         sequence-54:
           s: 54
-          from: 00:04:40,27
-          to: 00:04:45,12
-          text: because the grandma`s husband
+          from: "00:04:40,27"
+          to: "00:04:45,12"
+          text: "because the grandma`s husband"
         sequence-55:
           s: 55
-          from: 00:04:45,12
-          to: 00:04:55,03
-          text: was not the real grandfather of this child.
+          from: "00:04:45,12"
+          to: "00:04:55,03"
+          text: "was not the real grandfather of this child."
         sequence-56:
           s: 56
-          from: 00:04:55,03
-          to: 00:05:01,13
-          text: Mrs. Melezyniuk became a widow and then for the second time got married
-            with a Jew,
+          from: "00:04:55,03"
+          to: "00:05:01,13"
+          text: "Mrs. Melezyniuk became a widow and then for the second time got married with a Jew,"
         sequence-57:
           s: 57
-          from: 00:05:01,13
-          to: 00:05:04,04
-          text: they both escaped from the Soviet Union
+          from: "00:05:01,13"
+          to: "00:05:04,04"
+          text: "they both escaped from the Soviet Union"
         sequence-58:
           s: 58
-          from: 00:05:04,04
-          to: 00:05:18,03
-          text: and they spoke Russian, especially at home in Vilnius.
+          from: "00:05:04,04"
+          to: "00:05:18,03"
+          text: "and they spoke Russian, especially at home in Vilnius."
         sequence-59:
           s: 59
-          from: 00:05:18,03
-          to: 00:05:30,10
-          text: The next thing was the child talked about her grandma and grandpa
+          from: "00:05:18,03"
+          to: "00:05:30,10"
+          text: "The next thing was the child talked about her grandma and grandpa"
         sequence-60:
           s: 60
-          from: 00:05:30,10
-          to: 00:05:36,27
-          text: so again we created a story that Irena was my cousin and escaped from
-            Warsaw.
+          from: "00:05:30,10"
+          to: "00:05:36,27"
+          text: "so again we created a story that Irena was my cousin and escaped from Warsaw."
         sequence-61:
           s: 61
-          from: 00:05:36,27
-          to: 00:05:39,14
-          text: She was not my cousin, but she escaped from Warsaw.
+          from: "00:05:36,27"
+          to: "00:05:39,14"
+          text: "She was not my cousin, but she escaped from Warsaw."
         sequence-62:
           s: 62
-          from: 00:05:39,14
-          to: 00:05:46,03
-          text: It was true she worked in a hospital, was a nurse and had night shifts.
+          from: "00:05:39,14"
+          to: "00:05:46,03"
+          text: "It was true she worked in a hospital, was a nurse and had night shifts."
         sequence-63:
           s: 63
-          from: 00:05:46,03
-          to: 00:05:56,04
-          text: And that she lived in Vilnius with white Russians -
+          from: "00:05:46,03"
+          to: "00:05:56,04"
+          text: "And that she lived in Vilnius with white Russians -"
         sequence-64:
           s: 64
-          from: 00:05:56,04
-          to: 00:06:04,27
-          text: we only changed aunts into grandma and grandpa,
+          from: "00:05:56,04"
+          to: "00:06:04,27"
+          text: "we only changed aunts into grandma and grandpa,"
         sequence-65:
           s: 65
-          from: 00:06:04,27
-          to: 00:06:11,22
-          text: who spoke Russian at home, the child could see her mother very seldom
+          from: "00:06:04,27"
+          to: "00:06:11,22"
+          text: "who spoke Russian at home, the child could see her mother very seldom"
         sequence-66:
           s: 66
-          from: 00:06:11,22
-          to: 00:06:18,10
-          text: and that is the reason why Irena wants to have this child in a different
-            place.
+          from: "00:06:11,22"
+          to: "00:06:18,10"
+          text: "and that is the reason why Irena wants to have this child in a different place."
         sequence-67:
           s: 67
-          from: 00:06:18,10
-          to: 00:06:35,05
-          text: And the child came, little, angry, crying, almost three year old as
-            it was November, and she was born in December,
+          from: "00:06:18,10"
+          to: "00:06:35,05"
+          text: "And the child came, little, angry, crying, almost three year old as it was November, and she was born in December,"
         sequence-68:
           s: 68
-          from: 00:06:35,05
-          to: 00:06:36,20
-          text: ''
+          from: "00:06:35,05"
+          to: "00:06:36,20"
+          text: ~
         sequence-69:
           s: 69
-          from: 00:06:36,20
-          to: 00:06:39,10
-          text: her name was Miriam but she was called Maryśka.
+          from: "00:06:36,20"
+          to: "00:06:39,10"
+          text: "her name was Miriam but she was called Maryśka."
         sequence-70:
           s: 70
-          from: 00:06:39,10
-          to: 00:06:44,26
-          text: I do not know if people believed this story or not.
+          from: "00:06:39,10"
+          to: "00:06:44,26"
+          text: "I do not know if people believed this story or not."
         sequence-71:
           s: 71
-          from: 00:06:44,26
-          to: 00:06:58,23
-          text: But after a while Maryśka was liked by most people, especially by
-            Melania.
+          from: "00:06:44,26"
+          to: "00:06:58,23"
+          text: "But after a while Maryśka was liked by most people, especially by Melania."
         sequence-72:
           s: 72
-          from: 00:06:58,23
-          to: 00:07:00,13
-          text: ''
+          from: "00:06:58,23"
+          to: "00:07:00,13"
+          text: ~
         sequence-73:
           s: 73
-          from: 00:07:00,13
-          to: 00:07:05,25
-          text: Melania used to walk with her to the village.
+          from: "00:07:00,13"
+          to: "00:07:05,25"
+          text: "Melania used to walk with her to the village."

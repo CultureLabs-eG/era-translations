@@ -1,360 +1,336 @@
----
 sl:
   lorenz-knorr:
     chapter-9:
       c: 9
-      title: Using codes
+      title: "Using codes"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,09
-          to: 00:00:06,11
-          text: In the summer of 1938, before the Nazis marched in,
+          from: "00:00:00,09"
+          to: "00:00:06,11"
+          text: "In the summer of 1938, before the Nazis marched in,"
         sequence-2:
           s: 2
-          from: 00:00:06,11
-          to: 00:00:10,13
-          text: we agreed that we not only want to keep in touch,
+          from: "00:00:06,11"
+          to: "00:00:10,13"
+          text: "we agreed that we not only want to keep in touch,"
         sequence-3:
           s: 3
-          from: 00:00:10,13
-          to: 00:00:20,12
-          text: but we wanted to develop a secure code in which we were able to correspond
-            politically.
+          from: "00:00:10,13"
+          to: "00:00:20,12"
+          text: "but we wanted to develop a secure code in which we were able to correspond politically."
         sequence-4:
           s: 4
-          from: 00:00:20,12
-          to: 00:00:21,21
-          text: ''
+          from: "00:00:20,12"
+          to: "00:00:21,21"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:21,21
-          to: 00:00:28,02
-          text: 'It was a cipher which the Gestapo was not able to figure out until
-            the end:'
+          from: "00:00:21,21"
+          to: "00:00:28,02"
+          text: "It was a cipher which the Gestapo was not able to figure out until the end:"
         sequence-6:
           s: 6
-          from: 00:00:28,02
-          to: 00:00:29,02
-          text: ''
+          from: "00:00:28,02"
+          to: "00:00:29,02"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:29,02
-          to: 00:00:34,25
-          text: A very shifty system, the so called „two-box-system“.
+          from: "00:00:29,02"
+          to: "00:00:34,25"
+          text: "A very shifty system, the so called „two-box-system“."
         sequence-8:
           s: 8
-          from: 00:00:34,25
-          to: 00:00:48,23
-          text: When a cipher was found, you only needed to press out the sender and
-            the addressee to find out more.
+          from: "00:00:34,25"
+          to: "00:00:48,23"
+          text: "When a cipher was found, you only needed to press out the sender and the addressee to find out more."
         sequence-9:
           s: 9
-          from: 00:00:48,23
-          to: 00:00:53,23
-          text: That was why the code had to be masked again – that was my idea.
+          from: "00:00:48,23"
+          to: "00:00:53,23"
+          text: "That was why the code had to be masked again – that was my idea."
         sequence-10:
           s: 10
-          from: 00:00:53,23
-          to: 00:00:54,19
-          text: ''
+          from: "00:00:53,23"
+          to: "00:00:54,19"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:54,19
-          to: 00:00:59,06
-          text: We then arranged that we would use the Goebbel’s weekly article,
+          from: "00:00:54,19"
+          to: "00:00:59,06"
+          text: "We then arranged that we would use the Goebbel’s weekly article,"
         sequence-12:
           s: 12
-          from: 00:00:59,06
-          to: 00:01:05,04
-          text: that he used to write either in the ’Völkischer Beobachter’ or in
-            the ’Reich’, as a disguise.
+          from: "00:00:59,06"
+          to: "00:01:05,04"
+          text: "that he used to write either in the ’Völkischer Beobachter’ or in the ’Reich’, as a disguise."
         sequence-13:
           s: 13
-          from: 00:01:05,04
-          to: 00:01:06,17
-          text: ''
+          from: "00:01:05,04"
+          to: "00:01:06,17"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:06,17
-          to: 00:01:10,01
-          text: We then underlined in red and in the accompanying letter we wrote
+          from: "00:01:06,17"
+          to: "00:01:10,01"
+          text: "We then underlined in red and in the accompanying letter we wrote"
         sequence-15:
           s: 15
-          from: 00:01:10,01
-          to: 00:01:16,05
-          text: this sentence of Goebbels is important, you need to discuss this sentence.
+          from: "00:01:10,01"
+          to: "00:01:16,05"
+          text: "this sentence of Goebbels is important, you need to discuss this sentence."
         sequence-16:
           s: 16
-          from: 00:01:16,05
-          to: 00:01:22,19
-          text: The only function was to distract, because this article was carrying
-            the cipher;
+          from: "00:01:16,05"
+          to: "00:01:22,19"
+          text: "The only function was to distract, because this article was carrying the cipher;"
         sequence-17:
           s: 17
-          from: 00:01:22,19
-          to: 00:01:31,23
-          text: in the way that the encoded text was to be pricked from the back side
-            with a needle at certain letters.
+          from: "00:01:22,19"
+          to: "00:01:31,23"
+          text: "in the way that the encoded text was to be pricked from the back side with a needle at certain letters."
         sequence-18:
           s: 18
-          from: 00:01:31,23
-          to: 00:01:41,03
-          text: The letters had to be filtered out by holding the paper into the light
-            and then it was decoded.
+          from: "00:01:31,23"
+          to: "00:01:41,03"
+          text: "The letters had to be filtered out by holding the paper into the light and then it was decoded."
         sequence-19:
           s: 19
-          from: 00:01:41,03
-          to: 00:01:45,23
-          text: It was not noticeable that we were communicating in cipher.
+          from: "00:01:41,03"
+          to: "00:01:45,23"
+          text: "It was not noticeable that we were communicating in cipher."
         sequence-20:
           s: 20
-          from: 00:01:45,23
-          to: 00:01:46,28
-          text: ''
+          from: "00:01:45,23"
+          to: "00:01:46,28"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:01:46,28
-          to: 00:01:51,07
-          text: When the war began, another important thing happened.
+          from: "00:01:46,28"
+          to: "00:01:51,07"
+          text: "When the war began, another important thing happened."
         sequence-22:
           s: 22
-          from: 00:01:51,07
-          to: 00:01:53,20
-          text: With the attack on Poland,
+          from: "00:01:51,07"
+          to: "00:01:53,20"
+          text: "With the attack on Poland,"
         sequence-23:
           s: 23
-          from: 00:01:53,20
-          to: 00:01:54,11
-          text: ''
+          from: "00:01:53,20"
+          to: "00:01:54,11"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:01:54,11
-          to: 00:01:59,00
-          text: the ‘Wehrmacht’ and the German air force were looking for ’Blitzmädchen’
-            (female military Helpers during World War II),
+          from: "00:01:54,11"
+          to: "00:01:59,00"
+          text: "the ‘Wehrmacht’ and the German air force were looking for ’Blitzmädchen’ (female military Helpers during World War II),"
         sequence-25:
           s: 25
-          from: 00:01:59,00
-          to: 00:02:05,22
-          text: which were able to help as radio operators in the occupied areas.
+          from: "00:01:59,00"
+          to: "00:02:05,22"
+          text: "which were able to help as radio operators in the occupied areas."
         sequence-26:
           s: 26
-          from: 00:02:05,22
-          to: 00:02:12,25
-          text: Eight of our female comrades volunteered.
+          from: "00:02:05,22"
+          to: "00:02:12,25"
+          text: "Eight of our female comrades volunteered."
         sequence-27:
           s: 27
-          from: 00:02:12,25
-          to: 00:02:13,19
-          text: ''
+          from: "00:02:12,25"
+          to: "00:02:13,19"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:02:13,19
-          to: 00:02:21,01
-          text: They had to be let in on our cipher, which only the hard core had
-            known.
+          from: "00:02:13,19"
+          to: "00:02:21,01"
+          text: "They had to be let in on our cipher, which only the hard core had known."
         sequence-29:
           s: 29
-          from: 00:02:21,01
-          to: 00:02:29,00
-          text: We had to keep up the contact, and they had to, wherever they were,
-            get in touch with the local partisans.
+          from: "00:02:21,01"
+          to: "00:02:29,00"
+          text: "We had to keep up the contact, and they had to, wherever they were, get in touch with the local partisans."
         sequence-30:
           s: 30
-          from: 00:02:29,00
-          to: 00:02:29,29
-          text: ''
+          from: "00:02:29,00"
+          to: "00:02:29,29"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:02:29,29
-          to: 00:02:36,12
-          text: After having been badly wounded, I was retrained as a radio operator
-            in the punishment battalion in Africa.
+          from: "00:02:29,29"
+          to: "00:02:36,12"
+          text: "After having been badly wounded, I was retrained as a radio operator in the punishment battalion in Africa."
         sequence-32:
           s: 32
-          from: 00:02:36,12
-          to: 00:02:37,18
-          text: ''
+          from: "00:02:36,12"
+          to: "00:02:37,18"
+          text: ~
         sequence-33:
           s: 33
-          from: 00:02:37,18
-          to: 00:02:41,28
-          text: Of course this was a second option to communicate quickly.
+          from: "00:02:37,18"
+          to: "00:02:41,28"
+          text: "Of course this was a second option to communicate quickly."
         sequence-34:
           s: 34
-          from: 00:02:41,28
-          to: 00:02:47,28
-          text: Every radio operator had the opportunity to communicate via radio
-            as long as there was another radio operator somewhere else.
+          from: "00:02:41,28"
+          to: "00:02:47,28"
+          text: "Every radio operator had the opportunity to communicate via radio as long as there was another radio operator somewhere else."
         sequence-35:
           s: 35
-          from: 00:02:47,28
-          to: 00:02:54,27
-          text: You only had to be careful, because the ‘Gestapo’ and the ‘SS’ intercepted
-            everything.
+          from: "00:02:47,28"
+          to: "00:02:54,27"
+          text: "You only had to be careful, because the ‘Gestapo’ and the ‘SS’ intercepted everything."
         sequence-36:
           s: 36
-          from: 00:02:54,27
-          to: 00:03:01,05
-          text: But it worked, you could communicate via radio, as well.
+          from: "00:02:54,27"
+          to: "00:03:01,05"
+          text: "But it worked, you could communicate via radio, as well."
         sequence-37:
           s: 37
-          from: 00:03:01,05
-          to: 00:03:02,12
-          text: ''
+          from: "00:03:01,05"
+          to: "00:03:02,12"
+          text: ~
         sequence-38:
           s: 38
-          from: 00:03:02,12
-          to: 00:03:07,20
-          text: Me, for example, and there are not many who achieved something like
-            that,
+          from: "00:03:02,12"
+          to: "00:03:07,20"
+          text: "Me, for example, and there are not many who achieved something like that,"
         sequence-39:
           s: 39
-          from: 00:03:07,20
-          to: 00:03:14,15
-          text: I had connection to my party leader exiled in London from 1941 until
-            1945.
+          from: "00:03:07,20"
+          to: "00:03:14,15"
+          text: "I had connection to my party leader exiled in London from 1941 until 1945."
         sequence-40:
           s: 40
-          from: 00:03:14,15
-          to: 00:03:16,05
-          text: ''
+          from: "00:03:14,15"
+          to: "00:03:16,05"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:03:16,05
-          to: 00:03:19,26
-          text: Coded mail went to Bergen in Norway.
+          from: "00:03:16,05"
+          to: "00:03:19,26"
+          text: "Coded mail went to Bergen in Norway."
         sequence-42:
           s: 42
-          from: 00:03:19,26
-          to: 00:03:25,16
-          text: There sat a comrade of ours as a ’Blitzmädchen’, she had connection
-            to the partisans.
+          from: "00:03:19,26"
+          to: "00:03:25,16"
+          text: "There sat a comrade of ours as a ’Blitzmädchen’, she had connection to the partisans."
         sequence-43:
           s: 43
-          from: 00:03:25,16
-          to: 00:03:27,28
-          text: They took the mail to Sweden.
+          from: "00:03:25,16"
+          to: "00:03:27,28"
+          text: "They took the mail to Sweden."
         sequence-44:
           s: 44
-          from: 00:03:27,28
-          to: 00:03:32,10
-          text: In Stockholm was the secretary general of my party
+          from: "00:03:27,28"
+          to: "00:03:32,10"
+          text: "In Stockholm was the secretary general of my party"
         sequence-45:
           s: 45
-          from: 00:03:32,10
-          to: 00:03:36,20
-          text: and he established the connection from Stockholm to London via plane.
+          from: "00:03:32,10"
+          to: "00:03:36,20"
+          text: "and he established the connection from Stockholm to London via plane."
         sequence-46:
           s: 46
-          from: 00:03:36,20
-          to: 00:03:39,29
-          text: 'Until the enquiry came back:'
+          from: "00:03:36,20"
+          to: "00:03:39,29"
+          text: "Until the enquiry came back:"
         sequence-47:
           s: 47
-          from: 00:03:39,29
-          to: 00:03:42,01
+          from: "00:03:39,29"
+          to: "00:03:42,01"
           text: "“How is the mood in the population?"
         sequence-48:
           s: 48
-          from: 00:03:42,01
-          to: 00:03:45,10
-          text: Where are places for paratroopers to jump
+          from: "00:03:42,01"
+          to: "00:03:45,10"
+          text: "Where are places for paratroopers to jump"
         sequence-49:
           s: 49
-          from: 00:03:45,10
-          to: 00:03:54,20
-          text: where to the same time a social background can be found, so they can
-            live and operate safely?”
+          from: "00:03:45,10"
+          to: "00:03:54,20"
+          text: "where to the same time a social background can be found, so they can live and operate safely?”"
         sequence-50:
           s: 50
-          from: 00:03:54,20
-          to: 00:03:57,27
-          text: These sorts of questions came and they were answered.
+          from: "00:03:54,20"
+          to: "00:03:57,27"
+          text: "These sorts of questions came and they were answered."
         sequence-51:
           s: 51
-          from: 00:03:57,27
-          to: 00:04:04,24
-          text: Later on it worked even faster, because a comrade,
+          from: "00:03:57,27"
+          to: "00:04:04,24"
+          text: "Later on it worked even faster, because a comrade,"
         sequence-52:
           s: 52
-          from: 00:04:04,24
-          to: 00:04:10,14
-          text: who had emigrated to London with her parents, got a new identity
+          from: "00:04:04,24"
+          to: "00:04:10,14"
+          text: "who had emigrated to London with her parents, got a new identity"
         sequence-53:
           s: 53
-          from: 00:04:10,14
-          to: 00:04:18,20
-          text: and was infiltrated into Denmark where she got married to a Danish
-            member of the resistance.
+          from: "00:04:10,14"
+          to: "00:04:18,20"
+          text: "and was infiltrated into Denmark where she got married to a Danish member of the resistance."
         sequence-54:
           s: 54
-          from: 00:04:18,20
-          to: 00:04:25,17
-          text: She applied at the German commandant’s office and nobody knew that
-            she spoke Jewish.
+          from: "00:04:18,20"
+          to: "00:04:25,17"
+          text: "She applied at the German commandant’s office and nobody knew that she spoke Jewish."
         sequence-55:
           s: 55
-          from: 00:04:25,17
-          to: 00:04:30,28
-          text: She also spoke German, French, English and then she even learned Danish
+          from: "00:04:25,17"
+          to: "00:04:30,28"
+          text: "She also spoke German, French, English and then she even learned Danish"
         sequence-56:
           s: 56
-          from: 00:04:30,28
-          to: 00:04:33,24
-          text: and after that applied at the German commandant’s office.
+          from: "00:04:30,28"
+          to: "00:04:33,24"
+          text: "and after that applied at the German commandant’s office."
         sequence-57:
           s: 57
-          from: 00:04:33,24
-          to: 00:04:38,06
-          text: Because she was perfect in type writing and shorthand she was taken
-            on immediately.
+          from: "00:04:33,24"
+          to: "00:04:38,06"
+          text: "Because she was perfect in type writing and shorthand she was taken on immediately."
         sequence-58:
           s: 58
-          from: 00:04:38,06
-          to: 00:04:43,00
-          text: Because of her capability and her linguistic knowledge it did not
-            take long
+          from: "00:04:38,06"
+          to: "00:04:43,00"
+          text: "Because of her capability and her linguistic knowledge it did not take long"
         sequence-59:
           s: 59
-          from: 00:04:43,00
-          to: 00:04:48,24
-          text: and she was sitting in the outer office of the German general in command!
+          from: "00:04:43,00"
+          to: "00:04:48,24"
+          text: "and she was sitting in the outer office of the German general in command!"
         sequence-60:
           s: 60
-          from: 00:04:48,24
-          to: 00:04:51,12
-          text: She had access to all the files.
+          from: "00:04:48,24"
+          to: "00:04:51,12"
+          text: "She had access to all the files."
         sequence-61:
           s: 61
-          from: 00:04:51,12
-          to: 00:04:58,08
-          text: Everything that went to the general or that came from the general,
-            even if it came from the ‘Fuehrer’, went through her hands.
+          from: "00:04:51,12"
+          to: "00:04:58,08"
+          text: "Everything that went to the general or that came from the general, even if it came from the ‘Fuehrer’, went through her hands."
         sequence-62:
           s: 62
-          from: 00:04:58,08
-          to: 00:05:00,24
-          text: That naturally was a source.
+          from: "00:04:58,08"
+          to: "00:05:00,24"
+          text: "That naturally was a source."
         sequence-63:
           s: 63
-          from: 00:05:00,24
-          to: 00:05:05,22
-          text: As she had direct connection to London, the way was shorter.
+          from: "00:05:00,24"
+          to: "00:05:05,22"
+          text: "As she had direct connection to London, the way was shorter."
         sequence-64:
           s: 64
-          from: 00:05:05,22
-          to: 00:05:14,13
-          text: The connection worked in no time.
+          from: "00:05:05,22"
+          to: "00:05:14,13"
+          text: "The connection worked in no time."
         sequence-65:
           s: 65
-          from: 00:05:14,13
-          to: 00:05:19,24
-          text: It did not take six weeks any more, but took fourteen days or three
-            weeks
+          from: "00:05:14,13"
+          to: "00:05:19,24"
+          text: "It did not take six weeks any more, but took fourteen days or three weeks"
         sequence-66:
           s: 66
-          from: 00:05:19,24
-          to: 00:05:24,01
-          text: until the message moved back and forth – coded, of course.
+          from: "00:05:19,24"
+          to: "00:05:24,01"
+          text: "until the message moved back and forth – coded, of course."

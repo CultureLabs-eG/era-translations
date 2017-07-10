@@ -1,112 +1,101 @@
----
 it:
   ivo-srcnik:
     chapter-10:
       c: 10
-      title: Demobilisation; civil life starts
+      title: "Demobilisation; civil life starts"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,27
-          to: 00:00:06,00
-          text: Eventually the day came that I was to be demobilized.
+          from: "00:00:00,27"
+          to: "00:00:06,00"
+          text: "Eventually the day came that I was to be demobilized."
         sequence-2:
           s: 2
-          from: 00:00:06,00
-          to: 00:00:11,20
-          text: I received 5000 dinars; that was a lot of money at the time.
+          from: "00:00:06,00"
+          to: "00:00:11,20"
+          text: "I received 5000 dinars; that was a lot of money at the time."
         sequence-3:
           s: 3
-          from: 00:00:11,20
-          to: 00:00:27,18
-          text: When I left the office of Sekulic, he took hold of my epaulettes,
-            tore them off and stomped on them.
+          from: "00:00:11,20"
+          to: "00:00:27,18"
+          text: "When I left the office of Sekulic, he took hold of my epaulettes, tore them off and stomped on them."
         sequence-4:
           s: 4
-          from: 00:00:27,18
-          to: 00:00:36,17
-          text: These two stars, I had two on each shoulder because I was a second
-            lieutenant, I still have them today.
+          from: "00:00:27,18"
+          to: "00:00:36,17"
+          text: "These two stars, I had two on each shoulder because I was a second lieutenant, I still have them today."
         sequence-5:
           s: 5
-          from: 00:00:36,17
-          to: 00:00:47,00
-          text: That’s how I was demobilized, in the end of november.
+          from: "00:00:36,17"
+          to: "00:00:47,00"
+          text: "That’s how I was demobilized, in the end of november."
         sequence-6:
           s: 6
-          from: 00:00:47,00
-          to: 00:00:48,03
-          text: ''
+          from: "00:00:47,00"
+          to: "00:00:48,03"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:48,03
-          to: 00:00:55,13
-          text: I got home and immediately I became a secretary for the Liberation
-            Front (LF).
+          from: "00:00:48,03"
+          to: "00:00:55,13"
+          text: "I got home and immediately I became a secretary for the Liberation Front (LF)."
         sequence-8:
           s: 8
-          from: 00:00:55,13
-          to: 00:01:05,01
-          text: The LF was set up then without districts. There were just the LF’s,
-            they had the power.
+          from: "00:00:55,13"
+          to: "00:01:05,01"
+          text: "The LF was set up then without districts. There were just the LF’s, they had the power."
         sequence-9:
           s: 9
-          from: 00:01:05,01
-          to: 00:01:12,09
-          text: There was this man who was the president of it and he was also a Partisan.
+          from: "00:01:05,01"
+          to: "00:01:12,09"
+          text: "There was this man who was the president of it and he was also a Partisan."
         sequence-10:
           s: 10
-          from: 00:01:12,09
-          to: 00:01:22,27
-          text: I was doing woodwork for my father and this policeman comes into the
-            workshop and asks if I’m so-and-so.
+          from: "00:01:12,09"
+          to: "00:01:22,27"
+          text: "I was doing woodwork for my father and this policeman comes into the workshop and asks if I’m so-and-so."
         sequence-11:
           s: 11
-          from: 00:01:22,27
-          to: 00:01:29,14
-          text: I said that I’m Srcnik. He tells me to go with him. I ask where?
+          from: "00:01:22,27"
+          to: "00:01:29,14"
+          text: "I said that I’m Srcnik. He tells me to go with him. I ask where?"
         sequence-12:
           s: 12
-          from: 00:01:29,14
-          to: 00:01:37,23
-          text: He says you’re coming. So we went out into the road.
+          from: "00:01:29,14"
+          to: "00:01:37,23"
+          text: "He says you’re coming. So we went out into the road."
         sequence-13:
           s: 13
-          from: 00:01:37,23
-          to: 00:01:46,07
-          text: Another policeman is ushering the LF president.
+          from: "00:01:37,23"
+          to: "00:01:46,07"
+          text: "Another policeman is ushering the LF president."
         sequence-14:
           s: 14
-          from: 00:01:46,07
-          to: 00:01:56,21
-          text: I asked what was going on, what did we do? Continue! You’re not permitted
-            to speak! So we went on…
+          from: "00:01:46,07"
+          to: "00:01:56,21"
+          text: "I asked what was going on, what did we do? Continue! You’re not permitted to speak! So we went on…"
         sequence-15:
           s: 15
-          from: 00:01:56,21
-          to: 00:02:07,05
-          text: Anyway, so we came to this bridge and he said that we’re going to
-            that house. Why? Don’t ask, let’s just go.
+          from: "00:01:56,21"
+          to: "00:02:07,05"
+          text: "Anyway, so we came to this bridge and he said that we’re going to that house. Why? Don’t ask, let’s just go."
         sequence-16:
           s: 16
-          from: 00:02:07,05
-          to: 00:02:18,01
-          text: So we get to that house and a car drives up; it was a German Volkswagen
-            and there were two people inside.
+          from: "00:02:07,05"
+          to: "00:02:18,01"
+          text: "So we get to that house and a car drives up; it was a German Volkswagen and there were two people inside."
         sequence-17:
           s: 17
-          from: 00:02:18,01
-          to: 00:02:28,18
-          text: I don’t remember whether they were dressed as civilians or not. One
-            of the two entered, while the other stayed outside in the car.
+          from: "00:02:18,01"
+          to: "00:02:28,18"
+          text: "I don’t remember whether they were dressed as civilians or not. One of the two entered, while the other stayed outside in the car."
         sequence-18:
           s: 18
-          from: 00:02:28,18
-          to: 00:02:36,00
-          text: He gave the cue to the two policemen that we should go inside. An
-            examination followed.
+          from: "00:02:28,18"
+          to: "00:02:36,00"
+          text: "He gave the cue to the two policemen that we should go inside. An examination followed."
         sequence-19:
           s: 19
-          from: 00:02:36,00
-          to: 00:02:42,00
-          text: I won’t go into what was found. That’s how this civilian life began.
+          from: "00:02:36,00"
+          to: "00:02:42,00"
+          text: "I won’t go into what was found. That’s how this civilian life began."

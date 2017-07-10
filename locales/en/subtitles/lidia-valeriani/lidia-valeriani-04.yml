@@ -1,78 +1,71 @@
----
 en:
   lidia-valeriani:
     chapter-4:
       c: 4
-      title: Work in the family
+      title: "Work in the family"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,18
-          to: 00:00:06,28
-          text: Before he married my mother, my father was
+          from: "00:00:00,18"
+          to: "00:00:06,28"
+          text: "Before he married my mother, my father was"
         sequence-2:
           s: 2
-          from: 00:00:06,28
-          to: 00:00:14,25
-          text: with a family of peasants who were working for my mother’s family,
-            who were called “servants” at the time.
+          from: "00:00:06,28"
+          to: "00:00:14,25"
+          text: "with a family of peasants who were working for my mother’s family, who were called “servants” at the time."
         sequence-3:
           s: 3
-          from: 00:00:14,25
-          to: 00:00:15,25
-          text: ''
+          from: "00:00:14,25"
+          to: "00:00:15,25"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:15,25
-          to: 00:00:28,28
-          text: With other co-workers from Montecavolo they set up a sort of business;
+          from: "00:00:15,25"
+          to: "00:00:28,28"
+          text: "With other co-workers from Montecavolo they set up a sort of business;"
         sequence-5:
           s: 5
-          from: 00:00:28,28
-          to: 00:00:37,23
-          text: they had the machinery for threshing and ploughing the land, so 4
-            or 5 of them got together and started this activity.
+          from: "00:00:28,28"
+          to: "00:00:37,23"
+          text: "they had the machinery for threshing and ploughing the land, so 4 or 5 of them got together and started this activity."
         sequence-6:
           s: 6
-          from: 00:00:37,23
-          to: 00:00:44,06
-          text: 'After that he always did that job, he was always a thresher:'
+          from: "00:00:37,23"
+          to: "00:00:44,06"
+          text: "After that he always did that job, he was always a thresher:"
         sequence-7:
           s: 7
-          from: 00:00:44,06
-          to: 00:00:47,02
-          text: they went out to plough, to thresh, these type of things.
+          from: "00:00:44,06"
+          to: "00:00:47,02"
+          text: "they went out to plough, to thresh, these type of things."
         sequence-8:
           s: 8
-          from: 00:00:47,02
-          to: 00:00:47,28
-          text: ''
+          from: "00:00:47,02"
+          to: "00:00:47,28"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:47,28
-          to: 00:00:55,01
-          text: When I was 10 I started to work as a seamstress, or I should say to
-            learn how to be a seamstress.
+          from: "00:00:47,28"
+          to: "00:00:55,01"
+          text: "When I was 10 I started to work as a seamstress, or I should say to learn how to be a seamstress."
         sequence-10:
           s: 10
-          from: 00:00:55,01
-          to: 00:01:02,02
-          text: I helped my mother out a little, because we also had about 20.000
-            square meters of land,
+          from: "00:00:55,01"
+          to: "00:01:02,02"
+          text: "I helped my mother out a little, because we also had about 20.000 square meters of land,"
         sequence-11:
           s: 11
-          from: 00:01:02,02
-          to: 00:01:16,12
-          text: we had a cow or two for milk, in order to go to the dairy to get some
-            cheese, butter, etc.
+          from: "00:01:02,02"
+          to: "00:01:16,12"
+          text: "we had a cow or two for milk, in order to go to the dairy to get some cheese, butter, etc."
         sequence-12:
           s: 12
-          from: 00:01:16,12
-          to: 00:01:23,12
-          text: In the winter, since you couldn’t do much in the fields,
+          from: "00:01:16,12"
+          to: "00:01:23,12"
+          text: "In the winter, since you couldn’t do much in the fields,"
         sequence-13:
           s: 13
-          from: 00:01:23,12
-          to: 00:01:29,11
-          text: my father would help us more with these things, while in the summer
-            he was always working.
+          from: "00:01:23,12"
+          to: "00:01:29,11"
+          text: "my father would help us more with these things, while in the summer he was always working."

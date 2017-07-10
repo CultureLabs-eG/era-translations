@@ -1,382 +1,356 @@
----
 de:
   giacomina-castagnetti:
     chapter-1:
       c: 1
-      title: Familie, sozialer und politischer Kontext
+      title: "Familie, sozialer und politischer Kontext"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,18
-          to: 00:00:03,11
-          text: Mein Name ist Giacomina Castagnetti.
+          from: "00:00:00,18"
+          to: "00:00:03,11"
+          text: "Mein Name ist Giacomina Castagnetti."
         sequence-2:
           s: 2
-          from: 00:00:03,11
-          to: 00:00:08,13
-          text: Ich nehme es immer gerne an, wenn ich gefragt werde, meine Lebensgeschichte
-            zu erzählen.
+          from: "00:00:03,11"
+          to: "00:00:08,13"
+          text: "Ich nehme es immer gerne an, wenn ich gefragt werde, meine Lebensgeschichte zu erzählen."
         sequence-3:
           s: 3
-          from: 00:00:08,13
-          to: 00:00:19,20
-          text: Nicht weil ich denke sie sei sehr wichtig, interessant,
-            oder einzigartig, sondern weil ich
+          from: "00:00:08,13"
+          to: "00:00:19,20"
+          text: "Nicht weil ich denke sie sei sehr wichtig, interessant, oder einzigartig, sondern weil ich"
         sequence-4:
           s: 4
-          from: 00:00:19,20
-          to: 00:00:25,08
-          text: die dunkelste Zeit der italienischen Geschichte miterlebt habe,
+          from: "00:00:19,20"
+          to: "00:00:25,08"
+          text: "die dunkelste Zeit der italienischen Geschichte miterlebt habe,"
         sequence-5:
           s: 5
-          from: 00:00:25,08
-          to: 00:00:26,17
-          text: das faschistische Regime und den Zweiten Weltkrieg.
+          from: "00:00:25,08"
+          to: "00:00:26,17"
+          text: "those of the fascist regime and of the Second World War."
         sequence-6:
           s: 6
-          from: 00:00:26,17
-          to: 00:00:37,02
-          text: Ich bin aus Roncolo di Quattro Castella, aus einer großen
-            Familie von Pachtbauern. Ich bin Jahrgang 1925.
+          from: "00:00:26,17"
+          to: "00:00:37,02"
+          text: "Ich bin aus Roncolo di Quattro Castella, aus einer großen Familie von Pachtbauern. Ich bin Jahrgang 1925."
         sequence-7:
           s: 7
-          from: 00:00:37,02
-          to: 00:00:44,07
-          text: ''
+          from: "00:00:37,02"
+          to: "00:00:44,07"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:44,07
-          to: 00:00:58,15
-          text: Ich war das jüngste Kind der Familie, nach sechs Brüdern und einer Schwester.
+          from: "00:00:44,07"
+          to: "00:00:58,15"
+          text: "Ich war das jüngste Kind der Familie, nach sechs Brüdern und einer Schwester."
         sequence-9:
           s: 9
-          from: 00:00:58,15
-          to: 00:01:07,00
-          text: Ich bin drei Monate nach dem Tod meines Vaters geboren.
-            Meine Mutter war eine Witwe mit acht Kindern.
+          from: "00:00:58,15"
+          to: "00:01:07,00"
+          text: "Ich bin drei Monate nach dem Tod meines Vaters geboren. Meine Mutter war eine Witwe mit acht Kindern."
         sequence-10:
           s: 10
-          from: 00:01:07,00
-          to: 00:01:08,02
-          text: ''
+          from: "00:01:07,00"
+          to: "00:01:08,02"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:01:08,02
-          to: 00:01:14,11
-          text: Wir waren immer eine sehr eng verbundene Familie.
+          from: "00:01:08,02"
+          to: "00:01:14,11"
+          text: "Wir waren immer eine sehr eng verbundene Familie."
         sequence-12:
           s: 12
-          from: 00:01:14,11
-          to: 00:01:15,16
-          text: ''
+          from: "00:01:14,11"
+          to: "00:01:15,16"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:01:15,16
-          to: 00:01:21,29
-          text: Das Gesetz erlaubte es meiner Mutter als Frau nicht, Familienvorstand zu sein.
+          from: "00:01:15,16"
+          to: "00:01:21,29"
+          text: "Das Gesetz erlaubte es meiner Mutter als Frau nicht, Familienvorstand zu sein."
         sequence-14:
           s: 14
-          from: 00:01:21,29
-          to: 00:01:26,13
-          text: Deshalb bekam sie auch nicht das Sorgerecht für die Kinder.
+          from: "00:01:21,29"
+          to: "00:01:26,13"
+          text: "Deshalb bekam sie auch nicht das Sorgerecht für die Kinder."
         sequence-15:
           s: 15
-          from: 00:01:26,13
-          to: 00:01:36,22
-          text: Das Gericht bestimmte einen Vormund, der eine ärmliche Bauernfamilie
-            wie die unsere kontrollieren sollte.
+          from: "00:01:26,13"
+          to: "00:01:36,22"
+          text: "Das Gericht bestimmte einen Vormund, der eine ärmliche Bauernfamilie wie die unsere kontrollieren sollte."
         sequence-16:
           s: 16
-          from: 00:01:36,22
-          to: 00:01:45,02
-          text: Er kam in unser Haus um die Gabeln und Messer zu zählen,
-            die Möbel und alles andere.
+          from: "00:01:36,22"
+          to: "00:01:45,02"
+          text: "Er kam in unser Haus um die Gabeln und Messer zu zählen, die Möbel und alles andere."
         sequence-17:
           s: 17
-          from: 00:01:45,02
-          to: 00:01:52,10
-          text: Er sollte sicherstellen, dass dieses Vermögen unberührt
-            bleibe bis wir Kinder volljährig waren.
+          from: "00:01:45,02"
+          to: "00:01:52,10"
+          text: "Er sollte sicherstellen, dass dieses Vermögen unberührt bleibe bis wir Kinder volljährig waren."
         sequence-18:
           s: 18
-          from: 00:01:52,10
-          to: 00:01:52,27
-          text: ''
+          from: "00:01:52,10"
+          to: "00:01:52,27"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:52,27
-          to: 00:01:56,22
-          text: Ich ging in Roncolo zur Schule.
+          from: "00:01:52,27"
+          to: "00:01:56,22"
+          text: "Ich ging in Roncolo zur Schule."
         sequence-20:
           s: 20
-          from: 00:01:56,22
-          to: 00:01:58,22
-          text: Da sich die Schule in einer ländlichen Gegend befand
+          from: "00:01:56,22"
+          to: "00:01:58,22"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:01:58,22
-          to: 00:02:08,16
-          text: ging sie nur bis zur dritten Klasse.
+          from: "00:01:58,22"
+          to: "00:02:08,16"
+          text: "ging sie nur bis zur dritten Klasse."
         sequence-22:
           s: 22
-          from: 00:02:08,16
-          to: 00:02:21,23
-          text: Ich ging auf Holzschuhen zur Schule, mit einem Beutel, zwei
-            Schulheften -
+          from: "00:02:08,16"
+          to: "00:02:21,23"
+          text: "Ich ging auf Holzschuhen zur Schule, mit einem Beutel, zwei Schulheften -"
         sequence-23:
           s: 23
-          from: 00:02:21,23
-          to: 00:02:30,27
-          text: das eine liniert, das andere kariert – und einer Fibel
+          from: "00:02:21,23"
+          to: "00:02:30,27"
+          text: "das eine liniert, das andere kariert – und einer Fibel"
         sequence-24:
           s: 24
-          from: 00:02:30,27
-          to: 00:02:41,11
-          text: die alle meine Brüder schon benutzt hatten, bevor ich sie bekam.
+          from: "00:02:30,27"
+          to: "00:02:41,11"
+          text: "die alle meine Brüder schon benutzt hatten, bevor ich sie bekam."
         sequence-25:
           s: 25
-          from: 00:02:41,11
-          to: 00:02:51,17
-          text: 'In der Schule gab es ein großes Banner das schlecht gemalt war und
-            auf dem stand:'
+          from: "00:02:41,11"
+          to: "00:02:51,17"
+          text: "In der Schule gab es ein großes Banner das schlecht gemalt war und auf dem stand:"
         sequence-26:
           s: 26
-          from: 00:02:51,17
-          to: 00:02:54,17
+          from: "00:02:51,17"
+          to: "00:02:54,17"
           text: "“Der Duce hat immer recht”."
         sequence-27:
           s: 27
-          from: 00:02:54,17
-          to: 00:03:04,01
-          text: 'Alles war so organisiert damit Leute an diese Sachen glaubten:'
+          from: "00:02:54,17"
+          to: "00:03:04,01"
+          text: "Alles war so organisiert damit Leute an diese Sachen glaubten:"
         sequence-28:
           s: 28
-          from: 00:03:04,01
-          to: 00:03:13,06
-          text: dass man sich dem Duce nicht widersetze und er immer Recht habe in dem,
-            was er sage.
+          from: "00:03:04,01"
+          to: "00:03:13,06"
+          text: "dass man sich dem Duce nicht widersetze und er immer Recht habe in dem, was er sage."
         sequence-29:
           s: 29
-          from: 00:03:13,06
-          to: 00:03:24,10
-          text: 'Morgens bekamen wir Lebertran: einen halben Teelöffel für die Mädchen,
-            einen ganzen für die Jungs.'
+          from: "00:03:13,06"
+          to: "00:03:24,10"
+          text: "Morgens bekamen wir Lebertran: einen halben Teelöffel für die Mädchen, einen ganzen für die Jungs."
         sequence-30:
           s: 30
-          from: 00:03:24,10
-          to: 00:03:31,05
-          text: Das war nicht schlimm, weil das Öl eklig und ranzig schmeckte.
+          from: "00:03:24,10"
+          to: "00:03:31,05"
+          text: "Das war nicht schlimm, weil das Öl eklig und ranzig schmeckte."
         sequence-31:
           s: 31
-          from: 00:03:31,05
-          to: 00:03:40,18
-          text: Aber es war schon das erste Zeichen der Diskriminierung von Frauen.
+          from: "00:03:31,05"
+          to: "00:03:40,18"
+          text: "Aber es war schon das erste Zeichen der Diskriminierung von Frauen."
         sequence-32:
           s: 32
-          from: 00:03:40,18
-          to: 00:03:42,08
-          text: ''
+          from: "00:03:40,18"
+          to: "00:03:42,08"
+          text: ~
         sequence-33:
           s: 33
-          from: 00:03:42,08
-          to: 00:03:52,29
-          text: Wir hatten nicht viel Mathe, aber wir verbrachten viel Zeit mit Gymnastik
-            weil wir unsere Körper ertüchtigen sollten.
+          from: "00:03:42,08"
+          to: "00:03:52,29"
+          text: "Wir hatten nicht viel Mathe, aber wir verbrachten viel Zeit mit Gymnastik weil wir unsere Körper ertüchtigen sollten."
         sequence-34:
           s: 34
-          from: 00:03:52,29
-          to: 00:04:03,05
-          text: Weil wir keine Turnhalle hatten haben wir jeden Tag zwei Stunden im
-            Hof Sport getrieben,
+          from: "00:03:52,29"
+          to: "00:04:03,05"
+          text: "Weil wir keine Turnhalle hatten haben wir jeden Tag zwei Stunden im Hof Sport getrieben,"
         sequence-35:
           s: 35
-          from: 00:04:03,05
-          to: 00:04:06,20
-          text: selbst im Winter, wenn es kalt war.
+          from: "00:04:03,05"
+          to: "00:04:06,20"
+          text: "selbst im Winter, wenn es kalt war."
         sequence-36:
           s: 36
-          from: 00:04:06,20
-          to: 00:04:16,07
-          text: Wir waren alle aufgeregt wegen der Gymnastikaufführung,
-            an der wir gerabeitet hatten.
+          from: "00:04:06,20"
+          to: "00:04:16,07"
+          text: "Wir waren alle aufgeregt wegen der Gymnastikaufführung, an der wir gerabeitet hatten."
         sequence-37:
           s: 37
-          from: 00:04:16,07
-          to: 00:04:27,06
-          text: Sie sollte auf dem Hauptplatz stattfinden, für unsere Eltern
-            und alle anderen.
+          from: "00:04:16,07"
+          to: "00:04:27,06"
+          text: "Sie sollte auf dem Hauptplatz stattfinden, für unsere Eltern und alle anderen."
         sequence-38:
           s: 38
-          from: 00:04:27,06
-          to: 00:04:28,13
-          text: ''
+          from: "00:04:27,06"
+          to: "00:04:28,13"
+          text: ~
         sequence-39:
           s: 39
-          from: 00:04:28,13
-          to: 00:04:36,27
-          text: 'Allerdings wollte Mussolini, dass Kinder schon von
-            frühster Jugend an Uniform trugen:'
+          from: "00:04:28,13"
+          to: "00:04:36,27"
+          text: "Allerdings wollte Mussolini, dass Kinder schon von frühster Jugend an Uniform trugen:"
         sequence-40:
           s: 40
-          from: 00:04:36,27
-          to: 00:04:37,20
-          text: ''
+          from: "00:04:36,27"
+          to: "00:04:37,20"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:04:37,20
-          to: 00:04:44,17
-          text: die “Figli della Lupa”, die “Balilla”, die “Piccole Italiane”, die
-            “Avant-gardists”.
+          from: "00:04:37,20"
+          to: "00:04:44,17"
+          text: "die “Figli della Lupa”, die “Balilla”, die “Piccole Italiane”, die “Avant-gardists”."
         sequence-42:
           s: 42
-          from: 00:04:44,17
-          to: 00:04:46,11
-          text: ''
+          from: "00:04:44,17"
+          to: "00:04:46,11"
+          text: ~
         sequence-43:
           s: 43
-          from: 00:04:46,11
-          to: 00:04:50,00
-          text: Mütter wurden in die “Massaie rurali” (ländliche Hausfrauen) eingeschrieben.
+          from: "00:04:46,11"
+          to: "00:04:50,00"
+          text: "Mütter wurden in die “Massaie rurali” (ländliche Hausfrauen) eingeschrieben."
         sequence-44:
           s: 44
-          from: 00:04:50,00
-          to: 00:05:00,21
-          text: 'Ihnen wurden Flugblätter gegeben damit sie Hühneraufzucht lernen konnten,
-            und wie sie den Garten bestellen sollten: den “Kriegsgarten”.'
+          from: "00:04:50,00"
+          to: "00:05:00,21"
+          text: "Ihnen wurden Flugblätter gegeben damit sie Hühneraufzucht lernen konnten, und wie sie den Garten bestellen sollten: den “Kriegsgarten”."
         sequence-45:
           s: 45
-          from: 00:05:00,21
-          to: 00:05:02,25
-          text: ''
+          from: "00:05:00,21"
+          to: "00:05:02,25"
+          text: ~
         sequence-46:
           s: 46
-          from: 00:05:02,25
-          to: 00:05:06,16
-          text: Die ganze Familie war
+          from: "00:05:02,25"
+          to: "00:05:06,16"
+          text: "Die ganze Familie war"
         sequence-47:
           s: 47
-          from: 00:05:06,16
-          to: 00:05:08,20
-          text: ''
+          from: "00:05:06,16"
+          to: "00:05:08,20"
+          text: ~
         sequence-48:
           s: 48
-          from: 00:05:08,20
-          to: 00:05:11,01
+          from: "00:05:08,20"
+          to: "00:05:11,01"
           text: organisiert.
         sequence-49:
           s: 49
-          from: 00:05:11,01
-          to: 00:05:13,19
-          text: ''
+          from: "00:05:11,01"
+          to: "00:05:13,19"
+          text: ~
         sequence-50:
           s: 50
-          from: 00:05:13,19
-          to: 00:05:22,29
-          text: Der Duce hat außerdem entschieden, dass große Familien mit einer Urkunde
-            ausgezeichnet werden sollten.
+          from: "00:05:13,19"
+          to: "00:05:22,29"
+          text: "Der Duce hat außerdem entschieden, dass große Familien mit einer Urkunde ausgezeichnet werden sollten."
         sequence-51:
           s: 51
-          from: 00:05:22,29
-          to: 00:05:29,20
-          text: Insbesondere unsere Familie, weil wir sechs Jungen und zwei Mädchen waren.
+          from: "00:05:22,29"
+          to: "00:05:29,20"
+          text: "Insbesondere unsere Familie, weil wir sechs Jungen und zwei Mädchen waren."
         sequence-52:
           s: 52
-          from: 00:05:29,20
-          to: 00:05:36,08
-          text: Diese Urkunden mussten im Haus ausgestellt sein, damit jeder sehen konnte,
+          from: "00:05:29,20"
+          to: "00:05:36,08"
+          text: "Diese Urkunden mussten im Haus ausgestellt sein, damit jeder sehen konnte,"
         sequence-53:
           s: 53
-          from: 00:05:36,08
-          to: 00:05:44,21
-          text: dass Mussolini diese Familien anerkannt hatte,
+          from: "00:05:36,08"
+          to: "00:05:44,21"
+          text: "dass Mussolini diese Familien anerkannt hatte,"
         sequence-54:
           s: 54
-          from: 00:05:44,21
-          to: 00:05:54,23
-          text: die die Arbeitskraft hervorbrachten, um die Nation auf den Krieg vorzubereiten.
+          from: "00:05:44,21"
+          to: "00:05:54,23"
+          text: "die die Arbeitskraft hervorbrachten, um die Nation auf den Krieg vorzubereiten."
         sequence-55:
           s: 55
-          from: 00:05:54,23
-          to: 00:05:55,23
-          text: ''
+          from: "00:05:54,23"
+          to: "00:05:55,23"
+          text: ~
         sequence-56:
           s: 56
-          from: 00:05:55,23
-          to: 00:06:01,01
-          text: Als ich sieben war erlebte ich meine erste Demütigung.
+          from: "00:05:55,23"
+          to: "00:06:01,01"
+          text: "Als ich sieben war erlebte ich meine erste Demütigung."
         sequence-57:
           s: 57
-          from: 00:06:01,01
-          to: 00:06:02,06
-          text: ''
+          from: "00:06:01,01"
+          to: "00:06:02,06"
+          text: ~
         sequence-58:
           s: 58
-          from: 00:06:02,06
-          to: 00:06:10,14
-          text: Meine Mutte hatte nicht genug Geld um mir die Uniform der “Piccole
-            Italiane” zu kaufen.
+          from: "00:06:02,06"
+          to: "00:06:10,14"
+          text: "Meine Mutte hatte nicht genug Geld um mir die Uniform der “Piccole Italiane” zu kaufen."
         sequence-59:
           s: 59
-          from: 00:06:10,14
-          to: 00:06:19,21
-          text: Deshalb konnte ich nicht mit den Gymnasten auftreten, obwohl ich es
-            mir erträumt hatte.
+          from: "00:06:10,14"
+          to: "00:06:19,21"
+          text: "Deshalb konnte ich nicht mit den Gymnasten auftreten, obwohl ich es mir erträumt hatte."
         sequence-60:
           s: 60
-          from: 00:06:19,21
-          to: 00:06:27,29
-          text: Ich habe nie herrausgefunden, ob wir wirklich nicht das Geld hatten,
+          from: "00:06:19,21"
+          to: "00:06:27,29"
+          text: "Ich habe nie herrausgefunden, ob wir wirklich nicht das Geld hatten,"
         sequence-61:
           s: 61
-          from: 00:06:27,29
-          to: 00:06:37,04
-          text: oder ob meine Mutter nicht wollte, dass ich diese Uniform trug.
+          from: "00:06:27,29"
+          to: "00:06:37,04"
+          text: "oder ob meine Mutter nicht wollte, dass ich diese Uniform trug."
         sequence-62:
           s: 62
-          from: 00:06:37,04
-          to: 00:06:39,01
-          text: ''
+          from: "00:06:37,04"
+          to: "00:06:39,01"
+          text: ~
         sequence-63:
           s: 63
-          from: 00:06:39,01
-          to: 00:06:47,07
-          text: Nach der Vorstellung wurde an jeden Teilnehmer ein Osterei ausgeteilt.
+          from: "00:06:39,01"
+          to: "00:06:47,07"
+          text: "Nach der Vorstellung wurde an jeden Teilnehmer ein Osterei ausgeteilt."
         sequence-64:
           s: 64
-          from: 00:06:47,07
-          to: 00:06:57,01
-          text: Ich hatte nie zuvor eins gesehen. Es war fantastisch, mit seinem
-            leuchtend bunten Papier.
+          from: "00:06:47,07"
+          to: "00:06:57,01"
+          text: "Ich hatte nie zuvor eins gesehen. Es war fantastisch, mit seinem leuchtend bunten Papier."
         sequence-65:
           s: 65
-          from: 00:06:57,01
-          to: 00:07:08,18
-          text: Der Lehrer teilte jedem Kind ein Ei aus, aber ich wurde
-            ausgelassen. Ich war es nicht wert.
+          from: "00:06:57,01"
+          to: "00:07:08,18"
+          text: "Der Lehrer teilte jedem Kind ein Ei aus, aber ich wurde ausgelassen. Ich war es nicht wert."
         sequence-66:
           s: 66
-          from: 00:07:08,18
-          to: 00:07:14,11
-          text: Kannst du dir die Verzweiflung eines siebenjährigen Mädchens vorstellen,
-            das nach Hause läuft und denkt
+          from: "00:07:08,18"
+          to: "00:07:14,11"
+          text: "Kannst du dir die Verzweiflung eines siebenjährigen Mädchens vorstellen, das nach Hause läuft und denkt"
         sequence-67:
           s: 67
-          from: 00:07:14,11
-          to: 00:07:24,27
-          text: das es anders sei wegen eines derart unsinnigen Anlasses? Weil es
-            keine weiße Bluse und keinen schwarzen Rock besitzt?
+          from: "00:07:14,11"
+          to: "00:07:24,27"
+          text: "das es anders sei wegen eines derart unsinnigen Anlasses? Weil es keine weiße Bluse und keinen schwarzen Rock besitzt?"
         sequence-68:
           s: 68
-          from: 00:07:24,27
-          to: 00:07:30,11
-          text: Nachdem ich einen Sohn und eine Familie hatte
+          from: "00:07:24,27"
+          to: "00:07:30,11"
+          text: "Nachdem ich einen Sohn und eine Familie hatte"
         sequence-69:
           s: 69
-          from: 00:07:30,11
-          to: 00:07:35,16
-          text: habe ich ihm erzählt, was ich durchlebt habe, als ich sieben war.
+          from: "00:07:30,11"
+          to: "00:07:35,16"
+          text: "habe ich ihm erzählt, was ich durchlebt habe, als ich sieben war."
         sequence-70:
           s: 70
-          from: 00:07:35,16
-          to: 00:07:41,00
-          text: Jedes Jahr zu Ostern bringt er mir ein riesiges Osterei.
+          from: "00:07:35,16"
+          to: "00:07:41,00"
+          text: "Jedes Jahr zu Ostern bringt er mir ein riesiges Osterei."

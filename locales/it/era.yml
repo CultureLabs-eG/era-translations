@@ -1,27 +1,26 @@
----
 it:
-  language: lingua
+  language: language
   interviewers: intervistatori
   cameramen: riprese
-  date_of_interview: data dell'intervista
+  date_of_interview: "data dell'intervista"
   alias_name: pseudonimo
-  begin_of_engagement:
-  end_of_engagement:
-  resistance_groups: gruppi di resistenza
-  kind_of_resistance: tipo di resistenza
+  begin_of_engagement: ~
+  end_of_engagement: ~
+  resistance_groups: "gruppi di resistenza"
+  kind_of_resistance: "tipo di resistenza"
   firstname: nome
   lastname: cognome
   gender: genere
-  born_on: data di nascita
-  died_on: data di morte
-  born_in: classe %{date} # e.g. GIACOMO NOTARI (BORN IN 1927) http://www.resistance-archive.org/en/testimonies/giacomo-notari/
+  born_on: "data di nascita"
+  died_on: "data di morte"
+  born_in: "classe %{date}"
   country: paese
   religion: religione
-  place_of_birth: luogo di nascita
-  place_of_residence: luogo di residenza
+  place_of_birth: "luogo di nascita"
+  place_of_residence: "luogo di residenza"
   home: Home
   menu: Menu
-  about_era: Informazioni su ERA
+  about_era: "Informazioni su ERA"
   testimonies: Testimonianze
   resistance: Resistenza
   participate: Partecipa
@@ -29,9 +28,21 @@ it:
   contact: Contatti
   partners: Partner
   imprint: Imprint
-  mission_statement: ERA è uno spazio in cui le singole storie delle persone che hanno resistito al terrore, all'umiliazione e alla disperazione che il fascismo ha portato in Europa sono mantenute vive e visibili a tutti.
+  mission_statement: "ERA è uno spazio in cui le singole storie delle persone che hanno resistito al terrore, all'umiliazione e alla disperazione che il fascismo ha portato in Europa sono mantenute vive e visibili a tutti."
   shortbio: Biografia
   transcript: Trascritti
   photo_gallery: Galleria
-  resistance_movement_in: La resistenza in ...
-  subtitle_flash_message: Per questo video sono disponibili i sottotitoli. Utilizza il pulsante del sottotitolo di YouTube per mostrarli o nasconderli.
+  era_languages:
+    de: German
+    fr: French
+    en: English
+    pl: Polish
+    it: Italian
+    sl: Slovenian
+  download_links:
+    transcript_interview_language: "Original interview language (%{language})"
+    transcript_interview_translation: "%{language} translation"
+  download_transcript: "Download transcript (PDF format)"
+  resistance_movement_in: "La resistenza in ..."
+  testimonies_from: "Testimonies from %{country}"
+  subtitle_flash_message: "Per questo video sono disponibili i sottotitoli. Utilizza il pulsante del sottotitolo di YouTube per mostrarli o nasconderli."

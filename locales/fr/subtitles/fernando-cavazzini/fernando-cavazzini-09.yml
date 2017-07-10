@@ -1,82 +1,76 @@
----
 fr:
   fernando-cavazzini:
     chapter-9:
       c: 9
-      title: Building up of „Fiamme Verdi“ brigades
+      title: "Building up of „Fiamme Verdi“ brigades"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,20
-          to: 00:00:05,27
-          text: From the day of the first air-drop to the end of July
+          from: "00:00:00,20"
+          to: "00:00:05,27"
+          text: "From the day of the first air-drop to the end of July"
         sequence-2:
           s: 2
-          from: 00:00:05,27
-          to: 00:00:09,27
-          text: we increased from around fifty to more than a thousand men.
+          from: "00:00:05,27"
+          to: "00:00:09,27"
+          text: "we increased from around fifty to more than a thousand men."
         sequence-3:
           s: 3
-          from: 00:00:09,27
-          to: 00:00:13,27
-          text: There just wasn’t enough time to organize ourselves.
+          from: "00:00:09,27"
+          to: "00:00:13,27"
+          text: "There just wasn’t enough time to organize ourselves."
         sequence-4:
           s: 4
-          from: 00:00:13,27
-          to: 00:00:21,00
-          text: For example they set up a detachment and position it in an area, without
-            knowing who these partisans were. That was a problem.
+          from: "00:00:13,27"
+          to: "00:00:21,00"
+          text: "For example they set up a detachment and position it in an area, without knowing who these partisans were. That was a problem."
         sequence-5:
           s: 5
-          from: 00:00:21,00
-          to: 00:00:21,11
-          text: ''
+          from: "00:00:21,00"
+          to: "00:00:21,11"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:21,11
-          to: 00:00:25,22
-          text: They decided to set up a unit called “Fiamme Verdi” (green flames),
+          from: "00:00:21,11"
+          to: "00:00:25,22"
+          text: "They decided to set up a unit called “Fiamme Verdi” (green flames),"
         sequence-7:
           s: 7
-          from: 00:00:25,22
-          to: 00:00:31,09
-          text: and went around asking for people to join them. They asked me, too,
-            since I was a catholic.
+          from: "00:00:25,22"
+          to: "00:00:31,09"
+          text: "and went around asking for people to join them. They asked me, too, since I was a catholic."
         sequence-8:
           s: 8
-          from: 00:00:31,09
-          to: 00:00:34,16
-          text: I didn’t go since I liked being with the “Garibaldini”.
+          from: "00:00:31,09"
+          to: "00:00:34,16"
+          text: "I didn’t go since I liked being with the “Garibaldini”."
         sequence-9:
           s: 9
-          from: 00:00:34,16
-          to: 00:00:38,15
-          text: That day, the Fiamme Verdi brigade was formed,
+          from: "00:00:34,16"
+          to: "00:00:38,15"
+          text: "That day, the Fiamme Verdi brigade was formed,"
         sequence-10:
           s: 10
-          from: 00:00:38,15
-          to: 00:00:48,22
-          text: with Don Carlo as commander and, later on, my dear friend Aldo Dall’Aglio
-            second-in-command.
+          from: "00:00:38,15"
+          to: "00:00:48,22"
+          text: "with Don Carlo as commander and, later on, my dear friend Aldo Dall’Aglio second-in-command."
         sequence-11:
           s: 11
-          from: 00:00:48,22
-          to: 00:00:53,24
-          text: He died on the Prampa on the 10th of January after the mop-up of the
-            7th.
+          from: "00:00:48,22"
+          to: "00:00:53,24"
+          text: "He died on the Prampa on the 10th of January after the mop-up of the 7th."
         sequence-12:
           s: 12
-          from: 00:00:53,24
-          to: 00:00:57,09
-          text: He had also asked me to join them.
+          from: "00:00:53,24"
+          to: "00:00:57,09"
+          text: "He had also asked me to join them."
         sequence-13:
           s: 13
-          from: 00:00:57,09
-          to: 00:01:00,00
-          text: Maybe it was a good thing I didn’t go,
+          from: "00:00:57,09"
+          to: "00:01:00,00"
+          text: "Maybe it was a good thing I didn’t go,"
         sequence-14:
           s: 14
-          from: 00:01:00,00
-          to: 00:01:06,09
-          text: since all those who were second-in-command or in other positions in
-            the “Fiamme Verdi” died in battle.
+          from: "00:01:00,00"
+          to: "00:01:06,09"
+          text: "since all those who were second-in-command or in other positions in the “Fiamme Verdi” died in battle."

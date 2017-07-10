@@ -1,244 +1,226 @@
----
 sl:
   vincent-pascucci:
     chapter-8:
       c: 8
-      title: Commitment after the war until today
+      title: "Commitment after the war until today"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,08
-          to: 00:00:05,13
-          text: I did not start immediately as a witness.
+          from: "00:00:01,08"
+          to: "00:00:05,13"
+          text: "I did not start immediately as a witness."
         sequence-2:
           s: 2
-          from: 00:00:05,13
-          to: 00:00:24,10
-          text: Even though I was a member of the association of former resistance
-            fighters, I had other political responsibilities.
+          from: "00:00:05,13"
+          to: "00:00:24,10"
+          text: "Even though I was a member of the association of former resistance fighters, I had other political responsibilities."
         sequence-3:
           s: 3
-          from: 00:00:24,10
-          to: 00:00:37,01
-          text: I had joined the French Communist Party in 1943, when it was still
-            clandestine,
+          from: "00:00:24,10"
+          to: "00:00:37,01"
+          text: "I had joined the French Communist Party in 1943, when it was still clandestine,"
         sequence-4:
           s: 4
-          from: 00:00:37,01
-          to: 00:00:43,21
-          text: I took on some political responsibilities on a local level.
+          from: "00:00:37,01"
+          to: "00:00:43,21"
+          text: "I took on some political responsibilities on a local level."
         sequence-5:
           s: 5
-          from: 00:00:43,21
-          to: 00:00:54,11
-          text: I would attend the annual meetings of the former resistant fighters
-            association, but was no active member.
+          from: "00:00:43,21"
+          to: "00:00:54,11"
+          text: "I would attend the annual meetings of the former resistant fighters association, but was no active member."
         sequence-6:
           s: 6
-          from: 00:00:54,11
-          to: 00:01:05,21
-          text: Later, when the president of the association passed away,
+          from: "00:00:54,11"
+          to: "00:01:05,21"
+          text: "Later, when the president of the association passed away,"
         sequence-7:
           s: 7
-          from: 00:01:05,21
-          to: 00:01:14,16
-          text: 'friends of mine pushed me into the presidency saying:'
+          from: "00:01:05,21"
+          to: "00:01:14,16"
+          text: "friends of mine pushed me into the presidency saying:"
         sequence-8:
           s: 8
-          from: 00:01:14,16
-          to: 00:01:29,23
-          text: "“You were so active during the resistance; you were responsible for
-            the liberation of Nanterre together with Louis Meunier, etc…”"
+          from: "00:01:14,16"
+          to: "00:01:29,23"
+          text: "“You were so active during the resistance; you were responsible for the liberation of Nanterre together with Louis Meunier, etc…”"
         sequence-9:
           s: 9
-          from: 00:01:29,23
-          to: 00:01:42,02
-          text: ''
+          from: "00:01:29,23"
+          to: "00:01:42,02"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:01:42,02
-          to: 00:01:51,27
-          text: 'To quote Bertolt Brecht: “the lap of the repulsive beast is still
-            fertile”;'
+          from: "00:01:42,02"
+          to: "00:01:51,27"
+          text: "To quote Bertolt Brecht: “the lap of the repulsive beast is still fertile”;"
         sequence-11:
           s: 11
-          from: 00:01:51,27
-          to: 00:01:53,29
-          text: ''
+          from: "00:01:51,27"
+          to: "00:01:53,29"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:53,29
-          to: 00:02:01,12
-          text: we had not and have not totally liberated ourselves from fascism.
+          from: "00:01:53,29"
+          to: "00:02:01,12"
+          text: "we had not and have not totally liberated ourselves from fascism."
         sequence-13:
           s: 13
-          from: 00:02:01,12
-          to: 00:02:08,17
-          text: Therefore we felt the need to inform and to act.
+          from: "00:02:01,12"
+          to: "00:02:08,17"
+          text: "Therefore we felt the need to inform and to act."
         sequence-14:
           s: 14
-          from: 00:02:08,17
-          to: 00:02:24,26
-          text: 'In school history books, there was very little information about
-            the time:'
+          from: "00:02:08,17"
+          to: "00:02:24,26"
+          text: "In school history books, there was very little information about the time:"
         sequence-15:
           s: 15
-          from: 00:02:24,26
-          to: 00:02:33,03
-          text: General De Gaulle’s speech and the Shoah.
+          from: "00:02:24,26"
+          to: "00:02:33,03"
+          text: "General De Gaulle’s speech and the Shoah."
         sequence-16:
           s: 16
-          from: 00:02:33,03
-          to: 00:02:45,17
-          text: That is very important, but it is not enough to explain the complexity
-            of World War II.
+          from: "00:02:33,03"
+          to: "00:02:45,17"
+          text: "That is very important, but it is not enough to explain the complexity of World War II."
         sequence-17:
           s: 17
-          from: 00:02:45,17
-          to: 00:03:02,17
-          text: We were asked by history teachers to talk about our experience in
-            class.
+          from: "00:02:45,17"
+          to: "00:03:02,17"
+          text: "We were asked by history teachers to talk about our experience in class."
         sequence-18:
           s: 18
-          from: 00:03:02,17
-          to: 00:03:09,13
-          text: We thought it was important to do even more
+          from: "00:03:02,17"
+          to: "00:03:09,13"
+          text: "We thought it was important to do even more"
         sequence-19:
           s: 19
-          from: 00:03:09,13
-          to: 00:03:18,22
-          text: and started organizing school trips to different memorials, the places
-            where Nazi crimes were committed.
+          from: "00:03:09,13"
+          to: "00:03:18,22"
+          text: "and started organizing school trips to different memorials, the places where Nazi crimes were committed."
         sequence-20:
           s: 20
-          from: 00:03:18,22
-          to: 00:03:24,06
-          text: We organized school trips to Oradour s/Glane,
+          from: "00:03:18,22"
+          to: "00:03:24,06"
+          text: "We organized school trips to Oradour s/Glane,"
         sequence-21:
           s: 21
-          from: 00:03:24,06
-          to: 00:03:33,15
-          text: to Struthof, the only Nazi concentration camp there was in France,
-            in Alsace.
+          from: "00:03:24,06"
+          to: "00:03:33,15"
+          text: "to Struthof, the only Nazi concentration camp there was in France, in Alsace."
         sequence-22:
           s: 22
-          from: 00:03:33,15
-          to: 00:03:44,08
-          text: We took classes of three different schools to Auschwitz-Birkenau.
+          from: "00:03:33,15"
+          to: "00:03:44,08"
+          text: "We took classes of three different schools to Auschwitz-Birkenau."
         sequence-23:
           s: 23
-          from: 00:03:44,08
-          to: 00:03:45,01
-          text: ''
+          from: "00:03:44,08"
+          to: "00:03:45,01"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:03:45,01
-          to: 00:04:04,08
-          text: We want to show young people the atrocities of racism and xenophobia,
-            the total absence of freedom.
+          from: "00:03:45,01"
+          to: "00:04:04,08"
+          text: "We want to show young people the atrocities of racism and xenophobia, the total absence of freedom."
         sequence-25:
           s: 25
-          from: 00:04:04,08
-          to: 00:04:09,06
-          text: There are several of us.
+          from: "00:04:04,08"
+          to: "00:04:09,06"
+          text: "There are several of us."
         sequence-26:
           s: 26
-          from: 00:04:09,06
-          to: 00:04:18,26
-          text: One comrade, Lucien Ducastel had been deported to Auschwitz-Birkenau.
+          from: "00:04:09,06"
+          to: "00:04:18,26"
+          text: "One comrade, Lucien Ducastel had been deported to Auschwitz-Birkenau."
         sequence-27:
           s: 27
-          from: 00:04:18,26
-          to: 00:04:26,11
-          text: We also do this in memory of our comrades who died in Auschwitz.
+          from: "00:04:18,26"
+          to: "00:04:26,11"
+          text: "We also do this in memory of our comrades who died in Auschwitz."
         sequence-28:
           s: 28
-          from: 00:04:26,11
-          to: 00:04:28,20
-          text: ''
+          from: "00:04:26,11"
+          to: "00:04:28,20"
+          text: ~
         sequence-29:
           s: 29
-          from: 00:04:28,20
-          to: 00:04:37,27
-          text: Today more than ever it is necessary to do this work, because in Europe
+          from: "00:04:28,20"
+          to: "00:04:37,27"
+          text: "Today more than ever it is necessary to do this work, because in Europe"
         sequence-30:
           s: 30
-          from: 00:04:37,27
-          to: 00:04:45,00
-          text: ''
+          from: "00:04:37,27"
+          to: "00:04:45,00"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:04:45,00
-          to: 00:04:55,02
-          text: because in Europe there is a dangerous rise of fascism.
+          from: "00:04:45,00"
+          to: "00:04:55,02"
+          text: "because in Europe there is a dangerous rise of fascism."
         sequence-32:
           s: 32
-          from: 00:04:55,02
-          to: 00:05:01,10
-          text: Let us remember that Hitler got to power legally.
+          from: "00:04:55,02"
+          to: "00:05:01,10"
+          text: "Let us remember that Hitler got to power legally."
         sequence-33:
           s: 33
-          from: 00:05:01,10
-          to: 00:05:11,17
-          text: Nowadays, there a few European countries that have a right-extremist
-            government.
+          from: "00:05:01,10"
+          to: "00:05:11,17"
+          text: "Nowadays, there a few European countries that have a right-extremist government."
         sequence-34:
           s: 34
-          from: 00:05:11,17
-          to: 00:05:12,09
-          text: ''
+          from: "00:05:11,17"
+          to: "00:05:12,09"
+          text: ~
         sequence-35:
           s: 35
-          from: 00:05:12,09
-          to: 00:05:24,14
-          text: It might seem pretentious but we think we have not finished our work.
+          from: "00:05:12,09"
+          to: "00:05:24,14"
+          text: "It might seem pretentious but we think we have not finished our work."
         sequence-36:
           s: 36
-          from: 00:05:24,14
-          to: 00:05:25,23
-          text: ''
+          from: "00:05:24,14"
+          to: "00:05:25,23"
+          text: ~
         sequence-37:
           s: 37
-          from: 00:05:25,23
-          to: 00:05:36,00
-          text: We need to talk to young people, guide them for the future, show them
-            the importance of being brotherly.
+          from: "00:05:25,23"
+          to: "00:05:36,00"
+          text: "We need to talk to young people, guide them for the future, show them the importance of being brotherly."
         sequence-38:
           s: 38
-          from: 00:05:36,00
-          to: 00:05:37,01
-          text: ''
+          from: "00:05:36,00"
+          to: "00:05:37,01"
+          text: ~
         sequence-39:
           s: 39
-          from: 00:05:37,01
-          to: 00:05:45,13
-          text: I don’t answer all questions. When they ask me how many Germans I
-            killed I won’t answer.
+          from: "00:05:37,01"
+          to: "00:05:45,13"
+          text: "I don’t answer all questions. When they ask me how many Germans I killed I won’t answer."
         sequence-40:
           s: 40
-          from: 00:05:45,13
-          to: 00:05:49,01
-          text: I don’t think it is interesting.
+          from: "00:05:45,13"
+          to: "00:05:49,01"
+          text: "I don’t think it is interesting."
         sequence-41:
           s: 41
-          from: 00:05:49,01
-          to: 00:05:54,11
-          text: 'During war there is one essential rule:'
+          from: "00:05:49,01"
+          to: "00:05:54,11"
+          text: "During war there is one essential rule:"
         sequence-42:
           s: 42
-          from: 00:05:54,11
-          to: 00:06:02,19
-          text: If I don’t shoot first, he will shoot me. He didn’t do anything to
-            me and I didn’t do anything to him.
+          from: "00:05:54,11"
+          to: "00:06:02,19"
+          text: "If I don’t shoot first, he will shoot me. He didn’t do anything to me and I didn’t do anything to him."
         sequence-43:
           s: 43
-          from: 00:06:02,19
-          to: 00:06:10,21
-          text: I don’t know him. He has a family; I have a family as well. Why then,
-            do we kill each other?
+          from: "00:06:02,19"
+          to: "00:06:10,21"
+          text: "I don’t know him. He has a family; I have a family as well. Why then, do we kill each other?"
         sequence-44:
           s: 44
-          from: 00:06:10,21
-          to: 00:06:18,12
-          text: Why? Because the ones that decide on war are not the ones that fight
-            it.
+          from: "00:06:10,21"
+          to: "00:06:18,12"
+          text: "Why? Because the ones that decide on war are not the ones that fight it."

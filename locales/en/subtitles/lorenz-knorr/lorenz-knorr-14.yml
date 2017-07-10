@@ -1,72 +1,66 @@
----
 en:
   lorenz-knorr:
     chapter-14:
       c: 14
-      title: Reasons for resistance
+      title: "Reasons for resistance"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,00
-          to: 00:00:09,17
-          text: I would have been disloyal to my own convictions, if I hadn’t joined
-            the resistance.
+          from: "00:00:01,00"
+          to: "00:00:09,17"
+          text: "I would have been disloyal to my own convictions, if I hadn’t joined the resistance."
         sequence-2:
           s: 2
-          from: 00:00:09,17
-          to: 00:00:16,23
-          text: My grandfather was jailed in the KUK Empire,
+          from: "00:00:09,17"
+          to: "00:00:16,23"
+          text: "My grandfather was jailed in the KUK Empire,"
         sequence-3:
           s: 3
-          from: 00:00:16,23
-          to: 00:00:24,01
-          text: Emperor Royal Monarchy of the Habsburgs, because he fought for socialism.
+          from: "00:00:16,23"
+          to: "00:00:24,01"
+          text: "Emperor Royal Monarchy of the Habsburgs, because he fought for socialism."
         sequence-4:
           s: 4
-          from: 00:00:24,01
-          to: 00:00:27,11
-          text: My father was jailed because he fought for socialism.
+          from: "00:00:24,01"
+          to: "00:00:27,11"
+          text: "My father was jailed because he fought for socialism."
         sequence-5:
           s: 5
-          from: 00:00:27,11
-          to: 00:00:32,03
-          text: It was obvious, that I would work in the same track,
+          from: "00:00:27,11"
+          to: "00:00:32,03"
+          text: "It was obvious, that I would work in the same track,"
         sequence-6:
           s: 6
-          from: 00:00:32,03
-          to: 00:00:37,23
-          text: therefore would not passively let it wash over me, but work against
-            it.
+          from: "00:00:32,03"
+          to: "00:00:37,23"
+          text: "therefore would not passively let it wash over me, but work against it."
         sequence-7:
           s: 7
-          from: 00:00:37,23
-          to: 00:00:49,20
-          text: I was not alone and we had learned not just to back off when the enemy
-            attacked, but to think about where to start a counter-attack.
+          from: "00:00:37,23"
+          to: "00:00:49,20"
+          text: "I was not alone and we had learned not just to back off when the enemy attacked, but to think about where to start a counter-attack."
         sequence-8:
           s: 8
-          from: 00:00:49,20
-          to: 00:00:57,16
-          text: 'If you were sure about being needed in the time after Hitler, to
-            that time this was an important sentence: “…for the time after Hitler.”'
+          from: "00:00:49,20"
+          to: "00:00:57,16"
+          text: "If you were sure about being needed in the time after Hitler, to that time this was an important sentence: “…for the time after Hitler.”"
         sequence-9:
           s: 9
-          from: 00:00:57,16
-          to: 00:01:02,22
-          text: So you would work illegally but do not take unnecessary risks.
+          from: "00:00:57,16"
+          to: "00:01:02,22"
+          text: "So you would work illegally but do not take unnecessary risks."
         sequence-10:
           s: 10
-          from: 00:01:02,22
-          to: 00:01:08,23
-          text: It was obvious that you would deliberately throw a spanner in the
-            works,
+          from: "00:01:02,22"
+          to: "00:01:08,23"
+          text: "It was obvious that you would deliberately throw a spanner in the works,"
         sequence-11:
           s: 11
-          from: 00:01:08,23
-          to: 00:01:12,01
-          text: as long as you could and as long as you could breathe.
+          from: "00:01:08,23"
+          to: "00:01:12,01"
+          text: "as long as you could and as long as you could breathe."
         sequence-12:
           s: 12
-          from: 00:01:12,01
-          to: 00:01:16,11
-          text: It was the same with many others.
+          from: "00:01:12,01"
+          to: "00:01:16,11"
+          text: "It was the same with many others."

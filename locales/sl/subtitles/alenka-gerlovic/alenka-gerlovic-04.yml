@@ -1,183 +1,166 @@
----
 sl:
   alenka-gerlovic:
     chapter-4:
       c: 4
-      title: Assassination of Alenka’s father
+      title: "Assassination of Alenka’s father"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,17
-          to: 00:00:08,24
-          text: Ljubljana was divided into individual regions.
+          from: "00:00:00,17"
+          to: "00:00:08,24"
+          text: "Ljubljana was divided into individual regions."
         sequence-2:
           s: 2
-          from: 00:00:08,24
-          to: 00:00:19,20
-          text: The lowest level was the field committee of the LF. I was a field
-            member for a while.
+          from: "00:00:08,24"
+          to: "00:00:19,20"
+          text: "The lowest level was the field committee of the LF. I was a field member for a while."
         sequence-3:
           s: 3
-          from: 00:00:19,20
-          to: 00:00:27,20
-          text: The next level was the district committee of the LF, which united
-            several fields.
+          from: "00:00:19,20"
+          to: "00:00:27,20"
+          text: "The next level was the district committee of the LF, which united several fields."
         sequence-4:
           s: 4
-          from: 00:00:27,20
-          to: 00:00:38,02
-          text: I was a member of the district committee. The regional committee of
-            the LF was the final level.
+          from: "00:00:27,20"
+          to: "00:00:38,02"
+          text: "I was a member of the district committee. The regional committee of the LF was the final level."
         sequence-5:
           s: 5
-          from: 00:00:38,02
-          to: 00:00:46,13
-          text: Ultimately I was a member of the regional committee of the LF.
+          from: "00:00:38,02"
+          to: "00:00:46,13"
+          text: "Ultimately I was a member of the regional committee of the LF."
         sequence-6:
           s: 6
-          from: 00:00:46,13
-          to: 00:01:04,06
-          text: Just before the warrant for my arrest came out, the Home Guard political
-            police arrested my father.
+          from: "00:00:46,13"
+          to: "00:01:04,06"
+          text: "Just before the warrant for my arrest came out, the Home Guard political police arrested my father."
         sequence-7:
           s: 7
-          from: 00:01:04,06
-          to: 00:01:11,10
-          text: At the time the Germans were in Ljubljana,
+          from: "00:01:04,06"
+          to: "00:01:11,10"
+          text: "At the time the Germans were in Ljubljana,"
         sequence-8:
           s: 8
-          from: 00:01:11,10
-          to: 00:01:22,02
-          text: a lot of the competency was left to the Home Guard.
+          from: "00:01:11,10"
+          to: "00:01:22,02"
+          text: "a lot of the competency was left to the Home Guard."
         sequence-9:
           s: 9
-          from: 00:01:22,02
-          to: 00:01:34,24
-          text: They were also a part of the SS, meaning the German police.
+          from: "00:01:22,02"
+          to: "00:01:34,24"
+          text: "They were also a part of the SS, meaning the German police."
         sequence-10:
           s: 10
-          from: 00:01:34,24
-          to: 00:01:42,21
-          text: So they, too, swore allegiance to Hitler and the German Reich.
+          from: "00:01:34,24"
+          to: "00:01:42,21"
+          text: "So they, too, swore allegiance to Hitler and the German Reich."
         sequence-11:
           s: 11
-          from: 00:01:42,21
-          to: 00:01:44,07
-          text: ''
+          from: "00:01:42,21"
+          to: "00:01:44,07"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:44,07
-          to: 00:01:51,18
-          text: They carried out many arrests towards the end of the war.
+          from: "00:01:44,07"
+          to: "00:01:51,18"
+          text: "They carried out many arrests towards the end of the war."
         sequence-13:
           s: 13
-          from: 00:01:51,18
-          to: 00:02:00,15
-          text: It was like that when the Home Guard political police came to take
-            my father away.
+          from: "00:01:51,18"
+          to: "00:02:00,15"
+          text: "It was like that when the Home Guard political police came to take my father away."
         sequence-14:
           s: 14
-          from: 00:02:00,15
-          to: 00:02:08,13
-          text: Only many years later we found out why.
+          from: "00:02:00,15"
+          to: "00:02:08,13"
+          text: "Only many years later we found out why."
         sequence-15:
           s: 15
-          from: 00:02:08,13
-          to: 00:02:12,02
-          text: ''
+          from: "00:02:08,13"
+          to: "00:02:12,02"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:02:12,02
-          to: 00:02:26,06
-          text: Warrants for arrests were found in the archives. They were addressed
-            to the chief of the Home Guard political police, Lovro Hacin.
+          from: "00:02:12,02"
+          to: "00:02:26,06"
+          text: "Warrants for arrests were found in the archives. They were addressed to the chief of the Home Guard political police, Lovro Hacin."
         sequence-17:
           s: 17
-          from: 00:02:26,06
-          to: 00:02:28,24
-          text: ''
+          from: "00:02:26,06"
+          to: "00:02:28,24"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:02:28,24
-          to: 00:02:46,07
-          text: Later I found out, also from my students, of whom some were on the
-            opposite side, with the Home Guard…
+          from: "00:02:28,24"
+          to: "00:02:46,07"
+          text: "Later I found out, also from my students, of whom some were on the opposite side, with the Home Guard…"
         sequence-19:
           s: 19
-          from: 00:02:46,07
-          to: 00:02:54,05
-          text: One of my students gave me lots of information because his family
-            was
+          from: "00:02:46,07"
+          to: "00:02:54,05"
+          text: "One of my students gave me lots of information because his family was"
         sequence-20:
           s: 20
-          from: 00:02:54,05
-          to: 00:03:01,14
-          text: and still is in contact with the Home Guard immigration.
+          from: "00:02:54,05"
+          to: "00:03:01,14"
+          text: "and still is in contact with the Home Guard immigration."
         sequence-21:
           s: 21
-          from: 00:03:01,14
-          to: 00:03:12,13
-          text: Through this student I found out where my father was killed.
+          from: "00:03:01,14"
+          to: "00:03:12,13"
+          text: "Through this student I found out where my father was killed."
         sequence-22:
           s: 22
-          from: 00:03:12,13
-          to: 00:03:22,07
-          text: Not just through him, I also found out directly at Hacin’s procession.
+          from: "00:03:12,13"
+          to: "00:03:22,07"
+          text: "Not just through him, I also found out directly at Hacin’s procession."
         sequence-23:
           s: 23
-          from: 00:03:22,07
-          to: 00:03:32,02
-          text: There was a huge procession in Ljubljana against Rösener, the chief
-            of the SS in the Ljubljana province.
+          from: "00:03:22,07"
+          to: "00:03:32,02"
+          text: "There was a huge procession in Ljubljana against Rösener, the chief of the SS in the Ljubljana province."
         sequence-24:
           s: 24
-          from: 00:03:32,02
-          to: 00:03:43,19
-          text: Against Rupnik, who was the president of this Ljubljana province as
-            well as the military head of the Home Guard.
+          from: "00:03:32,02"
+          to: "00:03:43,19"
+          text: "Against Rupnik, who was the president of this Ljubljana province as well as the military head of the Home Guard."
         sequence-25:
           s: 25
-          from: 00:03:43,19
-          to: 00:03:56,09
-          text: And against Hacin, who was the chief of the Home Guard political police.
+          from: "00:03:43,19"
+          to: "00:03:56,09"
+          text: "And against Hacin, who was the chief of the Home Guard political police."
         sequence-26:
           s: 26
-          from: 00:03:56,09
-          to: 00:04:18,28
-          text: I was informed already during the war, from the intelligence service
-            of the LF that Hacin was my father’s enemy.
+          from: "00:03:56,09"
+          to: "00:04:18,28"
+          text: "I was informed already during the war, from the intelligence service of the LF that Hacin was my father’s enemy."
         sequence-27:
           s: 27
-          from: 00:04:18,28
-          to: 00:04:28,00
-          text: I should tell my father that the LF can help him get to safety.
+          from: "00:04:18,28"
+          to: "00:04:28,00"
+          text: "I should tell my father that the LF can help him get to safety."
         sequence-28:
           s: 28
-          from: 00:04:28,00
-          to: 00:04:41,00
-          text: I went to my father and I told him this. He said that he’d done nothing
-            and wasn’t going anywhere. It was a matter of life or death.
+          from: "00:04:28,00"
+          to: "00:04:41,00"
+          text: "I went to my father and I told him this. He said that he’d done nothing and wasn’t going anywhere. It was a matter of life or death."
         sequence-29:
           s: 29
-          from: 00:04:41,00
-          to: 00:04:51,23
-          text: There were malicious false reports, and they were coming from the
-            very hospital where he was the head.
+          from: "00:04:41,00"
+          to: "00:04:51,23"
+          text: "There were malicious false reports, and they were coming from the very hospital where he was the head."
         sequence-30:
           s: 30
-          from: 00:04:51,23
-          to: 00:05:02,05
-          text: It came from the lower level of employees, the cleaners and the male
-            nurses, the non-qualified workers.
+          from: "00:04:51,23"
+          to: "00:05:02,05"
+          text: "It came from the lower level of employees, the cleaners and the male nurses, the non-qualified workers."
         sequence-31:
           s: 31
-          from: 00:05:02,05
-          to: 00:05:17,29
-          text: But neither he nor I knew it was a matter of life or death. The same
-            night of his arrest they took him away to Rudnik.
+          from: "00:05:02,05"
+          to: "00:05:17,29"
+          text: "But neither he nor I knew it was a matter of life or death. The same night of his arrest they took him away to Rudnik."
         sequence-32:
           s: 32
-          from: 00:05:17,29
-          to: 00:05:26,15
-          text: There was an outpost like the one at Sveti Urh. They killed him there
-            at Rudnik.
+          from: "00:05:17,29"
+          to: "00:05:26,15"
+          text: "There was an outpost like the one at Sveti Urh. They killed him there at Rudnik."

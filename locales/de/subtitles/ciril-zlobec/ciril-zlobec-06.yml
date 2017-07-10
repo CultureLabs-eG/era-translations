@@ -1,181 +1,161 @@
----
 de:
   ciril-zlobec:
     chapter-6:
       c: 6
-      title: First combat with German forces
+      title: "First combat with German forces"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,14
-          to: 00:00:09,01
-          text: I was so eager to exchange blows with the enemy.
+          from: "00:00:00,14"
+          to: "00:00:09,01"
+          text: "I was so eager to exchange blows with the enemy."
         sequence-2:
           s: 2
-          from: 00:00:09,01
-          to: 00:00:10,27
-          text: ''
+          from: "00:00:09,01"
+          to: "00:00:10,27"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:10,27
-          to: 00:00:24,18
-          text: I was in a battalion, equipped with only three machine-guns and rifles,
-            very poorly armed.
+          from: "00:00:10,27"
+          to: "00:00:24,18"
+          text: "I was in a battalion, equipped with only three machine-guns and rifles, very poorly armed."
         sequence-4:
           s: 4
-          from: 00:00:24,18
-          to: 00:00:30,25
-          text: The Germans surrounded us with tanks during the night.
+          from: "00:00:24,18"
+          to: "00:00:30,25"
+          text: "The Germans surrounded us with tanks during the night."
         sequence-5:
           s: 5
-          from: 00:00:30,25
-          to: 00:00:37,18
-          text: It was their mighty army against ours. They waited until morning to
-            attack.
+          from: "00:00:30,25"
+          to: "00:00:37,18"
+          text: "It was their mighty army against ours. They waited until morning to attack."
         sequence-6:
           s: 6
-          from: 00:00:37,18
-          to: 00:00:51,22
-          text: I immediately offered to go, and three more men were equally enthusiastic
-            to go with me up against the German tanks with hand grenades.
+          from: "00:00:37,18"
+          to: "00:00:51,22"
+          text: "I immediately offered to go, and three more men were equally enthusiastic to go with me up against the German tanks with hand grenades."
         sequence-7:
           s: 7
-          from: 00:00:51,22
-          to: 00:00:58,12
-          text: We imagined it was just a matter of throwing the grenades, we would
-            simply kill the Germans
+          from: "00:00:51,22"
+          to: "00:00:58,12"
+          text: "We imagined it was just a matter of throwing the grenades, we would simply kill the Germans"
         sequence-8:
           s: 8
-          from: 00:00:58,12
-          to: 00:01:05,15
-          text: and blast everything to ruins. Older and more experienced Partisans
-            told us to calm down.
+          from: "00:00:58,12"
+          to: "00:01:05,15"
+          text: "and blast everything to ruins. Older and more experienced Partisans told us to calm down."
         sequence-9:
           s: 9
-          from: 00:01:05,15
-          to: 00:01:13,17
-          text: There would be many more opportunities to fight. They clarified that
-            it’s not that simple to destroy a tank.
+          from: "00:01:05,15"
+          to: "00:01:13,17"
+          text: "There would be many more opportunities to fight. They clarified that it’s not that simple to destroy a tank."
         sequence-10:
           s: 10
-          from: 00:01:13,17
-          to: 00:01:20,04
-          text: They’re not made of paper, rather of steel, and also the Germans were
-            not sleeping.
+          from: "00:01:13,17"
+          to: "00:01:20,04"
+          text: "They’re not made of paper, rather of steel, and also the Germans were not sleeping."
         sequence-11:
           s: 11
-          from: 00:01:20,04
-          to: 00:01:28,21
-          text: We were atop this hill. There was also a bit of forest around.
+          from: "00:01:20,04"
+          to: "00:01:28,21"
+          text: "We were atop this hill. There was also a bit of forest around."
         sequence-12:
           s: 12
-          from: 00:01:28,21
-          to: 00:01:44,08
-          text: The Germans approached in a dense line of ‘shooters’ followed by a
-            display of tanks, slowly advancing in the rear.
+          from: "00:01:28,21"
+          to: "00:01:44,08"
+          text: "The Germans approached in a dense line of ‘shooters’ followed by a display of tanks, slowly advancing in the rear."
         sequence-13:
           s: 13
-          from: 00:01:44,08
-          to: 00:01:47,26
-          text: We then recognized the horror.
+          from: "00:01:44,08"
+          to: "00:01:47,26"
+          text: "We then recognized the horror."
         sequence-14:
           s: 14
-          from: 00:01:47,26
-          to: 00:01:54,12
-          text: We were all novices, it was our first fight, except for a few leading
-            cadres.
+          from: "00:01:47,26"
+          to: "00:01:54,12"
+          text: "We were all novices, it was our first fight, except for a few leading cadres."
         sequence-15:
           s: 15
-          from: 00:01:54,12
-          to: 00:02:02,09
-          text: On the basis of my four grades of high schooling, I was named right
-            off as the Political Commissary of a unit;
+          from: "00:01:54,12"
+          to: "00:02:02,09"
+          text: "On the basis of my four grades of high schooling, I was named right off as the Political Commissary of a unit;"
         sequence-16:
           s: 16
-          from: 00:02:02,09
-          to: 00:02:09,21
-          text: without any previous fighting experience. I had to take care of my
-            men.
+          from: "00:02:02,09"
+          to: "00:02:09,21"
+          text: "without any previous fighting experience. I had to take care of my men."
         sequence-17:
           s: 17
-          from: 00:02:09,21
-          to: 00:02:15,02
-          text: We had these dugouts or shelters made from stones.
+          from: "00:02:09,21"
+          to: "00:02:15,02"
+          text: "We had these dugouts or shelters made from stones."
         sequence-18:
           s: 18
-          from: 00:02:15,02
-          to: 00:02:22,18
-          text: During a fight we were to defend ourselves from behind the shelters.
+          from: "00:02:15,02"
+          to: "00:02:22,18"
+          text: "During a fight we were to defend ourselves from behind the shelters."
         sequence-19:
           s: 19
-          from: 00:02:22,18
-          to: 00:02:33,05
-          text: The command was to remain quiet and calm and to wait until the commander
-            yelled charge (‘juris’).
+          from: "00:02:22,18"
+          to: "00:02:33,05"
+          text: "The command was to remain quiet and calm and to wait until the commander yelled charge (‘juris’)."
         sequence-20:
           s: 20
-          from: 00:02:33,05
-          to: 00:02:43,09
-          text: We were to wait for the enemy to approach within 20 meters and then
-            each man was to pick his own target enemy.
+          from: "00:02:33,05"
+          to: "00:02:43,09"
+          text: "We were to wait for the enemy to approach within 20 meters and then each man was to pick his own target enemy."
         sequence-21:
           s: 21
-          from: 00:02:43,09
-          to: 00:02:49,15
-          text: We would all charge together. Then something unexpected happened.
+          from: "00:02:43,09"
+          to: "00:02:49,15"
+          text: "We would all charge together. Then something unexpected happened."
         sequence-22:
           s: 22
-          from: 00:02:49,15
-          to: 00:02:58,28
-          text: Of the 300 men on our side the enemy was expecting at least 100 to
-            die.
+          from: "00:02:49,15"
+          to: "00:02:58,28"
+          text: "Of the 300 men on our side the enemy was expecting at least 100 to die."
         sequence-23:
           s: 23
-          from: 00:02:58,28
-          to: 00:03:06,11
-          text: But when the Germans approached, not 20 meters away but rather 40
-            meters,
+          from: "00:02:58,28"
+          to: "00:03:06,11"
+          text: "But when the Germans approached, not 20 meters away but rather 40 meters,"
         sequence-24:
           s: 24
-          from: 00:03:06,11
-          to: 00:03:15,08
-          text: the guy behind the machine-gun started firing the machine-gun too
-            soon.
+          from: "00:03:06,11"
+          to: "00:03:15,08"
+          text: "the guy behind the machine-gun started firing the machine-gun too soon."
         sequence-25:
           s: 25
-          from: 00:03:15,08
-          to: 00:03:26,19
-          text: We all charged at that moment, all frantic, all in a rush.
+          from: "00:03:15,08"
+          to: "00:03:26,19"
+          text: "We all charged at that moment, all frantic, all in a rush."
         sequence-26:
           s: 26
-          from: 00:03:26,19
-          to: 00:03:37,01
-          text: We were suddenly inside the German lines, which were well organized
-            according to the logic of a military attack.
+          from: "00:03:26,19"
+          to: "00:03:37,01"
+          text: "We were suddenly inside the German lines, which were well organized according to the logic of a military attack."
         sequence-27:
           s: 27
-          from: 00:03:37,01
-          to: 00:03:43,06
-          text: The 300 young men charged among them and provoked such havoc
+          from: "00:03:37,01"
+          to: "00:03:43,06"
+          text: "The 300 young men charged among them and provoked such havoc"
         sequence-28:
           s: 28
-          from: 00:03:43,06
-          to: 00:03:48,12
-          text: that the Germans were so surprised they didn’t even shoot.
+          from: "00:03:43,06"
+          to: "00:03:48,12"
+          text: "that the Germans were so surprised they didn’t even shoot."
         sequence-29:
           s: 29
-          from: 00:03:48,12
-          to: 00:03:58,09
-          text: Had they shot at us they would have also been shooting at their own
-            people, because we were among them.
+          from: "00:03:48,12"
+          to: "00:03:58,09"
+          text: "Had they shot at us they would have also been shooting at their own people, because we were among them."
         sequence-30:
           s: 30
-          from: 00:03:58,09
-          to: 00:04:03,29
-          text: We broke through their lines without a fight.
+          from: "00:03:58,09"
+          to: "00:04:03,29"
+          text: "We broke through their lines without a fight."
         sequence-31:
           s: 31
-          from: 00:04:03,29
-          to: 00:04:11,00
-          text: Instead of 100 of our men dying, only two fell, two were wounded and
-            one was taken captive.
+          from: "00:04:03,29"
+          to: "00:04:11,00"
+          text: "Instead of 100 of our men dying, only two fell, two were wounded and one was taken captive."

@@ -1,71 +1,66 @@
----
 fr:
   lidia-valeriani:
     chapter-2:
       c: 2
-      title: Clandestine communist party
+      title: "Clandestine communist party"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,18
-          to: 00:00:15,01
-          text: The older comrades saw that I was interested in this situation, eager
-            to learn and know what to do,
+          from: "00:00:00,18"
+          to: "00:00:15,01"
+          text: "The older comrades saw that I was interested in this situation, eager to learn and know what to do,"
         sequence-2:
           s: 2
-          from: 00:00:15,01
-          to: 00:00:19,14
-          text: and started handing me some books.
+          from: "00:00:15,01"
+          to: "00:00:19,14"
+          text: "and started handing me some books."
         sequence-3:
           s: 3
-          from: 00:00:19,14
-          to: 00:00:27,29
-          text: I believe the one we remembered the most was Maxim Gorkij’s “The mother”.
+          from: "00:00:19,14"
+          to: "00:00:27,29"
+          text: "I believe the one we remembered the most was Maxim Gorkij’s “The mother”."
         sequence-4:
           s: 4
-          from: 00:00:27,29
-          to: 00:00:44,11
-          text: I was 15or 16 years old when they started talking to us openly about
-            the Communist Party,
+          from: "00:00:27,29"
+          to: "00:00:44,11"
+          text: "I was 15or 16 years old when they started talking to us openly about the Communist Party,"
         sequence-5:
           s: 5
-          from: 00:00:44,11
-          to: 00:00:48,06
-          text: which was the opposite of fascism,
+          from: "00:00:44,11"
+          to: "00:00:48,06"
+          text: "which was the opposite of fascism,"
         sequence-6:
           s: 6
-          from: 00:00:48,06
-          to: 00:01:00,08
-          text: and about having to get involved in the clandestine struggle, organizing
-            people against this dictatorship,
+          from: "00:00:48,06"
+          to: "00:01:00,08"
+          text: "and about having to get involved in the clandestine struggle, organizing people against this dictatorship,"
         sequence-7:
           s: 7
-          from: 00:01:00,08
-          to: 00:01:04,10
-          text: since it really was a dictatorship then.
+          from: "00:01:00,08"
+          to: "00:01:04,10"
+          text: "since it really was a dictatorship then."
         sequence-8:
           s: 8
-          from: 00:01:04,10
-          to: 00:01:13,23
-          text: By the time I left San Bartolomeo I was already part of the clandestine
-            Communist Party.
+          from: "00:01:04,10"
+          to: "00:01:13,23"
+          text: "By the time I left San Bartolomeo I was already part of the clandestine Communist Party."
         sequence-9:
           s: 9
-          from: 00:01:13,23
-          to: 00:01:19,19
-          text: I had a cousin who had been incarcerated, his name was Nello Strozzi.
+          from: "00:01:13,23"
+          to: "00:01:19,19"
+          text: "I had a cousin who had been incarcerated, his name was Nello Strozzi."
         sequence-10:
           s: 10
-          from: 00:01:19,19
-          to: 00:01:24,09
-          text: And then also my boyfriend’s brother.
+          from: "00:01:19,19"
+          to: "00:01:24,09"
+          text: "And then also my boyfriend’s brother."
         sequence-11:
           s: 11
-          from: 00:01:24,09
-          to: 00:01:29,28
-          text: Me and my boyfriend had started dating when I was eighteen,
+          from: "00:01:24,09"
+          to: "00:01:29,28"
+          text: "Me and my boyfriend had started dating when I was eighteen,"
         sequence-12:
           s: 12
-          from: 00:01:29,28
-          to: 00:01:34,00
-          text: he was of the Viani family, his name was Alfeo.
+          from: "00:01:29,28"
+          to: "00:01:34,00"
+          text: "he was of the Viani family, his name was Alfeo."

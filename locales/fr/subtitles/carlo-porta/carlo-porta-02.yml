@@ -1,111 +1,111 @@
----
 fr:
   carlo-porta:
     chapter-2:
       c: 2
-      title: The old antifascists in Reggio
+      title: "The old antifascists in Reggio"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,02
-          to: 00:00:08,01
-          text: "There weren’t any real dangers, since they rather controlled those
-            \nwho were older than me."
+          from: "00:00:01,02"
+          to: "00:00:08,01"
+          text: |-
+              There weren’t any real dangers, since they rather controlled those 
+              who were older than me.
         sequence-2:
           s: 2
-          from: 00:00:08,01
-          to: 00:00:13,03
-          text: Even inside the Reggiane plant I was always an antifascist,
+          from: "00:00:08,01"
+          to: "00:00:13,03"
+          text: "Even inside the Reggiane plant I was always an antifascist,"
         sequence-3:
           s: 3
-          from: 00:00:13,03
-          to: 00:00:19,24
-          text: just like many others who were less fortunate than I was.
+          from: "00:00:13,03"
+          to: "00:00:19,24"
+          text: "just like many others who were less fortunate than I was."
         sequence-4:
           s: 4
-          from: 00:00:19,24
-          to: 00:00:24,23
-          text: At Reggiane we used to manufacture airplanes.
+          from: "00:00:19,24"
+          to: "00:00:24,23"
+          text: "At Reggiane we used to manufacture airplanes."
         sequence-5:
           s: 5
-          from: 00:00:24,23
-          to: 00:00:38,21
-          text: "Colleagues like Ganassi, Bagnacani or Catellani were all sent to
-            jail \nafter being caught putting sand in the engine cylinders."
+          from: "00:00:24,23"
+          to: "00:00:38,21"
+          text: |-
+              Colleagues like Ganassi, Bagnacani or Catellani were all sent to jail 
+              after being caught putting sand in the engine cylinders.
         sequence-6:
           s: 6
-          from: 00:00:38,21
-          to: 00:00:46,26
-          text: But they were all thirty or so, were already married and often had
-            children,
+          from: "00:00:38,21"
+          to: "00:00:46,26"
+          text: "But they were all thirty or so, were already married and often had children,"
         sequence-7:
           s: 7
-          from: 00:00:46,26
-          to: 00:00:51,18
-          text: and that’s the kind of people they hit harder on.
+          from: "00:00:46,26"
+          to: "00:00:51,18"
+          text: "and that’s the kind of people they hit harder on."
         sequence-8:
           s: 8
-          from: 00:00:51,18
-          to: 00:00:54,10
-          text: They didn’t really insist with us, we were left somehow ignored.
+          from: "00:00:51,18"
+          to: "00:00:54,10"
+          text: "They didn’t really insist with us, we were left somehow ignored."
         sequence-9:
           s: 9
-          from: 00:00:54,10
-          to: 00:00:57,28
-          text: My boss always used to say that
+          from: "00:00:54,10"
+          to: "00:00:57,28"
+          text: "My boss always used to say that"
         sequence-10:
           s: 10
-          from: 00:00:57,28
-          to: 00:01:06,28
-          text: "when the soldiers would come back, they would have to become members
-            \nof the Party if they wanted to work in the factory”."
+          from: "00:00:57,28"
+          to: "00:01:06,28"
+          text: |-
+              when the soldiers would come back, they would have to become members 
+              of the Party if they wanted to work in the factory”.
         sequence-11:
           s: 11
-          from: 00:01:06,28
-          to: 00:01:11,28
-          text: They were my teachers, they taught me how to take care of things.
+          from: "00:01:06,28"
+          to: "00:01:11,28"
+          text: "They were my teachers, they taught me how to take care of things."
         sequence-12:
           s: 12
-          from: 00:01:11,28
-          to: 00:01:19,05
-          text: At the time we were collecting money for the so-called Red Relief,
+          from: "00:01:11,28"
+          to: "00:01:19,05"
+          text: "At the time we were collecting money for the so-called Red Relief,"
         sequence-13:
           s: 13
-          from: 00:01:19,05
-          to: 00:01:28,08
-          text: 'and I was the one in charge for Rivalta: we collected money and gave
-            it to the Party.'
+          from: "00:01:19,05"
+          to: "00:01:28,08"
+          text: "and I was the one in charge for Rivalta: we collected money and gave it to the Party."
         sequence-14:
           s: 14
-          from: 00:01:28,08
-          to: 00:01:36,21
-          text: "Those who were facing the worst situation were indeed those \nwho
-            had been combatants in Spain,"
+          from: "00:01:28,08"
+          to: "00:01:36,21"
+          text: |-
+              Those who were facing the worst situation were indeed those 
+              who had been combatants in Spain,
         sequence-15:
           s: 15
-          from: 00:01:36,21
-          to: 00:01:44,04
-          text: but some of our comrades from Rivalta, like Fontanesi, had also been
-            imprisoned,
+          from: "00:01:36,21"
+          to: "00:01:44,04"
+          text: "but some of our comrades from Rivalta, like Fontanesi, had also been imprisoned,"
         sequence-16:
           s: 16
-          from: 00:01:44,04
-          to: 00:01:49,29
-          text: so the Party tried to help their families as much as possible.
+          from: "00:01:44,04"
+          to: "00:01:49,29"
+          text: "so the Party tried to help their families as much as possible."
         sequence-17:
           s: 17
-          from: 00:01:49,29
-          to: 00:01:59,00
-          text: "On Sundays we used to set up stalls in the square to sell things,
-            \nor we organized lotteries:"
+          from: "00:01:49,29"
+          to: "00:01:59,00"
+          text: |-
+              On Sundays we used to set up stalls in the square to sell things, 
+              or we organized lotteries:
         sequence-18:
           s: 18
-          from: 00:01:59,00
-          to: 00:02:07,04
-          text: on one occasion, the first prize was a hen that a farmer had given
-            to us
+          from: "00:01:59,00"
+          to: "00:02:07,04"
+          text: "on one occasion, the first prize was a hen that a farmer had given to us"
         sequence-19:
           s: 19
-          from: 00:02:07,04
-          to: 00:02:13,17
-          text: to collect some of the money that was needed.
+          from: "00:02:07,04"
+          to: "00:02:13,17"
+          text: "to collect some of the money that was needed."

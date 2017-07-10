@@ -1,57 +1,56 @@
----
 de:
   anita-malavasi:
     chapter-1:
       c: 1
-      title: Introduction, family
+      title: "Introduction, family"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,18
-          to: 00:00:07,15
-          text: Ich wurde am 21. Mai 1921 in Roncolo di Quattro Castella geboren.
+          from: "00:00:00,18"
+          to: "00:00:07,15"
+          text: "Ich wurde am 21. Mai 1921 in Roncolo di Quattro Castella geboren."
         sequence-2:
           s: 2
-          from: 00:00:07,15
-          to: 00:00:14,27
-          text: Wir waren eine Bauernfamilie, aber wir hatten andere Wurzeln.
+          from: "00:00:07,15"
+          to: "00:00:14,27"
+          text: "Wir waren eine Bauernfamilie, aber wir hatten andere Wurzeln."
         sequence-3:
           s: 3
-          from: 00:00:14,27
-          to: 00:00:22,23
-          text: Mein Großvater hatte studiert, um Musiklehrer zu werden und hatte die Musikgruppe von Vezzano gegründet.
+          from: "00:00:14,27"
+          to: "00:00:22,23"
+          text: "Mein Großvater hatte studiert, um Musiklehrer zu werden und hatte die Musikgruppe von Vezzano gegründet."
         sequence-4:
           s: 4
-          from: 00:00:22,23
-          to: 00:00:27,01
-          text: Meine Großmutter war die Tochter eines Stadtschreibers von Vezzano.
+          from: "00:00:22,23"
+          to: "00:00:27,01"
+          text: "Meine Großmutter war die Tochter eines Stadtschreibers von Vezzano."
         sequence-5:
           s: 5
-          from: 00:00:27,01
-          to: 00:00:36,20
-          text: Er war beteiligt beim Kampf um die Einheit Italiens, zusammen mit seinem Bruder Baroni Radighieri.
+          from: "00:00:27,01"
+          to: "00:00:36,20"
+          text: "Er war beteiligt beim Kampf um die Einheit Italiens, zusammen mit seinem Bruder Baroni Radighieri."
         sequence-6:
           s: 6
-          from: 00:00:36,20
-          to: 00:00:48,06
-          text: Meine Großeltern lernten beide sehr viel mehr, als Bauern es normalerweise taten.
+          from: "00:00:36,20"
+          to: "00:00:48,06"
+          text: "Meine Großeltern lernten beide sehr viel mehr, als Bauern es normalerweise taten."
         sequence-7:
           s: 7
-          from: 00:00:48,06
-          to: 00:00:54,13
-          text: Meine Großmutter las jeden Tag die Zeitung, obwohl sie eine Frau war.
+          from: "00:00:48,06"
+          to: "00:00:54,13"
+          text: "Meine Großmutter las jeden Tag die Zeitung, obwohl sie eine Frau war."
         sequence-8:
           s: 8
-          from: 00:00:54,13
-          to: 00:01:02,15
-          text: Mein Vater erinnerte mich oft daran, wie wichtig Bildung für Frauen sei.
+          from: "00:00:54,13"
+          to: "00:01:02,15"
+          text: "Mein Vater erinnerte mich oft daran, wie wichtig Bildung für Frauen sei."
         sequence-9:
           s: 9
-          from: 00:01:02,15
-          to: 00:01:10,15
-          text: Sie heirateten sehr jung und weil sie keine Arbeit finden konnten, begannen sie mit der Landwirtschaft.
+          from: "00:01:02,15"
+          to: "00:01:10,15"
+          text: "Sie heirateten sehr jung und weil sie keine Arbeit finden konnten, begannen sie mit der Landwirtschaft."
         sequence-10:
           s: 10
-          from: 00:01:10,15
-          to: 00:01:20,20
-          text: Die Generation meines Vaters war die einzige, die sich mit Landwirschaft befasste, bis sie älter waren und sich anderen Dingen zuwandten.
+          from: "00:01:10,15"
+          to: "00:01:20,20"
+          text: "Die Generation meines Vaters war die einzige, die sich mit Landwirschaft befasste, bis sie älter waren und sich anderen Dingen zuwandten."

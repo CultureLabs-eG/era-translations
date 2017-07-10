@@ -1,178 +1,166 @@
----
 sl:
   tadeusz-sulowski:
     chapter-9:
       c: 9
-      title: Life of a partisan
+      title: "Life of a partisan"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:07,01
-          to: 00:00:12,01
-          text: After leaving Stefanów we moved to the Białaczow forests
+          from: "00:00:07,01"
+          to: "00:00:12,01"
+          text: "After leaving Stefanów we moved to the Białaczow forests"
         sequence-2:
           s: 2
-          from: 00:00:12,01
-          to: 00:00:27,05
-          text: and there lieutenant ‘Osuch’ came to me saying they were collecting
-            a group of soldiers
+          from: "00:00:12,01"
+          to: "00:00:27,05"
+          text: "and there lieutenant ‘Osuch’ came to me saying they were collecting a group of soldiers"
         sequence-3:
           s: 3
-          from: 00:00:27,05
-          to: 00:00:39,16
-          text: who survived the Warsaw Uprising and were joining various guerrilla
-            groups in the nearby forests.
+          from: "00:00:27,05"
+          to: "00:00:39,16"
+          text: "who survived the Warsaw Uprising and were joining various guerrilla groups in the nearby forests."
         sequence-4:
           s: 4
-          from: 00:00:39,16
-          to: 00:00:52,17
-          text: If I wanted to participate in a group like that.
+          from: "00:00:39,16"
+          to: "00:00:52,17"
+          text: "If I wanted to participate in a group like that."
         sequence-5:
           s: 5
-          from: 00:00:52,17
-          to: 00:00:54,25
-          text: I agreed, naturally.
+          from: "00:00:52,17"
+          to: "00:00:54,25"
+          text: "I agreed, naturally."
         sequence-6:
           s: 6
-          from: 00:00:54,25
-          to: 00:01:01,09
-          text: So he took me in, there were ten persons in this group.
+          from: "00:00:54,25"
+          to: "00:01:01,09"
+          text: "So he took me in, there were ten persons in this group."
         sequence-7:
           s: 7
-          from: 00:01:01,09
-          to: 00:01:06,13
-          text: On the way we found out pretty well who was where.
+          from: "00:01:01,09"
+          to: "00:01:06,13"
+          text: "On the way we found out pretty well who was where."
         sequence-8:
           s: 8
-          from: 00:01:06,13
-          to: 00:01:16,07
-          text: We had this messenger ‘Malina’, in the village of Bieliny, who knew
-            everything going on in the vicinity
+          from: "00:01:06,13"
+          to: "00:01:16,07"
+          text: "We had this messenger ‘Malina’, in the village of Bieliny, who knew everything going on in the vicinity"
         sequence-9:
           s: 9
-          from: 00:01:16,07
-          to: 00:01:25,04
-          text: and ‘Malina’ told us of a large unit searching for a much larger one.
+          from: "00:01:16,07"
+          to: "00:01:25,04"
+          text: "and ‘Malina’ told us of a large unit searching for a much larger one."
         sequence-10:
           s: 10
-          from: 00:01:25,04
-          to: 00:01:33,26
-          text: There were some 150 people under the command of lieutenant ‘Lech’,
-            Stanisław Degórski.
+          from: "00:01:25,04"
+          to: "00:01:33,26"
+          text: "There were some 150 people under the command of lieutenant ‘Lech’, Stanisław Degórski."
         sequence-11:
           s: 11
-          from: 00:01:33,26
-          to: 00:01:37,15
-          text: This was a unit from the Lublin region. How did they end up here?
+          from: "00:01:33,26"
+          to: "00:01:37,15"
+          text: "This was a unit from the Lublin region. How did they end up here?"
         sequence-12:
           s: 12
-          from: 00:01:37,15
-          to: 00:01:42,11
-          text: First, allegedly, they reached Kampinos, and later, after the Kampinos
-            group
+          from: "00:01:37,15"
+          to: "00:01:42,11"
+          text: "First, allegedly, they reached Kampinos, and later, after the Kampinos group"
         sequence-13:
           s: 13
-          from: 00:01:42,11
-          to: 00:01:46,22
-          text: got defeated near Jaktorow they moved to our forests.
+          from: "00:01:42,11"
+          to: "00:01:46,22"
+          text: "got defeated near Jaktorow they moved to our forests."
         sequence-14:
           s: 14
-          from: 00:01:46,22
-          to: 00:01:52,13
-          text: And they established contact with us.
+          from: "00:01:46,22"
+          to: "00:01:52,13"
+          text: "And they established contact with us."
         sequence-15:
           s: 15
-          from: 00:01:52,13
-          to: 00:01:56,29
-          text: ''
+          from: "00:01:52,13"
+          to: "00:01:56,29"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:56,29
-          to: 00:02:04,04
-          text: With this unit we fought at Zdzary, near Drzewica.
+          from: "00:01:56,29"
+          to: "00:02:04,04"
+          text: "With this unit we fought at Zdzary, near Drzewica."
         sequence-17:
           s: 17
-          from: 00:02:04,04
-          to: 00:02:26,24
-          text: Two people died there. Kalmucks attacked us there.
+          from: "00:02:04,04"
+          to: "00:02:26,24"
+          text: "Two people died there. Kalmucks attacked us there."
         sequence-18:
           s: 18
-          from: 00:02:26,24
-          to: 00:02:38,09
-          text: Two days later some mines exploded when they dropped out of a wagon.
+          from: "00:02:26,24"
+          to: "00:02:38,09"
+          text: "Two days later some mines exploded when they dropped out of a wagon."
         sequence-19:
           s: 19
-          from: 00:02:38,09
-          to: 00:02:57,10
-          text: The next wagon rode on them and they exploded. Two more men were wounded.
-            People got mad.
+          from: "00:02:38,09"
+          to: "00:02:57,10"
+          text: "The next wagon rode on them and they exploded. Two more men were wounded. People got mad."
         sequence-20:
           s: 20
-          from: 00:02:57,10
-          to: 00:03:01,16
-          text: Nearby the ‘Szary’ unit was stationed. They did not want to return
-            to the 25th regiment.
+          from: "00:02:57,10"
+          to: "00:03:01,16"
+          text: "Nearby the ‘Szary’ unit was stationed. They did not want to return to the 25th regiment."
         sequence-21:
           s: 21
-          from: 00:03:01,16
-          to: 00:03:20,21
-          text: Each platoon had its own representatives and they demanded from the
-            command to agree their accession to the ‘Szary’ unit.
+          from: "00:03:01,16"
+          to: "00:03:20,21"
+          text: "Each platoon had its own representatives and they demanded from the command to agree their accession to the ‘Szary’ unit."
         sequence-22:
           s: 22
-          from: 00:03:20,21
-          to: 00:03:24,23
-          text: Well, naturally, if ‘Szary’ agreed.
+          from: "00:03:20,21"
+          to: "00:03:24,23"
+          text: "Well, naturally, if ‘Szary’ agreed."
         sequence-23:
           s: 23
-          from: 00:03:24,23
-          to: 00:03:32,01
-          text: So we sent a messenger to ‘Szary’, ‘Szary’ said yes.
+          from: "00:03:24,23"
+          to: "00:03:32,01"
+          text: "So we sent a messenger to ‘Szary’, ‘Szary’ said yes."
         sequence-24:
           s: 24
-          from: 00:03:32,01
-          to: 00:03:35,05
-          text: He accepted us into his unit.
+          from: "00:03:32,01"
+          to: "00:03:35,05"
+          text: "He accepted us into his unit."
         sequence-25:
           s: 25
-          from: 00:03:35,05
-          to: 00:03:45,07
-          text: That’s how I became a soldier of the 3rd regiment of the Polish Legions
-            under the command of ‘Szary.
+          from: "00:03:35,05"
+          to: "00:03:45,07"
+          text: "That’s how I became a soldier of the 3rd regiment of the Polish Legions under the command of ‘Szary."
         sequence-26:
           s: 26
-          from: 00:03:45,07
-          to: 00:03:53,17
-          text: ''
+          from: "00:03:45,07"
+          to: "00:03:53,17"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:03:53,17
-          to: 00:03:57,20
-          text: I wasn’t a long time in this unit,
+          from: "00:03:53,17"
+          to: "00:03:57,20"
+          text: "I wasn’t a long time in this unit,"
         sequence-28:
           s: 28
-          from: 00:03:57,20
-          to: 00:04:06,15
-          text: because the Russian front was approaching, they were already on the
-            line of the Vistula.
+          from: "00:03:57,20"
+          to: "00:04:06,15"
+          text: "because the Russian front was approaching, they were already on the line of the Vistula."
         sequence-29:
           s: 29
-          from: 00:04:06,15
-          to: 00:04:30,28
-          text: The Germans wanted to get rid of the guerrillas and sent these Kalmuck
-            troops to our forest.
+          from: "00:04:06,15"
+          to: "00:04:30,28"
+          text: "The Germans wanted to get rid of the guerrillas and sent these Kalmuck troops to our forest."
         sequence-30:
           s: 30
-          from: 00:04:30,28
-          to: 00:04:42,11
-          text: On 5 November we were staying at the village of Boków
+          from: "00:04:30,28"
+          to: "00:04:42,11"
+          text: "On 5 November we were staying at the village of Boków"
         sequence-31:
           s: 31
-          from: 00:04:42,11
-          to: 00:04:52,03
-          text: and on the 4th the 25th Regiment had a fight in Boków.
+          from: "00:04:42,11"
+          to: "00:04:52,03"
+          text: "and on the 4th the 25th Regiment had a fight in Boków."
         sequence-32:
           s: 32
-          from: 00:04:52,03
-          to: 00:04:56,12
-          text: A lot of people died there. Both ours and Germans.
+          from: "00:04:52,03"
+          to: "00:04:56,12"
+          text: "A lot of people died there. Both ours and Germans."

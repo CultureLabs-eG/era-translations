@@ -1,216 +1,201 @@
----
 de:
   giacomina-castagnetti:
     chapter-10:
       c: 10
-      title: The days of Liberation
+      title: "The days of Liberation"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,23
-          to: 00:00:06,13
-          text: On the 23rd we noticed a heavy fog over our heads.
+          from: "00:00:00,23"
+          to: "00:00:06,13"
+          text: "On the 23rd we noticed a heavy fog over our heads."
         sequence-2:
           s: 2
-          from: 00:00:06,13
-          to: 00:00:09,24
-          text: ''
+          from: "00:00:06,13"
+          to: "00:00:09,24"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:09,24
-          to: 00:00:19,14
-          text: Everything seemed quiet, muffled. Then the German tanks began to withdraw.
+          from: "00:00:09,24"
+          to: "00:00:19,14"
+          text: "Everything seemed quiet, muffled. Then the German tanks began to withdraw."
         sequence-4:
           s: 4
-          from: 00:00:19,14
-          to: 00:00:33,15
-          text: An army on the run is one of the saddest sights one can witness.
+          from: "00:00:19,14"
+          to: "00:00:33,15"
+          text: "An army on the run is one of the saddest sights one can witness."
         sequence-5:
           s: 5
-          from: 00:00:33,15
-          to: 00:00:40,23
-          text: There was a whole line of trucks that had been seized in Yugoslavia.
+          from: "00:00:33,15"
+          to: "00:00:40,23"
+          text: "There was a whole line of trucks that had been seized in Yugoslavia."
         sequence-6:
           s: 6
-          from: 00:00:40,23
-          to: 00:00:50,24
-          text: They were all full of wounded soldiers. It was terrible.
+          from: "00:00:40,23"
+          to: "00:00:50,24"
+          text: "They were all full of wounded soldiers. It was terrible."
         sequence-7:
           s: 7
-          from: 00:00:50,24
-          to: 00:00:55,21
-          text: The Germans were heading for the Po River,
+          from: "00:00:50,24"
+          to: "00:00:55,21"
+          text: "The Germans were heading for the Po River,"
         sequence-8:
           s: 8
-          from: 00:00:55,21
-          to: 00:01:07,14
-          text: but there were a few groups of partisans in the lowlands, the SAPs,
-            trying to disarm them.
+          from: "00:00:55,21"
+          to: "00:01:07,14"
+          text: "but there were a few groups of partisans in the lowlands, the SAPs, trying to disarm them."
         sequence-9:
           s: 9
-          from: 00:01:07,14
-          to: 00:01:15,16
-          text: However, the Germans didn’t give up until the very end.
+          from: "00:01:07,14"
+          to: "00:01:15,16"
+          text: "However, the Germans didn’t give up until the very end."
         sequence-10:
           s: 10
-          from: 00:01:15,16
-          to: 00:01:16,11
-          text: ''
+          from: "00:01:15,16"
+          to: "00:01:16,11"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:01:16,11
-          to: 00:01:21,17
-          text: We were told to keep calm.
+          from: "00:01:16,11"
+          to: "00:01:21,17"
+          text: "We were told to keep calm."
         sequence-12:
           s: 12
-          from: 00:01:21,17
-          to: 00:01:27,02
-          text: Nobody knew what the situation was.
+          from: "00:01:21,17"
+          to: "00:01:27,02"
+          text: "Nobody knew what the situation was."
         sequence-13:
           s: 13
-          from: 00:01:27,02
-          to: 00:01:31,11
-          text: ''
+          from: "00:01:27,02"
+          to: "00:01:31,11"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:31,11
-          to: 00:01:38,16
-          text: I was at home when I heard a horse coming at full speed.
+          from: "00:01:31,11"
+          to: "00:01:38,16"
+          text: "I was at home when I heard a horse coming at full speed."
         sequence-15:
           s: 15
-          from: 00:01:38,16
-          to: 00:01:53,01
-          text: The reins were loose, because he had probably taken the horse from
-            a cart.
+          from: "00:01:38,16"
+          to: "00:01:53,01"
+          text: "The reins were loose, because he had probably taken the horse from a cart."
         sequence-16:
           s: 16
-          from: 00:01:53,01
-          to: 00:02:01,16
-          text: I ran outside and it was a German soldier. He was really young.
+          from: "00:01:53,01"
+          to: "00:02:01,16"
+          text: "I ran outside and it was a German soldier. He was really young."
         sequence-17:
           s: 17
-          from: 00:02:01,16
-          to: 00:02:07,14
-          text: Hitler had enlisted even those who were 15 or 16 years old.
+          from: "00:02:01,16"
+          to: "00:02:07,14"
+          text: "Hitler had enlisted even those who were 15 or 16 years old."
         sequence-18:
           s: 18
-          from: 00:02:07,14
-          to: 00:02:14,01
-          text: As he saw me, he started to shout that the Americans were coming.
+          from: "00:02:07,14"
+          to: "00:02:14,01"
+          text: "As he saw me, he started to shout that the Americans were coming."
         sequence-19:
           s: 19
-          from: 00:02:14,01
-          to: 00:02:21,06
-          text: He wanted me to take cover, because he didn’t know I was a partisan.
+          from: "00:02:14,01"
+          to: "00:02:21,06"
+          text: "He wanted me to take cover, because he didn’t know I was a partisan."
         sequence-20:
           s: 20
-          from: 00:02:21,06
-          to: 00:02:30,23
-          text: At that moment we were only a young boy and a young girl who wanted
-            the war to come to an end.
+          from: "00:02:21,06"
+          to: "00:02:30,23"
+          text: "At that moment we were only a young boy and a young girl who wanted the war to come to an end."
         sequence-21:
           s: 21
-          from: 00:02:30,23
-          to: 00:02:39,29
-          text: He was about to try to make it home, while I was waiting for my country
-            to be free again.
+          from: "00:02:30,23"
+          to: "00:02:39,29"
+          text: "He was about to try to make it home, while I was waiting for my country to be free again."
         sequence-22:
           s: 22
-          from: 00:02:39,29
-          to: 00:02:48,18
-          text: At that moment I didn’t feel like I could hate neither the Germans
-            nor that young soldier.
+          from: "00:02:39,29"
+          to: "00:02:48,18"
+          text: "At that moment I didn’t feel like I could hate neither the Germans nor that young soldier."
         sequence-23:
           s: 23
-          from: 00:02:48,18
-          to: 00:02:58,17
-          text: Maybe he could have harmed me before, but at that point all I wanted
-            was the war to be over and things to change.
+          from: "00:02:48,18"
+          to: "00:02:58,17"
+          text: "Maybe he could have harmed me before, but at that point all I wanted was the war to be over and things to change."
         sequence-24:
           s: 24
-          from: 00:02:58,17
-          to: 00:03:12,13
-          text: That’s what I did on the 24th. On the 25th all the joy I had inside
-            burst open.
+          from: "00:02:58,17"
+          to: "00:03:12,13"
+          text: "That’s what I did on the 24th. On the 25th all the joy I had inside burst open."
         sequence-25:
           s: 25
-          from: 00:03:12,13
-          to: 00:03:26,16
-          text: War for me had started in 1935, with the campaign in Africa. I was
-            ten then, and on April 25th 1945 I was twenty.
+          from: "00:03:12,13"
+          to: "00:03:26,16"
+          text: "War for me had started in 1935, with the campaign in Africa. I was ten then, and on April 25th 1945 I was twenty."
         sequence-26:
           s: 26
-          from: 00:03:26,16
-          to: 00:03:30,01
-          text: ''
+          from: "00:03:26,16"
+          to: "00:03:30,01"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:03:30,01
-          to: 00:03:34,17
-          text: The first thing I did was to throw our windows open.
+          from: "00:03:30,01"
+          to: "00:03:34,17"
+          text: "The first thing I did was to throw our windows open."
         sequence-28:
           s: 28
-          from: 00:03:34,17
-          to: 00:03:51,10
-          text: For the previous five years we had covered them with blue paper in
-            order not to let any light into our houses.
+          from: "00:03:34,17"
+          to: "00:03:51,10"
+          text: "For the previous five years we had covered them with blue paper in order not to let any light into our houses."
         sequence-29:
           s: 29
-          from: 00:03:51,10
-          to: 00:03:52,06
-          text: ''
+          from: "00:03:51,10"
+          to: "00:03:52,06"
+          text: ~
         sequence-30:
           s: 30
-          from: 00:03:52,06
-          to: 00:04:02,20
-          text: After that we found a flag and we all lined up to go to Reggio for
-            a triumphant parade.
+          from: "00:03:52,06"
+          to: "00:04:02,20"
+          text: "After that we found a flag and we all lined up to go to Reggio for a triumphant parade."
         sequence-31:
           s: 31
-          from: 00:04:02,20
-          to: 00:04:03,08
-          text: ''
+          from: "00:04:02,20"
+          to: "00:04:03,08"
+          text: ~
         sequence-32:
           s: 32
-          from: 00:04:03,08
-          to: 00:04:14,15
-          text: Along the Via Emilia there were American soldiers on both sides.
+          from: "00:04:03,08"
+          to: "00:04:14,15"
+          text: "Along the Via Emilia there were American soldiers on both sides."
         sequence-33:
           s: 33
-          from: 00:04:14,15
-          to: 00:04:26,28
-          text: It was surprising for me to see blacks, as well as Indians with a
-            turban around their head.
+          from: "00:04:14,15"
+          to: "00:04:26,28"
+          text: "It was surprising for me to see blacks, as well as Indians with a turban around their head."
         sequence-34:
           s: 34
-          from: 00:04:26,28
-          to: 00:04:31,23
-          text: The infantry had come behind the tanks.
+          from: "00:04:26,28"
+          to: "00:04:31,23"
+          text: "The infantry had come behind the tanks."
         sequence-35:
           s: 35
-          from: 00:04:31,23
-          to: 00:04:38,09
-          text: Then they lined up along the Via Emilia, from Rubiera to Reggio.
+          from: "00:04:31,23"
+          to: "00:04:38,09"
+          text: "Then they lined up along the Via Emilia, from Rubiera to Reggio."
         sequence-36:
           s: 36
-          from: 00:04:38,09
-          to: 00:04:46,21
-          text: When we got there, the partisans had already arrived from the mountains,
-            too.
+          from: "00:04:38,09"
+          to: "00:04:46,21"
+          text: "When we got there, the partisans had already arrived from the mountains, too."
         sequence-37:
           s: 37
-          from: 00:04:46,21
-          to: 00:04:56,19
-          text: As we reached the hospice, the partisan parade was stopped, since
-            it was still dangerous inside the city.
+          from: "00:04:46,21"
+          to: "00:04:56,19"
+          text: "As we reached the hospice, the partisan parade was stopped, since it was still dangerous inside the city."
         sequence-38:
           s: 38
-          from: 00:04:56,19
-          to: 00:05:03,07
-          text: There were many sniper casualties in the following days.
+          from: "00:04:56,19"
+          to: "00:05:03,07"
+          text: "There were many sniper casualties in the following days."
         sequence-39:
           s: 39
-          from: 00:05:03,07
-          to: 00:05:14,11
-          text: We simply turned around and went back home, but you can’t count the
-            parades we did afterwards.
+          from: "00:05:03,07"
+          to: "00:05:14,11"
+          text: "We simply turned around and went back home, but you can’t count the parades we did afterwards."

@@ -1,150 +1,141 @@
----
 sl:
   giacomo-notari:
     chapter-8:
       c: 8
-      title: Allied airdrop with food and weapon supplies
+      title: "Allied airdrop with food and weapon supplies"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,13
-          to: 00:00:09,14
-          text: An American colonel had crashed with his airplane and had to stay
-            in Ligonchio for a while.
+          from: "00:00:01,13"
+          to: "00:00:09,14"
+          text: "An American colonel had crashed with his airplane and had to stay in Ligonchio for a while."
         sequence-2:
           s: 2
-          from: 00:00:09,14
-          to: 00:00:10,21
-          text: ''
+          from: "00:00:09,14"
+          to: "00:00:10,21"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:10,21
-          to: 00:00:17,26
-          text: There was little to eat, and he was fed even less than the others.
+          from: "00:00:10,21"
+          to: "00:00:17,26"
+          text: "There was little to eat, and he was fed even less than the others."
         sequence-4:
           s: 4
-          from: 00:00:17,26
-          to: 00:00:19,10
-          text: ''
+          from: "00:00:17,26"
+          to: "00:00:19,10"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:19,10
-          to: 00:00:29,01
-          text: 'So he told our captain: “If I manage to get to Florence I’ll organize
-            an air-drop and drop you a lot of good food”.'
+          from: "00:00:19,10"
+          to: "00:00:29,01"
+          text: "So he told our captain: “If I manage to get to Florence I’ll organize an air-drop and drop you a lot of good food”."
         sequence-6:
           s: 6
-          from: 00:00:29,01
-          to: 00:00:30,17
-          text: ''
+          from: "00:00:29,01"
+          to: "00:00:30,17"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:30,17
-          to: 00:00:32,08
-          text: He kept his word.
+          from: "00:00:30,17"
+          to: "00:00:32,08"
+          text: "He kept his word."
         sequence-8:
           s: 8
-          from: 00:00:32,08
-          to: 00:00:34,13
-          text: He crossed the front lines and got to Florence.
+          from: "00:00:32,08"
+          to: "00:00:34,13"
+          text: "He crossed the front lines and got to Florence."
         sequence-9:
           s: 9
-          from: 00:00:34,13
-          to: 00:00:42,14
-          text: There was communication from Ligonchio then, from Lama Golese to Florence;
-            there were English officers with radios,
+          from: "00:00:34,13"
+          to: "00:00:42,14"
+          text: "There was communication from Ligonchio then, from Lama Golese to Florence; there were English officers with radios,"
         sequence-10:
           s: 10
-          from: 00:00:42,14
-          to: 00:00:45,05
-          text: it was just like talking with a telephone today.
+          from: "00:00:42,14"
+          to: "00:00:45,05"
+          text: "it was just like talking with a telephone today."
         sequence-11:
           s: 11
-          from: 00:00:45,05
-          to: 00:00:46,23
-          text: ''
+          from: "00:00:45,05"
+          to: "00:00:46,23"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:00:46,23
-          to: 00:00:52,22
-          text: So he did this air-drop, on a Sunday morning, there were airplanes
-            all over
+          from: "00:00:46,23"
+          to: "00:00:52,22"
+          text: "So he did this air-drop, on a Sunday morning, there were airplanes all over"
         sequence-13:
           s: 13
-          from: 00:00:52,22
-          to: 00:01:00,12
-          text: and they dropped all sorts of things, even gasoline tanks looking
-            like missiles.
+          from: "00:00:52,22"
+          to: "00:01:00,12"
+          text: "and they dropped all sorts of things, even gasoline tanks looking like missiles."
         sequence-14:
           s: 14
-          from: 00:01:00,12
-          to: 00:01:01,25
-          text: ''
+          from: "00:01:00,12"
+          to: "00:01:01,25"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:01,25
-          to: 00:01:06,17
-          text: They even dropped two small Lambrettas,
+          from: "00:01:01,25"
+          to: "00:01:06,17"
+          text: "They even dropped two small Lambrettas,"
         sequence-16:
           s: 16
-          from: 00:01:06,17
-          to: 00:01:07,15
-          text: ''
+          from: "00:01:06,17"
+          to: "00:01:07,15"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:07,15
-          to: 00:01:12,13
-          text: a light gun, a whole lot of stuff, things to eat.
+          from: "00:01:07,15"
+          to: "00:01:12,13"
+          text: "a light gun, a whole lot of stuff, things to eat."
         sequence-18:
           s: 18
-          from: 00:01:12,13
-          to: 00:01:19,17
-          text: Quite a few parachutes fell on the other side of the river and were
-            taken by the Germans.
+          from: "00:01:12,13"
+          to: "00:01:19,17"
+          text: "Quite a few parachutes fell on the other side of the river and were taken by the Germans."
         sequence-19:
           s: 19
-          from: 00:01:19,17
-          to: 00:01:24,18
-          text: Later the Germans tried to go take some on our side too,
+          from: "00:01:19,17"
+          to: "00:01:24,18"
+          text: "Later the Germans tried to go take some on our side too,"
         sequence-20:
           s: 20
-          from: 00:01:24,18
-          to: 00:01:32,21
-          text: and that’s when a partisan died, poor man, his name was Nello Vergai,
-            he was a sailor from Caprile.
+          from: "00:01:24,18"
+          to: "00:01:32,21"
+          text: "and that’s when a partisan died, poor man, his name was Nello Vergai, he was a sailor from Caprile."
         sequence-21:
           s: 21
-          from: 00:01:32,21
-          to: 00:01:33,18
-          text: ''
+          from: "00:01:32,21"
+          to: "00:01:33,18"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:01:33,18
-          to: 00:01:40,12
-          text: He was shot and he took cover wounded,
+          from: "00:01:33,18"
+          to: "00:01:40,12"
+          text: "He was shot and he took cover wounded,"
         sequence-23:
           s: 23
-          from: 00:01:40,12
-          to: 00:01:44,04
-          text: but he hid so well that we didn’t find him.
+          from: "00:01:40,12"
+          to: "00:01:44,04"
+          text: "but he hid so well that we didn’t find him."
         sequence-24:
           s: 24
-          from: 00:01:44,04
-          to: 00:01:44,29
-          text: ''
+          from: "00:01:44,04"
+          to: "00:01:44,29"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:01:44,29
-          to: 00:01:49,10
-          text: The woodmen found him two or three months later,
+          from: "00:01:44,29"
+          to: "00:01:49,10"
+          text: "The woodmen found him two or three months later,"
         sequence-26:
           s: 26
-          from: 00:01:49,10
-          to: 00:01:50,29
-          text: ''
+          from: "00:01:49,10"
+          to: "00:01:50,29"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:01:50,29
-          to: 00:01:56,10
-          text: and you could see that he had bled to death. He had covered himself
-            with leaves… It was a terrible tragedy.
+          from: "00:01:50,29"
+          to: "00:01:56,10"
+          text: "and you could see that he had bled to death. He had covered himself with leaves… It was a terrible tragedy."

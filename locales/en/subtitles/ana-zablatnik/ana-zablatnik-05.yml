@@ -1,96 +1,91 @@
----
 en:
   ana-zablatnik:
     chapter-5:
       c: 5
-      title: Wish to join partisans, being arrested
+      title: "Wish to join partisans, being arrested"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:06,14
-          to: 00:00:13,15
-          text: I planned to join the partisans myself, if they hadn’t arrested me.
+          from: "00:00:06,14"
+          to: "00:00:13,15"
+          text: "I planned to join the partisans myself, if they hadn’t arrested me."
         sequence-2:
           s: 2
-          from: 00:00:13,15
-          to: 00:00:21,18
-          text: I had already got two pairs of trousers made and a windbreaker.
+          from: "00:00:13,15"
+          to: "00:00:21,18"
+          text: "I had already got two pairs of trousers made and a windbreaker."
         sequence-3:
           s: 3
-          from: 00:00:21,18
-          to: 00:00:25,00
-          text: I wanted to go to the unit.
+          from: "00:00:21,18"
+          to: "00:00:25,00"
+          text: "I wanted to go to the unit."
         sequence-4:
           s: 4
-          from: 00:00:25,00
-          to: 00:00:28,18
-          text: But unfortunately it turned out differently.
+          from: "00:00:25,00"
+          to: "00:00:28,18"
+          text: "But unfortunately it turned out differently."
         sequence-5:
           s: 5
-          from: 00:00:28,18
-          to: 00:00:31,21
-          text: ''
+          from: "00:00:28,18"
+          to: "00:00:31,21"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:31,21
-          to: 00:00:39,23
-          text: 'I was confident: I would join the resistance, even the armed resistance
-            – yes.'
+          from: "00:00:31,21"
+          to: "00:00:39,23"
+          text: "I was confident: I would join the resistance, even the armed resistance – yes."
         sequence-7:
           s: 7
-          from: 00:00:39,23
-          to: 00:00:46,01
-          text: But it did not happen, because we were arrested.
+          from: "00:00:39,23"
+          to: "00:00:46,01"
+          text: "But it did not happen, because we were arrested."
         sequence-8:
           s: 8
-          from: 00:00:46,01
-          to: 00:00:52,04
-          text: ''
+          from: "00:00:46,01"
+          to: "00:00:52,04"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:52,04
-          to: 00:00:56,15
-          text: You were still proud of contributing so much.
+          from: "00:00:52,04"
+          to: "00:00:56,15"
+          text: "You were still proud of contributing so much."
         sequence-10:
           s: 10
-          from: 00:00:56,15
-          to: 00:00:59,11
-          text: At least something.
+          from: "00:00:56,15"
+          to: "00:00:59,11"
+          text: "At least something."
         sequence-11:
           s: 11
-          from: 00:00:59,11
-          to: 00:01:07,24
-          text: ''
+          from: "00:00:59,11"
+          to: "00:01:07,24"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:07,24
-          to: 00:01:11,25
-          text: 'They said anyway, back then in Ludmannsdorf:'
+          from: "00:01:07,24"
+          to: "00:01:11,25"
+          text: "They said anyway, back then in Ludmannsdorf:"
         sequence-13:
           s: 13
-          from: 00:01:11,25
-          to: 00:01:17,22
+          from: "00:01:11,25"
+          to: "00:01:17,22"
           text: "“Lock these pests up, then we will have peace in Ludmannsdorf.”"
         sequence-14:
           s: 14
-          from: 00:01:17,22
-          to: 00:01:22,27
-          text: These brats – like me – they were supposed to be locked away to have
-            peace in Ludmannsdorf.
+          from: "00:01:17,22"
+          to: "00:01:22,27"
+          text: "These brats – like me – they were supposed to be locked away to have peace in Ludmannsdorf."
         sequence-15:
           s: 15
-          from: 00:01:22,27
-          to: 00:01:32,12
-          text: Many thought something, or guessed something, but nobody exactly knew
-            about the Nazis.
+          from: "00:01:22,27"
+          to: "00:01:32,12"
+          text: "Many thought something, or guessed something, but nobody exactly knew about the Nazis."
         sequence-16:
           s: 16
-          from: 00:01:32,12
-          to: 00:01:40,06
-          text: As soon as the partisans came into the village and carried out an
-            action,
+          from: "00:01:32,12"
+          to: "00:01:40,06"
+          text: "As soon as the partisans came into the village and carried out an action,"
         sequence-17:
           s: 17
-          from: 00:01:40,06
-          to: 00:01:46,02
-          text: somebody must have smoothed the way for them to come.
+          from: "00:01:40,06"
+          to: "00:01:46,02"
+          text: "somebody must have smoothed the way for them to come."

@@ -1,169 +1,156 @@
----
 pl:
   giacomina-castagnetti:
     chapter-2:
       c: 2
-      title: Sharecropping family; Womens conditions
+      title: "Sharecropping family; Womens conditions"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,12
-          to: 00:00:07,05
-          text: I have always remembered the fact that when the landlord arrived in
-            the courtyard,
+          from: "00:00:00,12"
+          to: "00:00:07,05"
+          text: "I have always remembered the fact that when the landlord arrived in the courtyard,"
         sequence-2:
           s: 2
-          from: 00:00:07,05
-          to: 00:00:13,15
-          text: my mother told us younger children to go inside.
+          from: "00:00:07,05"
+          to: "00:00:13,15"
+          text: "my mother told us younger children to go inside."
         sequence-3:
           s: 3
-          from: 00:00:13,15
-          to: 00:00:29,23
-          text: I was really curious to see the landlord woman, all dressed up and
-            carrying a small sunshade.
+          from: "00:00:13,15"
+          to: "00:00:29,23"
+          text: "I was really curious to see the landlord woman, all dressed up and carrying a small sunshade."
         sequence-4:
           s: 4
-          from: 00:00:29,23
-          to: 00:00:35,08
-          text: She was the countess Carbonieri of Parma.
+          from: "00:00:29,23"
+          to: "00:00:35,08"
+          text: "She was the countess Carbonieri of Parma."
         sequence-5:
           s: 5
-          from: 00:00:35,08
-          to: 00:00:41,00
-          text: Later I understood why we had to go inside.
+          from: "00:00:35,08"
+          to: "00:00:41,00"
+          text: "Later I understood why we had to go inside."
         sequence-6:
           s: 6
-          from: 00:00:41,00
-          to: 00:00:50,17
-          text: My mother didn’t want the landlord to see us kids who could not work
-            yet.
+          from: "00:00:41,00"
+          to: "00:00:50,17"
+          text: "My mother didn’t want the landlord to see us kids who could not work yet."
         sequence-7:
           s: 7
-          from: 00:00:50,17
-          to: 00:01:02,17
-          text: She didn’t want her to count how many cups of milk she would take
-            out every morning to feed us.
+          from: "00:00:50,17"
+          to: "00:01:02,17"
+          text: "She didn’t want her to count how many cups of milk she would take out every morning to feed us."
         sequence-8:
           s: 8
-          from: 00:01:02,17
-          to: 00:01:14,00
-          text: In the sharecropping contract, if four of us kids were not working,
-            we were only more mouths to feed.
+          from: "00:01:02,17"
+          to: "00:01:14,00"
+          text: "In the sharecropping contract, if four of us kids were not working, we were only more mouths to feed."
         sequence-9:
           s: 9
-          from: 00:01:14,00
-          to: 00:01:16,00
-          text: ''
+          from: "00:01:14,00"
+          to: "00:01:16,00"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:01:16,00
-          to: 00:01:20,00
-          text: My school only went up to the third grade.
+          from: "00:01:16,00"
+          to: "00:01:20,00"
+          text: "My school only went up to the third grade."
         sequence-11:
           s: 11
-          from: 00:01:20,00
-          to: 00:01:25,23
-          text: In order to do the remaining two years one had to go further away.
+          from: "00:01:20,00"
+          to: "00:01:25,23"
+          text: "In order to do the remaining two years one had to go further away."
         sequence-12:
           s: 12
-          from: 00:01:25,23
-          to: 00:01:37,12
-          text: This would have meant adding three more kilometres to the three I
-            was already doing.
+          from: "00:01:25,23"
+          to: "00:01:37,12"
+          text: "This would have meant adding three more kilometres to the three I was already doing."
         sequence-13:
           s: 13
-          from: 00:01:37,12
-          to: 00:01:43,14
-          text: It wouldn’t have been the biggest problem though.
+          from: "00:01:37,12"
+          to: "00:01:43,14"
+          text: "It wouldn’t have been the biggest problem though."
         sequence-14:
           s: 14
-          from: 00:01:43,14
-          to: 00:02:05,01
-          text: Most families thought that if they were to make sacrifices it had
-            to be for the boys, not for the girls.
+          from: "00:01:43,14"
+          to: "00:02:05,01"
+          text: "Most families thought that if they were to make sacrifices it had to be for the boys, not for the girls."
         sequence-15:
           s: 15
-          from: 00:02:05,01
-          to: 00:02:10,18
-          text: It was customary, so I didn’t even think about it.
+          from: "00:02:05,01"
+          to: "00:02:10,18"
+          text: "It was customary, so I didn’t even think about it."
         sequence-16:
           s: 16
-          from: 00:02:10,18
-          to: 00:02:23,01
-          text: After I had finished the third grade I was supposed to stay at home,
-            as there was no money for me to continue.
+          from: "00:02:10,18"
+          to: "00:02:23,01"
+          text: "After I had finished the third grade I was supposed to stay at home, as there was no money for me to continue."
         sequence-17:
           s: 17
-          from: 00:02:23,01
-          to: 00:02:25,26
-          text: It was something we were
+          from: "00:02:23,01"
+          to: "00:02:25,26"
+          text: "It was something we were"
         sequence-18:
           s: 18
-          from: 00:02:25,26
-          to: 00:02:28,06
-          text: ''
+          from: "00:02:25,26"
+          to: "00:02:28,06"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:02:28,06
-          to: 00:02:33,15
-          text: used to hear and also understand.
+          from: "00:02:28,06"
+          to: "00:02:33,15"
+          text: "used to hear and also understand."
         sequence-20:
           s: 20
-          from: 00:02:33,15
-          to: 00:02:39,12
-          text: Traditionally, as you got married,
+          from: "00:02:33,15"
+          to: "00:02:39,12"
+          text: "Traditionally, as you got married,"
         sequence-21:
           s: 21
-          from: 00:02:39,12
-          to: 00:02:50,06
-          text: you would have to carry what you learned as a woman at home into a
-            new house, in a new family.
+          from: "00:02:39,12"
+          to: "00:02:50,06"
+          text: "you would have to carry what you learned as a woman at home into a new house, in a new family."
         sequence-22:
           s: 22
-          from: 00:02:50,06
-          to: 00:02:58,08
-          text: However, all you were supposed to do was to be a good wife in your
-            new life,
+          from: "00:02:50,06"
+          to: "00:02:58,08"
+          text: "However, all you were supposed to do was to be a good wife in your new life,"
         sequence-23:
           s: 23
-          from: 00:02:58,08
-          to: 00:03:06,21
-          text: know how to mend your husband’s pants and how to make socks for him.
+          from: "00:02:58,08"
+          to: "00:03:06,21"
+          text: "know how to mend your husband’s pants and how to make socks for him."
         sequence-24:
           s: 24
-          from: 00:03:06,21
-          to: 00:03:14,08
-          text: That was the current opinion at the time.
+          from: "00:03:06,21"
+          to: "00:03:14,08"
+          text: "That was the current opinion at the time."
         sequence-25:
           s: 25
-          from: 00:03:14,08
-          to: 00:03:15,07
-          text: ''
+          from: "00:03:14,08"
+          to: "00:03:15,07"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:03:15,07
-          to: 00:03:19,15
-          text: As I finished school I started to work in the fields.
+          from: "00:03:15,07"
+          to: "00:03:19,15"
+          text: "As I finished school I started to work in the fields."
         sequence-27:
           s: 27
-          from: 00:03:19,15
-          to: 00:03:28,06
-          text: In the winter, when it was snowing, I would go to the nuns to learn
-            how to sew and patch.
+          from: "00:03:19,15"
+          to: "00:03:28,06"
+          text: "In the winter, when it was snowing, I would go to the nuns to learn how to sew and patch."
         sequence-28:
           s: 28
-          from: 00:03:28,06
-          to: 00:03:35,02
-          text: 'They wouldn’t teach us embroidering: that was something for the children
-            of the wealthy.'
+          from: "00:03:28,06"
+          to: "00:03:35,02"
+          text: "They wouldn’t teach us embroidering: that was something for the children of the wealthy."
         sequence-29:
           s: 29
-          from: 00:03:35,02
-          to: 00:03:42,06
-          text: We simply learned to darn clothes, to put patches on the knees
+          from: "00:03:35,02"
+          to: "00:03:42,06"
+          text: "We simply learned to darn clothes, to put patches on the knees"
         sequence-30:
           s: 30
-          from: 00:03:42,06
-          to: 00:03:45,00
-          text: or on the bottom of the trousers, and so on.
+          from: "00:03:42,06"
+          to: "00:03:45,00"
+          text: "or on the bottom of the trousers, and so on."

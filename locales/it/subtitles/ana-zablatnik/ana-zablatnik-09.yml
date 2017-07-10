@@ -1,80 +1,76 @@
----
 it:
   ana-zablatnik:
     chapter-9:
       c: 9
-      title: Immediately after the war
+      title: "Immediately after the war"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,22
-          to: 00:00:09,09
-          text: Well, after the war the partisans came to Ludmannsdorf on the 10th
-            May
+          from: "00:00:00,22"
+          to: "00:00:09,09"
+          text: "Well, after the war the partisans came to Ludmannsdorf on the 10th May"
         sequence-2:
           s: 2
-          from: 00:00:09,09
-          to: 00:00:17,14
-          text: after they had been in Klagenfurt and everywhere before.
+          from: "00:00:09,09"
+          to: "00:00:17,14"
+          text: "after they had been in Klagenfurt and everywhere before."
         sequence-3:
           s: 3
-          from: 00:00:17,14
-          to: 00:00:28,07
-          text: They billeted at Boris’, where the police, the constabulary had been,
+          from: "00:00:17,14"
+          to: "00:00:28,07"
+          text: "They billeted at Boris’, where the police, the constabulary had been,"
         sequence-4:
           s: 4
-          from: 00:00:28,07
-          to: 00:00:30,00
-          text: ''
+          from: "00:00:28,07"
+          to: "00:00:30,00"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:30,00
-          to: 00:00:36,18
-          text: and we got the order to provide some food.
+          from: "00:00:30,00"
+          to: "00:00:36,18"
+          text: "and we got the order to provide some food."
         sequence-6:
           s: 6
-          from: 00:00:36,18
-          to: 00:00:40,17
-          text: All of a sudden there was enough food there.
+          from: "00:00:36,18"
+          to: "00:00:40,17"
+          text: "All of a sudden there was enough food there."
         sequence-7:
           s: 7
-          from: 00:00:40,17
-          to: 00:00:49,01
-          text: One had brought a piglet, another one brought five hens, another one
-            brought bread, eggs…
+          from: "00:00:40,17"
+          to: "00:00:49,01"
+          text: "One had brought a piglet, another one brought five hens, another one brought bread, eggs…"
         sequence-8:
           s: 8
-          from: 00:00:49,01
-          to: 00:00:52,17
-          text: We did not know where to leave it all in the end.
+          from: "00:00:49,01"
+          to: "00:00:52,17"
+          text: "We did not know where to leave it all in the end."
         sequence-9:
           s: 9
-          from: 00:00:52,17
-          to: 00:00:56,00
-          text: ''
+          from: "00:00:52,17"
+          to: "00:00:56,00"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:56,00
-          to: 00:01:00,22
-          text: 'Afterwards everybody said: ‘It’s good that we are all Slovenians.’'
+          from: "00:00:56,00"
+          to: "00:01:00,22"
+          text: "Afterwards everybody said: ‘It’s good that we are all Slovenians.’"
         sequence-11:
           s: 11
-          from: 00:01:00,22
-          to: 00:01:04,29
-          text: But there were several people which only said they were Slovenians,
+          from: "00:01:00,22"
+          to: "00:01:04,29"
+          text: "But there were several people which only said they were Slovenians,"
         sequence-12:
           s: 12
-          from: 00:01:04,29
-          to: 00:01:09,28
-          text: for they were worried the partisans would do something to them otherwise.
+          from: "00:01:04,29"
+          to: "00:01:09,28"
+          text: "for they were worried the partisans would do something to them otherwise."
         sequence-13:
           s: 13
-          from: 00:01:09,28
-          to: 00:01:23,25
-          text: On the 20th came the order for the partisans to leave and retreat
-            across the border.
+          from: "00:01:09,28"
+          to: "00:01:23,25"
+          text: "On the 20th came the order for the partisans to leave and retreat across the border."
         sequence-14:
           s: 14
-          from: 00:01:23,25
-          to: 00:01:36,05
-          text: That was bad luck for us because we lost our support.
+          from: "00:01:23,25"
+          to: "00:01:36,05"
+          text: "That was bad luck for us because we lost our support."

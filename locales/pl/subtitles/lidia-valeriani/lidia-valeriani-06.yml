@@ -1,298 +1,281 @@
----
 pl:
   lidia-valeriani:
     chapter-6:
       c: 6
-      title: Strike on the 1st of March 1944
+      title: ~
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,19
-          to: 00:00:03,20
-          text: Then we organized the strike on 1st of March.
+          from: "00:00:00,19"
+          to: "00:00:03,20"
+          text: ~
         sequence-2:
           s: 2
-          from: 00:00:03,20
-          to: 00:00:06,25
-          text: There had already been some in other places.
+          from: "00:00:03,20"
+          to: "00:00:06,25"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:06,25
-          to: 00:00:12,14
-          text: I was a member of the committee who prepared the strike,
+          from: "00:00:06,25"
+          to: "00:00:12,14"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:12,14
-          to: 00:00:17,25
-          text: we got together quite a few times,
+          from: "00:00:12,14"
+          to: "00:00:17,25"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:17,25
-          to: 00:00:21,16
-          text: the last meeting was at my house.
+          from: "00:00:17,25"
+          to: "00:00:21,16"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:21,16
-          to: 00:00:22,17
-          text: ''
+          from: "00:00:21,16"
+          to: "00:00:22,17"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:22,17
-          to: 00:00:28,24
-          text: My father agreed, so we had the meeting and assigned the tasks.
+          from: "00:00:22,17"
+          to: "00:00:28,24"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:28,24
-          to: 00:00:41,21
-          text: Alberta and I got together early in the morning (we had already handed
-            out all the leaflets)
+          from: "00:00:28,24"
+          to: "00:00:41,21"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:41,21
-          to: 00:00:49,21
-          text: and went to Montecavolo, stopping by all the farmers’ homes who were
-            milking the cows,
+          from: "00:00:41,21"
+          to: "00:00:49,21"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:49,21
-          to: 00:00:57,25
-          text: and telling them “remember that there’s a strike later, after you
-            take the milk to the dairy, join in”.
+          from: "00:00:49,21"
+          to: "00:00:57,25"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:57,25
-          to: 00:01:00,21
-          text: "“Alright, yes, we’ll be there”, they replied."
+          from: "00:00:57,25"
+          to: "00:01:00,21"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:00,21
-          to: 00:01:04,22
-          text: And we gathered together. The strike went well.
+          from: "00:01:00,21"
+          to: "00:01:04,22"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:01:04,22
-          to: 00:01:15,18
-          text: The farmers (in Montecavolo there were mostly farmers) and some factory
-            workers, went on strike,
+          from: "00:01:04,22"
+          to: "00:01:15,18"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:15,18
-          to: 00:01:19,08
-          text: so the strike in Montecavolo was a success.
+          from: "00:01:15,18"
+          to: "00:01:19,08"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:19,08
-          to: 00:01:20,06
-          text: ''
+          from: "00:01:19,08"
+          to: "00:01:20,06"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:20,06
-          to: 00:01:32,09
-          text: The strike was against the war, against all the things they were doing
-            to us, against hunger too.
+          from: "00:01:20,06"
+          to: "00:01:32,09"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:32,09
-          to: 00:01:35,19
-          text: They were taking everything from us, we pooled wheat.
+          from: "00:01:32,09"
+          to: "00:01:35,19"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:01:35,19
-          to: 00:01:47,20
-          text: Farmers had to bring wine, grapes, everything, they were taking everything.
+          from: "00:01:35,19"
+          to: "00:01:47,20"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:47,20
-          to: 00:01:55,12
-          text: That’s why afterwards there were even some casualties
+          from: "00:01:47,20"
+          to: "00:01:55,12"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:01:55,12
-          to: 00:02:02,21
-          text: when we went to these stockpiles to take back all the stuff they had
-            taken from us.
+          from: "00:01:55,12"
+          to: "00:02:02,21"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:02:02,21
-          to: 00:02:03,15
-          text: ''
+          from: "00:02:02,21"
+          to: "00:02:03,15"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:02:03,15
-          to: 00:02:08,23
-          text: 'My father told me that morning of the 1st of March:'
+          from: "00:02:03,15"
+          to: "00:02:08,23"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:02:08,23
-          to: 00:02:12,21
-          text: "“Lidia, you’re doing the right thing because it’s important,"
+          from: "00:02:08,23"
+          to: "00:02:12,21"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:02:12,21
-          to: 00:02:17,16
-          text: but you must remember that your life is going to change after this”.
+          from: "00:02:12,21"
+          to: "00:02:17,16"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:02:17,16
-          to: 00:02:21,13
-          text: I wasn’t thinking about this at 7 in the morning,
+          from: "00:02:17,16"
+          to: "00:02:21,13"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:02:21,13
-          to: 00:02:25,10
-          text: about my life being different at noon,
+          from: "00:02:21,13"
+          to: "00:02:25,10"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:02:25,10
-          to: 00:02:32,01
-          text: but my life did change, I felt more responsible… I felt like this
-            even before,
+          from: "00:02:25,10"
+          to: "00:02:32,01"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:02:32,01
-          to: 00:02:39,17
-          text: I had been responsible in all the things I had done.
+          from: "00:02:32,01"
+          to: "00:02:39,17"
+          text: ~
         sequence-29:
           s: 29
-          from: 00:02:39,17
-          to: 00:02:49,19
-          text: But after this it was different, responsibilities were different,
-            and everything changed.
+          from: "00:02:39,17"
+          to: "00:02:49,19"
+          text: ~
         sequence-30:
           s: 30
-          from: 00:02:49,19
-          to: 00:02:59,13
-          text: I was still Lidia, but let’s say I had a very positive experience
+          from: "00:02:49,19"
+          to: "00:02:59,13"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:02:59,13
-          to: 00:03:00,21
-          text: ''
+          from: "00:02:59,13"
+          to: "00:03:00,21"
+          text: ~
         sequence-32:
           s: 32
-          from: 00:03:00,21
-          to: 00:03:06,03
-          text: and I also felt proud for doing this.
+          from: "00:03:00,21"
+          to: "00:03:06,03"
+          text: ~
         sequence-33:
           s: 33
-          from: 00:03:06,03
-          to: 00:03:06,22
-          text: ''
+          from: "00:03:06,03"
+          to: "00:03:06,22"
+          text: ~
         sequence-34:
           s: 34
-          from: 00:03:06,22
-          to: 00:03:18,25
-          text: A bus was coming down from San Polo and we stopped it, telling them
-            there was a strike, that they had to go back.
+          from: "00:03:06,22"
+          to: "00:03:18,25"
+          text: ~
         sequence-35:
           s: 35
-          from: 00:03:18,25
-          to: 00:03:20,05
-          text: ''
+          from: "00:03:18,25"
+          to: "00:03:20,05"
+          text: ~
         sequence-36:
           s: 36
-          from: 00:03:20,05
-          to: 00:03:25,21
-          text: 'Some soldiers were on the bus, we got them off and disarmed them:'
+          from: "00:03:20,05"
+          to: "00:03:25,21"
+          text: ~
         sequence-37:
           s: 37
-          from: 00:03:25,21
-          to: 00:03:34,13
-          text: they gave us their weapons without resisting and didn’t get back on
-            the bus.
+          from: "00:03:25,21"
+          to: "00:03:34,13"
+          text: ~
         sequence-38:
           s: 38
-          from: 00:03:34,13
-          to: 00:03:39,07
-          text: They began to walk, maybe they were heading home.
+          from: "00:03:34,13"
+          to: "00:03:39,07"
+          text: ~
         sequence-39:
           s: 39
-          from: 00:03:39,07
-          to: 00:03:41,04
-          text: ''
+          from: "00:03:39,07"
+          to: "00:03:41,04"
+          text: ~
         sequence-40:
           s: 40
-          from: 00:03:41,04
-          to: 00:03:44,18
-          text: This didn’t cause any trouble.
+          from: "00:03:41,04"
+          to: "00:03:44,18"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:03:44,18
-          to: 00:03:56,17
-          text: Then a fascist who had been evacuated to Montecavolo came out of a
-            house
+          from: "00:03:44,18"
+          to: "00:03:56,17"
+          text: ~
         sequence-42:
           s: 42
-          from: 00:03:56,17
-          to: 00:04:06,29
-          text: "(we were in the main road, by the square, with the strike, our posters,
-            etc.)"
+          from: "00:03:56,17"
+          to: "00:04:06,29"
+          text: ~
         sequence-43:
           s: 43
-          from: 00:04:06,29
-          to: 00:04:08,01
-          text: ''
+          from: "00:04:06,29"
+          to: "00:04:08,01"
+          text: ~
         sequence-44:
           s: 44
-          from: 00:04:08,01
-          to: 00:04:15,29
-          text: He started shooting with a machine-gun, into the air at first.
+          from: "00:04:08,01"
+          to: "00:04:15,29"
+          text: ~
         sequence-45:
           s: 45
-          from: 00:04:15,29
-          to: 00:04:21,23
-          text: I think he also had a gun.
+          from: "00:04:15,29"
+          to: "00:04:21,23"
+          text: ~
         sequence-46:
           s: 46
-          from: 00:04:21,23
-          to: 00:04:24,16
-          text: ''
+          from: "00:04:21,23"
+          to: "00:04:24,16"
+          text: ~
         sequence-47:
           s: 47
-          from: 00:04:24,16
-          to: 00:04:32,11
-          text: Many of us ran after him. We finally caught him and disarmed him.
+          from: "00:04:24,16"
+          to: "00:04:32,11"
+          text: ~
         sequence-48:
           s: 48
-          from: 00:04:32,11
-          to: 00:04:35,17
-          text: ''
+          from: "00:04:32,11"
+          to: "00:04:35,17"
+          text: ~
         sequence-49:
           s: 49
-          from: 00:04:35,17
-          to: 00:04:58,01
-          text: We didn’t really hurt him, let’s say that nobody did anything that
-            would have got him killed.
+          from: "00:04:35,17"
+          to: "00:04:58,01"
+          text: ~
         sequence-50:
           s: 50
-          from: 00:04:58,01
-          to: 00:05:07,05
-          text: Somebody might have kicked him, but everything was ok.
+          from: "00:04:58,01"
+          to: "00:05:07,05"
+          text: ~
         sequence-51:
           s: 51
-          from: 00:05:07,05
-          to: 00:05:20,25
-          text: The strike was over, we kept the weapons and sent them to the mountains
-            and broke up the strike.
+          from: "00:05:07,05"
+          to: "00:05:20,25"
+          text: ~
         sequence-52:
           s: 52
-          from: 00:05:20,25
-          to: 00:05:22,03
-          text: ''
+          from: "00:05:20,25"
+          to: "00:05:22,03"
+          text: ~
         sequence-53:
           s: 53
-          from: 00:05:22,03
-          to: 00:05:31,05
-          text: In noon, in Montecavolo there was already a curfew, people couldn’t
-            go out of their homes.
+          from: "00:05:22,03"
+          to: "00:05:31,05"
+          text: ~
         sequence-54:
           s: 54
-          from: 00:05:31,05
-          to: 00:05:34,23
-          text: We were already at home,
+          from: "00:05:31,05"
+          to: "00:05:34,23"
+          text: ~
         sequence-55:
           s: 55
-          from: 00:05:34,23
-          to: 00:05:45,25
-          text: since we were on our bicycles, and there were about 3 or 4 km between
-            Montecavolo and Scampate.
+          from: "00:05:34,23"
+          to: "00:05:45,25"
+          text: ~

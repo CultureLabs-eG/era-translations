@@ -1,74 +1,66 @@
----
 de:
   giacomo-notari:
     chapter-13:
       c: 13
-      title: Personal message
+      title: "Personal message"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,26
-          to: 00:00:04,02
-          text: I also want to add that what we did
+          from: "00:00:00,26"
+          to: "00:00:04,02"
+          text: "I also want to add that what we did"
         sequence-2:
           s: 2
-          from: 00:00:04,02
-          to: 00:00:12,27
-          text: get our country to move forward in all these years, everyone can see
-            it.
+          from: "00:00:04,02"
+          to: "00:00:12,27"
+          text: "get our country to move forward in all these years, everyone can see it."
         sequence-3:
           s: 3
-          from: 00:00:12,27
-          to: 00:00:20,18
-          text: Now I’m worried, I would be sad if this heritage were to be lost,
+          from: "00:00:12,27"
+          to: "00:00:20,18"
+          text: "Now I’m worried, I would be sad if this heritage were to be lost,"
         sequence-4:
           s: 4
-          from: 00:00:20,18
-          to: 00:00:29,14
-          text: if the country didn’t preserve the values of our liberation struggle.
+          from: "00:00:20,18"
+          to: "00:00:29,14"
+          text: "if the country didn’t preserve the values of our liberation struggle."
         sequence-5:
           s: 5
-          from: 00:00:29,14
-          to: 00:00:37,11
-          text: Especially looking back to the 600 partisans we lost, who were killed
-            during the liberation war,
+          from: "00:00:29,14"
+          to: "00:00:37,11"
+          text: "Especially looking back to the 600 partisans we lost, who were killed during the liberation war,"
         sequence-6:
           s: 6
-          from: 00:00:37,11
-          to: 00:00:45,07
-          text: and not so much for us - but for our youth.
+          from: "00:00:37,11"
+          to: "00:00:45,07"
+          text: "and not so much for us - but for our youth."
         sequence-7:
           s: 7
-          from: 00:00:45,07
-          to: 00:00:54,29
-          text: We need to pass on our memories to keep this alive, in order to move
-            forward,
+          from: "00:00:45,07"
+          to: "00:00:54,29"
+          text: "We need to pass on our memories to keep this alive, in order to move forward,"
         sequence-8:
           s: 8
-          from: 00:00:54,29
-          to: 00:00:58,13
-          text: that’s what the country needs.
+          from: "00:00:54,29"
+          to: "00:00:58,13"
+          text: "that’s what the country needs."
         sequence-9:
           s: 9
-          from: 00:00:58,13
-          to: 00:01:07,29
-          text: Because after all we did, all our efforts, we still have subversive
-            forces in Rome,
+          from: "00:00:58,13"
+          to: "00:01:07,29"
+          text: "Because after all we did, all our efforts, we still have subversive forces in Rome,"
         sequence-10:
           s: 10
-          from: 00:01:07,29
-          to: 00:01:15,20
-          text: we have Alessandra Mussolini, Fini, Berlusconi and Bossi, we don't
-            support these reactionary people.
+          from: "00:01:07,29"
+          to: "00:01:15,20"
+          text: "we have Alessandra Mussolini, Fini, Berlusconi and Bossi, we don't support these reactionary people."
         sequence-11:
           s: 11
-          from: 00:01:15,20
-          to: 00:01:20,22
-          text: That’s why we want to tell our youth that in these times we must fight
-            together,
+          from: "00:01:15,20"
+          to: "00:01:20,22"
+          text: "That’s why we want to tell our youth that in these times we must fight together,"
         sequence-12:
           s: 12
-          from: 00:01:20,22
-          to: 00:01:28,02
-          text: and as much as we can, although it will never be enough, we’re here
-            for them.
+          from: "00:01:20,22"
+          to: "00:01:28,02"
+          text: "and as much as we can, although it will never be enough, we’re here for them."

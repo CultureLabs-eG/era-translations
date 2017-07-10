@@ -1,53 +1,51 @@
----
 pl:
   stefania-dambrowska:
     chapter-1:
       c: 1
-      title: Introduction, parents
+      title: ~
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,14
-          to: 00:00:02,25
-          text: My name is Stefania Dąmbrowska.
+          from: "00:00:00,14"
+          to: "00:00:02,25"
+          text: ~
         sequence-2:
           s: 2
-          from: 00:00:02,25
-          to: 00:00:12,29
-          text: I do not like my name, I am Stenia Dąmbrowska, formally Stefania,
-            my nick name is Stenia.
+          from: "00:00:02,25"
+          to: "00:00:12,29"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:12,29
-          to: 00:00:26,24
-          text: I was born on 12th October 1916 in Petersburg.
+          from: "00:00:12,29"
+          to: "00:00:26,24"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:26,24
-          to: 00:00:33,15
-          text: My father was a military man, Bohdan.
+          from: "00:00:26,24"
+          to: "00:00:33,15"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:33,15
-          to: 00:00:39,14
-          text: At that time in Russia, he was a cavalry captain I guess.
+          from: "00:00:33,15"
+          to: "00:00:39,14"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:39,14
-          to: 00:00:42,13
-          text: My mother, her maiden name was Kościałkowska,
+          from: "00:00:39,14"
+          to: "00:00:42,13"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:42,13
-          to: 00:00:46,26
-          text: was just next to her husband.
+          from: "00:00:42,13"
+          to: "00:00:46,26"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:46,26
-          to: 00:00:50,10
-          text: At that time already it was already custom that some women worked.
+          from: "00:00:46,26"
+          to: "00:00:50,10"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:50,10
-          to: 00:00:57,00
-          text: And my mum worked in some office called `Prodamed`.
+          from: "00:00:50,10"
+          to: "00:00:57,00"
+          text: ~

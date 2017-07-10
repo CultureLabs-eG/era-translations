@@ -1,98 +1,91 @@
----
 de:
   pierino-beggi:
     chapter-8:
       c: 8
-      title: 'Fossoli: Russian prisoners liberated'
+      title: "Fossoli: Russian prisoners liberated"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,02
-          to: 00:00:11,13
-          text: The Germans had taken 250-300 Russian prisoners to a camp in Fossoli.
+          from: "00:00:01,02"
+          to: "00:00:11,13"
+          text: "The Germans had taken 250-300 Russian prisoners to a camp in Fossoli."
         sequence-2:
           s: 2
-          from: 00:00:11,13
-          to: 00:00:13,04
-          text: ''
+          from: "00:00:11,13"
+          to: "00:00:13,04"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:13,04
-          to: 00:00:17,06
-          text: Together with the GAPs and the partisans from Modena
+          from: "00:00:13,04"
+          to: "00:00:17,06"
+          text: "Together with the GAPs and the partisans from Modena"
         sequence-4:
           s: 4
-          from: 00:00:17,06
-          to: 00:00:23,17
-          text: we surrounded the camp and took all the Russians to the mountains.
+          from: "00:00:17,06"
+          to: "00:00:23,17"
+          text: "we surrounded the camp and took all the Russians to the mountains."
         sequence-5:
           s: 5
-          from: 00:00:23,17
-          to: 00:00:30,10
-          text: The central headquarters then took care of the rest, talking with
-            the three Russian officers.
+          from: "00:00:23,17"
+          to: "00:00:30,10"
+          text: "The central headquarters then took care of the rest, talking with the three Russian officers."
         sequence-6:
           s: 6
-          from: 00:00:30,10
-          to: 00:00:34,23
-          text: One of them later became a partisan choosing Modena as his battle
-            name.
+          from: "00:00:30,10"
+          to: "00:00:34,23"
+          text: "One of them later became a partisan choosing Modena as his battle name."
         sequence-7:
           s: 7
-          from: 00:00:34,23
-          to: 00:00:42,21
-          text: Afterwards we had a major problem in the lowlands around Reggio.
+          from: "00:00:34,23"
+          to: "00:00:42,21"
+          text: "Afterwards we had a major problem in the lowlands around Reggio."
         sequence-8:
           s: 8
-          from: 00:00:42,21
-          to: 00:00:52,27
-          text: One of the Russians we had taken to the mountains escaped and joined
-            the Black Brigades.
+          from: "00:00:42,21"
+          to: "00:00:52,27"
+          text: "One of the Russians we had taken to the mountains escaped and joined the Black Brigades."
         sequence-9:
           s: 9
-          from: 00:00:52,27
-          to: 00:00:54,14
-          text: ''
+          from: "00:00:52,27"
+          to: "00:00:54,14"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:54,14
-          to: 00:01:09,15
-          text: He knew the lowlands, since he had spent some time working in some
-            houses there.
+          from: "00:00:54,14"
+          to: "00:01:09,15"
+          text: "He knew the lowlands, since he had spent some time working in some houses there."
         sequence-11:
           s: 11
-          from: 00:01:09,15
-          to: 00:01:11,00
-          text: ''
+          from: "00:01:09,15"
+          to: "00:01:11,00"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:11,00
-          to: 00:01:19,16
-          text: He began to point out the houses to the Black Brigades, who set them
-            on fire.
+          from: "00:01:11,00"
+          to: "00:01:19,16"
+          text: "He began to point out the houses to the Black Brigades, who set them on fire."
         sequence-13:
           s: 13
-          from: 00:01:19,16
-          to: 00:01:21,16
-          text: ''
+          from: "00:01:19,16"
+          to: "00:01:21,16"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:21,16
-          to: 00:01:29,00
-          text: Since he would come to Reggio, two of our women dispatch riders convinced
-            him
+          from: "00:01:21,16"
+          to: "00:01:29,00"
+          text: "Since he would come to Reggio, two of our women dispatch riders convinced him"
         sequence-15:
           s: 15
-          from: 00:01:29,00
-          to: 00:01:34,08
-          text: to go out one night, promising him “a very good time”.
+          from: "00:01:29,00"
+          to: "00:01:34,08"
+          text: "to go out one night, promising him “a very good time”."
         sequence-16:
           s: 16
-          from: 00:01:34,08
-          to: 00:01:38,21
-          text: ''
+          from: "00:01:34,08"
+          to: "00:01:38,21"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:38,21
-          to: 00:01:42,22
-          text: 'To make it short: he was killed.'
+          from: "00:01:38,21"
+          to: "00:01:42,22"
+          text: "To make it short: he was killed."

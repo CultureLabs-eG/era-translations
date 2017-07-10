@@ -1,300 +1,281 @@
----
 fr:
   stanislaw-baranowski:
     chapter-2:
       c: 2
-      title: Helping soldiers, poor people and POW
+      title: "Helping soldiers, poor people and POW"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,08
-          to: 00:00:07,06
-          text: Just right after the war, after the capitulation in Warsaw, there
-            was chaos, starvation.
+          from: "00:00:00,08"
+          to: "00:00:07,06"
+          text: "Just right after the war, after the capitulation in Warsaw, there was chaos, starvation."
         sequence-2:
           s: 2
-          from: 00:00:07,06
-          to: 00:00:12,27
-          text: Committees called SKO were established. The Committee of Welfare.
+          from: "00:00:07,06"
+          to: "00:00:12,27"
+          text: "Committees called SKO were established. The Committee of Welfare."
         sequence-3:
           s: 3
-          from: 00:00:12,27
-          to: 00:00:19,26
-          text: We started our job there, our team of scouts.
+          from: "00:00:12,27"
+          to: "00:00:19,26"
+          text: "We started our job there, our team of scouts."
         sequence-4:
           s: 4
-          from: 00:00:19,26
-          to: 00:00:28,12
-          text: The reason for that was helping people, who found themselves in a
-            very difficult situation.
+          from: "00:00:19,26"
+          to: "00:00:28,12"
+          text: "The reason for that was helping people, who found themselves in a very difficult situation."
         sequence-5:
           s: 5
-          from: 00:00:28,12
-          to: 00:00:34,11
-          text: It means, starvation or something like that… Initially, there was
-            no help.
+          from: "00:00:28,12"
+          to: "00:00:34,11"
+          text: "It means, starvation or something like that… Initially, there was no help."
         sequence-6:
           s: 6
-          from: 00:00:34,11
-          to: 00:00:40,12
-          text: For cards people could buy only paraffin oil or household detergents.
-            There was nothing there.
+          from: "00:00:34,11"
+          to: "00:00:40,12"
+          text: "For cards people could buy only paraffin oil or household detergents. There was nothing there."
         sequence-7:
           s: 7
-          from: 00:00:40,12
-          to: 00:00:52,18
-          text: We helped those people. And I started my job there with Wanda Jaskólska.
+          from: "00:00:40,12"
+          to: "00:00:52,18"
+          text: "We helped those people. And I started my job there with Wanda Jaskólska."
         sequence-8:
           s: 8
-          from: 00:00:52,18
-          to: 00:00:53,24
-          text: ''
+          from: "00:00:52,18"
+          to: "00:00:53,24"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:53,24
-          to: 00:00:59,14
-          text: She was the French teacher at Jadwiga Queen (School).
+          from: "00:00:53,24"
+          to: "00:00:59,14"
+          text: "She was the French teacher at Jadwiga Queen (School)."
         sequence-10:
           s: 10
-          from: 00:00:59,14
-          to: 00:01:03,18
-          text: She was teaching French there.
+          from: "00:00:59,14"
+          to: "00:01:03,18"
+          text: "She was teaching French there."
         sequence-11:
           s: 11
-          from: 00:01:03,18
-          to: 00:01:05,00
-          text: ''
+          from: "00:01:03,18"
+          to: "00:01:05,00"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:05,00
-          to: 00:01:12,06
-          text: She was the manager of this SKO group, she was organizing everything.
+          from: "00:01:05,00"
+          to: "00:01:12,06"
+          text: "She was the manager of this SKO group, she was organizing everything."
         sequence-13:
           s: 13
-          from: 00:01:12,06
-          to: 00:01:13,09
-          text: ''
+          from: "00:01:12,06"
+          to: "00:01:13,09"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:13,09
-          to: 00:01:20,20
-          text: Later on, after a while, it turned into RGO.
+          from: "00:01:13,09"
+          to: "00:01:20,20"
+          text: "Later on, after a while, it turned into RGO."
         sequence-15:
           s: 15
-          from: 00:01:20,20
-          to: 00:01:21,00
-          text: ''
+          from: "00:01:20,20"
+          to: "00:01:21,00"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:21,00
-          to: 00:01:28,06
-          text: But it started later on, when the printing house started working in
-            Przemysłowa Street.
+          from: "00:01:21,00"
+          to: "00:01:28,06"
+          text: "But it started later on, when the printing house started working in Przemysłowa Street."
         sequence-17:
           s: 17
-          from: 00:01:28,06
-          to: 00:01:41,19
-          text: There was a big slip-up, exactly in 1942 in this printing house, they
-            were printing meinlowki and wolfartowski cards.
+          from: "00:01:28,06"
+          to: "00:01:41,19"
+          text: "There was a big slip-up, exactly in 1942 in this printing house, they were printing meinlowki and wolfartowski cards."
         sequence-18:
           s: 18
-          from: 00:01:41,19
-          to: 00:01:42,24
-          text: ''
+          from: "00:01:41,19"
+          to: "00:01:42,24"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:42,24
-          to: 00:01:47,21
-          text: Those were cards for Germans. Food ration coupons were there, too.
+          from: "00:01:42,24"
+          to: "00:01:47,21"
+          text: "Those were cards for Germans. Food ration coupons were there, too."
         sequence-20:
           s: 20
-          from: 00:01:47,21
-          to: 00:01:55,07
-          text: Germans had their own stores. There were two kinds of shops in Warsaw.
+          from: "00:01:47,21"
+          to: "00:01:55,07"
+          text: "Germans had their own stores. There were two kinds of shops in Warsaw."
         sequence-21:
           s: 21
-          from: 00:01:55,07
-          to: 00:02:01,06
-          text: Wolfart`s stores were with meat and Meinl`s stores were with food.
+          from: "00:01:55,07"
+          to: "00:02:01,06"
+          text: "Wolfart`s stores were with meat and Meinl`s stores were with food."
         sequence-22:
           s: 22
-          from: 00:02:01,06
-          to: 00:02:10,24
-          text: And we were using those false coupons and going to those shops.
+          from: "00:02:01,06"
+          to: "00:02:10,24"
+          text: "And we were using those false coupons and going to those shops."
         sequence-23:
           s: 23
-          from: 00:02:10,24
-          to: 00:02:31,09
-          text: It is hard to say from there the board of RGO took money for this
-            help.
+          from: "00:02:10,24"
+          to: "00:02:31,09"
+          text: "It is hard to say from there the board of RGO took money for this help."
         sequence-24:
           s: 24
-          from: 00:02:31,09
-          to: 00:02:33,17
-          text: But the help was impressive.
+          from: "00:02:31,09"
+          to: "00:02:33,17"
+          text: "But the help was impressive."
         sequence-25:
           s: 25
-          from: 00:02:33,17
-          to: 00:02:34,00
-          text: ''
+          from: "00:02:33,17"
+          to: "00:02:34,00"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:02:34,00
-          to: 00:02:41,01
-          text: I was just a typical, ordinary soldier, somehow a volunteer.
+          from: "00:02:34,00"
+          to: "00:02:41,01"
+          text: "I was just a typical, ordinary soldier, somehow a volunteer."
         sequence-27:
           s: 27
-          from: 00:02:41,01
-          to: 00:02:48,07
-          text: It is better to say I was a worker. All was done on your own initiative.
+          from: "00:02:41,01"
+          to: "00:02:48,07"
+          text: "It is better to say I was a worker. All was done on your own initiative."
         sequence-28:
           s: 28
-          from: 00:02:48,07
-          to: 00:02:53,05
-          text: And we began …
+          from: "00:02:48,07"
+          to: "00:02:53,05"
+          text: "And we began …"
         sequence-29:
           s: 29
-          from: 00:02:53,05
-          to: 00:02:57,04
-          text: At some moment Wanda, as it was her name,
+          from: "00:02:53,05"
+          to: "00:02:57,04"
+          text: "At some moment Wanda, as it was her name,"
         sequence-30:
           s: 30
-          from: 00:02:57,04
-          to: 00:03:05,19
-          text: 'said: we have to take care of this Ujazdowski Hospital.'
+          from: "00:02:57,04"
+          to: "00:03:05,19"
+          text: "said: we have to take care of this Ujazdowski Hospital."
         sequence-31:
           s: 31
-          from: 00:03:05,19
-          to: 00:03:28,15
-          text: Most officers taken to captivity came to this hospital.
+          from: "00:03:05,19"
+          to: "00:03:28,15"
+          text: "Most officers taken to captivity came to this hospital."
         sequence-32:
           s: 32
-          from: 00:03:28,15
-          to: 00:03:45,00
-          text: ''
+          from: "00:03:28,15"
+          to: "00:03:45,00"
+          text: ~
         sequence-33:
           s: 33
-          from: 00:03:45,00
-          to: 00:03:52,29
-          text: And she cooperated there with the Welfare Board and we started there.
+          from: "00:03:45,00"
+          to: "00:03:52,29"
+          text: "And she cooperated there with the Welfare Board and we started there."
         sequence-34:
           s: 34
-          from: 00:03:52,29
-          to: 00:04:07,29
-          text: We helped there, finding food, clothes and started organizing escapes
-            of our officers from this hospital.
+          from: "00:03:52,29"
+          to: "00:04:07,29"
+          text: "We helped there, finding food, clothes and started organizing escapes of our officers from this hospital."
         sequence-35:
           s: 35
-          from: 00:04:07,29
-          to: 00:04:15,23
-          text: Germans were guarding them, because they were treated as prisoners
-            of war.
+          from: "00:04:07,29"
+          to: "00:04:15,23"
+          text: "Germans were guarding them, because they were treated as prisoners of war."
         sequence-36:
           s: 36
-          from: 00:04:15,23
-          to: 00:04:18,13
-          text: That is how we can call those officers – prisoners of war.
+          from: "00:04:15,23"
+          to: "00:04:18,13"
+          text: "That is how we can call those officers – prisoners of war."
         sequence-37:
           s: 37
-          from: 00:04:18,13
-          to: 00:04:31,09
-          text: And as I knew this land because I came from this area. I used to live
-            in Czerniakowska Street and then in Hołówki Street,
+          from: "00:04:18,13"
+          to: "00:04:31,09"
+          text: "And as I knew this land because I came from this area. I used to live in Czerniakowska Street and then in Hołówki Street,"
         sequence-38:
           s: 38
-          from: 00:04:31,09
-          to: 00:04:39,16
-          text: and this park, Agrykola, that is how we call it nowadays, I knew it
-            as well as my own pocket.
+          from: "00:04:31,09"
+          to: "00:04:39,16"
+          text: "and this park, Agrykola, that is how we call it nowadays, I knew it as well as my own pocket."
         sequence-39:
           s: 39
-          from: 00:04:39,16
-          to: 00:04:48,01
-          text: And barracks were connected with this park Agrykola.
+          from: "00:04:39,16"
+          to: "00:04:48,01"
+          text: "And barracks were connected with this park Agrykola."
         sequence-40:
           s: 40
-          from: 00:04:48,01
-          to: 00:04:50,10
-          text: ''
+          from: "00:04:48,01"
+          to: "00:04:50,10"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:04:50,10
-          to: 00:05:00,27
-          text: Then we started organizing, apart from financial assistance, also
-            clothes, food, escapes.
+          from: "00:04:50,10"
+          to: "00:05:00,27"
+          text: "Then we started organizing, apart from financial assistance, also clothes, food, escapes."
         sequence-42:
           s: 42
-          from: 00:05:00,27
-          to: 00:05:05,03
-          text: ''
+          from: "00:05:00,27"
+          to: "00:05:05,03"
+          text: ~
         sequence-43:
           s: 43
-          from: 00:05:05,03
-          to: 00:05:14,24
-          text: But after the first escape we helped with, the Germans realized that
-            somebody was missing, from then on strong repressions started.
+          from: "00:05:05,03"
+          to: "00:05:14,24"
+          text: "But after the first escape we helped with, the Germans realized that somebody was missing, from then on strong repressions started."
         sequence-44:
           s: 44
-          from: 00:05:14,24
-          to: 00:05:22,13
-          text: We then decided to bring dead bodies from hospitals.
+          from: "00:05:14,24"
+          to: "00:05:22,13"
+          text: "We then decided to bring dead bodies from hospitals."
         sequence-45:
           s: 45
-          from: 00:05:22,13
-          to: 00:05:45,15
-          text: And we took them… on the carriage we took dead bodies.
+          from: "00:05:22,13"
+          to: "00:05:45,15"
+          text: "And we took them… on the carriage we took dead bodies."
         sequence-46:
           s: 46
-          from: 00:05:45,15
-          to: 00:05:46,29
-          text: ''
+          from: "00:05:45,15"
+          to: "00:05:46,29"
+          text: ~
         sequence-47:
           s: 47
-          from: 00:05:46,29
-          to: 00:06:04,17
-          text: At the same time, this hospital, it had to be repaired and my father
-            managed to help with that and he delivered the building material.
+          from: "00:05:46,29"
+          to: "00:06:04,17"
+          text: "At the same time, this hospital, it had to be repaired and my father managed to help with that and he delivered the building material."
         sequence-48:
           s: 48
-          from: 00:06:04,17
-          to: 00:06:06,06
-          text: ''
+          from: "00:06:04,17"
+          to: "00:06:06,06"
+          text: ~
         sequence-49:
           s: 49
-          from: 00:06:06,06
-          to: 00:06:09,29
-          text: Bricks, cements, sand.
+          from: "00:06:06,06"
+          to: "00:06:09,29"
+          text: "Bricks, cements, sand."
         sequence-50:
           s: 50
-          from: 00:06:09,29
-          to: 00:06:28,17
-          text: And we took it, we took the dead body and then the amount of people
-            was correct.
+          from: "00:06:09,29"
+          to: "00:06:28,17"
+          text: "And we took it, we took the dead body and then the amount of people was correct."
         sequence-51:
           s: 51
-          from: 00:06:28,17
-          to: 00:06:32,18
-          text: It was important that the actual number of prisoners was correct.
+          from: "00:06:28,17"
+          to: "00:06:32,18"
+          text: "It was important that the actual number of prisoners was correct."
         sequence-52:
           s: 52
-          from: 00:06:32,18
-          to: 00:06:43,14
-          text: This one who was to escape had a number, prisoners did not have any
-            photographs, were not catalogued,
+          from: "00:06:32,18"
+          to: "00:06:43,14"
+          text: "This one who was to escape had a number, prisoners did not have any photographs, were not catalogued,"
         sequence-53:
           s: 53
-          from: 00:06:43,14
-          to: 00:06:48,17
-          text: so we were putting those numbers to a different person and helping
-            them escape.
+          from: "00:06:43,14"
+          to: "00:06:48,17"
+          text: "so we were putting those numbers to a different person and helping them escape."
         sequence-54:
           s: 54
-          from: 00:06:48,17
-          to: 00:06:57,05
-          text: They were escaping by carriage, sometimes they had to go through barbed
-            wire or shrubs.
+          from: "00:06:48,17"
+          to: "00:06:57,05"
+          text: "They were escaping by carriage, sometimes they had to go through barbed wire or shrubs."
         sequence-55:
           s: 55
-          from: 00:06:57,05
-          to: 00:07:02,28
-          text: And it took quite long till the time of hospital liquidation.
+          from: "00:06:57,05"
+          to: "00:07:02,28"
+          text: "And it took quite long till the time of hospital liquidation."

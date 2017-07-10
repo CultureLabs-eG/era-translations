@@ -1,174 +1,166 @@
----
 pl:
   lorenz-knorr:
     chapter-7:
       c: 7
-      title: Acts of sabotage
+      title: "Acts of sabotage"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,16
-          to: 00:00:04,19
-          text: We worked in groups of three,
+          from: "00:00:00,16"
+          to: "00:00:04,19"
+          text: "We worked in groups of three,"
         sequence-2:
           s: 2
-          from: 00:00:04,19
-          to: 00:00:08,16
-          text: made agreements, always three.
+          from: "00:00:04,19"
+          to: "00:00:08,16"
+          text: "made agreements, always three."
         sequence-3:
           s: 3
-          from: 00:00:08,16
-          to: 00:00:13,13
-          text: We met somewhere, where we could not be overheard, to prepare missions.
+          from: "00:00:08,16"
+          to: "00:00:13,13"
+          text: "We met somewhere, where we could not be overheard, to prepare missions."
         sequence-4:
           s: 4
-          from: 00:00:13,13
-          to: 00:00:17,14
-          text: Whether they were campaigns with flyers or posters
+          from: "00:00:13,13"
+          to: "00:00:17,14"
+          text: "Whether they were campaigns with flyers or posters"
         sequence-5:
           s: 5
-          from: 00:00:17,14
-          to: 00:00:24,14
-          text: or later on, when we realised that we did not achieve enough, acts
-            of sabotage.
+          from: "00:00:17,14"
+          to: "00:00:24,14"
+          text: "or later on, when we realised that we did not achieve enough, acts of sabotage."
         sequence-6:
           s: 6
-          from: 00:00:24,14
-          to: 00:00:25,05
-          text: ''
+          from: "00:00:24,14"
+          to: "00:00:25,05"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:25,05
-          to: 00:00:31,25
-          text: Half a year after the invasion the two biggest companies in Eger,
+          from: "00:00:25,05"
+          to: "00:00:31,25"
+          text: "Half a year after the invasion the two biggest companies in Eger,"
         sequence-8:
           s: 8
-          from: 00:00:31,25
-          to: 00:00:37,05
-          text: two bicycle companies, were halfway changed into armament factories.
+          from: "00:00:31,25"
+          to: "00:00:37,05"
+          text: "two bicycle companies, were halfway changed into armament factories."
         sequence-9:
           s: 9
-          from: 00:00:37,05
-          to: 00:00:40,17
-          text: 'We thought: “Now the time is right for a big poster campaign!”'
+          from: "00:00:37,05"
+          to: "00:00:40,17"
+          text: "We thought: “Now the time is right for a big poster campaign!”"
         sequence-10:
           s: 10
-          from: 00:00:40,17
-          to: 00:00:46,26
-          text: Every group put up 10 posters during the night
+          from: "00:00:40,17"
+          to: "00:00:46,26"
+          text: "Every group put up 10 posters during the night"
         sequence-11:
           s: 11
-          from: 00:00:46,26
-          to: 00:00:47,28
-          text: ''
+          from: "00:00:46,26"
+          to: "00:00:47,28"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:00:47,28
-          to: 00:00:53,06
-          text: and apart from one exception, which was the market square opposite
-            the SS,
+          from: "00:00:47,28"
+          to: "00:00:53,06"
+          text: "and apart from one exception, which was the market square opposite the SS,"
         sequence-13:
           s: 13
-          from: 00:00:53,06
-          to: 00:00:55,20
-          text: ''
+          from: "00:00:53,06"
+          to: "00:00:55,20"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:00:55,20
-          to: 00:00:58,09
-          text: all the other posters were hanging.
+          from: "00:00:55,20"
+          to: "00:00:58,09"
+          text: "all the other posters were hanging."
         sequence-15:
           s: 15
-          from: 00:00:58,09
-          to: 00:01:03,19
-          text: 'In the morning the people walked past these posters, on which was
-            written:'
+          from: "00:00:58,09"
+          to: "00:01:03,19"
+          text: "In the morning the people walked past these posters, on which was written:"
         sequence-16:
           s: 16
-          from: 00:01:03,19
-          to: 00:01:09,19
-          text: "“This is how the war is being prepared, resist early enough, before
-            it is too late.”"
+          from: "00:01:03,19"
+          to: "00:01:09,19"
+          text: "“This is how the war is being prepared, resist early enough, before it is too late.”"
         sequence-17:
           s: 17
-          from: 00:01:09,19
-          to: 00:01:17,18
-          text: 'But we then asked ourselves: “What did we achieve?”'
+          from: "00:01:09,19"
+          to: "00:01:17,18"
+          text: "But we then asked ourselves: “What did we achieve?”"
         sequence-18:
           s: 18
-          from: 00:01:17,18
-          to: 00:01:18,12
-          text: ''
+          from: "00:01:17,18"
+          to: "00:01:18,12"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:18,12
-          to: 00:01:22,23
-          text: 'We realised that we had achieved only little and decided:'
+          from: "00:01:18,12"
+          to: "00:01:22,23"
+          text: "We realised that we had achieved only little and decided:"
         sequence-20:
           s: 20
-          from: 00:01:22,23
-          to: 00:01:26,19
+          from: "00:01:22,23"
+          to: "00:01:26,19"
           text: "”From now on we will work at a stronger pace.”"
         sequence-21:
           s: 21
-          from: 00:01:26,19
-          to: 00:01:31,18
-          text: Many of us knew how to handle explosives and possessed fuses.
+          from: "00:01:26,19"
+          to: "00:01:31,18"
+          text: "Many of us knew how to handle explosives and possessed fuses."
         sequence-22:
           s: 22
-          from: 00:01:31,18
-          to: 00:01:37,17
-          text: As my home town Eger was a railway junction
+          from: "00:01:31,18"
+          to: "00:01:37,17"
+          text: "As my home town Eger was a railway junction"
         sequence-23:
           s: 23
-          from: 00:01:37,17
-          to: 00:01:43,17
-          text: and therefore a strategically important line from Eger via Hof went
-            to Berlin,
+          from: "00:01:37,17"
+          to: "00:01:43,17"
+          text: "and therefore a strategically important line from Eger via Hof went to Berlin,"
         sequence-24:
           s: 24
-          from: 00:01:43,17
-          to: 00:01:46,15
-          text: the other one from Karlsbad Reichenberg to Breslau,
+          from: "00:01:43,17"
+          to: "00:01:46,15"
+          text: "the other one from Karlsbad Reichenberg to Breslau,"
         sequence-25:
           s: 25
-          from: 00:01:46,15
-          to: 00:01:49,20
-          text: the next one via Marktredwitz to Munich
+          from: "00:01:46,15"
+          to: "00:01:49,20"
+          text: "the next one via Marktredwitz to Munich"
         sequence-26:
           s: 26
-          from: 00:01:49,20
-          to: 00:01:53,20
-          text: and another one via Frankfurt towards west,
+          from: "00:01:49,20"
+          to: "00:01:53,20"
+          text: "and another one via Frankfurt towards west,"
         sequence-27:
           s: 27
-          from: 00:01:53,20
-          to: 00:01:57,26
-          text: we decided to demolish the tracks.
+          from: "00:01:53,20"
+          to: "00:01:57,26"
+          text: "we decided to demolish the tracks."
         sequence-28:
           s: 28
-          from: 00:01:57,26
-          to: 00:01:58,26
-          text: ''
+          from: "00:01:57,26"
+          to: "00:01:58,26"
+          text: ~
         sequence-29:
           s: 29
-          from: 00:01:58,26
-          to: 00:01:59,28
-          text: That is what we did
+          from: "00:01:58,26"
+          to: "00:01:59,28"
+          text: "That is what we did"
         sequence-30:
           s: 30
-          from: 00:01:59,28
-          to: 00:02:06,09
-          text: and they were not able to carry out any armament transports,
+          from: "00:01:59,28"
+          to: "00:02:06,09"
+          text: "and they were not able to carry out any armament transports,"
         sequence-31:
           s: 31
-          from: 00:02:06,09
-          to: 00:02:11,08
-          text: strategic transports and no passenger transports on this line for
-            two days.
+          from: "00:02:06,09"
+          to: "00:02:11,08"
+          text: "strategic transports and no passenger transports on this line for two days."
         sequence-32:
           s: 32
-          from: 00:02:11,08
-          to: 00:02:18,10
-          text: It took them a while to manage that and they could not find out who
-            did it.
+          from: "00:02:11,08"
+          to: "00:02:18,10"
+          text: "It took them a while to manage that and they could not find out who did it."

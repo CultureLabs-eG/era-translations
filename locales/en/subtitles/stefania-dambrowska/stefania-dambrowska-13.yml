@@ -1,256 +1,241 @@
----
 en:
   stefania-dambrowska:
     chapter-13:
       c: 13
-      title: Documenting nazi crimes in Majdanek
+      title: "Documenting nazi crimes in Majdanek"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,18
-          to: 00:00:07,03
-          text: I guess two men were interested in me.
+          from: "00:00:01,18"
+          to: "00:00:07,03"
+          text: "I guess two men were interested in me."
         sequence-2:
           s: 2
-          from: 00:00:07,03
-          to: 00:00:08,04
-          text: ''
+          from: "00:00:07,03"
+          to: "00:00:08,04"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:08,04
-          to: 00:00:12,20
-          text: One of them was an economist,
+          from: "00:00:08,04"
+          to: "00:00:12,20"
+          text: "One of them was an economist,"
         sequence-4:
           s: 4
-          from: 00:00:12,20
-          to: 00:00:13,26
-          text: ''
+          from: "00:00:12,20"
+          to: "00:00:13,26"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:13,26
-          to: 00:00:21,16
-          text: his last name was very strange - by the way he was Armenian and not
-            Russian - Jekatow, the husband of Muta Dziewicka,
+          from: "00:00:13,26"
+          to: "00:00:21,16"
+          text: "his last name was very strange - by the way he was Armenian and not Russian - Jekatow, the husband of Muta Dziewicka,"
         sequence-6:
           s: 6
-          from: 00:00:21,16
-          to: 00:00:29,11
-          text: who offered me to work in the offices, in the economics office in
-            PKWN.
+          from: "00:00:21,16"
+          to: "00:00:29,11"
+          text: "who offered me to work in the offices, in the economics office in PKWN."
         sequence-7:
           s: 7
-          from: 00:00:29,11
-          to: 00:00:30,14
-          text: ''
+          from: "00:00:29,11"
+          to: "00:00:30,14"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:30,14
-          to: 00:00:35,13
-          text: And just after a moment professor Syngalewicz came to me, he was the
-            professor of forensic medicine
+          from: "00:00:30,14"
+          to: "00:00:35,13"
+          text: "And just after a moment professor Syngalewicz came to me, he was the professor of forensic medicine"
         sequence-9:
           s: 9
-          from: 00:00:35,13
-          to: 00:00:39,12
-          text: and offered me to work with him in the Majdanek committee.
+          from: "00:00:35,13"
+          to: "00:00:39,12"
+          text: "and offered me to work with him in the Majdanek committee."
         sequence-10:
           s: 10
-          from: 00:00:39,12
-          to: 00:00:40,24
-          text: ''
+          from: "00:00:39,12"
+          to: "00:00:40,24"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:40,24
-          to: 00:00:43,15
-          text: I took this offer.
+          from: "00:00:40,24"
+          to: "00:00:43,15"
+          text: "I took this offer."
         sequence-12:
           s: 12
-          from: 00:00:43,15
-          to: 00:00:51,28
-          text: We were travelling, watching and making notes, all things which were
-            important enough we made notes about,
+          from: "00:00:43,15"
+          to: "00:00:51,28"
+          text: "We were travelling, watching and making notes, all things which were important enough we made notes about,"
         sequence-13:
           s: 13
-          from: 00:00:51,28
-          to: 00:00:56,20
-          text: for example a story like this – we are going through the field,
+          from: "00:00:51,28"
+          to: "00:00:56,20"
+          text: "for example a story like this – we are going through the field,"
         sequence-14:
           s: 14
-          from: 00:00:56,20
-          to: 00:01:06,21
-          text: there was supposed to be cabbage but were only dried stalks,
+          from: "00:00:56,20"
+          to: "00:01:06,21"
+          text: "there was supposed to be cabbage but were only dried stalks,"
         sequence-15:
           s: 15
-          from: 00:01:06,21
-          to: 00:01:07,24
-          text: ''
+          from: "00:01:06,21"
+          to: "00:01:07,24"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:07,24
-          to: 00:01:13,11
-          text: the ground was creaking and giving way under our feet.
+          from: "00:01:07,24"
+          to: "00:01:13,11"
+          text: "the ground was creaking and giving way under our feet."
         sequence-17:
           s: 17
-          from: 00:01:13,11
-          to: 00:01:14,17
-          text: ''
+          from: "00:01:13,11"
+          to: "00:01:14,17"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:01:14,17
-          to: 00:01:15,27
-          text: Those were human bones,
+          from: "00:01:14,17"
+          to: "00:01:15,27"
+          text: "Those were human bones,"
         sequence-19:
           s: 19
-          from: 00:01:15,27
-          to: 00:01:17,08
-          text: ''
+          from: "00:01:15,27"
+          to: "00:01:17,08"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:01:17,08
-          to: 00:01:19,25
-          text: it was the rest from the crematorium,
+          from: "00:01:17,08"
+          to: "00:01:19,25"
+          text: "it was the rest from the crematorium,"
         sequence-21:
           s: 21
-          from: 00:01:19,25
-          to: 00:01:26,28
-          text: everything from there was emptied out there and dug up and then they
-            planted cabbage there.
+          from: "00:01:19,25"
+          to: "00:01:26,28"
+          text: "everything from there was emptied out there and dug up and then they planted cabbage there."
         sequence-22:
           s: 22
-          from: 00:01:26,28
-          to: 00:01:32,05
-          text: Then we came closer to the crematorium.
+          from: "00:01:26,28"
+          to: "00:01:32,05"
+          text: "Then we came closer to the crematorium."
         sequence-23:
           s: 23
-          from: 00:01:32,05
-          to: 00:01:33,09
-          text: ''
+          from: "00:01:32,05"
+          to: "00:01:33,09"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:01:33,09
-          to: 00:01:41,20
-          text: There were parts of bodies, some of them prepared to be taken to the
-            chamber.
+          from: "00:01:33,09"
+          to: "00:01:41,20"
+          text: "There were parts of bodies, some of them prepared to be taken to the chamber."
         sequence-25:
           s: 25
-          from: 00:01:41,20
-          to: 00:01:50,08
-          text: People were put in a row, bodies were brown.
+          from: "00:01:41,20"
+          to: "00:01:50,08"
+          text: "People were put in a row, bodies were brown."
         sequence-26:
           s: 26
-          from: 00:01:50,08
-          to: 00:01:52,06
-          text: ''
+          from: "00:01:50,08"
+          to: "00:01:52,06"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:01:52,06
-          to: 00:01:55,24
-          text: They did not look horrible, they were brown,
+          from: "00:01:52,06"
+          to: "00:01:55,24"
+          text: "They did not look horrible, they were brown,"
         sequence-28:
           s: 28
-          from: 00:01:55,24
-          to: 00:01:57,00
-          text: ''
+          from: "00:01:55,24"
+          to: "00:01:57,00"
+          text: ~
         sequence-29:
           s: 29
-          from: 00:01:57,00
-          to: 00:02:03,24
-          text: the smell was disgusting, it was such a hot day, August, in the middle
-            of August in 1944.
+          from: "00:01:57,00"
+          to: "00:02:03,24"
+          text: "the smell was disgusting, it was such a hot day, August, in the middle of August in 1944."
         sequence-30:
           s: 30
-          from: 00:02:03,24
-          to: 00:02:04,28
-          text: ''
+          from: "00:02:03,24"
+          to: "00:02:04,28"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:02:04,28
-          to: 00:02:13,16
-          text: We always had a scarf on our head to cover our hair and protect it
-            from the smell,
+          from: "00:02:04,28"
+          to: "00:02:13,16"
+          text: "We always had a scarf on our head to cover our hair and protect it from the smell,"
         sequence-32:
           s: 32
-          from: 00:02:13,16
-          to: 00:02:24,24
-          text: the smell which was in Majdanek. After coming back from Majdanek we
-            put our clothes onto the balcony.
+          from: "00:02:13,16"
+          to: "00:02:24,24"
+          text: "the smell which was in Majdanek. After coming back from Majdanek we put our clothes onto the balcony."
         sequence-33:
           s: 33
-          from: 00:02:24,24
-          to: 00:02:29,13
-          text: We lived in barracks, men together with women.
+          from: "00:02:24,24"
+          to: "00:02:29,13"
+          text: "We lived in barracks, men together with women."
         sequence-34:
           s: 34
-          from: 00:02:29,13
-          to: 00:02:32,03
-          text: ''
+          from: "00:02:29,13"
+          to: "00:02:32,03"
+          text: ~
         sequence-35:
           s: 35
-          from: 00:02:32,03
-          to: 00:02:39,09
-          text: Then we saw loads of shoes taken from the people who were going to
-            die.
+          from: "00:02:32,03"
+          to: "00:02:39,09"
+          text: "Then we saw loads of shoes taken from the people who were going to die."
         sequence-36:
           s: 36
-          from: 00:02:39,09
-          to: 00:02:42,09
-          text: ''
+          from: "00:02:39,09"
+          to: "00:02:42,09"
+          text: ~
         sequence-37:
           s: 37
-          from: 00:02:42,09
-          to: 00:02:52,16
-          text: Little children’s shoes, male and female shoes, some clothes, and
-            we had to write down everything.
+          from: "00:02:42,09"
+          to: "00:02:52,16"
+          text: "Little children’s shoes, male and female shoes, some clothes, and we had to write down everything."
         sequence-38:
           s: 38
-          from: 00:02:52,16
-          to: 00:03:01,22
-          text: Then we finished going to Majdanek and two or three times went to
-            some forest,
+          from: "00:02:52,16"
+          to: "00:03:01,22"
+          text: "Then we finished going to Majdanek and two or three times went to some forest,"
         sequence-39:
           s: 39
-          from: 00:03:01,22
-          to: 00:03:04,21
-          text: I do not remember the name of it,
+          from: "00:03:01,22"
+          to: "00:03:04,21"
+          text: "I do not remember the name of it,"
         sequence-40:
           s: 40
-          from: 00:03:04,21
-          to: 00:03:10,06
-          text: but we went to a forest where people were murdered.
+          from: "00:03:04,21"
+          to: "00:03:10,06"
+          text: "but we went to a forest where people were murdered."
         sequence-41:
           s: 41
-          from: 00:03:10,06
-          to: 00:03:11,09
-          text: ''
+          from: "00:03:10,06"
+          to: "00:03:11,09"
+          text: ~
         sequence-42:
           s: 42
-          from: 00:03:11,09
-          to: 00:03:16,15
-          text: They were thrown down into a big ditch and were buried in the way
-            they had fallen down.
+          from: "00:03:11,09"
+          to: "00:03:16,15"
+          text: "They were thrown down into a big ditch and were buried in the way they had fallen down."
         sequence-43:
           s: 43
-          from: 00:03:16,15
-          to: 00:03:20,03
-          text: When one of those ditches were dug up,
+          from: "00:03:16,15"
+          to: "00:03:20,03"
+          text: "When one of those ditches were dug up,"
         sequence-44:
           s: 44
-          from: 00:03:20,03
-          to: 00:03:23,14
-          text: we saw a mother holding her child,
+          from: "00:03:20,03"
+          to: "00:03:23,14"
+          text: "we saw a mother holding her child,"
         sequence-45:
           s: 45
-          from: 00:03:23,14
-          to: 00:03:28,00
-          text: ''
+          from: "00:03:23,14"
+          to: "00:03:28,00"
+          text: ~
         sequence-46:
           s: 46
-          from: 00:03:28,00
-          to: 00:03:34,25
-          text: or a couple.
+          from: "00:03:28,00"
+          to: "00:03:34,25"
+          text: "or a couple."
         sequence-47:
           s: 47
-          from: 00:03:34,25
-          to: 00:03:45,15
-          text: All documents were taken from their clothes and we were trying to
-            check who was who.
+          from: "00:03:34,25"
+          to: "00:03:45,15"
+          text: "All documents were taken from their clothes and we were trying to check who was who."

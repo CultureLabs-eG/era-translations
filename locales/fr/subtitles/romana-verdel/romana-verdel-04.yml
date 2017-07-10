@@ -1,419 +1,411 @@
----
 fr:
   romana-verdel:
     chapter-4:
       c: 4
-      title: Hiding with partisans in bunkers
+      title: "Hiding with partisans in bunkers"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,20
-          to: 00:00:03,02
-          text: At the end of January 1944
+          from: "00:00:00,20"
+          to: "00:00:03,02"
+          text: "At the end of January 1944"
         sequence-2:
           s: 2
-          from: 00:00:03,02
-          to: 00:00:07,23
-          text: ''
+          from: "00:00:03,02"
+          to: "00:00:07,23"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:07,23
-          to: 00:00:13,09
-          text: the aunt got us ready and dressed.
+          from: "00:00:07,23"
+          to: "00:00:13,09"
+          text: "the aunt got us ready and dressed."
         sequence-4:
           s: 4
-          from: 00:00:13,09
-          to: 00:00:15,15
-          text: 'We asked: “Where are we going?”'
+          from: "00:00:13,09"
+          to: "00:00:15,15"
+          text: "We asked: “Where are we going?”"
         sequence-5:
           s: 5
-          from: 00:00:15,15
-          to: 00:00:19,28
-          text: The older ones already knew, but the little ones didn’t.
+          from: "00:00:15,15"
+          to: "00:00:19,28"
+          text: "The older ones already knew, but the little ones didn’t."
         sequence-6:
           s: 6
-          from: 00:00:19,28
-          to: 00:00:22,11
-          text: 'She said: “Well, we are going to church.”'
+          from: "00:00:19,28"
+          to: "00:00:22,11"
+          text: "She said: “Well, we are going to church.”"
         sequence-7:
           s: 7
-          from: 00:00:22,11
-          to: 00:00:27,01
-          text: 'So we asked: “At night? Why are we going to church at night?'
+          from: "00:00:22,11"
+          to: "00:00:27,01"
+          text: "So we asked: “At night? Why are we going to church at night?"
         sequence-8:
           s: 8
-          from: 00:00:27,01
-          to: 00:00:28,12
-          text: ''
+          from: "00:00:27,01"
+          to: "00:00:28,12"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:28,12
-          to: 00:00:31,20
-          text: Why is there a church service at night tonight?”
+          from: "00:00:28,12"
+          to: "00:00:31,20"
+          text: "Why is there a church service at night tonight?”"
         sequence-10:
           s: 10
-          from: 00:00:31,20
-          to: 00:00:34,26
-          text: 'The aunt answered: “Well, because there is. Let’s go.”'
+          from: "00:00:31,20"
+          to: "00:00:34,26"
+          text: "The aunt answered: “Well, because there is. Let’s go.”"
         sequence-11:
           s: 11
-          from: 00:00:34,26
-          to: 00:00:36,18
-          text: ''
+          from: "00:00:34,26"
+          to: "00:00:36,18"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:00:36,18
-          to: 00:00:43,27
-          text: We had put a lot of clothes on – whatever we owned and she took a
-            blanket.
+          from: "00:00:36,18"
+          to: "00:00:43,27"
+          text: "We had put a lot of clothes on – whatever we owned and she took a blanket."
         sequence-13:
           s: 13
-          from: 00:00:43,27
-          to: 00:00:52,00
-          text: Everything seemed adventurous, but we were not frightened.
+          from: "00:00:43,27"
+          to: "00:00:52,00"
+          text: "Everything seemed adventurous, but we were not frightened."
         sequence-14:
           s: 14
-          from: 00:00:52,00
-          to: 00:00:55,18
-          text: We were just glad to get out of this cellar.
+          from: "00:00:52,00"
+          to: "00:00:55,18"
+          text: "We were just glad to get out of this cellar."
         sequence-15:
           s: 15
-          from: 00:00:55,18
-          to: 00:00:58,14
-          text: ''
+          from: "00:00:55,18"
+          to: "00:00:58,14"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:00:58,14
-          to: 00:01:06,16
-          text: Then we went, but not the way to where the church was,
+          from: "00:00:58,14"
+          to: "00:01:06,16"
+          text: "Then we went, but not the way to where the church was,"
         sequence-17:
           s: 17
-          from: 00:01:06,16
-          to: 00:01:10,20
-          text: but up the mountains, a totally different direction.
+          from: "00:01:06,16"
+          to: "00:01:10,20"
+          text: "but up the mountains, a totally different direction."
         sequence-18:
           s: 18
-          from: 00:01:10,20
-          to: 00:01:12,06
-          text: ''
+          from: "00:01:10,20"
+          to: "00:01:12,06"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:12,06
-          to: 00:01:21,28
-          text: The oldest cousin was 14 years old and should carry a rifle, being
-            really pleased about that.
+          from: "00:01:12,06"
+          to: "00:01:21,28"
+          text: "The oldest cousin was 14 years old and should carry a rifle, being really pleased about that."
         sequence-20:
           s: 20
-          from: 00:01:21,28
-          to: 00:01:24,29
-          text: ''
+          from: "00:01:21,28"
+          to: "00:01:24,29"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:01:24,29
-          to: 00:01:28,00
-          text: 'By then we knew: now we are going into war.'
+          from: "00:01:24,29"
+          to: "00:01:28,00"
+          text: "By then we knew: now we are going into war."
         sequence-22:
           s: 22
-          from: 00:01:28,00
-          to: 00:01:37,25
-          text: There were men with us and because adults were with us, the fear went.
+          from: "00:01:28,00"
+          to: "00:01:37,25"
+          text: "There were men with us and because adults were with us, the fear went."
         sequence-23:
           s: 23
-          from: 00:01:37,25
-          to: 00:01:41,10
-          text: We walked very, very far.
+          from: "00:01:37,25"
+          to: "00:01:41,10"
+          text: "We walked very, very far."
         sequence-24:
           s: 24
-          from: 00:01:41,10
-          to: 00:01:43,05
-          text: There was a lot of snow.
+          from: "00:01:41,10"
+          to: "00:01:43,05"
+          text: "There was a lot of snow."
         sequence-25:
           s: 25
-          from: 00:01:43,05
-          to: 00:01:48,27
-          text: It was so hard that nothing sank in.
+          from: "00:01:43,05"
+          to: "00:01:48,27"
+          text: "It was so hard that nothing sank in."
         sequence-26:
           s: 26
-          from: 00:01:48,27
-          to: 00:01:53,25
-          text: It was very glittery, so it was a beautiful but cold night.
+          from: "00:01:48,27"
+          to: "00:01:53,25"
+          text: "It was very glittery, so it was a beautiful but cold night."
         sequence-27:
           s: 27
-          from: 00:01:53,25
-          to: 00:01:56,19
-          text: ''
+          from: "00:01:53,25"
+          to: "00:01:56,19"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:01:56,19
-          to: 00:02:02,28
-          text: During the first night we walked for at least three or four hours
+          from: "00:01:56,19"
+          to: "00:02:02,28"
+          text: "During the first night we walked for at least three or four hours"
         sequence-29:
           s: 29
-          from: 00:02:02,28
-          to: 00:02:08,02
-          text: until we reached a bunker high up in the mountain.
+          from: "00:02:02,28"
+          to: "00:02:08,02"
+          text: "until we reached a bunker high up in the mountain."
         sequence-30:
           s: 30
-          from: 00:02:08,02
-          to: 00:02:11,00
-          text: ''
+          from: "00:02:08,02"
+          to: "00:02:11,00"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:02:11,00
-          to: 00:02:22,22
-          text: It was very cold in this bunker, but we were so tired that we were
-            still glad we could lie down.
+          from: "00:02:11,00"
+          to: "00:02:22,22"
+          text: "It was very cold in this bunker, but we were so tired that we were still glad we could lie down."
         sequence-32:
           s: 32
-          from: 00:02:22,22
-          to: 00:02:31,08
-          text: Although there was only fern to lie on and a horse blanket to cover
-            us up.
+          from: "00:02:22,22"
+          to: "00:02:31,08"
+          text: "Although there was only fern to lie on and a horse blanket to cover us up."
         sequence-33:
           s: 33
-          from: 00:02:31,08
-          to: 00:02:33,18
-          text: ''
+          from: "00:02:31,08"
+          to: "00:02:33,18"
+          text: ~
         sequence-34:
           s: 34
-          from: 00:02:33,18
-          to: 00:02:38,23
-          text: I don’t know how long we lived in this bunker.
+          from: "00:02:33,18"
+          to: "00:02:38,23"
+          text: "I don’t know how long we lived in this bunker."
         sequence-35:
           s: 35
-          from: 00:02:38,23
-          to: 00:02:40,12
-          text: ''
+          from: "00:02:38,23"
+          to: "00:02:40,12"
+          text: ~
         sequence-36:
           s: 36
-          from: 00:02:40,12
-          to: 00:02:44,27
-          text: It was cold and dark.
+          from: "00:02:40,12"
+          to: "00:02:44,27"
+          text: "It was cold and dark."
         sequence-37:
           s: 37
-          from: 00:02:44,27
-          to: 00:02:51,01
-          text: There was not a lot to eat and we had to be quiet.
+          from: "00:02:44,27"
+          to: "00:02:51,01"
+          text: "There was not a lot to eat and we had to be quiet."
         sequence-38:
           s: 38
-          from: 00:02:51,01
-          to: 00:02:56,03
-          text: Not being allowed to talk was very hard for me.
+          from: "00:02:51,01"
+          to: "00:02:56,03"
+          text: "Not being allowed to talk was very hard for me."
         sequence-39:
           s: 39
-          from: 00:02:56,03
-          to: 00:02:59,16
-          text: I was such a lively and inquisitive child.
+          from: "00:02:56,03"
+          to: "00:02:59,16"
+          text: "I was such a lively and inquisitive child."
         sequence-40:
           s: 40
-          from: 00:02:59,16
-          to: 00:03:01,17
-          text: ''
+          from: "00:02:59,16"
+          to: "00:03:01,17"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:03:01,17
-          to: 00:03:07,21
-          text: There was nothing to play with either.
+          from: "00:03:01,17"
+          to: "00:03:07,21"
+          text: "There was nothing to play with either."
         sequence-42:
           s: 42
-          from: 00:03:07,21
-          to: 00:03:10,11
-          text: There was nothing to talk about -
+          from: "00:03:07,21"
+          to: "00:03:10,11"
+          text: "There was nothing to talk about -"
         sequence-43:
           s: 43
-          from: 00:03:10,11
-          to: 00:03:12,10
-          text: ''
+          from: "00:03:10,11"
+          to: "00:03:12,10"
+          text: ~
         sequence-44:
           s: 44
-          from: 00:03:12,10
-          to: 00:03:16,16
-          text: not even with the adults. Even they did not talk much.
+          from: "00:03:12,10"
+          to: "00:03:16,16"
+          text: "not even with the adults. Even they did not talk much."
         sequence-45:
           s: 45
-          from: 00:03:16,16
-          to: 00:03:20,10
-          text: ''
+          from: "00:03:16,16"
+          to: "00:03:20,10"
+          text: ~
         sequence-46:
           s: 46
-          from: 00:03:20,10
-          to: 00:03:27,20
-          text: I cannot remember what we had to eat, either.
+          from: "00:03:20,10"
+          to: "00:03:27,20"
+          text: "I cannot remember what we had to eat, either."
         sequence-47:
           s: 47
-          from: 00:03:27,20
-          to: 00:03:37,11
-          text: I can remember a partisan brought a loaf of bread and a can of milk
-            once.
+          from: "00:03:27,20"
+          to: "00:03:37,11"
+          text: "I can remember a partisan brought a loaf of bread and a can of milk once."
         sequence-48:
           s: 48
-          from: 00:03:37,11
-          to: 00:03:42,08
-          text: We were so happy that we could at least eat properly.
+          from: "00:03:37,11"
+          to: "00:03:42,08"
+          text: "We were so happy that we could at least eat properly."
         sequence-49:
           s: 49
-          from: 00:03:42,08
-          to: 00:03:48,22
-          text: But we only got a little piece and one or two mouths full of milk.
+          from: "00:03:42,08"
+          to: "00:03:48,22"
+          text: "But we only got a little piece and one or two mouths full of milk."
         sequence-50:
           s: 50
-          from: 00:03:48,22
-          to: 00:03:50,08
-          text: ''
+          from: "00:03:48,22"
+          to: "00:03:50,08"
+          text: ~
         sequence-51:
           s: 51
-          from: 00:03:50,08
-          to: 00:03:53,03
-          text: 'I was so disappointed. I thought:'
+          from: "00:03:50,08"
+          to: "00:03:53,03"
+          text: "I was so disappointed. I thought:"
         sequence-52:
           s: 52
-          from: 00:03:53,03
-          to: 00:03:58,07
-          text: "‘Why does she give us so little all the time?’ We did not understand
-            that she had to economize."
+          from: "00:03:53,03"
+          to: "00:03:58,07"
+          text: "‘Why does she give us so little all the time?’ We did not understand that she had to economize."
         sequence-53:
           s: 53
-          from: 00:03:58,07
-          to: 00:04:01,08
-          text: ''
+          from: "00:03:58,07"
+          to: "00:04:01,08"
+          text: ~
         sequence-54:
           s: 54
-          from: 00:04:01,08
-          to: 00:04:06,05
-          text: After a while she gave us some more and explained that she had to
-            ration.
+          from: "00:04:01,08"
+          to: "00:04:06,05"
+          text: "After a while she gave us some more and explained that she had to ration."
         sequence-55:
           s: 55
-          from: 00:04:06,05
-          to: 00:04:12,06
-          text: It was always dangerous to stay in one bunker for too long;
+          from: "00:04:06,05"
+          to: "00:04:12,06"
+          text: "It was always dangerous to stay in one bunker for too long;"
         sequence-56:
           s: 56
-          from: 00:04:12,06
-          to: 00:04:17,13
-          text: far away from the farmers, resulting in bad provisions.
+          from: "00:04:12,06"
+          to: "00:04:17,13"
+          text: "far away from the farmers, resulting in bad provisions."
         sequence-57:
           s: 57
-          from: 00:04:17,13
-          to: 00:04:18,23
-          text: ''
+          from: "00:04:17,13"
+          to: "00:04:18,23"
+          text: ~
         sequence-58:
           s: 58
-          from: 00:04:18,23
-          to: 00:04:22,26
-          text: So we went over a mountain into Yugoslavia.
+          from: "00:04:18,23"
+          to: "00:04:22,26"
+          text: "So we went over a mountain into Yugoslavia."
         sequence-59:
           s: 59
-          from: 00:04:22,26
-          to: 00:04:24,03
-          text: ''
+          from: "00:04:22,26"
+          to: "00:04:24,03"
+          text: ~
         sequence-60:
           s: 60
-          from: 00:04:24,03
-          to: 00:04:27,16
-          text: That time we walked the whole night.
+          from: "00:04:24,03"
+          to: "00:04:27,16"
+          text: "That time we walked the whole night."
         sequence-61:
           s: 61
-          from: 00:04:27,16
-          to: 00:04:30,24
-          text: So long that I fell asleep walking.
+          from: "00:04:27,16"
+          to: "00:04:30,24"
+          text: "So long that I fell asleep walking."
         sequence-62:
           s: 62
-          from: 00:04:30,24
-          to: 00:04:36,17
-          text: When we were outside at night I always watched the stars.
+          from: "00:04:30,24"
+          to: "00:04:36,17"
+          text: "When we were outside at night I always watched the stars."
         sequence-63:
           s: 63
-          from: 00:04:36,17
-          to: 00:04:41,07
-          text: That was the only amusement we had.
+          from: "00:04:36,17"
+          to: "00:04:41,07"
+          text: "That was the only amusement we had."
         sequence-64:
           s: 64
-          from: 00:04:41,07
-          to: 00:04:44,16
-          text: ''
+          from: "00:04:41,07"
+          to: "00:04:44,16"
+          text: ~
         sequence-65:
           s: 65
-          from: 00:04:44,16
-          to: 00:04:49,29
-          text: Here and there we were in a stable, that was nice.
+          from: "00:04:44,16"
+          to: "00:04:49,29"
+          text: "Here and there we were in a stable, that was nice."
         sequence-66:
           s: 66
-          from: 00:04:49,29
-          to: 00:04:55,26
-          text: It was warm in the stable and we were used to the smell.
+          from: "00:04:49,29"
+          to: "00:04:55,26"
+          text: "It was warm in the stable and we were used to the smell."
         sequence-67:
           s: 67
-          from: 00:04:55,26
-          to: 00:04:56,29
-          text: ''
+          from: "00:04:55,26"
+          to: "00:04:56,29"
+          text: ~
         sequence-68:
           s: 68
-          from: 00:04:56,29
-          to: 00:05:01,04
-          text: The main thing was that it was warm and safe there.
+          from: "00:04:56,29"
+          to: "00:05:01,04"
+          text: "The main thing was that it was warm and safe there."
         sequence-69:
           s: 69
-          from: 00:05:01,04
-          to: 00:05:04,27
-          text: But most of the time we stayed in bunkers.
+          from: "00:05:01,04"
+          to: "00:05:04,27"
+          text: "But most of the time we stayed in bunkers."
         sequence-70:
           s: 70
-          from: 00:05:04,27
-          to: 00:05:06,06
-          text: ''
+          from: "00:05:04,27"
+          to: "00:05:06,06"
+          text: ~
         sequence-71:
           s: 71
-          from: 00:05:06,06
-          to: 00:05:11,13
-          text: There was fighting, as well.
+          from: "00:05:06,06"
+          to: "00:05:11,13"
+          text: "There was fighting, as well."
         sequence-72:
           s: 72
-          from: 00:05:11,13
-          to: 00:05:17,23
-          text: Once, we were hiding in the forest when there was fighting.
+          from: "00:05:11,13"
+          to: "00:05:17,23"
+          text: "Once, we were hiding in the forest when there was fighting."
         sequence-73:
           s: 73
-          from: 00:05:17,23
-          to: 00:05:19,10
-          text: ''
+          from: "00:05:17,23"
+          to: "00:05:19,10"
+          text: ~
         sequence-74:
           s: 74
-          from: 00:05:19,10
-          to: 00:05:24,07
-          text: A partisan pushed me down behind a tree and
+          from: "00:05:19,10"
+          to: "00:05:24,07"
+          text: "A partisan pushed me down behind a tree and"
         sequence-75:
           s: 75
-          from: 00:05:24,07
-          to: 00:05:27,17
-          text: held me down so I could not get up.
+          from: "00:05:24,07"
+          to: "00:05:27,17"
+          text: "held me down so I could not get up."
         sequence-76:
           s: 76
-          from: 00:05:27,17
-          to: 00:05:33,05
-          text: They were shooting, we saw flashes the whole night.
+          from: "00:05:27,17"
+          to: "00:05:33,05"
+          text: "They were shooting, we saw flashes the whole night."
         sequence-77:
           s: 77
-          from: 00:05:33,05
-          to: 00:05:40,21
-          text: I do not know how we got out of that. But we did get out of it.
+          from: "00:05:33,05"
+          to: "00:05:40,21"
+          text: "I do not know how we got out of that. But we did get out of it."
         sequence-78:
           s: 78
-          from: 00:05:40,21
-          to: 00:05:47,18
-          text: Until April, there was fighting in Slovenia,
+          from: "00:05:40,21"
+          to: "00:05:47,18"
+          text: "Until April, there was fighting in Slovenia,"
         sequence-79:
           s: 79
-          from: 00:05:47,18
-          to: 00:05:51,29
-          text: ''
+          from: "00:05:47,18"
+          to: "00:05:51,29"
+          text: ~
         sequence-80:
           s: 80
-          from: 00:05:51,29
-          to: 00:05:58,24
-          text: in Solcava it was called, Logarska Dolina.
+          from: "00:05:51,29"
+          to: "00:05:58,24"
+          text: "in Solcava it was called, Logarska Dolina."
         sequence-81:
           s: 81
-          from: 00:05:58,24
-          to: 00:06:06,28
-          text: It was so dangerous they decided the aunt should go back to Carinthia.
+          from: "00:05:58,24"
+          to: "00:06:06,28"
+          text: "It was so dangerous they decided the aunt should go back to Carinthia."

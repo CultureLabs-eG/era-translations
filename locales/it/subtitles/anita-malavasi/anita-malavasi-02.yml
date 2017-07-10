@@ -1,290 +1,276 @@
----
 it:
   anita-malavasi:
     chapter-2:
       c: 2
-      title: Growing up during Fascism
+      title: "Growing up during Fascism"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,12
-          to: 00:00:05,07
-          text: The fascist regime didn’t spare us children.
+          from: "00:00:00,12"
+          to: "00:00:05,07"
+          text: "The fascist regime didn’t spare us children."
         sequence-2:
           s: 2
-          from: 00:00:05,07
-          to: 00:00:08,26
-          text: Our school organized a contest for the best drawing.
+          from: "00:00:05,07"
+          to: "00:00:08,26"
+          text: "Our school organized a contest for the best drawing."
         sequence-3:
           s: 3
-          from: 00:00:08,26
-          to: 00:00:12,01
-          text: I was really very good in drawing.
+          from: "00:00:08,26"
+          to: "00:00:12,01"
+          text: "I was really very good in drawing."
         sequence-4:
           s: 4
-          from: 00:00:12,01
-          to: 00:00:17,27
-          text: I had drawn some very nice fasces with a laurel wreath.
+          from: "00:00:12,01"
+          to: "00:00:17,27"
+          text: "I had drawn some very nice fasces with a laurel wreath."
         sequence-5:
           s: 5
-          from: 00:00:17,27
-          to: 00:00:27,10
-          text: It’s not easy to colour that with crayons if you’re not good at it.
+          from: "00:00:17,27"
+          to: "00:00:27,10"
+          text: "It’s not easy to colour that with crayons if you’re not good at it."
         sequence-6:
           s: 6
-          from: 00:00:27,10
-          to: 00:00:30,08
-          text: It turned out really nice.
+          from: "00:00:27,10"
+          to: "00:00:30,08"
+          text: "It turned out really nice."
         sequence-7:
           s: 7
-          from: 00:00:30,08
-          to: 00:00:36,20
-          text: My drawing was chosen as the most beautiful one in the school.
+          from: "00:00:30,08"
+          to: "00:00:36,20"
+          text: "My drawing was chosen as the most beautiful one in the school."
         sequence-8:
           s: 8
-          from: 00:00:36,20
-          to: 00:00:42,17
-          text: We were called at the Ausoni theatre for the award ceremony.
+          from: "00:00:36,20"
+          to: "00:00:42,17"
+          text: "We were called at the Ausoni theatre for the award ceremony."
         sequence-9:
           s: 9
-          from: 00:00:42,17
-          to: 00:00:45,17
-          text: The podestà was to hand out the prizes.
+          from: "00:00:42,17"
+          to: "00:00:45,17"
+          text: "The podestà was to hand out the prizes."
         sequence-10:
           s: 10
-          from: 00:00:45,17
-          to: 00:00:52,19
-          text: The whole fascist hierarchy was attending, as always in case of ceremonies.
+          from: "00:00:45,17"
+          to: "00:00:52,19"
+          text: "The whole fascist hierarchy was attending, as always in case of ceremonies."
         sequence-11:
           s: 11
-          from: 00:00:52,19
-          to: 00:00:58,04
-          text: I was the last one who would have been awarded.
+          from: "00:00:52,19"
+          to: "00:00:58,04"
+          text: "I was the last one who would have been awarded."
         sequence-12:
           s: 12
-          from: 00:00:58,04
-          to: 00:01:02,17
-          text: They finally called me. I went up the steps to the stand.
+          from: "00:00:58,04"
+          to: "00:01:02,17"
+          text: "They finally called me. I went up the steps to the stand."
         sequence-13:
           s: 13
-          from: 00:01:02,17
-          to: 00:01:12,19
-          text: Mr. Ganassi was there. Every evening I used to bring him some milk
-            of a cow I had raised.
+          from: "00:01:02,17"
+          to: "00:01:12,19"
+          text: "Mr. Ganassi was there. Every evening I used to bring him some milk of a cow I had raised."
         sequence-14:
           s: 14
-          from: 00:01:12,19
-          to: 00:01:19,04
-          text: Since he had a little child and he had been losing all his children
-            when very young.
+          from: "00:01:12,19"
+          to: "00:01:19,04"
+          text: "Since he had a little child and he had been losing all his children when very young."
         sequence-15:
           s: 15
-          from: 00:01:19,04
-          to: 00:01:24,29
-          text: 'Mr. Ganassi told me: “So you don’t belong to the Piccole Italiane?”
-            I answered: “No, my father didn’t sign me up”.'
+          from: "00:01:19,04"
+          to: "00:01:24,29"
+          text: "Mr. Ganassi told me: “So you don’t belong to the Piccole Italiane?” I answered: “No, my father didn’t sign me up”."
         sequence-16:
           s: 16
-          from: 00:01:24,29
-          to: 00:01:28,28
+          from: "00:01:24,29"
+          to: "00:01:28,28"
           text: "“So we can’t give you the award”, said Mr. Ganassi, and sent me back."
         sequence-17:
           s: 17
-          from: 00:01:28,28
-          to: 00:01:34,05
-          text: How can a little girl who’s ten or eleven years old understand
+          from: "00:01:28,28"
+          to: "00:01:34,05"
+          text: "How can a little girl who’s ten or eleven years old understand"
         sequence-18:
           s: 18
-          from: 00:01:34,05
-          to: 00:01:42,01
-          text: that having a membership card is worth more than her skills?
+          from: "00:01:34,05"
+          to: "00:01:42,01"
+          text: "that having a membership card is worth more than her skills?"
         sequence-19:
           s: 19
-          from: 00:01:42,01
-          to: 00:01:47,17
-          text: I went home crying. My mother was feeding the pigs.
+          from: "00:01:42,01"
+          to: "00:01:47,17"
+          text: "I went home crying. My mother was feeding the pigs."
         sequence-20:
           s: 20
-          from: 00:01:47,17
-          to: 00:01:54,08
-          text: I was telling her that it was her fault that I didn’t receive my prize.
+          from: "00:01:47,17"
+          to: "00:01:54,08"
+          text: "I was telling her that it was her fault that I didn’t receive my prize."
         sequence-21:
           s: 21
-          from: 00:01:54,08
-          to: 00:02:02,09
-          text: She slapped me and told me that at least I had something to cry about.
-            She didn’t know how to explain me.
+          from: "00:01:54,08"
+          to: "00:02:02,09"
+          text: "She slapped me and told me that at least I had something to cry about. She didn’t know how to explain me."
         sequence-22:
           s: 22
-          from: 00:02:02,09
-          to: 00:02:06,27
-          text: Parents had to be really careful to talk with us kids.
+          from: "00:02:02,09"
+          to: "00:02:06,27"
+          text: "Parents had to be really careful to talk with us kids."
         sequence-23:
           s: 23
-          from: 00:02:06,27
-          to: 00:02:12,11
-          text: 'Children often repeat things they hear at home:'
+          from: "00:02:06,27"
+          to: "00:02:12,11"
+          text: "Children often repeat things they hear at home:"
         sequence-24:
           s: 24
-          from: 00:02:12,11
-          to: 00:02:23,07
-          text: If they said something bad about the fascists, parents could be punished.
+          from: "00:02:12,11"
+          to: "00:02:23,07"
+          text: "If they said something bad about the fascists, parents could be punished."
         sequence-25:
           s: 25
-          from: 00:02:23,07
-          to: 00:02:34,20
-          text: Even when they were talking in the cattle shed, they kept telling
-            us not to talk about what we heard.
+          from: "00:02:23,07"
+          to: "00:02:34,20"
+          text: "Even when they were talking in the cattle shed, they kept telling us not to talk about what we heard."
         sequence-26:
           s: 26
-          from: 00:02:34,20
-          to: 00:02:42,26
-          text: So since we were kids we knew we had to keep quiet in order not to
-            get ourselves and our family in trouble.
+          from: "00:02:34,20"
+          to: "00:02:42,26"
+          text: "So since we were kids we knew we had to keep quiet in order not to get ourselves and our family in trouble."
         sequence-27:
           s: 27
-          from: 00:02:42,26
-          to: 00:02:43,21
-          text: ''
+          from: "00:02:42,26"
+          to: "00:02:43,21"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:02:43,21
-          to: 00:02:49,13
-          text: Then our family moved to Reggio, because the kids were going to school.
+          from: "00:02:43,21"
+          to: "00:02:49,13"
+          text: "Then our family moved to Reggio, because the kids were going to school."
         sequence-29:
           s: 29
-          from: 00:02:49,13
-          to: 00:02:55,10
-          text: My brother had been going to high school at a boarding school in Parma.
+          from: "00:02:49,13"
+          to: "00:02:55,10"
+          text: "My brother had been going to high school at a boarding school in Parma."
         sequence-30:
           s: 30
-          from: 00:02:55,10
-          to: 00:02:59,27
-          text: There was a need to move closer to the city.
+          from: "00:02:55,10"
+          to: "00:02:59,27"
+          text: "There was a need to move closer to the city."
         sequence-31:
           s: 31
-          from: 00:02:59,27
-          to: 00:03:03,01
-          text: They bought a house in Dalmazia street.
+          from: "00:02:59,27"
+          to: "00:03:03,01"
+          text: "They bought a house in Dalmazia street."
         sequence-32:
           s: 32
-          from: 00:03:03,01
-          to: 00:03:07,03
-          text: Life changed dramatically for me.
+          from: "00:03:03,01"
+          to: "00:03:07,03"
+          text: "Life changed dramatically for me."
         sequence-33:
           s: 33
-          from: 00:03:07,03
-          to: 00:03:19,09
-          text: We left farm life, based on conservatism, traditionalism, on having
-            to be careful to what you say or do.
+          from: "00:03:07,03"
+          to: "00:03:19,09"
+          text: "We left farm life, based on conservatism, traditionalism, on having to be careful to what you say or do."
         sequence-34:
           s: 34
-          from: 00:03:19,09
-          to: 00:03:25,23
-          text: Also, women would be considered being a nobody.
+          from: "00:03:19,09"
+          to: "00:03:25,23"
+          text: "Also, women would be considered being a nobody."
         sequence-35:
           s: 35
-          from: 00:03:25,23
-          to: 00:03:30,14
-          text: I used to be told to shut up because I was a woman even at home.
+          from: "00:03:25,23"
+          to: "00:03:30,14"
+          text: "I used to be told to shut up because I was a woman even at home."
         sequence-36:
           s: 36
-          from: 00:03:30,14
-          to: 00:03:34,02
-          text: My mother thought this was right.
+          from: "00:03:30,14"
+          to: "00:03:34,02"
+          text: "My mother thought this was right."
         sequence-37:
           s: 37
-          from: 00:03:34,02
-          to: 00:03:38,07
-          text: In the city I started meeting women who went to work.
+          from: "00:03:34,02"
+          to: "00:03:38,07"
+          text: "In the city I started meeting women who went to work."
         sequence-38:
           s: 38
-          from: 00:03:38,07
-          to: 00:03:45,11
-          text: The working class elite used to live in Dalmazia street.
+          from: "00:03:38,07"
+          to: "00:03:45,11"
+          text: "The working class elite used to live in Dalmazia street."
         sequence-39:
           s: 39
-          from: 00:03:45,11
-          to: 00:03:50,03
-          text: Reggiane factory technicians of the water and gas companies.
+          from: "00:03:45,11"
+          to: "00:03:50,03"
+          text: "Reggiane factory technicians of the water and gas companies."
         sequence-40:
           s: 40
-          from: 00:03:50,03
-          to: 00:03:57,12
-          text: They were a very bright, mature and well-prepared group of working
-            class people.
+          from: "00:03:50,03"
+          to: "00:03:57,12"
+          text: "They were a very bright, mature and well-prepared group of working class people."
         sequence-41:
           s: 41
-          from: 00:03:57,12
-          to: 00:04:08,01
-          text: We moved there in 1938; I had just turned 17. We had a restaurant
-            with a bar.
+          from: "00:03:57,12"
+          to: "00:04:08,01"
+          text: "We moved there in 1938; I had just turned 17. We had a restaurant with a bar."
         sequence-42:
           s: 42
-          from: 00:04:08,01
-          to: 00:04:18,11
-          text: Although I was quite young, I was very curious. I had always been
-            like that.
+          from: "00:04:08,01"
+          to: "00:04:18,11"
+          text: "Although I was quite young, I was very curious. I had always been like that."
         sequence-43:
           s: 43
-          from: 00:04:18,11
-          to: 00:04:27,28
-          text: The older men liked me. They started to explain to me what I had known
-            only in general terms.
+          from: "00:04:18,11"
+          to: "00:04:27,28"
+          text: "The older men liked me. They started to explain to me what I had known only in general terms."
         sequence-44:
           s: 44
-          from: 00:04:27,28
-          to: 00:04:34,06
-          text: What fascism really was, the real reasons behind its existence,
+          from: "00:04:27,28"
+          to: "00:04:34,06"
+          text: "What fascism really was, the real reasons behind its existence,"
         sequence-45:
           s: 45
-          from: 00:04:34,06
-          to: 00:04:41,19
-          text: for it was only violence and ignorance to me at that time.
+          from: "00:04:34,06"
+          to: "00:04:41,19"
+          text: "for it was only violence and ignorance to me at that time."
         sequence-46:
           s: 46
-          from: 00:04:41,19
-          to: 00:04:46,19
-          text: These men were generally Communists and Socialists.
+          from: "00:04:41,19"
+          to: "00:04:46,19"
+          text: "These men were generally Communists and Socialists."
         sequence-47:
           s: 47
-          from: 00:04:46,19
-          to: 00:04:55,00
-          text: I began to understand and to see things from a different point of
-            view that attracted me more.
+          from: "00:04:46,19"
+          to: "00:04:55,00"
+          text: "I began to understand and to see things from a different point of view that attracted me more."
         sequence-48:
           s: 48
-          from: 00:04:55,00
-          to: 00:04:56,13
-          text: ''
+          from: "00:04:55,00"
+          to: "00:04:56,13"
+          text: ~
         sequence-49:
           s: 49
-          from: 00:04:56,13
-          to: 00:05:05,08
-          text: I had made friends with the young men who came to our bar.
+          from: "00:04:56,13"
+          to: "00:05:05,08"
+          text: "I had made friends with the young men who came to our bar."
         sequence-50:
           s: 50
-          from: 00:05:05,08
-          to: 00:05:10,29
-          text: When they left for war I became their communication point.
+          from: "00:05:05,08"
+          to: "00:05:10,29"
+          text: "When they left for war I became their communication point."
         sequence-51:
           s: 51
-          from: 00:05:10,29
-          to: 00:05:13,25
-          text: They were writing from Africa,
+          from: "00:05:10,29"
+          to: "00:05:13,25"
+          text: "They were writing from Africa,"
         sequence-52:
           s: 52
-          from: 00:05:13,25
-          to: 00:05:15,04
-          text: ''
+          from: "00:05:13,25"
+          to: "00:05:15,04"
+          text: ~
         sequence-53:
           s: 53
-          from: 00:05:15,04
-          to: 00:05:21,03
-          text: from France, from Russia, asking for news about each other.
+          from: "00:05:15,04"
+          to: "00:05:21,03"
+          text: "from France, from Russia, asking for news about each other."
         sequence-54:
           s: 54
-          from: 00:05:21,03
-          to: 00:05:36,10
-          text: I started to have a broader view of the war, compared to those who
-            only had letters from their relatives.
+          from: "00:05:21,03"
+          to: "00:05:36,10"
+          text: "I started to have a broader view of the war, compared to those who only had letters from their relatives."

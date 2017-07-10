@@ -1,64 +1,61 @@
----
 de:
   giacomina-castagnetti:
     chapter-11:
       c: 11
-      title: The end of wars brings little joy
+      title: "The end of wars brings little joy"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,22
-          to: 00:00:07,29
-          text: That night at home we started to count out those who were coming back.
+          from: "00:00:00,22"
+          to: "00:00:07,29"
+          text: "That night at home we started to count out those who were coming back."
         sequence-2:
           s: 2
-          from: 00:00:07,29
-          to: 00:00:15,09
-          text: As soon as we saw soldiers returning from the front, I went to the
-            train station in Reggio.
+          from: "00:00:07,29"
+          to: "00:00:15,09"
+          text: "As soon as we saw soldiers returning from the front, I went to the train station in Reggio."
         sequence-3:
           s: 3
-          from: 00:00:15,09
-          to: 00:00:20,17
-          text: I was hoping I would see my brother make it home too,
+          from: "00:00:15,09"
+          to: "00:00:20,17"
+          text: "I was hoping I would see my brother make it home too,"
         sequence-4:
           s: 4
-          from: 00:00:20,17
-          to: 00:00:21,01
-          text: ''
+          from: "00:00:20,17"
+          to: "00:00:21,01"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:21,01
-          to: 00:00:24,05
-          text: but I never saw him again.
+          from: "00:00:21,01"
+          to: "00:00:24,05"
+          text: "but I never saw him again."
         sequence-6:
           s: 6
-          from: 00:00:24,05
-          to: 00:00:26,06
-          text: ''
+          from: "00:00:24,05"
+          to: "00:00:26,06"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:26,06
-          to: 00:00:33,12
-          text: Of my six brothers, our numerous family,
+          from: "00:00:26,06"
+          to: "00:00:33,12"
+          text: "Of my six brothers, our numerous family,"
         sequence-8:
           s: 8
-          from: 00:00:33,12
-          to: 00:00:38,13
-          text: that had been awarded by the Duce,
+          from: "00:00:33,12"
+          to: "00:00:38,13"
+          text: "that had been awarded by the Duce,"
         sequence-9:
           s: 9
-          from: 00:00:38,13
-          to: 00:00:48,06
-          text: three died, one was a victim of political persecution and one hostage.
+          from: "00:00:38,13"
+          to: "00:00:48,06"
+          text: "three died, one was a victim of political persecution and one hostage."
         sequence-10:
           s: 10
-          from: 00:00:48,06
-          to: 00:00:50,00
-          text: ''
+          from: "00:00:48,06"
+          to: "00:00:50,00"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:50,00
-          to: 00:00:57,25
-          text: We didn’t really have too much to be happy about, in spite of the
-            Liberation.
+          from: "00:00:50,00"
+          to: "00:00:57,25"
+          text: "We didn’t really have too much to be happy about, in spite of the Liberation."

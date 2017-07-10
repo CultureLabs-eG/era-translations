@@ -1,82 +1,81 @@
----
 en:
   ana-zablatnik:
     chapter-3:
       c: 3
-      title: Life in fear
+      title: "Life in fear"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:04,28
-          to: 00:00:07,12
-          text: They were very frightened – of course.
+          from: "00:00:04,28"
+          to: "00:00:07,12"
+          text: "They were very frightened – of course."
         sequence-2:
           s: 2
-          from: 00:00:07,12
-          to: 00:00:11,23
-          text: They heard when one was caught and another one…
+          from: "00:00:07,12"
+          to: "00:00:11,23"
+          text: "They heard when one was caught and another one…"
         sequence-3:
           s: 3
-          from: 00:00:11,23
-          to: 00:00:13,27
-          text: ''
+          from: "00:00:11,23"
+          to: "00:00:13,27"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:13,27
-          to: 00:00:16,22
-          text: 'We always thought: ‘hopefully that won’t happen to us’.'
+          from: "00:00:13,27"
+          to: "00:00:16,22"
+          text: "We always thought: ‘hopefully that won’t happen to us’."
         sequence-5:
           s: 5
-          from: 00:00:16,22
-          to: 00:00:20,10
-          text: Everybody was living with fear at this time;
+          from: "00:00:16,22"
+          to: "00:00:20,10"
+          text: "Everybody was living with fear at this time;"
         sequence-6:
           s: 6
-          from: 00:00:20,10
-          to: 00:00:22,08
-          text: ''
+          from: "00:00:20,10"
+          to: "00:00:22,08"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:22,08
-          to: 00:00:25,17
-          text: at home, as well. They did not know what was going to happen.
+          from: "00:00:22,08"
+          to: "00:00:25,17"
+          text: "at home, as well. They did not know what was going to happen."
         sequence-8:
           s: 8
-          from: 00:00:25,17
-          to: 00:00:31,26
-          text: 'In our family: my brother fell in 1942 in Russia,'
+          from: "00:00:25,17"
+          to: "00:00:31,26"
+          text: "In our family: my brother fell in 1942 in Russia,"
         sequence-9:
           s: 9
-          from: 00:00:31,26
-          to: 00:00:36,27
-          text: 1943 they enlisted the second brother, 1944 I was arrested,
+          from: "00:00:31,26"
+          to: "00:00:36,27"
+          text: "1943 they enlisted the second brother, 1944 I was arrested,"
         sequence-10:
           s: 10
-          from: 00:00:36,27
-          to: 00:00:41,28
-          text: and in January 1945 my other brother was enlisted.
+          from: "00:00:36,27"
+          to: "00:00:41,28"
+          text: "and in January 1945 my other brother was enlisted."
         sequence-11:
           s: 11
-          from: 00:00:41,28
-          to: 00:00:46,11
-          text: Nobody knew how it would end.
+          from: "00:00:41,28"
+          to: "00:00:46,11"
+          text: "Nobody knew how it would end."
         sequence-12:
           s: 12
-          from: 00:00:46,11
-          to: 00:00:49,20
-          text: It was a horrible thing for the families.
+          from: "00:00:46,11"
+          to: "00:00:49,20"
+          text: "It was a horrible thing for the families."
         sequence-13:
           s: 13
-          from: 00:00:49,20
-          to: 00:00:52,07
-          text: ''
+          from: "00:00:49,20"
+          to: "00:00:52,07"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:00:52,07
-          to: 00:00:59,09
-          text: You had to get through it and still believe in a good ending.
+          from: "00:00:52,07"
+          to: "00:00:59,09"
+          text: "You had to get through it and still believe in a good ending."
         sequence-15:
           s: 15
-          from: 00:00:59,09
-          to: 00:01:00,26
-          text: That was part of it.
+          from: "00:00:59,09"
+          to: "00:01:00,26"
+          text: "That was part of it."

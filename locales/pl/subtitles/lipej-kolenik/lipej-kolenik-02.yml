@@ -1,82 +1,81 @@
----
 pl:
   lipej-kolenik:
     chapter-2:
       c: 2
-      title: First contact with partisans
+      title: ~
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,13
-          to: 00:00:12,25
-          text: We had already heard in 1942 that partisans were staying in our area.
+          from: "00:00:00,13"
+          to: "00:00:12,25"
+          text: ~
         sequence-2:
           s: 2
-          from: 00:00:12,25
-          to: 00:00:13,16
-          text: ''
+          from: "00:00:12,25"
+          to: "00:00:13,16"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:13,16
-          to: 00:00:18,18
-          text: But the first contact was at Easter 1943
+          from: "00:00:13,16"
+          to: "00:00:18,18"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:18,18
-          to: 00:00:26,24
-          text: 'when the first partisans came and knocked at the door:'
+          from: "00:00:18,18"
+          to: "00:00:26,24"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:26,24
-          to: 00:00:28,06
-          text: ''
+          from: "00:00:26,24"
+          to: "00:00:28,06"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:28,06
-          to: 00:00:30,16
-          text: "“Mother, open!"
+          from: "00:00:28,06"
+          to: "00:00:30,16"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:30,16
-          to: 00:00:36,09
-          text: The partisans are here; the army of the Slovenian people.
+          from: "00:00:30,16"
+          to: "00:00:36,09"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:36,09
-          to: 00:00:43,22
-          text: We will destroy fascism and you will be free once more.”
+          from: "00:00:36,09"
+          to: "00:00:43,22"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:43,22
-          to: 00:00:45,02
-          text: ''
+          from: "00:00:43,22"
+          to: "00:00:45,02"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:45,02
-          to: 00:00:56,15
-          text: Afterwards we had regular contact. We sang a song I will never forget.
+          from: "00:00:45,02"
+          to: "00:00:56,15"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:56,15
-          to: 00:01:00,18
-          text: There was a woman who had a harmonica.
+          from: "00:00:56,15"
+          to: "00:01:00,18"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:00,18
-          to: 00:01:03,02
-          text: We were friends straight away.
+          from: "00:01:00,18"
+          to: "00:01:03,02"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:01:03,02
-          to: 00:01:08,07
-          text: Afterwards we had to help them every day.
+          from: "00:01:03,02"
+          to: "00:01:08,07"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:08,07
-          to: 00:01:13,18
-          text: Into the forest, delivering food. In the evenings they came again.
+          from: "00:01:08,07"
+          to: "00:01:13,18"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:13,18
-          to: 00:01:23,12
-          text: That was the way the resistance was organised and kept getting stronger.
+          from: "00:01:13,18"
+          to: "00:01:23,12"
+          text: ~

@@ -1,192 +1,181 @@
----
 de:
   giovanna-quadreri:
     chapter-1:
       c: 1
-      title: Einleitung, Familie, Arbeit
+      title: "Einleitung, Familie, Arbeit"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,17
-          to: 00:00:23,01
-          text: Mein Vater war ein Findelkind und wurde von meinem Großvater, Carlo Zebenini, adoptiert als er noch ein Baby war.
+          from: "00:00:01,17"
+          to: "00:00:23,01"
+          text: "Mein Vater war ein Findelkind und wurde von meinem Großvater, Carlo Zebenini, adoptiert als er noch ein Baby war."
         sequence-2:
           s: 2
-          from: 00:00:23,01
-          to: 00:00:27,01
-          text: Mein Vater hieß Reino Quadreri.
+          from: "00:00:23,01"
+          to: "00:00:27,01"
+          text: "Mein Vater hieß Reino Quadreri."
         sequence-3:
           s: 3
-          from: 00:00:27,01
-          to: 00:00:33,07
-          text: Meine Mutter wurde in Reggio geboren, ihr Name war Valentina Paterni.
+          from: "00:00:27,01"
+          to: "00:00:33,07"
+          text: "Meine Mutter wurde in Reggio geboren, ihr Name war Valentina Paterni."
         sequence-4:
           s: 4
-          from: 00:00:33,07
-          to: 00:00:47,02
-          text: Soll ich weitermachen? Dann war da mein Bruder Gastone, der 1917 geboren wurde, und Giulio, 1925 geboren.
+          from: "00:00:33,07"
+          to: "00:00:47,02"
+          text: "Soll ich weitermachen? Dann war da mein Bruder Gastone, der 1917 geboren wurde, und Giulio, 1925 geboren."
         sequence-5:
           s: 5
-          from: 00:00:47,02
-          to: 00:00:56,17
-          text: Meine Schwester Laura wurde 1926 geboren und danach kam ich im Jahr 1928.
+          from: "00:00:47,02"
+          to: "00:00:56,17"
+          text: "Meine Schwester Laura wurde 1926 geboren und danach kam ich im Jahr 1928."
         sequence-6:
           s: 6
-          from: 00:00:56,17
-          to: 00:01:06,06
-          text: Schlussendlich noch Aldo 1931 und Renzo 1933.
+          from: "00:00:56,17"
+          to: "00:01:06,06"
+          text: "Schlussendlich noch Aldo 1931 und Renzo 1933."
         sequence-7:
           s: 7
-          from: 00:01:06,06
-          to: 00:01:09,19
-          text: ''
+          from: "00:01:06,06"
+          to: "00:01:09,19"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:01:09,19
-          to: 00:01:13,05
-          text: Meine Mutter war Schneiderin, zum Glück.
+          from: "00:01:09,19"
+          to: "00:01:13,05"
+          text: "Meine Mutter war Schneiderin, zum Glück."
         sequence-9:
           s: 9
-          from: 00:01:13,05
-          to: 00:01:23,06
-          text: Wir hatten ein Haus und ein wenig Land, aber mit so einer großen Familie musste mein Vater sich trotzdem als Arbeiter betätigen.
+          from: "00:01:13,05"
+          to: "00:01:23,06"
+          text: "Wir hatten ein Haus und ein wenig Land, aber mit so einer großen Familie musste mein Vater sich trotzdem als Arbeiter betätigen."
         sequence-10:
           s: 10
-          from: 00:01:23,06
-          to: 00:01:27,09
-          text: ''
+          from: "00:01:23,06"
+          to: "00:01:27,09"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:01:27,09
-          to: 00:01:34,23
-          text: Selbst vor dem Krieg hatten wir schon nichts, und dann wurde alles noch schlechter.
+          from: "00:01:27,09"
+          to: "00:01:34,23"
+          text: "Selbst vor dem Krieg hatten wir schon nichts, und dann wurde alles noch schlechter."
         sequence-12:
           s: 12
-          from: 00:01:34,23
-          to: 00:01:42,03
-          text: Meine Brüder hatten nur bis zur dritten Klasse Schule, mehr gab es in Marola nicht.
+          from: "00:01:34,23"
+          to: "00:01:42,03"
+          text: "Meine Brüder hatten nur bis zur dritten Klasse Schule, mehr gab es in Marola nicht."
         sequence-13:
           s: 13
-          from: 00:01:42,03
-          to: 00:01:49,15
-          text: Ich hatte als Einzige bis zur fünften Klasse Schule, aber dafür musste ich nach Carpineti gehen.
+          from: "00:01:42,03"
+          to: "00:01:49,15"
+          text: "Ich hatte als Einzige bis zur fünften Klasse Schule, aber dafür musste ich nach Carpineti gehen."
         sequence-14:
           s: 14
-          from: 00:01:49,15
-          to: 00:01:57,19
-          text: Wir blieben zu Hause; meine Brüder arbeiteten gelegentlich, oft als Helfer auf dem Feld für andere Familien.
+          from: "00:01:49,15"
+          to: "00:01:57,19"
+          text: "Wir blieben zu Hause; meine Brüder arbeiteten gelegentlich, oft als Helfer auf dem Feld für andere Familien."
         sequence-15:
           s: 15
-          from: 00:01:57,19
-          to: 00:02:09,28
-          text: Mein älterer Bruder arbeitete 10 Jahre lang als Maurer für das Priesterseminar, bevor er im Alter von 20 in die Armee eingezogen wurde.
+          from: "00:01:57,19"
+          to: "00:02:09,28"
+          text: "Mein älterer Bruder arbeitete 10 Jahre lang als Maurer für das Priesterseminar, bevor er im Alter von 20 in die Armee eingezogen wurde."
         sequence-16:
           s: 16
-          from: 00:02:09,28
-          to: 00:02:10,28
-          text: ''
+          from: "00:02:09,28"
+          to: "00:02:10,28"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:02:10,28
-          to: 00:02:15,12
-          text: Mein Vater arbeitete wann immer er Arbeit finden konnte.
+          from: "00:02:10,28"
+          to: "00:02:15,12"
+          text: "Mein Vater arbeitete wann immer er Arbeit finden konnte."
         sequence-18:
           s: 18
-          from: 00:02:15,12
-          to: 00:02:25,24
-          text: Er hatte nur im Sommer regelmäßig Arbeit, wenn er für fast zwei Monate zum Dreschen in die Felder ging.
+          from: "00:02:15,12"
+          to: "00:02:25,24"
+          text: "Er hatte nur im Sommer regelmäßig Arbeit, wenn er für fast zwei Monate zum Dreschen in die Felder ging."
         sequence-19:
           s: 19
-          from: 00:02:25,24
-          to: 00:02:34,23
-          text: Sie können diese Maschinen während der Dreschzeit immer noch in den Dörfern sehen,
+          from: "00:02:25,24"
+          to: "00:02:34,23"
+          text: "Sie können diese Maschinen während der Dreschzeit immer noch in den Dörfern sehen,"
         sequence-20:
           s: 20
-          from: 00:02:34,23
-          to: 00:02:43,02
-          text: und er war sehr gut damit, so hatten sie für fast zwei Monate Arbeit.
+          from: "00:02:34,23"
+          to: "00:02:43,02"
+          text: "und er war sehr gut damit, so hatten sie für fast zwei Monate Arbeit."
         sequence-21:
           s: 21
-          from: 00:02:43,02
-          to: 00:02:49,14
-          text: Mein Vater arbeitete für diese Familie jeden Sommer, 42 Jahre lang,
+          from: "00:02:43,02"
+          to: "00:02:49,14"
+          text: "Mein Vater arbeitete für diese Familie jeden Sommer, 42 Jahre lang,"
         sequence-22:
           s: 22
-          from: 00:02:49,14
-          to: 00:02:54,02
-          text: und das war das einzige regelmäßige Einkommen im ganzen Jahr.
+          from: "00:02:49,14"
+          to: "00:02:54,02"
+          text: "und das war das einzige regelmäßige Einkommen im ganzen Jahr."
         sequence-23:
           s: 23
-          from: 00:02:54,02
-          to: 00:03:00,03
-          text: At times he would also manage to work for a couple of weeks, once
-            or twice a year.
+          from: "00:02:54,02"
+          to: "00:03:00,03"
+          text: "At times he would also manage to work for a couple of weeks, once or twice a year."
         sequence-24:
           s: 24
-          from: 00:03:00,03
-          to: 00:03:01,07
-          text: ''
+          from: "00:03:00,03"
+          to: "00:03:01,07"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:03:01,07
-          to: 00:03:07,07
-          text: We were doing fine because my mother worked as a dressmaker and was
-            able to earn a little money.
+          from: "00:03:01,07"
+          to: "00:03:07,07"
+          text: "We were doing fine because my mother worked as a dressmaker and was able to earn a little money."
         sequence-26:
           s: 26
-          from: 00:03:07,07
-          to: 00:03:11,28
-          text: She was very good at her job and worked for a family who paid her
-            well.
+          from: "00:03:07,07"
+          to: "00:03:11,28"
+          text: "She was very good at her job and worked for a family who paid her well."
         sequence-27:
           s: 27
-          from: 00:03:11,28
-          to: 00:03:20,25
-          text: Nevertheless, we were nine in our family, so my brothers went to work
-            as soon as they could.
+          from: "00:03:11,28"
+          to: "00:03:20,25"
+          text: "Nevertheless, we were nine in our family, so my brothers went to work as soon as they could."
         sequence-28:
           s: 28
-          from: 00:03:20,25
-          to: 00:03:27,01
-          text: My sister was ten when she left home and went to work in Parma for
-            a lady who was living alone.
+          from: "00:03:20,25"
+          to: "00:03:27,01"
+          text: "My sister was ten when she left home and went to work in Parma for a lady who was living alone."
         sequence-29:
           s: 29
-          from: 00:03:27,01
-          to: 00:03:32,01
-          text: I went to Switzerland and worked there with a family for ten years.
+          from: "00:03:27,01"
+          to: "00:03:32,01"
+          text: "I went to Switzerland and worked there with a family for ten years."
         sequence-30:
           s: 30
-          from: 00:03:32,01
-          to: 00:03:42,24
-          text: I was the one who had to wake up my master at two in the morning,
-            knocking on the door and shouting, “It’s two o’ clock”.
+          from: "00:03:32,01"
+          to: "00:03:42,24"
+          text: "I was the one who had to wake up my master at two in the morning, knocking on the door and shouting, “It’s two o’ clock”."
         sequence-31:
           s: 31
-          from: 00:03:42,24
-          to: 00:03:55,29
-          text: I was 19 or 20 years old then. He trusted me; he would go to bed at
-            ten but had to get up to go work at the bakery.
+          from: "00:03:42,24"
+          to: "00:03:55,29"
+          text: "I was 19 or 20 years old then. He trusted me; he would go to bed at ten but had to get up to go work at the bakery."
         sequence-32:
           s: 32
-          from: 00:03:55,29
-          to: 00:04:02,09
-          text: So I would go to bed at one and then get up to wake him up at two.
-            He didn’t ask his wife to do it.
+          from: "00:03:55,29"
+          to: "00:04:02,09"
+          text: "So I would go to bed at one and then get up to wake him up at two. He didn’t ask his wife to do it."
         sequence-33:
           s: 33
-          from: 00:04:02,09
-          to: 00:04:10,24
-          text: Then my master died, and I was left there with three children, his
-            wife who was ill, the restaurant, the bakery and other things.
+          from: "00:04:02,09"
+          to: "00:04:10,24"
+          text: "Then my master died, and I was left there with three children, his wife who was ill, the restaurant, the bakery and other things."
         sequence-34:
           s: 34
-          from: 00:04:10,24
-          to: 00:04:22,13
-          text: All I knew was that I had to work. That was it. And I can tell you
-            that you sure work hard under the Germans, isn’t that true?
+          from: "00:04:10,24"
+          to: "00:04:22,13"
+          text: "All I knew was that I had to work. That was it. And I can tell you that you sure work hard under the Germans, isn’t that true?"
         sequence-35:
           s: 35
-          from: 00:04:22,13
-          to: 00:04:31,26
-          text: Even in the rain, they wear a priest’s hat and go to work in the fields.
+          from: "00:04:22,13"
+          to: "00:04:31,26"
+          text: "Even in the rain, they wear a priest’s hat and go to work in the fields."

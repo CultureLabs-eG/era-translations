@@ -1,117 +1,111 @@
----
 pl:
   vincent-pascucci:
     chapter-2:
       c: 2
-      title: 'Political activities '
+      title: ~
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,22
-          to: 00:00:11,17
-          text: During the elections of 1935, the reactionary government of Nanterre
+          from: "00:00:01,22"
+          to: "00:00:11,17"
+          text: ~
         sequence-2:
           s: 2
-          from: 00:00:11,17
-          to: 00:00:22,19
-          text: had been replaced by a communist government.
+          from: "00:00:11,17"
+          to: "00:00:22,19"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:22,19
-          to: 00:00:32,07
-          text: During the electoral campaign, there were always meetings in the various
-            neighborhoods.
+          from: "00:00:22,19"
+          to: "00:00:32,07"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:32,07
-          to: 00:00:41,19
-          text: These meetings were called “Le compte rendu des mandats”. My father
-            often took me along.
+          from: "00:00:32,07"
+          to: "00:00:41,19"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:41,19
-          to: 00:00:48,17
-          text: I participated at meetings for the legislative elections
+          from: "00:00:41,19"
+          to: "00:00:48,17"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:48,17
-          to: 00:00:57,00
-          text: in which Waldeck Rocher won against the Comte De Fels.
+          from: "00:00:48,17"
+          to: "00:00:57,00"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:57,00
-          to: 00:00:58,09
-          text: ''
+          from: "00:00:57,00"
+          to: "00:00:58,09"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:58,09
-          to: 00:01:03,08
-          text: My father also took me to my first demonstration.
+          from: "00:00:58,09"
+          to: "00:01:03,08"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:01:03,08
-          to: 00:01:11,20
-          text: It was called the “Wall of the Confederates” in memory of the Paris
-            Commune (1870/71).
+          from: "00:01:03,08"
+          to: "00:01:11,20"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:01:11,20
-          to: 00:01:21,09
-          text: I remember meeting my teacher, a young socialist, at the demonstration.
+          from: "00:01:11,20"
+          to: "00:01:21,09"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:01:21,09
-          to: 00:01:23,23
-          text: ''
+          from: "00:01:21,09"
+          to: "00:01:23,23"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:23,23
-          to: 00:01:28,25
-          text: I belonged to the Communist Youth Movement.
+          from: "00:01:23,23"
+          to: "00:01:28,25"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:01:28,25
-          to: 00:01:29,27
-          text: ''
+          from: "00:01:28,25"
+          to: "00:01:29,27"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:29,27
-          to: 00:01:42,06
-          text: I was responsible for the distribution of the newspaper “l’Avantgarde”
-            until the war,
+          from: "00:01:29,27"
+          to: "00:01:42,06"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:42,06
-          to: 00:01:49,20
-          text: until the banning of the Communist Party.
+          from: "00:01:42,06"
+          to: "00:01:49,20"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:49,20
-          to: 00:01:50,19
-          text: ''
+          from: "00:01:49,20"
+          to: "00:01:50,19"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:50,19
-          to: 00:02:08,09
-          text: The Communist Party was banned after the non-aggression treaty between
-            Hitler and Stalin (1939).
+          from: "00:01:50,19"
+          to: "00:02:08,09"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:02:08,09
-          to: 00:02:13,09
-          text: The treaty was seen very negatively by the population
+          from: "00:02:08,09"
+          to: "00:02:13,09"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:02:13,09
-          to: 00:02:15,05
-          text: ''
+          from: "00:02:13,09"
+          to: "00:02:15,05"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:02:15,05
-          to: 00:02:21,16
-          text: and became subject of propaganda from the French government.
+          from: "00:02:15,05"
+          to: "00:02:21,16"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:02:21,16
-          to: 00:02:32,15
-          text: When distributing leaflets I was sometimes insulted by the workers.
+          from: "00:02:21,16"
+          to: "00:02:32,15"
+          text: ~

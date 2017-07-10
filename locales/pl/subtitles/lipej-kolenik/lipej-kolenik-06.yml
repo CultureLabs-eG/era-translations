@@ -1,104 +1,101 @@
----
 pl:
   lipej-kolenik:
     chapter-6:
       c: 6
-      title: Motivation; problems of the partisans
+      title: ~
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,26
-          to: 00:00:06,07
-          text: With the partisans life was slightly different.
+          from: "00:00:01,26"
+          to: "00:00:06,07"
+          text: ~
         sequence-2:
           s: 2
-          from: 00:00:06,07
-          to: 00:00:09,00
-          text: 'Nowadays you say:'
+          from: "00:00:06,07"
+          to: "00:00:09,00"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:09,00
-          to: 00:00:15,21
-          text: "“Not everybody had the opportunity to join them.”"
+          from: "00:00:09,00"
+          to: "00:00:15,21"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:15,21
-          to: 00:00:23,06
-          text: Many would have had an opportunity but didn’t risk it.
+          from: "00:00:15,21"
+          to: "00:00:23,06"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:23,06
-          to: 00:00:24,05
-          text: ''
+          from: "00:00:23,06"
+          to: "00:00:24,05"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:24,05
-          to: 00:00:32,04
-          text: I was not fit to work for the front any more.
+          from: "00:00:24,05"
+          to: "00:00:32,04"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:32,04
-          to: 00:00:33,01
-          text: ''
+          from: "00:00:32,04"
+          to: "00:00:33,01"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:33,01
-          to: 00:00:38,28
-          text: For me there would have probably been a job.
+          from: "00:00:33,01"
+          to: "00:00:38,28"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:38,28
-          to: 00:00:50,25
-          text: But I didn’t want to. I could not share the responsibility to work
-            with the ones that wanted to eliminate us.
+          from: "00:00:38,28"
+          to: "00:00:50,25"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:50,25
-          to: 00:00:53,21
-          text: ''
+          from: "00:00:50,25"
+          to: "00:00:53,21"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:53,21
-          to: 00:01:07,12
-          text: The partisans had problems with the provisions
+          from: "00:00:53,21"
+          to: "00:01:07,12"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:07,12
-          to: 00:01:11,05
-          text: ''
+          from: "00:01:07,12"
+          to: "00:01:11,05"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:01:11,05
-          to: 00:01:16,09
-          text: and sleeping in the forest overnight.
+          from: "00:01:11,05"
+          to: "00:01:16,09"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:16,09
-          to: 00:01:21,00
-          text: Here and there in houses as well, still, but most of the time in the
-            forest.
+          from: "00:01:16,09"
+          to: "00:01:21,00"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:21,00
-          to: 00:01:30,29
-          text: Even in the cold and snow. The clothes froze on you.
+          from: "00:01:21,00"
+          to: "00:01:30,29"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:30,29
-          to: 00:01:36,16
-          text: You felt stiff as a straw mattress.
+          from: "00:01:30,29"
+          to: "00:01:36,16"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:36,16
-          to: 00:01:45,12
-          text: Only those of really a tough nature were able to handle that.
+          from: "00:01:36,16"
+          to: "00:01:45,12"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:01:45,12
-          to: 00:01:51,22
-          text: People incapable of handling this deserted.
+          from: "00:01:45,12"
+          to: "00:01:51,22"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:51,22
-          to: 00:01:53,20
-          text: That didn’t help.
+          from: "00:01:51,22"
+          to: "00:01:53,20"
+          text: ~

@@ -1,168 +1,158 @@
----
 en:
   ivo-srcnik:
     chapter-5:
       c: 5
-      title: Joining the Yugoslav Brigade
+      title: "Joining the Yugoslav Brigade"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,20
-          to: 00:00:05,16
-          text: Then the order came, you’re going out.
+          from: "00:00:00,20"
+          to: "00:00:05,16"
+          text: "Then the order came, you’re going out."
         sequence-2:
           s: 2
-          from: 00:00:05,16
-          to: 00:00:13,26
-          text: I don’t know if there was any guard there at all; where would one
-            escape to anyway?
+          from: "00:00:05,16"
+          to: "00:00:13,26"
+          text: "I don’t know if there was any guard there at all; where would one escape to anyway?"
         sequence-3:
           s: 3
-          from: 00:00:13,26
-          to: 00:00:19,00
-          text: Winter was perpetual, no not perpetual, but the snow…
+          from: "00:00:13,26"
+          to: "00:00:19,00"
+          text: "Winter was perpetual, no not perpetual, but the snow…"
         sequence-4:
           s: 4
-          from: 00:00:19,00
-          to: 00:00:26,05
-          text: They brought us to Moscow, or really it was Krasnogorsk.
+          from: "00:00:19,00"
+          to: "00:00:26,05"
+          text: "They brought us to Moscow, or really it was Krasnogorsk."
         sequence-5:
           s: 5
-          from: 00:00:26,05
-          to: 00:00:27,14
-          text: ''
+          from: "00:00:26,05"
+          to: "00:00:27,14"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:27,14
-          to: 00:00:36,07
-          text: 'There was a prisoner of war camp in Krasnogorsk. There were all sorts
-            of nationalities represented there:'
+          from: "00:00:27,14"
+          to: "00:00:36,07"
+          text: "There was a prisoner of war camp in Krasnogorsk. There were all sorts of nationalities represented there:"
         sequence-7:
           s: 7
-          from: 00:00:36,07
-          to: 00:00:42,29
-          text: Slovenians, Croatians, Czechs, Polacks and even French.
+          from: "00:00:36,07"
+          to: "00:00:42,29"
+          text: "Slovenians, Croatians, Czechs, Polacks and even French."
         sequence-8:
           s: 8
-          from: 00:00:42,29
-          to: 00:00:44,09
-          text: ''
+          from: "00:00:42,29"
+          to: "00:00:44,09"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:44,09
-          to: 00:00:48,25
-          text: They sort of trained us in Krasnogorsk.
+          from: "00:00:44,09"
+          to: "00:00:48,25"
+          text: "They sort of trained us in Krasnogorsk."
         sequence-10:
           s: 10
-          from: 00:00:48,25
-          to: 00:01:02,00
-          text: That’s what I think and we also debated it among us - we were going
-            to be sent in against Hitler, against Germany.
+          from: "00:00:48,25"
+          to: "00:01:02,00"
+          text: "That’s what I think and we also debated it among us - we were going to be sent in against Hitler, against Germany."
         sequence-11:
           s: 11
-          from: 00:01:02,00
-          to: 00:01:16,13
-          text: We all decided that we would do it. So in Krasnogrosk we were prepared,
-            they changed us …
+          from: "00:01:02,00"
+          to: "00:01:16,13"
+          text: "We all decided that we would do it. So in Krasnogrosk we were prepared, they changed us …"
         sequence-12:
           s: 12
-          from: 00:01:16,13
-          to: 00:01:27,15
-          text: it’ll sound a bit wicked how I say it … from Fascism to Bolshevism,
-            or from Nationalism to Bolshevism.
+          from: "00:01:16,13"
+          to: "00:01:27,15"
+          text: "it’ll sound a bit wicked how I say it … from Fascism to Bolshevism, or from Nationalism to Bolshevism."
         sequence-13:
           s: 13
-          from: 00:01:27,15
-          to: 00:01:38,16
-          text: That’s how we imagined things were at the time, because there was
-            no sentry or guard watching over us in Krasnogorsk.
+          from: "00:01:27,15"
+          to: "00:01:38,16"
+          text: "That’s how we imagined things were at the time, because there was no sentry or guard watching over us in Krasnogorsk."
         sequence-14:
           s: 14
-          from: 00:01:38,16
-          to: 00:01:45,14
-          text: I think we were there in Krasnogorsk perhaps about one month.
+          from: "00:01:38,16"
+          to: "00:01:45,14"
+          text: "I think we were there in Krasnogorsk perhaps about one month."
         sequence-15:
           s: 15
-          from: 00:01:45,14
-          to: 00:01:55,24
-          text: Once, Mesic came to visit; by rank he was a general.
+          from: "00:01:45,14"
+          to: "00:01:55,24"
+          text: "Once, Mesic came to visit; by rank he was a general."
         sequence-16:
           s: 16
-          from: 00:01:55,24
-          to: 00:02:04,21
-          text: He was the father of the current Croatian Mesic, the one who is now
-            president or something.
+          from: "00:01:55,24"
+          to: "00:02:04,21"
+          text: "He was the father of the current Croatian Mesic, the one who is now president or something."
         sequence-17:
           s: 17
-          from: 00:02:04,21
-          to: 00:02:22,12
-          text: So his father came to us and said boys, whoever wants to join the
-            brigade can go and fight the Germans.
+          from: "00:02:04,21"
+          to: "00:02:22,12"
+          text: "So his father came to us and said boys, whoever wants to join the brigade can go and fight the Germans."
         sequence-18:
           s: 18
-          from: 00:02:22,12
-          to: 00:02:30,04
-          text: It was either to get away from the encampment,
+          from: "00:02:22,12"
+          to: "00:02:30,04"
+          text: "It was either to get away from the encampment,"
         sequence-19:
           s: 19
-          from: 00:02:30,04
-          to: 00:02:34,18
-          text: or maybe just to get away from being controlled,
+          from: "00:02:30,04"
+          to: "00:02:34,18"
+          text: "or maybe just to get away from being controlled,"
         sequence-20:
           s: 20
-          from: 00:02:34,18
-          to: 00:02:41,26
-          text: or maybe even we were fully conscious, but we chose to join the units.
+          from: "00:02:34,18"
+          to: "00:02:41,26"
+          text: "or maybe even we were fully conscious, but we chose to join the units."
         sequence-21:
           s: 21
-          from: 00:02:41,26
-          to: 00:02:51,10
-          text: I joined the Yugoslav brigade; that’s what it was called later, but
-            then it was a detachment.
+          from: "00:02:41,26"
+          to: "00:02:51,10"
+          text: "I joined the Yugoslav brigade; that’s what it was called later, but then it was a detachment."
         sequence-22:
           s: 22
-          from: 00:02:51,10
-          to: 00:02:58,16
-          text: At the time there were perhaps about 200 of us, or 300, 400 …
+          from: "00:02:51,10"
+          to: "00:02:58,16"
+          text: "At the time there were perhaps about 200 of us, or 300, 400 …"
         sequence-23:
           s: 23
-          from: 00:02:58,16
-          to: 00:03:07,13
-          text: "I joined and I don’t know if I was weak or not; I probably was. \n[00:03:06.10"
+          from: "00:02:58,16"
+          to: "00:03:07,13"
+          text: |-
+              I joined and I don’t know if I was weak or not; I probably was. 
+              [00:03:06.10
         sequence-24:
           s: 24
-          from: 00:03:07,13
-          to: 00:03:19,07
-          text: But I came to that headquarters where Mesic was the commanding officer
-            and he said that I’d be going to someone.
+          from: "00:03:07,13"
+          to: "00:03:19,07"
+          text: "But I came to that headquarters where Mesic was the commanding officer and he said that I’d be going to someone."
         sequence-25:
           s: 25
-          from: 00:03:19,07
-          to: 00:03:22,24
-          text: Who? I didn’t know.
+          from: "00:03:19,07"
+          to: "00:03:22,24"
+          text: "Who? I didn’t know."
         sequence-26:
           s: 26
-          from: 00:03:22,24
-          to: 00:03:38,27
-          text: But it came to be that I went to this man who had been living in Russia
-            since 1918, or maybe even earlier, since WWI.
+          from: "00:03:22,24"
+          to: "00:03:38,27"
+          text: "But it came to be that I went to this man who had been living in Russia since 1918, or maybe even earlier, since WWI."
         sequence-27:
           s: 27
-          from: 00:03:38,27
-          to: 00:03:43,17
-          text: His name was Jevremovic.
+          from: "00:03:38,27"
+          to: "00:03:43,17"
+          text: "His name was Jevremovic."
         sequence-28:
           s: 28
-          from: 00:03:43,17
-          to: 00:03:45,05
-          text: ''
+          from: "00:03:43,17"
+          to: "00:03:45,05"
+          text: ~
         sequence-29:
           s: 29
-          from: 00:03:45,05
-          to: 00:03:54,18
-          text: I came to this man wearing a uniform, and I spoke Serbian with him,
+          from: "00:03:45,05"
+          to: "00:03:54,18"
+          text: "I came to this man wearing a uniform, and I spoke Serbian with him,"
         sequence-30:
           s: 30
-          from: 00:03:54,18
-          to: 00:03:58,27
-          text: and he told me that I was going to be with him as his courier.
+          from: "00:03:54,18"
+          to: "00:03:58,27"
+          text: "and he told me that I was going to be with him as his courier."

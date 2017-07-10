@@ -1,490 +1,451 @@
----
 pl:
   ivo-srcnik:
     chapter-4:
       c: 4
-      title: As prisoner of war in the Soviet Union
+      title: ~
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,04
-          to: 00:00:11,16
-          text: Perhaps it was a week or two or three, I can’t say because we didn’t
-            follow calendar days.
+          from: "00:00:01,04"
+          to: "00:00:11,16"
+          text: ~
         sequence-2:
           s: 2
-          from: 00:00:11,16
-          to: 00:00:17,04
-          text: They didn’t even know calendars in Russia at the time.
+          from: "00:00:11,16"
+          to: "00:00:17,04"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:17,04
-          to: 00:00:28,17
-          text: I was taken prisoner when i was riding my horses, packed with food,
-            to the front line, to the German front.
+          from: "00:00:17,04"
+          to: "00:00:28,17"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:28,17
-          to: 00:00:52,25
-          text: I swear it was a Russian stallion and I swear, when that stallion
-            sensed the Russian language, I didn’t even hear it, he started neighing.
+          from: "00:00:28,17"
+          to: "00:00:52,25"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:52,25
-          to: 00:01:06,19
-          text: I guess I wasn’t careful; I was taken by surprise.
+          from: "00:00:52,25"
+          to: "00:01:06,19"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:01:06,19
-          to: 00:01:17,20
-          text: I rode on another few hundred meters and then five or six people,
-            girls too, surrounded me.
+          from: "00:01:06,19"
+          to: "00:01:17,20"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:01:17,20
-          to: 00:01:27,20
-          text: They said that I was mobilized into the German army. I even said so
-            myself.
+          from: "00:01:17,20"
+          to: "00:01:27,20"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:01:27,20
-          to: 00:01:34,10
-          text: But I wondered how these strangers could know.
+          from: "00:01:27,20"
+          to: "00:01:34,10"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:01:34,10
-          to: 00:01:35,20
-          text: ''
+          from: "00:01:34,10"
+          to: "00:01:35,20"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:01:35,20
-          to: 00:01:45,03
-          text: One of the soldiers said to me, actually he was a civilian, to show
-            my bombaska.
+          from: "00:01:35,20"
+          to: "00:01:45,03"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:01:45,03
-          to: 00:01:54,02
-          text: How is one to know? …foreign people, strangers …
+          from: "00:01:45,03"
+          to: "00:01:54,02"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:54,02
-          to: 00:02:03,10
-          text: So I pulled it out of the pocket of my German uniform, up here on
-            the left side we had a pocket,
+          from: "00:01:54,02"
+          to: "00:02:03,10"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:02:03,10
-          to: 00:02:08,29
-          text: and I took the paper out and handed it over.
+          from: "00:02:03,10"
+          to: "00:02:08,29"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:02:08,29
-          to: 00:02:16,28
-          text: The leader said votja, charasho, meaning thank you that I gave him
-            the paper.
+          from: "00:02:08,29"
+          to: "00:02:16,28"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:02:16,28
-          to: 00:02:18,15
-          text: ''
+          from: "00:02:16,28"
+          to: "00:02:18,15"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:02:18,15
-          to: 00:02:25,13
-          text: They took my horses there, when I was surrounded;
+          from: "00:02:18,15"
+          to: "00:02:25,13"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:02:25,13
-          to: 00:02:35,12
-          text: and I was made to taste some food, to test whether it was really edible.
+          from: "00:02:25,13"
+          to: "00:02:35,12"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:02:35,12
-          to: 00:02:41,14
-          text: I don’t know if later they ate that food or not.
+          from: "00:02:35,12"
+          to: "00:02:41,14"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:02:41,14
-          to: 00:02:47,11
-          text: They chased me three or four kilometers away.
+          from: "00:02:41,14"
+          to: "00:02:47,11"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:02:47,11
-          to: 00:02:55,14
-          text: But even before I was taken prisoner, the watch was taken off my hand.
+          from: "00:02:47,11"
+          to: "00:02:55,14"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:02:55,14
-          to: 00:02:59,19
-          text: I remember thinking how it made no difference.
+          from: "00:02:55,14"
+          to: "00:02:59,19"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:02:59,19
-          to: 00:03:12,20
-          text: When they caught me, they took me to the village called Balakleja
-            and they locked me up in a hen coop.
+          from: "00:02:59,19"
+          to: "00:03:12,20"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:03:12,20
-          to: 00:03:13,22
-          text: ''
+          from: "00:03:12,20"
+          to: "00:03:13,22"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:03:13,22
-          to: 00:03:18,09
-          text: Perhaps it was two by two meters, or one by one.
+          from: "00:03:13,22"
+          to: "00:03:18,09"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:03:18,09
-          to: 00:03:26,02
-          text: I just know that I was locked up for an eternity, at least it seemed
-            that way.
+          from: "00:03:18,09"
+          to: "00:03:26,02"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:03:26,02
-          to: 00:03:27,13
-          text: ''
+          from: "00:03:26,02"
+          to: "00:03:27,13"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:03:27,13
-          to: 00:03:40,04
-          text: I don’t know whether it was afternoon or the next day, but two soldiers
-            came in and asked me if I’m German or not.
+          from: "00:03:27,13"
+          to: "00:03:40,04"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:03:40,04
-          to: 00:03:44,04
-          text: No, I’m not, I’m Yugoslavian.
+          from: "00:03:40,04"
+          to: "00:03:44,04"
+          text: ~
         sequence-29:
           s: 29
-          from: 00:03:44,04
-          to: 00:03:45,09
-          text: ''
+          from: "00:03:44,04"
+          to: "00:03:45,09"
+          text: ~
         sequence-30:
           s: 30
-          from: 00:03:45,09
-          to: 00:03:50,26
-          text: They knew nothing of any Yugoslavians.
+          from: "00:03:45,09"
+          to: "00:03:50,26"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:03:50,26
-          to: 00:03:52,07
-          text: ''
+          from: "00:03:50,26"
+          to: "00:03:52,07"
+          text: ~
         sequence-32:
           s: 32
-          from: 00:03:52,07
-          to: 00:04:04,02
-          text: They tied me up with some wire and shoved me to some headquarters.
+          from: "00:03:52,07"
+          to: "00:04:04,02"
+          text: ~
         sequence-33:
           s: 33
-          from: 00:04:04,02
-          to: 00:04:13,20
-          text: There was a huge table in a very large room, and the officers were
-            sitting over there.
+          from: "00:04:04,02"
+          to: "00:04:13,20"
+          text: ~
         sequence-34:
           s: 34
-          from: 00:04:13,20
-          to: 00:04:21,13
-          text: I don’t know what kind of officers they were. They asked me all sorts
-            of things.
+          from: "00:04:13,20"
+          to: "00:04:21,13"
+          text: ~
         sequence-35:
           s: 35
-          from: 00:04:21,13
-          to: 00:04:35,03
-          text: Perhaps I’d been thinking about it in the hen coop, I was asked for
-            my surname.
+          from: "00:04:21,13"
+          to: "00:04:35,03"
+          text: ~
         sequence-36:
           s: 36
-          from: 00:04:35,03
-          to: 00:04:40,04
-          text: I said Ivan Ivanovic Srcnikov.
+          from: "00:04:35,03"
+          to: "00:04:40,04"
+          text: ~
         sequence-37:
           s: 37
-          from: 00:04:40,04
-          to: 00:04:47,04
-          text: That was almost my death, although I didn’t know it.
+          from: "00:04:40,04"
+          to: "00:04:47,04"
+          text: ~
         sequence-38:
           s: 38
-          from: 00:04:47,04
-          to: 00:04:48,03
-          text: ''
+          from: "00:04:47,04"
+          to: "00:04:48,03"
+          text: ~
         sequence-39:
           s: 39
-          from: 00:04:48,03
-          to: 00:04:56,20
-          text: And then one of the officers, he says to me in Russian what’s your
-            surname?!
+          from: "00:04:48,03"
+          to: "00:04:56,20"
+          text: ~
         sequence-40:
           s: 40
-          from: 00:04:56,20
-          to: 00:05:05,10
-          text: I responded Ivan Ivanovic Srcnikov. He said I’m not Yugoslavian, but
-            rather a Vlach.
+          from: "00:04:56,20"
+          to: "00:05:05,10"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:05:05,10
-          to: 00:05:22,07
-          text: The Vlachs were Russian soldiers who had gone over to the enemy side,
-            or who had been taken prisoner.
+          from: "00:05:05,10"
+          to: "00:05:22,07"
+          text: ~
         sequence-42:
           s: 42
-          from: 00:05:22,07
-          to: 00:05:29,02
-          text: They had gone over and joined the German army.
+          from: "00:05:22,07"
+          to: "00:05:29,02"
+          text: ~
         sequence-43:
           s: 43
-          from: 00:05:29,02
-          to: 00:05:42,29
-          text: Then that officer said sitchas mi vidjot, meaning we’ll see now, if
-            you really are Yugoslavian.
+          from: "00:05:29,02"
+          to: "00:05:42,29"
+          text: ~
         sequence-44:
           s: 44
-          from: 00:05:42,29
-          to: 00:05:51,28
-          text: I wondered how he could figure that out over a thousand kilometers
-            away.
+          from: "00:05:42,29"
+          to: "00:05:51,28"
+          text: ~
         sequence-45:
           s: 45
-          from: 00:05:51,28
-          to: 00:06:05,05
-          text: They shoved me off again, untied me and locked me back in the hen
-            coop. I was there perhaps a day or perhaps only hours.
+          from: "00:05:51,28"
+          to: "00:06:05,05"
+          text: ~
         sequence-46:
           s: 46
-          from: 00:06:05,05
-          to: 00:06:07,28
-          text: Hours were an eternity.
+          from: "00:06:05,05"
+          to: "00:06:07,28"
+          text: ~
         sequence-47:
           s: 47
-          from: 00:06:07,28
-          to: 00:06:10,11
-          text: ''
+          from: "00:06:07,28"
+          to: "00:06:10,11"
+          text: ~
         sequence-48:
           s: 48
-          from: 00:06:10,11
-          to: 00:06:18,24
-          text: The same two soldiers came again and tied me up and covered my eyes.
+          from: "00:06:10,11"
+          to: "00:06:18,24"
+          text: ~
         sequence-49:
           s: 49
-          from: 00:06:18,24
-          to: 00:06:19,28
-          text: ''
+          from: "00:06:18,24"
+          to: "00:06:19,28"
+          text: ~
         sequence-50:
           s: 50
-          from: 00:06:19,28
-          to: 00:06:29,02
-          text: 'I thought: goodbye Slovenia, Yugoslavia, I’m going to be shot.'
+          from: "00:06:19,28"
+          to: "00:06:29,02"
+          text: ~
         sequence-51:
           s: 51
-          from: 00:06:29,02
-          to: 00:06:43,23
-          text: I knew that the Russians shot the German soldiers somewhere down there
-            by the plum trees.
+          from: "00:06:29,02"
+          to: "00:06:43,23"
+          text: ~
         sequence-52:
           s: 52
-          from: 00:06:43,23
-          to: 00:06:48,23
-          text: I was sure I was going to be shot.
+          from: "00:06:43,23"
+          to: "00:06:48,23"
+          text: ~
         sequence-53:
           s: 53
-          from: 00:06:48,23
-          to: 00:06:50,14
-          text: ''
+          from: "00:06:48,23"
+          to: "00:06:50,14"
+          text: ~
         sequence-54:
           s: 54
-          from: 00:06:50,14
-          to: 00:06:59,04
-          text: The two soldiers tied up my eyes and I thought goodbye parents, I’m
-            going to die now.
+          from: "00:06:50,14"
+          to: "00:06:59,04"
+          text: ~
         sequence-55:
           s: 55
-          from: 00:06:59,04
-          to: 00:07:10,17
-          text: We stepped out of the hen coop and one of them said that we’re going
-            to headquarters.
+          from: "00:06:59,04"
+          to: "00:07:10,17"
+          text: ~
         sequence-56:
           s: 56
-          from: 00:07:10,17
-          to: 00:07:26,26
-          text: When we got there someone asked me my surname. Once more I said Ivan
-            Ivanovic Srcnikov.
+          from: "00:07:10,17"
+          to: "00:07:26,26"
+          text: ~
         sequence-57:
           s: 57
-          from: 00:07:26,26
-          to: 00:07:28,24
-          text: ''
+          from: "00:07:26,26"
+          to: "00:07:28,24"
+          text: ~
         sequence-58:
           s: 58
-          from: 00:07:28,24
-          to: 00:07:39,19
-          text: He spoke Russian and said something about some measurements; I didn’t
-            understand because he was speaking too fast.
+          from: "00:07:28,24"
+          to: "00:07:39,19"
+          text: ~
         sequence-59:
           s: 59
-          from: 00:07:39,19
-          to: 00:07:51,17
-          text: He explained to me that I was standing before a table and that something
-            is on the table, but he didn’t say what.
+          from: "00:07:39,19"
+          to: "00:07:51,17"
+          text: ~
         sequence-60:
           s: 60
-          from: 00:07:51,17
-          to: 00:07:59,02
-          text: He said that I would have to show him by the time he counted to ten.
+          from: "00:07:51,17"
+          to: "00:07:59,02"
+          text: ~
         sequence-61:
           s: 61
-          from: 00:07:59,02
-          to: 00:08:01,07
-          text: I still didn’t know what.
+          from: "00:07:59,02"
+          to: "00:08:01,07"
+          text: ~
         sequence-62:
           s: 62
-          from: 00:08:01,07
-          to: 00:08:02,23
-          text: ''
+          from: "00:08:01,07"
+          to: "00:08:02,23"
+          text: ~
         sequence-63:
           s: 63
-          from: 00:08:02,23
-          to: 00:08:06,15
-          text: My eyes were still tied.
+          from: "00:08:02,23"
+          to: "00:08:06,15"
+          text: ~
         sequence-64:
           s: 64
-          from: 00:08:06,15
-          to: 00:08:15,07
-          text: He untied my eyes and said that I must show him where Celje is.
+          from: "00:08:06,15"
+          to: "00:08:15,07"
+          text: ~
         sequence-65:
           s: 65
-          from: 00:08:15,07
-          to: 00:08:20,15
-          text: I forgot to mention that I had said I was from Celje.
+          from: "00:08:15,07"
+          to: "00:08:20,15"
+          text: ~
         sequence-66:
           s: 66
-          from: 00:08:20,15
-          to: 00:08:27,02
-          text: I thought that if I were to say I was from Kropa, they wouldn’t know
-            where it was.
+          from: "00:08:20,15"
+          to: "00:08:27,02"
+          text: ~
         sequence-67:
           s: 67
-          from: 00:08:27,02
-          to: 00:08:35,07
-          text: If I were to say I was from Gornji grad, it’d be even worse. So I
-            said I was from Celje.
+          from: "00:08:27,02"
+          to: "00:08:35,07"
+          text: ~
         sequence-68:
           s: 68
-          from: 00:08:35,07
-          to: 00:08:48,02
-          text: This man, the one who pulled out the map said that if I can show him
-            where Celje is on the map, then I am a Yugoslav.
+          from: "00:08:35,07"
+          to: "00:08:48,02"
+          text: ~
         sequence-69:
           s: 69
-          from: 00:08:48,02
-          to: 00:08:58,27
-          text: He said by the time he counts to ten; if I can’t, then I go to the
-            Slivnjak, down by the plum trees.
+          from: "00:08:48,02"
+          to: "00:08:58,27"
+          text: ~
         sequence-70:
           s: 70
-          from: 00:08:58,27
-          to: 00:09:06,20
-          text: Then he counted ras, dva, tri, shetiri… And I showed him, here it
-            is.
+          from: "00:08:58,27"
+          to: "00:09:06,20"
+          text: ~
         sequence-71:
           s: 71
-          from: 00:09:06,20
-          to: 00:09:16,00
-          text: 'He patted me on the shoulder and said ti Jugoslav, meaning: you are
-            a Yugoslav and now you’ve convinced us.'
+          from: "00:09:06,20"
+          to: "00:09:16,00"
+          text: ~
         sequence-72:
           s: 72
-          from: 00:09:16,00
-          to: 00:09:17,04
-          text: ''
+          from: "00:09:16,00"
+          to: "00:09:17,04"
+          text: ~
         sequence-73:
           s: 73
-          from: 00:09:17,04
-          to: 00:09:20,00
-          text: I went to Siberia.
+          from: "00:09:17,04"
+          to: "00:09:20,00"
+          text: ~
         sequence-74:
           s: 74
-          from: 00:09:20,00
-          to: 00:09:21,09
-          text: ''
+          from: "00:09:20,00"
+          to: "00:09:21,09"
+          text: ~
         sequence-75:
           s: 75
-          from: 00:09:21,09
-          to: 00:09:36,04
-          text: We went with these German people; they took us to Siberia, where we
-            met up with other Slovenians.
+          from: "00:09:21,09"
+          to: "00:09:36,04"
+          text: ~
         sequence-76:
           s: 76
-          from: 00:09:36,04
-          to: 00:09:37,22
-          text: ''
+          from: "00:09:36,04"
+          to: "00:09:37,22"
+          text: ~
         sequence-77:
           s: 77
-          from: 00:09:37,22
-          to: 00:09:47,04
-          text: All the Slovenians gathered together and we were told that we may
-            each choose our own group.
+          from: "00:09:37,22"
+          to: "00:09:47,04"
+          text: ~
         sequence-78:
           s: 78
-          from: 00:09:47,04
-          to: 00:09:50,22
-          text: And once the group was formed we would get our work.
+          from: "00:09:47,04"
+          to: "00:09:50,22"
+          text: ~
         sequence-79:
           s: 79
-          from: 00:09:50,22
-          to: 00:10:01,23
-          text: That’s how we came together; there were ten of us Slovenians. Then
-            we got our tools, saws, axes …
+          from: "00:09:50,22"
+          to: "00:10:01,23"
+          text: ~
         sequence-80:
           s: 80
-          from: 00:10:01,23
-          to: 00:10:06,14
-          text: We were sent into the forest to cut down trees.
+          from: "00:10:01,23"
+          to: "00:10:06,14"
+          text: ~
         sequence-81:
           s: 81
-          from: 00:10:06,14
-          to: 00:10:08,06
-          text: ''
+          from: "00:10:06,14"
+          to: "00:10:08,06"
+          text: ~
         sequence-82:
           s: 82
-          from: 00:10:08,06
-          to: 00:10:15,25
-          text: There was enough food while we were in Russian captivity.
+          from: "00:10:08,06"
+          to: "00:10:15,25"
+          text: ~
         sequence-83:
           s: 83
-          from: 00:10:15,25
-          to: 00:10:28,06
-          text: Perhaps there wasn’t much bread. The Russians up in Siberia, in the
-            taiga, they only cook ‘supa’ and ‘kasha’.
+          from: "00:10:15,25"
+          to: "00:10:28,06"
+          text: ~
         sequence-84:
           s: 84
-          from: 00:10:28,06
-          to: 00:10:38,14
-          text: You’re probably wondering what ‘supa’ and ‘kasha’ are. ‘Supa’ is everything
-            that is cooked and still fluid.
+          from: "00:10:28,06"
+          to: "00:10:38,14"
+          text: ~
         sequence-85:
           s: 85
-          from: 00:10:38,14
-          to: 00:10:46,21
-          text: "‘Kahsa’ is porridge; everything like mashed potatoes, solid foods."
+          from: "00:10:38,14"
+          to: "00:10:46,21"
+          text: ~
         sequence-86:
           s: 86
-          from: 00:10:46,21
-          to: 00:10:57,02
-          text: We only got fish food there, which there was enough of, not much bread,
-            but enough.
+          from: "00:10:46,21"
+          to: "00:10:57,02"
+          text: ~
         sequence-87:
           s: 87
-          from: 00:10:57,02
-          to: 00:11:11,11
-          text: After a while, it was still winter, all the Slovenians and also Croatians
+          from: "00:10:57,02"
+          to: "00:11:11,11"
+          text: ~
         sequence-88:
           s: 88
-          from: 00:11:11,11
-          to: 00:11:18,14
-          text: and other nationalities were all together according to the nationalities.
+          from: "00:11:11,11"
+          to: "00:11:18,14"
+          text: ~
         sequence-89:
           s: 89
-          from: 00:11:18,14
-          to: 00:11:23,15
-          text: Maybe the Slovenians and Croatians were together …
+          from: "00:11:18,14"
+          to: "00:11:23,15"
+          text: ~

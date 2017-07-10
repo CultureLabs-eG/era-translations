@@ -1,65 +1,61 @@
----
 sl:
   stefania-dambrowska:
     chapter-7:
       c: 7
-      title: Stefanias fear to be betrayed
+      title: "Stefanias fear to be betrayed"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,04
-          to: 00:00:07,02
-          text: People stopped thinking about the origin of this child and where she
-            came from, a child who could not speak Polish.
+          from: "00:00:01,04"
+          to: "00:00:07,02"
+          text: "People stopped thinking about the origin of this child and where she came from, a child who could not speak Polish."
         sequence-2:
           s: 2
-          from: 00:00:07,02
-          to: 00:00:10,11
-          text: This child learnt Polish very fast,
+          from: "00:00:07,02"
+          to: "00:00:10,11"
+          text: "This child learnt Polish very fast,"
         sequence-3:
           s: 3
-          from: 00:00:10,11
-          to: 00:00:16,15
-          text: Natka took care of her and there were many funny jokes with Maryśka.
+          from: "00:00:10,11"
+          to: "00:00:16,15"
+          text: "Natka took care of her and there were many funny jokes with Maryśka."
         sequence-4:
           s: 4
-          from: 00:00:16,15
-          to: 00:00:17,26
-          text: ''
+          from: "00:00:16,15"
+          to: "00:00:17,26"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:17,26
-          to: 00:00:21,00
-          text: But it was very dangerous.
+          from: "00:00:17,26"
+          to: "00:00:21,00"
+          text: "But it was very dangerous."
         sequence-6:
           s: 6
-          from: 00:00:21,00
-          to: 00:00:33,12
-          text: I remember one day, there was one of our workers, she was a cook,
-            drinking a lot,
+          from: "00:00:21,00"
+          to: "00:00:33,12"
+          text: "I remember one day, there was one of our workers, she was a cook, drinking a lot,"
         sequence-7:
           s: 7
-          from: 00:00:33,12
-          to: 00:00:57,24
-          text: 'and she used to run drunk and scream: there is a big Jew who feeds
-            cows and that child must be Jewish, too.'
+          from: "00:00:33,12"
+          to: "00:00:57,24"
+          text: "and she used to run drunk and scream: there is a big Jew who feeds cows and that child must be Jewish, too."
         sequence-8:
           s: 8
-          from: 00:00:57,24
-          to: 00:00:59,01
-          text: ''
+          from: "00:00:57,24"
+          to: "00:00:59,01"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:59,01
-          to: 00:00:59,21
-          text: ''
+          from: "00:00:59,01"
+          to: "00:00:59,21"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:59,21
-          to: 00:01:02,20
-          text: Of course, only a fool is not scared in a situation like this.
+          from: "00:00:59,21"
+          to: "00:01:02,20"
+          text: "Of course, only a fool is not scared in a situation like this."
         sequence-11:
           s: 11
-          from: 00:01:02,20
-          to: 00:01:11,00
-          text: Well, it is a human being if you take a risk you need to be consistent.
+          from: "00:01:02,20"
+          to: "00:01:11,00"
+          text: "Well, it is a human being if you take a risk you need to be consistent."

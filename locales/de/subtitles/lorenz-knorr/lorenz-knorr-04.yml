@@ -1,174 +1,161 @@
----
 de:
   lorenz-knorr:
     chapter-4:
       c: 4
-      title: Fascism in childhood and youth
+      title: "Fascism in childhood and youth"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,05
-          to: 00:00:02,05
-          text: Fascism was a subject,
+          from: "00:00:00,05"
+          to: "00:00:02,05"
+          text: "Fascism was a subject,"
         sequence-2:
           s: 2
-          from: 00:00:02,05
-          to: 00:00:06,15
-          text: because of the experiences that we picked up from the immigrants.
+          from: "00:00:02,05"
+          to: "00:00:06,15"
+          text: "because of the experiences that we picked up from the immigrants."
         sequence-3:
           s: 3
-          from: 00:00:06,15
-          to: 00:00:14,27
-          text: In our youth group we invited immigrants from Austria and Germany
-            to tell their story.
+          from: "00:00:06,15"
+          to: "00:00:14,27"
+          text: "In our youth group we invited immigrants from Austria and Germany to tell their story."
         sequence-4:
           s: 4
-          from: 00:00:14,27
-          to: 00:00:19,24
-          text: We already knew before the high finance and the generals
+          from: "00:00:14,27"
+          to: "00:00:19,24"
+          text: "We already knew before the high finance and the generals"
         sequence-5:
           s: 5
-          from: 00:00:19,24
-          to: 00:00:22,26
-          text: 'pushed the power towards the Nazi leading clique:'
+          from: "00:00:19,24"
+          to: "00:00:22,26"
+          text: "pushed the power towards the Nazi leading clique:"
         sequence-6:
           s: 6
-          from: 00:00:22,26
-          to: 00:00:24,13
-          text: Hitler means war.
+          from: "00:00:22,26"
+          to: "00:00:24,13"
+          text: "Hitler means war."
         sequence-7:
           s: 7
-          from: 00:00:24,13
-          to: 00:00:30,00
-          text: We not only grew into the anti-fascist fight,
+          from: "00:00:24,13"
+          to: "00:00:30,00"
+          text: "We not only grew into the anti-fascist fight,"
         sequence-8:
           s: 8
-          from: 00:00:30,00
-          to: 00:00:34,04
-          text: 'but as well into the fight for peace. It was the same question to
-            us:'
+          from: "00:00:30,00"
+          to: "00:00:34,04"
+          text: "but as well into the fight for peace. It was the same question to us:"
         sequence-9:
           s: 9
-          from: 00:00:34,04
-          to: 00:00:36,16
-          text: the anti-fascist fight and the fight for peace.
+          from: "00:00:34,04"
+          to: "00:00:36,16"
+          text: "the anti-fascist fight and the fight for peace."
         sequence-10:
           s: 10
-          from: 00:00:36,16
-          to: 00:00:40,25
-          text: That obviously assumed that we threw light on it.
+          from: "00:00:36,16"
+          to: "00:00:40,25"
+          text: "That obviously assumed that we threw light on it."
         sequence-11:
           s: 11
-          from: 00:00:40,25
-          to: 00:00:49,08
-          text: After my youth consecration, when I left school, I took part in my
-            first Marxist seminar.
+          from: "00:00:40,25"
+          to: "00:00:49,08"
+          text: "After my youth consecration, when I left school, I took part in my first Marxist seminar."
         sequence-12:
           s: 12
-          from: 00:00:49,08
-          to: 00:00:52,29
-          text: There, young people who were interested,
+          from: "00:00:49,08"
+          to: "00:00:52,29"
+          text: "There, young people who were interested,"
         sequence-13:
           s: 13
-          from: 00:00:52,29
-          to: 00:01:01,03
-          text: learned all the basics if they wanted to become a functionary of the
-            labour movement.
+          from: "00:00:52,29"
+          to: "00:01:01,03"
+          text: "learned all the basics if they wanted to become a functionary of the labour movement."
         sequence-14:
           s: 14
-          from: 00:01:01,03
-          to: 00:01:06,09
-          text: So they were not only practical experiences that were being reflected,
+          from: "00:01:01,03"
+          to: "00:01:06,09"
+          text: "So they were not only practical experiences that were being reflected,"
         sequence-15:
           s: 15
-          from: 00:01:06,09
-          to: 00:01:14,12
-          text: but we also had seminars learning to deal with the political opponent.
+          from: "00:01:06,09"
+          to: "00:01:14,12"
+          text: "but we also had seminars learning to deal with the political opponent."
         sequence-16:
           s: 16
-          from: 00:01:14,12
-          to: 00:01:19,16
-          text: For example, it was obligatory for a functionary of the socialist
-            youth
+          from: "00:01:14,12"
+          to: "00:01:19,16"
+          text: "For example, it was obligatory for a functionary of the socialist youth"
         sequence-17:
           s: 17
-          from: 00:01:19,16
-          to: 00:01:22,29
-          text: to have read Hitler’s book ‚Mein Kampf’.
+          from: "00:01:19,16"
+          to: "00:01:22,29"
+          text: "to have read Hitler’s book ‚Mein Kampf’."
         sequence-18:
           s: 18
-          from: 00:01:22,29
-          to: 00:01:31,29
-          text: We could tell the Nazi officials, who didn’t know as well as we did,
-            what the real aims were.
+          from: "00:01:22,29"
+          to: "00:01:31,29"
+          text: "We could tell the Nazi officials, who didn’t know as well as we did, what the real aims were."
         sequence-19:
           s: 19
-          from: 00:01:31,29
-          to: 00:01:34,25
-          text: They did not believe that Hitler wanted war.
+          from: "00:01:31,29"
+          to: "00:01:34,25"
+          text: "They did not believe that Hitler wanted war."
         sequence-20:
           s: 20
-          from: 00:01:34,25
-          to: 00:01:36,08
-          text: ''
+          from: "00:01:34,25"
+          to: "00:01:36,08"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:01:36,08
-          to: 00:01:40,16
-          text: 'We kept hearing again and again:  „They will not be so stupid to
-            go against the whole world on their own.”'
+          from: "00:01:36,08"
+          to: "00:01:40,16"
+          text: "We kept hearing again and again:  „They will not be so stupid to go against the whole world on their own.”"
         sequence-22:
           s: 22
-          from: 00:01:40,16
-          to: 00:01:47,07
-          text: But we were able to quote from ‚Mein Kampf’ that the annexation of
-            new living space in the east
+          from: "00:01:40,16"
+          to: "00:01:47,07"
+          text: "But we were able to quote from ‚Mein Kampf’ that the annexation of new living space in the east"
         sequence-23:
           s: 23
-          from: 00:01:47,07
-          to: 00:01:51,05
-          text: was one main issue of the Nazis’ fight.
+          from: "00:01:47,07"
+          to: "00:01:51,05"
+          text: "was one main issue of the Nazis’ fight."
         sequence-24:
           s: 24
-          from: 00:01:51,05
-          to: 00:01:57,25
-          text: If we were able to bring the better arguments into discussions with
-            the Nazis,
+          from: "00:01:51,05"
+          to: "00:01:57,25"
+          text: "If we were able to bring the better arguments into discussions with the Nazis,"
         sequence-25:
           s: 25
-          from: 00:01:57,25
-          to: 00:02:03,11
-          text: in the companies, in the schools or wherever, it would have an effect
-            on the undecided.
+          from: "00:01:57,25"
+          to: "00:02:03,11"
+          text: "in the companies, in the schools or wherever, it would have an effect on the undecided."
         sequence-26:
           s: 26
-          from: 00:02:03,11
-          to: 00:02:06,05
-          text: But still the Nazis became stronger and stronger;
+          from: "00:02:03,11"
+          to: "00:02:06,05"
+          text: "But still the Nazis became stronger and stronger;"
         sequence-27:
           s: 27
-          from: 00:02:06,05
-          to: 00:02:10,04
-          text: for one, because of the social problems and for two,
+          from: "00:02:06,05"
+          to: "00:02:10,04"
+          text: "for one, because of the social problems and for two,"
         sequence-28:
           s: 28
-          from: 00:02:10,04
-          to: 00:02:16,16
-          text: because the imperial German broadcasting service had an immense influence.
+          from: "00:02:10,04"
+          to: "00:02:16,16"
+          text: "because the imperial German broadcasting service had an immense influence."
         sequence-29:
           s: 29
-          from: 00:02:16,16
-          to: 00:02:18,27
-          text: Many Germans did not speak Czech,
+          from: "00:02:16,16"
+          to: "00:02:18,27"
+          text: "Many Germans did not speak Czech,"
         sequence-30:
           s: 30
-          from: 00:02:18,27
-          to: 00:02:25,08
-          text: but you could hear the broadcast stations Königs Wusterhausen and
-            Seesen, the two Nazi stations, well.
+          from: "00:02:18,27"
+          to: "00:02:25,08"
+          text: "but you could hear the broadcast stations Königs Wusterhausen and Seesen, the two Nazi stations, well."
         sequence-31:
           s: 31
-          from: 00:02:25,08
-          to: 00:02:38,04
-          text: This influence, in which social problems were misleadingly passed
-            off as national problems, were surely effective.
+          from: "00:02:25,08"
+          to: "00:02:38,04"
+          text: "This influence, in which social problems were misleadingly passed off as national problems, were surely effective."

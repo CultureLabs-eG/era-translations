@@ -1,322 +1,301 @@
----
 sl:
   fernando-cavazzini:
     chapter-8:
       c: 8
-      title: Saboteurs; German mob-up in July 1944
+      title: "Saboteurs; German mob-up in July 1944"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,12
-          to: 00:00:04,07
-          text: I attended a course for saboteurs. I think we were five.
+          from: "00:00:00,12"
+          to: "00:00:04,07"
+          text: "I attended a course for saboteurs. I think we were five."
         sequence-2:
           s: 2
-          from: 00:00:04,07
-          to: 00:00:11,19
-          text: The Allies were air-dropping explosives the whole time. Nobody knew
-            how to use them.
+          from: "00:00:04,07"
+          to: "00:00:11,19"
+          text: "The Allies were air-dropping explosives the whole time. Nobody knew how to use them."
         sequence-3:
           s: 3
-          from: 00:00:11,19
-          to: 00:00:16,22
-          text: One day they also parachuted a saboteur to teach us.
+          from: "00:00:11,19"
+          to: "00:00:16,22"
+          text: "One day they also parachuted a saboteur to teach us."
         sequence-4:
           s: 4
-          from: 00:00:16,22
-          to: 00:00:22,18
-          text: Our duty was to blow up bridges, railway tracks and the like.
+          from: "00:00:16,22"
+          to: "00:00:22,18"
+          text: "Our duty was to blow up bridges, railway tracks and the like."
         sequence-5:
           s: 5
-          from: 00:00:22,18
-          to: 00:00:33,19
-          text: ''
+          from: "00:00:22,18"
+          to: "00:00:33,19"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:33,19
-          to: 00:00:36,26
-          text: He taught us how to handle explosives,
+          from: "00:00:33,19"
+          to: "00:00:36,26"
+          text: "He taught us how to handle explosives,"
         sequence-7:
           s: 7
-          from: 00:00:36,26
-          to: 00:00:47,02
-          text: how to make mines, how to blow up railway tracks, how to blow up a
-            road, or a military column.
+          from: "00:00:36,26"
+          to: "00:00:47,02"
+          text: "how to make mines, how to blow up railway tracks, how to blow up a road, or a military column."
         sequence-8:
           s: 8
-          from: 00:00:47,02
-          to: 00:00:53,19
-          text: After we practiced a bit I think we were much better than our instructor.
+          from: "00:00:47,02"
+          to: "00:00:53,19"
+          text: "After we practiced a bit I think we were much better than our instructor."
         sequence-9:
           s: 9
-          from: 00:00:53,19
-          to: 00:00:57,24
-          text: They were trained recklessly;
+          from: "00:00:53,19"
+          to: "00:00:57,24"
+          text: "They were trained recklessly;"
         sequence-10:
           s: 10
-          from: 00:00:57,24
-          to: 00:01:03,10
-          text: they were taught the most important things and then dropped in the
-            partisan areas.
+          from: "00:00:57,24"
+          to: "00:01:03,10"
+          text: "they were taught the most important things and then dropped in the partisan areas."
         sequence-11:
           s: 11
-          from: 00:01:03,10
-          to: 00:01:12,00
-          text: We started from scratch but were also trying to improve our military
-            expertise.
+          from: "00:01:03,10"
+          to: "00:01:12,00"
+          text: "We started from scratch but were also trying to improve our military expertise."
         sequence-12:
           s: 12
-          from: 00:01:12,00
-          to: 00:01:21,19
-          text: As an example, it took us one and a half hours to blow up a bridge
-            on road 63,
+          from: "00:01:12,00"
+          to: "00:01:21,19"
+          text: "As an example, it took us one and a half hours to blow up a bridge on road 63,"
         sequence-13:
           s: 13
-          from: 00:01:21,19
-          to: 00:01:24,25
-          text: as it was made of stones.
+          from: "00:01:21,19"
+          to: "00:01:24,25"
+          text: "as it was made of stones."
         sequence-14:
           s: 14
-          from: 00:01:24,25
-          to: 00:01:30,26
-          text: We changed our method and were able to do it in fifteen minutes.
+          from: "00:01:24,25"
+          to: "00:01:30,26"
+          text: "We changed our method and were able to do it in fifteen minutes."
         sequence-15:
           s: 15
-          from: 00:01:30,26
-          to: 00:01:33,00
-          text: ''
+          from: "00:01:30,26"
+          to: "00:01:33,00"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:33,00
-          to: 00:01:38,10
-          text: In July, when the great mop-up took place,
+          from: "00:01:33,00"
+          to: "00:01:38,10"
+          text: "In July, when the great mop-up took place,"
         sequence-17:
           s: 17
-          from: 00:01:38,10
-          to: 00:01:44,16
-          text: there were just two or three of us sappers.
+          from: "00:01:38,10"
+          to: "00:01:44,16"
+          text: "there were just two or three of us sappers."
         sequence-18:
           s: 18
-          from: 00:01:44,16
-          to: 00:01:51,08
-          text: We were scattered around because the battle started at four in the
-            morning,
+          from: "00:01:44,16"
+          to: "00:01:51,08"
+          text: "We were scattered around because the battle started at four in the morning,"
         sequence-19:
           s: 19
-          from: 00:01:51,08
-          to: 00:01:58,01
-          text: and by the evening the whole partisan area had been occupied by the
-            Germans.
+          from: "00:01:51,08"
+          to: "00:01:58,01"
+          text: "and by the evening the whole partisan area had been occupied by the Germans."
         sequence-20:
           s: 20
-          from: 00:01:58,01
-          to: 00:02:03,21
-          text: We were in Carpineti and we reached Costabona.
+          from: "00:01:58,01"
+          to: "00:02:03,21"
+          text: "We were in Carpineti and we reached Costabona."
         sequence-21:
           s: 21
-          from: 00:02:03,21
-          to: 00:02:07,22
-          text: The whole village was on fire.
+          from: "00:02:03,21"
+          to: "00:02:07,22"
+          text: "The whole village was on fire."
         sequence-22:
           s: 22
-          from: 00:02:07,22
-          to: 00:02:16,20
-          text: The Germans had set the village on fire as well as the crop and the
-            wheat on the fields.
+          from: "00:02:07,22"
+          to: "00:02:16,20"
+          text: "The Germans had set the village on fire as well as the crop and the wheat on the fields."
         sequence-23:
           s: 23
-          from: 00:02:16,20
-          to: 00:02:19,21
-          text: It was really a depressing view.
+          from: "00:02:16,20"
+          to: "00:02:19,21"
+          text: "It was really a depressing view."
         sequence-24:
           s: 24
-          from: 00:02:19,21
-          to: 00:02:25,06
-          text: There were around thirty of us of the Bedeschi detachment, yet unhurt.
+          from: "00:02:19,21"
+          to: "00:02:25,06"
+          text: "There were around thirty of us of the Bedeschi detachment, yet unhurt."
         sequence-25:
           s: 25
-          from: 00:02:25,06
-          to: 00:02:33,16
-          text: There was also one of the detachments from Modena who had been joining
-            forces with us at the beginning.
+          from: "00:02:25,06"
+          to: "00:02:33,16"
+          text: "There was also one of the detachments from Modena who had been joining forces with us at the beginning."
         sequence-26:
           s: 26
-          from: 00:02:33,16
-          to: 00:02:35,22
-          text: We gathered in Costabona,
+          from: "00:02:33,16"
+          to: "00:02:35,22"
+          text: "We gathered in Costabona,"
         sequence-27:
           s: 27
-          from: 00:02:35,22
-          to: 00:02:38,25
-          text: determined to fight the Germans,
+          from: "00:02:35,22"
+          to: "00:02:38,25"
+          text: "determined to fight the Germans,"
         sequence-28:
           s: 28
-          from: 00:02:38,25
-          to: 00:02:45,07
-          text: who had occupied the whole area. (I was looking at the map the other
-            day).
+          from: "00:02:38,25"
+          to: "00:02:45,07"
+          text: "who had occupied the whole area. (I was looking at the map the other day)."
         sequence-29:
           s: 29
-          from: 00:02:45,07
-          to: 00:02:50,00
-          text: It was difficult for us to get moving during the night.
+          from: "00:02:45,07"
+          to: "00:02:50,00"
+          text: "It was difficult for us to get moving during the night."
         sequence-30:
           s: 30
-          from: 00:02:50,00
-          to: 00:02:54,26
+          from: "00:02:50,00"
+          to: "00:02:54,26"
           text: "“Let’s stay here, we’ll carry out our resistance tomorrow”."
         sequence-31:
           s: 31
-          from: 00:02:54,26
-          to: 00:02:57,05
-          text: We also had a mortar,
+          from: "00:02:54,26"
+          to: "00:02:57,05"
+          text: "We also had a mortar,"
         sequence-32:
           s: 32
-          from: 00:02:57,05
-          to: 00:03:03,02
-          text: but before we could do anything we had to blow up the Secchiello Bridge.
+          from: "00:02:57,05"
+          to: "00:03:03,02"
+          text: "but before we could do anything we had to blow up the Secchiello Bridge."
         sequence-33:
           s: 33
-          from: 00:03:03,02
-          to: 00:03:08,27
-          text: I went down on one side to be safe and then made it under the bridge.
+          from: "00:03:03,02"
+          to: "00:03:08,27"
+          text: "I went down on one side to be safe and then made it under the bridge."
         sequence-34:
           s: 34
-          from: 00:03:08,27
-          to: 00:03:14,19
-          text: The Germans were already on the Secchiello bridge.
+          from: "00:03:08,27"
+          to: "00:03:14,19"
+          text: "The Germans were already on the Secchiello bridge."
         sequence-35:
           s: 35
-          from: 00:03:14,19
-          to: 00:03:18,03
-          text: It was also quite a hard bridge to blow up.
+          from: "00:03:14,19"
+          to: "00:03:18,03"
+          text: "It was also quite a hard bridge to blow up."
         sequence-36:
           s: 36
-          from: 00:03:18,03
-          to: 00:03:23,11
-          text: I took advantage of the confusion, went under the bridge and set the
-            mines.
+          from: "00:03:18,03"
+          to: "00:03:23,11"
+          text: "I took advantage of the confusion, went under the bridge and set the mines."
         sequence-37:
           s: 37
-          from: 00:03:23,11
-          to: 00:03:29,01
-          text: The bridge was made of iron, but there was a rock, quiet high.
+          from: "00:03:23,11"
+          to: "00:03:29,01"
+          text: "The bridge was made of iron, but there was a rock, quiet high."
         sequence-38:
           s: 38
-          from: 00:03:29,01
-          to: 00:03:34,27
-          text: I lit the fuse and jumped off. It was a question of seconds.
+          from: "00:03:29,01"
+          to: "00:03:34,27"
+          text: "I lit the fuse and jumped off. It was a question of seconds."
         sequence-39:
           s: 39
-          from: 00:03:34,27
-          to: 00:03:44,06
-          text: However the Germans heard some noise when I lit the fuse.They shot
-            some rockets.
+          from: "00:03:34,27"
+          to: "00:03:44,06"
+          text: "However the Germans heard some noise when I lit the fuse.They shot some rockets."
         sequence-40:
           s: 40
-          from: 00:03:44,06
-          to: 00:03:51,08
-          text: I had jumped right away and hid behind the rock.
+          from: "00:03:44,06"
+          to: "00:03:51,08"
+          text: "I had jumped right away and hid behind the rock."
         sequence-41:
           s: 41
-          from: 00:03:51,08
-          to: 00:04:00,27
-          text: My comrades already knew that they would have to shoot when the Germans
-            fired to give me a chance to draw back.
+          from: "00:03:51,08"
+          to: "00:04:00,27"
+          text: "My comrades already knew that they would have to shoot when the Germans fired to give me a chance to draw back."
         sequence-42:
           s: 42
-          from: 00:04:00,27
-          to: 00:04:05,22
-          text: There was really a significant gunfight between us and them.
+          from: "00:04:00,27"
+          to: "00:04:05,22"
+          text: "There was really a significant gunfight between us and them."
         sequence-43:
           s: 43
-          from: 00:04:05,22
-          to: 00:04:09,25
-          text: I slowly drew away, unhurt.
+          from: "00:04:05,22"
+          to: "00:04:09,25"
+          text: "I slowly drew away, unhurt."
         sequence-44:
           s: 44
-          from: 00:04:09,25
-          to: 00:04:19,28
-          text: The following morning the Germans tried to reach Costabona twice,
+          from: "00:04:09,25"
+          to: "00:04:19,28"
+          text: "The following morning the Germans tried to reach Costabona twice,"
         sequence-45:
           s: 45
-          from: 00:04:19,28
-          to: 00:04:22,22
-          text: but we pushed them back.
+          from: "00:04:19,28"
+          to: "00:04:22,22"
+          text: "but we pushed them back."
         sequence-46:
           s: 46
-          from: 00:04:22,22
-          to: 00:04:29,23
-          text: There were oak-trees, and we stood there with our machine guns, forcing
-            them to retreat.
+          from: "00:04:22,22"
+          to: "00:04:29,23"
+          text: "There were oak-trees, and we stood there with our machine guns, forcing them to retreat."
         sequence-47:
           s: 47
-          from: 00:04:29,23
-          to: 00:04:33,13
-          text: They had machine guns, armoured cars.
+          from: "00:04:29,23"
+          to: "00:04:33,13"
+          text: "They had machine guns, armoured cars."
         sequence-48:
           s: 48
-          from: 00:04:33,13
-          to: 00:04:39,02
-          text: We had blown up the bridge so they couldn’t get through with armoured
-            vehicles.
+          from: "00:04:33,13"
+          to: "00:04:39,02"
+          text: "We had blown up the bridge so they couldn’t get through with armoured vehicles."
         sequence-49:
           s: 49
-          from: 00:04:39,02
-          to: 00:04:52,17
-          text: If it had been a question of energy, we could have succeeded, but
-            we could do nothing against heavy artillery, ourselves having none.
+          from: "00:04:39,02"
+          to: "00:04:52,17"
+          text: "If it had been a question of energy, we could have succeeded, but we could do nothing against heavy artillery, ourselves having none."
         sequence-50:
           s: 50
-          from: 00:04:52,17
-          to: 00:05:11,22
-          text: At night we moved and slowly reached the saw-mill over Civago and
-            stayed there the whole day. We got there before dawn.
+          from: "00:04:52,17"
+          to: "00:05:11,22"
+          text: "At night we moved and slowly reached the saw-mill over Civago and stayed there the whole day. We got there before dawn."
         sequence-51:
           s: 51
-          from: 00:05:11,22
-          to: 00:05:21,04
-          text: The following night we walked through the Passone, next to the Cusna,
+          from: "00:05:11,22"
+          to: "00:05:21,04"
+          text: "The following night we walked through the Passone, next to the Cusna,"
         sequence-52:
           s: 52
-          from: 00:05:21,04
-          to: 00:05:32,02
-          text: and made it to the area of the Cesare Battisti refuge, which had already
-            been completely burnt down.
+          from: "00:05:21,04"
+          to: "00:05:32,02"
+          text: "and made it to the area of the Cesare Battisti refuge, which had already been completely burnt down."
         sequence-53:
           s: 53
-          from: 00:05:32,02
-          to: 00:05:36,04
-          text: We stayed in that area for twelve days.
+          from: "00:05:32,02"
+          to: "00:05:36,04"
+          text: "We stayed in that area for twelve days."
         sequence-54:
           s: 54
-          from: 00:05:36,04
-          to: 00:05:39,28
-          text: It rained often and we had nothing to cover ourselves with.
+          from: "00:05:36,04"
+          to: "00:05:39,28"
+          text: "It rained often and we had nothing to cover ourselves with."
         sequence-55:
           s: 55
-          from: 00:05:39,28
-          to: 00:05:46,01
-          text: I had been lucky since I was assigned to go to Ligonchio with another
-            comrade
+          from: "00:05:39,28"
+          to: "00:05:46,01"
+          text: "I had been lucky since I was assigned to go to Ligonchio with another comrade"
         sequence-56:
           s: 56
-          from: 00:05:46,01
-          to: 00:05:51,05
-          text: to gather information on the Germans’ movements
+          from: "00:05:46,01"
+          to: "00:05:51,05"
+          text: "to gather information on the Germans’ movements"
         sequence-57:
           s: 57
-          from: 00:05:51,05
-          to: 00:05:55,09
-          text: and get some supplies to carry back up.
+          from: "00:05:51,05"
+          to: "00:05:55,09"
+          text: "and get some supplies to carry back up."
         sequence-58:
           s: 58
-          from: 00:05:55,09
-          to: 00:06:04,08
-          text: I would head up every night with bread, cheese, carrying the news,
-            too.
+          from: "00:05:55,09"
+          to: "00:06:04,08"
+          text: "I would head up every night with bread, cheese, carrying the news, too."
         sequence-59:
           s: 59
-          from: 00:06:04,08
-          to: 00:06:08,00
-          text: Finally, after a few days, the Germans left...
+          from: "00:06:04,08"
+          to: "00:06:08,00"
+          text: "Finally, after a few days, the Germans left..."

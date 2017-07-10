@@ -1,15 +1,14 @@
----
 de:
   countries:
     AC: Ascension
     AD: Andorra
-    AE: Vereinigte Arabische Emirate
+    AE: "Vereinigte Arabische Emirate"
     AF: Afghanistan
-    AG: Antigua und Barbuda
+    AG: "Antigua und Barbuda"
     AI: Anguilla
     AL: Albanien
     AM: Armenien
-    AN: Niederländische Antillen
+    AN: "Niederländische Antillen"
     AO: Angola
     AQ: Antarktis
     AR: Argentinien
@@ -19,20 +18,20 @@ de:
     AW: Aruba
     AX: Åland-Inseln
     AZ: Aserbaidschan
-    BA: Bosnien und Herzegowina
+    BA: "Bosnien und Herzegowina"
     BB: Barbados
     BD: Bangladesch
     BE: Belgien
-    BF: Burkina Faso
+    BF: "Burkina Faso"
     BG: Bulgarien
     BH: Bahrain
     BI: Burundi
     BJ: Benin
-    BL: St. Barthélemy
+    BL: "St. Barthélemy"
     BM: Bermuda
-    BN: Brunei Darussalam
+    BN: "Brunei Darussalam"
     BO: Bolivien
-    BQ: Karibische Niederlande
+    BQ: "Karibische Niederlande"
     BR: Brasilien
     BS: Bahamas
     BT: Bhutan
@@ -43,31 +42,31 @@ de:
     CA: Kanada
     CC: Kokosinseln
     CD: Kongo-Kinshasa
-    CF: Zentralafrikanische Republik
+    CF: "Zentralafrikanische Republik"
     CG: Kongo-Brazzaville
     CH: Schweiz
-    CI: Côte d’Ivoire
+    CI: "Côte d’Ivoire"
     CK: Cookinseln
     CL: Chile
     CM: Kamerun
     CN: China
     CO: Kolumbien
     CP: Clipperton-Insel
-    CR: Costa Rica
+    CR: "Costa Rica"
     CU: Kuba
-    CV: Kap Verde
+    CV: "Kap Verde"
     CW: Curaçao
     CX: Weihnachtsinsel
     CY: Zypern
-    CZ: Tschechische Republik
+    CZ: "Tschechische Republik"
     DE: Deutschland
-    DG: Diego Garcia
+    DG: "Diego Garcia"
     DJ: Dschibuti
     DK: Dänemark
     DM: Dominica
-    DO: Dominikanische Republik
+    DO: "Dominikanische Republik"
     DZ: Algerien
-    EA: Ceuta und Melilla
+    EA: "Ceuta und Melilla"
     EC: Ecuador
     EE: Estland
     EG: Ägypten
@@ -75,7 +74,7 @@ de:
     ER: Eritrea
     ES: Spanien
     ET: Äthiopien
-    EU: Europäische Union
+    EU: "Europäische Union"
     FI: Finnland
     FJ: Fidschi
     FK: Falklandinseln
@@ -83,7 +82,7 @@ de:
     FO: Färöer
     FR: Frankreich
     GA: Gabun
-    GB: Vereinigtes Königreich
+    GB: "Vereinigtes Königreich"
     GD: Grenada
     GE: Georgien
     GF: Französisch-Guayana
@@ -96,24 +95,24 @@ de:
     GP: Guadeloupe
     GQ: Äquatorialguinea
     GR: Griechenland
-    GS: Südgeorgien und die Südlichen Sandwichinseln
+    GS: "Südgeorgien und die Südlichen Sandwichinseln"
     GT: Guatemala
     GU: Guam
     GW: Guinea-Bissau
     GY: Guyana
-    HK: Sonderverwaltungszone Hongkong
-    HM: Heard- und McDonald-Inseln
+    HK: "Sonderverwaltungszone Hongkong"
+    HM: "Heard- und McDonald-Inseln"
     HN: Honduras
     HR: Kroatien
     HT: Haiti
     HU: Ungarn
-    IC: Kanarische Inseln
+    IC: "Kanarische Inseln"
     ID: Indonesien
     IE: Irland
     IL: Israel
-    IM: Isle of Man
+    IM: "Isle of Man"
     IN: Indien
-    IO: Britisches Territorium im Indischen Ozean
+    IO: "Britisches Territorium im Indischen Ozean"
     IQ: Irak
     IR: Iran
     IS: Island
@@ -127,17 +126,17 @@ de:
     KH: Kambodscha
     KI: Kiribati
     KM: Komoren
-    KN: St. Kitts und Nevis
-    KP: Demokratische Volksrepublik Korea
-    KR: Republik Korea
+    KN: "St. Kitts und Nevis"
+    KP: "Demokratische Volksrepublik Korea"
+    KR: "Republik Korea"
     KW: Kuwait
     KY: Kaimaninseln
     KZ: Kasachstan
     LA: Laos
     LB: Libanon
-    LC: St. Lucia
+    LC: "St. Lucia"
     LI: Liechtenstein
-    LK: Sri Lanka
+    LK: "Sri Lanka"
     LR: Liberia
     LS: Lesotho
     LT: Litauen
@@ -146,17 +145,17 @@ de:
     LY: Libyen
     MA: Marokko
     MC: Monaco
-    MD: Republik Moldau
+    MD: "Republik Moldau"
     ME: Montenegro
-    MF: St. Martin
+    MF: "St. Martin"
     MG: Madagaskar
     MH: Marshallinseln
     MK: Mazedonien
     ML: Mali
     MM: Myanmar
     MN: Mongolei
-    MO: Sonderverwaltungsregion Macau
-    MP: Nördliche Marianen
+    MO: "Sonderverwaltungsregion Macau"
+    MP: "Nördliche Marianen"
     MQ: Martinique
     MR: Mauretanien
     MS: Montserrat
@@ -174,7 +173,7 @@ de:
     NG: Nigeria
     NI: Nicaragua
     NL: Niederlande
-    'NO': Norwegen
+    "NO": Norwegen
     NP: Nepal
     NR: Nauru
     NU: Niue
@@ -187,19 +186,19 @@ de:
     PH: Philippinen
     PK: Pakistan
     PL: Polen
-    PM: St. Pierre und Miquelon
+    PM: "St. Pierre und Miquelon"
     PN: Pitcairninseln
-    PR: Puerto Rico
-    PS: Palästinensische Autonomiegebiete
+    PR: "Puerto Rico"
+    PS: "Palästinensische Autonomiegebiete"
     PT: Portugal
     PW: Palau
     PY: Paraguay
     QA: Katar
-    QO: Äußeres Ozeanien
+    QO: "Äußeres Ozeanien"
     RE: Réunion
     RO: Rumänien
     RS: Serbien
-    RU: Russische Föderation
+    RU: "Russische Föderation"
     RW: Ruanda
     SA: Saudi-Arabien
     SB: Salomonen
@@ -207,25 +206,25 @@ de:
     SD: Sudan
     SE: Schweden
     SG: Singapur
-    SH: St. Helena
+    SH: "St. Helena"
     SI: Slowenien
-    SJ: Svalbard und Jan Mayen
+    SJ: "Svalbard und Jan Mayen"
     SK: Slowakei
-    SL: Sierra Leone
-    SM: San Marino
+    SL: "Sierra Leone"
+    SM: "San Marino"
     SN: Senegal
     SO: Somalia
     SR: Suriname
     SS: Südsudan
-    ST: São Tomé und Príncipe
-    SV: El Salvador
-    SX: Sint Maarten
+    ST: "São Tomé und Príncipe"
+    SV: "El Salvador"
+    SX: "Sint Maarten"
     SY: Syrien
     SZ: Swasiland
-    TA: Tristan da Cunha
-    TC: Turks- und Caicosinseln
+    TA: "Tristan da Cunha"
+    TC: "Turks- und Caicosinseln"
     TD: Tschad
-    TF: Französische Süd- und Antarktisgebiete
+    TF: "Französische Süd- und Antarktisgebiete"
     TG: Togo
     TH: Thailand
     TJ: Tadschikistan
@@ -235,24 +234,24 @@ de:
     TN: Tunesien
     TO: Tonga
     TR: Türkei
-    TT: Trinidad und Tobago
+    TT: "Trinidad und Tobago"
     TV: Tuvalu
     TW: Taiwan
     TZ: Tansania
     UA: Ukraine
     UG: Uganda
     UM: Amerikanisch-Ozeanien
-    US: Vereinigte Staaten
+    US: "Vereinigte Staaten"
     UY: Uruguay
     UZ: Usbekistan
     VA: Vatikanstadt
-    VC: St. Vincent und die Grenadinen
+    VC: "St. Vincent und die Grenadinen"
     VE: Venezuela
-    VG: Britische Jungferninseln
-    VI: Amerikanische Jungferninseln
+    VG: "Britische Jungferninseln"
+    VI: "Amerikanische Jungferninseln"
     VN: Vietnam
     VU: Vanuatu
-    WF: Wallis und Futuna
+    WF: "Wallis und Futuna"
     WS: Samoa
     XK: Kosovo
     YE: Jemen
@@ -260,4 +259,4 @@ de:
     ZA: Südafrika
     ZM: Sambia
     ZW: Simbabwe
-    ZZ: Unbekannte Region
+    ZZ: "Unbekannte Region"

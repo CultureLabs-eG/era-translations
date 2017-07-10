@@ -1,175 +1,161 @@
----
 sl:
   lidia-valeriani:
     chapter-7:
       c: 7
-      title: Deportation of the father and friends
+      title: "Deportation of the father and friends"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,21
-          to: 00:00:07,00
-          text: At that point I see a fascist, a German van driving up the hill.
+          from: "00:00:00,21"
+          to: "00:00:07,00"
+          text: "At that point I see a fascist, a German van driving up the hill."
         sequence-2:
           s: 2
-          from: 00:00:07,00
-          to: 00:00:14,00
-          text: Since all peasants were at the strike… the van proceeds further up…
+          from: "00:00:07,00"
+          to: "00:00:14,00"
+          text: "Since all peasants were at the strike… the van proceeds further up…"
         sequence-3:
           s: 3
-          from: 00:00:14,00
-          to: 00:00:22,13
-          text: they went to Aleotti’s house instead and set it on fire (the Aleotti
-            family was at the strike).
+          from: "00:00:14,00"
+          to: "00:00:22,13"
+          text: "they went to Aleotti’s house instead and set it on fire (the Aleotti family was at the strike)."
         sequence-4:
           s: 4
-          from: 00:00:22,13
-          to: 00:00:26,28
-          text: ''
+          from: "00:00:22,13"
+          to: "00:00:26,28"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:26,28
-          to: 00:00:33,25
-          text: Somebody had betrayed us immediately, since in Montecavolo there were
-            many fascists.
+          from: "00:00:26,28"
+          to: "00:00:33,25"
+          text: "Somebody had betrayed us immediately, since in Montecavolo there were many fascists."
         sequence-6:
           s: 6
-          from: 00:00:33,25
-          to: 00:00:35,00
-          text: ''
+          from: "00:00:33,25"
+          to: "00:00:35,00"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:35,00
-          to: 00:00:44,06
-          text: They betrayed so that the strike went well in Montecavolo and not
-            in the other towns around Reggio
+          from: "00:00:35,00"
+          to: "00:00:44,06"
+          text: "They betrayed so that the strike went well in Montecavolo and not in the other towns around Reggio"
         sequence-8:
           s: 8
-          from: 00:00:44,06
-          to: 00:00:55,05
-          text: because, if this had happened in the whole Province, fascists and
-            Germans would have had a lot to do!
+          from: "00:00:44,06"
+          to: "00:00:55,05"
+          text: "because, if this had happened in the whole Province, fascists and Germans would have had a lot to do!"
         sequence-9:
           s: 9
-          from: 00:00:55,05
-          to: 00:01:03,29
-          text: They focused on Montecavolo, while in Rivalta the strike didn’t work
-            out
+          from: "00:00:55,05"
+          to: "00:01:03,29"
+          text: "They focused on Montecavolo, while in Rivalta the strike didn’t work out"
         sequence-10:
           s: 10
-          from: 00:01:03,29
-          to: 00:01:13,22
-          text: because somebody was telling people “not to go in order not to get
-            killed”.
+          from: "00:01:03,29"
+          to: "00:01:13,22"
+          text: "because somebody was telling people “not to go in order not to get killed”."
         sequence-11:
           s: 11
-          from: 00:01:13,22
-          to: 00:01:21,13
-          text: It could have been so, but these battles had to be done,
+          from: "00:01:13,22"
+          to: "00:01:21,13"
+          text: "It could have been so, but these battles had to be done,"
         sequence-12:
           s: 12
-          from: 00:01:21,13
-          to: 00:01:27,23
-          text: they were part of what we were fighting for.
+          from: "00:01:21,13"
+          to: "00:01:27,23"
+          text: "they were part of what we were fighting for."
         sequence-13:
           s: 13
-          from: 00:01:27,23
-          to: 00:01:35,08
-          text: We had to fight in order to get rid of all this.
+          from: "00:01:27,23"
+          to: "00:01:35,08"
+          text: "We had to fight in order to get rid of all this."
         sequence-14:
           s: 14
-          from: 00:01:35,08
-          to: 00:01:36,00
-          text: ''
+          from: "00:01:35,08"
+          to: "00:01:36,00"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:36,00
-          to: 00:01:43,29
-          text: At my home they arrested Antinea, Liliana and Narciso, the only ones
-            they found.
+          from: "00:01:36,00"
+          to: "00:01:43,29"
+          text: "At my home they arrested Antinea, Liliana and Narciso, the only ones they found."
         sequence-16:
           s: 16
-          from: 00:01:43,29
-          to: 00:01:46,00
-          text: ''
+          from: "00:01:43,29"
+          to: "00:01:46,00"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:46,00
-          to: 00:01:55,10
-          text: Narciso was ten, he would turn eleven in September and we were in
-            March at the time.
+          from: "00:01:46,00"
+          to: "00:01:55,10"
+          text: "Narciso was ten, he would turn eleven in September and we were in March at the time."
         sequence-18:
           s: 18
-          from: 00:01:55,10
-          to: 00:01:56,03
-          text: ''
+          from: "00:01:55,10"
+          to: "00:01:56,03"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:56,03
-          to: 00:02:00,26
-          text: Later on they brought him back home, keeping Antinea and Liliana under
-            arrest.
+          from: "00:01:56,03"
+          to: "00:02:00,26"
+          text: "Later on they brought him back home, keeping Antinea and Liliana under arrest."
         sequence-20:
           s: 20
-          from: 00:02:00,26
-          to: 00:02:04,08
-          text: My mother had stayed at home with the younger ones,
+          from: "00:02:00,26"
+          to: "00:02:04,08"
+          text: "My mother had stayed at home with the younger ones,"
         sequence-21:
           s: 21
-          from: 00:02:04,08
-          to: 00:02:11,27
-          text: as Beatrice who was 5 (she was born in 1939),
+          from: "00:02:04,08"
+          to: "00:02:11,27"
+          text: "as Beatrice who was 5 (she was born in 1939),"
         sequence-22:
           s: 22
-          from: 00:02:11,27
-          to: 00:02:25,04
-          text: and they had bagged some things to save them if they came to burn
-            the house.
+          from: "00:02:11,27"
+          to: "00:02:25,04"
+          text: "and they had bagged some things to save them if they came to burn the house."
         sequence-23:
           s: 23
-          from: 00:02:25,04
-          to: 00:02:27,25
-          text: They arrested everybody.
+          from: "00:02:25,04"
+          to: "00:02:27,25"
+          text: "They arrested everybody."
         sequence-24:
           s: 24
-          from: 00:02:27,25
-          to: 00:02:36,13
-          text: They hadn’t found my father, they only caught him 7 or 8 days later,
-            and sent him to a concentration camp in Germany.
+          from: "00:02:27,25"
+          to: "00:02:36,13"
+          text: "They hadn’t found my father, they only caught him 7 or 8 days later, and sent him to a concentration camp in Germany."
         sequence-25:
           s: 25
-          from: 00:02:36,13
-          to: 00:02:45,07
-          text: They also went to the Aleotti family and arrested the youngest one,
+          from: "00:02:36,13"
+          to: "00:02:45,07"
+          text: "They also went to the Aleotti family and arrested the youngest one,"
         sequence-26:
           s: 26
-          from: 00:02:45,07
-          to: 00:02:48,29
-          text: a friend of Chicco Catellani,
+          from: "00:02:45,07"
+          to: "00:02:48,29"
+          text: "a friend of Chicco Catellani,"
         sequence-27:
           s: 27
-          from: 00:02:48,29
-          to: 00:02:55,26
-          text: and the oldest one – they only found those two – and sent them to
-            Germany as well.
+          from: "00:02:48,29"
+          to: "00:02:55,26"
+          text: "and the oldest one – they only found those two – and sent them to Germany as well."
         sequence-28:
           s: 28
-          from: 00:02:55,26
-          to: 00:02:57,10
-          text: ''
+          from: "00:02:55,26"
+          to: "00:02:57,10"
+          text: ~
         sequence-29:
           s: 29
-          from: 00:02:57,10
-          to: 00:03:02,04
-          text: The youngest one was like 16-17 years old.
+          from: "00:02:57,10"
+          to: "00:03:02,04"
+          text: "The youngest one was like 16-17 years old."
         sequence-30:
           s: 30
-          from: 00:03:02,04
-          to: 00:03:06,04
-          text: ''
+          from: "00:03:02,04"
+          to: "00:03:06,04"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:03:06,04
-          to: 00:03:17,13
-          text: That night from the Ghiardo we could see the fire in Scampate, since
-            they were burning down all the houses like that.
+          from: "00:03:06,04"
+          to: "00:03:17,13"
+          text: "That night from the Ghiardo we could see the fire in Scampate, since they were burning down all the houses like that."

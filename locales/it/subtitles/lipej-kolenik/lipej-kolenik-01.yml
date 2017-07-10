@@ -1,191 +1,181 @@
----
 it:
   lipej-kolenik:
     chapter-1:
       c: 1
-      title: Anschluss, persecution, propaganda for resistance
+      title: "Anschluss, persecution, propaganda for resistance"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,08
-          to: 00:00:04,05
-          text: The father, Wasilij, was still young.
+          from: "00:00:00,08"
+          to: "00:00:04,05"
+          text: "The father, Wasilij, was still young."
         sequence-2:
           s: 2
-          from: 00:00:04,05
-          to: 00:00:18,27
-          text: 'He kept saying of National Socialism: “That will be no good.”'
+          from: "00:00:04,05"
+          to: "00:00:18,27"
+          text: "He kept saying of National Socialism: “That will be no good.”"
         sequence-3:
           s: 3
-          from: 00:00:18,27
-          to: 00:00:20,17
-          text: ''
+          from: "00:00:18,27"
+          to: "00:00:20,17"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:20,17
-          to: 00:00:24,12
-          text: Afterwards, the authority was taken over by the Nazis,
+          from: "00:00:20,17"
+          to: "00:00:24,12"
+          text: "Afterwards, the authority was taken over by the Nazis,"
         sequence-5:
           s: 5
-          from: 00:00:24,12
-          to: 00:00:31,28
-          text: they immediately locked up a number of people of the Slovenian minority
+          from: "00:00:24,12"
+          to: "00:00:31,28"
+          text: "they immediately locked up a number of people of the Slovenian minority"
         sequence-6:
           s: 6
-          from: 00:00:31,28
-          to: 00:00:36,15
-          text: ''
+          from: "00:00:31,28"
+          to: "00:00:36,15"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:36,15
-          to: 00:00:45,18
-          text: and priests. We saw it would not be the way it had been promised before.
+          from: "00:00:36,15"
+          to: "00:00:45,18"
+          text: "and priests. We saw it would not be the way it had been promised before."
         sequence-8:
           s: 8
-          from: 00:00:45,18
-          to: 00:00:50,20
-          text: It was a time without work and bread.
+          from: "00:00:45,18"
+          to: "00:00:50,20"
+          text: "It was a time without work and bread."
         sequence-9:
           s: 9
-          from: 00:00:50,20
-          to: 00:01:00,08
-          text: That helped the national socialists to come into power.
+          from: "00:00:50,20"
+          to: "00:01:00,08"
+          text: "That helped the national socialists to come into power."
         sequence-10:
           s: 10
-          from: 00:01:00,08
-          to: 00:01:09,25
-          text: And many let themselves be led by the propaganda
+          from: "00:01:00,08"
+          to: "00:01:09,25"
+          text: "And many let themselves be led by the propaganda"
         sequence-11:
           s: 11
-          from: 00:01:09,25
-          to: 00:01:16,20
-          text: and even believed that everything would be okay again.
+          from: "00:01:09,25"
+          to: "00:01:16,20"
+          text: "and even believed that everything would be okay again."
         sequence-12:
           s: 12
-          from: 00:01:16,20
-          to: 00:01:22,27
-          text: That the people would live well – under Adolf Hitler.
+          from: "00:01:16,20"
+          to: "00:01:22,27"
+          text: "That the people would live well – under Adolf Hitler."
         sequence-13:
           s: 13
-          from: 00:01:22,27
-          to: 00:01:24,04
-          text: ''
+          from: "00:01:22,27"
+          to: "00:01:24,04"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:24,04
-          to: 00:01:36,00
-          text: But when the first Slovenians were locked up, we already knew my father
-            was right.
+          from: "00:01:24,04"
+          to: "00:01:36,00"
+          text: "But when the first Slovenians were locked up, we already knew my father was right."
         sequence-15:
           s: 15
-          from: 00:01:36,00
-          to: 00:01:37,04
-          text: ''
+          from: "00:01:36,00"
+          to: "00:01:37,04"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:37,04
-          to: 00:01:47,05
-          text: The people lost their belief in Adolf Hitler
+          from: "00:01:37,04"
+          to: "00:01:47,05"
+          text: "The people lost their belief in Adolf Hitler"
         sequence-17:
           s: 17
-          from: 00:01:47,05
-          to: 00:01:54,12
-          text: and the resistance formed against fascism and Hitlerism.
+          from: "00:01:47,05"
+          to: "00:01:54,12"
+          text: "and the resistance formed against fascism and Hitlerism."
         sequence-18:
           s: 18
-          from: 00:01:54,12
-          to: 00:02:05,18
-          text: The first deserters from the ‘Wehrmacht’ had already escaped to Yugoslavia
-            in 1939.
+          from: "00:01:54,12"
+          to: "00:02:05,18"
+          text: "The first deserters from the ‘Wehrmacht’ had already escaped to Yugoslavia in 1939."
         sequence-19:
           s: 19
-          from: 00:02:05,18
-          to: 00:02:17,13
-          text: After the occupation of Yugoslavia they were arrested or had gone
-            into hiding under a false name;
+          from: "00:02:05,18"
+          to: "00:02:17,13"
+          text: "After the occupation of Yugoslavia they were arrested or had gone into hiding under a false name;"
         sequence-20:
           s: 20
-          from: 00:02:17,13
-          to: 00:02:18,11
-          text: ''
+          from: "00:02:17,13"
+          to: "00:02:18,11"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:02:18,11
-          to: 00:02:22,07
-          text: as my colleague Karl Potoschki did.
+          from: "00:02:18,11"
+          to: "00:02:22,07"
+          text: "as my colleague Karl Potoschki did."
         sequence-22:
           s: 22
-          from: 00:02:22,07
-          to: 00:02:31,04
-          text: He was working under false name at a hotel in Bosnia.
+          from: "00:02:22,07"
+          to: "00:02:31,04"
+          text: "He was working under false name at a hotel in Bosnia."
         sequence-23:
           s: 23
-          from: 00:02:31,04
-          to: 00:02:45,07
-          text: On the 20th October 1939, he was shot together with 20.000 ‘chosen
-            ones’ and finished off.
+          from: "00:02:31,04"
+          to: "00:02:45,07"
+          text: "On the 20th October 1939, he was shot together with 20.000 ‘chosen ones’ and finished off."
         sequence-24:
           s: 24
-          from: 00:02:45,07
-          to: 00:02:47,02
-          text: ''
+          from: "00:02:45,07"
+          to: "00:02:47,02"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:02:47,02
-          to: 00:02:57,07
-          text: Those coming back after the occupation of Yugoslavia were mostly locked
-            up,
+          from: "00:02:47,02"
+          to: "00:02:57,07"
+          text: "Those coming back after the occupation of Yugoslavia were mostly locked up,"
         sequence-26:
           s: 26
-          from: 00:02:57,07
-          to: 00:03:05,06
-          text: respectively were the cadres of the liberation front of the Slovenes
-            of Carinthia.
+          from: "00:02:57,07"
+          to: "00:03:05,06"
+          text: "respectively were the cadres of the liberation front of the Slovenes of Carinthia."
         sequence-27:
           s: 27
-          from: 00:03:05,06
-          to: 00:03:15,08
-          text: Some joined the partisans straight away; others later on, but the
-            beginning had been made.
+          from: "00:03:05,06"
+          to: "00:03:15,08"
+          text: "Some joined the partisans straight away; others later on, but the beginning had been made."
         sequence-28:
           s: 28
-          from: 00:03:15,08
-          to: 00:03:22,27
-          text: From day to day the resistance grew stronger.
+          from: "00:03:15,08"
+          to: "00:03:22,27"
+          text: "From day to day the resistance grew stronger."
         sequence-29:
           s: 29
-          from: 00:03:22,27
-          to: 00:03:32,29
-          text: Today, when you realise how courageous the people were –
+          from: "00:03:22,27"
+          to: "00:03:32,29"
+          text: "Today, when you realise how courageous the people were –"
         sequence-30:
           s: 30
-          from: 00:03:32,29
-          to: 00:03:40,09
-          text: then again it involved the ‘head’ and the people didn’t have a clue.
+          from: "00:03:32,29"
+          to: "00:03:40,09"
+          text: "then again it involved the ‘head’ and the people didn’t have a clue."
         sequence-31:
           s: 31
-          from: 00:03:40,09
-          to: 00:03:51,20
-          text: The plain people were the ones that helped the rebellion.
+          from: "00:03:40,09"
+          to: "00:03:51,20"
+          text: "The plain people were the ones that helped the rebellion."
         sequence-32:
           s: 32
-          from: 00:03:51,20
-          to: 00:03:55,19
-          text: ''
+          from: "00:03:51,20"
+          to: "00:03:55,19"
+          text: ~
         sequence-33:
           s: 33
-          from: 00:03:55,19
-          to: 00:04:02,08
-          text: Without the help of the rural population, resistance would have been
-            impossible.
+          from: "00:03:55,19"
+          to: "00:04:02,08"
+          text: "Without the help of the rural population, resistance would have been impossible."
         sequence-34:
           s: 34
-          from: 00:04:02,08
-          to: 00:04:14,03
-          text: Only because of this it was possible that the number of partisans
-            became bigger each day.
+          from: "00:04:02,08"
+          to: "00:04:14,03"
+          text: "Only because of this it was possible that the number of partisans became bigger each day."
         sequence-35:
           s: 35
-          from: 00:04:14,03
-          to: 00:04:20,11
-          text: And the hope that one day things would change.
+          from: "00:04:14,03"
+          to: "00:04:20,11"
+          text: "And the hope that one day things would change."
