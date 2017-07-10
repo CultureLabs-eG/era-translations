@@ -1,124 +1,116 @@
----
 pl:
   fernando-cavazzini:
     chapter-3:
       c: 3
-      title: 'Joining partisans: Who is the enemy?'
+      title: "Joining partisans: Who is the enemy?"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,09
-          to: 00:00:09,02
-          text: It’s quite normal that after these episodes I decided to become involved
-            in the Resistance.
+          from: "00:00:01,09"
+          to: "00:00:09,02"
+          text: "It’s quite normal that after these episodes I decided to become involved in the Resistance."
         sequence-2:
           s: 2
-          from: 00:00:09,02
-          to: 00:00:15,25
-          text: I lied a little bit to my comrades,
+          from: "00:00:09,02"
+          to: "00:00:15,25"
+          text: "I lied a little bit to my comrades,"
         sequence-3:
           s: 3
-          from: 00:00:15,25
-          to: 00:00:23,11
-          text: since I told them I couldn’t stay at home anymore and wanted to go
-            to the mountains.
+          from: "00:00:15,25"
+          to: "00:00:23,11"
+          text: "since I told them I couldn’t stay at home anymore and wanted to go to the mountains."
         sequence-4:
           s: 4
-          from: 00:00:23,11
-          to: 00:00:28,19
-          text: I insisted heavily. I finally left.
+          from: "00:00:23,11"
+          to: "00:00:28,19"
+          text: "I insisted heavily. I finally left."
         sequence-5:
           s: 5
-          from: 00:00:28,19
-          to: 00:00:32,00
-          text: It was the beginning of March.
+          from: "00:00:28,19"
+          to: "00:00:32,00"
+          text: "It was the beginning of March."
         sequence-6:
           s: 6
-          from: 00:00:32,00
-          to: 00:00:37,04
-          text: We knew that there was a partisan unit in the mountains.
+          from: "00:00:32,00"
+          to: "00:00:37,04"
+          text: "We knew that there was a partisan unit in the mountains."
         sequence-7:
           s: 7
-          from: 00:00:37,04
-          to: 00:00:45,03
-          text: My friend Cocchi and I were the ones in charge, Ugo Veronesi.
+          from: "00:00:37,04"
+          to: "00:00:45,03"
+          text: "My friend Cocchi and I were the ones in charge, Ugo Veronesi."
         sequence-8:
           s: 8
-          from: 00:00:45,03
-          to: 00:00:52,20
-          text: We gathered a few more, leaving in a group of seven.
+          from: "00:00:45,03"
+          to: "00:00:52,20"
+          text: "We gathered a few more, leaving in a group of seven."
         sequence-9:
           s: 9
-          from: 00:00:52,20
-          to: 00:00:53,09
-          text: ''
+          from: "00:00:52,20"
+          to: "00:00:53,09"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:53,09
-          to: 00:00:56,06
-          text: Fascism was responsible for this.
+          from: "00:00:53,09"
+          to: "00:00:56,06"
+          text: "Fascism was responsible for this."
         sequence-11:
           s: 11
-          from: 00:00:56,06
-          to: 00:01:04,05
-          text: 'Fascism had set up an alliance with the Germans and had wanted war
-            by all means:'
+          from: "00:00:56,06"
+          to: "00:01:04,05"
+          text: "Fascism had set up an alliance with the Germans and had wanted war by all means:"
         sequence-12:
           s: 12
-          from: 00:01:04,05
-          to: 00:01:11,18
-          text: the war in Spain, the war in Ethiopia, the occupation of Albania,
-            the last war.
+          from: "00:01:04,05"
+          to: "00:01:11,18"
+          text: "the war in Spain, the war in Ethiopia, the occupation of Albania, the last war."
         sequence-13:
           s: 13
-          from: 00:01:11,18
-          to: 00:01:15,11
-          text: We despised the fascists more than the Germans.
+          from: "00:01:11,18"
+          to: "00:01:15,11"
+          text: "We despised the fascists more than the Germans."
         sequence-14:
           s: 14
-          from: 00:01:15,11
-          to: 00:01:20,10
-          text: Although the Germans were responsible for brutalities, the fascists
-            weren’t any better.
+          from: "00:01:15,11"
+          to: "00:01:20,10"
+          text: "Although the Germans were responsible for brutalities, the fascists weren’t any better."
         sequence-15:
           s: 15
-          from: 00:01:20,10
-          to: 00:01:20,29
-          text: ''
+          from: "00:01:20,10"
+          to: "00:01:20,29"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:20,29
-          to: 00:01:25,10
-          text: It was time to stop this war.
+          from: "00:01:20,29"
+          to: "00:01:25,10"
+          text: "It was time to stop this war."
         sequence-17:
           s: 17
-          from: 00:01:25,10
-          to: 00:01:29,15
-          text: I started feeling this, searching my conscience.
+          from: "00:01:25,10"
+          to: "00:01:29,15"
+          text: "I started feeling this, searching my conscience."
         sequence-18:
           s: 18
-          from: 00:01:29,15
-          to: 00:01:32,20
-          text: I might have even seemed responsible,
+          from: "00:01:29,15"
+          to: "00:01:32,20"
+          text: "I might have even seemed responsible,"
         sequence-19:
           s: 19
-          from: 00:01:32,20
-          to: 00:01:38,21
-          text: and somehow I was, given my job, given the fact that I was producing
-            weapons.
+          from: "00:01:32,20"
+          to: "00:01:38,21"
+          text: "and somehow I was, given my job, given the fact that I was producing weapons."
         sequence-20:
           s: 20
-          from: 00:01:38,21
-          to: 00:01:44,20
-          text: I felt a bit guilty, an accomplice in all this.
+          from: "00:01:38,21"
+          to: "00:01:44,20"
+          text: "I felt a bit guilty, an accomplice in all this."
         sequence-21:
           s: 21
-          from: 00:01:44,20
-          to: 00:01:52,10
-          text: That’s why we were trying to go to the mountains to fight the Germans
-            and the fascists,
+          from: "00:01:44,20"
+          to: "00:01:52,10"
+          text: "That’s why we were trying to go to the mountains to fight the Germans and the fascists,"
         sequence-22:
           s: 22
-          from: 00:01:52,10
-          to: 00:01:56,25
-          text: with such a drive you couldn’t even imagine.
+          from: "00:01:52,10"
+          to: "00:01:56,25"
+          text: "with such a drive you couldn’t even imagine."

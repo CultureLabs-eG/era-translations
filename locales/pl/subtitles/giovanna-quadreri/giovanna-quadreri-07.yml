@@ -1,196 +1,176 @@
----
 pl:
   giovanna-quadreri:
     chapter-7:
       c: 7
-      title: Acts of sabotage on the railway
+      title: ~
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,29
-          to: 00:00:06,09
-          text: Gordon was in charge of organizing things.
+          from: "00:00:00,29"
+          to: "00:00:06,09"
+          text: ~
         sequence-2:
           s: 2
-          from: 00:00:06,09
-          to: 00:00:11,16
-          text: They had captured a German,
+          from: "00:00:06,09"
+          to: "00:00:11,16"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:11,16
-          to: 00:00:22,21
-          text: so he told us we had to go and attack the train that took ammunition
-            to the front line.
+          from: "00:00:11,16"
+          to: "00:00:22,21"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:22,21
-          to: 00:00:36,00
-          text: We decided to go and left with two big bombs and a donkey, heading
-            to Baiso.
+          from: "00:00:22,21"
+          to: "00:00:36,00"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:36,00
-          to: 00:00:46,11
-          text: The donkey was really slow, so by the time we got there we had already
-            walked for seven or eight hours.
+          from: "00:00:36,00"
+          to: "00:00:46,11"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:46,11
-          to: 00:00:56,01
-          text: There was also this boy with us who was from Baiso, his name was Barozzi,
-            who died very young.
+          from: "00:00:46,11"
+          to: "00:00:56,01"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:56,01
-          to: 00:01:08,07
-          text: I guess Gordon told him that it would have been impossible to carry
-            weapons and ammunition far away,
+          from: "00:00:56,01"
+          to: "00:01:08,07"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:01:08,07
-          to: 00:01:15,29
-          text: so they went to a garage and they gave us a “millecento” car.
+          from: "00:01:08,07"
+          to: "00:01:15,29"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:01:15,29
-          to: 00:01:22,25
-          text: They worked day and night to get the car ready and only left the following
-            day,
+          from: "00:01:15,29"
+          to: "00:01:22,25"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:01:22,25
-          to: 00:01:29,23
-          text: while I had to leave before, by foot. They arrived the day after.
+          from: "00:01:22,25"
+          to: "00:01:29,23"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:01:29,23
-          to: 00:01:36,00
-          text: I had to get there earlier to tell everybody that a German car was
-            arriving,
+          from: "00:01:29,23"
+          to: "00:01:36,00"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:36,00
-          to: 00:01:47,11
-          text: but that the three men in it were partisans. I had a document.
+          from: "00:01:36,00"
+          to: "00:01:47,11"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:01:47,11
-          to: 00:01:57,16
-          text: I don’t know if you noticed that there’s a copy of it in Gordon’s
-            book.
+          from: "00:01:47,11"
+          to: "00:01:57,16"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:57,16
-          to: 00:01:59,27
-          text: ''
+          from: "00:01:57,16"
+          to: "00:01:59,27"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:59,27
-          to: 00:02:07,09
-          text: The English had written that whatever happened they would have rewarded
-            us.
+          from: "00:01:59,27"
+          to: "00:02:07,09"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:02:07,09
-          to: 00:02:13,15
-          text: So I had this letter and I told them not to shoot at the car
+          from: "00:02:07,09"
+          to: "00:02:13,15"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:02:13,15
-          to: 00:02:20,25
-          text: since the men in it were three partisans who were coming to blow up
-            the bridge.
+          from: "00:02:13,15"
+          to: "00:02:20,25"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:02:20,25
-          to: 00:02:26,28
-          text: Everything went well that day and I stayed there even the day after,
+          from: "00:02:20,25"
+          to: "00:02:26,28"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:02:26,28
-          to: 00:02:34,06
-          text: because it took me more than a full day to go back down from Baiso
-            to Soliera.
+          from: "00:02:26,28"
+          to: "00:02:34,06"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:02:34,06
-          to: 00:02:45,13
-          text: 'I wrote it in a book in order to remember where it was: Cortile,
-            near Campogalliano.'
+          from: "00:02:34,06"
+          to: "00:02:45,13"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:02:45,13
-          to: 00:02:52,28
-          text: I walked through the ditches, following the canal as it went down,
+          from: "00:02:45,13"
+          to: "00:02:52,28"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:02:52,28
-          to: 00:03:03,27
-          text: after Modena, around Rubiera, and managed to deliver the letter.
+          from: "00:02:52,28"
+          to: "00:03:03,27"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:03:03,27
-          to: 00:03:08,29
-          text: The following day they arrived with the car.
+          from: "00:03:03,27"
+          to: "00:03:08,29"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:03:08,29
-          to: 00:03:18,02
-          text: If three Germans had arrived at this farmhouse, a small house right
-            in the open,
+          from: "00:03:08,29"
+          to: "00:03:18,02"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:03:18,02
-          to: 00:03:25,05
-          text: they would have been immediately killed by the partisans.
+          from: "00:03:18,02"
+          to: "00:03:25,05"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:03:25,05
-          to: 00:03:35,08
-          text: 'They would have thought: “What are they doing here? They came for
-            us”, and they would have shot at them.'
+          from: "00:03:25,05"
+          to: "00:03:35,08"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:03:35,08
-          to: 00:03:47,00
-          text: But everything went well, they waited for night to fall, placed the
-            bombs, and succeeded in derailing the train.
+          from: "00:03:35,08"
+          to: "00:03:47,00"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:03:47,00
-          to: 00:03:54,26
-          text: They stayed near the bridge the whole night, since the partisans had
-            taken us to the right places.
+          from: "00:03:47,00"
+          to: "00:03:54,26"
+          text: ~
         sequence-29:
           s: 29
-          from: 00:03:54,26
-          to: 00:04:01,17
-          text: If they weren’t covered properly they couldn’t have done anything.
+          from: "00:03:54,26"
+          to: "00:04:01,17"
+          text: ~
         sequence-30:
           s: 30
-          from: 00:04:01,17
-          to: 00:04:07,02
-          text: Maybe they could have managed anyway, but they would have been in
-            danger.
+          from: "00:04:01,17"
+          to: "00:04:07,02"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:04:07,02
-          to: 00:04:13,24
-          text: That time they were taken to the right bridge to set the mines.
+          from: "00:04:07,02"
+          to: "00:04:13,24"
+          text: ~
         sequence-32:
           s: 32
-          from: 00:04:13,24
-          to: 00:04:22,09
-          text: The train arrived at five in the morning and at that point they said
-            they killed a lot of people,
+          from: "00:04:13,24"
+          to: "00:04:22,09"
+          text: ~
         sequence-33:
           s: 33
-          from: 00:04:22,09
-          to: 00:04:29,17
-          text: having derailed six or seven railway wagons full of ammunition.
+          from: "00:04:22,09"
+          to: "00:04:29,17"
+          text: ~
         sequence-34:
           s: 34
-          from: 00:04:29,17
-          to: 00:04:37,29
-          text: The mission went well, and after two days they made it back to Secchio,
-            pleased with their brilliant action.
+          from: "00:04:29,17"
+          to: "00:04:37,29"
+          text: ~

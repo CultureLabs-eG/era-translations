@@ -1,143 +1,131 @@
----
 pl:
   lucien-ducastel:
     chapter-1:
       c: 1
-      title: 'Introduction: family, school, work'
+      title: "Introduction: family, school, work"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,11
-          to: 00:00:08,05
-          text: My name is Lucien Ducastel. I am from the Seine-Maritime, in Normandy.
+          from: "00:00:00,11"
+          to: "00:00:08,05"
+          text: "My name is Lucien Ducastel. I am from the Seine-Maritime, in Normandy."
         sequence-2:
           s: 2
-          from: 00:00:08,05
-          to: 00:00:12,25
-          text: ''
+          from: "00:00:08,05"
+          to: "00:00:12,25"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:12,25
-          to: 00:00:25,18
-          text: For three years, I was an apprentice butcher, but did not like it
-            at all. I started working in construction, as a metal worker.
+          from: "00:00:12,25"
+          to: "00:00:25,18"
+          text: "For three years, I was an apprentice butcher, but did not like it at all. I started working in construction, as a metal worker."
         sequence-4:
           s: 4
-          from: 00:00:25,18
-          to: 00:00:30,19
-          text: I worked very hard.
+          from: "00:00:25,18"
+          to: "00:00:30,19"
+          text: "I worked very hard."
         sequence-5:
           s: 5
-          from: 00:00:30,19
-          to: 00:00:35,20
-          text: ''
+          from: "00:00:30,19"
+          to: "00:00:35,20"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:35,20
-          to: 00:00:42,19
-          text: My parents, my father was a metal worker, a hard working man. He repaired
-            ships.
+          from: "00:00:35,20"
+          to: "00:00:42,19"
+          text: "My parents, my father was a metal worker, a hard working man. He repaired ships."
         sequence-7:
           s: 7
-          from: 00:00:42,19
-          to: 00:00:50,23
-          text: Sometimes he worked on two or three ships a week. My mother was a
-            textile worker.
+          from: "00:00:42,19"
+          to: "00:00:50,23"
+          text: "Sometimes he worked on two or three ships a week. My mother was a textile worker."
         sequence-8:
           s: 8
-          from: 00:00:50,23
-          to: 00:00:53,12
-          text: ''
+          from: "00:00:50,23"
+          to: "00:00:53,12"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:53,12
-          to: 00:01:01,06
-          text: I have my elementary school certificate. I was barely twelve years
-            old.
+          from: "00:00:53,12"
+          to: "00:01:01,06"
+          text: "I have my elementary school certificate. I was barely twelve years old."
         sequence-10:
           s: 10
-          from: 00:01:01,06
-          to: 00:01:09,05
-          text: My birthday is in the end of August and I got the certificate in June.
+          from: "00:01:01,06"
+          to: "00:01:09,05"
+          text: "My birthday is in the end of August and I got the certificate in June."
         sequence-11:
           s: 11
-          from: 00:01:09,05
-          to: 00:01:16,12
-          text: It was important to me. Afterwards, I started working.
+          from: "00:01:09,05"
+          to: "00:01:16,12"
+          text: "It was important to me. Afterwards, I started working."
         sequence-12:
           s: 12
-          from: 00:01:16,12
-          to: 00:01:24,13
-          text: And as I had very little ideas about what I wanted to do I became
-            an apprentice butcher.
+          from: "00:01:16,12"
+          to: "00:01:24,13"
+          text: "And as I had very little ideas about what I wanted to do I became an apprentice butcher."
         sequence-13:
           s: 13
-          from: 00:01:24,13
-          to: 00:01:25,02
-          text: ''
+          from: "00:01:24,13"
+          to: "00:01:25,02"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:25,02
-          to: 00:01:33,10
-          text: I worked there for three and a half years. I started to learn about
-            the work. But in the end I never became a butcher.
+          from: "00:01:25,02"
+          to: "00:01:33,10"
+          text: "I worked there for three and a half years. I started to learn about the work. But in the end I never became a butcher."
         sequence-15:
           s: 15
-          from: 00:01:33,10
-          to: 00:01:34,04
-          text: ''
+          from: "00:01:33,10"
+          to: "00:01:34,04"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:34,04
-          to: 00:01:41,26
-          text: Then I started working in construction, in civil projects, doing repair
-            work on ships.
+          from: "00:01:34,04"
+          to: "00:01:41,26"
+          text: "Then I started working in construction, in civil projects, doing repair work on ships."
         sequence-17:
           s: 17
-          from: 00:01:41,26
-          to: 00:01:47,11
-          text: I did all sorts of different things, always manual work though.
+          from: "00:01:41,26"
+          to: "00:01:47,11"
+          text: "I did all sorts of different things, always manual work though."
         sequence-18:
           s: 18
-          from: 00:01:47,11
-          to: 00:01:48,03
-          text: ''
+          from: "00:01:47,11"
+          to: "00:01:48,03"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:48,03
-          to: 00:01:56,22
-          text: I was 16 years old in 1936 and I worked in factories.
+          from: "00:01:48,03"
+          to: "00:01:56,22"
+          text: "I was 16 years old in 1936 and I worked in factories."
         sequence-20:
           s: 20
-          from: 00:01:56,22
-          to: 00:02:09,21
-          text: I had simply become a worker and got to know the whole period of 1936,
-            the strikes and all that it represented.
+          from: "00:01:56,22"
+          to: "00:02:09,21"
+          text: "I had simply become a worker and got to know the whole period of 1936, the strikes and all that it represented."
         sequence-21:
           s: 21
-          from: 00:02:09,21
-          to: 00:02:20,22
-          text: ''
+          from: "00:02:09,21"
+          to: "00:02:20,22"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:02:20,22
-          to: 00:02:25,00
-          text: The strikes of 1936 were the beginning of it all.
+          from: "00:02:20,22"
+          to: "00:02:25,00"
+          text: "The strikes of 1936 were the beginning of it all."
         sequence-23:
           s: 23
-          from: 00:02:25,00
-          to: 00:02:33,27
-          text: There was a labour movement that manifested itself. I was already
-            part of the working class.
+          from: "00:02:25,00"
+          to: "00:02:33,27"
+          text: "There was a labour movement that manifested itself. I was already part of the working class."
         sequence-24:
           s: 24
-          from: 00:02:33,27
-          to: 00:02:42,26
-          text: In these conditions the 1936 movement manifested itself a little bit
-            everywhere and there were big demonstrations.
+          from: "00:02:33,27"
+          to: "00:02:42,26"
+          text: "In these conditions the 1936 movement manifested itself a little bit everywhere and there were big demonstrations."
         sequence-25:
           s: 25
-          from: 00:02:42,26
-          to: 00:02:48,12
-          text: It meant very much to the working class movement in France. It was
-            important.
+          from: "00:02:42,26"
+          to: "00:02:48,12"
+          text: "It meant very much to the working class movement in France. It was important."

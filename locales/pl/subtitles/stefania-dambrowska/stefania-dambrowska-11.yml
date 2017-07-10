@@ -1,196 +1,181 @@
----
 pl:
   stefania-dambrowska:
     chapter-11:
       c: 11
-      title: Helena Snarska’s escape from a transport to Treblinka
+      title: "Helena Snarska’s escape from a transport to Treblinka"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,17
-          to: 00:00:04,15
-          text: I need to add that as I said earlier there were two priests in Vilnius,
+          from: "00:00:00,17"
+          to: "00:00:04,15"
+          text: "I need to add that as I said earlier there were two priests in Vilnius,"
         sequence-2:
           s: 2
-          from: 00:00:04,15
-          to: 00:00:09,20
-          text: priest Chlebowicz, who gave Maryśka the birth certificate
+          from: "00:00:04,15"
+          to: "00:00:09,20"
+          text: "priest Chlebowicz, who gave Maryśka the birth certificate"
         sequence-3:
           s: 3
-          from: 00:00:09,20
-          to: 00:00:16,17
-          text: and priest Kretowicz, and the brother of Kretowicz, Onufry - the old
-            man, who used to sit in upper Orwidów,
+          from: "00:00:09,20"
+          to: "00:00:16,17"
+          text: "and priest Kretowicz, and the brother of Kretowicz, Onufry - the old man, who used to sit in upper Orwidów,"
         sequence-4:
           s: 4
-          from: 00:00:16,17
-          to: 00:00:19,12
-          text: he also gave two false birth certificates.
+          from: "00:00:16,17"
+          to: "00:00:19,12"
+          text: "he also gave two false birth certificates."
         sequence-5:
           s: 5
-          from: 00:00:19,12
-          to: 00:00:26,02
-          text: In the upper Orwidów also was a lady, who escaped from the train going
-            to Treblinka
+          from: "00:00:19,12"
+          to: "00:00:26,02"
+          text: "In the upper Orwidów also was a lady, who escaped from the train going to Treblinka"
         sequence-6:
           s: 6
-          from: 00:00:26,02
-          to: 00:00:26,24
-          text: ''
+          from: "00:00:26,02"
+          to: "00:00:26,24"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:26,24
-          to: 00:00:35,12
-          text: and the priest Kretowicz sent his brother`s wife just to help her
-            at the farm house.
+          from: "00:00:26,24"
+          to: "00:00:35,12"
+          text: "and the priest Kretowicz sent his brother`s wife just to help her at the farm house."
         sequence-8:
           s: 8
-          from: 00:00:35,12
-          to: 00:00:38,14
-          text: ''
+          from: "00:00:35,12"
+          to: "00:00:38,14"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:38,14
-          to: 00:00:43,16
-          text: Her name was Helena Strumińska,
+          from: "00:00:38,14"
+          to: "00:00:43,16"
+          text: "Her name was Helena Strumińska,"
         sequence-10:
           s: 10
-          from: 00:00:43,16
-          to: 00:00:51,25
-          text: something like that, well. Mrs. Helena, well, I felt that something
-            was wrong with her.
+          from: "00:00:43,16"
+          to: "00:00:51,25"
+          text: "something like that, well. Mrs. Helena, well, I felt that something was wrong with her."
         sequence-11:
           s: 11
-          from: 00:00:51,25
-          to: 00:00:58,04
-          text: Mrs. Helena was a surgeon, the daughter of a doctor from Vilnius,
-            a Jew.
+          from: "00:00:51,25"
+          to: "00:00:58,04"
+          text: "Mrs. Helena was a surgeon, the daughter of a doctor from Vilnius, a Jew."
         sequence-12:
           s: 12
-          from: 00:00:58,04
-          to: 00:00:58,16
-          text: ''
+          from: "00:00:58,04"
+          to: "00:00:58,16"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:00:58,16
-          to: 00:01:01,10
-          text: What happened? Well, her story was this.
+          from: "00:00:58,16"
+          to: "00:01:01,10"
+          text: "What happened? Well, her story was this."
         sequence-14:
           s: 14
-          from: 00:01:01,10
-          to: 00:01:07,02
-          text: She escaped from Warsaw with her husband, he also was a doctor.
+          from: "00:01:01,10"
+          to: "00:01:07,02"
+          text: "She escaped from Warsaw with her husband, he also was a doctor."
         sequence-15:
           s: 15
-          from: 00:01:07,02
-          to: 00:01:10,03
-          text: They were in Vilnius, living at her parents place.
+          from: "00:01:07,02"
+          to: "00:01:10,03"
+          text: "They were in Vilnius, living at her parents place."
         sequence-16:
           s: 16
-          from: 00:01:10,03
-          to: 00:01:24,03
-          text: At first there was no ghetto, but then the Germans took her husband
-            to the ghetto, I do not remember the maiden name of Helena,
+          from: "00:01:10,03"
+          to: "00:01:24,03"
+          text: "At first there was no ghetto, but then the Germans took her husband to the ghetto, I do not remember the maiden name of Helena,"
         sequence-17:
           s: 17
-          from: 00:01:24,03
-          to: 00:01:36,23
-          text: her father-doctor and her husband Abraham Wajnryb, but in general
-            he was called Stanisław.
+          from: "00:01:24,03"
+          to: "00:01:36,23"
+          text: "her father-doctor and her husband Abraham Wajnryb, but in general he was called Stanisław."
         sequence-18:
           s: 18
-          from: 00:01:36,23
-          to: 00:01:42,28
-          text: Staś and her father were taken to Estonia to work in a quarry.
+          from: "00:01:36,23"
+          to: "00:01:42,28"
+          text: "Staś and her father were taken to Estonia to work in a quarry."
         sequence-19:
           s: 19
-          from: 00:01:42,28
-          to: 00:01:53,07
-          text: There, mica was extracted, it was hard work. Plenty of people were
-            deported there to work and extract that mica.
+          from: "00:01:42,28"
+          to: "00:01:53,07"
+          text: "There, mica was extracted, it was hard work. Plenty of people were deported there to work and extract that mica."
         sequence-20:
           s: 20
-          from: 00:01:53,07
-          to: 00:01:58,06
-          text: Helena stayed at home alone with her mother who was ill, it was cancer.
+          from: "00:01:53,07"
+          to: "00:01:58,06"
+          text: "Helena stayed at home alone with her mother who was ill, it was cancer."
         sequence-21:
           s: 21
-          from: 00:01:58,06
-          to: 00:01:59,07
-          text: ''
+          from: "00:01:58,06"
+          to: "00:01:59,07"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:01:59,07
-          to: 00:02:04,11
-          text: When the Germans reached her house,
+          from: "00:01:59,07"
+          to: "00:02:04,11"
+          text: "When the Germans reached her house,"
         sequence-23:
           s: 23
-          from: 00:02:04,11
-          to: 00:02:07,11
-          text: Helena gave her an injection,
+          from: "00:02:04,11"
+          to: "00:02:07,11"
+          text: "Helena gave her an injection,"
         sequence-24:
           s: 24
-          from: 00:02:07,11
-          to: 00:02:15,12
-          text: anaesthetized her as she knew that when Germans came they would kill
-            her in bed,
+          from: "00:02:07,11"
+          to: "00:02:15,12"
+          text: "anaesthetized her as she knew that when Germans came they would kill her in bed,"
         sequence-25:
           s: 25
-          from: 00:02:15,12
-          to: 00:02:19,05
-          text: those were their ways of dealing with people.
+          from: "00:02:15,12"
+          to: "00:02:19,05"
+          text: "those were their ways of dealing with people."
         sequence-26:
           s: 26
-          from: 00:02:19,05
-          to: 00:02:22,15
-          text: Finally she was taken to the train.
+          from: "00:02:19,05"
+          to: "00:02:22,15"
+          text: "Finally she was taken to the train."
         sequence-27:
           s: 27
-          from: 00:02:22,15
-          to: 00:02:28,09
-          text: And in the last moment she tore out the wooden board from the floor
+          from: "00:02:22,15"
+          to: "00:02:28,09"
+          text: "And in the last moment she tore out the wooden board from the floor"
         sequence-28:
           s: 28
-          from: 00:02:28,09
-          to: 00:02:33,12
-          text: and lowered herself onto the railway track, she did it, she was lucky
-            they did not shoot her
+          from: "00:02:28,09"
+          to: "00:02:33,12"
+          text: "and lowered herself onto the railway track, she did it, she was lucky they did not shoot her"
         sequence-29:
           s: 29
-          from: 00:02:33,12
-          to: 00:02:42,20
-          text: as at the end of the train always a German was who was supposed to
-            shoot if somebody left the train.
+          from: "00:02:33,12"
+          to: "00:02:42,20"
+          text: "as at the end of the train always a German was who was supposed to shoot if somebody left the train."
         sequence-30:
           s: 30
-          from: 00:02:42,20
-          to: 00:02:45,17
-          text: Helena did it, she rolled onto the railway embankment,
+          from: "00:02:42,20"
+          to: "00:02:45,17"
+          text: "Helena did it, she rolled onto the railway embankment,"
         sequence-31:
           s: 31
-          from: 00:02:45,17
-          to: 00:02:52,27
-          text: went through some fields and reached Vilnius, where the priest Kretowicz
-            gave her papers.
+          from: "00:02:45,17"
+          to: "00:02:52,27"
+          text: "went through some fields and reached Vilnius, where the priest Kretowicz gave her papers."
         sequence-32:
           s: 32
-          from: 00:02:52,27
-          to: 00:02:53,22
-          text: ''
+          from: "00:02:52,27"
+          to: "00:02:53,22"
+          text: ~
         sequence-33:
           s: 33
-          from: 00:02:53,22
-          to: 00:02:59,07
-          text: Well, everybody knew that she worked as a maid with the Kretowicz
-            family in upper Orwidów,
+          from: "00:02:53,22"
+          to: "00:02:59,07"
+          text: "Well, everybody knew that she worked as a maid with the Kretowicz family in upper Orwidów,"
         sequence-34:
           s: 34
-          from: 00:02:59,07
-          to: 00:03:00,22
-          text: ''
+          from: "00:02:59,07"
+          to: "00:03:00,22"
+          text: ~
         sequence-35:
           s: 35
-          from: 00:03:00,22
-          to: 00:03:06,29
-          text: and then the Konarzewski family came, they moved there, and she moved
-            to my place.
+          from: "00:03:00,22"
+          to: "00:03:06,29"
+          text: "and then the Konarzewski family came, they moved there, and she moved to my place."

@@ -1,53 +1,52 @@
----
 pl:
   countries:
-    AC: Wyspa Wniebowstąpienia
+    AC: "Wyspa Wniebowstąpienia"
     AD: Andora
-    AE: Zjednoczone Emiraty Arabskie
+    AE: "Zjednoczone Emiraty Arabskie"
     AF: Afganistan
-    AG: Antigua i Barbuda
+    AG: "Antigua i Barbuda"
     AI: Anguilla
     AL: Albania
     AM: Armenia
-    AN: Antyle Holenderskie
+    AN: "Antyle Holenderskie"
     AO: Angola
     AQ: Antarktyka
     AR: Argentyna
-    AS: Samoa Amerykańskie
+    AS: "Samoa Amerykańskie"
     AT: Austria
     AU: Australia
     AW: Aruba
-    AX: Wyspy Alandzkie
+    AX: "Wyspy Alandzkie"
     AZ: Azerbejdżan
-    BA: Bośnia i Hercegowina
+    BA: "Bośnia i Hercegowina"
     BB: Barbados
     BD: Bangladesz
     BE: Belgia
-    BF: Burkina Faso
+    BF: "Burkina Faso"
     BG: Bułgaria
     BH: Bahrajn
     BI: Burundi
     BJ: Benin
     BL: Saint-Barthélemy
     BM: Bermudy
-    BN: Brunei Darussalam
+    BN: "Brunei Darussalam"
     BO: Boliwia
-    BQ: Niderlandy Karaibskie
+    BQ: "Niderlandy Karaibskie"
     BR: Brazylia
     BS: Bahamy
     BT: Bhutan
-    BV: Wyspa Bouveta
+    BV: "Wyspa Bouveta"
     BW: Botswana
     BY: Białoruś
     BZ: Belize
     CA: Kanada
-    CC: Wyspy Kokosowe
-    CD: Demokratyczna Republika Konga
-    CF: Republika Środkowoafrykańska
+    CC: "Wyspy Kokosowe"
+    CD: "Demokratyczna Republika Konga"
+    CF: "Republika Środkowoafrykańska"
     CG: Kongo
     CH: Szwajcaria
-    CI: Côte d’Ivoire
-    CK: Wyspy Cooka
+    CI: "Côte d’Ivoire"
+    CK: "Wyspy Cooka"
     CL: Chile
     CM: Kamerun
     CN: Chiny
@@ -55,70 +54,70 @@ pl:
     CP: Clipperton
     CR: Kostaryka
     CU: Kuba
-    CV: Republika Zielonego Przylądka
+    CV: "Republika Zielonego Przylądka"
     CW: Curaçao
-    CX: Wyspa Bożego Narodzenia
+    CX: "Wyspa Bożego Narodzenia"
     CY: Cypr
     CZ: Czechy
     DE: Niemcy
-    DG: Diego Garcia
+    DG: "Diego Garcia"
     DJ: Dżibuti
     DK: Dania
     DM: Dominika
     DO: Dominikana
     DZ: Algieria
-    EA: Ceuta i Melilla
+    EA: "Ceuta i Melilla"
     EC: Ekwador
     EE: Estonia
     EG: Egipt
-    EH: Sahara Zachodnia
+    EH: "Sahara Zachodnia"
     ER: Erytrea
     ES: Hiszpania
     ET: Etiopia
-    EU: Unia Europejska
+    EU: "Unia Europejska"
     FI: Finlandia
     FJ: Fidżi
     FK: Falklandy
     FM: Mikronezja
-    FO: Wyspy Owcze
+    FO: "Wyspy Owcze"
     FR: Francja
     GA: Gabon
-    GB: Wielka Brytania
+    GB: "Wielka Brytania"
     GD: Grenada
     GE: Gruzja
-    GF: Gujana Francuska
-    GG: Wyspa Guernsey
+    GF: "Gujana Francuska"
+    GG: "Wyspa Guernsey"
     GH: Ghana
     GI: Gibraltar
     GL: Grenlandia
     GM: Gambia
     GN: Gwinea
     GP: Gwadelupa
-    GQ: Gwinea Równikowa
+    GQ: "Gwinea Równikowa"
     GR: Grecja
-    GS: Georgia Południowa i Sandwich Południowy
+    GS: "Georgia Południowa i Sandwich Południowy"
     GT: Gwatemala
     GU: Guam
-    GW: Gwinea Bissau
+    GW: "Gwinea Bissau"
     GY: Gujana
-    HK: SRA Hongkong (Chiny)
-    HM: Wyspy Heard i McDonalda
+    HK: "SRA Hongkong (Chiny)"
+    HM: "Wyspy Heard i McDonalda"
     HN: Honduras
     HR: Chorwacja
     HT: Haiti
     HU: Węgry
-    IC: Wyspy Kanaryjskie
+    IC: "Wyspy Kanaryjskie"
     ID: Indonezja
     IE: Irlandia
     IL: Izrael
-    IM: Wyspa Man
+    IM: "Wyspa Man"
     IN: Indie
-    IO: Brytyjskie Terytorium Oceanu Indyjskiego
+    IO: "Brytyjskie Terytorium Oceanu Indyjskiego"
     IQ: Irak
     IR: Iran
     IS: Islandia
     IT: Włochy
-    JE: Wyspa Jersey
+    JE: "Wyspa Jersey"
     JM: Jamajka
     JO: Jordania
     JP: Japonia
@@ -127,17 +126,17 @@ pl:
     KH: Kambodża
     KI: Kiribati
     KM: Komory
-    KN: Saint Kitts i Nevis
-    KP: Korea Północna
-    KR: Korea Południowa
+    KN: "Saint Kitts i Nevis"
+    KP: "Korea Północna"
+    KR: "Korea Południowa"
     KW: Kuwejt
     KY: Kajmany
     KZ: Kazachstan
     LA: Laos
     LB: Liban
-    LC: Saint Lucia
+    LC: "Saint Lucia"
     LI: Liechtenstein
-    LK: Sri Lanka
+    LK: "Sri Lanka"
     LR: Liberia
     LS: Lesotho
     LT: Litwa
@@ -150,13 +149,13 @@ pl:
     ME: Czarnogóra
     MF: Saint-Martin
     MG: Madagaskar
-    MH: Wyspy Marshalla
+    MH: "Wyspy Marshalla"
     MK: Macedonia
     ML: Mali
-    MM: Mjanma (Birma)
+    MM: "Mjanma (Birma)"
     MN: Mongolia
-    MO: SRA Makau (Chiny)
-    MP: Mariany Północne
+    MO: "SRA Makau (Chiny)"
+    MP: "Mariany Północne"
     MQ: Martynika
     MR: Mauretania
     MS: Montserrat
@@ -168,96 +167,96 @@ pl:
     MY: Malezja
     MZ: Mozambik
     NA: Namibia
-    NC: Nowa Kaledonia
+    NC: "Nowa Kaledonia"
     NE: Niger
     NF: Norfolk
     NG: Nigeria
     NI: Nikaragua
     NL: Holandia
-    'NO': Norwegia
+    "NO": Norwegia
     NP: Nepal
     NR: Nauru
     NU: Niue
-    NZ: Nowa Zelandia
+    NZ: "Nowa Zelandia"
     OM: Oman
     PA: Panama
     PE: Peru
-    PF: Polinezja Francuska
-    PG: Papua-Nowa Gwinea
+    PF: "Polinezja Francuska"
+    PG: "Papua-Nowa Gwinea"
     PH: Filipiny
     PK: Pakistan
     PL: Polska
-    PM: Saint-Pierre i Miquelon
+    PM: "Saint-Pierre i Miquelon"
     PN: Pitcairn
     PR: Portoryko
-    PS: Terytoria Palestyńskie
+    PS: "Terytoria Palestyńskie"
     PT: Portugalia
     PW: Palau
     PY: Paragwaj
     QA: Katar
-    QO: Oceania inne
+    QO: "Oceania inne"
     RE: Reunion
     RO: Rumunia
     RS: Serbia
     RU: Rosja
     RW: Rwanda
-    SA: Arabia Saudyjska
-    SB: Wyspy Salomona
+    SA: "Arabia Saudyjska"
+    SB: "Wyspy Salomona"
     SC: Seszele
     SD: Sudan
     SE: Szwecja
     SG: Singapur
-    SH: Wyspa Świętej Heleny
+    SH: "Wyspa Świętej Heleny"
     SI: Słowenia
-    SJ: Svalbard i Jan Mayen
+    SJ: "Svalbard i Jan Mayen"
     SK: Słowacja
-    SL: Sierra Leone
-    SM: San Marino
+    SL: "Sierra Leone"
+    SM: "San Marino"
     SN: Senegal
     SO: Somalia
     SR: Surinam
-    SS: Sudan Południowy
-    ST: Wyspy Świętego Tomasza i Książęca
+    SS: "Sudan Południowy"
+    ST: "Wyspy Świętego Tomasza i Książęca"
     SV: Salwador
-    SX: Sint Maarten
+    SX: "Sint Maarten"
     SY: Syria
     SZ: Suazi
-    TA: Tristan da Cunha
-    TC: Turks i Caicos
+    TA: "Tristan da Cunha"
+    TC: "Turks i Caicos"
     TD: Czad
-    TF: Francuskie Terytoria Południowe
+    TF: "Francuskie Terytoria Południowe"
     TG: Togo
     TH: Tajlandia
     TJ: Tadżykistan
     TK: Tokelau
-    TL: Timor Wschodni
+    TL: "Timor Wschodni"
     TM: Turkmenistan
     TN: Tunezja
     TO: Tonga
     TR: Turcja
-    TT: Trynidad i Tobago
+    TT: "Trynidad i Tobago"
     TV: Tuvalu
     TW: Tajwan
     TZ: Tanzania
     UA: Ukraina
     UG: Uganda
-    UM: Dalekie Wyspy Mniejsze Stanów Zjednoczonych
-    US: Stany Zjednoczone
+    UM: "Dalekie Wyspy Mniejsze Stanów Zjednoczonych"
+    US: "Stany Zjednoczone"
     UY: Urugwaj
     UZ: Uzbekistan
     VA: Watykan
-    VC: Saint Vincent i Grenadyny
+    VC: "Saint Vincent i Grenadyny"
     VE: Wenezuela
-    VG: Brytyjskie Wyspy Dziewicze
-    VI: Wyspy Dziewicze Stanów Zjednoczonych
+    VG: "Brytyjskie Wyspy Dziewicze"
+    VI: "Wyspy Dziewicze Stanów Zjednoczonych"
     VN: Wietnam
     VU: Vanuatu
-    WF: Wallis i Futuna
+    WF: "Wallis i Futuna"
     WS: Samoa
     XK: Kosowo
     YE: Jemen
     YT: Majotta
-    ZA: Republika Południowej Afryki
+    ZA: "Republika Południowej Afryki"
     ZM: Zambia
     ZW: Zimbabwe
-    ZZ: Nieznany region
+    ZZ: "Nieznany region"

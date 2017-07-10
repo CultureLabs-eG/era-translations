@@ -1,96 +1,86 @@
----
 pl:
   ciril-zlobec:
     chapter-10:
-      c: 10
-      title: Struggle to create an united Slovenian state
+      c: ~
+      title: ~
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,17
-          to: 00:00:10,15
-          text: Speaking of the circumstances of WWII, we often forget that the Slovenian
-            area
+          from: "00:00:00,17"
+          to: "00:00:10,15"
+          text: ~
         sequence-2:
           s: 2
-          from: 00:00:10,15
-          to: 00:00:23,16
-          text: was the only area in occupied Europe where occupation was thought
-            only a first act.
+          from: "00:00:10,15"
+          to: "00:00:23,16"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:23,16
-          to: 00:00:30,17
-          text: Slovenia was divided. Ljubljana was the hundredth Italian province.
+          from: "00:00:23,16"
+          to: "00:00:30,17"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:30,17
-          to: 00:00:36,14
-          text: The Italian right hand, with the bishop Rozman at its lead,
+          from: "00:00:30,17"
+          to: "00:00:36,14"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:36,14
-          to: 00:00:44,12
-          text: who sent a letter of thanks to Mussolini for accepting this ‘large
-            family’ into fascist Italy.
+          from: "00:00:36,14"
+          to: "00:00:44,12"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:44,12
-          to: 00:00:54,00
-          text: All the other countries, in this region… The Croatians had some sort
-            of country, fascist, satellite,
+          from: "00:00:44,12"
+          to: "00:00:54,00"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:54,00
-          to: 00:00:59,12
-          text: but their right to a form of their own was acknowledged nonetheless.
+          from: "00:00:54,00"
+          to: "00:00:59,12"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:59,12
-          to: 00:01:07,22
-          text: The Serbs had their own heir to the crown and thus the Kingdom of
-            Serbia. Slovakia was a Protectorate.
+          from: "00:00:59,12"
+          to: "00:01:07,22"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:01:07,22
-          to: 00:01:15,03
-          text: And Slovenia was divided among the occupiers, which means the Italians…
+          from: "00:01:07,22"
+          to: "00:01:15,03"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:01:15,03
-          to: 00:01:23,03
-          text: 'Hitler came to Maribor and said: Make this land German again for
-            me, the Hungarians took Prekmurje.'
+          from: "00:01:15,03"
+          to: "00:01:23,03"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:01:23,03
-          to: 00:01:30,02
-          text: There were some villages in Bela krajina that even the Croatians usurped.
+          from: "00:01:23,03"
+          to: "00:01:30,02"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:30,02
-          to: 00:01:38,01
-          text: We were obliged to constitute ourselves as a nation and as a country;
-            nobody acknowledged us.
+          from: "00:01:30,02"
+          to: "00:01:38,01"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:01:38,01
-          to: 00:01:47,00
-          text: Only by strongly determined fighting we forced our allies to understand
-            a people lives here,
+          from: "00:01:38,01"
+          to: "00:01:47,00"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:47,00
-          to: 00:01:53,10
-          text: a nation with its own language and its own culture and tradition.
+          from: "00:01:47,00"
+          to: "00:01:53,10"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:53,10
-          to: 00:01:59,21
-          text: That’s why the significance of this fight was so essential and vital.
+          from: "00:01:53,10"
+          to: "00:01:59,21"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:59,21
-          to: 00:02:06,00
-          text: Had there been no Partisan movement, the Primorje would not be a part
-            of Slovenia now.
+          from: "00:01:59,21"
+          to: "00:02:06,00"
+          text: ~
