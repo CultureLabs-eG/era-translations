@@ -79,7 +79,7 @@ de:
           s: 15
           from: 00:01:19,04
           to: 00:01:24,29
-          text: 'Herr Ganassi fragte mich: "Du bist also nicht in der Piccola Italiana? Ich antwortete: "Nein, mein Vater hat mich nicht angemeldet."'
+          text: 'Herr Ganassi fragte mich: "Du bist also nicht in der Piccola Italiane? Ich antwortete: "Nein, mein Vater hat mich nicht angemeldet."'
         sequence-16:
           s: 16
           from: 00:01:24,29
@@ -199,12 +199,12 @@ de:
           s: 39
           from: 00:03:45,11
           to: 00:03:50,03
-          text: Reggio Fabriktechniker der Wasser- und Gasfirmen.
+          text: Reggios Fabriktechniker der Wasser- und Gasfirmen.
         sequence-40:
           s: 40
           from: 00:03:50,03
           to: 00:03:57,12
-          text: Es war sehr intelligente, reife und gut vorbereitete Gruppe von Leuten der Arbeiterklasse.
+          text: Es war eine sehr schlaue, erfahrene und gut ausgebildete Gruppe von Leuten der Arbeiterklasse.
         sequence-41:
           s: 41
           from: 00:03:57,12
@@ -254,7 +254,7 @@ de:
           s: 50
           from: 00:05:05,08
           to: 00:05:10,29
-          text: Als sie in den Krieg gingen, wurde ich ihr Kommunikationspunkt.
+          text: Als sie in den Krieg gingen, wurde ich ihre Bezugsperson.
         sequence-51:
           s: 51
           from: 00:05:10,29
