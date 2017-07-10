@@ -3,13 +3,13 @@ it:
   romana-verdel:
     chapter-1:
       c: 1
-      title: Introduction; Family arrested
+      title: Introduzione; l'arresto della famiglia
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:00,18
           to: 00:00:08,03
-          text: I was born in Remschenig near Eisenkappl into a Slovenian family;
+          text: Sono nata a Remschenig, vicino Eisenkappl, in una famiglia slovena;
         sequence-2:
           s: 2
           from: 00:00:08,03
@@ -19,7 +19,7 @@ it:
           s: 3
           from: 00:00:09,03
           to: 00:00:15,17
-          text: at my aunt’s, really, where my mother was a farm maid.
+          text: in realtà a casa di mia zia, dove mia madre lavorava come domestica.
         sequence-4:
           s: 4
           from: 00:00:15,17
@@ -29,8 +29,8 @@ it:
           s: 5
           from: 00:00:17,29
           to: 00:00:31,24
-          text: There where Katarina’s sons Michael Sluga, Karl Paulitsch and Franz
-            Rotter.
+          text: "Là vivevano i figli di Katarina Sluga: Michael Sluga, Karl Paulitsch e Franz
+            Rotter."
         sequence-6:
           s: 6
           from: 00:00:31,24
@@ -40,17 +40,17 @@ it:
           s: 7
           from: 00:00:33,10
           to: 00:00:39,08
-          text: Franz Rotter was a member of the German ‘Wehrmacht’;
+          text: Franz Rotter era nella ‘Wehrmacht’ tedesca;
         sequence-8:
           s: 8
           from: 00:00:39,08
           to: 00:00:47,09
-          text: so was Karl Sluga, who crossed over to the partisans.
+          text: e così anche Karl Sluga, prima di passare ai partigiani.
         sequence-9:
           s: 9
           from: 00:00:47,09
           to: 00:00:53,15
-          text: Michael Sluga joined the partisans straight away instead of enlisting.
+          text: Michael Sluga si era subito unito ai partigiani invece di arruolarsi.
         sequence-10:
           s: 10
           from: 00:00:53,15
@@ -60,8 +60,7 @@ it:
           s: 11
           from: 00:00:59,25
           to: 00:01:14,14
-          text: In 1943 it became dangerous. Katarina Sluga escaped to the partisans
-            then.
+          text: Nel 1943 si fece pericoloso. Katarina Sluga fuggì, raggiungendo i partigiani.
         sequence-12:
           s: 12
           from: 00:01:14,14
@@ -71,7 +70,7 @@ it:
           s: 13
           from: 00:01:16,02
           to: 00:01:29,17
-          text: My aunt was interested in culture and politics.
+          text: Mia zia si interessava molto di cultura e politica.
         sequence-14:
           s: 14
           from: 00:01:29,17
@@ -81,13 +80,12 @@ it:
           s: 15
           from: 00:01:31,05
           to: 00:01:44,20
-          text: She soon started to organise meetings against Hitler and to attend
-            other meetings.
+          text: Aveva cominciato presto ad organizzare assemblee contro Hitler e a partecipare ad altre assemblee.
         sequence-16:
           s: 16
           from: 00:01:44,20
           to: 00:01:50,09
-          text: Therefore she was politically suspicious.
+          text: E così divenne una sospetta per questioni politiche.
         sequence-17:
           s: 17
           from: 00:01:50,09
@@ -97,7 +95,7 @@ it:
           s: 18
           from: 00:01:52,07
           to: 00:01:57,07
-          text: So we all were in danger.
+          text: Tanto che finimmo tutti per essere in pericolo.
         sequence-19:
           s: 19
           from: 00:01:57,07
@@ -107,7 +105,7 @@ it:
           s: 20
           from: 00:02:00,12
           to: 00:02:04,08
-          text: She was aware that something could happen.
+          text: Si aspettava che potesse succedere qualcosa.
         sequence-21:
           s: 21
           from: 00:02:04,08
@@ -117,7 +115,7 @@ it:
           s: 22
           from: 00:02:06,03
           to: 00:02:13,14
-          text: She had people who sent her a message to withdraw.
+          text: Alcune persone l'avevano avvisata, tramite posta, di ritirarsi.
         sequence-23:
           s: 23
           from: 00:02:13,14
@@ -127,17 +125,17 @@ it:
           s: 24
           from: 00:02:15,04
           to: 00:02:17,23
-          text: For her it was dangerous now.
+          text: Per lei era diventato pericoloso.
         sequence-25:
           s: 25
           from: 00:02:17,23
           to: 00:02:20,29
-          text: So she backed away to the partisans
+          text: Per questo si era rifugiata presso i partigiani
         sequence-26:
           s: 26
           from: 00:02:20,29
           to: 00:02:29,14
-          text: and thought that everything would be okay if she went.
+          text: pensando che tutto sarebbe andato bene per gli altri, solo lei se ne fosse andata.
         sequence-27:
           s: 27
           from: 00:02:29,14
@@ -147,12 +145,12 @@ it:
           s: 28
           from: 00:02:31,11
           to: 00:02:33,02
-          text: But she was wrong.
+          text: Ma così non fu.
         sequence-29:
           s: 29
           from: 00:02:33,02
           to: 00:02:35,05
-          text: When the Gestapo came
+          text: Quando arrivò la Gestapo
         sequence-30:
           s: 30
           from: 00:02:35,05
@@ -162,4 +160,4 @@ it:
           s: 31
           from: 00:02:38,21
           to: 00:02:51,17
-          text: it was dangerous for all of them. They arrested all.
+          text: erano tutti ugualmente in pericolo. Li arrestarono tutti.
