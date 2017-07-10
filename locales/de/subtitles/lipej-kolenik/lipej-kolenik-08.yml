@@ -1,50 +1,46 @@
----
 de:
   lipej-kolenik:
     chapter-8:
       c: 8
-      title: Transmission of information
+      title: "Transmission of information"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,14
-          to: 00:00:11,13
-          text: The way it was organised was wonderful.
+          from: "00:00:00,14"
+          to: "00:00:11,13"
+          text: "The way it was organised was wonderful."
         sequence-2:
           s: 2
-          from: 00:00:11,13
-          to: 00:00:20,26
-          text: From home the news went to the neighbour; from the neighbour to somebody
-            else and so on.
+          from: "00:00:11,13"
+          to: "00:00:20,26"
+          text: "From home the news went to the neighbour; from the neighbour to somebody else and so on."
         sequence-3:
           s: 3
-          from: 00:00:20,26
-          to: 00:00:27,07
-          text: A few hours before the police came from Bleiburg
+          from: "00:00:20,26"
+          to: "00:00:27,07"
+          text: "A few hours before the police came from Bleiburg"
         sequence-4:
           s: 4
-          from: 00:00:27,07
-          to: 00:00:35,08
-          text: to go hunting for partisans – or bandits – as they said, we already
-            knew.
+          from: "00:00:27,07"
+          to: "00:00:35,08"
+          text: "to go hunting for partisans – or bandits – as they said, we already knew."
         sequence-5:
           s: 5
-          from: 00:00:35,08
-          to: 00:00:47,09
-          text: It was agreed that a red flag on a house would indicate danger; a
-            white flag meant everything was fine.
+          from: "00:00:35,08"
+          to: "00:00:47,09"
+          text: "It was agreed that a red flag on a house would indicate danger; a white flag meant everything was fine."
         sequence-6:
           s: 6
-          from: 00:00:47,09
-          to: 00:00:53,29
-          text: So we were already warned. Except of when the police came at night.
+          from: "00:00:47,09"
+          to: "00:00:53,29"
+          text: "So we were already warned. Except of when the police came at night."
         sequence-7:
           s: 7
-          from: 00:00:53,29
-          to: 00:01:01,28
-          text: At night the news supply was not as good as during the day.
+          from: "00:00:53,29"
+          to: "00:01:01,28"
+          text: "At night the news supply was not as good as during the day."
         sequence-8:
           s: 8
-          from: 00:01:01,28
-          to: 00:01:06,01
-          text: But it worked.
+          from: "00:01:01,28"
+          to: "00:01:06,01"
+          text: "But it worked."

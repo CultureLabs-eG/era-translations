@@ -1,165 +1,156 @@
----
 de:
   lidia-valeriani:
     chapter-1:
       c: 1
-      title: Einleitung, Kindheit im Faschismus
+      title: "Einleitung, Kindheit im Faschismus"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,23
-          to: 00:00:04,15
-          text: Ich heiße Lidia Valeriani.
+          from: "00:00:00,23"
+          to: "00:00:04,15"
+          text: "Ich heiße Lidia Valeriani."
         sequence-2:
           s: 2
-          from: 00:00:04,15
-          to: 00:00:06,18
-          text: ''
+          from: "00:00:04,15"
+          to: "00:00:06,18"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:06,18
-          to: 00:00:12,20
-          text: Ich wurde am 23. Januar 1923
+          from: "00:00:06,18"
+          to: "00:00:12,20"
+          text: "Ich wurde am 23. Januar 1923"
         sequence-4:
           s: 4
-          from: 00:00:12,20
-          to: 00:00:15,22
-          text: in Montecavolo di Quattro Castella
+          from: "00:00:12,20"
+          to: "00:00:15,22"
+          text: "in Montecavolo di Quattro Castella"
         sequence-5:
           s: 5
-          from: 00:00:15,22
-          to: 00:00:17,15
-          text: ''
+          from: "00:00:15,22"
+          to: "00:00:17,15"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:17,15
-          to: 00:00:22,01
-          text: in dem kleinen Dorf Scampate geboren.
+          from: "00:00:17,15"
+          to: "00:00:22,01"
+          text: "in dem kleinen Dorf Scampate geboren."
         sequence-7:
           s: 7
-          from: 00:00:22,01
-          to: 00:00:27,09
-          text: ''
+          from: "00:00:22,01"
+          to: "00:00:27,09"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:27,09
-          to: 00:00:31,10
-          text: In schrecklichen faschistischen Zeiten,
+          from: "00:00:27,09"
+          to: "00:00:31,10"
+          text: "In schrecklichen faschistischen Zeiten,"
         sequence-9:
           s: 9
-          from: 00:00:31,10
-          to: 00:00:34,16
-          text: denn mein Vater war bereits Opfer politischer Verfolgung.
+          from: "00:00:31,10"
+          to: "00:00:34,16"
+          text: "denn mein Vater war bereits Opfer politischer Verfolgung."
         sequence-10:
           s: 10
-          from: 00:00:34,16
-          to: 00:00:39,28
-          text: ''
+          from: "00:00:34,16"
+          to: "00:00:39,28"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:39,28
-          to: 00:00:44,05
-          text: Ich hatte zwei ältere Brüder,
+          from: "00:00:39,28"
+          to: "00:00:44,05"
+          text: "Ich hatte zwei ältere Brüder,"
         sequence-12:
           s: 12
-          from: 00:00:44,05
-          to: 00:00:45,13
-          text: ''
+          from: "00:00:44,05"
+          to: "00:00:45,13"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:00:45,13
-          to: 00:00:53,06
-          text: sechs weitere folgten – wir waren eine Familie mit neun Kindern.
+          from: "00:00:45,13"
+          to: "00:00:53,06"
+          text: "sechs weitere folgten – wir waren eine Familie mit neun Kindern."
         sequence-14:
           s: 14
-          from: 00:00:53,06
-          to: 00:00:58,02
-          text: Als wir mit sechs Jahren die Schule besuchten,
+          from: "00:00:53,06"
+          to: "00:00:58,02"
+          text: "Als wir mit sechs Jahren die Schule besuchten,"
         sequence-15:
           s: 15
-          from: 00:00:58,02
-          to: 00:00:59,29
-          text: ''
+          from: "00:00:58,02"
+          to: "00:00:59,29"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:00:59,29
-          to: 00:01:10,25
-          text: erkannten wir bereits, dass wir als Kinder von Antifaschisten
-            anders waren als jene der Faschisten,
+          from: "00:00:59,29"
+          to: "00:01:10,25"
+          text: "erkannten wir bereits, dass wir als Kinder von Antifaschisten anders waren als jene der Faschisten,"
         sequence-17:
           s: 17
-          from: 00:01:10,25
-          to: 00:01:20,16
-          text: die Mitglieder bei den „Balilla“, bei den „Piccole Italiane“ –
-            den faschistischen Jugendorganisationen – waren.
+          from: "00:01:10,25"
+          to: "00:01:20,16"
+          text: "die Mitglieder bei den „Balilla“, bei den „Piccole Italiane“ – den faschistischen Jugendorganisationen – waren."
         sequence-18:
           s: 18
-          from: 00:01:20,16
-          to: 00:01:22,09
-          text: 'Diese Dinge gab es bereits in der Schule.'
+          from: "00:01:20,16"
+          to: "00:01:22,09"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:22,09
-          to: 00:01:28,15
-          text: Ich bemerkte und verstand das, als ich sechs Jahre alt war
+          from: "00:01:22,09"
+          to: "00:01:28,15"
+          text: "Ich bemerkte und verstand das, als ich sechs Jahre alt war"
         sequence-20:
           s: 20
-          from: 00:01:28,15
-          to: 00:01:41,23
-          text: und ich begann, meinen Vater zu fragen, warum wir in der Schule
-            anders als die anderen behandelt wurden.
+          from: "00:01:28,15"
+          to: "00:01:41,23"
+          text: "und ich begann, meinen Vater zu fragen, warum wir in der Schule anders als die anderen behandelt wurden."
         sequence-21:
           s: 21
-          from: 00:01:41,23
-          to: 00:01:43,00
-          text: ''
+          from: "00:01:41,23"
+          to: "00:01:43,00"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:01:43,00
-          to: 00:01:52,15
-          text: Mein Vater versuchte, es mir zu erklären, so gut er konnte –
-           schließlich war ich noch ein kleines Mädchen.
+          from: "00:01:43,00"
+          to: "00:01:52,15"
+          text: "Mein Vater versuchte, es mir zu erklären, so gut er konnte – schließlich war ich noch ein kleines Mädchen."
         sequence-23:
           s: 23
-          from: 00:01:52,15
-          to: 00:01:53,11
-          text: ''
+          from: "00:01:52,15"
+          to: "00:01:53,11"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:01:53,11
-          to: 00:02:02,28
-          text: Niemals hätte er uns bei den „Piccole Italiane“ oder die Jungen
-            bei den „Balilla“ angemeldet.
+          from: "00:01:53,11"
+          to: "00:02:02,28"
+          text: "Niemals hätte er uns bei den „Piccole Italiane“ oder die Jungen bei den „Balilla“ angemeldet."
         sequence-25:
           s: 25
-          from: 00:02:02,28
-          to: 00:02:06,10
-          text: ''
+          from: "00:02:02,28"
+          to: "00:02:06,10"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:02:06,10
-          to: 00:02:22,25
-          text: Als wir älter wurden, begannen wir einige Dinge zu verstehen,
-            etwa dass die Antifaschisten in den Untergrund gehen mussten.
+          from: "00:02:06,10"
+          to: "00:02:22,25"
+          text: "Als wir älter wurden, begannen wir einige Dinge zu verstehen, etwa dass die Antifaschisten in den Untergrund gehen mussten."
         sequence-27:
           s: 27
-          from: 00:02:22,25
-          to: 00:02:26,26
-          text: ''
+          from: "00:02:22,25"
+          to: "00:02:26,26"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:02:26,26
-          to: 00:02:34,02
-          text: Ich war damals zehn.
+          from: "00:02:26,26"
+          to: "00:02:34,02"
+          text: "Ich war damals zehn."
         sequence-29:
           s: 29
-          from: 00:02:34,02
-          to: 00:02:44,00
-          text: 1933, als sie begannen viele Leute zu verhaften – sie hatten
-            auch schon davor Leute verhaftet und verprügelt –,
+          from: "00:02:34,02"
+          to: "00:02:44,00"
+          text: "1933, als sie begannen viele Leute zu verhaften – sie hatten auch schon davor Leute verhaftet und verprügelt –,"
         sequence-30:
           s: 30
-          from: 00:02:44,00
-          to: 00:02:57,20
-          text: wurde mir die Situation bewusst und einige unserer Nachbarn
-            wurden in diesem Jahr verhaftet.
+          from: "00:02:44,00"
+          to: "00:02:57,20"
+          text: "wurde mir die Situation bewusst und einige unserer Nachbarn wurden in diesem Jahr verhaftet."

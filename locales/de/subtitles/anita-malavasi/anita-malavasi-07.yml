@@ -1,166 +1,156 @@
----
 de:
   anita-malavasi:
     chapter-7:
       c: 7
-      title: 'Partisanin sein: Rechte und Pflichten'
+      title: "Partisanin sein: Rechte und Pflichten"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,11
-          to: 00:00:06,08
-          text: Nachdem wir ein Weile gelaufen sind, kommt uns eine Streife entgegen,
+          from: "00:00:00,11"
+          to: "00:00:06,08"
+          text: "Nachdem wir ein Weile gelaufen sind, kommt uns eine Streife entgegen,"
         sequence-2:
           s: 2
-          from: 00:00:06,08
-          to: 00:00:15,01
-          text: Partisanen der Rosselli-Einheit. Rosselli war einer der ersten Partisanen dort. Wir kommen also bei der Einheit an.
+          from: "00:00:06,08"
+          to: "00:00:15,01"
+          text: "Partisanen der Rosselli-Einheit. Rosselli war einer der ersten Partisanen dort. Wir kommen also bei der Einheit an."
         sequence-3:
           s: 3
-          from: 00:00:15,01
-          to: 00:00:21,13
-          text: Kaum angekommen spricht der Kommandeur mit uns, will wissen, warum wir zu ihnen kommen.
+          from: "00:00:15,01"
+          to: "00:00:21,13"
+          text: "Kaum angekommen spricht der Kommandeur mit uns, will wissen, warum wir zu ihnen kommen."
         sequence-4:
           s: 4
-          from: 00:00:21,13
-          to: 00:00:30,02
-          text: Wir erklären ihm, was passiert war. Und auch hier wird plötzlich wieder alles auf den Kopf gestellt.
+          from: "00:00:21,13"
+          to: "00:00:30,02"
+          text: "Wir erklären ihm, was passiert war. Und auch hier wird plötzlich wieder alles auf den Kopf gestellt."
         sequence-5:
           s: 5
-          from: 00:00:30,02
-          to: 00:00:36,03
-          text: 'Nicht nur, dass du kämpfen lernen musst. Der Partisanenkommandeur sagt:'
+          from: "00:00:30,02"
+          to: "00:00:36,03"
+          text: "Nicht nur, dass du kämpfen lernen musst. Der Partisanenkommandeur sagt:"
         sequence-6:
           s: 6
-          from: 00:00:36,03
-          to: 00:00:42,10
-          text: “Hört mal, ab sofort seid ihr weder Männern noch Frauen, ihr seid Partisanen."
+          from: "00:00:36,03"
+          to: "00:00:42,10"
+          text: "“Hört mal, ab sofort seid ihr weder Männern noch Frauen, ihr seid Partisanen.\""
         sequence-7:
           s: 7
-          from: 00:00:42,10
-          to: 00:00:48,28
-          text: Ihr tut, was die anderen tun, ihr teilt mit uns und schlaft in den gleichen Räumen,
+          from: "00:00:42,10"
+          to: "00:00:48,28"
+          text: "Ihr tut, was die anderen tun, ihr teilt mit uns und schlaft in den gleichen Räumen,"
         sequence-8:
           s: 8
-          from: 00:00:48,28
-          to: 00:00:56,07
-          text: teilt das Essen mit uns, teilt alles, was zu tun ist mit uns, auch Streifendienst.
+          from: "00:00:48,28"
+          to: "00:00:56,07"
+          text: "teilt das Essen mit uns, teilt alles, was zu tun ist mit uns, auch Streifendienst."
         sequence-9:
           s: 9
-          from: 00:00:56,07
-          to: 00:01:06,22
-          text: Am Anfang werdet ihr langsam lernen. Ihr lernt die Waffen zu benutzen, lernt die Waffen kennen,
-            wie man sie pflegt, schützt, lädt und einsetzt.
+          from: "00:00:56,07"
+          to: "00:01:06,22"
+          text: "Am Anfang werdet ihr langsam lernen. Ihr lernt die Waffen zu benutzen, lernt die Waffen kennen, wie man sie pflegt, schützt, lädt und einsetzt."
         sequence-10:
           s: 10
-          from: 00:01:06,22
-          to: 00:01:15,08
-          text: Ihr werdet Wache halten, Streife laufen und nach und nach werdet ihre lernen und Kämpferinnen werden.
+          from: "00:01:06,22"
+          to: "00:01:15,08"
+          text: "Ihr werdet Wache halten, Streife laufen und nach und nach werdet ihre lernen und Kämpferinnen werden."
         sequence-11:
           s: 11
-          from: 00:01:15,08
-          to: 00:01:22,27
-          text: Ihr habt hier die gleichen Rechte und die gleichen Pflichten wie die Partisanen.
+          from: "00:01:15,08"
+          to: "00:01:22,27"
+          text: "Ihr habt hier die gleichen Rechte und die gleichen Pflichten wie die Partisanen."
         sequence-12:
           s: 12
-          from: 00:01:22,27
-          to: 00:01:32,11
-          text: Niemand hier darf euch in Schwierigkeiten bringen
-            und ihr müsst euch so verhalten, dass niemand anders in Schwierigkeiten gebracht wird”.
+          from: "00:01:22,27"
+          to: "00:01:32,11"
+          text: "Niemand hier darf euch in Schwierigkeiten bringen und ihr müsst euch so verhalten, dass niemand anders in Schwierigkeiten gebracht wird”."
         sequence-13:
           s: 13
-          from: 00:01:32,11
-          to: 00:01:38,16
-          text: Am ersten Abend hatten sie uns zuerst einen Raum gegeben, der voller Wanzen war.
+          from: "00:01:32,11"
+          to: "00:01:38,16"
+          text: "Am ersten Abend hatten sie uns zuerst einen Raum gegeben, der voller Wanzen war."
         sequence-14:
           s: 14
-          from: 00:01:38,16
-          to: 00:01:43,23
-          text: Den mussten wir fluchtartig verlassen, weil man wegen der Bisse nicht schlafen konnte.
+          from: "00:01:38,16"
+          to: "00:01:43,23"
+          text: "Den mussten wir fluchtartig verlassen, weil man wegen der Bisse nicht schlafen konnte."
         sequence-15:
           s: 15
-          from: 00:01:43,23
-          to: 00:01:50,28
-          text: So habe ich die erste Nacht zwischen De Pietri, einem Partisanen aus Reggio, mit dem ich auch später
+          from: "00:01:43,23"
+          to: "00:01:50,28"
+          text: "So habe ich die erste Nacht zwischen De Pietri, einem Partisanen aus Reggio, mit dem ich auch später"
         sequence-16:
           s: 16
-          from: 00:01:50,28
-          to: 00:02:05,17
-          text: noch befreundet war, und einem jungen sardischen Carabiniere verbracht.
-            Der Carabiniere hatte sich deutschen Befehlen widersetzt und war zu den Partisanen geflohen.
+          from: "00:01:50,28"
+          to: "00:02:05,17"
+          text: "noch befreundet war, und einem jungen sardischen Carabiniere verbracht. Der Carabiniere hatte sich deutschen Befehlen widersetzt und war zu den Partisanen geflohen."
         sequence-17:
           s: 17
-          from: 00:02:05,17
-          to: 00:02:08,03
-          text: Wir haben die ganze Nacht über gequatscht.
+          from: "00:02:05,17"
+          to: "00:02:08,03"
+          text: "Wir haben die ganze Nacht über gequatscht."
         sequence-18:
           s: 18
-          from: 00:02:08,03
-          to: 00:02:15,13
-          text: Sie fragten mich nach Informationen aus der Stadt und ich fragte, wie wir uns verhalten müssten und so.
+          from: "00:02:08,03"
+          to: "00:02:15,13"
+          text: "Sie fragten mich nach Informationen aus der Stadt und ich fragte, wie wir uns verhalten müssten und so."
         sequence-19:
           s: 19
-          from: 00:02:15,13
-          to: 00:02:19,02
-          text: Da habe ich den Unterschied tatsächlich begriffen.
+          from: "00:02:15,13"
+          to: "00:02:19,02"
+          text: "Da habe ich den Unterschied tatsächlich begriffen."
         sequence-20:
           s: 20
-          from: 00:02:19,02
-          to: 00:02:23,20
-          text: Zu Hause wäre es unmöglich gewesen, bei einem Mann zu schlafen.
+          from: "00:02:19,02"
+          to: "00:02:23,20"
+          text: "Zu Hause wäre es unmöglich gewesen, bei einem Mann zu schlafen."
         sequence-21:
           s: 21
-          from: 00:02:23,20
-          to: 00:02:24,04
-          text: ''
+          from: "00:02:23,20"
+          to: "00:02:24,04"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:02:24,04
-          to: 00:02:34,29
-          text: Frauen waren für die Partisanen sehr wichtig, weil sie dahin gehen konnten, wo die Männer nicht hinkamen.
-            Die Männer waren Kriegsdienstverweigerer.
+          from: "00:02:24,04"
+          to: "00:02:34,29"
+          text: "Frauen waren für die Partisanen sehr wichtig, weil sie dahin gehen konnten, wo die Männer nicht hinkamen. Die Männer waren Kriegsdienstverweigerer."
         sequence-23:
           s: 23
-          from: 00:02:34,29
-          to: 00:02:43,15
-          text: Überall wo sie auftauchten, selbst ganz junge,
-            wurden sie festgehalten, durchsucht und im besten Fall in Konzentrationslager gebracht.
+          from: "00:02:34,29"
+          to: "00:02:47,15"
+          text: "Überall wo sie auftauchten, selbst ganz junge, wurden sie festgehalten, durchsucht und im besten Fall in Konzentrationslager gebracht."
         sequence-24:
           s: 24
-          from: 00:02:43,15
-          to: 00:02:57,26
-          text: Wir Frauen hingegen waren keine Kriegsdienstverweigerer, wir hätten nicht bei der Armee sein müssen oder in den faschistischen Milizen.
-            Darum konnten wir uns freier bewegen als sie.
+          from: "00:02:47,15"
+          to: "00:02:57,26"
+          text: "Wir Frauen hingegen waren keine Kriegsdienstverweigerer, wir hätten nicht bei der Armee sein müssen oder in den faschistischen Milizen. Darum konnten wir uns freier bewegen als sie."
         sequence-25:
           s: 25
-          from: 00:02:57,26
-          to: 00:03:03,11
-          text: Wir kümmerten uns um Druckerzeugnisse, Propaganda, Waffen, alles mögliche.
+          from: "00:02:57,26"
+          to: "00:03:03,11"
+          text: "Wir kümmerten uns um Druckerzeugnisse, Propaganda, Waffen, alles mögliche."
         sequence-26:
           s: 26
-          from: 00:03:03,11
-          to: 00:03:09,21
-          text: Wenn eine GAP- oder SAP-Einheit in der Po-Ebene unterwegs war,
+          from: "00:03:03,11"
+          to: "00:03:09,21"
+          text: "Wenn eine GAP- oder SAP-Einheit in der Po-Ebene unterwegs war,"
         sequence-27:
           s: 27
-          from: 00:03:09,21
-          to: 00:03:19,25
-          text: dann ging eine Frau voran. Auch die Rosselli-Abteilung in den Bergen, wenn sie zum Beispiel in
-            Cavandola bei Canossa war
+          from: "00:03:09,21"
+          to: "00:03:19,25"
+          text: "dann ging eine Frau voran. Auch die Rosselli-Abteilung in den Bergen, wenn sie zum Beispiel in Cavandola bei Canossa war"
         sequence-28:
           s: 28
-          from: 00:03:19,25
-          to: 00:03:29,02
-          text: und nach Quattro Castella kam, oder eine Aktion auf der Via Emilia machte,
-            dann war eine Partisanin die Kundschafterin.
+          from: "00:03:19,25"
+          to: "00:03:29,02"
+          text: "und nach Quattro Castella kam, oder eine Aktion auf der Via Emilia machte, dann war eine Partisanin die Kundschafterin."
         sequence-29:
           s: 29
-          from: 00:03:29,02
-          to: 00:03:39,26
-          text: Sie wurden Stafetten genannt, aber wir waren Kundschafterinnen.
-            Wir gingen voraus, um zu sehen, was los war, liefen zurück und berichteten, ob der Weg frei war.
+          from: "00:03:29,02"
+          to: "00:03:39,26"
+          text: "Sie wurden Stafetten genannt, aber wir waren Kundschafterinnen. Wir gingen voraus, um zu sehen, was los war, liefen zurück und berichteten, ob der Weg frei war."
         sequence-30:
           s: 30
-          from: 00:03:39,26
-          to: 00:03:43,00
-          text: Das war extrem wichtig.
+          from: "00:03:39,26"
+          to: "00:03:43,00"
+          text: "Das war extrem wichtig."

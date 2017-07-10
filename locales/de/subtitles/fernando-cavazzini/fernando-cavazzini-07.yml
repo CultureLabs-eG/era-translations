@@ -1,57 +1,56 @@
----
 de:
   fernando-cavazzini:
     chapter-7:
       c: 7
-      title: Erster Fallschirmabwurf der Alliierten
+      title: "Erster Fallschirmabwurf der Alliierten"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,13
-          to: 00:00:04,17
-          text: Wir hörten, dass ein Flugzeug hin und her flog.
+          from: "00:00:00,13"
+          to: "00:00:04,17"
+          text: "Wir hörten, dass ein Flugzeug hin und her flog."
         sequence-2:
           s: 2
-          from: 00:00:04,17
-          to: 00:00:10,25
-          text: Wir machten drei Haufen aus Reisigbündeln, die mussten ein Dreieck bilden.
+          from: "00:00:04,17"
+          to: "00:00:10,25"
+          text: "Wir machten drei Haufen aus Reisigbündeln, die mussten ein Dreieck bilden."
         sequence-3:
           s: 3
-          from: 00:00:10,25
-          to: 00:00:16,11
-          text: Das war das Erkennungszeichen. Dann haben wir sie in Brand gesteckt.
+          from: "00:00:10,25"
+          to: "00:00:16,11"
+          text: "Das war das Erkennungszeichen. Dann haben wir sie in Brand gesteckt."
         sequence-4:
           s: 4
-          from: 00:00:16,11
-          to: 00:00:26,13
-          text: Das Flugzeug kreiste, das konnte ja nicht so schnell wenden wie ein Auto ... das zieht kilometerlange Kreise.
+          from: "00:00:16,11"
+          to: "00:00:26,13"
+          text: "Das Flugzeug kreiste, das konnte ja nicht so schnell wenden wie ein Auto ... das zieht kilometerlange Kreise."
         sequence-5:
           s: 5
-          from: 00:00:26,13
-          to: 00:00:32,14
-          text: Als sie das Dreick bemerkt hatten, haben sie den Fallschirm abgeworfen.
+          from: "00:00:26,13"
+          to: "00:00:32,14"
+          text: "Als sie das Dreick bemerkt hatten, haben sie den Fallschirm abgeworfen."
         sequence-6:
           s: 6
-          from: 00:00:32,14
-          to: 00:00:35,26
-          text: Das war ein hochinteressanter Abwurf.
+          from: "00:00:32,14"
+          to: "00:00:35,26"
+          text: "Das war ein hochinteressanter Abwurf."
         sequence-7:
           s: 7
-          from: 00:00:35,26
-          to: 00:00:41,05
-          text: Später kamen die Genossen aus Modena und forderten die Waffen für sich.
+          from: "00:00:35,26"
+          to: "00:00:41,05"
+          text: "Später kamen die Genossen aus Modena und forderten die Waffen für sich."
         sequence-8:
           s: 8
-          from: 00:00:41,05
-          to: 00:00:46,07
-          text: Wir haben mit ihnen geteilt, da waren ja schließlich 130-140 Maschinenpistolen.
+          from: "00:00:41,05"
+          to: "00:00:46,07"
+          text: "Wir haben mit ihnen geteilt, da waren ja schließlich 130-140 Maschinenpistolen."
         sequence-9:
           s: 9
-          from: 00:00:46,07
-          to: 00:00:52,27
-          text: Damals waren wir nicht mehr als vierzig oder fünzig, hatten also mehr als wir brauchten.
+          from: "00:00:46,07"
+          to: "00:00:52,27"
+          text: "Damals waren wir nicht mehr als vierzig oder fünzig, hatten also mehr als wir brauchten."
         sequence-10:
           s: 10
-          from: 00:00:52,27
-          to: 00:00:56,15
-          text: Von da an gingen die Abwürfe weiter.
+          from: "00:00:52,27"
+          to: "00:00:56,15"
+          text: "Von da an gingen die Abwürfe weiter."

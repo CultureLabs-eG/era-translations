@@ -1,248 +1,261 @@
----
 de:
   carlo-porta:
     chapter-10:
       c: 10
-      title: The tough return home
+      title: "The tough return home"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,10
-          to: 00:00:02,23
-          text: I came home by train.
+          from: "00:00:00,10"
+          to: "00:00:02,23"
+          text: "I came home by train."
         sequence-2:
           s: 2
-          from: 00:00:02,23
-          to: 00:00:10,05
-          text: We left one morning and arrived at Lake Constance, in Switzerland.
+          from: "00:00:02,23"
+          to: "00:00:10,05"
+          text: "We left one morning and arrived at Lake Constance, in Switzerland."
         sequence-3:
           s: 3
-          from: 00:00:10,05
-          to: 00:00:14,00
-          text: As we got there, the train stopped working,
+          from: "00:00:10,05"
+          to: "00:00:14,00"
+          text: "As we got there, the train stopped working,"
         sequence-4:
           s: 4
-          from: 00:00:14,00
-          to: 00:00:19,24
-          text: so we had to wait two days before we found another one.
+          from: "00:00:14,00"
+          to: "00:00:19,24"
+          text: "so we had to wait two days before we found another one."
         sequence-5:
           s: 5
-          from: 00:00:19,24
-          to: 00:00:23,04
-          text: It took us one and a half days to reach Como,
+          from: "00:00:19,24"
+          to: "00:00:23,04"
+          text: "It took us one and a half days to reach Como,"
         sequence-6:
           s: 6
-          from: 00:00:23,04
-          to: 00:00:31,14
-          text: "because everything had been destroyed \nand there was only one railroad
-            track working."
+          from: "00:00:23,04"
+          to: "00:00:31,14"
+          text: |-
+              because everything had been destroyed 
+              and there was only one railroad track working.
         sequence-7:
           s: 7
-          from: 00:00:31,14
-          to: 00:00:39,24
-          text: "Since there was no way to get to Milan, \nwe had to spend two more
-            days in Como."
+          from: "00:00:31,14"
+          to: "00:00:39,24"
+          text: |-
+              Since there was no way to get to Milan, 
+              we had to spend two more days in Como.
         sequence-8:
           s: 8
-          from: 00:00:39,24
-          to: 00:00:41,12
-          text: When we finally reached Milan
+          from: "00:00:39,24"
+          to: "00:00:41,12"
+          text: "When we finally reached Milan"
         sequence-9:
           s: 9
-          from: 00:00:41,12
-          to: 00:00:47,08
-          text: we were told that the line headed to Emilia Romagna had left already.
+          from: "00:00:41,12"
+          to: "00:00:47,08"
+          text: "we were told that the line headed to Emilia Romagna had left already."
         sequence-10:
           s: 10
-          from: 00:00:47,08
-          to: 00:00:51,27
-          text: They were using old trucks, whatever was left,
+          from: "00:00:47,08"
+          to: "00:00:51,27"
+          text: "They were using old trucks, whatever was left,"
         sequence-11:
           s: 11
-          from: 00:00:51,27
-          to: 00:00:55,15
-          text: because the railroad bridge in Piacenza had been bombed.
+          from: "00:00:51,27"
+          to: "00:00:55,15"
+          text: "because the railroad bridge in Piacenza had been bombed."
         sequence-12:
           s: 12
-          from: 00:00:55,15
-          to: 00:01:06,06
-          text: "We stayed there two days, before someone suggested \nwe should get
-            on a train to Padova and then to Ponte Lagoscuro,"
+          from: "00:00:55,15"
+          to: "00:01:06,06"
+          text: |-
+              We stayed there two days, before someone suggested 
+              we should get on a train to Padova and then to Ponte Lagoscuro,
         sequence-13:
           s: 13
-          from: 00:01:06,06
-          to: 00:01:09,02
-          text: since trains were able to pass the Po river there.
+          from: "00:01:06,06"
+          to: "00:01:09,02"
+          text: "since trains were able to pass the Po river there."
         sequence-14:
           s: 14
-          from: 00:01:09,02
-          to: 00:01:15,15
-          text: "That’s what we did: we went to Padova, then to Ferrara, \nand finally
-            made it to Bologna."
+          from: "00:01:09,02"
+          to: "00:01:15,15"
+          text: |-
+              That’s what we did: we went to Padova, then to Ferrara, 
+              and finally made it to Bologna.
         sequence-15:
           s: 15
-          from: 00:01:15,15
-          to: 00:01:19,12
-          text: In Bologna we were supposed to stay in a barrack for two days,
+          from: "00:01:15,15"
+          to: "00:01:19,12"
+          text: "In Bologna we were supposed to stay in a barrack for two days,"
         sequence-16:
           s: 16
-          from: 00:01:19,12
-          to: 00:01:25,00
-          text: "but I went out with two or three comrades \nand we managed to find
-            a SARSA bus."
+          from: "00:01:19,12"
+          to: "00:01:25,00"
+          text: |-
+              but I went out with two or three comrades 
+              and we managed to find a SARSA bus.
         sequence-17:
           s: 17
-          from: 00:01:25,00
-          to: 00:01:30,10
-          text: "We asked the driver if he was heading towards Reggio \nand if we
-            could hop up, and he happily consented."
+          from: "00:01:25,00"
+          to: "00:01:30,10"
+          text: |-
+              We asked the driver if he was heading towards Reggio 
+              and if we could hop up, and he happily consented.
         sequence-18:
           s: 18
-          from: 00:01:30,10
-          to: 00:01:38,01
-          text: "In Castelfranco, however, the ticket inspector \nkindly told us that
-            we would have had to pay the ticket fare."
+          from: "00:01:30,10"
+          to: "00:01:38,01"
+          text: |-
+              In Castelfranco, however, the ticket inspector 
+              kindly told us that we would have had to pay the ticket fare.
         sequence-19:
           s: 19
-          from: 00:01:38,01
-          to: 00:01:41,13
-          text: We replied that we had no money at all,
+          from: "00:01:38,01"
+          to: "00:01:41,13"
+          text: "We replied that we had no money at all,"
         sequence-20:
           s: 20
-          from: 00:01:41,13
-          to: 00:01:47,20
-          text: so he agreed not to make us get off, but once in Reggio
+          from: "00:01:41,13"
+          to: "00:01:47,20"
+          text: "so he agreed not to make us get off, but once in Reggio"
         sequence-21:
           s: 21
-          from: 00:01:47,20
-          to: 00:01:53,04
-          text: we would have had to go to the SARSA offices together.
+          from: "00:01:47,20"
+          to: "00:01:53,04"
+          text: "we would have had to go to the SARSA offices together."
         sequence-22:
           s: 22
-          from: 00:01:53,04
-          to: 00:01:56,03
-          text: 'When we got in he said:'
+          from: "00:01:53,04"
+          to: "00:01:56,03"
+          text: "When we got in he said:"
         sequence-23:
           s: 23
-          from: 00:01:56,03
-          to: 00:02:02,24
-          text: "“Boss, these men haven’t paid the bus fare \nbecause they claim they’re
-            coming from Germany”."
+          from: "00:01:56,03"
+          to: "00:02:02,24"
+          text: |-
+              “Boss, these men haven’t paid the bus fare 
+              because they claim they’re coming from Germany”.
         sequence-24:
           s: 24
-          from: 00:02:02,24
-          to: 00:02:09,22
-          text: "The reply was: “You really are a moron, \nI told you they have every
-            right to go back to their homes!”."
+          from: "00:02:02,24"
+          to: "00:02:09,22"
+          text: |-
+              The reply was: “You really are a moron, 
+              I told you they have every right to go back to their homes!”.
         sequence-25:
           s: 25
-          from: 00:02:09,22
-          to: 00:02:11,21
-          text: He really got scolded.
+          from: "00:02:09,22"
+          to: "00:02:11,21"
+          text: "He really got scolded."
         sequence-26:
           s: 26
-          from: 00:02:11,21
-          to: 00:02:16,15
-          text: At that point we started walking with two others from Correggio.
+          from: "00:02:11,21"
+          to: "00:02:16,15"
+          text: "At that point we started walking with two others from Correggio."
         sequence-27:
           s: 27
-          from: 00:02:16,15
-          to: 00:02:17,08
-          text: ''
+          from: "00:02:16,15"
+          to: "00:02:17,08"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:02:17,08
-          to: 00:02:28,13
-          text: "We knew nothing at all, I had no news of my family, \nso we inquired
-            with the director of SARSA."
+          from: "00:02:17,08"
+          to: "00:02:28,13"
+          text: |-
+              We knew nothing at all, I had no news of my family, 
+              so we inquired with the director of SARSA.
         sequence-29:
           s: 29
-          from: 00:02:28,13
-          to: 00:02:36,21
-          text: We walked home, something that was still quite common back then.
+          from: "00:02:28,13"
+          to: "00:02:36,21"
+          text: "We walked home, something that was still quite common back then."
         sequence-30:
           s: 30
-          from: 00:02:36,21
-          to: 00:02:48,08
-          text: "When I reached the point where today you find the ACM, \nI was tired
-            and stopped to rest for a while."
+          from: "00:02:36,21"
+          to: "00:02:48,08"
+          text: |-
+              When I reached the point where today you find the ACM, 
+              I was tired and stopped to rest for a while.
         sequence-31:
           s: 31
-          from: 00:02:48,08
-          to: 00:02:54,26
-          text: "A woman came by on her bicycle, \nand asked me if I was the son of
-            Mr. Porta."
+          from: "00:02:48,08"
+          to: "00:02:54,26"
+          text: |-
+              A woman came by on her bicycle, 
+              and asked me if I was the son of Mr. Porta.
         sequence-32:
           s: 32
-          from: 00:02:54,26
-          to: 00:02:59,18
-          text: 'I told her I was, and she said: “You’re late!”.'
+          from: "00:02:54,26"
+          to: "00:02:59,18"
+          text: "I told her I was, and she said: “You’re late!”."
         sequence-33:
           s: 33
-          from: 00:02:59,18
-          to: 00:03:03,11
+          from: "00:02:59,18"
+          to: "00:03:03,11"
           text: "“Well, I have just got here”."
         sequence-34:
           s: 34
-          from: 00:03:03,11
-          to: 00:03:12,15
-          text: "She offered to go tell my parents to come greet me, but before she
-            left \nI asked her what the situation was, since she knew my family."
+          from: "00:03:03,11"
+          to: "00:03:12,15"
+          text: |-
+              She offered to go tell my parents to come greet me, but before she left 
+              I asked her what the situation was, since she knew my family.
         sequence-35:
           s: 35
-          from: 00:03:12,15
-          to: 00:03:15,17
+          from: "00:03:12,15"
+          to: "00:03:15,17"
           text: "“Everyone is alive”, she said,"
         sequence-36:
           s: 36
-          from: 00:03:15,17
-          to: 00:03:19,17
+          from: "00:03:15,17"
+          to: "00:03:19,17"
           text: "“and your brother has just come back from Switzerland”."
         sequence-37:
           s: 37
-          from: 00:03:19,17
-          to: 00:03:23,23
-          text: Then she ran to my parents’ home to give them the good news.
+          from: "00:03:19,17"
+          to: "00:03:23,23"
+          text: "Then she ran to my parents’ home to give them the good news."
         sequence-38:
           s: 38
-          from: 00:03:23,23
-          to: 00:03:30,24
-          text: I will never forget my mother running towards me in tears.
+          from: "00:03:23,23"
+          to: "00:03:30,24"
+          text: "I will never forget my mother running towards me in tears."
         sequence-39:
           s: 39
-          from: 00:03:30,24
-          to: 00:03:36,07
-          text: She could not take it anymore, just like me, and that’s the first
-            time I cried.
+          from: "00:03:30,24"
+          to: "00:03:36,07"
+          text: "She could not take it anymore, just like me, and that’s the first time I cried."
         sequence-40:
           s: 40
-          from: 00:03:36,07
-          to: 00:03:44,19
-          text: "I usually shed tears every time I tell this story, \nso today I’m
-            lucky: this morning I managed not to cry."
+          from: "00:03:36,07"
+          to: "00:03:44,19"
+          text: |-
+              I usually shed tears every time I tell this story, 
+              so today I’m lucky: this morning I managed not to cry.
         sequence-41:
           s: 41
-          from: 00:03:44,19
-          to: 00:03:47,26
-          text: And that’s the end of the story.
+          from: "00:03:44,19"
+          to: "00:03:47,26"
+          text: "And that’s the end of the story."
         sequence-42:
           s: 42
-          from: 00:03:47,26
-          to: 00:03:53,06
-          text: I got back in touch with my old contacts and began looking for a job.
+          from: "00:03:47,26"
+          to: "00:03:53,06"
+          text: "I got back in touch with my old contacts and began looking for a job."
         sequence-43:
           s: 43
-          from: 00:03:53,06
-          to: 00:03:57,09
-          text: I received many offers that I didn’t accept,
+          from: "00:03:53,06"
+          to: "00:03:57,09"
+          text: "I received many offers that I didn’t accept,"
         sequence-44:
           s: 44
-          from: 00:03:57,09
-          to: 00:04:02,04
-          text: then I just went on with my new job, at Giglio,
+          from: "00:03:57,09"
+          to: "00:04:02,04"
+          text: "then I just went on with my new job, at Giglio,"
         sequence-45:
           s: 45
-          from: 00:04:02,04
-          to: 00:04:09,26
-          text: "Latterie Cooperative Riunite (the United Dairy Cooperative). \nI’ve
-            worked there for thirty-six years."
+          from: "00:04:02,04"
+          to: "00:04:09,26"
+          text: |-
+              Latterie Cooperative Riunite (the United Dairy Cooperative). 
+              I’ve worked there for thirty-six years.

@@ -1,219 +1,216 @@
----
 de:
   vincent-pascucci:
     chapter-1:
       c: 1
-      title: 'Vorstellung: Familie, Schule, Arbeit'
+      title: "Vorstellung: Familie, Schule, Arbeit"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,03
-          to: 00:00:05,24
-          text: Mein Name ist Pascucci.
+          from: "00:00:01,03"
+          to: "00:00:05,24"
+          text: "Mein Name ist Pascucci."
         sequence-2:
           s: 2
-          from: 00:00:05,24
-          to: 00:00:09,24
-          text: Ich habe italienische Wurzeln.
+          from: "00:00:05,24"
+          to: "00:00:09,24"
+          text: "Ich habe italienische Wurzeln."
         sequence-3:
           s: 3
-          from: 00:00:09,24
-          to: 00:00:18,20
-          text: Ich bin in Italien geboren, in der Gegend von Pesaro, in Sant’Angelo in Lizzola
-            um genau zu sein.
+          from: "00:00:09,24"
+          to: "00:00:18,20"
+          text: "Ich bin in Italien geboren, in der Gegend von Pesaro, in Sant’Angelo in Lizzola um genau zu sein."
         sequence-4:
           s: 4
-          from: 00:00:18,20
-          to: 00:00:22,21
-          text: Das ist ein sehr schöner kleiner Hügel.
+          from: "00:00:18,20"
+          to: "00:00:22,21"
+          text: "Das ist ein sehr schöner kleiner Hügel."
         sequence-5:
           s: 5
-          from: 00:00:22,21
-          to: 00:00:28,11
-          text: Ich hatte als Erwachsener die Gelegenheit meinen Geburtsort zu sehen.
+          from: "00:00:22,21"
+          to: "00:00:28,11"
+          text: "Ich hatte als Erwachsener die Gelegenheit meinen Geburtsort zu sehen."
         sequence-6:
           s: 6
-          from: 00:00:28,11
-          to: 00:00:29,25
-          text: ''
+          from: "00:00:28,11"
+          to: "00:00:29,25"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:29,25
-          to: 00:00:37,24
-          text: Meine Eltern kamen im Rahmen von Verträgen über die Arbeiterschaft nach Frankreich,
+          from: "00:00:29,25"
+          to: "00:00:37,24"
+          text: "Meine Eltern kamen im Rahmen von Verträgen über die Arbeiterschaft nach Frankreich,"
         sequence-8:
           s: 8
-          from: 00:00:37,24
-          to: 00:00:39,09
-          text: ''
+          from: "00:00:37,24"
+          to: "00:00:39,09"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:39,09
-          to: 00:00:44,04
-          text: die Frankreich und Italien nach dem Ersten Weltkrieg unterzeichneten.
+          from: "00:00:39,09"
+          to: "00:00:44,04"
+          text: "die Frankreich und Italien nach dem Ersten Weltkrieg unterzeichneten."
         sequence-10:
           s: 10
-          from: 00:00:44,04
-          to: 00:00:52,12
-          text: Diese Verträge gaben italienischen Antifaschisten die Möglichkeit,
+          from: "00:00:44,04"
+          to: "00:00:52,12"
+          text: "Diese Verträge gaben italienischen Antifaschisten die Möglichkeit,"
         sequence-11:
           s: 11
-          from: 00:00:52,12
-          to: 00:01:01,20
-          text: der Verhaftung zu entkommen und Italien auf legalem Wege zu verlassen.
+          from: "00:00:52,12"
+          to: "00:01:01,20"
+          text: "der Verhaftung zu entkommen und Italien auf legalem Wege zu verlassen."
         sequence-12:
           s: 12
-          from: 00:01:01,20
-          to: 00:01:10,04
-          text: Ich weiß nicht, wann genau mein Vater ausgewandert ist,
+          from: "00:01:01,20"
+          to: "00:01:10,04"
+          text: "Ich weiß nicht, wann genau mein Vater ausgewandert ist,"
         sequence-13:
           s: 13
-          from: 00:01:10,04
-          to: 00:01:19,20
-          text: aber diese Migration fand zwischen 1921 und 1922 statt, denn ich bin 1923 geboren.
+          from: "00:01:10,04"
+          to: "00:01:19,20"
+          text: "aber diese Migration fand zwischen 1921 und 1922 statt, denn ich bin 1923 geboren."
         sequence-14:
           s: 14
-          from: 00:01:19,20
-          to: 00:01:21,11
-          text: ''
+          from: "00:01:19,20"
+          to: "00:01:21,11"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:21,11
-          to: 00:01:29,20
-          text: Als ich sechs Monate alt war, zogen meine Mutter und ich zu meinem Vater nach Frankreich.
+          from: "00:01:21,11"
+          to: "00:01:29,20"
+          text: "Als ich sechs Monate alt war, zogen meine Mutter und ich zu meinem Vater nach Frankreich."
         sequence-16:
           s: 16
-          from: 00:01:29,20
-          to: 00:01:30,26
-          text: ''
+          from: "00:01:29,20"
+          to: "00:01:30,26"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:30,26
-          to: 00:01:38,13
-          text: Seit dem lebe ich in Nanterre. Seit beinahe 83 Jahren.
+          from: "00:01:30,26"
+          to: "00:01:38,13"
+          text: "Seit dem lebe ich in Nanterre. Seit beinahe 83 Jahren."
         sequence-18:
           s: 18
-          from: 00:01:38,13
-          to: 00:01:43,02
-          text: ''
+          from: "00:01:38,13"
+          to: "00:01:43,02"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:43,02
-          to: 00:01:47,03
-          text: Ja, mein Vater war Kommunist und Antifaschist.
+          from: "00:01:43,02"
+          to: "00:01:47,03"
+          text: "Ja, mein Vater war Kommunist und Antifaschist."
         sequence-20:
           s: 20
-          from: 00:01:47,03
-          to: 00:01:57,14
-          text: Er trat der Kommunistischen Partei Frankreichs bei, sobald er die französische Staatsbürgerschaft erhielt.
+          from: "00:01:47,03"
+          to: "00:01:57,14"
+          text: "Er trat der Kommunistischen Partei Frankreichs bei, sobald er die französische Staatsbürgerschaft erhielt."
         sequence-21:
           s: 21
-          from: 00:01:57,14
-          to: 00:02:09,00
-          text: 1930 beantragte er die Einbürgerung. Ohne diese war es führ ihn schwierig, Arbeit zu finden.
+          from: "00:01:57,14"
+          to: "00:02:09,00"
+          text: "1930 beantragte er die Einbürgerung. Ohne diese war es führ ihn schwierig, Arbeit zu finden."
         sequence-22:
           s: 22
-          from: 00:02:09,00
-          to: 00:02:09,28
-          text: ''
+          from: "00:02:09,00"
+          to: "00:02:09,28"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:02:09,28
-          to: 00:02:20,23
-          text: Ich ging in der „École de la République“ in Nanterre zur Schule.
+          from: "00:02:09,28"
+          to: "00:02:20,23"
+          text: "Ich ging in der „École de la République“ in Nanterre zur Schule."
         sequence-24:
           s: 24
-          from: 00:02:20,23
-          to: 00:02:22,19
-          text: ''
+          from: "00:02:20,23"
+          to: "00:02:22,19"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:02:22,19
-          to: 00:02:33,09
-          text: Die Schule hat mittlerweile Platz für die „Université Paris X“ gemacht.
+          from: "00:02:22,19"
+          to: "00:02:33,09"
+          text: "Die Schule hat mittlerweile Platz für die „Université Paris X“ gemacht."
         sequence-26:
           s: 26
-          from: 00:02:33,09
-          to: 00:02:37,09
-          text: ''
+          from: "00:02:33,09"
+          to: "00:02:37,09"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:02:37,09
-          to: 00:02:46,27
-          text: Bis ich 13 Jahre alt war, ging ich in diese Schule und bekam mein „Certificat d’Etudes“.
+          from: "00:02:37,09"
+          to: "00:02:46,27"
+          text: "Bis ich 13 Jahre alt war, ging ich in diese Schule und bekam mein „Certificat d’Etudes“."
         sequence-28:
           s: 28
-          from: 00:02:46,27
-          to: 00:02:57,25
-          text: Um meinem Lehrer eine Freude zu machen, machte ich die Aufnahmeprüfung für die weiterführende Schule.
+          from: "00:02:46,27"
+          to: "00:02:57,25"
+          text: "Um meinem Lehrer eine Freude zu machen, machte ich die Aufnahmeprüfung für die weiterführende Schule."
         sequence-29:
           s: 29
-          from: 00:02:57,25
-          to: 00:03:07,10
-          text: Aber das war nicht mein Wunsch. Zu der Zeit wurde mein Bruder geboren, meine Mutter war krank und arbeitete nicht.
+          from: "00:02:57,25"
+          to: "00:03:07,10"
+          text: "Aber das war nicht mein Wunsch. Zu der Zeit wurde mein Bruder geboren, meine Mutter war krank und arbeitete nicht."
         sequence-30:
           s: 30
-          from: 00:03:07,10
-          to: 00:03:15,06
-          text: Wir brauchten of einen Arzt, da sie ein Herzleiden hatte
+          from: "00:03:07,10"
+          to: "00:03:15,06"
+          text: "Wir brauchten of einen Arzt, da sie ein Herzleiden hatte"
         sequence-31:
           s: 31
-          from: 00:03:15,06
-          to: 00:03:23,24
-          text: und mein Vater war nur Arbeiter,
-            wir waren also nicht sehr reich.
+          from: "00:03:15,06"
+          to: "00:03:23,24"
+          text: "und mein Vater war nur Arbeiter, wir waren also nicht sehr reich."
         sequence-32:
           s: 32
-          from: 00:03:23,24
-          to: 00:03:31,18
-          text: Auf der einen Seite wollte ich durch Arbeiten zum Unterhalt beitragen,
+          from: "00:03:23,24"
+          to: "00:03:31,18"
+          text: "Auf der einen Seite wollte ich durch Arbeiten zum Unterhalt beitragen,"
         sequence-33:
           s: 33
-          from: 00:03:31,18
-          to: 00:03:36,10
-          text: auf der anderen Seite wollte ich vor allem
+          from: "00:03:31,18"
+          to: "00:03:36,10"
+          text: "auf der anderen Seite wollte ich vor allem"
         sequence-34:
           s: 34
-          from: 00:03:36,10
-          to: 00:03:39,01
-          text: ''
+          from: "00:03:36,10"
+          to: "00:03:39,01"
+          text: ~
         sequence-35:
           s: 35
-          from: 00:03:39,01
-          to: 00:03:46,02
-          text: frei und unabhängig sein.
+          from: "00:03:39,01"
+          to: "00:03:46,02"
+          text: "frei und unabhängig sein."
         sequence-36:
           s: 36
-          from: 00:03:46,02
-          to: 00:03:48,03
-          text: ''
+          from: "00:03:46,02"
+          to: "00:03:48,03"
+          text: ~
         sequence-37:
           s: 37
-          from: 00:03:48,03
-          to: 00:03:53,21
-          text: Also begann ich im Alter von 14 Jahren zu arbeiten.
+          from: "00:03:48,03"
+          to: "00:03:53,21"
+          text: "Also begann ich im Alter von 14 Jahren zu arbeiten."
         sequence-38:
           s: 38
-          from: 00:03:53,21
-          to: 00:04:08,20
-          text: Das war 1937/1938, während der ersten Krise. Ich habe Arbeitslosigkeit erlebt.
+          from: "00:03:53,21"
+          to: "00:04:08,20"
+          text: "Das war 1937/1938, während der ersten Krise. Ich habe Arbeitslosigkeit erlebt."
         sequence-39:
           s: 39
-          from: 00:04:08,20
-          to: 00:04:14,19
-          text: Da ich keine Ausbildung hatte, tat ich ein bisschen was von allem.
+          from: "00:04:08,20"
+          to: "00:04:14,19"
+          text: "Da ich keine Ausbildung hatte, tat ich ein bisschen was von allem."
         sequence-40:
           s: 40
-          from: 00:04:14,19
-          to: 00:04:17,08
-          text: ''
+          from: "00:04:14,19"
+          to: "00:04:17,08"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:04:17,08
-          to: 00:04:30,17
-          text: Ich arbeitete in einer Spielzeugfabrik und beim Entladen von Frachtkähnen auf der Seine.
+          from: "00:04:17,08"
+          to: "00:04:30,17"
+          text: "Ich arbeitete in einer Spielzeugfabrik und beim Entladen von Frachtkähnen auf der Seine."
         sequence-42:
           s: 42
-          from: 00:04:30,17
-          to: 00:04:41,10
-          text: Man hat sich nicht so angestellt, wenn man Arbeit bekommen konnte. Es war schwierig genug Arbeit zu finden.
+          from: "00:04:30,17"
+          to: "00:04:41,10"
+          text: "Man hat sich nicht so angestellt, wenn man Arbeit bekommen konnte. Es war schwierig genug Arbeit zu finden."

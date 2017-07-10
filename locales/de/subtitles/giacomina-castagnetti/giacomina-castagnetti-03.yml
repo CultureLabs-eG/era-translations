@@ -1,161 +1,151 @@
----
 de:
   giacomina-castagnetti:
     chapter-3:
       c: 3
-      title: Anfang des Krieges in Afrika
+      title: "Anfang des Krieges in Afrika"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,13
-          to: 00:00:07,15
-          text: Die Vorbereitungen für den Krieg in Afrika kamen in Schwung.
+          from: "00:00:00,13"
+          to: "00:00:07,15"
+          text: "Die Vorbereitungen für den Krieg in Afrika kamen in Schwung."
         sequence-2:
           s: 2
-          from: 00:00:07,15
-          to: 00:00:10,13
-          text: ''
+          from: "00:00:07,15"
+          to: "00:00:10,13"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:10,13
-          to: 00:00:14,12
-          text: Alles musste für den Krieg vorbereitet werden.
+          from: "00:00:10,13"
+          to: "00:00:14,12"
+          text: "Alles musste für den Krieg vorbereitet werden."
         sequence-4:
           s: 4
-          from: 00:00:14,12
-          to: 00:00:21,17
-          text: Mussolini pflegte zu sagen, dass nicht ein Krümel Brot verschwendet werden sollte,
+          from: "00:00:14,12"
+          to: "00:00:21,17"
+          text: "Mussolini pflegte zu sagen, dass nicht ein Krümel Brot verschwendet werden sollte,"
         sequence-5:
           s: 5
-          from: 00:00:21,17
-          to: 00:00:23,18
-          text: ''
+          from: "00:00:21,17"
+          to: "00:00:23,18"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:23,18
-          to: 00:00:28,00
-          text: denn er könnte einem Soldaten in Afrika nützen.
+          from: "00:00:23,18"
+          to: "00:00:28,00"
+          text: "denn er könnte einem Soldaten in Afrika nützen."
         sequence-7:
           s: 7
-          from: 00:00:28,00
-          to: 00:00:29,25
-          text: ''
+          from: "00:00:28,00"
+          to: "00:00:29,25"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:29,25
-          to: 00:00:53,00
-          text: Ich habe unterschiedliche Geschichten von meinen Brürdern und deren Freunden gehört.
-            Ich sah viel zu meinen Brüdern auf, seit mein Vater gestorben war.
+          from: "00:00:29,25"
+          to: "00:00:53,00"
+          text: "Ich habe unterschiedliche Geschichten von meinen Brürdern und deren Freunden gehört. Ich sah viel zu meinen Brüdern auf, seit mein Vater gestorben war."
         sequence-9:
           s: 9
-          from: 00:00:53,00
-          to: 00:00:57,11
-          text: Ich erinnere mich noch, was Strozzi sagte.
+          from: "00:00:53,00"
+          to: "00:00:57,11"
+          text: "Ich erinnere mich noch, was Strozzi sagte."
         sequence-10:
           s: 10
-          from: 00:00:57,11
-          to: 00:01:08,12
-          text: Er war sehr jung. Ein Nachbar, der später Vizepräsident
-            der Riunite-Molkerei wurde.
+          from: "00:00:57,11"
+          to: "00:01:08,12"
+          text: "Er war sehr jung. Ein Nachbar, der später Vizepräsident der Riunite-Molkerei wurde."
         sequence-11:
           s: 11
-          from: 00:01:08,12
-          to: 00:01:08,23
-          text: ''
+          from: "00:01:08,12"
+          to: "00:01:08,23"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:08,23
-          to: 00:01:14,11
-          text: Bezogen auf Mussolinis Äußerungen über Bauern,
+          from: "00:01:08,23"
+          to: "00:01:14,11"
+          text: "Bezogen auf Mussolinis Äußerungen über Bauern,"
         sequence-13:
           s: 13
-          from: 00:01:14,11
-          to: 00:01:22,18
-          text: dass sie in den Krieg ziehen müssten, um ein Reich zu begründen und
-            neues Ackerland erobern,
+          from: "00:01:14,11"
+          to: "00:01:22,18"
+          text: "dass sie in den Krieg ziehen müssten, um ein Reich zu begründen und neues Ackerland erobern,"
         sequence-14:
           s: 14
-          from: 00:01:22,18
-          to: 00:01:31,00
-          text:
-            'Ich erinnere mich, dass Strozzi sagte: "Der Krieg hat noch nie etwas Gutes
-            für die Armen gebracht."'
+          from: "00:01:22,18"
+          to: "00:01:31,00"
+          text: "Ich erinnere mich, dass Strozzi sagte: \"Der Krieg hat noch nie etwas Gutes für die Armen gebracht.\""
         sequence-15:
           s: 15
-          from: 00:01:31,00
-          to: 00:01:31,23
-          text: ''
+          from: "00:01:31,00"
+          to: "00:01:31,23"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:31,23
-          to: 00:01:40,24
-          text: Etwa zur gleichen Zeit lud die Gutsherrin alle Landwirte in ihr Haus ein
+          from: "00:01:31,23"
+          to: "00:01:40,24"
+          text: "Etwa zur gleichen Zeit lud die Gutsherrin alle Landwirte in ihr Haus ein"
         sequence-17:
           s: 17
-          from: 00:01:40,24
-          to: 00:01:48,12
-          text: um Mussolinis Ansprache zum Kriegsbeginn in Afrika zu hören.
+          from: "00:01:40,24"
+          to: "00:01:48,12"
+          text: "um Mussolinis Ansprache zum Kriegsbeginn in Afrika zu hören."
         sequence-18:
           s: 18
-          from: 00:01:48,12
-          to: 00:01:56,19
-          text: Meine Mutter nahm meine Hand und führte mich vor das Wohnzimmer der Gräfin.
+          from: "00:01:48,12"
+          to: "00:01:56,19"
+          text: "Meine Mutter nahm meine Hand und führte mich vor das Wohnzimmer der Gräfin."
         sequence-19:
           s: 19
-          from: 00:01:56,19
-          to: 00:02:01,20
-          text: Wir konnten nicht ins Haus hereingehen, um es nicht zu beschmutzen.
+          from: "00:01:56,19"
+          to: "00:02:01,20"
+          text: "Wir konnten nicht ins Haus hereingehen, um es nicht zu beschmutzen."
         sequence-20:
           s: 20
-          from: 00:02:01,20
-          to: 00:02:07,08
-          text: Meine Mutter hatte die Verpflichtung, alle Bauern einzuladen, sich
-            den Duce anzuhören.
+          from: "00:02:01,20"
+          to: "00:02:07,08"
+          text: "Meine Mutter hatte die Verpflichtung, alle Bauern einzuladen, sich den Duce anzuhören."
         sequence-21:
           s: 21
-          from: 00:02:07,08
-          to: 00:02:14,29
-          text: Ich war sehr glücklich. Ich war dabei etwas Neues zu erleben.
+          from: "00:02:07,08"
+          to: "00:02:14,29"
+          text: "Ich war sehr glücklich. Ich war dabei etwas Neues zu erleben."
         sequence-22:
           s: 22
-          from: 00:02:14,29
-          to: 00:02:24,26
-          text: Als ich das Radio hörte, war ich wie benebelt, weil ich nicht verstehen
-            konnte, wo diese tiefe Stimme her kam.
+          from: "00:02:14,29"
+          to: "00:02:24,26"
+          text: "Als ich das Radio hörte, war ich wie benebelt, weil ich nicht verstehen konnte, wo diese tiefe Stimme her kam."
         sequence-23:
           s: 23
-          from: 00:02:24,26
-          to: 00:02:26,15
-          text: ''
+          from: "00:02:24,26"
+          to: "00:02:26,15"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:02:26,15
-          to: 00:02:33,01
-          text: Ich verstand nicht, wovon die Stimme sprach
+          from: "00:02:26,15"
+          to: "00:02:33,01"
+          text: "Ich verstand nicht, wovon die Stimme sprach"
         sequence-25:
           s: 25
-          from: 00:02:33,01
-          to: 00:02:38,23
-          text: oder was die Bedeutung der Worte war - im Gegensatz zu meiner Mutter.
+          from: "00:02:33,01"
+          to: "00:02:38,23"
+          text: "oder was die Bedeutung der Worte war - im Gegensatz zu meiner Mutter."
         sequence-26:
           s: 26
-          from: 00:02:38,23
-          to: 00:02:39,26
-          text: ''
+          from: "00:02:38,23"
+          to: "00:02:39,26"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:02:39,26
-          to: 00:02:49,09
-          text: Mir wurde klar, dass es sich um etwas Schreckliches handelte,
-            als meiner Mutter auf dem Heimweg die Tränen kamen.
+          from: "00:02:39,26"
+          to: "00:02:49,09"
+          text: "Mir wurde klar, dass es sich um etwas Schreckliches handelte, als meiner Mutter auf dem Heimweg die Tränen kamen."
         sequence-28:
           s: 28
-          from: 00:02:49,09
-          to: 00:02:59,18
-          text: Sie dachte an ihre sechs Söhne, die alle fast alt genug waren, um
-            in den Krieg ziehen zu müssen.
+          from: "00:02:49,09"
+          to: "00:02:59,18"
+          text: "Sie dachte an ihre sechs Söhne, die alle fast alt genug waren, um in den Krieg ziehen zu müssen."
         sequence-29:
           s: 29
-          from: 00:02:59,18
-          to: 00:03:05,10
-          text: Von dem Moment an war ich nicht mehr glücklich, das Radio gehört zu haben.
+          from: "00:02:59,18"
+          to: "00:03:05,10"
+          text: "Von dem Moment an war ich nicht mehr glücklich, das Radio gehört zu haben."

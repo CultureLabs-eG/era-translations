@@ -1,192 +1,171 @@
----
 de:
   giacomina-castagnetti:
     chapter-4:
       c: 4
-      title: 'Bildung: Neuigkeiten im Kuhstall, Bücher'
+      title: "Bildung: Neuigkeiten im Kuhstall, Bücher"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:04,11
-          to: 00:00:11,04
-          text: Im Winter war der Kuhstall unser Treffpunkt.
+          from: "00:00:04,11"
+          to: "00:00:11,04"
+          text: "Im Winter war der Kuhstall unser Treffpunkt."
         sequence-2:
           s: 2
-          from: 00:00:11,04
-          to: 00:00:19,12
-          text: Freunde konnten endlich etwas Zeit miteinander verbringen.
+          from: "00:00:11,04"
+          to: "00:00:19,12"
+          text: "Freunde konnten endlich etwas Zeit miteinander verbringen."
         sequence-3:
           s: 3
-          from: 00:00:19,12
-          to: 00:00:23,18
-          text: ''
+          from: "00:00:19,12"
+          to: "00:00:23,18"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:23,18
-          to: 00:00:29,29
-          text: Soziale und politische Aktivitäten fanden im Kuhstall statt,
+          from: "00:00:23,18"
+          to: "00:00:29,29"
+          text: "Soziale und politische Aktivitäten fanden im Kuhstall statt,"
         sequence-5:
           s: 5
-          from: 00:00:29,29
-          to: 00:00:37,20
-          text: genau so wie Liebesaffären, weil Jungen und Mädchen sich dort trafen.
+          from: "00:00:29,29"
+          to: "00:00:37,20"
+          text: "genau so wie Liebesaffären, weil Jungen und Mädchen sich dort trafen."
         sequence-6:
           s: 6
-          from: 00:00:37,20
-          to: 00:00:45,12
-          text: Ich schlich mich hinein und Tag um Tag wuchs meine Neugier.
+          from: "00:00:37,20"
+          to: "00:00:45,12"
+          text: "Ich schlich mich hinein und Tag um Tag wuchs meine Neugier."
         sequence-7:
           s: 7
-          from: 00:00:45,12
-          to: 00:00:55,15
-          text: Vielleicht war es Veranlagung, aber ich hab dort viel Spaß gehabt. Man konnte dort alle Neuigkeiten erfahren.
-            Maybe it was my disposition, b___ut___y I really had so much fun there. That’s
-            where all the news could be heard.
+          from: "00:00:45,12"
+          to: "00:00:55,15"
+          text: "Vielleicht war es Veranlagung, aber ich hab dort viel Spaß gehabt. Man konnte dort alle Neuigkeiten erfahren. Maybe it was my disposition, b___ut___y I really had so much fun there. That’s where all the news could be heard."
         sequence-8:
           s: 8
-          from: 00:00:55,15
-          to: 00:00:56,16
-          text: ''
+          from: "00:00:55,15"
+          to: "00:00:56,16"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:56,16
-          to: 00:00:59,29
-          text: Ich hörte die allgemeinen Neuigkeiten,
-            I was hearing everyday news,
+          from: "00:00:56,16"
+          to: "00:00:59,29"
+          text: "Ich hörte die allgemeinen Neuigkeiten, I was hearing everyday news,"
         sequence-10:
           s: 10
-          from: 00:00:59,29
-          to: 00:01:07,22
-          text: aber insbesondere auch politische Diskussionen, die auch in Zuhause häufiger stattfanden.
-            but especially political discussions which were starting to take place
-            at our house.
+          from: "00:00:59,29"
+          to: "00:01:07,22"
+          text: "aber insbesondere auch politische Diskussionen, die auch in Zuhause häufiger stattfanden. but especially political discussions which were starting to take place at our house."
         sequence-11:
           s: 11
-          from: 00:01:07,22
-          to: 00:01:17,01
-          text: Ich lernte, dass viele Leute nicht dem Faschismus anhingen.
-            I began to hear that a lot of people didn’t agree with fascism.
+          from: "00:01:07,22"
+          to: "00:01:17,01"
+          text: "Ich lernte, dass viele Leute nicht dem Faschismus anhingen. I began to hear that a lot of people didn’t agree with fascism."
         sequence-12:
           s: 12
-          from: 00:01:17,01
-          to: 00:01:18,25
-          text: ''
+          from: "00:01:17,01"
+          to: "00:01:18,25"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:01:18,25
-          to: 00:01:24,17
-          text: Der Tonfall war aber immer eher verhalten und hinter vorgehaltener Hand.
-            The tone was always rather timid and veiled though.
+          from: "00:01:18,25"
+          to: "00:01:24,17"
+          text: "Der Tonfall war aber immer eher verhalten und hinter vorgehaltener Hand. The tone was always rather timid and veiled though."
         sequence-14:
           s: 14
-          from: 00:01:24,17
-          to: 00:01:32,10
-          text: Selbst ein Witz über den Duce konnte einen ins Gefängnis bringen, damals.
+          from: "00:01:24,17"
+          to: "00:01:32,10"
+          text: "Selbst ein Witz über den Duce konnte einen ins Gefängnis bringen, damals."
         sequence-15:
           s: 15
-          from: 00:01:32,10
-          to: 00:01:34,03
-          text: ''
+          from: "00:01:32,10"
+          to: "00:01:34,03"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:34,03
-          to: 00:01:41,20
-          text: Ich erinnere mich an eine Geschichte über einen jungen Mann, der geprügelt wurde,
-            I remember a story regarding a young man who was beaten
+          from: "00:01:34,03"
+          to: "00:01:41,20"
+          text: "Ich erinnere mich an eine Geschichte über einen jungen Mann, der geprügelt wurde, I remember a story regarding a young man who was beaten"
         sequence-17:
           s: 17
-          from: 00:01:41,20
-          to: 00:01:50,09
-          text: weil er einen Faschisten nicht mit dem faschistischen Gruß begrüßte.
-            since he hadn’t saluted a fascist with the fascist salute.
+          from: "00:01:41,20"
+          to: "00:01:50,09"
+          text: "weil er einen Faschisten nicht mit dem faschistischen Gruß begrüßte. since he hadn’t saluted a fascist with the fascist salute."
         sequence-18:
           s: 18
-          from: 00:01:50,09
-          to: 00:02:03,13
-          text: Ich war ziemlich geschockt deswegen. Dass ein Junge dafür geschlagen werden konnte.
-            I was really shocked by the fact that a boy could be beaten for this.
+          from: "00:01:50,09"
+          to: "00:02:03,13"
+          text: "Ich war ziemlich geschockt deswegen. Dass ein Junge dafür geschlagen werden konnte. I was really shocked by the fact that a boy could be beaten for this."
         sequence-19:
           s: 19
-          from: 00:02:03,13
-          to: 00:02:04,28
-          text: ''
+          from: "00:02:03,13"
+          to: "00:02:04,28"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:02:04,28
-          to: 00:02:15,08
-          text:
-            I found out that many of these young men didn’t want to take part
-            in the “fascist Saturday”
+          from: "00:02:04,28"
+          to: "00:02:15,08"
+          text: "I found out that many of these young men didn’t want to take part in the “fascist Saturday”"
         sequence-21:
           s: 21
-          from: 00:02:15,08
-          to: 00:02:26,02
-          text: activities as they realised that they were also meant to prepare the
-            youth for war.
+          from: "00:02:15,08"
+          to: "00:02:26,02"
+          text: "activities as they realised that they were also meant to prepare the youth for war."
         sequence-22:
           s: 22
-          from: 00:02:26,02
-          to: 00:02:27,00
-          text: ''
+          from: "00:02:26,02"
+          to: "00:02:27,00"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:02:27,00
-          to: 00:02:32,07
-          text: We were passing around “Il padrone delle ferriere” (Le maître des
-            forges)
+          from: "00:02:27,00"
+          to: "00:02:32,07"
+          text: "We were passing around “Il padrone delle ferriere” (Le maître des forges)"
         sequence-24:
           s: 24
-          from: 00:02:32,07
-          to: 00:02:40,02
-          text: or “Le stelle ci stanno a guardare” (The stars look down), which I’ve
-            read many times.
+          from: "00:02:32,07"
+          to: "00:02:40,02"
+          text: "or “Le stelle ci stanno a guardare” (The stars look down), which I’ve read many times."
         sequence-25:
           s: 25
-          from: 00:02:40,02
-          to: 00:02:47,15
-          text: The one which got me thinking the most though was “Il padrone delle
-            ferriere”.
+          from: "00:02:40,02"
+          to: "00:02:47,15"
+          text: "The one which got me thinking the most though was “Il padrone delle ferriere”."
         sequence-26:
           s: 26
-          from: 00:02:47,15
-          to: 00:02:56,00
-          text: As farmers we worked hard, but at least we stayed under the sun, in
-            the open, under a tree.
+          from: "00:02:47,15"
+          to: "00:02:56,00"
+          text: "As farmers we worked hard, but at least we stayed under the sun, in the open, under a tree."
         sequence-27:
           s: 27
-          from: 00:02:56,00
-          to: 00:03:05,24
-          text: Reading the book I imagined those people working several meters underground
-            with no protection.
+          from: "00:02:56,00"
+          to: "00:03:05,24"
+          text: "Reading the book I imagined those people working several meters underground with no protection."
         sequence-28:
           s: 28
-          from: 00:03:05,24
-          to: 00:03:19,02
-          text: The author explains that everything in town had turned black, the
-            colour of coal.
+          from: "00:03:05,24"
+          to: "00:03:19,02"
+          text: "The author explains that everything in town had turned black, the colour of coal."
         sequence-29:
           s: 29
-          from: 00:03:19,02
-          to: 00:03:26,29
-          text: Even the kids’ faces were black since the coal dust was everywhere.
+          from: "00:03:19,02"
+          to: "00:03:26,29"
+          text: "Even the kids’ faces were black since the coal dust was everywhere."
         sequence-30:
           s: 30
-          from: 00:03:26,29
-          to: 00:03:32,29
-          text: This book really shook me.
+          from: "00:03:26,29"
+          to: "00:03:32,29"
+          text: "This book really shook me."
         sequence-31:
           s: 31
-          from: 00:03:32,29
-          to: 00:03:39,27
-          text: I realized what the differences between the rich and the poor were.
+          from: "00:03:32,29"
+          to: "00:03:39,27"
+          text: "I realized what the differences between the rich and the poor were."
         sequence-32:
           s: 32
-          from: 00:03:39,27
-          to: 00:03:43,06
-          text: I remembered these men saying
+          from: "00:03:39,27"
+          to: "00:03:43,06"
+          text: "I remembered these men saying"
         sequence-33:
           s: 33
-          from: 00:03:43,06
-          to: 00:03:49,17
-          text: "“It’s always the sons of the poor who go to war, not those of the
-            rich”."
+          from: "00:03:43,06"
+          to: "00:03:49,17"
+          text: "“It’s always the sons of the poor who go to war, not those of the rich”."

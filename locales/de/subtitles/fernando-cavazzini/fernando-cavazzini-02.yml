@@ -1,269 +1,256 @@
----
 de:
   fernando-cavazzini:
     chapter-2:
       c: 2
-      title: Toni starts antifascist activities
+      title: "Toni starts antifascist activities"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,28
-          to: 00:00:06,28
-          text: Fascist propaganda was telling us the communists in Spain
+          from: "00:00:00,28"
+          to: "00:00:06,28"
+          text: "Fascist propaganda was telling us the communists in Spain"
         sequence-2:
           s: 2
-          from: 00:00:06,28
-          to: 00:00:19,19
-          text: had raped and stabbed to death some nuns, so I really didn’t like
-            communism much.
+          from: "00:00:06,28"
+          to: "00:00:19,19"
+          text: "had raped and stabbed to death some nuns, so I really didn’t like communism much."
         sequence-3:
           s: 3
-          from: 00:00:19,19
-          to: 00:00:21,18
-          text: Then what happened?
+          from: "00:00:19,19"
+          to: "00:00:21,18"
+          text: "Then what happened?"
         sequence-4:
           s: 4
-          from: 00:00:21,18
-          to: 00:00:22,21
-          text: ''
+          from: "00:00:21,18"
+          to: "00:00:22,21"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:22,21
-          to: 00:00:30,10
-          text: It was 1943, the war was starting,
+          from: "00:00:22,21"
+          to: "00:00:30,10"
+          text: "It was 1943, the war was starting,"
         sequence-6:
           s: 6
-          from: 00:00:30,10
-          to: 00:00:37,11
-          text: people were talking about our retreats in Russia and in Northern Africa,
-            the bombings, etc.
+          from: "00:00:30,10"
+          to: "00:00:37,11"
+          text: "people were talking about our retreats in Russia and in Northern Africa, the bombings, etc."
         sequence-7:
           s: 7
-          from: 00:00:37,11
-          to: 00:00:39,23
-          text: ''
+          from: "00:00:37,11"
+          to: "00:00:39,23"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:39,23
-          to: 00:00:45,09
-          text: In spring 1943, strikes began at the Reggiane plant.
+          from: "00:00:39,23"
+          to: "00:00:45,09"
+          text: "In spring 1943, strikes began at the Reggiane plant."
         sequence-9:
           s: 9
-          from: 00:00:45,09
-          to: 00:00:50,17
-          text: Not in my department or in the tooling department, where some of my
-            friends were arrested.
+          from: "00:00:45,09"
+          to: "00:00:50,17"
+          text: "Not in my department or in the tooling department, where some of my friends were arrested."
         sequence-10:
           s: 10
-          from: 00:00:50,17
-          to: 00:00:55,13
-          text: 'From then on I started some soul-searching: what was I really doing?'
+          from: "00:00:50,17"
+          to: "00:00:55,13"
+          text: "From then on I started some soul-searching: what was I really doing?"
         sequence-11:
           s: 11
-          from: 00:00:55,13
-          to: 00:01:02,07
-          text: I was working day and night to boost production for the war,
+          from: "00:00:55,13"
+          to: "00:01:02,07"
+          text: "I was working day and night to boost production for the war,"
         sequence-12:
           s: 12
-          from: 00:01:02,07
-          to: 00:01:06,17
-          text: while war killed people.
+          from: "00:01:02,07"
+          to: "00:01:06,17"
+          text: "while war killed people."
         sequence-13:
           s: 13
-          from: 00:01:06,17
-          to: 00:01:10,01
-          text: I was shocked.
+          from: "00:01:06,17"
+          to: "00:01:10,01"
+          text: "I was shocked."
         sequence-14:
           s: 14
-          from: 00:01:10,01
-          to: 00:01:13,11
-          text: From that moment on I tried
+          from: "00:01:10,01"
+          to: "00:01:13,11"
+          text: "From that moment on I tried"
         sequence-15:
           s: 15
-          from: 00:01:13,11
-          to: 00:01:14,16
-          text: ''
+          from: "00:01:13,11"
+          to: "00:01:14,16"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:14,16
-          to: 00:01:19,15
-          text: to get in contact with the antifascists, but it was impossible.
+          from: "00:01:14,16"
+          to: "00:01:19,15"
+          text: "to get in contact with the antifascists, but it was impossible."
         sequence-17:
           s: 17
-          from: 00:01:19,15
-          to: 00:01:21,02
-          text: ''
+          from: "00:01:19,15"
+          to: "00:01:21,02"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:01:21,02
-          to: 00:01:31,29
-          text: It was already the summer of ’43 when I went to Sassuolo to visit
-            a friend.
+          from: "00:01:21,02"
+          to: "00:01:31,29"
+          text: "It was already the summer of ’43 when I went to Sassuolo to visit a friend."
         sequence-19:
           s: 19
-          from: 00:01:31,29
-          to: 00:01:38,18
-          text: I knew him as an antifascist, hoping he could help me to become part
-            of the movement.
+          from: "00:01:31,29"
+          to: "00:01:38,18"
+          text: "I knew him as an antifascist, hoping he could help me to become part of the movement."
         sequence-20:
           s: 20
-          from: 00:01:38,18
-          to: 00:01:44,04
-          text: He told me he couldn’t, since he was indeed an antifascist but he
-            wasn’t organized.
+          from: "00:01:38,18"
+          to: "00:01:44,04"
+          text: "He told me he couldn’t, since he was indeed an antifascist but he wasn’t organized."
         sequence-21:
           s: 21
-          from: 00:01:44,04
-          to: 00:01:47,12
-          text: There was another comrade in my department
+          from: "00:01:44,04"
+          to: "00:01:47,12"
+          text: "There was another comrade in my department"
         sequence-22:
           s: 22
-          from: 00:01:47,12
-          to: 00:01:53,05
-          text: who I was friend with, his name was Armando Grassi from Gattaglio.
+          from: "00:01:47,12"
+          to: "00:01:53,05"
+          text: "who I was friend with, his name was Armando Grassi from Gattaglio."
         sequence-23:
           s: 23
-          from: 00:01:53,05
-          to: 00:01:58,15
-          text: I told him I wanted to be involved and I finally convinced him.
+          from: "00:01:53,05"
+          to: "00:01:58,15"
+          text: "I told him I wanted to be involved and I finally convinced him."
         sequence-24:
           s: 24
-          from: 00:01:58,15
-          to: 00:02:02,09
-          text: He put me in touch with a guy called Corradini,
+          from: "00:01:58,15"
+          to: "00:02:02,09"
+          text: "He put me in touch with a guy called Corradini,"
         sequence-25:
           s: 25
-          from: 00:02:02,09
-          to: 00:02:07,21
-          text: whose name I actually found out only after the war, and that he was
-            from Cavazzoli.
+          from: "00:02:02,09"
+          to: "00:02:07,21"
+          text: "whose name I actually found out only after the war, and that he was from Cavazzoli."
         sequence-26:
           s: 26
-          from: 00:02:07,21
-          to: 00:02:13,29
-          text: From then on I became active in the underground movement.
+          from: "00:02:07,21"
+          to: "00:02:13,29"
+          text: "From then on I became active in the underground movement."
         sequence-27:
           s: 27
-          from: 00:02:13,29
-          to: 00:02:14,24
-          text: ''
+          from: "00:02:13,29"
+          to: "00:02:14,24"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:02:14,24
-          to: 00:02:19,25
-          text: At the beginning I didn’t do much.
+          from: "00:02:14,24"
+          to: "00:02:19,25"
+          text: "At the beginning I didn’t do much."
         sequence-29:
           s: 29
-          from: 00:02:19,25
-          to: 00:02:27,06
-          text: I really started after the fall of Mussolini, on the 8th of September.
+          from: "00:02:19,25"
+          to: "00:02:27,06"
+          text: "I really started after the fall of Mussolini, on the 8th of September."
         sequence-30:
           s: 30
-          from: 00:02:27,06
-          to: 00:02:32,19
-          text: After that we really began to look for weapons.
+          from: "00:02:27,06"
+          to: "00:02:32,19"
+          text: "After that we really began to look for weapons."
         sequence-31:
           s: 31
-          from: 00:02:32,19
-          to: 00:02:35,09
-          text: ''
+          from: "00:02:32,19"
+          to: "00:02:35,09"
+          text: ~
         sequence-32:
           s: 32
-          from: 00:02:35,09
-          to: 00:02:40,16
-          text: I lived 500 meters away from the rail tracks.
+          from: "00:02:35,09"
+          to: "00:02:40,16"
+          text: "I lived 500 meters away from the rail tracks."
         sequence-33:
           s: 33
-          from: 00:02:40,16
-          to: 00:02:48,00
-          text: Nearly our whole Azione Cattolica group started to go there
+          from: "00:02:40,16"
+          to: "00:02:48,00"
+          text: "Nearly our whole Azione Cattolica group started to go there"
         sequence-34:
           s: 34
-          from: 00:02:48,00
-          to: 00:02:53,07
-          text: to slow the trains down before they arrived in Reggio.
+          from: "00:02:48,00"
+          to: "00:02:53,07"
+          text: "to slow the trains down before they arrived in Reggio."
         sequence-35:
           s: 35
-          from: 00:02:53,07
-          to: 00:02:57,20
-          text: The soldiers on the train got off before the train left again.
+          from: "00:02:53,07"
+          to: "00:02:57,20"
+          text: "The soldiers on the train got off before the train left again."
         sequence-36:
           s: 36
-          from: 00:02:57,20
-          to: 00:03:05,06
-          text: We took them to the rectory. We dressed some in plain clothes, others
-            as priests.
+          from: "00:02:57,20"
+          to: "00:03:05,06"
+          text: "We took them to the rectory. We dressed some in plain clothes, others as priests."
         sequence-37:
           s: 37
-          from: 00:03:05,06
-          to: 00:03:11,10
-          text: I dressed as an acolyte, since I was 19 but looked younger.
+          from: "00:03:05,06"
+          to: "00:03:11,10"
+          text: "I dressed as an acolyte, since I was 19 but looked younger."
         sequence-38:
           s: 38
-          from: 00:03:11,10
-          to: 00:03:18,28
-          text: I remember bringing a guy called Catellani all the way home to Sesso.
+          from: "00:03:11,10"
+          to: "00:03:18,28"
+          text: "I remember bringing a guy called Catellani all the way home to Sesso."
         sequence-39:
           s: 39
-          from: 00:03:18,28
-          to: 00:03:28,19
-          text: He worked at the Reggiane. I took them to Rivalta. Then they could
-            move on alone.
+          from: "00:03:18,28"
+          to: "00:03:28,19"
+          text: "He worked at the Reggiane. I took them to Rivalta. Then they could move on alone."
         sequence-40:
           s: 40
-          from: 00:03:28,19
-          to: 00:03:30,10
-          text: ''
+          from: "00:03:28,19"
+          to: "00:03:30,10"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:03:30,10
-          to: 00:03:39,26
-          text: I had an exemption from the military and went on working at the Reggiane
-            until December.
+          from: "00:03:30,10"
+          to: "00:03:39,26"
+          text: "I had an exemption from the military and went on working at the Reggiane until December."
         sequence-42:
           s: 42
-          from: 00:03:39,26
-          to: 00:03:44,09
-          text: Then I received another call-up card.
+          from: "00:03:39,26"
+          to: "00:03:44,09"
+          text: "Then I received another call-up card."
         sequence-43:
           s: 43
-          from: 00:03:44,09
-          to: 00:03:51,15
-          text: I know the Germans immediately occupied the most relevant spots in
-            the city,
+          from: "00:03:44,09"
+          to: "00:03:51,15"
+          text: "I know the Germans immediately occupied the most relevant spots in the city,"
         sequence-44:
           s: 44
-          from: 00:03:51,15
-          to: 00:03:57,04
-          text: the city hall, the Zucchi barracks, the Cialdini barracks.
+          from: "00:03:51,15"
+          to: "00:03:57,04"
+          text: "the city hall, the Zucchi barracks, the Cialdini barracks."
         sequence-45:
           s: 45
-          from: 00:03:57,04
-          to: 00:04:02,06
-          text: They also plundered the city.
+          from: "00:03:57,04"
+          to: "00:04:02,06"
+          text: "They also plundered the city."
         sequence-46:
           s: 46
-          from: 00:04:02,06
-          to: 00:04:09,23
-          text: I remember that my wife lived in Coviolo.
+          from: "00:04:02,06"
+          to: "00:04:09,23"
+          text: "I remember that my wife lived in Coviolo."
         sequence-47:
           s: 47
-          from: 00:04:09,23
-          to: 00:04:11,21
-          text: Some Germans arrived in her courtyard
+          from: "00:04:09,23"
+          to: "00:04:11,21"
+          text: "Some Germans arrived in her courtyard"
         sequence-48:
           s: 48
-          from: 00:04:11,21
-          to: 00:04:23,23
-          text: with hens, rabbits, and were laughing when they arrested the soldiers
-            who had surrendered.
+          from: "00:04:11,21"
+          to: "00:04:23,23"
+          text: "with hens, rabbits, and were laughing when they arrested the soldiers who had surrendered."
         sequence-49:
           s: 49
-          from: 00:04:23,23
-          to: 00:04:29,00
-          text: You have to remember that the Germans arrested and
+          from: "00:04:23,23"
+          to: "00:04:29,00"
+          text: "You have to remember that the Germans arrested and"
         sequence-50:
           s: 50
-          from: 00:04:29,00
-          to: 00:04:35,10
-          text: sent to Germany more than 600,000 soldiers on the 8th of September.
+          from: "00:04:29,00"
+          to: "00:04:35,10"
+          text: "sent to Germany more than 600,000 soldiers on the 8th of September."

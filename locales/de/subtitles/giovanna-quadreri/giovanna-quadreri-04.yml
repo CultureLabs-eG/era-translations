@@ -1,219 +1,196 @@
----
 de:
   giovanna-quadreri:
     chapter-4:
       c: 4
-      title: Sister joins the partisans
+      title: "Sister joins the partisans"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,13
-          to: 00:00:11,17
-          text: My sister joined the partisans after she had an argument with our
-            mayor.
+          from: "00:00:01,13"
+          to: "00:00:11,17"
+          text: "My sister joined the partisans after she had an argument with our mayor."
         sequence-2:
           s: 2
-          from: 00:00:11,17
-          to: 00:00:24,06
-          text: She declared she would join the partisans from Carpineti because she
-            wanted the war to end. She was furious.
+          from: "00:00:11,17"
+          to: "00:00:24,06"
+          text: "She declared she would join the partisans from Carpineti because she wanted the war to end. She was furious."
         sequence-3:
           s: 3
-          from: 00:00:24,06
-          to: 00:00:34,28
-          text: Did I tell you she was supposed to take my father’s place in jail?
+          from: "00:00:24,06"
+          to: "00:00:34,28"
+          text: "Did I tell you she was supposed to take my father’s place in jail?"
         sequence-4:
           s: 4
-          from: 00:00:34,28
-          to: 00:00:36,09
-          text: ''
+          from: "00:00:34,28"
+          to: "00:00:36,09"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:36,09
-          to: 00:00:41,24
-          text: One day, when she didn’t see my father come back, she went to find
-            out
+          from: "00:00:36,09"
+          to: "00:00:41,24"
+          text: "One day, when she didn’t see my father come back, she went to find out"
         sequence-6:
           s: 6
-          from: 00:00:41,24
-          to: 00:00:46,25
-          text: that my father had been sentenced to three days in jail.
+          from: "00:00:41,24"
+          to: "00:00:46,25"
+          text: "that my father had been sentenced to three days in jail."
         sequence-7:
           s: 7
-          from: 00:00:46,25
-          to: 00:00:56,04
-          text: She said that my father had to go home because he had a family to
-            support, and she would take his place.
+          from: "00:00:46,25"
+          to: "00:00:56,04"
+          text: "She said that my father had to go home because he had a family to support, and she would take his place."
         sequence-8:
           s: 8
-          from: 00:00:56,04
-          to: 00:01:02,09
-          text: In the end they let them both go, after two days instead of three.
+          from: "00:00:56,04"
+          to: "00:01:02,09"
+          text: "In the end they let them both go, after two days instead of three."
         sequence-9:
           s: 9
-          from: 00:01:02,09
-          to: 00:01:05,23
-          text: My father had slapped the mayor,
+          from: "00:01:02,09"
+          to: "00:01:05,23"
+          text: "My father had slapped the mayor,"
         sequence-10:
           s: 10
-          from: 00:01:05,23
-          to: 00:01:06,29
-          text: ''
+          from: "00:01:05,23"
+          to: "00:01:06,29"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:01:06,29
-          to: 00:01:12,20
-          text: or I should say the podestà, that’s how he was called then.
+          from: "00:01:06,29"
+          to: "00:01:12,20"
+          text: "or I should say the podestà, that’s how he was called then."
         sequence-12:
           s: 12
-          from: 00:01:12,20
-          to: 00:01:17,06
-          text: When they came back home, my sister was really furious.
+          from: "00:01:12,20"
+          to: "00:01:17,06"
+          text: "When they came back home, my sister was really furious."
         sequence-13:
           s: 13
-          from: 00:01:17,06
-          to: 00:01:23,07
-          text: My father could not work as he wasn’t a member of the fascist party,
+          from: "00:01:17,06"
+          to: "00:01:23,07"
+          text: "My father could not work as he wasn’t a member of the fascist party,"
         sequence-14:
           s: 14
-          from: 00:01:23,07
-          to: 00:01:31,09
-          text: and the only one who brought home any money at the time was one of
-            my brothers,
+          from: "00:01:23,07"
+          to: "00:01:31,09"
+          text: "and the only one who brought home any money at the time was one of my brothers,"
         sequence-15:
           s: 15
-          from: 00:01:31,09
-          to: 00:01:39,19
-          text: who had been working in the seminary for a long time then and was
-            paid every two weeks.
+          from: "00:01:31,09"
+          to: "00:01:39,19"
+          text: "who had been working in the seminary for a long time then and was paid every two weeks."
         sequence-16:
           s: 16
-          from: 00:01:39,19
-          to: 00:01:59,00
-          text: ''
+          from: "00:01:39,19"
+          to: "00:01:59,00"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:59,00
-          to: 00:02:10,04
-          text: My mother did whatever she could. She also tried to help the partisans
-            and the people in our village.
+          from: "00:01:59,00"
+          to: "00:02:10,04"
+          text: "My mother did whatever she could. She also tried to help the partisans and the people in our village."
         sequence-18:
           s: 18
-          from: 00:02:10,04
-          to: 00:02:19,24
-          text: 'She would give injections and take care of things: in the mountains
-            nobody had anything at that time.'
+          from: "00:02:10,04"
+          to: "00:02:19,24"
+          text: "She would give injections and take care of things: in the mountains nobody had anything at that time."
         sequence-19:
           s: 19
-          from: 00:02:19,24
-          to: 00:02:26,06
-          text: My mother, poor woman, was the only one who knew how to give injections,
+          from: "00:02:19,24"
+          to: "00:02:26,06"
+          text: "My mother, poor woman, was the only one who knew how to give injections,"
         sequence-20:
           s: 20
-          from: 00:02:26,06
-          to: 00:02:35,04
-          text: so she was always dashing about, even at night, summoned by many families
-            in the village.
+          from: "00:02:26,06"
+          to: "00:02:35,04"
+          text: "so she was always dashing about, even at night, summoned by many families in the village."
         sequence-21:
           s: 21
-          from: 00:02:35,04
-          to: 00:02:37,06
-          text: ''
+          from: "00:02:35,04"
+          to: "00:02:37,06"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:02:37,06
-          to: 00:02:49,23
-          text: One day my parents told me to go look for my sister. As I got there
-            I ended up in a mop-up.
+          from: "00:02:37,06"
+          to: "00:02:49,23"
+          text: "One day my parents told me to go look for my sister. As I got there I ended up in a mop-up."
         sequence-23:
           s: 23
-          from: 00:02:49,23
-          to: 00:03:03,16
-          text: There was also a wounded man with a shattered leg, so my sister and
-            others told me to go with them.
+          from: "00:02:49,23"
+          to: "00:03:03,16"
+          text: "There was also a wounded man with a shattered leg, so my sister and others told me to go with them."
         sequence-24:
           s: 24
-          from: 00:03:03,16
-          to: 00:03:10,09
-          text: We went to Quara di Toano, in the mountains, and then moved towards
-            Modena.
+          from: "00:03:03,16"
+          to: "00:03:10,09"
+          text: "We went to Quara di Toano, in the mountains, and then moved towards Modena."
         sequence-25:
           s: 25
-          from: 00:03:10,09
-          to: 00:03:19,13
-          text: But the following day I decided to go back home, because I had to
-            go tell my parents we were safe.
+          from: "00:03:10,09"
+          to: "00:03:19,13"
+          text: "But the following day I decided to go back home, because I had to go tell my parents we were safe."
         sequence-26:
           s: 26
-          from: 00:03:19,13
-          to: 00:03:29,15
-          text: There had been a big battle in Carpineti, and they had to retreat
-            to the castle at first, but then they had to escape.
+          from: "00:03:19,13"
+          to: "00:03:29,15"
+          text: "There had been a big battle in Carpineti, and they had to retreat to the castle at first, but then they had to escape."
         sequence-27:
           s: 27
-          from: 00:03:29,15
-          to: 00:03:37,22
-          text: So I went back home, but my sister didn’t return home until the war
-            was over, a year later.
+          from: "00:03:29,15"
+          to: "00:03:37,22"
+          text: "So I went back home, but my sister didn’t return home until the war was over, a year later."
         sequence-28:
           s: 28
-          from: 00:03:37,22
-          to: 00:03:42,08
-          text: I would be going back and forth.
+          from: "00:03:37,22"
+          to: "00:03:42,08"
+          text: "I would be going back and forth."
         sequence-29:
           s: 29
-          from: 00:03:42,08
-          to: 00:03:52,12
-          text: I went to the mountains a couple of times, since my parents were worried
-            and wanted me to go see if my sister was safe.
+          from: "00:03:42,08"
+          to: "00:03:52,12"
+          text: "I went to the mountains a couple of times, since my parents were worried and wanted me to go see if my sister was safe."
         sequence-30:
           s: 30
-          from: 00:03:52,12
-          to: 00:04:03,11
-          text: She was only 18 then. When she was in Parma they knew she was with
-            a family, but at that time they were definitely worried.
+          from: "00:03:52,12"
+          to: "00:04:03,11"
+          text: "She was only 18 then. When she was in Parma they knew she was with a family, but at that time they were definitely worried."
         sequence-31:
           s: 31
-          from: 00:04:03,11
-          to: 00:04:08,09
-          text: I would leave early in the morning and run towards the mountains,
+          from: "00:04:03,11"
+          to: "00:04:08,09"
+          text: "I would leave early in the morning and run towards the mountains,"
         sequence-32:
           s: 32
-          from: 00:04:08,09
-          to: 00:04:19,16
-          text: stopping every now and then to ask people if they had seen a partisan
-            unit with a woman. Actually there were two women in the unit then.
+          from: "00:04:08,09"
+          to: "00:04:19,16"
+          text: "stopping every now and then to ask people if they had seen a partisan unit with a woman. Actually there were two women in the unit then."
         sequence-33:
           s: 33
-          from: 00:04:19,16
-          to: 00:04:27,02
-          text: Somebody finally knew where they were, taking me to Gova, towards
-            Mt. Penna, very far away.
+          from: "00:04:19,16"
+          to: "00:04:27,02"
+          text: "Somebody finally knew where they were, taking me to Gova, towards Mt. Penna, very far away."
         sequence-34:
           s: 34
-          from: 00:04:27,02
-          to: 00:04:34,09
-          text: They had run away there because the Germans were looking for them.
+          from: "00:04:27,02"
+          to: "00:04:34,09"
+          text: "They had run away there because the Germans were looking for them."
         sequence-35:
           s: 35
-          from: 00:04:34,09
-          to: 00:04:42,08
-          text: She would always walk behind the rest of the group because she would
-            take care of the wounded.
+          from: "00:04:34,09"
+          to: "00:04:42,08"
+          text: "She would always walk behind the rest of the group because she would take care of the wounded."
         sequence-36:
           s: 36
-          from: 00:04:42,08
-          to: 00:04:53,27
-          text: She wouldn’t carry them, there were others who would help her, but
-            they didn’t have vehicles or horses, nothing at all,
+          from: "00:04:42,08"
+          to: "00:04:53,27"
+          text: "She wouldn’t carry them, there were others who would help her, but they didn’t have vehicles or horses, nothing at all,"
         sequence-37:
           s: 37
-          from: 00:04:53,27
-          to: 00:05:04,02
-          text: so they would often improvise a stretcher – they called it a ladder
-            – and put a cloth over it, if they had one.
+          from: "00:04:53,27"
+          to: "00:05:04,02"
+          text: "so they would often improvise a stretcher – they called it a ladder – and put a cloth over it, if they had one."
         sequence-38:
           s: 38
-          from: 00:05:04,02
-          to: 00:05:09,06
-          text: That’s how four men would carry the wounded.
+          from: "00:05:04,02"
+          to: "00:05:09,06"
+          text: "That’s how four men would carry the wounded."
