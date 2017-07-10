@@ -143,7 +143,7 @@ en:
           s: 27
           from: 00:02:37,03
           to: 00:02:51,20
-          text: 'Maybe another thing: I was malnourished and was given ‘Quaker feeding’.'
+          text: Maybe another thing: I was malnourished and was given ‘Quaker feeding’.
         sequence-28:
           s: 28
           from: 00:02:51,20
@@ -157,11 +157,10 @@ en:
         sequence-30:
           s: 30
           from: 00:03:05,08
-          to: 00:03:06,04
-          text: ''
+          to: 00:03:13,00
+          text: 'That meant that you had additional nutrition.'
         sequence-31:
           s: 31
-          from: 00:03:06,04
+          from: 00:03:13,00
           to: 00:03:30,00
-          text: You have to see that this was 1920/21, where a lot of problems occurred
-            in this post-war period.
+          text: You have to see that this was 1920/21, where a lot of problems occurred in this post-war period.
