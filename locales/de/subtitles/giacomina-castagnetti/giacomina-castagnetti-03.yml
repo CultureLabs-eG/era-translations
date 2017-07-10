@@ -3,13 +3,13 @@ de:
   giacomina-castagnetti:
     chapter-3:
       c: 3
-      title: Anfang des Krieges um Afrika -- War on Africa?
+      title: Anfang des Krieges in Afrika
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:00,13
           to: 00:00:07,15
-          text: Die Vorbereitungen für den Krieg in Afrika sind in Schwung gekommen.
+          text: Die Vorbereitungen für den Krieg in Afrika kamen in Schwung.
         sequence-2:
           s: 2
           from: 00:00:07,15
@@ -19,7 +19,7 @@ de:
           s: 3
           from: 00:00:10,13
           to: 00:00:14,12
-          text: Alle Bemühungen sollten auf den Krieg ausgerichtet werden.
+          text: Alles musste für den Krieg vorbereitet werden.
         sequence-4:
           s: 4
           from: 00:00:14,12
@@ -34,7 +34,7 @@ de:
           s: 6
           from: 00:00:23,18
           to: 00:00:28,00
-          text: denn er könnte einem Soldaten in Afrika helfen.
+          text: denn er könnte einem Soldaten in Afrika nützen.
         sequence-7:
           s: 7
           from: 00:00:28,00
@@ -45,7 +45,7 @@ de:
           from: 00:00:29,25
           to: 00:00:53,00
           text: Ich habe unterschiedliche Geschichten von meinen Brürdern und deren Freunden gehört.
-            Ich sah viel auf zu meinen Brüdern, seit mein Vater gestorben war.
+            Ich sah viel zu meinen Brüdern auf, seit mein Vater gestorben war.
         sequence-9:
           s: 9
           from: 00:00:53,00
@@ -55,7 +55,7 @@ de:
           s: 10
           from: 00:00:57,11
           to: 00:01:08,12
-          text: Er war sehr jung. Einer unserer Nachbarn, der später Vize-President
+          text: Er war sehr jung. Ein Nachbar, der später Vizepräsident
             der Riunite-Molkerei wurde.
         sequence-11:
           s: 11
@@ -66,20 +66,20 @@ de:
           s: 12
           from: 00:01:08,23
           to: 00:01:14,11
-          text: Bezogen auf das, was Mussolini über Bauern sagte,
+          text: Bezogen auf Mussolinis Äußerungen über Bauern,
         sequence-13:
           s: 13
           from: 00:01:14,11
           to: 00:01:22,18
           text: dass sie in den Krieg ziehen müssten, um ein Reich zu begründen und
-            neues Land erobern, um es zu bearbeiten,
+            neues Ackerland erobern,
         sequence-14:
           s: 14
           from: 00:01:22,18
           to: 00:01:31,00
           text:
-            'Ich erinnere mich an Strozzi: "Der Krieg hat noch nie etwas Gutes
-            für die Armen gebracht".'
+            'Ich erinnere mich, dass Strozzi sagte: "Der Krieg hat noch nie etwas Gutes
+            für die Armen gebracht."'
         sequence-15:
           s: 15
           from: 00:01:31,00
@@ -89,13 +89,12 @@ de:
           s: 16
           from: 00:01:31,23
           to: 00:01:40,24
-          text: Etwa zu der gleichen Zeit lud die Gutsherrin alle Landwirte ein, zu
-            ihrem Haus zu kommen
+          text: Etwa zur gleichen Zeit lud die Gutsherrin alle Landwirte in ihr Haus ein
         sequence-17:
           s: 17
           from: 00:01:40,24
           to: 00:01:48,12
-          text: und Mussolini’s Ansprach zum Kriegsbeginn in Afrika zu hören.
+          text: um Mussolinis Ansprache zum Kriegsbeginn in Afrika zu hören.
         sequence-18:
           s: 18
           from: 00:01:48,12
@@ -105,7 +104,7 @@ de:
           s: 19
           from: 00:01:56,19
           to: 00:02:01,20
-          text: Wir konnten nicht ins Haus herreingehen, um es nicht zu beschmutzen.
+          text: Wir konnten nicht ins Haus hereingehen, um es nicht zu beschmutzen.
         sequence-20:
           s: 20
           from: 00:02:01,20
@@ -116,14 +115,13 @@ de:
           s: 21
           from: 00:02:07,08
           to: 00:02:14,29
-          text: Ich war sehr glücklich. Ich ging um etwas ganz andersartiges zu tun, mir ein
-            neues Ding anzuhören.
+          text: Ich war sehr glücklich. Ich war dabei etwas Neues zu erleben.
         sequence-22:
           s: 22
           from: 00:02:14,29
           to: 00:02:24,26
-          text: Als ich das Radio hörte war ich wie benebelt, weil ich nicht verstehen
-            konnte, wo die tiefe Stimme her kam.
+          text: Als ich das Radio hörte, war ich wie benebelt, weil ich nicht verstehen
+            konnte, wo diese tiefe Stimme her kam.
         sequence-23:
           s: 23
           from: 00:02:24,26
@@ -138,7 +136,7 @@ de:
           s: 25
           from: 00:02:33,01
           to: 00:02:38,23
-          text: oder was die Bedeutung hinter den Worten war - im Gegensatz zu meiner Mutter.
+          text: oder was die Bedeutung der Worte war - im Gegensatz zu meiner Mutter.
         sequence-26:
           s: 26
           from: 00:02:38,23
@@ -148,16 +146,16 @@ de:
           s: 27
           from: 00:02:39,26
           to: 00:02:49,09
-          text: Als meiner Mutter auf dem Heimweg die Tränen kamen wurde mir klar,
-            dass es sich um etwas Schreckliches handelte.
+          text: Mir wurde klar, dass es sich um etwas Schreckliches handelte,
+            als meiner Mutter auf dem Heimweg die Tränen kamen.
         sequence-28:
           s: 28
           from: 00:02:49,09
           to: 00:02:59,18
           text: Sie dachte an ihre sechs Söhne, die alle fast alt genug waren, um
-            für den Krieg eingezogen zu werden.
+            in den Krieg ziehen zu müssen.
         sequence-29:
           s: 29
           from: 00:02:59,18
           to: 00:03:05,10
-          text: Von dem Moment an war ich nicht mehr froh, das Radio gehört zu haben.
+          text: Von dem Moment an war ich nicht mehr glücklich, das Radio gehört zu haben.
