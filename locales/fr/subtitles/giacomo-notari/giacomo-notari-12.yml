@@ -1,183 +1,171 @@
----
 fr:
   giacomo-notari:
     chapter-12:
       c: 12
-      title: Partisan every day life; political commissars, why antifascism?
+      title: "Partisan every day life; political commissars, why antifascism?"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,14
-          to: 00:00:12,14
-          text: The last memory I have of my brother was after the mop-up of 1944.
+          from: "00:00:00,14"
+          to: "00:00:12,14"
+          text: "The last memory I have of my brother was after the mop-up of 1944."
         sequence-2:
           s: 2
-          from: 00:00:12,14
-          to: 00:00:19,17
-          text: With this song that went “The moon, the stars talked about love”.
+          from: "00:00:12,14"
+          to: "00:00:19,17"
+          text: "With this song that went “The moon, the stars talked about love”."
         sequence-3:
           s: 3
-          from: 00:00:19,17
-          to: 00:00:23,19
-          text: It was hot then, they used to sing it on the radio.
+          from: "00:00:19,17"
+          to: "00:00:23,19"
+          text: "It was hot then, they used to sing it on the radio."
         sequence-4:
           s: 4
-          from: 00:00:23,19
-          to: 00:00:24,26
-          text: ''
+          from: "00:00:23,19"
+          to: "00:00:24,26"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:24,26
-          to: 00:00:32,03
+          from: "00:00:24,26"
+          to: "00:00:32,03"
           text: "“Oh what a pretty flower, oh what a pretty flower”."
         sequence-6:
           s: 6
-          from: 00:00:32,03
-          to: 00:00:33,02
-          text: ''
+          from: "00:00:32,03"
+          to: "00:00:33,02"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:33,02
-          to: 00:00:38,05
-          text: That was the last time we were singing together, because he died
+          from: "00:00:33,02"
+          to: "00:00:38,05"
+          text: "That was the last time we were singing together, because he died"
         sequence-8:
           s: 8
-          from: 00:00:38,05
-          to: 00:00:44,19
-          text: soon after in Ligonchio, near the house where I met my wife.
+          from: "00:00:38,05"
+          to: "00:00:44,19"
+          text: "soon after in Ligonchio, near the house where I met my wife."
         sequence-9:
           s: 9
-          from: 00:00:44,19
-          to: 00:00:46,15
-          text: ''
+          from: "00:00:44,19"
+          to: "00:00:46,15"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:46,15
-          to: 00:00:48,18
-          text: What did we do?
+          from: "00:00:46,15"
+          to: "00:00:48,18"
+          text: "What did we do?"
         sequence-11:
           s: 11
-          from: 00:00:48,18
-          to: 00:00:54,04
-          text: Cleaned the guns, some helped fixing the meals, another one went to
-            get water.
+          from: "00:00:48,18"
+          to: "00:00:54,04"
+          text: "Cleaned the guns, some helped fixing the meals, another one went to get water."
         sequence-12:
           s: 12
-          from: 00:00:54,04
-          to: 00:00:58,26
-          text: Then at night we also talked, about the few things we knew.
+          from: "00:00:54,04"
+          to: "00:00:58,26"
+          text: "Then at night we also talked, about the few things we knew."
         sequence-13:
           s: 13
-          from: 00:00:58,26
-          to: 00:01:12,29
-          text: We had political commissioners we listened to, but after the war I
-            realized that they didn’t know much as well.
+          from: "00:00:58,26"
+          to: "00:01:12,29"
+          text: "We had political commissioners we listened to, but after the war I realized that they didn’t know much as well."
         sequence-14:
           s: 14
-          from: 00:01:12,29
-          to: 00:01:23,00
-          text: I have to say that their knowledge, their political culture was quite
-            limited.
+          from: "00:01:12,29"
+          to: "00:01:23,00"
+          text: "I have to say that their knowledge, their political culture was quite limited."
         sequence-15:
           s: 15
-          from: 00:01:23,00
-          to: 00:01:24,06
-          text: ''
+          from: "00:01:23,00"
+          to: "00:01:24,06"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:24,06
-          to: 00:01:29,14
-          text: I couldn’t live my life anywhere else, I would really have a hard
-            time.
+          from: "00:01:24,06"
+          to: "00:01:29,14"
+          text: "I couldn’t live my life anywhere else, I would really have a hard time."
         sequence-17:
           s: 17
-          from: 00:01:29,14
-          to: 00:01:30,21
-          text: ''
+          from: "00:01:29,14"
+          to: "00:01:30,21"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:01:30,21
-          to: 00:01:33,17
-          text: That’s how I felt during the war too.
+          from: "00:01:30,21"
+          to: "00:01:33,17"
+          text: "That’s how I felt during the war too."
         sequence-19:
           s: 19
-          from: 00:01:33,17
-          to: 00:01:39,29
-          text: We even slept in beech-trees, I could say it was a beautiful experience.
+          from: "00:01:33,17"
+          to: "00:01:39,29"
+          text: "We even slept in beech-trees, I could say it was a beautiful experience."
         sequence-20:
           s: 20
-          from: 00:01:39,29
-          to: 00:01:48,02
-          text: Looking at today’s consumerism, I also understood that men need only
-            a few things to live.
+          from: "00:01:39,29"
+          to: "00:01:48,02"
+          text: "Looking at today’s consumerism, I also understood that men need only a few things to live."
         sequence-21:
           s: 21
-          from: 00:01:48,02
-          to: 00:01:49,21
-          text: ''
+          from: "00:01:48,02"
+          to: "00:01:49,21"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:01:49,21
-          to: 00:01:56,28
-          text: Today you have stores full of stuff, you don’t know where to put things
-            at home;
+          from: "00:01:49,21"
+          to: "00:01:56,28"
+          text: "Today you have stores full of stuff, you don’t know where to put things at home;"
         sequence-23:
           s: 23
-          from: 00:01:56,28
-          to: 00:02:03,15
-          text: at the time if you had a bottle of water, some bread and cheese,
+          from: "00:01:56,28"
+          to: "00:02:03,15"
+          text: "at the time if you had a bottle of water, some bread and cheese,"
         sequence-24:
           s: 24
-          from: 00:02:03,15
-          to: 00:02:09,24
-          text: you were just as strong as today, maybe even more since you didn’t
-            need to go see the doctor after you ate too much.
+          from: "00:02:03,15"
+          to: "00:02:09,24"
+          text: "you were just as strong as today, maybe even more since you didn’t need to go see the doctor after you ate too much."
         sequence-25:
           s: 25
-          from: 00:02:09,24
-          to: 00:02:15,09
-          text: I learned so much from the resistance, and from the war too.
+          from: "00:02:09,24"
+          to: "00:02:15,09"
+          text: "I learned so much from the resistance, and from the war too."
         sequence-26:
           s: 26
-          from: 00:02:15,09
-          to: 00:02:16,26
-          text: ''
+          from: "00:02:15,09"
+          to: "00:02:16,26"
+          text: ~
         sequence-27:
           s: 27
-          from: 00:02:16,26
-          to: 00:02:21,15
-          text: Real antifascism developed even after the war.
+          from: "00:02:16,26"
+          to: "00:02:21,15"
+          text: "Real antifascism developed even after the war."
         sequence-28:
           s: 28
-          from: 00:02:21,15
-          to: 00:02:29,17
-          text: Along with awareness, as you understood that fascism wasn’t only people
-            with guns.
+          from: "00:02:21,15"
+          to: "00:02:29,17"
+          text: "Along with awareness, as you understood that fascism wasn’t only people with guns."
         sequence-29:
           s: 29
-          from: 00:02:29,17
-          to: 00:02:41,29
-          text: We found ourselves with the parties of Movimento Sociale and L’Uomo
-            Qualunque in 1945-46 reorganizing fascist principles.
+          from: "00:02:29,17"
+          to: "00:02:41,29"
+          text: "We found ourselves with the parties of Movimento Sociale and L’Uomo Qualunque in 1945-46 reorganizing fascist principles."
         sequence-30:
           s: 30
-          from: 00:02:41,29
-          to: 00:02:47,20
-          text: That’s when this feeling arises... Why am I still here at ANPI in
-            Reggio?
+          from: "00:02:41,29"
+          to: "00:02:47,20"
+          text: "That’s when this feeling arises... Why am I still here at ANPI in Reggio?"
         sequence-31:
           s: 31
-          from: 00:02:47,20
-          to: 00:02:49,18
-          text: I’m here to resist.
+          from: "00:02:47,20"
+          to: "00:02:49,18"
+          text: "I’m here to resist."
         sequence-32:
           s: 32
-          from: 00:02:49,18
-          to: 00:02:54,14
-          text: We must create a social fabric that won’t allow fascism again.
+          from: "00:02:49,18"
+          to: "00:02:54,14"
+          text: "We must create a social fabric that won’t allow fascism again."
         sequence-33:
           s: 33
-          from: 00:02:54,14
-          to: 00:03:01,28
-          text: That’s why I say that antifascism matured after the war more than
-            during the war itself.
+          from: "00:02:54,14"
+          to: "00:03:01,28"
+          text: "That’s why I say that antifascism matured after the war more than during the war itself."

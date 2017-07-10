@@ -1,167 +1,161 @@
----
 fr:
   erwin-schulz:
     chapter-1:
       c: 1
-      title: Introduction, School, Malnutrition
+      title: "Introduction, School, Malnutrition"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,19
-          to: 00:00:02,26
-          text: My name is Erwin Schulz.
+          from: "00:00:00,19"
+          to: "00:00:02,26"
+          text: "My name is Erwin Schulz."
         sequence-2:
           s: 2
-          from: 00:00:02,26
-          to: 00:00:04,05
-          text: ''
+          from: "00:00:02,26"
+          to: "00:00:04,05"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:04,05
-          to: 00:00:13,08
-          text: I was born on 13th of October 1912 in Tempelhof (Berlin).
+          from: "00:00:04,05"
+          to: "00:00:13,08"
+          text: "I was born on 13th of October 1912 in Tempelhof (Berlin)."
         sequence-4:
           s: 4
-          from: 00:00:13,08
-          to: 00:00:14,13
-          text: ''
+          from: "00:00:13,08"
+          to: "00:00:14,13"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:14,13
-          to: 00:00:25,01
-          text: My mother definitely had a hard time during the war.
+          from: "00:00:14,13"
+          to: "00:00:25,01"
+          text: "My mother definitely had a hard time during the war."
         sequence-6:
           s: 6
-          from: 00:00:25,01
-          to: 00:00:26,06
-          text: ''
+          from: "00:00:25,01"
+          to: "00:00:26,06"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:26,06
-          to: 00:00:30,29
-          text: In 1915 my sister was born.
+          from: "00:00:26,06"
+          to: "00:00:30,29"
+          text: "In 1915 my sister was born."
         sequence-8:
           s: 8
-          from: 00:00:30,29
-          to: 00:00:32,29
-          text: ''
+          from: "00:00:30,29"
+          to: "00:00:32,29"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:32,29
-          to: 00:00:46,05
-          text: It was especially hard in 1917 (as my father was conscripted as a
-            soldier),
+          from: "00:00:32,29"
+          to: "00:00:46,05"
+          text: "It was especially hard in 1917 (as my father was conscripted as a soldier),"
         sequence-10:
           s: 10
-          from: 00:00:46,05
-          to: 00:00:47,14
-          text: ''
+          from: "00:00:46,05"
+          to: "00:00:47,14"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:47,14
-          to: 00:01:00,02
-          text: where the food situation for the German population became more and
-            more difficult.
+          from: "00:00:47,14"
+          to: "00:01:00,02"
+          text: "where the food situation for the German population became more and more difficult."
         sequence-12:
           s: 12
-          from: 00:01:00,02
-          to: 00:01:01,14
-          text: ''
+          from: "00:01:00,02"
+          to: "00:01:01,14"
+          text: ~
         sequence-13:
           s: 13
-          from: 00:01:01,14
-          to: 00:01:05,19
-          text: I started school in 1919.
+          from: "00:01:01,14"
+          to: "00:01:05,19"
+          text: "I started school in 1919."
         sequence-14:
           s: 14
-          from: 00:01:05,19
-          to: 00:01:07,06
-          text: ''
+          from: "00:01:05,19"
+          to: "00:01:07,06"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:07,06
-          to: 00:01:13,05
-          text: The school was not far away from our parents’ flat.
+          from: "00:01:07,06"
+          to: "00:01:13,05"
+          text: "The school was not far away from our parents’ flat."
         sequence-16:
           s: 16
-          from: 00:01:13,05
-          to: 00:01:14,16
-          text: ''
+          from: "00:01:13,05"
+          to: "00:01:14,16"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:14,16
-          to: 00:01:26,26
-          text: Role model functions developed later with progressing age.
+          from: "00:01:14,16"
+          to: "00:01:26,26"
+          text: "Role model functions developed later with progressing age."
         sequence-18:
           s: 18
-          from: 00:01:26,26
-          to: 00:01:28,28
-          text: ''
+          from: "00:01:26,26"
+          to: "00:01:28,28"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:01:28,28
-          to: 00:01:39,14
-          text: But there was no role model between the teachers I had.
+          from: "00:01:28,28"
+          to: "00:01:39,14"
+          text: "But there was no role model between the teachers I had."
         sequence-20:
           s: 20
-          from: 00:01:39,14
-          to: 00:01:40,28
-          text: ''
+          from: "00:01:39,14"
+          to: "00:01:40,28"
+          text: ~
         sequence-21:
           s: 21
-          from: 00:01:40,28
-          to: 00:01:51,23
-          text: Partly, they were teachers who had been demobbed by the imperial army
+          from: "00:01:40,28"
+          to: "00:01:51,23"
+          text: "Partly, they were teachers who had been demobbed by the imperial army"
         sequence-22:
           s: 22
-          from: 00:01:51,23
-          to: 00:01:53,03
-          text: ''
+          from: "00:01:51,23"
+          to: "00:01:53,03"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:01:53,03
-          to: 00:02:01,09
-          text: and who were put into teaching profession; like the sports teacher
+          from: "00:01:53,03"
+          to: "00:02:01,09"
+          text: "and who were put into teaching profession; like the sports teacher"
         sequence-24:
           s: 24
-          from: 00:02:01,09
-          to: 00:02:10,09
-          text: or the teacher of religious education who had no educational skills.
+          from: "00:02:01,09"
+          to: "00:02:10,09"
+          text: "or the teacher of religious education who had no educational skills."
         sequence-25:
           s: 25
-          from: 00:02:10,09
-          to: 00:02:23,05
-          text: And characteristic for this time was that we had a teacher who was
-            a real bully.
+          from: "00:02:10,09"
+          to: "00:02:23,05"
+          text: "And characteristic for this time was that we had a teacher who was a real bully."
         sequence-26:
           s: 26
-          from: 00:02:23,05
-          to: 00:02:37,03
-          text: When the lesson was about to start, first two or three pupils were
-            given a good thrashing, with the cane.
+          from: "00:02:23,05"
+          to: "00:02:37,03"
+          text: "When the lesson was about to start, first two or three pupils were given a good thrashing, with the cane."
         sequence-27:
           s: 27
-          from: 00:02:37,03
-          to: 00:02:51,20
-          text: 'Maybe another thing: I was malnourished and was given ‘Quaker feeding’.'
+          from: "00:02:37,03"
+          to: "00:02:51,20"
+          text: "Maybe another thing: I was malnourished and was given ‘Quaker feeding’."
         sequence-28:
           s: 28
-          from: 00:02:51,20
-          to: 00:03:00,06
-          text: That was from the United States, from the Quaker association
+          from: "00:02:51,20"
+          to: "00:03:00,06"
+          text: "That was from the United States, from the Quaker association"
         sequence-29:
           s: 29
-          from: 00:03:00,06
-          to: 00:03:05,08
-          text: and there I got half a litre of milk soup and a bread roll.
+          from: "00:03:00,06"
+          to: "00:03:05,08"
+          text: "and there I got half a litre of milk soup and a bread roll."
         sequence-30:
           s: 30
-          from: 00:03:05,08
-          to: 00:03:06,04
-          text: ''
+          from: "00:03:05,08"
+          to: "00:03:06,04"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:03:06,04
-          to: 00:03:30,00
-          text: You have to see that this was 1920/21, where a lot of problems occurred
-            in this post-war period.
+          from: "00:03:06,04"
+          to: "00:03:30,00"
+          text: "You have to see that this was 1920/21, where a lot of problems occurred in this post-war period."

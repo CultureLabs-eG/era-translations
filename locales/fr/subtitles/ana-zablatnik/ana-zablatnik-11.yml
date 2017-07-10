@@ -1,48 +1,46 @@
----
 fr:
   ana-zablatnik:
     chapter-11:
       c: 11
-      title: Her husband, a deserter
+      title: "Her husband, a deserter"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:03,04
-          to: 00:00:06,16
-          text: My later husband was a deserter, as well.
+          from: "00:00:03,04"
+          to: "00:00:06,16"
+          text: "My later husband was a deserter, as well."
         sequence-2:
           s: 2
-          from: 00:00:06,16
-          to: 00:00:13,16
-          text: He was on holiday and was at home in July 1944.
+          from: "00:00:06,16"
+          to: "00:00:13,16"
+          text: "He was on holiday and was at home in July 1944."
         sequence-3:
           s: 3
-          from: 00:00:13,16
-          to: 00:00:21,22
-          text: Instead of going back, he said good bye and went to Klagenfurt.
+          from: "00:00:13,16"
+          to: "00:00:21,22"
+          text: "Instead of going back, he said good bye and went to Klagenfurt."
         sequence-4:
           s: 4
-          from: 00:00:21,22
-          to: 00:00:31,19
-          text: There he didn’t board the train, but went to a neighbour’s, that night,
+          from: "00:00:21,22"
+          to: "00:00:31,19"
+          text: "There he didn’t board the train, but went to a neighbour’s, that night,"
         sequence-5:
           s: 5
-          from: 00:00:31,19
-          to: 00:00:37,23
-          text: where another one already was (from the Wehrmacht as well).
+          from: "00:00:31,19"
+          to: "00:00:37,23"
+          text: "where another one already was (from the Wehrmacht as well)."
         sequence-6:
           s: 6
-          from: 00:00:37,23
-          to: 00:00:44,09
-          text: They made a bunker for them and that was where they stayed until January
-            1945.
+          from: "00:00:37,23"
+          to: "00:00:44,09"
+          text: "They made a bunker for them and that was where they stayed until January 1945."
         sequence-7:
           s: 7
-          from: 00:00:44,09
-          to: 00:00:46,05
-          text: ''
+          from: "00:00:44,09"
+          to: "00:00:46,05"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:46,05
-          to: 00:00:51,00
-          text: He was in the resistance, too.
+          from: "00:00:46,05"
+          to: "00:00:51,00"
+          text: "He was in the resistance, too."

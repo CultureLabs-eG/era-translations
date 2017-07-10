@@ -1,150 +1,146 @@
----
 fr:
   ana-zablatnik:
     chapter-7:
       c: 7
-      title: In prison
+      title: "In prison"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,24
-          to: 00:00:03,26
-          text: I was in prison as well. There was a raid.
+          from: "00:00:01,24"
+          to: "00:00:03,26"
+          text: "I was in prison as well. There was a raid."
         sequence-2:
           s: 2
-          from: 00:00:03,26
-          to: 00:00:12,03
-          text: Somebody had said – that was at the end of October – we were having
-            contacts.
+          from: "00:00:03,26"
+          to: "00:00:12,03"
+          text: "Somebody had said – that was at the end of October – we were having contacts."
         sequence-3:
           s: 3
-          from: 00:00:12,03
-          to: 00:00:13,28
-          text: ''
+          from: "00:00:12,03"
+          to: "00:00:13,28"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:13,28
-          to: 00:00:22,21
-          text: 'Once there was one, she was imprisoned as well, she always said:'
+          from: "00:00:13,28"
+          to: "00:00:22,21"
+          text: "Once there was one, she was imprisoned as well, she always said:"
         sequence-5:
           s: 5
-          from: 00:00:22,21
-          to: 00:00:26,12
+          from: "00:00:22,21"
+          to: "00:00:26,12"
           text: "“If something happens, would you want to come with us?”"
         sequence-6:
           s: 6
-          from: 00:00:26,12
-          to: 00:00:30,09
-          text: 'So I asked: “Well, what’s going on? Yes.” “You will see.“'
+          from: "00:00:26,12"
+          to: "00:00:30,09"
+          text: "So I asked: “Well, what’s going on? Yes.” “You will see.“"
         sequence-7:
           s: 7
-          from: 00:00:30,09
-          to: 00:00:34,12
-          text: Something was given away, allegedly.
+          from: "00:00:30,09"
+          to: "00:00:34,12"
+          text: "Something was given away, allegedly."
         sequence-8:
           s: 8
-          from: 00:00:34,12
-          to: 00:00:50,00
-          text: There were two supervisors that had connection to the communists.
+          from: "00:00:34,12"
+          to: "00:00:50,00"
+          text: "There were two supervisors that had connection to the communists."
         sequence-9:
           s: 9
-          from: 00:00:50,00
-          to: 00:00:56,09
-          text: Two or three busses were supposed to come and pick us up later on.
+          from: "00:00:50,00"
+          to: "00:00:56,09"
+          text: "Two or three busses were supposed to come and pick us up later on."
         sequence-10:
           s: 10
-          from: 00:00:56,09
-          to: 00:01:04,01
-          text: That “game” was given away, and these two were taken
+          from: "00:00:56,09"
+          to: "00:01:04,01"
+          text: "That “game” was given away, and these two were taken"
         sequence-11:
           s: 11
-          from: 00:01:04,01
-          to: 00:01:12,03
-          text: to the prison in ‘Völkermarkter Str.’ together with some others.
+          from: "00:01:04,01"
+          to: "00:01:12,03"
+          text: "to the prison in ‘Völkermarkter Str.’ together with some others."
         sequence-12:
           s: 12
-          from: 00:01:12,03
-          to: 00:01:19,04
-          text: They didn’t search us, but everything else.
+          from: "00:01:12,03"
+          to: "00:01:19,04"
+          text: "They didn’t search us, but everything else."
         sequence-13:
           s: 13
-          from: 00:01:19,04
-          to: 00:01:25,10
-          text: All the straw mattresses were torn open and everything searched.
+          from: "00:01:19,04"
+          to: "00:01:25,10"
+          text: "All the straw mattresses were torn open and everything searched."
         sequence-14:
           s: 14
-          from: 00:01:25,10
-          to: 00:01:32,09
-          text: Whatever we had with us was all piled up in a heap in the yard.
+          from: "00:01:25,10"
+          to: "00:01:32,09"
+          text: "Whatever we had with us was all piled up in a heap in the yard."
         sequence-15:
           s: 15
-          from: 00:01:32,09
-          to: 00:01:34,10
-          text: They did not find anything.
+          from: "00:01:32,09"
+          to: "00:01:34,10"
+          text: "They did not find anything."
         sequence-16:
           s: 16
-          from: 00:01:34,10
-          to: 00:01:36,08
-          text: ''
+          from: "00:01:34,10"
+          to: "00:01:36,08"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:36,08
-          to: 00:01:39,28
-          text: But as they were looking for evidence
+          from: "00:01:36,08"
+          to: "00:01:39,28"
+          text: "But as they were looking for evidence"
         sequence-18:
           s: 18
-          from: 00:01:39,28
-          to: 00:01:46,07
-          text: we had to line up in the corridor, 1 meter apart from each other,
-            facing the wall.
+          from: "00:01:39,28"
+          to: "00:01:46,07"
+          text: "we had to line up in the corridor, 1 meter apart from each other, facing the wall."
         sequence-19:
           s: 19
-          from: 00:01:46,07
-          to: 00:01:47,17
-          text: ''
+          from: "00:01:46,07"
+          to: "00:01:47,17"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:01:47,17
-          to: 00:01:50,07
-          text: Then we had to go into the cell.
+          from: "00:01:47,17"
+          to: "00:01:50,07"
+          text: "Then we had to go into the cell."
         sequence-21:
           s: 21
-          from: 00:01:50,07
-          to: 00:01:58,10
-          text: There we had to get fully undressed and they searched us whether we
-            had anything hidden.
+          from: "00:01:50,07"
+          to: "00:01:58,10"
+          text: "There we had to get fully undressed and they searched us whether we had anything hidden."
         sequence-22:
           s: 22
-          from: 00:01:58,10
-          to: 00:02:03,05
-          text: I don’t know where you can hide anything if you don’t wear anything.
+          from: "00:01:58,10"
+          to: "00:02:03,05"
+          text: "I don’t know where you can hide anything if you don’t wear anything."
         sequence-23:
           s: 23
-          from: 00:02:03,05
-          to: 00:02:04,26
-          text: ''
+          from: "00:02:03,05"
+          to: "00:02:04,26"
+          text: ~
         sequence-24:
           s: 24
-          from: 00:02:04,26
-          to: 00:02:12,13
-          text: That was done by the Gestapo and it was another bitter experience.
+          from: "00:02:04,26"
+          to: "00:02:12,13"
+          text: "That was done by the Gestapo and it was another bitter experience."
         sequence-25:
           s: 25
-          from: 00:02:12,13
-          to: 00:02:13,28
-          text: ''
+          from: "00:02:12,13"
+          to: "00:02:13,28"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:02:13,28
-          to: 00:02:18,29
-          text: You were not even a human being any more, not even as good as a fly.
+          from: "00:02:13,28"
+          to: "00:02:18,29"
+          text: "You were not even a human being any more, not even as good as a fly."
         sequence-27:
           s: 27
-          from: 00:02:18,29
-          to: 00:02:20,15
-          text: ''
+          from: "00:02:18,29"
+          to: "00:02:20,15"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:02:20,15
-          to: 00:02:29,20
-          text: Even them you let go occasionally so they can fly away.
+          from: "00:02:20,15"
+          to: "00:02:29,20"
+          text: "Even them you let go occasionally so they can fly away."

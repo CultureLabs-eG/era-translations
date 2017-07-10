@@ -1,27 +1,26 @@
----
 fr:
   language: language
-  interviewers: interview team
-  cameramen: camera team
-  date_of_interview: date of interview
-  alias_name: alias name
-  begin_of_engagement:
-  end_of_engagement:
-  resistance_groups: resistance groups
-  kind_of_resistance: kind of resistance
+  interviewers: "interview team"
+  cameramen: "camera team"
+  date_of_interview: "date of interview"
+  alias_name: "alias name"
+  begin_of_engagement: ~
+  end_of_engagement: ~
+  resistance_groups: "resistance groups"
+  kind_of_resistance: "kind of resistance"
   firstname: firstname
   lastname: lastname
   gender: gender
   born_on: birthdate
-  died_on: died on
-  born_in: born in %{date}
+  died_on: "died on"
+  born_in: "born in %{date}"
   country: country
   religion: religion
-  place_of_birth: place of birth
-  place_of_residence: place of residence
+  place_of_birth: "place of birth"
+  place_of_residence: "place of residence"
   home: Home
   menu: Menu
-  about_era: About ERA
+  about_era: "About ERA"
   testimonies: Testimonies
   resistance: Resistance
   participate: Participate
@@ -29,10 +28,21 @@ fr:
   contact: Contact
   partners: Partners
   imprint: Imprint
-  mission_statement: ERA is a space in which individual stories of people having resisted against the terror, humiliation and despair fascism brought over Europe are kept alive and visible for everybody.
+  mission_statement: "ERA is a space in which individual stories of people having resisted against the terror, humiliation and despair fascism brought over Europe are kept alive and visible for everybody."
   shortbio: Biography
   transcript: Transcription
   photo_gallery: Gallery
-  resistance_movement_in: Resistance movements in...
-  subtitle_flash_message: For this video interview subtitles are available. Please use the subtitle button in the YouTube player to show/hide them.
-
+  era_languages:
+    de: German
+    fr: French
+    en: English
+    pl: Polish
+    it: Italian
+    sl: Slovenian
+  download_links:
+    transcript_interview_language: "Original interview language (%{language})"
+    transcript_interview_translation: "%{language} translation"
+  download_transcript: "Download transcript (PDF format)"
+  resistance_movement_in: "Resistance movements in..."
+  testimonies_from: "Testimonies from %{country}"
+  subtitle_flash_message: "For this video interview subtitles are available. Please use the subtitle button in the YouTube player to show/hide them."

@@ -1,72 +1,71 @@
----
 fr:
   romana-verdel:
     chapter-9:
       c: 9
-      title: Hate against Germans for long time
+      title: "Hate against Germans for long time"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,17
-          to: 00:00:04,13
-          text: I did have problems because of that.
+          from: "00:00:00,17"
+          to: "00:00:04,13"
+          text: "I did have problems because of that."
         sequence-2:
           s: 2
-          from: 00:00:04,13
-          to: 00:00:06,22
-          text: ''
+          from: "00:00:04,13"
+          to: "00:00:06,22"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:06,22
-          to: 00:00:12,03
-          text: As long as I was healthy, nothing; but when I was ill,
+          from: "00:00:06,22"
+          to: "00:00:12,03"
+          text: "As long as I was healthy, nothing; but when I was ill,"
         sequence-4:
           s: 4
-          from: 00:00:12,03
-          to: 00:00:13,25
-          text: ''
+          from: "00:00:12,03"
+          to: "00:00:13,25"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:13,25
-          to: 00:00:23,15
-          text: I started having delusions, bad feelings and fears about people.
+          from: "00:00:13,25"
+          to: "00:00:23,15"
+          text: "I started having delusions, bad feelings and fears about people."
         sequence-6:
           s: 6
-          from: 00:00:23,15
-          to: 00:00:26,16
-          text: ''
+          from: "00:00:23,15"
+          to: "00:00:26,16"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:00:26,16
-          to: 00:00:32,08
-          text: When I saw somebody in uniform coming, I used to hide.
+          from: "00:00:26,16"
+          to: "00:00:32,08"
+          text: "When I saw somebody in uniform coming, I used to hide."
         sequence-8:
           s: 8
-          from: 00:00:32,08
-          to: 00:00:34,12
-          text: ''
+          from: "00:00:32,08"
+          to: "00:00:34,12"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:00:34,12
-          to: 00:00:38,21
-          text: The Germans were my deadly enemies for a long time.
+          from: "00:00:34,12"
+          to: "00:00:38,21"
+          text: "The Germans were my deadly enemies for a long time."
         sequence-10:
           s: 10
-          from: 00:00:38,21
-          to: 00:00:44,15
-          text: It took many years before I had it worked out
+          from: "00:00:38,21"
+          to: "00:00:44,15"
+          text: "It took many years before I had it worked out"
         sequence-11:
           s: 11
-          from: 00:00:44,15
-          to: 00:00:45,26
-          text: ''
+          from: "00:00:44,15"
+          to: "00:00:45,26"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:00:45,26
-          to: 00:00:51,23
-          text: that it weren’t the Germans as such – it were just the fascists.
+          from: "00:00:45,26"
+          to: "00:00:51,23"
+          text: "that it weren’t the Germans as such – it were just the fascists."
         sequence-13:
           s: 13
-          from: 00:00:51,23
-          to: 00:00:58,12
-          text: But not all are German; they can be from anywhere, in other countries.
+          from: "00:00:51,23"
+          to: "00:00:58,12"
+          text: "But not all are German; they can be from anywhere, in other countries."

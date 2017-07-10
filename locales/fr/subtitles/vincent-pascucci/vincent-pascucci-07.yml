@@ -1,280 +1,261 @@
----
 fr:
   vincent-pascucci:
     chapter-7:
       c: 7
-      title: Liberation; Exchange of prisoners
+      title: "Liberation; Exchange of prisoners"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,20
-          to: 00:00:07,27
-          text: Nanterre was liberated on the following day, August 21st, 1944.
+          from: "00:00:00,20"
+          to: "00:00:07,27"
+          text: "Nanterre was liberated on the following day, August 21st, 1944."
         sequence-2:
           s: 2
-          from: 00:00:07,27
-          to: 00:00:19,10
-          text: The German officers all left for Mont Valérien, the only place they
-            felt safe.
+          from: "00:00:07,27"
+          to: "00:00:19,10"
+          text: "The German officers all left for Mont Valérien, the only place they felt safe."
         sequence-3:
           s: 3
-          from: 00:00:19,10
-          to: 00:00:22,10
-          text: ''
+          from: "00:00:19,10"
+          to: "00:00:22,10"
+          text: ~
         sequence-4:
           s: 4
-          from: 00:00:22,10
-          to: 00:00:30,02
-          text: The Liberation Committee was installed.
+          from: "00:00:22,10"
+          to: "00:00:30,02"
+          text: "The Liberation Committee was installed."
         sequence-5:
           s: 5
-          from: 00:00:30,02
-          to: 00:00:40,08
-          text: ''
+          from: "00:00:30,02"
+          to: "00:00:40,08"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:40,08
-          to: 00:00:52,26
-          text: Mont Valérien is a fort from the time before the Paris Commune.
+          from: "00:00:40,08"
+          to: "00:00:52,26"
+          text: "Mont Valérien is a fort from the time before the Paris Commune."
         sequence-7:
           s: 7
-          from: 00:00:52,26
-          to: 00:00:55,13
-          text: ''
+          from: "00:00:52,26"
+          to: "00:00:55,13"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:55,13
-          to: 00:01:09,03
-          text: There the resistance fighters were shot. Each time the resistance
-            attacked the German troops.
+          from: "00:00:55,13"
+          to: "00:01:09,03"
+          text: "There the resistance fighters were shot. Each time the resistance attacked the German troops."
         sequence-9:
           s: 9
-          from: 00:01:09,03
-          to: 00:01:24,16
-          text: General Stüplinen ordered for every killed German, one hundred resistance
-            fighters should be executed.
+          from: "00:01:09,03"
+          to: "00:01:24,16"
+          text: "General Stüplinen ordered for every killed German, one hundred resistance fighters should be executed."
         sequence-10:
           s: 10
-          from: 00:01:24,16
-          to: 00:01:42,05
-          text: We identified 1015 corpses of people who had been shot between 1941
-            and 1944.
+          from: "00:01:24,16"
+          to: "00:01:42,05"
+          text: "We identified 1015 corpses of people who had been shot between 1941 and 1944."
         sequence-11:
           s: 11
-          from: 00:01:42,05
-          to: 00:01:43,18
-          text: ''
+          from: "00:01:42,05"
+          to: "00:01:43,18"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:43,18
-          to: 00:01:47,08
-          text: It was an execution place.
+          from: "00:01:43,18"
+          to: "00:01:47,08"
+          text: "It was an execution place."
         sequence-13:
           s: 13
-          from: 00:01:47,08
-          to: 00:01:58,00
-          text: ''
+          from: "00:01:47,08"
+          to: "00:01:58,00"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:58,00
-          to: 00:02:12,14
-          text: The Germans couldn’t move anymore, as all the streets leading there
-            were barricaded by the resistance.
+          from: "00:01:58,00"
+          to: "00:02:12,14"
+          text: "The Germans couldn’t move anymore, as all the streets leading there were barricaded by the resistance."
         sequence-15:
           s: 15
-          from: 00:02:12,14
-          to: 00:02:26,15
-          text: Some Germans were in the Paris water works. They had intended to blow
-            up the water basins, but they were caught.
+          from: "00:02:12,14"
+          to: "00:02:26,15"
+          text: "Some Germans were in the Paris water works. They had intended to blow up the water basins, but they were caught."
         sequence-16:
           s: 16
-          from: 00:02:26,15
-          to: 00:02:34,15
-          text: So there was a prisoner exchange between those Germans
+          from: "00:02:26,15"
+          to: "00:02:34,15"
+          text: "So there was a prisoner exchange between those Germans"
         sequence-17:
           s: 17
-          from: 00:02:34,15
-          to: 00:02:43,06
-          text: and the last prisoners the Germans had taken, and had no nerve to
-            shoot.
+          from: "00:02:34,15"
+          to: "00:02:43,06"
+          text: "and the last prisoners the Germans had taken, and had no nerve to shoot."
         sequence-18:
           s: 18
-          from: 00:02:43,06
-          to: 00:02:49,19
-          text: That is how we found out exactly what had happened to Louis Meunier.
+          from: "00:02:43,06"
+          to: "00:02:49,19"
+          text: "That is how we found out exactly what had happened to Louis Meunier."
         sequence-19:
           s: 19
-          from: 00:02:49,19
-          to: 00:03:00,09
-          text: 'Back to the Nazis in Mont Valérien: They refused to give themselves
-            up to the resistance.'
+          from: "00:02:49,19"
+          to: "00:03:00,09"
+          text: "Back to the Nazis in Mont Valérien: They refused to give themselves up to the resistance."
         sequence-20:
           s: 20
-          from: 00:03:00,09
-          to: 00:03:09,05
-          text: One of them said they would only give themselves up to the regular
-            army.
+          from: "00:03:00,09"
+          to: "00:03:09,05"
+          text: "One of them said they would only give themselves up to the regular army."
         sequence-21:
           s: 21
-          from: 00:03:09,05
-          to: 00:03:17,12
-          text: Our commander went to see Colonel Rémy from the Leclerc Division,
+          from: "00:03:09,05"
+          to: "00:03:17,12"
+          text: "Our commander went to see Colonel Rémy from the Leclerc Division,"
         sequence-22:
           s: 22
-          from: 00:03:17,12
-          to: 00:03:24,25
-          text: who had been quarantined in the Bois de Boulogne with his brigade.
+          from: "00:03:17,12"
+          to: "00:03:24,25"
+          text: "who had been quarantined in the Bois de Boulogne with his brigade."
         sequence-23:
           s: 23
-          from: 00:03:24,25
-          to: 00:03:31,21
-          text: Colonel Rémy went up to the fort and they gave themselves in.
+          from: "00:03:24,25"
+          to: "00:03:31,21"
+          text: "Colonel Rémy went up to the fort and they gave themselves in."
         sequence-24:
           s: 24
-          from: 00:03:31,21
-          to: 00:03:33,16
-          text: ''
+          from: "00:03:31,21"
+          to: "00:03:33,16"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:03:33,16
-          to: 00:03:40,04
-          text: I didn’t have much time to enjoy the liberation.
+          from: "00:03:33,16"
+          to: "00:03:40,04"
+          text: "I didn’t have much time to enjoy the liberation."
         sequence-26:
           s: 26
-          from: 00:03:40,04
-          to: 00:03:48,25
-          text: During the transition period, I was responsible for the security of
-            Raymond Barbet,
+          from: "00:03:40,04"
+          to: "00:03:48,25"
+          text: "During the transition period, I was responsible for the security of Raymond Barbet,"
         sequence-27:
           s: 27
-          from: 00:03:48,25
-          to: 00:03:55,22
-          text: who was responsible for the resistance of the railroad workers.
+          from: "00:03:48,25"
+          to: "00:03:55,22"
+          text: "who was responsible for the resistance of the railroad workers."
         sequence-28:
           s: 28
-          from: 00:03:55,22
-          to: 00:04:08,06
-          text: He had organized the insurrection-strike of the railroad workers on
-            August 10th, 1944, sparking the nation-wide insurrection.
+          from: "00:03:55,22"
+          to: "00:04:08,06"
+          text: "He had organized the insurrection-strike of the railroad workers on August 10th, 1944, sparking the nation-wide insurrection."
         sequence-29:
           s: 29
-          from: 00:04:08,06
-          to: 00:04:21,20
-          text: I was responsible for his safety, as still collaborators and other
-            dangers were lurking.
+          from: "00:04:08,06"
+          to: "00:04:21,20"
+          text: "I was responsible for his safety, as still collaborators and other dangers were lurking."
         sequence-30:
           s: 30
-          from: 00:04:21,20
-          to: 00:04:23,03
-          text: ''
+          from: "00:04:21,20"
+          to: "00:04:23,03"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:04:23,03
-          to: 00:04:37,25
-          text: I myself went up to the fort on August 28th, August 29th.
+          from: "00:04:23,03"
+          to: "00:04:37,25"
+          text: "I myself went up to the fort on August 28th, August 29th."
         sequence-32:
           s: 32
-          from: 00:04:37,25
-          to: 00:04:39,15
-          text: ''
+          from: "00:04:37,25"
+          to: "00:04:39,15"
+          text: ~
         sequence-33:
           s: 33
-          from: 00:04:39,15
-          to: 00:04:43,23
-          text: We were organized militarily
+          from: "00:04:39,15"
+          to: "00:04:43,23"
+          text: "We were organized militarily"
         sequence-34:
           s: 34
-          from: 00:04:43,23
-          to: 00:05:00,21
-          text: and I had obtained the rank of lieutenant in the resistance and was
-            given a section of 50 resistance fighters.
+          from: "00:04:43,23"
+          to: "00:05:00,21"
+          text: "and I had obtained the rank of lieutenant in the resistance and was given a section of 50 resistance fighters."
         sequence-35:
           s: 35
-          from: 00:05:00,21
-          to: 00:05:06,05
-          text: We called it the Louis Meunier section in his memory.
+          from: "00:05:00,21"
+          to: "00:05:06,05"
+          text: "We called it the Louis Meunier section in his memory."
         sequence-36:
           s: 36
-          from: 00:05:06,05
-          to: 00:05:13,29
-          text: ''
+          from: "00:05:06,05"
+          to: "00:05:13,29"
+          text: ~
         sequence-37:
           s: 37
-          from: 00:05:13,29
-          to: 00:05:20,01
-          text: What I felt at the liberation? Well, a lot of joy!
+          from: "00:05:13,29"
+          to: "00:05:20,01"
+          text: "What I felt at the liberation? Well, a lot of joy!"
         sequence-38:
           s: 38
-          from: 00:05:20,01
-          to: 00:05:24,21
-          text: It was like a big party.
+          from: "00:05:20,01"
+          to: "00:05:24,21"
+          text: "It was like a big party."
         sequence-39:
           s: 39
-          from: 00:05:24,21
-          to: 00:05:36,10
-          text: Even those who hadn’t done anything or maybe taken advantage of the
-            situation now called themselves resistance fighters.
+          from: "00:05:24,21"
+          to: "00:05:36,10"
+          text: "Even those who hadn’t done anything or maybe taken advantage of the situation now called themselves resistance fighters."
         sequence-40:
           s: 40
-          from: 00:05:36,10
-          to: 00:05:49,29
-          text: It was a huge joy to have liberated France, even though it wasn’t
-            quite over.
+          from: "00:05:36,10"
+          to: "00:05:49,29"
+          text: "It was a huge joy to have liberated France, even though it wasn’t quite over."
         sequence-41:
           s: 41
-          from: 00:05:49,29
-          to: 00:05:52,12
-          text: ''
+          from: "00:05:49,29"
+          to: "00:05:52,12"
+          text: ~
         sequence-42:
           s: 42
-          from: 00:05:52,12
-          to: 00:06:05,29
-          text: Alsace-Lorraine was still occupied; there was still the submarine
-            basis in the enclave of La Rochelle.
+          from: "00:05:52,12"
+          to: "00:06:05,29"
+          text: "Alsace-Lorraine was still occupied; there was still the submarine basis in the enclave of La Rochelle."
         sequence-43:
           s: 43
-          from: 00:06:05,29
-          to: 00:06:10,26
-          text: ''
+          from: "00:06:05,29"
+          to: "00:06:10,26"
+          text: ~
         sequence-44:
           s: 44
-          from: 00:06:10,26
-          to: 00:06:15,07
-          text: But really it was liberation.
+          from: "00:06:10,26"
+          to: "00:06:15,07"
+          text: "But really it was liberation."
         sequence-45:
           s: 45
-          from: 00:06:15,07
-          to: 00:06:21,04
-          text: ''
+          from: "00:06:15,07"
+          to: "00:06:21,04"
+          text: ~
         sequence-46:
           s: 46
-          from: 00:06:21,04
-          to: 00:06:30,18
-          text: We had the satisfaction of saying that we had won.
+          from: "00:06:21,04"
+          to: "00:06:30,18"
+          text: "We had the satisfaction of saying that we had won."
         sequence-47:
           s: 47
-          from: 00:06:30,18
-          to: 00:06:42,20
-          text: Not all of the comrades that had been in the group with us joined
-            the army afterwards.
+          from: "00:06:30,18"
+          to: "00:06:42,20"
+          text: "Not all of the comrades that had been in the group with us joined the army afterwards."
         sequence-48:
           s: 48
-          from: 00:06:42,20
-          to: 00:06:52,13
-          text: But we had committed ourselves through the entire war.
+          from: "00:06:42,20"
+          to: "00:06:52,13"
+          text: "But we had committed ourselves through the entire war."
         sequence-49:
           s: 49
-          from: 00:06:52,13
-          to: 00:06:58,05
-          text: ''
+          from: "00:06:52,13"
+          to: "00:06:58,05"
+          text: ~
         sequence-50:
           s: 50
-          from: 00:06:58,05
-          to: 00:07:06,24
-          text: I continued because I wanted to avenge Louis. At his funeral we had
-            sworn that we would avenge him.
+          from: "00:06:58,05"
+          to: "00:07:06,24"
+          text: "I continued because I wanted to avenge Louis. At his funeral we had sworn that we would avenge him."
         sequence-51:
           s: 51
-          from: 00:07:06,24
-          to: 00:07:15,27
-          text: That meant to fight the Nazis until the end.
+          from: "00:07:06,24"
+          to: "00:07:15,27"
+          text: "That meant to fight the Nazis until the end."

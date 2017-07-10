@@ -1,225 +1,211 @@
----
 fr:
   alenka-gerlovic:
     chapter-7:
       c: 7
-      title: Hiding; Alenka joins partisan movement
+      title: "Hiding; Alenka joins partisan movement"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,11
-          to: 00:00:08,18
-          text: As soon as my father was taken away, I began to sleep elsewhere.
+          from: "00:00:00,11"
+          to: "00:00:08,18"
+          text: "As soon as my father was taken away, I began to sleep elsewhere."
         sequence-2:
           s: 2
-          from: 00:00:08,18
-          to: 00:00:15,12
-          text: As long as my family was around,
+          from: "00:00:08,18"
+          to: "00:00:15,12"
+          text: "As long as my family was around,"
         sequence-3:
           s: 3
-          from: 00:00:15,12
-          to: 00:00:29,11
-          text: they wouldn’t let me go underground because it might evoke my family
-            having to pay for it.
+          from: "00:00:15,12"
+          to: "00:00:29,11"
+          text: "they wouldn’t let me go underground because it might evoke my family having to pay for it."
         sequence-4:
           s: 4
-          from: 00:00:29,11
-          to: 00:00:36,23
-          text: They could be taken away to the internment camp etc.
+          from: "00:00:29,11"
+          to: "00:00:36,23"
+          text: "They could be taken away to the internment camp etc."
         sequence-5:
           s: 5
-          from: 00:00:36,23
-          to: 00:00:38,00
-          text: ''
+          from: "00:00:36,23"
+          to: "00:00:38,00"
+          text: ~
         sequence-6:
           s: 6
-          from: 00:00:38,00
-          to: 00:00:44,07
-          text: But when they took my father away, and then 14 days later
+          from: "00:00:38,00"
+          to: "00:00:44,07"
+          text: "But when they took my father away, and then 14 days later"
         sequence-7:
           s: 7
-          from: 00:00:44,07
-          to: 00:00:54,25
-          text: evicted my mother from the apartment, I knew that I couldn’t stay
-            in a legal apartment anymore.
+          from: "00:00:44,07"
+          to: "00:00:54,25"
+          text: "evicted my mother from the apartment, I knew that I couldn’t stay in a legal apartment anymore."
         sequence-8:
           s: 8
-          from: 00:00:54,25
-          to: 00:01:00,11
-          text: ''
+          from: "00:00:54,25"
+          to: "00:01:00,11"
+          text: ~
         sequence-9:
           s: 9
-          from: 00:01:00,11
-          to: 00:01:07,17
-          text: I immediately moved out and over to the house of a colleague, Erni
-            Korijari.
+          from: "00:01:00,11"
+          to: "00:01:07,17"
+          text: "I immediately moved out and over to the house of a colleague, Erni Korijari."
         sequence-10:
           s: 10
-          from: 00:01:07,17
-          to: 00:01:18,25
-          text: She was a member of the LF and worked the props at the Ljubljana Drama
-            house. She took me into hiding in her place.
+          from: "00:01:07,17"
+          to: "00:01:18,25"
+          text: "She was a member of the LF and worked the props at the Ljubljana Drama house. She took me into hiding in her place."
         sequence-11:
           s: 11
-          from: 00:01:18,25
-          to: 00:01:25,20
-          text: A few days after I moved, the Gestapo visited my mother,
+          from: "00:01:18,25"
+          to: "00:01:25,20"
+          text: "A few days after I moved, the Gestapo visited my mother,"
         sequence-12:
           s: 12
-          from: 00:01:25,20
-          to: 00:01:34,08
-          text: she didn’t have her own apartment anymore and stayed at her sister’s
-            place.
+          from: "00:01:25,20"
+          to: "00:01:34,08"
+          text: "she didn’t have her own apartment anymore and stayed at her sister’s place."
         sequence-13:
           s: 13
-          from: 00:01:34,08
-          to: 00:01:36,04
-          text: ''
+          from: "00:01:34,08"
+          to: "00:01:36,04"
+          text: ~
         sequence-14:
           s: 14
-          from: 00:01:36,04
-          to: 00:01:44,09
-          text: They wanted to know where I was. My mother didn’t know.
+          from: "00:01:36,04"
+          to: "00:01:44,09"
+          text: "They wanted to know where I was. My mother didn’t know."
         sequence-15:
           s: 15
-          from: 00:01:44,09
-          to: 00:01:53,28
-          text: But she got the message to me that the Gestapo had come looking for
-            me.
+          from: "00:01:44,09"
+          to: "00:01:53,28"
+          text: "But she got the message to me that the Gestapo had come looking for me."
         sequence-16:
           s: 16
-          from: 00:01:53,28
-          to: 00:02:02,04
-          text: I passed that message to my own superiors in the LF network.
+          from: "00:01:53,28"
+          to: "00:02:02,04"
+          text: "I passed that message to my own superiors in the LF network."
         sequence-17:
           s: 17
-          from: 00:02:02,04
-          to: 00:02:11,02
-          text: From then onwards I was taken care of.
+          from: "00:02:02,04"
+          to: "00:02:11,02"
+          text: "From then onwards I was taken care of."
         sequence-18:
           s: 18
-          from: 00:02:11,02
-          to: 00:02:13,10
-          text: ''
+          from: "00:02:11,02"
+          to: "00:02:13,10"
+          text: ~
         sequence-19:
           s: 19
-          from: 00:02:13,10
-          to: 00:02:21,19
-          text: 'That was how it was done in Ljubljana:'
+          from: "00:02:13,10"
+          to: "00:02:21,19"
+          text: "That was how it was done in Ljubljana:"
         sequence-20:
           s: 20
-          from: 00:02:21,19
-          to: 00:02:35,21
-          text: Every building had a listing of all the people staying there. Every
-            so often there would be raids.
+          from: "00:02:21,19"
+          to: "00:02:35,21"
+          text: "Every building had a listing of all the people staying there. Every so often there would be raids."
         sequence-21:
           s: 21
-          from: 00:02:35,21
-          to: 00:02:43,29
-          text: If anyone not on the list was found during these raids,
+          from: "00:02:35,21"
+          to: "00:02:43,29"
+          text: "If anyone not on the list was found during these raids,"
         sequence-22:
           s: 22
-          from: 00:02:43,29
-          to: 00:02:51,06
-          text: they were taken away; also all those who were hiding them.
+          from: "00:02:43,29"
+          to: "00:02:51,06"
+          text: "they were taken away; also all those who were hiding them."
         sequence-23:
           s: 23
-          from: 00:02:51,06
-          to: 00:02:57,01
-          text: People would take the risk,
+          from: "00:02:51,06"
+          to: "00:02:57,01"
+          text: "People would take the risk,"
         sequence-24:
           s: 24
-          from: 00:02:57,01
-          to: 00:03:09,29
-          text: they would consciously accept this person into their home and partly
-            also share their food.
+          from: "00:02:57,01"
+          to: "00:03:09,29"
+          text: "they would consciously accept this person into their home and partly also share their food."
         sequence-25:
           s: 25
-          from: 00:03:09,29
-          to: 00:03:16,22
-          text: The counterfeit ration coupons – everyone had ration coupons –
+          from: "00:03:09,29"
+          to: "00:03:16,22"
+          text: "The counterfeit ration coupons – everyone had ration coupons –"
         sequence-26:
           s: 26
-          from: 00:03:16,22
-          to: 00:03:24,08
-          text: made for the illegal would always come with great delay,
+          from: "00:03:16,22"
+          to: "00:03:24,08"
+          text: "made for the illegal would always come with great delay,"
         sequence-27:
           s: 27
-          from: 00:03:24,08
-          to: 00:03:30,05
-          text: often when you weren’t allowed to be there anymore.
+          from: "00:03:24,08"
+          to: "00:03:30,05"
+          text: "often when you weren’t allowed to be there anymore."
         sequence-28:
           s: 28
-          from: 00:03:30,05
-          to: 00:03:40,04
-          text: As illegal we would have to stay with people who didn’t even know
-            who we were.
+          from: "00:03:30,05"
+          to: "00:03:40,04"
+          text: "As illegal we would have to stay with people who didn’t even know who we were."
         sequence-29:
           s: 29
-          from: 00:03:40,04
-          to: 00:03:41,21
-          text: ''
+          from: "00:03:40,04"
+          to: "00:03:41,21"
+          text: ~
         sequence-30:
           s: 30
-          from: 00:03:41,21
-          to: 00:03:51,06
-          text: They just trusted us in needing help on the basis of the code word.
+          from: "00:03:41,21"
+          to: "00:03:51,06"
+          text: "They just trusted us in needing help on the basis of the code word."
         sequence-31:
           s: 31
-          from: 00:03:51,06
-          to: 00:04:03,22
-          text: I could get in anywhere with the code word, and the owner would respond
-            with a code word and then I could stay there.
+          from: "00:03:51,06"
+          to: "00:04:03,22"
+          text: "I could get in anywhere with the code word, and the owner would respond with a code word and then I could stay there."
         sequence-32:
           s: 32
-          from: 00:04:03,22
-          to: 00:04:12,00
-          text: I had to change homes several times because I’d sneeze in the room
-            I was hiding in.
+          from: "00:04:03,22"
+          to: "00:04:12,00"
+          text: "I had to change homes several times because I’d sneeze in the room I was hiding in."
         sequence-33:
           s: 33
-          from: 00:04:12,00
-          to: 00:04:20,09
-          text: Someone outside would happen to hear it and comment that someone must
-            be home.
+          from: "00:04:12,00"
+          to: "00:04:20,09"
+          text: "Someone outside would happen to hear it and comment that someone must be home."
         sequence-34:
           s: 34
-          from: 00:04:20,09
-          to: 00:04:27,26
-          text: Then I’d have to leave already the next day or night.
+          from: "00:04:20,09"
+          to: "00:04:27,26"
+          text: "Then I’d have to leave already the next day or night."
         sequence-35:
           s: 35
-          from: 00:04:27,26
-          to: 00:04:29,15
-          text: ''
+          from: "00:04:27,26"
+          to: "00:04:29,15"
+          text: ~
         sequence-36:
           s: 36
-          from: 00:04:29,15
-          to: 00:04:39,20
-          text: It was with strangers that I was staying when finally,
+          from: "00:04:29,15"
+          to: "00:04:39,20"
+          text: "It was with strangers that I was staying when finally,"
         sequence-37:
           s: 37
-          from: 00:04:39,20
-          to: 00:04:45,27
-          text: ''
+          from: "00:04:39,20"
+          to: "00:04:45,27"
+          text: ~
         sequence-38:
           s: 38
-          from: 00:04:45,27
-          to: 00:04:54,22
-          text: after four months of hiding from house to house,
+          from: "00:04:45,27"
+          to: "00:04:54,22"
+          text: "after four months of hiding from house to house,"
         sequence-39:
           s: 39
-          from: 00:04:54,22
-          to: 00:05:11,25
-          text: that one afternoon my friend Neda Grzinic came to see me.
+          from: "00:04:54,22"
+          to: "00:05:11,25"
+          text: "that one afternoon my friend Neda Grzinic came to see me."
         sequence-40:
           s: 40
-          from: 00:05:11,25
-          to: 00:05:23,19
-          text: She told me that a LF courier would bring me a fake passport that
-            evening
+          from: "00:05:11,25"
+          to: "00:05:23,19"
+          text: "She told me that a LF courier would bring me a fake passport that evening"
         sequence-41:
           s: 41
-          from: 00:05:23,19
-          to: 00:05:36,00
-          text: and I’d be leaving to join the partisans in the morning.
+          from: "00:05:23,19"
+          to: "00:05:36,00"
+          text: "and I’d be leaving to join the partisans in the morning."

@@ -1,327 +1,316 @@
----
 fr:
   erwin-schulz:
     chapter-14:
       c: 14
-      title: US-captivity, end of war
+      title: "US-captivity, end of war"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,15
-          to: 00:00:12,19
-          text: We were on a ship to travel onwards from the Mediterranean Sea.
+          from: "00:00:00,15"
+          to: "00:00:12,19"
+          text: "We were on a ship to travel onwards from the Mediterranean Sea."
         sequence-2:
           s: 2
-          from: 00:00:12,19
-          to: 00:00:13,13
-          text: ''
+          from: "00:00:12,19"
+          to: "00:00:13,13"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:13,13
-          to: 00:00:28,16
-          text: But we came back and later on we were handed over to the Americans.
+          from: "00:00:13,13"
+          to: "00:00:28,16"
+          text: "But we came back and later on we were handed over to the Americans."
         sequence-4:
           s: 4
-          from: 00:00:28,16
-          to: 00:00:35,16
-          text: We travelled to Casablanca, through Morocco, by train.
+          from: "00:00:28,16"
+          to: "00:00:35,16"
+          text: "We travelled to Casablanca, through Morocco, by train."
         sequence-5:
           s: 5
-          from: 00:00:35,16
-          to: 00:00:42,28
-          text: Casablanca is situated quite low down.
+          from: "00:00:35,16"
+          to: "00:00:42,28"
+          text: "Casablanca is situated quite low down."
         sequence-6:
           s: 6
-          from: 00:00:42,28
-          to: 00:02:55,12
-          text: ''
+          from: "00:00:42,28"
+          to: "00:02:55,12"
+          text: ~
         sequence-7:
           s: 7
-          from: 00:02:55,12
-          to: 00:02:56,03
-          text: ''
+          from: "00:02:55,12"
+          to: "00:02:56,03"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:02:56,03
-          to: 00:03:05,02
-          text: The American army did not treat us any better.
+          from: "00:02:56,03"
+          to: "00:03:05,02"
+          text: "The American army did not treat us any better."
         sequence-9:
           s: 9
-          from: 00:03:05,02
-          to: 00:03:06,05
-          text: ''
+          from: "00:03:05,02"
+          to: "00:03:06,05"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:03:06,05
-          to: 00:03:11,13
-          text: 'I remembered much later:'
+          from: "00:03:06,05"
+          to: "00:03:11,13"
+          text: "I remembered much later:"
         sequence-11:
           s: 11
-          from: 00:03:11,13
-          to: 00:03:12,21
-          text: ''
+          from: "00:03:11,13"
+          to: "00:03:12,21"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:03:12,21
-          to: 00:03:25,21
-          text: officers were probably not able to understand these things in their
-            own awareness;
+          from: "00:03:12,21"
+          to: "00:03:25,21"
+          text: "officers were probably not able to understand these things in their own awareness;"
         sequence-13:
           s: 13
-          from: 00:03:25,21
-          to: 00:03:37,22
-          text: that soldiers who had been fighting in the Hitler-army were now turning
-            against it.
+          from: "00:03:25,21"
+          to: "00:03:37,22"
+          text: "that soldiers who had been fighting in the Hitler-army were now turning against it."
         sequence-14:
           s: 14
-          from: 00:03:37,22
-          to: 00:03:44,20
-          text: This problem of the controversy fascism against antifascism
+          from: "00:03:37,22"
+          to: "00:03:44,20"
+          text: "This problem of the controversy fascism against antifascism"
         sequence-15:
           s: 15
-          from: 00:03:44,20
-          to: 00:03:52,09
-          text: was something the officers could not understand.
+          from: "00:03:44,20"
+          to: "00:03:52,09"
+          text: "was something the officers could not understand."
         sequence-16:
           s: 16
-          from: 00:03:52,09
-          to: 00:04:04,12
-          text: Later on, towards the end, they got some different views.
+          from: "00:03:52,09"
+          to: "00:04:04,12"
+          text: "Later on, towards the end, they got some different views."
         sequence-17:
           s: 17
-          from: 00:04:04,12
-          to: 00:04:10,18
-          text: 'After they got to know:'
+          from: "00:04:04,12"
+          to: "00:04:10,18"
+          text: "After they got to know:"
         sequence-18:
           s: 18
-          from: 00:04:10,18
-          to: 00:04:17,19
-          text: about the concentration camps, what happened to the people there,
+          from: "00:04:10,18"
+          to: "00:04:17,19"
+          text: "about the concentration camps, what happened to the people there,"
         sequence-19:
           s: 19
-          from: 00:04:17,19
-          to: 00:04:21,13
-          text: the way they were murdered there, and disposed off.
+          from: "00:04:17,19"
+          to: "00:04:21,13"
+          text: "the way they were murdered there, and disposed off."
         sequence-20:
           s: 20
-          from: 00:04:21,13
-          to: 00:04:31,19
-          text: Auschwitz was only then liberated by the Soviet army, the Red Army.
+          from: "00:04:21,13"
+          to: "00:04:31,19"
+          text: "Auschwitz was only then liberated by the Soviet army, the Red Army."
         sequence-21:
           s: 21
-          from: 00:04:31,19
-          to: 00:04:37,23
-          text: That was when the exchange happened and
+          from: "00:04:31,19"
+          to: "00:04:37,23"
+          text: "That was when the exchange happened and"
         sequence-22:
           s: 22
-          from: 00:04:37,23
-          to: 00:04:39,27
-          text: ''
+          from: "00:04:37,23"
+          to: "00:04:39,27"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:04:39,27
-          to: 00:04:48,21
-          text: they at least started to realise
+          from: "00:04:39,27"
+          to: "00:04:48,21"
+          text: "they at least started to realise"
         sequence-24:
           s: 24
-          from: 00:04:48,21
-          to: 00:04:59,01
-          text: that there were people who were fighting against `their country´,
-            as they said.
+          from: "00:04:48,21"
+          to: "00:04:59,01"
+          text: "that there were people who were fighting against `their country´, as they said."
         sequence-25:
           s: 25
-          from: 00:04:59,01
-          to: 00:05:00,21
-          text: ''
+          from: "00:04:59,01"
+          to: "00:05:00,21"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:05:00,21
-          to: 00:05:11,19
-          text: Later on I was taken back to Fort Devons, where I witnessed the end
-            of the war.
+          from: "00:05:00,21"
+          to: "00:05:11,19"
+          text: "Later on I was taken back to Fort Devons, where I witnessed the end of the war."
         sequence-27:
           s: 27
-          from: 00:05:11,19
-          to: 00:05:13,09
-          text: ''
+          from: "00:05:11,19"
+          to: "00:05:13,09"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:05:13,09
-          to: 00:05:20,03
-          text: There we had the magazine ‘German-American’
+          from: "00:05:13,09"
+          to: "00:05:20,03"
+          text: "There we had the magazine ‘German-American’"
         sequence-29:
           s: 29
-          from: 00:05:20,03
-          to: 00:05:29,15
-          text: which was edited by immigrated union men and political immigrants.
+          from: "00:05:20,03"
+          to: "00:05:29,15"
+          text: "which was edited by immigrated union men and political immigrants."
         sequence-30:
           s: 30
-          from: 00:05:29,15
-          to: 00:05:33,19
-          text: It was in German and English.
+          from: "00:05:29,15"
+          to: "00:05:33,19"
+          text: "It was in German and English."
         sequence-31:
           s: 31
-          from: 00:05:33,19
-          to: 00:05:35,06
-          text: ''
+          from: "00:05:33,19"
+          to: "00:05:35,06"
+          text: ~
         sequence-32:
           s: 32
-          from: 00:05:35,06
-          to: 00:05:44,25
-          text: It was delivered into our camp. Before, in MacCain, it didn’t come
-            into the camp.
+          from: "00:05:35,06"
+          to: "00:05:44,25"
+          text: "It was delivered into our camp. Before, in MacCain, it didn’t come into the camp."
         sequence-33:
           s: 33
-          from: 00:05:44,25
-          to: 00:05:49,25
-          text: But towards the end of the war many things changed.
+          from: "00:05:44,25"
+          to: "00:05:49,25"
+          text: "But towards the end of the war many things changed."
         sequence-34:
           s: 34
-          from: 00:05:49,25
-          to: 00:05:52,16
-          text: You could buy this magazine.
+          from: "00:05:49,25"
+          to: "00:05:52,16"
+          text: "You could buy this magazine."
         sequence-35:
           s: 35
-          from: 00:05:52,16
-          to: 00:05:54,24
-          text: ''
+          from: "00:05:52,16"
+          to: "00:05:54,24"
+          text: ~
         sequence-36:
           s: 36
-          from: 00:05:54,24
-          to: 00:06:01,27
-          text: We also had contact to the issuers, illegal ones,
+          from: "00:05:54,24"
+          to: "00:06:01,27"
+          text: "We also had contact to the issuers, illegal ones,"
         sequence-37:
           s: 37
-          from: 00:06:01,27
-          to: 00:06:11,23
-          text: because the commands were working in the motor pool,
+          from: "00:06:01,27"
+          to: "00:06:11,23"
+          text: "because the commands were working in the motor pool,"
         sequence-38:
           s: 38
-          from: 00:06:11,23
-          to: 00:06:25,22
-          text: where, again, where progressive Americans helped us with the information.
+          from: "00:06:11,23"
+          to: "00:06:25,22"
+          text: "where, again, where progressive Americans helped us with the information."
         sequence-39:
           s: 39
-          from: 00:06:25,22
-          to: 00:06:35,28
-          text: Anyway, some political and cultural life started.
+          from: "00:06:25,22"
+          to: "00:06:35,28"
+          text: "Anyway, some political and cultural life started."
         sequence-40:
           s: 40
-          from: 00:06:35,28
-          to: 00:06:36,12
-          text: ''
+          from: "00:06:35,28"
+          to: "00:06:36,12"
+          text: ~
         sequence-41:
           s: 41
-          from: 00:06:36,12
-          to: 00:06:44,10
-          text: The Americans filmed ‘Buchenwald’,
+          from: "00:06:36,12"
+          to: "00:06:44,10"
+          text: "The Americans filmed ‘Buchenwald’,"
         sequence-42:
           s: 42
-          from: 00:06:44,10
-          to: 00:06:50,09
-          text: the heaps of dead bodies they found and the circumstances.
+          from: "00:06:44,10"
+          to: "00:06:50,09"
+          text: "the heaps of dead bodies they found and the circumstances."
         sequence-43:
           s: 43
-          from: 00:06:50,09
-          to: 00:07:01,29
-          text: These films were shown in the USA and then all the prisoners of war
-            had to watch these films.
+          from: "00:06:50,09"
+          to: "00:07:01,29"
+          text: "These films were shown in the USA and then all the prisoners of war had to watch these films."
         sequence-44:
           s: 44
-          from: 00:07:01,29
-          to: 00:07:12,13
-          text: 'Now to my release: We were transported to Belgium.'
+          from: "00:07:01,29"
+          to: "00:07:12,13"
+          text: "Now to my release: We were transported to Belgium."
         sequence-45:
           s: 45
-          from: 00:07:12,13
-          to: 00:07:13,21
-          text: ''
+          from: "00:07:12,13"
+          to: "00:07:13,21"
+          text: ~
         sequence-46:
           s: 46
-          from: 00:07:13,21
-          to: 00:07:23,14
-          text: There the conditions were the same as in Aliceville, where we were
-            taken in the first prison camp.
+          from: "00:07:13,21"
+          to: "00:07:23,14"
+          text: "There the conditions were the same as in Aliceville, where we were taken in the first prison camp."
         sequence-47:
           s: 47
-          from: 00:07:23,14
-          to: 00:07:23,29
-          text: ''
+          from: "00:07:23,14"
+          to: "00:07:23,29"
+          text: ~
         sequence-48:
           s: 48
-          from: 00:07:23,29
-          to: 00:07:33,00
-          text: Just before I was released the documents came.
+          from: "00:07:23,29"
+          to: "00:07:33,00"
+          text: "Just before I was released the documents came."
         sequence-49:
           s: 49
-          from: 00:07:33,00
-          to: 00:07:44,06
-          text: And there an associate, Fritz Fiedkau, was declared (in the documents)
-            to be an SS-man.
+          from: "00:07:33,00"
+          to: "00:07:44,06"
+          text: "And there an associate, Fritz Fiedkau, was declared (in the documents) to be an SS-man."
         sequence-50:
           s: 50
-          from: 00:07:44,06
-          to: 00:07:45,10
-          text: ''
+          from: "00:07:44,06"
+          to: "00:07:45,10"
+          text: ~
         sequence-51:
           s: 51
-          from: 00:07:45,10
-          to: 00:07:52,06
-          text: So, in the camp, where he had been before they changed his documents
-            in the assessment
+          from: "00:07:45,10"
+          to: "00:07:52,06"
+          text: "So, in the camp, where he had been before they changed his documents in the assessment"
         sequence-52:
           s: 52
-          from: 00:07:52,06
-          to: 00:07:56,22
-          text: they made the antifascist into an SS-man.
+          from: "00:07:52,06"
+          to: "00:07:56,22"
+          text: "they made the antifascist into an SS-man."
         sequence-53:
           s: 53
-          from: 00:07:56,22
-          to: 00:08:01,15
-          text: And an SS-man had already gone home as an antifascist!
+          from: "00:07:56,22"
+          to: "00:08:01,15"
+          text: "And an SS-man had already gone home as an antifascist!"
         sequence-54:
           s: 54
-          from: 00:08:01,15
-          to: 00:08:04,12
-          text: I did report that later on.
+          from: "00:08:01,15"
+          to: "00:08:04,12"
+          text: "I did report that later on."
         sequence-55:
           s: 55
-          from: 00:08:04,12
-          to: 00:08:13,15
-          text: We went over to Munsterlager which had the same pattern;
+          from: "00:08:04,12"
+          to: "00:08:13,15"
+          text: "We went over to Munsterlager which had the same pattern;"
         sequence-56:
           s: 56
-          from: 00:08:13,15
-          to: 00:08:18,09
-          text: corporals, sergeants and so on, they were in command there.
+          from: "00:08:13,15"
+          to: "00:08:18,09"
+          text: "corporals, sergeants and so on, they were in command there."
         sequence-57:
           s: 57
-          from: 00:08:18,09
-          to: 00:08:25,07
+          from: "00:08:18,09"
+          to: "00:08:25,07"
           text: "“Don’t let yourself get released towards the east!”"
         sequence-58:
           s: 58
-          from: 00:08:25,07
-          to: 00:08:37,21
-          text: In October 1946 I got on a transport to West-Berlin.
+          from: "00:08:25,07"
+          to: "00:08:37,21"
+          text: "In October 1946 I got on a transport to West-Berlin."
         sequence-59:
           s: 59
-          from: 00:08:37,21
-          to: 00:08:46,19
-          text: This is how I got home from war captivity.
+          from: "00:08:37,21"
+          to: "00:08:46,19"
+          text: "This is how I got home from war captivity."
         sequence-60:
           s: 60
-          from: 00:08:46,19
-          to: 00:08:47,21
-          text: ''
+          from: "00:08:46,19"
+          to: "00:08:47,21"
+          text: ~
         sequence-61:
           s: 61
-          from: 00:08:47,21
-          to: 00:08:52,04
-          text: My parents lived somewhere else, as they had been bombed out.
+          from: "00:08:47,21"
+          to: "00:08:52,04"
+          text: "My parents lived somewhere else, as they had been bombed out."
         sequence-62:
           s: 62
-          from: 00:08:52,04
-          to: 00:09:07,13
-          text: And now the new life began after all these incidents that you experienced
-            over the years.
+          from: "00:08:52,04"
+          to: "00:09:07,13"
+          text: "And now the new life began after all these incidents that you experienced over the years."
