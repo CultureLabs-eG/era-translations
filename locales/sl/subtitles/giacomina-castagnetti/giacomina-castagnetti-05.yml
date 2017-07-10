@@ -1,256 +1,246 @@
----
 sl:
   giacomina-castagnetti:
     chapter-5:
       c: 5
-      title: Joining the Communist Party
+      title: "Joining the Communist Party"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:02,07
-          to: 00:00:07,22
-          text: I really flew into a rage in 1938,
+          from: "00:00:02,07"
+          to: "00:00:07,22"
+          text: "I really flew into a rage in 1938,"
         sequence-2:
           s: 2
-          from: 00:00:07,22
-          to: 00:00:08,18
-          text: ''
+          from: "00:00:07,22"
+          to: "00:00:08,18"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:08,18
-          to: 00:00:12,05
-          text: as my brother was arrested.
+          from: "00:00:08,18"
+          to: "00:00:12,05"
+          text: "as my brother was arrested."
         sequence-4:
           s: 4
-          from: 00:00:12,05
-          to: 00:00:17,06
-          text: He was arrested for being a subversive.
+          from: "00:00:12,05"
+          to: "00:00:17,06"
+          text: "He was arrested for being a subversive."
         sequence-5:
           s: 5
-          from: 00:00:17,06
-          to: 00:00:23,25
-          text: That’s how the regime labelled those who didn’t agree with the Duce.
+          from: "00:00:17,06"
+          to: "00:00:23,25"
+          text: "That’s how the regime labelled those who didn’t agree with the Duce."
         sequence-6:
           s: 6
-          from: 00:00:23,25
-          to: 00:00:31,22
-          text: The Communist party underground network was constantly growing.
+          from: "00:00:23,25"
+          to: "00:00:31,22"
+          text: "The Communist party underground network was constantly growing."
         sequence-7:
           s: 7
-          from: 00:00:31,22
-          to: 00:00:37,14
-          text: The young subversives organized themselves house by house.
+          from: "00:00:31,22"
+          to: "00:00:37,14"
+          text: "The young subversives organized themselves house by house."
         sequence-8:
           s: 8
-          from: 00:00:37,14
-          to: 00:00:44,14
-          text: The Communist leaders had already been arrested a long time before
-            and sent to confinement.
+          from: "00:00:37,14"
+          to: "00:00:44,14"
+          text: "The Communist leaders had already been arrested a long time before and sent to confinement."
         sequence-9:
           s: 9
-          from: 00:00:44,14
-          to: 00:00:47,03
-          text: ''
+          from: "00:00:44,14"
+          to: "00:00:47,03"
+          text: ~
         sequence-10:
           s: 10
-          from: 00:00:47,03
-          to: 00:00:53,05
-          text: Therefore it might have seemed that there was no leadership left.
+          from: "00:00:47,03"
+          to: "00:00:53,05"
+          text: "Therefore it might have seemed that there was no leadership left."
         sequence-11:
           s: 11
-          from: 00:00:53,05
-          to: 00:00:57,20
-          text: But there was this network,
+          from: "00:00:53,05"
+          to: "00:00:57,20"
+          text: "But there was this network,"
         sequence-12:
           s: 12
-          from: 00:00:57,20
-          to: 00:01:09,22
-          text: as fragile as it could have been which was secretly growing thanks
-            to the words and the work of these young men.
+          from: "00:00:57,20"
+          to: "00:01:09,22"
+          text: "as fragile as it could have been which was secretly growing thanks to the words and the work of these young men."
         sequence-13:
           s: 13
-          from: 00:01:09,22
-          to: 00:01:15,27
-          text: If there were two people one day, there were three the following one,
+          from: "00:01:09,22"
+          to: "00:01:15,27"
+          text: "If there were two people one day, there were three the following one,"
         sequence-14:
           s: 14
-          from: 00:01:15,27
-          to: 00:01:22,26
-          text: since they were finding more and more people who were tired of fascism.
+          from: "00:01:15,27"
+          to: "00:01:22,26"
+          text: "since they were finding more and more people who were tired of fascism."
         sequence-15:
           s: 15
-          from: 00:01:22,26
-          to: 00:01:23,21
-          text: ''
+          from: "00:01:22,26"
+          to: "00:01:23,21"
+          text: ~
         sequence-16:
           s: 16
-          from: 00:01:23,21
-          to: 00:01:27,08
-          text: In 1939 my mother died.
+          from: "00:01:23,21"
+          to: "00:01:27,08"
+          text: "In 1939 my mother died."
         sequence-17:
           s: 17
-          from: 00:01:27,08
-          to: 00:01:36,28
-          text: She couldn't face the situation any longer when the landlord sent
-            us a letter
+          from: "00:01:27,08"
+          to: "00:01:36,28"
+          text: "She couldn't face the situation any longer when the landlord sent us a letter"
         sequence-18:
           s: 18
-          from: 00:01:36,28
-          to: 00:01:49,28
-          text: telling us that she could not maintain an antifascist family.
+          from: "00:01:36,28"
+          to: "00:01:49,28"
+          text: "telling us that she could not maintain an antifascist family."
         sequence-19:
           s: 19
-          from: 00:01:49,28
-          to: 00:01:50,20
-          text: ''
+          from: "00:01:49,28"
+          to: "00:01:50,20"
+          text: ~
         sequence-20:
           s: 20
-          from: 00:01:50,20
-          to: 00:01:59,25
-          text: I was fourteen and both my parents were dead.
+          from: "00:01:50,20"
+          to: "00:01:59,25"
+          text: "I was fourteen and both my parents were dead."
         sequence-21:
           s: 21
-          from: 00:01:59,25
-          to: 00:02:02,26
-          text: ''
+          from: "00:01:59,25"
+          to: "00:02:02,26"
+          text: ~
         sequence-22:
           s: 22
-          from: 00:02:02,26
-          to: 00:02:09,11
-          text: Then we had to leave everything, all our friends and all we had.
+          from: "00:02:02,26"
+          to: "00:02:09,11"
+          text: "Then we had to leave everything, all our friends and all we had."
         sequence-23:
           s: 23
-          from: 00:02:09,11
-          to: 00:02:14,15
-          text: We moved to Gazzata di San Martino in Rio.
+          from: "00:02:09,11"
+          to: "00:02:14,15"
+          text: "We moved to Gazzata di San Martino in Rio."
         sequence-24:
           s: 24
-          from: 00:02:14,15
-          to: 00:02:21,11
-          text: We were lucky to find a landlord willing to give us a piece of land
-            to farm.
+          from: "00:02:14,15"
+          to: "00:02:21,11"
+          text: "We were lucky to find a landlord willing to give us a piece of land to farm."
         sequence-25:
           s: 25
-          from: 00:02:21,11
-          to: 00:02:22,09
-          text: ''
+          from: "00:02:21,11"
+          to: "00:02:22,09"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:02:22,09
-          to: 00:02:27,17
-          text: I guess they already knew we were antifascists.
+          from: "00:02:22,09"
+          to: "00:02:27,17"
+          text: "I guess they already knew we were antifascists."
         sequence-27:
           s: 27
-          from: 00:02:27,17
-          to: 00:02:29,14
-          text: ''
+          from: "00:02:27,17"
+          to: "00:02:29,14"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:02:29,14
-          to: 00:02:37,29
-          text: They asked me if I wanted to help them out
+          from: "00:02:29,14"
+          to: "00:02:37,29"
+          text: "They asked me if I wanted to help them out"
         sequence-29:
           s: 29
-          from: 00:02:37,29
-          to: 00:02:41,09
-          text: ''
+          from: "00:02:37,29"
+          to: "00:02:41,09"
+          text: ~
         sequence-30:
           s: 30
-          from: 00:02:41,09
-          to: 00:02:46,07
-          text: in a few tasks to support the Communist party.
+          from: "00:02:41,09"
+          to: "00:02:46,07"
+          text: "in a few tasks to support the Communist party."
         sequence-31:
           s: 31
-          from: 00:02:46,07
-          to: 00:02:51,22
-          text: They needed somebody who wouldn’t be noticed much.
+          from: "00:02:46,07"
+          to: "00:02:51,22"
+          text: "They needed somebody who wouldn’t be noticed much."
         sequence-32:
           s: 32
-          from: 00:02:51,22
-          to: 00:03:05,24
-          text: It was just what I was looking for. I wanted to do something, to help,
-            but I didn’t know how.
+          from: "00:02:51,22"
+          to: "00:03:05,24"
+          text: "It was just what I was looking for. I wanted to do something, to help, but I didn’t know how."
         sequence-33:
           s: 33
-          from: 00:03:05,24
-          to: 00:03:18,25
-          text: They gave me a chance to do something for my family
+          from: "00:03:05,24"
+          to: "00:03:18,25"
+          text: "They gave me a chance to do something for my family"
         sequence-34:
           s: 34
-          from: 00:03:18,25
-          to: 00:03:29,05
-          text: and to support the antifascist ideals I was starting to believe in.
+          from: "00:03:18,25"
+          to: "00:03:29,05"
+          text: "and to support the antifascist ideals I was starting to believe in."
         sequence-35:
           s: 35
-          from: 00:03:29,05
-          to: 00:03:34,22
-          text: I started to collect the “soccorso rosso” (red aid).
+          from: "00:03:29,05"
+          to: "00:03:34,22"
+          text: "I started to collect the “soccorso rosso” (red aid)."
         sequence-36:
           s: 36
-          from: 00:03:34,22
-          to: 00:03:42,11
-          text: The little amount of money antifascists could rely on to support those
-            families
+          from: "00:03:34,22"
+          to: "00:03:42,11"
+          text: "The little amount of money antifascists could rely on to support those families"
         sequence-37:
           s: 37
-          from: 00:03:42,11
-          to: 00:03:56,10
-          text: whose parents or brothers had to flee after being persecuted by the
-            regime.
+          from: "00:03:42,11"
+          to: "00:03:56,10"
+          text: "whose parents or brothers had to flee after being persecuted by the regime."
         sequence-38:
           s: 38
-          from: 00:03:56,10
-          to: 00:03:57,14
-          text: ''
+          from: "00:03:56,10"
+          to: "00:03:57,14"
+          text: ~
         sequence-39:
           s: 39
-          from: 00:03:57,14
-          to: 00:04:01,06
-          text: It was just natural to me.
+          from: "00:03:57,14"
+          to: "00:04:01,06"
+          text: "It was just natural to me."
         sequence-40:
           s: 40
-          from: 00:04:01,06
-          to: 00:04:12,06
-          text: After all I had suffered, joining the Communist party meant
+          from: "00:04:01,06"
+          to: "00:04:12,06"
+          text: "After all I had suffered, joining the Communist party meant"
         sequence-41:
           s: 41
-          from: 00:04:12,06
-          to: 00:04:16,23
-          text: ''
+          from: "00:04:12,06"
+          to: "00:04:16,23"
+          text: ~
         sequence-42:
           s: 42
-          from: 00:04:16,23
-          to: 00:04:22,18
-          text: doing something for the vision I had developed.
+          from: "00:04:16,23"
+          to: "00:04:22,18"
+          text: "doing something for the vision I had developed."
         sequence-43:
           s: 43
-          from: 00:04:22,18
-          to: 00:04:33,11
-          text: I would also be doing something for my brother and to grant people
-            a chance to live better.
+          from: "00:04:22,18"
+          to: "00:04:33,11"
+          text: "I would also be doing something for my brother and to grant people a chance to live better."
         sequence-44:
           s: 44
-          from: 00:04:33,11
-          to: 00:04:42,18
-          text: I became a communist day by day, taking in the atmosphere around me.
+          from: "00:04:33,11"
+          to: "00:04:42,18"
+          text: "I became a communist day by day, taking in the atmosphere around me."
         sequence-45:
           s: 45
-          from: 00:04:42,18
-          to: 00:04:46,14
-          text: ''
+          from: "00:04:42,18"
+          to: "00:04:46,14"
+          text: ~
         sequence-46:
           s: 46
-          from: 00:04:46,14
-          to: 00:04:55,05
-          text: At fifteen, I can’t say I was aware of what was going on.
+          from: "00:04:46,14"
+          to: "00:04:55,05"
+          text: "At fifteen, I can’t say I was aware of what was going on."
         sequence-47:
           s: 47
-          from: 00:04:55,05
-          to: 00:05:04,09
-          text: Given my life, however, joining the Communist party was the natural
-            answer.
+          from: "00:04:55,05"
+          to: "00:05:04,09"
+          text: "Given my life, however, joining the Communist party was the natural answer."
         sequence-48:
           s: 48
-          from: 00:05:04,09
-          to: 00:05:12,08
-          text: There was no other solution, no doubts of any sort.
+          from: "00:05:04,09"
+          to: "00:05:12,08"
+          text: "There was no other solution, no doubts of any sort."

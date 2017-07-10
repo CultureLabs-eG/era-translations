@@ -1,256 +1,236 @@
----
 sl:
   lorenz-knorr:
     chapter-8:
       c: 8
-      title: Resistance in the German Wehrmacht
+      title: "Resistance in the German Wehrmacht"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:01,11
-          to: 00:00:11,06
-          text: After the ‘Munich Agreement’ we had the 36 divisions, which marched
-            into Czechoslovakia from all sides.
+          from: "00:00:01,11"
+          to: "00:00:11,06"
+          text: "After the ‘Munich Agreement’ we had the 36 divisions, which marched into Czechoslovakia from all sides."
         sequence-2:
           s: 2
-          from: 00:00:11,06
-          to: 00:00:13,12
-          text: ''
+          from: "00:00:11,06"
+          to: "00:00:13,12"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:13,12
-          to: 00:00:19,18
-          text: Bohemia and Moravia were encircled by ’Großdeutschland’.
+          from: "00:00:13,12"
+          to: "00:00:19,18"
+          text: "Bohemia and Moravia were encircled by ’Großdeutschland’."
         sequence-4:
           s: 4
-          from: 00:00:19,18
-          to: 00:00:21,07
-          text: ''
+          from: "00:00:19,18"
+          to: "00:00:21,07"
+          text: ~
         sequence-5:
           s: 5
-          from: 00:00:21,07
-          to: 00:00:28,14
-          text: At the beginning you worked as a civilian
+          from: "00:00:21,07"
+          to: "00:00:28,14"
+          text: "At the beginning you worked as a civilian"
         sequence-6:
           s: 6
-          from: 00:00:28,14
-          to: 00:00:33,12
-          text: and only when in 1939 the war began, the enlistments started.
+          from: "00:00:28,14"
+          to: "00:00:33,12"
+          text: "and only when in 1939 the war began, the enlistments started."
         sequence-7:
           s: 7
-          from: 00:00:33,12
-          to: 00:00:40,26
-          text: I was not enlisted until the end of 1940, so that we had two years
-            of time for the illegal work.
+          from: "00:00:33,12"
+          to: "00:00:40,26"
+          text: "I was not enlisted until the end of 1940, so that we had two years of time for the illegal work."
         sequence-8:
           s: 8
-          from: 00:00:40,26
-          to: 00:00:45,14
-          text: Only when we had to enlist, where the alternative would have been
-            going to a concentration camp,
+          from: "00:00:40,26"
+          to: "00:00:45,14"
+          text: "Only when we had to enlist, where the alternative would have been going to a concentration camp,"
         sequence-9:
           s: 9
-          from: 00:00:45,14
-          to: 00:00:52,12
-          text: the work in the ‘Wehrmacht’ started and the attempt to form anti-fascist
-            cells.
+          from: "00:00:45,14"
+          to: "00:00:52,12"
+          text: "the work in the ‘Wehrmacht’ started and the attempt to form anti-fascist cells."
         sequence-10:
           s: 10
-          from: 00:00:52,12
-          to: 00:00:53,25
-          text: ''
+          from: "00:00:52,12"
+          to: "00:00:53,25"
+          text: ~
         sequence-11:
           s: 11
-          from: 00:00:53,25
-          to: 00:01:02,17
-          text: Like many others of us, I was enlisted to the ‘Wehrmacht’ after doing
-            illegal work for nearly two years.
+          from: "00:00:53,25"
+          to: "00:01:02,17"
+          text: "Like many others of us, I was enlisted to the ‘Wehrmacht’ after doing illegal work for nearly two years."
         sequence-12:
           s: 12
-          from: 00:01:02,17
-          to: 00:01:13,00
-          text: We discussed what we were going to do; either refuse to accept the
-            enlisting order,
+          from: "00:01:02,17"
+          to: "00:01:13,00"
+          text: "We discussed what we were going to do; either refuse to accept the enlisting order,"
         sequence-13:
           s: 13
-          from: 00:01:13,00
-          to: 00:01:20,02
-          text: meaning torture and concentration camp or agree that we have more
-            opportunities as soldiers.
+          from: "00:01:13,00"
+          to: "00:01:20,02"
+          text: "meaning torture and concentration camp or agree that we have more opportunities as soldiers."
         sequence-14:
           s: 14
-          from: 00:01:20,02
-          to: 00:01:22,00
-          text: That was our collective decision.
+          from: "00:01:20,02"
+          to: "00:01:22,00"
+          text: "That was our collective decision."
         sequence-15:
           s: 15
-          from: 00:01:22,00
-          to: 00:01:36,01
-          text: Being a recruit, I was in Bayreuth and there was an illegal group.
+          from: "00:01:22,00"
+          to: "00:01:36,01"
+          text: "Being a recruit, I was in Bayreuth and there was an illegal group."
         sequence-16:
           s: 16
-          from: 00:01:36,01
-          to: 00:01:37,00
-          text: ''
+          from: "00:01:36,01"
+          to: "00:01:37,00"
+          text: ~
         sequence-17:
           s: 17
-          from: 00:01:37,00
-          to: 00:01:43,09
-          text: A commercial traveller, an anti-fascist who commuted between the borders,
+          from: "00:01:37,00"
+          to: "00:01:43,09"
+          text: "A commercial traveller, an anti-fascist who commuted between the borders,"
         sequence-18:
           s: 18
-          from: 00:01:43,09
-          to: 00:01:46,23
-          text: associated me with the anti-fascist group there.
+          from: "00:01:43,09"
+          to: "00:01:46,23"
+          text: "associated me with the anti-fascist group there."
         sequence-19:
           s: 19
-          from: 00:01:46,23
-          to: 00:01:50,21
-          text: 'For them I was a stranger, they wanted proof:'
+          from: "00:01:46,23"
+          to: "00:01:50,21"
+          text: "For them I was a stranger, they wanted proof:"
         sequence-20:
           s: 20
-          from: 00:01:50,21
-          to: 00:01:53,22
-          text: How reliable is this man and what can he do?
+          from: "00:01:50,21"
+          to: "00:01:53,22"
+          text: "How reliable is this man and what can he do?"
         sequence-21:
           s: 21
-          from: 00:01:53,22
-          to: 00:01:59,02
-          text: 'They said: “We need ammunition. Can you provide us with a box of
-            hand grenades?'
+          from: "00:01:53,22"
+          to: "00:01:59,02"
+          text: "They said: “We need ammunition. Can you provide us with a box of hand grenades?"
         sequence-22:
           s: 22
-          from: 00:01:59,02
-          to: 00:02:06,01
-          text: We have explosives - but not enough - everything else is available!”
+          from: "00:01:59,02"
+          to: "00:02:06,01"
+          text: "We have explosives - but not enough - everything else is available!”"
         sequence-23:
           s: 23
-          from: 00:02:06,01
-          to: 00:02:09,01
-          text: It was a tough job,
+          from: "00:02:06,01"
+          to: "00:02:09,01"
+          text: "It was a tough job,"
         sequence-24:
           s: 24
-          from: 00:02:09,01
-          to: 00:02:17,20
-          text: but during a transport I put aside a box of hand grenades at the risk
-            of loosing my life and let them know.
+          from: "00:02:09,01"
+          to: "00:02:17,20"
+          text: "but during a transport I put aside a box of hand grenades at the risk of loosing my life and let them know."
         sequence-25:
           s: 25
-          from: 00:02:17,20
-          to: 00:02:18,19
-          text: ''
+          from: "00:02:17,20"
+          to: "00:02:18,19"
+          text: ~
         sequence-26:
           s: 26
-          from: 00:02:18,19
-          to: 00:02:27,04
-          text: Three days later the district recruiting office in Bayreuth was blown
-            up with the entire file.
+          from: "00:02:18,19"
+          to: "00:02:27,04"
+          text: "Three days later the district recruiting office in Bayreuth was blown up with the entire file."
         sequence-27:
           s: 27
-          from: 00:02:27,04
-          to: 00:02:28,14
-          text: ''
+          from: "00:02:27,04"
+          to: "00:02:28,14"
+          text: ~
         sequence-28:
           s: 28
-          from: 00:02:28,14
-          to: 00:02:33,29
-          text: 'In the ammunition factory the most important machine was blown up
-            and the most difficult:'
+          from: "00:02:28,14"
+          to: "00:02:33,29"
+          text: "In the ammunition factory the most important machine was blown up and the most difficult:"
         sequence-29:
           s: 29
-          from: 00:02:33,29
-          to: 00:02:38,04
-          text: on the air field we blew up two out of three machines.
+          from: "00:02:33,29"
+          to: "00:02:38,04"
+          text: "on the air field we blew up two out of three machines."
         sequence-30:
           s: 30
-          from: 00:02:38,04
-          to: 00:02:44,08
-          text: It wasn’t me, that were the anti-fascists from Bayreuth, but I helped.
+          from: "00:02:38,04"
+          to: "00:02:44,08"
+          text: "It wasn’t me, that were the anti-fascists from Bayreuth, but I helped."
         sequence-31:
           s: 31
-          from: 00:02:44,08
-          to: 00:02:45,15
-          text: ''
+          from: "00:02:44,08"
+          to: "00:02:45,15"
+          text: ~
         sequence-32:
           s: 32
-          from: 00:02:45,15
-          to: 00:02:50,10
-          text: The question was what you were able do as a soldier in an unfamiliar
-            environment.
+          from: "00:02:45,15"
+          to: "00:02:50,10"
+          text: "The question was what you were able do as a soldier in an unfamiliar environment."
         sequence-33:
           s: 33
-          from: 00:02:50,10
-          to: 00:02:58,10
-          text: We always tried to build anti-fascist cells and if it was one man
-            or two.
+          from: "00:02:50,10"
+          to: "00:02:58,10"
+          text: "We always tried to build anti-fascist cells and if it was one man or two."
         sequence-34:
           s: 34
-          from: 00:02:58,10
-          to: 00:02:59,10
-          text: ''
+          from: "00:02:58,10"
+          to: "00:02:59,10"
+          text: ~
         sequence-35:
           s: 35
-          from: 00:02:59,10
-          to: 00:03:05,09
-          text: It was not easy to find out where somebody was, thinking the same
-            as you.
+          from: "00:02:59,10"
+          to: "00:03:05,09"
+          text: "It was not easy to find out where somebody was, thinking the same as you."
         sequence-36:
           s: 36
-          from: 00:03:05,09
-          to: 00:03:08,16
-          text: You had to proceed carefully with questions.
+          from: "00:03:05,09"
+          to: "00:03:08,16"
+          text: "You had to proceed carefully with questions."
         sequence-37:
           s: 37
-          from: 00:03:08,16
-          to: 00:03:14,10
-          text: 'Sometimes somebody told a joke and you could tell by the kind of
-            reaction:'
+          from: "00:03:08,16"
+          to: "00:03:14,10"
+          text: "Sometimes somebody told a joke and you could tell by the kind of reaction:"
         sequence-38:
           s: 38
-          from: 00:03:14,10
-          to: 00:03:22,29
-          text: is he an opponent of fascism or not.
+          from: "00:03:14,10"
+          to: "00:03:22,29"
+          text: "is he an opponent of fascism or not."
         sequence-39:
           s: 39
-          from: 00:03:22,29
-          to: 00:03:33,06
-          text: Wherever I went, within short time I always had an anti-fascist cell
-            in my unit.
+          from: "00:03:22,29"
+          to: "00:03:33,06"
+          text: "Wherever I went, within short time I always had an anti-fascist cell in my unit."
         sequence-40:
           s: 40
-          from: 00:03:33,06
-          to: 00:03:38,19
-          text: It was a lot easier later, after I was badly wounded
+          from: "00:03:33,06"
+          to: "00:03:38,19"
+          text: "It was a lot easier later, after I was badly wounded"
         sequence-41:
           s: 41
-          from: 00:03:38,19
-          to: 00:03:44,11
-          text: and we tried as a small group to do what we could.
+          from: "00:03:38,19"
+          to: "00:03:44,11"
+          text: "and we tried as a small group to do what we could."
         sequence-42:
           s: 42
-          from: 00:03:44,11
-          to: 00:03:52,11
-          text: Like throw a spanner in the works a little bit, being aware that alone
-            one cannot achieve a lot.
+          from: "00:03:44,11"
+          to: "00:03:52,11"
+          text: "Like throw a spanner in the works a little bit, being aware that alone one cannot achieve a lot."
         sequence-43:
           s: 43
-          from: 00:03:52,11
-          to: 00:03:55,24
-          text: But if something like that keeps happening frequently,
+          from: "00:03:52,11"
+          to: "00:03:55,24"
+          text: "But if something like that keeps happening frequently,"
         sequence-44:
           s: 44
-          from: 00:03:55,24
-          to: 00:04:03,06
-          text: 'it is not only a question of calming your conscience: I was against
-            it; I have done something about it.'
+          from: "00:03:55,24"
+          to: "00:04:03,06"
+          text: "it is not only a question of calming your conscience: I was against it; I have done something about it."
         sequence-45:
           s: 45
-          from: 00:04:03,06
-          to: 00:04:06,03
-          text: 'On the other side you could show:'
+          from: "00:04:03,06"
+          to: "00:04:06,03"
+          text: "On the other side you could show:"
         sequence-46:
           s: 46
-          from: 00:04:06,03
-          to: 00:04:10,15
-          text: "“You cannot do what you want. We are here and we are keeping an eye
-            on you!”"
+          from: "00:04:06,03"
+          to: "00:04:10,15"
+          text: "“You cannot do what you want. We are here and we are keeping an eye on you!”"

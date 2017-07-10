@@ -1,92 +1,91 @@
----
 sl:
   countries:
-    AC: Otok Ascension
+    AC: "Otok Ascension"
     AD: Andora
-    AE: Združeni arabski emirati
+    AE: "Združeni arabski emirati"
     AF: Afganistan
-    AG: Antigva in Barbuda
+    AG: "Antigva in Barbuda"
     AI: Angvila
     AL: Albanija
     AM: Armenija
-    AN: Nizozemski Antili
+    AN: "Nizozemski Antili"
     AO: Angola
     AQ: Antarktika
     AR: Argentina
-    AS: Ameriška Samoa
+    AS: "Ameriška Samoa"
     AT: Avstrija
     AU: Avstralija
     AW: Aruba
-    AX: Ålandski otoki
+    AX: "Ålandski otoki"
     AZ: Azerbajdžan
-    BA: Bosna in Hercegovina
+    BA: "Bosna in Hercegovina"
     BB: Barbados
     BD: Bangladeš
     BE: Belgija
-    BF: Burkina Faso
+    BF: "Burkina Faso"
     BG: Bolgarija
     BH: Bahrajn
     BI: Burundi
     BJ: Benin
-    BL: Saint Barthélemy
+    BL: "Saint Barthélemy"
     BM: Bermudi
     BN: Brunej
     BO: Bolivija
-    BQ: Nizozemski Karibi
+    BQ: "Nizozemski Karibi"
     BR: Brazilija
     BS: Bahami
     BT: Butan
-    BV: Bouvetov otok
+    BV: "Bouvetov otok"
     BW: Bocvana
     BY: Belorusija
     BZ: Belize
     CA: Kanada
-    CC: Kokosovi otoki
-    CD: Demokratična republika Kongo
-    CF: Centralnoafriška republika
-    CG: Kongo - Brazzaville
+    CC: "Kokosovi otoki"
+    CD: "Demokratična republika Kongo"
+    CF: "Centralnoafriška republika"
+    CG: "Kongo - Brazzaville"
     CH: Švica
-    CI: Slonokoščena obala
-    CK: Cookovi otoki
+    CI: "Slonokoščena obala"
+    CK: "Cookovi otoki"
     CL: Čile
     CM: Kamerun
     CN: Kitajska
     CO: Kolumbija
-    CP: Otok Clipperton
+    CP: "Otok Clipperton"
     CR: Kostarika
     CU: Kuba
-    CV: Zelenortski otoki
+    CV: "Zelenortski otoki"
     CW: Curaçao
-    CX: Božični otok
+    CX: "Božični otok"
     CY: Ciper
     CZ: Češka
     DE: Nemčija
-    DG: Diego Garcia
+    DG: "Diego Garcia"
     DJ: Džibuti
     DK: Danska
     DM: Dominika
-    DO: Dominikanska republika
+    DO: "Dominikanska republika"
     DZ: Alžirija
-    EA: Ceuta in Melilla
+    EA: "Ceuta in Melilla"
     EC: Ekvador
     EE: Estonija
     EG: Egipt
-    EH: Zahodna Sahara
+    EH: "Zahodna Sahara"
     ER: Eritreja
     ES: Španija
     ET: Etiopija
-    EU: Evropska unija
+    EU: "Evropska unija"
     FI: Finska
     FJ: Fidži
-    FK: Falklandski otoki
+    FK: "Falklandski otoki"
     FM: Mikronezija
-    FO: Ferski otoki
+    FO: "Ferski otoki"
     FR: Francija
     GA: Gabon
-    GB: Velika Britanija
+    GB: "Velika Britanija"
     GD: Grenada
     GE: Gruzija
-    GF: Francoska Gvajana
+    GF: "Francoska Gvajana"
     GG: Guernsey
     GH: Gana
     GI: Gibraltar
@@ -94,26 +93,26 @@ sl:
     GM: Gambija
     GN: Gvineja
     GP: Gvadalupe
-    GQ: Ekvatorialna Gvineja
+    GQ: "Ekvatorialna Gvineja"
     GR: Grčija
-    GS: Južna Georgia in Južni Sandwichevi otoki
+    GS: "Južna Georgia in Južni Sandwichevi otoki"
     GT: Gvatemala
     GU: Guam
-    GW: Gvineja Bissau
+    GW: "Gvineja Bissau"
     GY: Gvajana
-    HK: Posebno administrativno območje LR Kitajske Hong Kong
-    HM: Heardov otok in McDonaldovi otoki
+    HK: "Posebno administrativno območje LR Kitajske Hong Kong"
+    HM: "Heardov otok in McDonaldovi otoki"
     HN: Honduras
     HR: Hrvaška
     HT: Haiti
     HU: Madžarska
-    IC: Kanarski otoki
+    IC: "Kanarski otoki"
     ID: Indonezija
     IE: Irska
     IL: Izrael
-    IM: Otok Man
+    IM: "Otok Man"
     IN: Indija
-    IO: Britansko ozemlje v Indijskem oceanu
+    IO: "Britansko ozemlje v Indijskem oceanu"
     IQ: Irak
     IR: Iran
     IS: Islandija
@@ -127,15 +126,15 @@ sl:
     KH: Kambodža
     KI: Kiribati
     KM: Komori
-    KN: Saint Kitts in Nevis
-    KP: Severna Koreja
-    KR: Južna Koreja
+    KN: "Saint Kitts in Nevis"
+    KP: "Severna Koreja"
+    KR: "Južna Koreja"
     KW: Kuvajt
-    KY: Kajmanski otoki
+    KY: "Kajmanski otoki"
     KZ: Kazahstan
     LA: Laos
     LB: Libanon
-    LC: Saint Lucia
+    LC: "Saint Lucia"
     LI: Lihtenštajn
     LK: Šrilanka
     LR: Liberija
@@ -147,16 +146,16 @@ sl:
     MA: Maroko
     MC: Monako
     MD: Moldavija
-    ME: Črna gora
-    MF: Saint Martin
+    ME: "Črna gora"
+    MF: "Saint Martin"
     MG: Madagaskar
-    MH: Marshallovi otoki
+    MH: "Marshallovi otoki"
     MK: Makedonija
     ML: Mali
-    MM: Mjanmar (Burma)
+    MM: "Mjanmar (Burma)"
     MN: Mongolija
-    MO: Posebno administrativno območje LR Kitajske Macao
-    MP: Severni Marianski otoki
+    MO: "Posebno administrativno območje LR Kitajske Macao"
+    MP: "Severni Marianski otoki"
     MQ: Martinik
     MR: Mavretanija
     MS: Montserrat
@@ -168,96 +167,96 @@ sl:
     MY: Malezija
     MZ: Mozambik
     NA: Namibija
-    NC: Nova Kaledonija
+    NC: "Nova Kaledonija"
     NE: Niger
-    NF: Norfolški otok
+    NF: "Norfolški otok"
     NG: Nigerija
     NI: Nikaragva
     NL: Nizozemska
-    'NO': Norveška
+    "NO": Norveška
     NP: Nepal
     NR: Nauru
     NU: Niue
-    NZ: Nova Zelandija
+    NZ: "Nova Zelandija"
     OM: Oman
     PA: Panama
     PE: Peru
-    PF: Francoska Polinezija
-    PG: Papua Nova Gvineja
+    PF: "Francoska Polinezija"
+    PG: "Papua Nova Gvineja"
     PH: Filipini
     PK: Pakistan
     PL: Poljska
-    PM: Saint Pierre in Miquelon
+    PM: "Saint Pierre in Miquelon"
     PN: Pitcairn
     PR: Portoriko
-    PS: Palestinsko ozemlje
+    PS: "Palestinsko ozemlje"
     PT: Portugalska
     PW: Palau
     PY: Paragvaj
     QA: Katar
-    QO: Ostala oceanija
+    QO: "Ostala oceanija"
     RE: Reunion
     RO: Romunija
     RS: Srbija
     RU: Rusija
     RW: Ruanda
-    SA: Saudova Arabija
-    SB: Salomonovi otoki
+    SA: "Saudova Arabija"
+    SB: "Salomonovi otoki"
     SC: Sejšeli
     SD: Sudan
     SE: Švedska
     SG: Singapur
-    SH: Sveta Helena
+    SH: "Sveta Helena"
     SI: Slovenija
-    SJ: Svalbard in Jan Mayen
+    SJ: "Svalbard in Jan Mayen"
     SK: Slovaška
-    SL: Sierra Leone
-    SM: San Marino
+    SL: "Sierra Leone"
+    SM: "San Marino"
     SN: Senegal
     SO: Somalija
     SR: Surinam
-    SS: Južni Sudan
-    ST: Sao Tome in Principe
+    SS: "Južni Sudan"
+    ST: "Sao Tome in Principe"
     SV: Salvador
-    SX: Sint Maarten
+    SX: "Sint Maarten"
     SY: Sirija
     SZ: Svazi
-    TA: Tristan da Cunha
-    TC: Otočji Turks in Caicos
+    TA: "Tristan da Cunha"
+    TC: "Otočji Turks in Caicos"
     TD: Čad
-    TF: Francosko južno ozemlje
+    TF: "Francosko južno ozemlje"
     TG: Togo
     TH: Tajska
     TJ: Tadžikistan
     TK: Tokelau
-    TL: Vzhodni Timor
+    TL: "Vzhodni Timor"
     TM: Turkmenistan
     TN: Tunizija
     TO: Tonga
     TR: Turčija
-    TT: Trinidad in Tobago
+    TT: "Trinidad in Tobago"
     TV: Tuvalu
     TW: Tajvan
     TZ: Tanzanija
     UA: Ukrajina
     UG: Uganda
-    UM: Druga ameriška ozemlja v Tihem oceanu
-    US: Združene države Amerike
+    UM: "Druga ameriška ozemlja v Tihem oceanu"
+    US: "Združene države Amerike"
     UY: Urugvaj
     UZ: Uzbekistan
     VA: Vatikan
-    VC: Saint Vincent in Grenadine
+    VC: "Saint Vincent in Grenadine"
     VE: Venezuela
-    VG: Britanski Deviški otoki
-    VI: Ameriški Deviški otoki
+    VG: "Britanski Deviški otoki"
+    VI: "Ameriški Deviški otoki"
     VN: Vietnam
     VU: Vanuatu
-    WF: Wallis in Futuna
+    WF: "Wallis in Futuna"
     WS: Samoa
     XK: Kosovo
     YE: Jemen
     YT: Mayotte
-    ZA: Južnoafriška republika
+    ZA: "Južnoafriška republika"
     ZM: Zambija
     ZW: Zimbabve
-    ZZ: Neznano ali neveljavno območje
+    ZZ: "Neznano ali neveljavno območje"

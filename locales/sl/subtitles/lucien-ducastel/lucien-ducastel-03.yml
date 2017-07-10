@@ -1,217 +1,196 @@
----
 sl:
   lucien-ducastel:
     chapter-3:
       c: 3
-      title: Semi-clandestine activities 1939-41
+      title: "Semi-clandestine activities 1939-41"
       subtitles:
         sequence-1:
           s: 1
-          from: 00:00:00,14
-          to: 00:00:08,17
-          text: The reason we distributed these leaflets was to alert the population
-            and the workers in the factories.
+          from: "00:00:00,14"
+          to: "00:00:08,17"
+          text: "The reason we distributed these leaflets was to alert the population and the workers in the factories."
         sequence-2:
           s: 2
-          from: 00:00:08,17
-          to: 00:00:09,25
-          text: ''
+          from: "00:00:08,17"
+          to: "00:00:09,25"
+          text: ~
         sequence-3:
           s: 3
-          from: 00:00:09,25
-          to: 00:00:16,09
-          text: We distributed leaflets in front of the factories and in different
-            neighborhoods.
+          from: "00:00:09,25"
+          to: "00:00:16,09"
+          text: "We distributed leaflets in front of the factories and in different neighborhoods."
         sequence-4:
           s: 4
-          from: 00:00:16,09
-          to: 00:00:23,01
-          text: Often we would do that at night. But at night there were also police
-            patrols.
+          from: "00:00:16,09"
+          to: "00:00:23,01"
+          text: "Often we would do that at night. But at night there were also police patrols."
         sequence-5:
           s: 5
-          from: 00:00:23,01
-          to: 00:00:36,07
-          text: So there would be two or three of us to distribute the leaflets and
-            two or three to watch out for the police.
+          from: "00:00:23,01"
+          to: "00:00:36,07"
+          text: "So there would be two or three of us to distribute the leaflets and two or three to watch out for the police."
         sequence-6:
           s: 6
-          from: 00:00:36,07
-          to: 00:00:40,00
-          text: We had to be very careful.
+          from: "00:00:36,07"
+          to: "00:00:40,00"
+          text: "We had to be very careful."
         sequence-7:
           s: 7
-          from: 00:00:40,00
-          to: 00:00:40,18
-          text: ''
+          from: "00:00:40,00"
+          to: "00:00:40,18"
+          text: ~
         sequence-8:
           s: 8
-          from: 00:00:40,18
-          to: 00:00:52,14
-          text: 'We took many precautions: we’d hide the material to make the leaflets
-            at someone’s place, the paper with somebody else.'
+          from: "00:00:40,18"
+          to: "00:00:52,14"
+          text: "We took many precautions: we’d hide the material to make the leaflets at someone’s place, the paper with somebody else."
         sequence-9:
           s: 9
-          from: 00:00:52,14
-          to: 00:00:59,03
-          text: We’d try to distribute them at night, to escape from the police.
+          from: "00:00:52,14"
+          to: "00:00:59,03"
+          text: "We’d try to distribute them at night, to escape from the police."
         sequence-10:
           s: 10
-          from: 00:00:59,03
-          to: 00:01:03,00
-          text: But the police was there at night as well.
+          from: "00:00:59,03"
+          to: "00:01:03,00"
+          text: "But the police was there at night as well."
         sequence-11:
           s: 11
-          from: 00:01:03,00
-          to: 00:01:03,26
-          text: ''
+          from: "00:01:03,00"
+          to: "00:01:03,26"
+          text: ~
         sequence-12:
           s: 12
-          from: 00:01:03,26
-          to: 00:01:11,14
-          text: We also handed out leaflets at the gates of the factories, even though
-            we were quite visible there.
+          from: "00:01:03,26"
+          to: "00:01:11,14"
+          text: "We also handed out leaflets at the gates of the factories, even though we were quite visible there."
         sequence-13:
           s: 13
-          from: 00:01:11,14
-          to: 00:01:18,00
-          text: We took precautions there as well. One of us would be on the look
-            out for the police.
+          from: "00:01:11,14"
+          to: "00:01:18,00"
+          text: "We took precautions there as well. One of us would be on the look out for the police."
         sequence-14:
           s: 14
-          from: 00:01:18,00
-          to: 00:01:18,27
-          text: ''
+          from: "00:01:18,00"
+          to: "00:01:18,27"
+          text: ~
         sequence-15:
           s: 15
-          from: 00:01:18,27
-          to: 00:01:25,20
-          text: We’d leave around two or three o’clock in the morning to distribute
-            the leaflets.
+          from: "00:01:18,27"
+          to: "00:01:25,20"
+          text: "We’d leave around two or three o’clock in the morning to distribute the leaflets."
         sequence-16:
           s: 16
-          from: 00:01:25,20
-          to: 00:01:34,01
-          text: Sometimes we’d distribute them in front of the factory gates, even
-            though that was very risky.
+          from: "00:01:25,20"
+          to: "00:01:34,01"
+          text: "Sometimes we’d distribute them in front of the factory gates, even though that was very risky."
         sequence-17:
           s: 17
-          from: 00:01:34,01
-          to: 00:01:35,04
-          text: ''
+          from: "00:01:34,01"
+          to: "00:01:35,04"
+          text: ~
         sequence-18:
           s: 18
-          from: 00:01:35,04
-          to: 00:01:46,06
-          text: It was also difficult to produce the leaflets. It was good to distribute
-            them, but they had to be made first!
+          from: "00:01:35,04"
+          to: "00:01:46,06"
+          text: "It was also difficult to produce the leaflets. It was good to distribute them, but they had to be made first!"
         sequence-19:
           s: 19
-          from: 00:01:46,06
-          to: 00:01:54,00
-          text: So we tried to find friends that were not too well known and take
-            the material there -
+          from: "00:01:46,06"
+          to: "00:01:54,00"
+          text: "So we tried to find friends that were not too well known and take the material there -"
         sequence-20:
           s: 20
-          from: 00:01:54,00
-          to: 00:02:02,12
-          text: the mimeograph machine, and the typewriter and hide them in the basement.
+          from: "00:01:54,00"
+          to: "00:02:02,12"
+          text: "the mimeograph machine, and the typewriter and hide them in the basement."
         sequence-21:
           s: 21
-          from: 00:02:02,12
-          to: 00:02:15,00
-          text: We had to take precautions to protect these friends, but to be able
-            to continue with our activities as well.
+          from: "00:02:02,12"
+          to: "00:02:15,00"
+          text: "We had to take precautions to protect these friends, but to be able to continue with our activities as well."
         sequence-22:
           s: 22
-          from: 00:02:15,00
-          to: 00:02:15,24
-          text: ''
+          from: "00:02:15,00"
+          to: "00:02:15,24"
+          text: ~
         sequence-23:
           s: 23
-          from: 00:02:15,24
-          to: 00:02:23,29
-          text: We organized ourselves, trying to find places where we could secretly
-            meet,
+          from: "00:02:15,24"
+          to: "00:02:23,29"
+          text: "We organized ourselves, trying to find places where we could secretly meet,"
         sequence-24:
           s: 24
-          from: 00:02:23,29
-          to: 00:02:26,25
-          text: ''
+          from: "00:02:23,29"
+          to: "00:02:26,25"
+          text: ~
         sequence-25:
           s: 25
-          from: 00:02:26,25
-          to: 00:02:36,14
-          text: where two or three of us could meet, maybe four, never more than four.
+          from: "00:02:26,25"
+          to: "00:02:36,14"
+          text: "where two or three of us could meet, maybe four, never more than four."
         sequence-26:
           s: 26
-          from: 00:02:36,14
-          to: 00:02:48,10
-          text: We would meet in a basement or at friends’ not known for their political
-            activities, but willing to help.
+          from: "00:02:36,14"
+          to: "00:02:48,10"
+          text: "We would meet in a basement or at friends’ not known for their political activities, but willing to help."
         sequence-27:
           s: 27
-          from: 00:02:48,10
-          to: 00:02:55,16
-          text: They would let us in. We’d arrive at different times.
+          from: "00:02:48,10"
+          to: "00:02:55,16"
+          text: "They would let us in. We’d arrive at different times."
         sequence-28:
           s: 28
-          from: 00:02:55,16
-          to: 00:03:07,25
-          text: But then there was also the need to hide the material, the mimeograph,
-            the typewriter etc…
+          from: "00:02:55,16"
+          to: "00:03:07,25"
+          text: "But then there was also the need to hide the material, the mimeograph, the typewriter etc…"
         sequence-29:
           s: 29
-          from: 00:03:07,25
-          to: 00:03:10,10
-          text: We had to be careful with all of that.
+          from: "00:03:07,25"
+          to: "00:03:10,10"
+          text: "We had to be careful with all of that."
         sequence-30:
           s: 30
-          from: 00:03:10,10
-          to: 00:03:12,02
-          text: ''
+          from: "00:03:10,10"
+          to: "00:03:12,02"
+          text: ~
         sequence-31:
           s: 31
-          from: 00:03:12,02
-          to: 00:03:19,06
-          text: There were various newspaper publications in the Rouen region,
+          from: "00:03:12,02"
+          to: "00:03:19,06"
+          text: "There were various newspaper publications in the Rouen region,"
         sequence-32:
           s: 32
-          from: 00:03:19,06
-          to: 00:03:29,22
-          text: talking about the number of political activists being arrested. One
-            had to be very careful.
+          from: "00:03:19,06"
+          to: "00:03:29,22"
+          text: "talking about the number of political activists being arrested. One had to be very careful."
         sequence-33:
           s: 33
-          from: 00:03:29,22
-          to: 00:03:30,15
-          text: ''
+          from: "00:03:29,22"
+          to: "00:03:30,15"
+          text: ~
         sequence-34:
           s: 34
-          from: 00:03:30,15
-          to: 00:03:36,06
-          text: We had a certain amount of support in the population.
+          from: "00:03:30,15"
+          to: "00:03:36,06"
+          text: "We had a certain amount of support in the population."
         sequence-35:
           s: 35
-          from: 00:03:36,06
-          to: 00:03:43,06
-          text: 'Some people said we shouldn’t do that, or when we were arrested,
-            they’d say:'
+          from: "00:03:36,06"
+          to: "00:03:43,06"
+          text: "Some people said we shouldn’t do that, or when we were arrested, they’d say:"
         sequence-36:
           s: 36
-          from: 00:03:43,06
-          to: 00:03:53,16
-          text: "“They shouldn’t have done that”, but others did support us, some
-            of them very quietly because they were afraid."
+          from: "00:03:43,06"
+          to: "00:03:53,16"
+          text: "“They shouldn’t have done that”, but others did support us, some of them very quietly because they were afraid."
         sequence-37:
           s: 37
-          from: 00:03:53,16
-          to: 00:04:03,17
-          text: If the police detected a connection between a person and well-known
-            political activist, you could be arrested.
+          from: "00:03:53,16"
+          to: "00:04:03,17"
+          text: "If the police detected a connection between a person and well-known political activist, you could be arrested."
         sequence-38:
           s: 38
-          from: 00:04:03,17
-          to: 00:04:17,00
-          text: It was dangerous for us as well as for the people we’d give the material
-            to - if they were caught by the police etc. It was very difficult.
+          from: "00:04:03,17"
+          to: "00:04:17,00"
+          text: "It was dangerous for us as well as for the people we’d give the material to - if they were caught by the police etc. It was very difficult."
