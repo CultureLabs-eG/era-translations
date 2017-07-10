@@ -3,40 +3,38 @@ de:
   giovanna-quadreri:
     chapter-1:
       c: 1
-      title: Introduction, family, work
+      title: Einleitung, Familie, Arbeit
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:01,17
           to: 00:00:23,01
-          text: My father was a foundling, who was adopted by my grandfather, Carlo
-            Zebenini, when he was just a baby.
+          text: Mein Vater war ein Findelkind und wurde von meinem Großvater, Carlo Zebenini, adoptiert als er noch ein Baby war.
         sequence-2:
           s: 2
           from: 00:00:23,01
           to: 00:00:27,01
-          text: My father’s name was Reino Quadreri.
+          text: Mein Vater hieß Reino Quadreri.
         sequence-3:
           s: 3
           from: 00:00:27,01
           to: 00:00:33,07
-          text: My mother was born in Reggio, her name was Valentina Paterni.
+          text: Meine Mutter wurde in Reggio geboren, ihr Name war Valentina Paterni.
         sequence-4:
           s: 4
           from: 00:00:33,07
           to: 00:00:47,02
-          text: Should I go on? Then, there was my brother Gastone, who was born in
-            1917, and Giulio, born in 1925.
+          text: Soll ich weitermachen? Dann war da mein Bruder Gastone, der 1917 geboren wurde, und Giulio, 1925 geboren.
         sequence-5:
           s: 5
           from: 00:00:47,02
           to: 00:00:56,17
-          text: My sister Laura was born in 1926, then it was my turn in 1928.
+          text: Meine Schwester Laura wurde 1926 geboren und danach kam ich im Jahr 1928.
         sequence-6:
           s: 6
           from: 00:00:56,17
           to: 00:01:06,06
-          text: Finally, Aldo in 1931 and Renzo in 1933.
+          text: Schlussendlich noch Aldo 1931 und Renzo 1933.
         sequence-7:
           s: 7
           from: 00:01:06,06
@@ -46,13 +44,12 @@ de:
           s: 8
           from: 00:01:09,19
           to: 00:01:13,05
-          text: Luckily my mother was a dressmaker.
+          text: Meine Mutter war Schneiderin, zum Glück.
         sequence-9:
           s: 9
           from: 00:01:13,05
           to: 00:01:23,06
-          text: We had a house and some land, however, with such a large family, my
-            father had to work as a labourer.
+          text: Wir hatten ein Haus und ein wenig Land, aber mit so einer großen Familie musste mein Vater sich trotzdem als Arbeiter betätigen.
         sequence-10:
           s: 10
           from: 00:01:23,06
@@ -62,32 +59,27 @@ de:
           s: 11
           from: 00:01:27,09
           to: 00:01:34,23
-          text: We didn’t have any­thing even before the war, then everything got
-            even worse.
+          text: Selbst vor dem Krieg hatten wir schon nichts, und dann wurde alles noch schlechter.
         sequence-12:
           s: 12
           from: 00:01:34,23
           to: 00:01:42,03
-          text: My brothers only attended school until the third grade, which was
-            all that Marola offered.
+          text: Meine Brüder hatten nur bis zur dritten Klasse Schule, mehr gab es in Marola nicht.
         sequence-13:
           s: 13
           from: 00:01:42,03
           to: 00:01:49,15
-          text: I was the only one who went on to the fifth grade, but in order to
-            do so I had to go to Carpineti.
+          text: Ich hatte als Einzige bis zur fünften Klasse Schule, aber dafür musste ich nach Carpineti gehen.
         sequence-14:
           s: 14
           from: 00:01:49,15
           to: 00:01:57,19
-          text: We stayed at home; my brothers worked occasionally, often as farm-hands
-            for other families.
+          text: Wir blieben zu Hause; meine Brüder arbeiteten gelegentlich, oft als Helfer auf dem Feld für andere Familien.
         sequence-15:
           s: 15
           from: 00:01:57,19
           to: 00:02:09,28
-          text: My older brother worked as a bricklayer in the seminary for ten years,
-            before he was drafted into the army when he was 20.
+          text: Mein älterer Bruder arbeitete 10 Jahre lang als Maurer für das Priesterseminar, bevor er im Alter von 20 in die Armee eingezogen wurde.
         sequence-16:
           s: 16
           from: 00:02:09,28
@@ -97,35 +89,32 @@ de:
           s: 17
           from: 00:02:10,28
           to: 00:02:15,12
-          text: My father worked whenever he could find work.
+          text: Mein Vater arbeitete wann immer er Arbeit finden konnte.
         sequence-18:
           s: 18
           from: 00:02:15,12
           to: 00:02:25,24
-          text: He only had a regular job in the summer, when he left for almost two
-            months to go thresh the fields.
+          text: Er hatte nur im Sommer regelmäßig Arbeit, wenn er für fast zwei Monate zum Dreschen in die Felder ging.
         sequence-19:
           s: 19
           from: 00:02:25,24
           to: 00:02:34,23
-          text: You can still see those machines around the villages during the threshing
-            season,
+          text: Sie können diese Maschinen während der Dreschzeit immer noch in den Dörfern sehen,
         sequence-20:
           s: 20
           from: 00:02:34,23
           to: 00:02:43,02
-          text: and he was very good with them, so they would go work for almost two
-            months.
+          text: und er war sehr gut damit, so hatten sie für fast zwei Monate Arbeit.
         sequence-21:
           s: 21
           from: 00:02:43,02
           to: 00:02:49,14
-          text: My father worked for this family every summer for 42 years,
+          text: Mein Vater arbeitete für diese Familie jeden Sommer, 42 Jahre lang,
         sequence-22:
           s: 22
           from: 00:02:49,14
           to: 00:02:54,02
-          text: and that was the only regular salary throughout the year.
+          text: und das war das einzige regelmäßige Einkommen im ganzen Jahr.
         sequence-23:
           s: 23
           from: 00:02:54,02
