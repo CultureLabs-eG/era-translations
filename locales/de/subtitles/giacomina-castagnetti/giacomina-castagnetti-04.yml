@@ -3,18 +3,18 @@ de:
   giacomina-castagnetti:
     chapter-4:
       c: 4
-      title: 'Education: news in the cattle shed, books'
+      title: 'Bildung: Neuigkeiten im Kuhstall, Bücher'
       subtitles:
         sequence-1:
           s: 1
           from: 00:00:04,11
           to: 00:00:11,04
-          text: In the winter we used the cattle shed as our meeting place.
+          text: Im Winter war der Kuhstall unser Treffpunkt.
         sequence-2:
           s: 2
           from: 00:00:11,04
           to: 00:00:19,12
-          text: Friends could finally spend some time together.
+          text: Freunde konnten endlich etwas Zeit miteinander verbringen.
         sequence-3:
           s: 3
           from: 00:00:19,12
@@ -24,22 +24,23 @@ de:
           s: 4
           from: 00:00:23,18
           to: 00:00:29,29
-          text: Social and political activities took place in the cattle shed,
+          text: Soziale und politische Aktivitäten fanden im Kuhstall statt,
         sequence-5:
           s: 5
           from: 00:00:29,29
           to: 00:00:37,20
-          text: as well as love affairs, since boys and girls met there.
+          text: genau so wie Liebesaffären, weil Jungen und Mädchen sich dort trafen.
         sequence-6:
           s: 6
           from: 00:00:37,20
           to: 00:00:45,12
-          text: I would sneak in and day by day my curiosity would grow.
+          text: Ich schlich mich hinein und Tag um Tag wuchs meine Neugier.
         sequence-7:
           s: 7
           from: 00:00:45,12
           to: 00:00:55,15
-          text: Maybe it was my disposition, by I really had so much fun there. That’s
+          text: Vielleicht war es Veranlagung, aber ich hab dort viel Spaß gehabt. Man konnte dort alle Neuigkeiten erfahren.
+            Maybe it was my disposition, b___ut___y I really had so much fun there. That’s
             where all the news could be heard.
         sequence-8:
           s: 8
@@ -50,18 +51,21 @@ de:
           s: 9
           from: 00:00:56,16
           to: 00:00:59,29
-          text: I was hearing everyday news,
+          text: Ich hörte die allgemeinen Neuigkeiten,
+            I was hearing everyday news,
         sequence-10:
           s: 10
           from: 00:00:59,29
           to: 00:01:07,22
-          text: but especially political discussions which were starting to take place
+          text: aber insbesondere auch politische Diskussionen, die auch in Zuhause häufiger stattfanden.
+            but especially political discussions which were starting to take place
             at our house.
         sequence-11:
           s: 11
           from: 00:01:07,22
           to: 00:01:17,01
-          text: I began to hear that a lot of people didn’t agree with fascism.
+          text: Ich lernte, dass viele Leute nicht dem Faschismus anhingen.
+            I began to hear that a lot of people didn’t agree with fascism.
         sequence-12:
           s: 12
           from: 00:01:17,01
@@ -71,12 +75,13 @@ de:
           s: 13
           from: 00:01:18,25
           to: 00:01:24,17
-          text: The tone was always rather timid and veiled though.
+          text: Der Tonfall war aber immer eher verhalten und hinter vorgehaltener Hand.
+            The tone was always rather timid and veiled though.
         sequence-14:
           s: 14
           from: 00:01:24,17
           to: 00:01:32,10
-          text: Even a joke regarding the Duce could have got you in jail then.
+          text: Selbst ein Witz über den Duce konnte einen ins Gefängnis bringen, damals.
         sequence-15:
           s: 15
           from: 00:01:32,10
@@ -86,17 +91,20 @@ de:
           s: 16
           from: 00:01:34,03
           to: 00:01:41,20
-          text: I remember a story regarding a young man who was beaten
+          text: Ich erinnere mich an eine Geschichte über einen jungen Mann, der geprügelt wurde,
+            I remember a story regarding a young man who was beaten
         sequence-17:
           s: 17
           from: 00:01:41,20
           to: 00:01:50,09
-          text: since he hadn’t saluted a fascist with the fascist salute.
+          text: weil er einen Faschisten nicht mit dem faschistischen Gruß begrüßte.
+            since he hadn’t saluted a fascist with the fascist salute.
         sequence-18:
           s: 18
           from: 00:01:50,09
           to: 00:02:03,13
-          text: I was really shocked by the fact that a boy could be beaten for this.
+          text: Ich war ziemlich geschockt deswegen. Dass ein Junge dafür geschlagen werden konnte.
+            I was really shocked by the fact that a boy could be beaten for this.
         sequence-19:
           s: 19
           from: 00:02:03,13
@@ -106,7 +114,8 @@ de:
           s: 20
           from: 00:02:04,28
           to: 00:02:15,08
-          text: I found out that many of these young men didn’t want to take part
+          text:
+            I found out that many of these young men didn’t want to take part
             in the “fascist Saturday”
         sequence-21:
           s: 21
