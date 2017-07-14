@@ -1,5 +1,5 @@
 pl:
-  language: language
+  language: ~
   interviewers: "interview team"
   cameramen: "camera team"
   date_of_interview: "date of interview"
@@ -33,12 +33,12 @@ pl:
   transcript: Transcription
   photo_gallery: Gallery
   era_languages:
-    de: German
-    fr: French
-    en: English
-    pl: Polish
-    it: Italian
-    sl: Slovenian
+    de: ~
+    fr: ~
+    en: ~
+    pl: ~
+    it: ~
+    sl: ~
   download_links:
     transcript_interview_language: "Original interview language (%{language})"
     transcript_interview_translation: "%{language} translation"

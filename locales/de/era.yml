@@ -32,7 +32,17 @@ de:
   shortbio: Biography
   transcript: Transkription
   photo_gallery: Gallery
-  resistance_movement_in: "Resistance movements in..."
-  subtitle_flash_message: "For this video interview subtitles are available. Please use the subtitle button in the YouTube player to show/hide them."
+  era_languages:
+    de: Deutsch
+    fr: Französisch
+    en: English
+    pl: Polnisch
+    it: Italienisch
+    sl: Slowenisch
   download_links:
     transcript_interview_language: "Original interview language (%{language})"
+    transcript_interview_translation: "%{language} translation"
+  download_transcript: "Download transcript (PDF format)"
+  resistance_movement_in: "Resistance movements in..."
+  testimonies_from: "Testimonies from %{country}"
+  subtitle_flash_message: "For this video interview subtitles are available. Please use the subtitle button in the YouTube player to show/hide them."

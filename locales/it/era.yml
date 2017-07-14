@@ -1,5 +1,5 @@
 it:
-  language: language
+  language: lingua
   interviewers: intervistatori
   cameramen: riprese
   date_of_interview: "data dell'intervista"
@@ -33,12 +33,12 @@ it:
   transcript: Trascritti
   photo_gallery: Galleria
   era_languages:
-    de: German
-    fr: French
-    en: English
-    pl: Polish
-    it: Italian
-    sl: Slovenian
+    de: ~
+    fr: ~
+    en: ~
+    pl: ~
+    it: ~
+    sl: ~
   download_links:
     transcript_interview_language: "Original interview language (%{language})"
     transcript_interview_translation: "%{language} translation"
