@@ -2,33 +2,33 @@ de:
   vincent-pascucci:
     chapter-3:
       c: 3
-      title: "First resistance activities"
+      title: "Erste Aktivitäten im Widerstand"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:02,08"
           to: "00:00:08,11"
-          text: "On September 3rd, 1939, war was declared."
+          text: "Am 3. September 1939 wurde der Krieg erklärt."
         sequence-2:
           s: 2
           from: "00:00:08,11"
           to: "00:00:17,00"
-          text: "My father was mobilized as we had become French citizens."
+          text: "Mein Vater wurde mobilisiert, da wir jetzt französische Staatsbürger waren."
         sequence-3:
           s: 3
           from: "00:00:17,00"
           to: "00:00:26,26"
-          text: "He was sent to the East. But they did not even have weapons."
+          text: "Er wurde in den Osten geschickt. Aber sie hatten nicht einmal Waffen."
         sequence-4:
           s: 4
           from: "00:00:26,26"
           to: "00:00:39,09"
-          text: "Unfortunately, I lost my mother at that time and my father came back to take care of the family."
+          text: "Leider verlor ich meine Mutter zu der Zeit und mein Vater kehrte zurück, um sich um die Familie zu kümmern."
         sequence-5:
           s: 5
           from: "00:00:39,09"
           to: "00:00:49,04"
-          text: "During the time it took him to come home, my aunt and uncle took care of us, my brother and me."
+          text: "Bis er wieder zu Hause war, kümmerten sich meine Tante und mein Onkel um uns – um meinen Bruder und mich."
         sequence-6:
           s: 6
           from: "00:00:49,04"
@@ -38,22 +38,22 @@ de:
           s: 7
           from: "00:00:55,04"
           to: "00:01:11,11"
-          text: "In 1940, when the danger of German occupation was imminent, my aunt wanted us to go to Southern France."
+          text: "1940, als die Gefahr einer deutschen Besatzung immanent war, wollte meine Tante, dass wir nach Südfrankreich gehen."
         sequence-8:
           s: 8
           from: "00:01:11,11"
           to: "00:01:23,13"
-          text: "We got to know the so-called “débacle” – the total collapse – during our flight."
+          text: "Wir lernten das sogenannte “débacle” – den totalen Zusammenbruch – während unserer Flucht kennen."
         sequence-9:
           s: 9
           from: "00:01:23,13"
           to: "00:01:29,19"
-          text: "We left by foot, pushing our suitcases on bikes."
+          text: "Wir gingen zu Fuß los. Wir schoben unsere Koffer auf Fahrrädern."
         sequence-10:
           s: 10
           from: "00:01:29,19"
           to: "00:01:34,05"
-          text: "In Le Mans the Germans caught up with us."
+          text: "In Le Mans holten uns die Deutschen ein."
         sequence-11:
           s: 11
           from: "00:01:34,05"
@@ -63,17 +63,17 @@ de:
           s: 12
           from: "00:01:35,09"
           to: "00:01:44,13"
-          text: "When the Germans got in front of us, we returned to Nanterre."
+          text: "Als die Deutschen vor uns waren, kehrten wir nach Nanterre zurück."
         sequence-13:
           s: 13
           from: "00:01:44,13"
           to: "00:01:49,13"
-          text: "The city was almost empty at the time."
+          text: "Die Stadt war zu der Zeit fast leer."
         sequence-14:
           s: 14
           from: "00:01:49,13"
           to: "00:01:57,17"
-          text: "It was July and Nanterre had been occupied on June 14th, 1940."
+          text: "Es war Juli, Nanterre wurde am 14. Juni 1940 besetzt."
         sequence-15:
           s: 15
           from: "00:01:57,17"
@@ -83,12 +83,12 @@ de:
           s: 16
           from: "00:01:58,17"
           to: "00:02:05,17"
-          text: "There were very few working factories."
+          text: "Es gab nur sehr wenige funktionierende Fabriken."
         sequence-17:
           s: 17
           from: "00:02:05,17"
           to: "00:02:19,10"
-          text: "I got back in touch with my comrades from the Communist Youth Movement and we started…"
+          text: "Ich kam wieder in Kontakt mit meinen Kameradinnen der Kommunistischen Jugendbewegung und wir begannen…"
         sequence-18:
           s: 18
           from: "00:02:19,10"
