@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:12,22"
           to: "00:00:26,02"
-          text: "It was then I joined the labor movement. I participated in the big strikes of 1936. I was 16, worked in a factory."
+          text: "È lì che sono entrato nel movimento operaio. Ho partecipato agli scioperi del 1936. Avevo 16 e lavoravo in fabbrica."
         sequence-3:
           s: 3
           from: "00:00:26,02"
@@ -23,17 +23,17 @@ it:
           s: 4
           from: "00:00:26,25"
           to: "00:00:33,00"
-          text: "Later on, in 1937/1938 I joined the Communist Youth Movement."
+          text: "Nel 1937/1938 sono entrato nella Gioventù Comunista,"
         sequence-5:
           s: 5
           from: "00:00:33,00"
           to: "00:00:39,17"
-          text: "There you could fight for your demands."
+          text: "che ci permetteva di combattere per le nostre rivendicazioni."
         sequence-6:
           s: 6
           from: "00:00:39,17"
           to: "00:00:47,16"
-          text: "My friends at the time asked me, “Why don’t you join the Communist Youth Movement?” So I did."
+          text: "Avevo dei compagni che mi chiedevano: “Perché non entri nella Gioventù Comunista?” E così l'ho fatto."
         sequence-7:
           s: 7
           from: "00:00:47,16"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:48,08"
           to: "00:00:59,10"
-          text: "In 1936 we participated in the Trade Union’s activities. We participated in the strikes and then I joined the Communist Youth Movement."
+          text: "Nel '36 partecipavamo alle attività sindacali, alle manifestazioni e a tutto quello che succedeva, ed è lì che sono entrato nella Gioventù Comunista."
         sequence-9:
           s: 9
           from: "00:00:59,10"
@@ -53,22 +53,22 @@ it:
           s: 10
           from: "00:00:59,24"
           to: "00:01:12,06"
-          text: "It meant that we had to prepare ourselves to go undercover. We were in a semi-undercover state."
+          text: "Questo ha cambiato molte cose. Eravamo obbligati a prendere delle disposizioni per nasconderci, in una sorta di clandestinità."
         sequence-11:
           s: 11
           from: "00:01:12,06"
           to: "00:01:22,12"
-          text: "The Communist Party and the Communist Youth Movement had been outlawed, which caused a lot of turmoil."
+          text: "L'interdizione del Partito Comunista e della Gioventù Comunista avevano fatto scalpore."
         sequence-12:
           s: 12
           from: "00:01:22,12"
           to: "00:01:27,05"
-          text: "My father, who had anarchist tendencies,"
+          text: "E mio padre, che era un po' anarchico, mi ha detto:"
         sequence-13:
           s: 13
           from: "00:01:27,05"
           to: "00:01:37,28"
-          text: "asked me if I was going to stop my activities as he thought I was going to pay dearly."
+          text: "\"Ti dovrai fermare! Ti costerà cara, hai visto che hanno proibito questo, hanno fatto quello…\""
         sequence-14:
           s: 14
           from: "00:01:37,28"
