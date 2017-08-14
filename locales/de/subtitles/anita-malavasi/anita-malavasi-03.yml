@@ -278,7 +278,7 @@ de:
           s: 55
           from: "00:05:56,15"
           to: "00:06:01,10"
-          text: "that’s what got us to face danger, too."
+          text: "Das war, was auch uns in Gefahr brachte."
         sequence-56:
           s: 56
           from: "00:06:01,10"
@@ -288,4 +288,4 @@ de:
           s: 57
           from: "00:06:07,01"
           to: "00:06:13,25"
-          text: "I never pulled myself out anymore in regards to all the things I was asked to do."
+          text: "Ich habe nie wieder gezögert, die Dinge zu tun, um die man mich bat."
