@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:45,12"
           to: "00:00:55,15"
-          text: "Vielleicht war es Veranlagung, aber ich hab dort viel Spaß gehabt. Man konnte dort alle Neuigkeiten erfahren. Maybe it was my disposition, b___ut___y I really had so much fun there. That’s where all the news could be heard."
+          text: "Vielleicht war es Veranlagung, aber ich hab dort viel Spaß gehabt. Man konnte dort alle Neuigkeiten erfahren."
         sequence-8:
           s: 8
           from: "00:00:55,15"
@@ -48,17 +48,17 @@ de:
           s: 9
           from: "00:00:56,16"
           to: "00:00:59,29"
-          text: "Ich hörte die allgemeinen Neuigkeiten, I was hearing everyday news,"
+          text: "Ich hörte die täglichen Nachrichtens,"
         sequence-10:
           s: 10
           from: "00:00:59,29"
           to: "00:01:07,22"
-          text: "aber insbesondere auch politische Diskussionen, die auch in Zuhause häufiger stattfanden. but especially political discussions which were starting to take place at our house."
+          text: "aber insbesondere auch politische Diskussionen, die zunehmend auch Zuhause häufiger stattfanden."
         sequence-11:
           s: 11
           from: "00:01:07,22"
           to: "00:01:17,01"
-          text: "Ich lernte, dass viele Leute nicht dem Faschismus anhingen. I began to hear that a lot of people didn’t agree with fascism."
+          text: "Ich lernte, dass viele Leute nicht dem Faschismus zustimmen."
         sequence-12:
           s: 12
           from: "00:01:17,01"
