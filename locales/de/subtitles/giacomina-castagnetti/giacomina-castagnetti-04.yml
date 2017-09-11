@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:00:59,29"
           to: "00:01:07,22"
-          text: "aber insbesondere auch politische Diskussionen, die zunehmend auch Zuhause häufiger stattfanden."
+          text: "aber insbesondere auch politische Diskussionen, die zunehmend auch Zuhause stattfanden."
         sequence-11:
           s: 11
           from: "00:01:07,22"
@@ -68,12 +68,12 @@ de:
           s: 13
           from: "00:01:18,25"
           to: "00:01:24,17"
-          text: "Der Tonfall war aber immer eher verhalten und hinter vorgehaltener Hand. The tone was always rather timid and veiled though."
+          text: "Der Tonfall war aber immer eher verhalten und hinter vorgehaltener Hand."
         sequence-14:
           s: 14
           from: "00:01:24,17"
           to: "00:01:32,10"
-          text: "Selbst ein Witz über den Duce konnte einen ins Gefängnis bringen, damals."
+          text: "Selbst ein Witz über den Duce konnte einen damals ins Gefängnis bringen."
         sequence-15:
           s: 15
           from: "00:01:32,10"
@@ -83,17 +83,17 @@ de:
           s: 16
           from: "00:01:34,03"
           to: "00:01:41,20"
-          text: "Ich erinnere mich an eine Geschichte über einen jungen Mann, der geprügelt wurde, I remember a story regarding a young man who was beaten"
+          text: "Ich erinnere mich an die Geschichte über einen jungen Mann, der verprügelt wurde,"
         sequence-17:
           s: 17
           from: "00:01:41,20"
           to: "00:01:50,09"
-          text: "weil er einen Faschisten nicht mit dem faschistischen Gruß begrüßte. since he hadn’t saluted a fascist with the fascist salute."
+          text: "weil er einen Faschisten nicht mit dem faschistischen Gruß begrüßte."
         sequence-18:
           s: 18
           from: "00:01:50,09"
           to: "00:02:03,13"
-          text: "Ich war ziemlich geschockt deswegen. Dass ein Junge dafür geschlagen werden konnte. I was really shocked by the fact that a boy could be beaten for this."
+          text: "Ich war ziemlich geschockt, dass ein Junge dafür geschlagen werden konnte."
         sequence-19:
           s: 19
           from: "00:02:03,13"
@@ -103,12 +103,12 @@ de:
           s: 20
           from: "00:02:04,28"
           to: "00:02:15,08"
-          text: "I found out that many of these young men didn’t want to take part in the “fascist Saturday”"
+          text: "Ich fand herraus, dass viele der jungen Männer nicht Teil der Aktivitäten zum \"faschistischen Samstag\" sein wollten,"
         sequence-21:
           s: 21
           from: "00:02:15,08"
           to: "00:02:26,02"
-          text: "activities as they realised that they were also meant to prepare the youth for war."
+          text: "weil ihnen klar wurde, dass sie die Jugend für den Krieg vorbereiten sollten."
         sequence-22:
           s: 22
           from: "00:02:26,02"
@@ -118,54 +118,54 @@ de:
           s: 23
           from: "00:02:27,00"
           to: "00:02:32,07"
-          text: "We were passing around “Il padrone delle ferriere” (Le maître des forges)"
+          text: "Wir habe Bücher geteilt, wie “Il padrone delle ferriere” (Le maître des forges)"
         sequence-24:
           s: 24
           from: "00:02:32,07"
           to: "00:02:40,02"
-          text: "or “Le stelle ci stanno a guardare” (The stars look down), which I’ve read many times."
+          text: "oder “E le stelle stanno a guardare” (The Stars Look Down), das ich häufig gelesen habe."
         sequence-25:
           s: 25
           from: "00:02:40,02"
           to: "00:02:47,15"
-          text: "The one which got me thinking the most though was “Il padrone delle ferriere”."
+          text: "Das, was mich am meisten zum Denken brachte, war aber “Il padrone delle ferriere”."
         sequence-26:
           s: 26
           from: "00:02:47,15"
           to: "00:02:56,00"
-          text: "As farmers we worked hard, but at least we stayed under the sun, in the open, under a tree."
+          text: "Als Bauern arbeiteten wir hart, aber wir waren immerhin in der Sonne, im Freien, zwischen Bäumen."
         sequence-27:
           s: 27
           from: "00:02:56,00"
           to: "00:03:05,24"
-          text: "Reading the book I imagined those people working several meters underground with no protection."
+          text: "Während der Lektüre habe ich mir diese Leute vorgestellt, die mehrere Meter unter der Erde ohne Schutz arbeiten."
         sequence-28:
           s: 28
           from: "00:03:05,24"
           to: "00:03:19,02"
-          text: "The author explains that everything in town had turned black, the colour of coal."
+          text: "Der Autor erklärt, das alles im Dorf schwarz geworden ist, die Farbe von Kohle."
         sequence-29:
           s: 29
           from: "00:03:19,02"
           to: "00:03:26,29"
-          text: "Even the kids’ faces were black since the coal dust was everywhere."
+          text: "Selbst die Kindsgesichter waren schwarz, weil der Kohlestaub überall war."
         sequence-30:
           s: 30
           from: "00:03:26,29"
           to: "00:03:32,29"
-          text: "This book really shook me."
+          text: "Das Buch hat mich sehr geschockt."
         sequence-31:
           s: 31
           from: "00:03:32,29"
           to: "00:03:39,27"
-          text: "I realized what the differences between the rich and the poor were."
+          text: "Mir wurde klar, was der Unterschied zwischen den Reichen und den Armen war."
         sequence-32:
           s: 32
           from: "00:03:39,27"
           to: "00:03:43,06"
-          text: "I remembered these men saying"
+          text: "Ich erinnere mich wie die Männer sagten"
         sequence-33:
           s: 33
           from: "00:03:43,06"
           to: "00:03:49,17"
-          text: "“It’s always the sons of the poor who go to war, not those of the rich”."
+          text: "“Es ist immer die Söhne der Armen die in den Krieg ziehen, nicht die der Reichen”."

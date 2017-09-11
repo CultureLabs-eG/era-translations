@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,11"
           to: "00:00:12,04"
-          text: "Torelli war ein alter Antifaschist, der in unserem Haus lebte. Er wurde verfolgt und war im Gefängnis gewesen."
+          text: "Torelli war ein alter Antifaschist, der in unserem Haus lebte. Er wurde verfolgt und hatte im Gefängnis gesessen."
         sequence-2:
           s: 2
           from: "00:00:12,04"
@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:39,12"
           to: "00:00:45,16"
-          text: "Die Deutschen hatten offiziell bekanntgegeben, das diejenigen, die Soldaten und Deserteuren beim Entkommen helfen, in Konzentrationslager gebracht oder exekutiert werden."
+          text: "Die Deutschen hatten offiziell bekanntgegeben, das diejenigen, die Soldaten"
         sequence-7:
           s: 7
           from: "00:00:45,16"
@@ -63,12 +63,12 @@ de:
           s: 12
           from: "00:01:24,03"
           to: "00:01:33,01"
-          text: "Bevor ich darüber rede, werde ich eine Geschichte erzählen, die wesentlich war"
+          text: "Bevor ich darüber rede, werde ich eine Geschichte erzählen, die meine Entscheidung,"
         sequence-13:
           s: 13
           from: "00:01:33,01"
           to: "00:01:40,05"
-          text: "für meine Entscheidung, am Befreiungskampf teilzunehmen."
+          text: "am Befreiungskampf teilzunehmen, beeinflusst hat."
         sequence-14:
           s: 14
           from: "00:01:40,05"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:02:13,19"
           to: "00:02:24,04"
-          text: "Vor meinen Haus, gab es einen Platz, den wir \"Palast\" nannten,"
+          text: "Vor meinen Haus, gab es einen Platz den wir \"Palast\" nannten,"
         sequence-20:
           s: 20
           from: "00:02:24,04"
@@ -158,12 +158,12 @@ de:
           s: 31
           from: "00:03:23,10"
           to: "00:03:29,27"
-          text: "These men in uniform, who looked like cockroaches,"
+          text: "Diese Männer in Uniform, die wie Kakerlaken aussahen,"
         sequence-32:
           s: 32
           from: "00:03:29,27"
           to: "00:03:35,27"
-          text: "who spoke a language you didn’t know because they weren’t even from your own country,"
+          text: "die eine Sprache sprachen, die du nicht kanntest, weil sie nicht mal aus deinem Land kamen,"
         sequence-33:
           s: 33
           from: "00:03:35,27"
@@ -188,32 +188,32 @@ de:
           s: 37
           from: "00:03:53,19"
           to: "00:03:57,27"
-          text: "Vielleicht waren wir darauf nicht vorbereitet,"
+          text: "Vielleicht waren wir darauf nicht vorbereitet"
         sequence-38:
           s: 38
           from: "00:03:57,27"
           to: "00:04:08,10"
-          text: "aber es war die Reaktion eines jungen Mädchens, die unter Bombardierungen gelitten hat,"
+          text: "Wir waren junge Mädchen, die unter Bombardierungen gelitten hatten,"
         sequence-39:
           s: 39
           from: "00:04:08,10"
           to: "00:04:15,10"
-          text: "davon, zu sehen, wie Soldaten gefangen genommen wurden."
+          text: "darunter, zu sehen, wie Soldaten gefangen genommen wurden."
         sequence-40:
           s: 40
           from: "00:04:15,10"
           to: "00:04:24,01"
-          text: "Die älteren Männer, die im Ersten Weltkrieg gekämpft hatten, sprachen über die Konzentrationslager."
+          text: "Die älteren Männer, die im Ersten Weltkrieg gekämpft hatten, meinten, dass sie in Konzentrationslager gebracht werden."
         sequence-41:
           s: 41
           from: "00:04:24,01"
           to: "00:04:34,13"
-          text: "Mein Vater sagte uns immer, dass wir meinen Bruder füttern müssen, sonst würden die Bestien ihn verhungern lassen."
+          text: "Mein Vater sagte uns immer, dass wir meinen Bruder mit Essen versorgen müssen, weil man ihn sonst verhungern lässt."
         sequence-42:
           s: 42
           from: "00:04:34,13"
           to: "00:04:38,21"
-          text: "Wir mussten ihnen helfen."
+          text: "Ich fragte mich, was diese Bestien mit den Gefangenen tun würden. Man muss ihnen helfen."
         sequence-43:
           s: 43
           from: "00:04:38,21"
@@ -223,7 +223,7 @@ de:
           s: 44
           from: "00:04:43,29"
           to: "00:04:47,01"
-          text: "Am Ende sind sie genau wie du."
+          text: "Am Ende sind sie junge Menschen wie du."
         sequence-45:
           s: 45
           from: "00:04:47,01"
@@ -238,7 +238,7 @@ de:
           s: 47
           from: "00:04:54,13"
           to: "00:05:01,03"
-          text: "Wir gingen auf die Straße, als wir einen Soldaten sahen und brachten ihn außer Gefahr."
+          text: "Wir gingen auf die Straße, wenn wir einen Soldaten sahen und brachten ihn außer Gefahr,"
         sequence-48:
           s: 48
           from: "00:05:01,03"
@@ -248,17 +248,17 @@ de:
           s: 49
           from: "00:05:05,00"
           to: "00:05:14,10"
-          text: "Our old men even carried them on the crossbar of their bicycles for a while,"
+          text: "Sogar unsere alten Männer brachten sie auf ihren Fahrrädern mit,"
         sequence-50:
           s: 50
           from: "00:05:14,10"
           to: "00:05:23,24"
-          text: "damit sie sich ausruhen konnten und nicht in Ärger gerieten."
+          text: "damit sie sich ausruhen konnten und nicht in Gefahr geraten."
         sequence-51:
           s: 51
           from: "00:05:23,24"
           to: "00:05:32,15"
-          text: "You realize immediately that it’s something terrible."
+          text: "Du realisierst sofort, dass hier etwas schreckliches passiert."
         sequence-52:
           s: 52
           from: "00:05:32,15"
@@ -268,24 +268,24 @@ de:
           s: 53
           from: "00:05:40,06"
           to: "00:05:49,03"
-          text: "Dennoch, bis dahin hatten wir Menschen nicht aus politischen Gründen geholfen."
+          text: "Dennoch, bis dahin hatten wir Menschen nicht aus politischen Gründen geholfen, sondern aus Menschlichkeit."
         sequence-54:
           s: 54
           from: "00:05:49,03"
           to: "00:05:56,15"
-          text: "We were rather doing it for humanitarian principles: as a woman, you saved another woman’s son,"
+          text: "Als Frau rettest du den Sohn einer anderen Frau."
         sequence-55:
           s: 55
           from: "00:05:56,15"
           to: "00:06:01,10"
-          text: "Das war, was auch uns in Gefahr brachte."
+          text: "Das war, was uns den Mut gegeben hat, uns der Gefahr gegenüberzustellen."
         sequence-56:
           s: 56
           from: "00:06:01,10"
           to: "00:06:07,01"
-          text: "From that moment, however, I realized that it had to be something conscious."
+          text: "Von diesem Moment an war mir klar, dass es eine bewusste Entscheidung sein muss."
         sequence-57:
           s: 57
           from: "00:06:07,01"
           to: "00:06:13,25"
-          text: "Ich habe nie wieder gezögert, die Dinge zu tun, um die man mich bat."
+          text: "Seit dem, habe ich nie wieder gezögert, die Dinge zu tun, um die man mich bat."
