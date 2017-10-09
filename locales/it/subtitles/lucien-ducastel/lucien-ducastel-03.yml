@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:02:02,12"
           to: "00:02:15,00"
-          text: "We had to take precautions to protect these friends, but to be able to continue with our activities as well."
+          text: "Dovevamo stare attentissimi, in primo luogo per proteggere questi compagni, e poi anche per poter continuare a fare queste cose."
         sequence-22:
           s: 22
           from: "00:02:15,00"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:15,24"
           to: "00:02:23,29"
-          text: "We organized ourselves, trying to find places where we could secretly meet,"
+          text: "Ci organizzavamo tra di noi. All'inizio abbiamo cercato dei posti che ci permettessero di incontrarci clandestinamente, diciamo,"
         sequence-24:
           s: 24
           from: "00:02:23,29"
