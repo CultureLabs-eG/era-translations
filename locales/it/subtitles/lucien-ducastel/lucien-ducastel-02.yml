@@ -78,17 +78,17 @@ it:
           s: 15
           from: "00:01:39,02"
           to: "00:01:48,18"
-          text: "I answered him, that it was my business. I was 17 at the time and argued: “Should one stop just because…”"
+          text: "Gli ho risposto che era un mio problema. Avevo 17 anni… Mica bisogna fermarsi davanti a…"
         sequence-16:
           s: 16
           from: "00:01:48,18"
           to: "00:02:01,00"
-          text: "I asked him how he could work as a coppersmith on ships in 1936/1937 and not even join the trade union."
+          text: "Tu hai vissuto in prima persona il 1936-37 a bordo delle navi come calderaio, nella metallurgia, e non sei nemmeno nel sindacato…"
         sequence-17:
           s: 17
           from: "00:02:01,00"
           to: "00:02:11,21"
-          text: "We had quite a discussion. He himself was not politically active. That took some effort and he worked a lot."
+          text: "Non era politicamente attivo politicamente perché richiedeva un certo impegno e lui era molto impegnato con il lavoro."
         sequence-18:
           s: 18
           from: "00:02:11,21"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:12,08"
           to: "00:02:22,00"
-          text: "We had to keep a low profile. You can not really call it undercover; we were known to the police."
+          text: "Eravamo obbligati a muoverci nella clandestinità. Non si trattava di vera e propria clandestinità, ma la polizia ci conosceva…"
         sequence-20:
           s: 20
           from: "00:02:22,00"
@@ -108,17 +108,17 @@ it:
           s: 21
           from: "00:02:23,15"
           to: "00:02:28,21"
-          text: "So we had to take some precautionary measures:"
+          text: "Dovevamo prendere degli accorgimenti."
         sequence-22:
           s: 22
           from: "00:02:28,21"
           to: "00:02:40,15"
-          text: "Only going out at night, and also being careful because of police raids. It was extremely difficult. But we did not give up."
+          text: "Per esempio uscire a notte fonda, facendo attenzione quando c'erano le retate… Era estremamente difficile, ma non abbiamo ceduto."
         sequence-23:
           s: 23
           from: "00:02:40,15"
           to: "00:02:51,28"
-          text: "When distributing leaflets we would try to go out at night, but also not too often, because one had to be careful."
+          text: "Evitavamo di distribuire i volantini in pieno giorno, ma neanche troppo di notte ma piuttosto di sera perché… Bisognava stare attentissimi."
         sequence-24:
           s: 24
           from: "00:02:51,28"
@@ -128,4 +128,4 @@ it:
           s: 25
           from: "00:02:54,06"
           to: "00:03:02,27"
-          text: "Under these circumstances I became politically active, at work and in my daily life."
+          text: "È in queste circostanze che sono diventato un militante, sul lavoro e nella vita di tutti i giorni."

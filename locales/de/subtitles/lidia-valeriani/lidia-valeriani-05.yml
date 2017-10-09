@@ -2,18 +2,18 @@ de:
   lidia-valeriani:
     chapter-5:
       c: 5
-      title: "Beginning of the clandestine work"
+      title: "Begin der klandestinen Arbeit"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:11,14"
-          text: "From the 8th of September I began to know where the comrades were,"
+          text: "Ab dem 8. September wusste ich wo sich die Genossen aufhielten"
         sequence-2:
           s: 2
           from: "00:00:11,14"
           to: "00:00:17,28"
-          text: "in order to go and warn them that they were going to be arrested again."
+          text: "um sie warnen zu können, dass sie wieder verhaftet werden sollten."
         sequence-3:
           s: 3
           from: "00:00:17,28"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:29,28"
           to: "00:00:40,28"
-          text: "that they were already on the list of those who would be arrested again."
+          text: "dass er bereits auf einer Liste von Personen stand, die wieder verhaftet werden sollten."
         sequence-6:
           s: 6
           from: "00:00:40,28"
@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:42,08"
           to: "00:00:47,14"
-          text: "Also Didoni, from Scampate, more or less all of them."
+          text: "Auch Didoni, aus Scampate, mehr oder weniger alle von ihnen."
         sequence-8:
           s: 8
           from: "00:00:47,14"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:50,03"
           to: "00:00:58,26"
-          text: "then they all met in Scampate at Chicco’s, at Castellani’s home."
+          text: "und dann trafen sie sich alle in Scampate bei Chicco Castellani."
         sequence-10:
           s: 10
           from: "00:00:58,26"
@@ -58,17 +58,17 @@ de:
           s: 11
           from: "00:01:00,01"
           to: "00:01:06,08"
-          text: "I didn’t really attend the meetings."
+          text: "Ich habe an den Treffen nicht wirklich teilgenommen."
         sequence-12:
           s: 12
           from: "00:01:06,08"
           to: "00:01:09,05"
-          text: "They did call me there,"
+          text: "Sie haben mich dazu geholt,"
         sequence-13:
           s: 13
           from: "00:01:09,05"
           to: "00:01:25,26"
-          text: "but they met to assign various functions, since they were all “leaders”."
+          text: "aber sie hatten sich getroffen um verschiedene Aufgaben zu verteilen, da sie ja alle Führungskräfte waren."
         sequence-14:
           s: 14
           from: "00:01:25,26"
@@ -78,17 +78,17 @@ de:
           s: 15
           from: "00:01:27,12"
           to: "00:01:35,00"
-          text: "They sent me in town to go shopping, buy the glasses, the hats,"
+          text: "Sie haben mich zum Einkaufen in die Stadt geschickt, um Brillen und Hüte zu kaufen,"
         sequence-16:
           s: 16
           from: "00:01:35,00"
           to: "00:01:40,06"
-          text: "things that would allow them to disguise themselves and get away,"
+          text: "also Dinge zum Verkleiden um unerkannt davon zu kommen,"
         sequence-17:
           s: 17
           from: "00:01:40,06"
           to: "00:01:42,25"
-          text: "even if they moved about at night."
+          text: "und um sich so bewegen zu können, wie sie es auch nachts taten."
         sequence-18:
           s: 18
           from: "00:01:42,25"
