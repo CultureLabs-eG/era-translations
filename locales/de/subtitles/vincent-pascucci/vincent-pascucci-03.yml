@@ -118,7 +118,7 @@ de:
           s: 23
           from: "00:02:53,01"
           to: "00:02:59,16"
-          text: "Alle waren beängstigt und versuchten zu gehen."
+          text: "Alle hatten Angst und versuchten weg zu gehen."
         sequence-24:
           s: 24
           from: "00:02:59,16"
@@ -138,7 +138,7 @@ de:
           s: 27
           from: "00:03:26,03"
           to: "00:03:28,02"
-          text: "Ration tickets,"
+          text: "Es gab Rationierung,"
         sequence-28:
           s: 28
           from: "00:03:28,02"
@@ -148,12 +148,12 @@ de:
           s: 29
           from: "00:03:29,26"
           to: "00:03:33,00"
-          text: "we were hungry, cold."
+          text: "Hunger und Kälte."
         sequence-30:
           s: 30
           from: "00:03:33,00"
           to: "00:03:42,18"
-          text: "So we felt the need to explain to the people why we were in this situation."
+          text: "Wir fanden es wichtig, den Leuten zu erklären, warum wir in dieser Situation waren."
         sequence-31:
           s: 31
           from: "00:03:42,18"
@@ -163,27 +163,27 @@ de:
           s: 32
           from: "00:03:44,29"
           to: "00:03:54,20"
-          text: "With this group of young people we were able to assemble, those who had stayed in Nanterre or had come back,"
+          text: "Mit dieser Gruppe von jungen Leuten, die wir bilden konnten aus denen, die in Nanterre geblieben oder nach Nanterre zurückgekommen waren"
         sequence-33:
           s: 33
           from: "00:03:54,20"
           to: "00:04:05,03"
-          text: "we produced posters with a children’s printing set. We then pasted them onto the walls."
+          text: "produzierten wir Aufkleber mit einer Druckpresse für Kinder. Diese klebten wir dann an die Mauern."
         sequence-34:
           s: 34
           from: "00:04:05,03"
           to: "00:04:12,01"
-          text: "They would say: “Out With the Invaders.”"
+          text: "Darauf stand z.B.: “Raus mit den Invasoren.”"
         sequence-35:
           s: 35
           from: "00:04:12,01"
           to: "00:04:20,05"
-          text: "When we were able to get a duplicator, we started producing leaflets."
+          text: "Als wir einen Spiritusdrucker bekommen konnten, begannen wir Flugblätter zu produzieren."
         sequence-36:
           s: 36
           from: "00:04:20,05"
           to: "00:04:26,18"
-          text: "The resistance started to organize itself."
+          text: "Der Widerstand begann sich zu organisieren."
         sequence-37:
           s: 37
           from: "00:04:26,18"
@@ -193,7 +193,7 @@ de:
           s: 38
           from: "00:04:27,24"
           to: "00:04:45,16"
-          text: "We were in touch with other comrades on a higher level and created the Patriotic Youths Union."
+          text: "Wir waren in Kontakt mit anderen, erfahreneren Kamerad*innen und begannen uns als Union der Patriotischen Jugend zu organisierten."
         sequence-39:
           s: 39
           from: "00:04:45,16"
@@ -203,7 +203,7 @@ de:
           s: 40
           from: "00:04:47,01"
           to: "00:05:02,16"
-          text: "We had no weapons at the time, as in Paris we were not able to benefit from the Allie’s parachuting."
+          text: "Zu der Zeit hatten wir keine Waffen. Die Region um Paris profitierte noch nicht von Materialabwurf durch die Alliierten."
         sequence-41:
           s: 41
           from: "00:05:02,16"
@@ -213,12 +213,12 @@ de:
           s: 42
           from: "00:05:04,12"
           to: "00:05:09,23"
-          text: "In Paris, contrary to the rest of the country,"
+          text: "In Paris, im Gegensatz zum Rest des Landes,"
         sequence-43:
           s: 43
           from: "00:05:09,23"
           to: "00:05:27,26"
-          text: "the Germans had demanded that everyone hand over their weapons to the French police, even their hunting rifles."
+          text: "verlangten die Deutschen, dass alle ihre Waffen an die französische Polizei abgeben, sogar Jagdwaffen."
         sequence-44:
           s: 44
           from: "00:05:27,26"
