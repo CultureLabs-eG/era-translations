@@ -118,22 +118,22 @@ de:
           s: 23
           from: "00:03:11,15"
           to: "00:03:21,09"
-          text: "It’s strange when you think about it: nowadays our mailboxes are filled with advertisement,"
+          text: "Wenn man darüber nachdenkt, dass heute jede Menge Flugblätter und Werbung in den Briefkästen sind:"
         sequence-24:
           s: 24
           from: "00:03:21,09"
           to: "00:03:33,18"
-          text: "in those days we were risking our lives, risking being arrested, beaten and tortured."
+          text: "Damals riskierte man das Leben. Man riskierte Verhaftung, Schläge und Folter, um zum Reden gebracht zu werden."
         sequence-25:
           s: 25
           from: "00:03:33,18"
           to: "00:03:44,11"
-          text: "Many were used as hostages and shot. That was the case of the comrades, who I talked about before."
+          text: "Viele dienten als Geiseln oder wurden einfach erschossen. Das war das Schicksal der Kameraden von denen ich vorher sprach."
         sequence-26:
           s: 26
           from: "00:03:44,11"
           to: "00:03:50,20"
-          text: "They were simply shot as hostages after an event of the resistance."
+          text: "Einige wurden in Mont Valérien erschossen."
         sequence-27:
           s: 27
           from: "00:03:50,20"
@@ -143,7 +143,7 @@ de:
           s: 28
           from: "00:03:51,04"
           to: "00:03:58,11"
-          text: "Those who say they were not afraid during that time, are either dumb or liars."
+          text: "Diejenigen die sagen, in dieser Zeit keine Angst gehabt zu haben, sind entweder bewusstlos oder Lügner."
         sequence-29:
           s: 29
           from: "00:03:58,11"
@@ -153,17 +153,17 @@ de:
           s: 30
           from: "00:03:58,25"
           to: "00:04:02,26"
-          text: "Or they didn’t do anything."
+          text: "Oder sie waren untätig."
         sequence-31:
           s: 31
           from: "00:04:02,26"
           to: "00:04:15,08"
-          text: "As soon as you were active in the resistance, there was always the danger of being arrested, with all the consequences."
+          text: "Sobald man im Widerstand aktiv war, war man ständig in Gefahr, verhaftet zu werden – mit allen Konsequenzen."
         sequence-32:
           s: 32
           from: "00:04:15,08"
           to: "00:04:24,04"
-          text: "Our police headquarters’ expertise was beating the foot soles of the people they arrested."
+          text: "Bei der Polizei von Puteaux waren sie Experten darin, Gefangene zu schlagen."
         sequence-33:
           s: 33
           from: "00:04:24,04"
@@ -173,27 +173,27 @@ de:
           s: 34
           from: "00:04:24,24"
           to: "00:04:33,11"
-          text: "Asked about day to day life, we answer that the whole French population,"
+          text: "Heute geht man davon aus, dass die gesamte Bevölkerung Frankreichs während der Besetzung an Hunger litt."
         sequence-35:
           s: 35
           from: "00:04:33,11"
           to: "00:04:44,26"
-          text: "except for a minority that took advantage of the situation and dealt on the black market, suffered from hunger,"
+          text: "Von einer Minderheit abgesehen, die sich die Situation zu Nutzen machte und auf dem Schwarzmarkt handelte."
         sequence-36:
           s: 36
           from: "00:04:44,26"
           to: "00:04:55,23"
-          text: "while nowadays students can get a chocolate croissant in the bakery across their school without a problem."
+          text: "Die Schüler können heute ein Schokoladenbrötchen an der Bäckerei direkt gegenüber der Schule kaufen."
         sequence-37:
           s: 37
           from: "00:04:55,23"
           to: "00:05:02,09"
-          text: "In those days we were allowed one little piece of bread a day, or 90 grams of meat a week."
+          text: "Wir hatten damals Anspruch auf so ein kleines Stück Brot pro Tag. Oder 90g Fleisch pro Woche."
         sequence-38:
           s: 38
           from: "00:05:02,09"
           to: "00:05:08,22"
-          text: "You needed to have a ration ticket; otherwise you were forced to buy on the black market."
+          text: "Man brauchte Lebensmittelmarken oder man war gezwungen, auf dem Schwarzmarkt zu kaufen."
         sequence-39:
           s: 39
           from: "00:05:08,22"
@@ -203,7 +203,7 @@ de:
           s: 40
           from: "00:05:10,28"
           to: "00:05:16,08"
-          text: "The Nazis had raided everything in France."
+          text: "Die Nazis haben alles geplündert in Frankreich."
         sequence-41:
           s: 41
           from: "00:05:16,08"
@@ -213,9 +213,9 @@ de:
           s: 42
           from: "00:05:23,12"
           to: "00:05:30,19"
-          text: "France had been self-sufficient because of their agriculture and industry."
+          text: "Frankreich war ein selbständiges Land mit seiner Landwirtschaft und seiner Industrie."
         sequence-43:
           s: 43
           from: "00:05:30,19"
           to: "00:05:36,15"
-          text: "They took everything, all the machines, everything."
+          text: "Sie haben die Maschinen mitgenommen, alles."
