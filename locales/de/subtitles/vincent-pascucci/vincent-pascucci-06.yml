@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:03:43,09"
           to: "00:04:03,20"
-          text: "Sie fanden auch seine FFI-Armbinde (Forces Françaises à l’Interieur – Französische Streitkräfte im Inneren)."
+          text: "Sie fanden auch seine FFI-Armbinde (Forces Françaises à l’Interieur – Organisation der französischen Widerstandsgruppen)."
         sequence-27:
           s: 27
           from: "00:04:03,20"
@@ -143,12 +143,12 @@ de:
           s: 28
           from: "00:04:04,19"
           to: "00:04:16,02"
-          text: "Seine Eltern beschuldigten mich nie, aber ich frug mich immer, ob die Dinge anders gelaufen wären, hätte ich ihm den Revolver nicht gegeben."
+          text: "Seine Eltern beschuldigten mich nie, aber ich habe mich immer gefragt, ob die Dinge anders gelaufen wären, hätte ich ihm den Revolver nicht gegeben."
         sequence-29:
           s: 29
           from: "00:04:16,02"
           to: "00:04:22,07"
-          text: "Ich denke schon. Das war immer eine Last für mich."
+          text: "Ich denke schon. Das war immer eine schwere Last für mich."
         sequence-30:
           s: 30
           from: "00:04:22,07"
@@ -158,7 +158,7 @@ de:
           s: 31
           from: "00:04:24,11"
           to: "00:04:36,24"
-          text: "Ich hätte bei ihnen sein können, hätten es die Mission, den Bürgermeister abzuholen nicht gegeben."
+          text: "Ich hätte bei ihnen sein können, hätte es die Mission, den Bürgermeister abzuholen nicht gegeben."
         sequence-32:
           s: 32
           from: "00:04:36,24"
