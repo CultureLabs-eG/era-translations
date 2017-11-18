@@ -248,12 +248,12 @@ it:
           s: 49
           from: "00:04:34,06"
           to: "00:04:39,19"
-          text: "After that, the Germans left,"
+          text: "E dopo i tedeschi sono partiti,"
         sequence-50:
           s: 50
           from: "00:04:39,19"
           to: "00:04:47,29"
-          text: "their division withdrew, but the garrisons on road 63 remained until the end of the war."
+          text: "però la divisione si è ritirata, ma i presidi sulla Statale 63 sono rimasti, come sempre, sono rimasti fino alla fine della guerra, ecco."
         sequence-51:
           s: 51
           from: "00:04:47,29"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:04:49,02"
           to: "00:04:55,16"
-          text: "We slowly recovered, difficultly,"
+          text: "E dopo pianino pianino si sono ricomposte le fila, però a fatica,"
         sequence-53:
           s: 53
           from: "00:04:55,16"
@@ -273,7 +273,7 @@ it:
           s: 54
           from: "00:04:56,20"
           to: "00:05:03,03"
-          text: "and I remember I stayed home around ten days because of this, helping my father,"
+          text: "che mi ricordo che sono stato a casa una decina di giorni, che ho aiutato anche mio padre a seminare il grano, proprio perché..."
         sequence-55:
           s: 55
           from: "00:05:03,03"
@@ -283,7 +283,7 @@ it:
           s: 56
           from: "00:05:04,06"
           to: "00:05:12,02"
-          text: "while my brother had gone away with Frigio, Bedeschi. They were faster in getting back together."
+          text: "Mio fratello invece era andato con Frigio, col Bedeschi e hanno fatto prima loro a rimettersi assieme."
         sequence-57:
           s: 57
           from: "00:05:12,02"

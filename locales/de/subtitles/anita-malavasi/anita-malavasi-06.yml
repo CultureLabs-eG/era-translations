@@ -163,22 +163,22 @@ de:
           s: 32
           from: "00:03:09,21"
           to: "00:03:16,26"
-          text: "“Are you joking? You can’t stay here. Tomorrow they’ll torture you."
+          text: "\"Machst du Witze? Du kannst hier nicht bleiben. Morgen werden sie dich foltern."
         sequence-33:
           s: 33
           from: "00:03:16,26"
           to: "00:03:26,02"
-          text: "Today was only the beginning. Things will be different tomorrow, trust me. Don’t think that they won’t come to get you."
+          text: "Heute war nur der Anfang. Morgen wird es anders sein, vertraue mir. Glaube nicht, sie kommen dich nicht holen."
         sequence-34:
           s: 34
           from: "00:03:26,02"
           to: "00:03:31,16"
-          text: "After what happened you must run away”."
+          text: "Nach dem was passiert ist, musst du weglaufen\"."
         sequence-35:
           s: 35
           from: "00:03:31,16"
           to: "00:03:35,08"
-          text: "My poor father at some point said:"
+          text: "Mein armer Vater sagte irgendwann:"
         sequence-36:
           s: 36
           from: "00:03:35,08"
