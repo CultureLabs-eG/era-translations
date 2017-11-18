@@ -38,12 +38,12 @@ it:
           s: 7
           from: "00:00:33,02"
           to: "00:00:38,05"
-          text: "That was the last time we were singing together, because he died"
+          text: "E ti dirò che fu anche l'ultima volta che abbiam cantato, perché dopo morì,"
         sequence-8:
           s: 8
           from: "00:00:38,05"
           to: "00:00:44,19"
-          text: "soon after in Ligonchio, near the house where I met my wife."
+          text: "proprio lì a Ligonchio, lì vicino alla casa dove ho preso moglie, dove ho conosciuto mia moglie."
         sequence-9:
           s: 9
           from: "00:00:44,19"
@@ -53,22 +53,22 @@ it:
           s: 10
           from: "00:00:46,15"
           to: "00:00:48,18"
-          text: "What did we do?"
+          text: "Cosa si faceva?"
         sequence-11:
           s: 11
           from: "00:00:48,18"
           to: "00:00:54,04"
-          text: "Cleaned the guns, some helped fixing the meals, another one went to get water."
+          text: "Davi una pulita alle armi, qualcuno aiutava a fare da mangiare, l’altro andava a prendere l’acqua."
         sequence-12:
           s: 12
           from: "00:00:54,04"
           to: "00:00:58,26"
-          text: "Then at night we also talked, about the few things we knew."
+          text: "E poi alla sera si discuteva anche, come si poteva."
         sequence-13:
           s: 13
           from: "00:00:58,26"
           to: "00:01:12,29"
-          text: "We had political commissioners we listened to, but after the war I realized that they didn’t know much as well."
+          text: "Adesso quando c’erano i commissari politici... che poi allora si ascoltavano, ma riguardandoli poi dopo la guerra così, poveretti anche loro sapevano quello che sapevano."
         sequence-14:
           s: 14
           from: "00:01:12,29"
