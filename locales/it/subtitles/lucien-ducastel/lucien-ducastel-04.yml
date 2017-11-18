@@ -102,7 +102,7 @@ it:
           s: 19
           from: "00:02:15,04"
           to: "00:02:27,01"
-          text: "All went very quickly: getting dressed, going downstairs. That was on October 21st, 1941."
+          text: "È stato tutto molto veloce: vestirsi, scendere… Era il 21 ottobre 1941."
         sequence-20:
           s: 20
           from: "00:02:27,01"

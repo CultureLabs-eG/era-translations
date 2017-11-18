@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:22,26"
           to: "00:01:26,09"
-          text: "We slept in the cellar."
+          text: "E così dormivamo nella cantina."
         sequence-17:
           s: 17
           from: "00:01:26,09"
           to: "00:01:34,03"
-          text: "It was an earth cellar, in the rock"
+          text: "Era una cantina sottoterra, nella roccia"
         sequence-18:
           s: 18
           from: "00:01:34,03"
