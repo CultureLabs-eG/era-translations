@@ -165,7 +165,7 @@ it:
           s: 32
           from: "00:04:21,04"
           to: "00:04:26,05"
-          text: "They tattooed our registration numbers onto us."
+          text: "Ci hanno dato il numero di matricola, ce l'hanno tatuato addosso."
         sequence-33:
           s: 33
           from: "00:04:26,05"
