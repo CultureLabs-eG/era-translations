@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:25,26"
           to: "00:02:33,16"
-          text: "L'indomani mattina siamo stati radunati alle 4, come al solito."
+          text: "L'indomani mattina, alle 4, siamo stati chiamati al raduno,"
         sequence-20:
           s: 20
           from: "00:02:33,16"
