@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:00:58,14"
           to: "00:01:06,16"
-          text: "Then we went, but not the way to where the church was,"
+          text: "E così ce ne siamo andati, ma nella direzione sbagliata. Non dove c'era la chiesa,"
         sequence-17:
           s: 17
           from: "00:01:06,16"
           to: "00:01:10,20"
-          text: "but up the mountains, a totally different direction."
+          text: "ma verso i monti, proprio dall'altra parte."
         sequence-18:
           s: 18
           from: "00:01:10,20"

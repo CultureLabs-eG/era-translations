@@ -8,9 +8,7 @@ it:
           s: 1
           from: "00:00:00,16"
           to: "00:00:12,06"
-          text: |-
-              Non ero sotto copertura, ma sono stato arrestato il 21 ottobre 1941.
-              Sono stato arrestato perché ero un militante comunista.
+          text: "Non ero sotto copertura, ma sono qomunque stato arrestato il 21 ottobre 1941.Sono stato arrestato perché ero un militante comunista."
         sequence-2:
           s: 2
           from: "00:00:12,06"

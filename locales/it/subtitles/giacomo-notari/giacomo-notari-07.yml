@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:20,04"
           to: "00:00:22,27"
-          text: "as killing somebody is never a nice thing."
+          text: "perché ammazzare è sempre un lavoro mica bello."
         sequence-9:
           s: 9
           from: "00:00:22,27"
           to: "00:00:29,06"
-          text: "However, I’ve always thought that when somebody deserves it, when someone has done some bad deeds..."
+          text: "Però sono sempre stato di questa idea io: quando uno lo merita, che ha fatto del male e..."
         sequence-10:
           s: 10
           from: "00:00:29,06"
@@ -58,12 +58,12 @@ it:
           s: 11
           from: "00:00:30,15"
           to: "00:00:36,13"
-          text: "Personally, I’m against torture, even if it’s necessary to obtain information."
+          text: "sono contro le torture io, proprio, anche per avere notizie... è proprio una cosa che mi ripugna,"
         sequence-12:
           s: 12
           from: "00:00:36,13"
           to: "00:00:40,20"
-          text: "But when someone has done some bad deeds, well, we must get rid of him."
+          text: "ma quando uno ha fatto del male insomma bisogna tirarlo via, insomma."
         sequence-13:
           s: 13
           from: "00:00:40,20"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:00:42,02"
           to: "00:00:46,01"
-          text: "As for spies, I never really thought anything."
+          text: "Alle spie, secondo me, pensavo... non ho mai pensato niente."
         sequence-15:
           s: 15
           from: "00:00:46,01"
