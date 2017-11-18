@@ -73,12 +73,12 @@ de:
           s: 14
           from: "00:01:23,15"
           to: "00:01:27,21"
-          text: "At that point I just lost the light of reason."
+          text: "An diesem Punkt verlor ich das Licht der Vernunft."
         sequence-15:
           s: 15
           from: "00:01:27,21"
           to: "00:01:33,05"
-          text: "That was my luck, since I reacted in a very aggressive way:"
+          text: "Das war mein Glück, da ich sehr aggressiv reagierte:"
         sequence-16:
           s: 16
           from: "00:01:33,05"
