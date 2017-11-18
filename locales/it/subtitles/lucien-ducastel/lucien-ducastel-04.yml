@@ -65,7 +65,9 @@ it:
           s: 12
           from: "00:01:13,00"
           to: "00:01:24,08"
-          text: "When we went out to distribute the leaflets we’d hide them under our jacket. We didn’t take 500 at once."
+          text: |-
+              Quando andavamo a distribuire i volantini, li nascondevamo sotto la giacca…
+               Non ne prendevamo 500 per volta e andavamo a distribuire…
         sequence-13:
           s: 13
           from: "00:01:24,08"
