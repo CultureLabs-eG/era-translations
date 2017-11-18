@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:38,01"
           to: "00:00:54,27"
-          text: "I was taken to Rouen, along with another 100 resistance fighters from the who had been arrested the same night."
+          text: "Sono stato portato a Rouen, dove ho trovato un centinaio di resistenti noti. Tutti della regione di Rouen, che è molto grande."
         sequence-7:
           s: 7
           from: "00:00:54,27"
           to: "00:01:09,09"
-          text: "We were interrogated, but not too harshly. We were not obliged to talk about things we didn’t want to."
+          text: "Poi siamo stati interrogati, senza grandi problemi né difficoltà. Non ci hanno obbligati a dire cose che non volevamo dire."
         sequence-8:
           s: 8
           from: "00:01:09,09"
