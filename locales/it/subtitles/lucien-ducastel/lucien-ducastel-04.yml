@@ -137,12 +137,12 @@ it:
           s: 26
           from: "00:03:14,03"
           to: "00:03:24,26"
-          text: "Ero consapevole del rischio che correvo. Il problema era nascondersi, bisognava poter stare dall'uno o dall'altro."
+          text: "Ero consapevole del rischio che correvo. Il problema era nascondersi, riuscire a stare dall'uno o dall'altro."
         sequence-27:
           s: 27
           from: "00:03:24,26"
           to: "00:03:37,21"
-          text: "Many people were not ready to put us up, even if they were friends. They were scared of the police, of being arrested as well."
+          text: "Ma molta gente non era disposta a ospitarci, anche se simpatizzava con noi. \"E se viene la polizia? Arrestano anche noi…\", dicevano."
         sequence-28:
           s: 28
           from: "00:03:37,21"
