@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:03,15"
           to: "00:02:08,09"
-          text: "those things you had to do with hoes, there were no bulldozers then."
+          text: ~
         sequence-24:
           s: 24
           from: "00:01:26,16"
