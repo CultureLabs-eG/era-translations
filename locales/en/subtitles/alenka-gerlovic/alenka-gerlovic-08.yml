@@ -68,12 +68,12 @@ en:
           s: 13
           from: "00:01:50,19"
           to: "00:01:59,08"
-          text: "A very long journey ensued of course."
+          text: "A very long journey ensued, of course."
         sequence-14:
           s: 14
           from: "00:01:59,08"
           to: "00:02:10,17"
-          text: "Ultimately our goal was the village of Obcice pod Kolevskim Rogom."
+          text: "Our ultimate destination was the village of Obcice pod Kolevskim Rogom."
         sequence-15:
           s: 15
           from: "00:02:10,17"
