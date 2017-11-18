@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:16,09"
           to: "00:00:23,01"
-          text: "Spesso facevamo di notte, ma la notte c'erano anche le ronde della polizia e allora ci si arrangiava."
+          text: "Spesso lo facevamo la notte, ma di notte c'erano anche le ronde della polizia. Ci dovevamo arrangiare."
         sequence-5:
           s: 5
           from: "00:00:23,01"
           to: "00:00:36,07"
-          text: "Eravamo in due o tre a distribuire e in due o tre attorno a controllare: \"Attenzione, è ora di andare…\" dicevano."
+          text: "Eravamo in due o tre a distribuire e in due o tre a controllare: \"Attenzione, è ora di andare…\", si diceva."
         sequence-6:
           s: 6
           from: "00:00:36,07"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:52,14"
           to: "00:00:59,03"
-          text: "E poi provavamo a distribuirli la notte per cercare di scappare alla polizia."
+          text: "E poi provavamo a distribuirli di notte per cercare di sfuggire alla polizia."
         sequence-10:
           s: 10
           from: "00:00:59,03"
