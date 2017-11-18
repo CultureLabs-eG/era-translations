@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:43,28"
           to: "00:00:46,19"
-          text: "I was standing next to a partisan"
+          text: "Io mi trovavo vicina a un partigiano"
         sequence-12:
           s: 12
           from: "00:00:46,19"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:52,24"
           to: "00:01:00,04"
-          text: "when the police or the Gestapo came."
+          text: "e là è arrivata la polizia o la Gestapo, o come bisogna chiamarli"
         sequence-14:
           s: 14
           from: "00:01:00,04"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:01,19"
           to: "00:01:08,02"
-          text: "They just shot wildly into the house."
+          text: "e hanno... e hanno cominciato a sparare alla cieca."
         sequence-16:
           s: 16
           from: "00:01:08,02"
@@ -88,17 +88,17 @@ it:
           s: 17
           from: "00:01:09,07"
           to: "00:01:12,00"
-          text: "Two partisans died straight away."
+          text: "E così... due partigiani sono morti all'istante, il terzo era ferito."
         sequence-18:
           s: 18
           from: "00:01:12,00"
           to: "00:01:22,09"
-          text: "io sono fuggita attraverso la porta, in cucina e il terzo partigiano mi stava seguendo."
+          text: "Mi ha seguita, quando sono fuggita attraverso la porta, in cucina,"
         sequence-19:
           s: 19
           from: "00:01:22,09"
           to: "00:01:27,12"
-          text: "There he wanted to get out of the door."
+          text: "voleva uscire dalla porta."
         sequence-20:
           s: 20
           from: "00:01:27,12"
