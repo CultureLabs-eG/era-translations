@@ -2,28 +2,28 @@ it:
   giacomo-notari:
     chapter-7:
       c: 7
-      title: "Killing people; spies; arresting a German soldier"
+      title: "Uccidere; trattamento spie; prigionieri"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,05"
           to: "00:00:02,00"
-          text: "Well, did I kill somebody…"
+          text: "Mah ucciso..."
         sequence-2:
           s: 2
           from: "00:00:02,00"
           to: "00:00:06,28"
-          text: "We did shoot, but then knowing if we killed them for sure is another story."
+          text: "sparato si è sparato, adesso sapere con precisione se li hai ammazzati..."
         sequence-3:
           s: 3
           from: "00:00:06,28"
           to: "00:00:09,05"
-          text: "That night, three Germans were shot dead."
+          text: "lì ne sono morti tre, quella sera lì, di tedeschi."
         sequence-4:
           s: 4
           from: "00:00:09,05"
           to: "00:00:11,15"
-          text: "They were buried in the colony of Busana."
+          text: "Che poi erano sepolti lì alla colonia di Busana."
         sequence-5:
           s: 5
           from: "00:00:11,15"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:12,11"
           to: "00:00:16,22"
-          text: "I can tell you that if I had killed a man while he was looking at me,"
+          text: "Io ti dirò che se avessi ammazzato una persona quando mi guardava,"
         sequence-7:
           s: 7
           from: "00:00:16,22"
           to: "00:00:20,04"
-          text: "I would be sorry even now,"
+          text: "sarei pentito anche adesso,"
         sequence-8:
           s: 8
           from: "00:00:20,04"
