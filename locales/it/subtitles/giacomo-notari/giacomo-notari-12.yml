@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:00,14"
           to: "00:00:12,14"
-          text: "The last memory I have of my brother was after the mop-up of 1944."
+          text: "Con mio fratello l’ultima volta, che rimane un ricordo, abbiamo... era lì dopo il rastrellamento del ’44."
         sequence-2:
           s: 2
           from: "00:00:12,14"
           to: "00:00:19,17"
-          text: "With this song that went “The moon, the stars talked about love”."
+          text: "With this “La luna, le stelle parlavano d’amore”, questa canzone qui."
         sequence-3:
           s: 3
           from: "00:00:19,17"

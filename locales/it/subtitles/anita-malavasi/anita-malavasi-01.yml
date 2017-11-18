@@ -2,13 +2,13 @@ it:
   anita-malavasi:
     chapter-1:
       c: 1
-      title: "Introduction, family"
+      title: "Introduzione, famiglia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:07,15"
-          text: "I was born in Roncolo di Quattro Castella on the 21st of May 1921."
+          text: "Io sono nata a Roncolo di Quattro Castella il 21 maggio del 1921."
         sequence-2:
           s: 2
           from: "00:00:07,15"
