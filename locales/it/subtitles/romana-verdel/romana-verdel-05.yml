@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:01,00"
           to: "00:00:09,17"
-          text: "We went back over the mountain to Carinthia, when the snow was gone."
+          text: "Da sind wir wieder über den Berg nach Kärnten gangen, wo schon der Schnee weg war, weil, früher war keine Möglichkeit zurückzugehen. We went back over the mountain to Carinthia, when the snow was gone."
         sequence-2:
           s: 2
           from: "00:00:09,17"

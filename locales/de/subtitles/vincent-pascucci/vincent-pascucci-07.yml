@@ -103,12 +103,12 @@ de:
           s: 20
           from: "00:03:00,09"
           to: "00:03:09,05"
-          text: "One of them said they would only give themselves up to the regular army."
+          text: "Einer von ihnen sagte, dass sie sich nur der regulären Armee ergeben würden."
         sequence-21:
           s: 21
           from: "00:03:09,05"
           to: "00:03:17,12"
-          text: "Our commander went to see Colonel Rémy from the Leclerc Division,"
+          text: "Unser Kommandant traf sich mit Colonel Rémy von der Leclerc-Division,"
         sequence-22:
           s: 22
           from: "00:03:17,12"

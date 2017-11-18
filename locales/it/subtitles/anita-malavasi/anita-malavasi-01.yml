@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:22,23"
           to: "00:00:27,01"
-          text: "My grandmother was the daughter of the town-clerk of Vezzano."
+          text: "Mia nonna era la figlia del segretario comunale di Vezzano,"
         sequence-5:
           s: 5
           from: "00:00:27,01"
