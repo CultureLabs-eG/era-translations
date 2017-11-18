@@ -82,7 +82,7 @@ it:
           s: 15
           from: "00:01:37,28"
           to: "00:01:46,00"
-          text: "The French and German police came to arrest us in the middle of the night."
+          text: "È stata la polizia francese a prelevarci in piena notte… la polizia francese e quella tedesca."
         sequence-16:
           s: 16
           from: "00:01:46,00"

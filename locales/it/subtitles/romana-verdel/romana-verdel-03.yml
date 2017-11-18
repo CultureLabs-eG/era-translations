@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:03,15"
           to: "00:01:10,02"
-          text: "and at night she locked us into the cellar and went home."
+          text: "mentre di notte ci rinchiudeva in cantina e se ne andava a casa."
         sequence-14:
           s: 14
           from: "00:01:10,02"
