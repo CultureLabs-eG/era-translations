@@ -13,12 +13,12 @@ it:
           s: 2
           from: "00:00:06,17"
           to: "00:00:14,23"
-          text: "Dal momento in cui il Partito Comunista ha dovuto iniziare a operare nella clandestinità,"
+          text: "Fin dal momento in cui il Partito Comunista ha dovuto iniziare a operare nella clandestinità,"
         sequence-3:
           s: 3
           from: "00:00:14,23"
           to: "00:00:20,24"
-          text: "I was known to the police and was being watched."
+          text: "ero conosciuto e venivo osservato."
         sequence-4:
           s: 4
           from: "00:00:20,24"
