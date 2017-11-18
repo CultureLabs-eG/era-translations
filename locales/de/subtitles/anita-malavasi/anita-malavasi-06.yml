@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:01:33,05"
           to: "00:01:37,04"
-          text: "“You’re a scoundrel, I went to pick up a gun?"
+          text: "“Sie Schurke, ich wollte ein Gewehr abholen?"
         sequence-17:
           s: 17
           from: "00:01:37,04"
@@ -103,7 +103,7 @@ de:
           s: 20
           from: "00:01:58,17"
           to: "00:02:05,17"
-          text: "“You told me I had to bring a gun to him, but how could I say no to you?"
+          text: "\"Sie sagten, ich muss ihm ein Gewehr bringen, aber wie konnte ich nein sagen zu Ihnen?"
         sequence-21:
           s: 21
           from: "00:02:05,17"
@@ -183,7 +183,7 @@ de:
           s: 36
           from: "00:03:35,08"
           to: "00:03:40,17"
-          text: "“I have four children, but I have to admit I don’t know them."
+          text: "\"Ich habe vier Kinder, aber ich muss gestehen, ich kenne sie nicht."
         sequence-37:
           s: 37
           from: "00:03:40,17"
@@ -208,7 +208,7 @@ de:
           s: 41
           from: "00:04:07,08"
           to: "00:04:10,23"
-          text: "My father went on: “So now you’ll leave, too."
+          text: "Mein Vater sagte: \"Jetzt wirst du also auch gehen."
         sequence-42:
           s: 42
           from: "00:04:10,23"

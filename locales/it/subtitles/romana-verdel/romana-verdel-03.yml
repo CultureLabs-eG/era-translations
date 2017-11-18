@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:00:57,21"
           to: "00:01:03,15"
-          text: "We could stay around the house during the day"
+          text: "E poi lei... Di giorno potevamo stare fuori, a casa e così via,"
         sequence-13:
           s: 13
           from: "00:01:03,15"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:34,03"
           to: "00:01:38,26"
-          text: "and it was very damp, cold and totally dark."
+          text: "ed era molto umida e fredda e completamente buia,"
         sequence-19:
           s: 19
           from: "00:01:38,26"
@@ -113,4 +113,4 @@ it:
           s: 22
           from: "00:02:02,00"
           to: "00:02:06,22"
-          text: "It was very exiting but very dangerous."
+          text: "Era molto emozionante ma anche molto pericoloso."
