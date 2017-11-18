@@ -33,12 +33,12 @@ en:
           s: 6
           from: "00:00:38,00"
           to: "00:00:44,07"
-          text: "But when they took my father away, and then 14 days later"
+          text: "But once they took my father away, and then evicted my mother from the apartment 14 days later"
         sequence-7:
           s: 7
           from: "00:00:44,07"
           to: "00:00:54,25"
-          text: "evicted my mother from the apartment, I knew that I couldn’t stay in a legal apartment anymore."
+          text: "I knew that I couldn’t stay in a legal apartment anymore."
         sequence-8:
           s: 8
           from: "00:00:54,25"
@@ -48,7 +48,7 @@ en:
           s: 9
           from: "00:01:00,11"
           to: "00:01:07,17"
-          text: "I immediately moved out and over to the house of a colleague, Erni Korijari."
+          text: "I immediately moved, to the house of a colleague, Erni Korijari."
         sequence-10:
           s: 10
           from: "00:01:07,17"
