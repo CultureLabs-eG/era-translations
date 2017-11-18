@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:02:26,28"
           to: "00:02:39,05"
-          text: "Handschuhe, ein Hemd oder ein Paar Schuhe für die Partisanen baten, haben wir unser Leben riskiert."
+          text: "Handschuhe, ein Hemd oder ein Paar Schuhe für die Partisanen zu bitten, haben wir unser Leben riskiert."
         sequence-27:
           s: 27
           from: "00:02:39,05"
@@ -148,7 +148,7 @@ de:
           s: 29
           from: "00:03:01,19"
           to: "00:03:10,23"
-          text: "Wir führen unsere Aufgaben ohne Verschleierung aus, und wir hatten keine Decknamen."
+          text: "Wir führten unsere Aufgaben ohne Verschleierung aus, und wir hatten keine Decknamen."
         sequence-30:
           s: 30
           from: "00:03:10,23"
@@ -188,7 +188,7 @@ de:
           s: 37
           from: "00:03:49,00"
           to: "00:04:04,09"
-          text: "Insbesondere am Anfang haben Partisanen faschistische Besatzungen überfallen um deren Waffen zu erwischen."
+          text: "Insbesondere am Anfang haben Partisanen faschistische Besatzungen überfallen um deren Waffen zu nehmen."
         sequence-38:
           s: 38
           from: "00:04:04,09"
@@ -198,7 +198,7 @@ de:
           s: 39
           from: "00:04:10,20"
           to: "00:04:20,11"
-          text: "Zusätzlich war es unerlässlich Nachrichten zu verteilen. Die in den Bergen mussten wissen, was in der Tiefebene geschah."
+          text: "Zusätzlich war es unerlässlich, Nachrichten zu verteilen. Die in den Bergen mussten wissen, was in der Tiefebene geschah."
         sequence-40:
           s: 40
           from: "00:04:20,11"

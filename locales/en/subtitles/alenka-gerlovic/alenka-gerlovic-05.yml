@@ -23,7 +23,7 @@ en:
           s: 4
           from: "00:00:18,01"
           to: "00:00:30,20"
-          text: "Around Ljubljana it developed earlier, because here the leadership was"
+          text: "Around Ljubljana it developed earlier, because the leadership was here"
         sequence-5:
           s: 5
           from: "00:00:30,20"
@@ -48,7 +48,7 @@ en:
           s: 9
           from: "00:01:09,03"
           to: "00:01:18,29"
-          text: "I joined the students from the Faculty of Law for a while."
+          text: "I joined the students from the law school for a while."
         sequence-10:
           s: 10
           from: "00:01:18,29"
@@ -58,7 +58,7 @@ en:
           s: 11
           from: "00:01:26,02"
           to: "00:01:37,02"
-          text: "because then the LF developed into an organizational network, covering all of Ljubljana."
+          text: "because by then the LF had developed into an organizational network, covering all of Ljubljana."
         sequence-12:
           s: 12
           from: "00:01:37,02"

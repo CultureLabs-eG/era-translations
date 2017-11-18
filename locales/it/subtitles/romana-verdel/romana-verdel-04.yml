@@ -283,7 +283,7 @@ it:
           s: 56
           from: "00:04:12,06"
           to: "00:04:17,13"
-          text: "lontani dai contadini, quindi l'approvvigionamento era pessimo."
+          text: "lontani dai contadini, quindi l'approvvigionamento era pessimo,"
         sequence-57:
           s: 57
           from: "00:04:17,13"
@@ -293,7 +293,7 @@ it:
           s: 58
           from: "00:04:18,23"
           to: "00:04:22,26"
-          text: "So we went over a mountain into Yugoslavia."
+          text: "per cui siamo andati su in montagna, verso la Jugoslavia."
         sequence-59:
           s: 59
           from: "00:04:22,26"
@@ -303,12 +303,12 @@ it:
           s: 60
           from: "00:04:24,03"
           to: "00:04:27,16"
-          text: "That time we walked the whole night."
+          text: "Quella volta abbiamo camminato tutta la notte, penso."
         sequence-61:
           s: 61
           from: "00:04:27,16"
           to: "00:04:30,24"
-          text: "So long that I fell asleep walking."
+          text: "Tanto da addormentarmi, mentre camminavo mi sono addormentata."
         sequence-62:
           s: 62
           from: "00:04:30,24"
