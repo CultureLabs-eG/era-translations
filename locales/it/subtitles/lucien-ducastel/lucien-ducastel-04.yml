@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:58,04"
           to: "00:01:04,24"
-          text: "\"Vedrai cosa ti succede\", mi diceva. E poi ho avuto la vita difficile."
+          text: "\"Vedrai cosa ti succede\", mi diceva. E poi è iniziata la vita difficile."
         sequence-9:
           s: 9
           from: "00:01:04,24"
@@ -65,7 +65,7 @@ it:
           to: "00:01:24,08"
           text: |-
               Quando andavamo a distribuire i volantini, li nascondevamo sotto la giacca…
-               Non ne prendevamo 500 per volta e andavamo a distribuire…
+               Non andavamo a distribuirne 500 per volta.
         sequence-13:
           s: 13
           from: "00:01:24,08"

@@ -123,17 +123,17 @@ it:
           s: 24
           from: "00:01:26,16"
           to: "00:01:32,23"
-          text: "I see a German walking down with a Tak-Poum (german mashine gun) on his shoulder."
+          text: "E a un certo momento vedo un tedesco che viene giù con un \"tak-pum\" (mitra tedesca) in spalla,"
         sequence-25:
           s: 25
           from: "00:01:32,23"
           to: "00:01:36,10"
-          text: "I had my machine gun and I pointed it at him,"
+          text: "allora io avevo il mitra lì, lo punto,"
         sequence-26:
           s: 26
           from: "00:01:36,10"
           to: "00:01:42,12"
-          text: "so after a couple of steps (the bush wasn’t really very big) he got there and raised his hands."
+          text: "e infatti lui dopo due passi – il cespuglio non era grande grande – arriva lì e alza le mani,"
         sequence-27:
           s: 27
           from: "00:01:42,12"

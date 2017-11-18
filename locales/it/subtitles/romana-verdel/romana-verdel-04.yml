@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:12,06"
           to: "00:01:21,28"
-          text: "The oldest cousin was 14 years old and should carry a rifle, being really pleased about that."
+          text: "Allora però il cugino maggiore, che aveva 14 anni, ha ricevuto un fucile. Era tutto contento, perché ha un fucile adesso, e così via."
         sequence-20:
           s: 20
           from: "00:01:21,28"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:24,29"
           to: "00:01:28,00"
-          text: "By then we knew: now we are going into war."
+          text: "Per allora avevamo già capito: va bene, stiamo andando in guerra."
         sequence-22:
           s: 22
           from: "00:01:28,00"
