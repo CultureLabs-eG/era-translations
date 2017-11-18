@@ -38,22 +38,22 @@ it:
           s: 7
           from: "00:00:30,17"
           to: "00:00:32,08"
-          text: "He kept his word."
+          text: "Ed è stato sincero."
         sequence-8:
           s: 8
           from: "00:00:32,08"
           to: "00:00:34,13"
-          text: "He crossed the front lines and got to Florence."
+          text: "Ha passato il fronte e è andato a Firenze,"
         sequence-9:
           s: 9
           from: "00:00:34,13"
           to: "00:00:42,14"
-          text: "There was communication from Ligonchio then, from Lama Golese to Florence; there were English officers with radios,"
+          text: "perché allora c'era poi la comunicazione da Ligonghio, da Lama Golese a Firenze... c’erano questi ufficiali inglesi con le radio."
         sequence-10:
           s: 10
           from: "00:00:42,14"
           to: "00:00:45,05"
-          text: "it was just like talking with a telephone today."
+          text: "Insomma era possibile proprio parlare come adesso con il telefono."
         sequence-11:
           s: 11
           from: "00:00:45,05"

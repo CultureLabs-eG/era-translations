@@ -58,12 +58,12 @@ de:
           s: 11
           from: "00:01:09,11"
           to: "00:01:16,28"
-          text: "and the establishment of the Liberation Committee for the following day."
+          text: "und die Einrichtung des Comité de Libération."
         sequence-12:
           s: 12
           from: "00:01:16,28"
           to: "00:01:28,22"
-          text: "This all happened on August 20th 1944. The Germans were still in Nanterre."
+          text: "Das alles passierte am 20. August 1944. Die Deutschen waren immer noch in Nanterre."
         sequence-13:
           s: 13
           from: "00:01:28,22"

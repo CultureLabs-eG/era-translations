@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:36,17"
           to: "00:00:44,14"
-          text: "Wir alle verstanden, dass Faschismus nicht zu etwas Gutem führte."
+          text: "Wir alle verstanden, dass Faschismus nur zu etwas wenig Gutem führte."
         sequence-8:
           s: 8
           from: "00:00:44,14"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:01:28,04"
           to: "00:01:34,24"
-          text: "Wir waren in einer guten Lage um die Partisanen zu unterstützen."
+          text: "Wir waren in einer guten Situation, um die Partisanen zu unterstützen."
         sequence-18:
           s: 18
           from: "00:01:34,24"
@@ -123,7 +123,7 @@ de:
           s: 24
           from: "00:02:10,18"
           to: "00:02:17,06"
-          text: "Das ist warum wir begannen ihnen kleine Dinge zu organisieren."
+          text: "Das ist, warum wir begannen ihnen kleine Dinge zu sammeln."
         sequence-25:
           s: 25
           from: "00:02:17,06"

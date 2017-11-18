@@ -278,12 +278,12 @@ it:
           s: 55
           from: "00:04:06,05"
           to: "00:04:12,06"
-          text: "It was always dangerous to stay in one bunker for too long;"
+          text: "E poi il bunker era pericoloso, perché era sempre pericoloso rimanere in un bunker troppo a lungo;"
         sequence-56:
           s: 56
           from: "00:04:12,06"
           to: "00:04:17,13"
-          text: "far away from the farmers, resulting in bad provisions."
+          text: "lontani dai contadini, quindi l'approvvigionamento era pessimo."
         sequence-57:
           s: 57
           from: "00:04:17,13"
