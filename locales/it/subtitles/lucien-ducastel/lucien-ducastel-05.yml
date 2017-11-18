@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:23,23"
           to: "00:00:38,01"
-          text: "On October 21st, 1941, they knocked on my door at four o’clock in the morning and I was arrested bay French and German police."
+          text: "Il 21 ottobre 1941 hanno bussato alla mia porta, alle 4 del mattino. Sono stato arrestato in queste condizioni dalla polizia francese e tedesca."
         sequence-6:
           s: 6
           from: "00:00:38,01"
