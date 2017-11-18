@@ -48,17 +48,17 @@ it:
           s: 9
           from: "00:00:43,23"
           to: "00:00:47,15"
-          text: "We were so full and it was wonderful."
+          text: "Eravamo pieni ed era così bello."
         sequence-10:
           s: 10
           from: "00:00:47,15"
           to: "00:00:53,05"
-          text: "Per cui mi sono straiata sulla panchina e ho pensato: 'Cosa posso fare, per rimanere anche io?'"
+          text: "Per cui mi sono straiata sulla panchina e ho pensato: 'Cosa posso fare, per poter rimanere anch'io?'"
         sequence-11:
           s: 11
           from: "00:00:53,05"
           to: "00:00:58,24"
-          text: "I played being unconscious."
+          text: "E ho fatto finta di aver perso i sensi."
         sequence-12:
           s: 12
           from: "00:00:58,24"
