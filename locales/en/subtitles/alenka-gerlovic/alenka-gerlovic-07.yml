@@ -53,7 +53,7 @@ en:
           s: 10
           from: "00:01:07,17"
           to: "00:01:18,25"
-          text: "She was a member of the LF and worked the props at the Ljubljana Drama house. She took me into hiding in her place."
+          text: "She was a member of the LF and worked in props at the Ljubljana Drama house. She took me into hiding at her place."
         sequence-11:
           s: 11
           from: "00:01:18,25"
@@ -63,7 +63,7 @@ en:
           s: 12
           from: "00:01:25,20"
           to: "00:01:34,08"
-          text: "she didn’t have her own apartment anymore and stayed at her sister’s place."
+          text: "she didn’t have her own apartment anymore, and stayed at her sister’s place."
         sequence-13:
           s: 13
           from: "00:01:34,08"
