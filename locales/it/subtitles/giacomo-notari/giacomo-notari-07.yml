@@ -163,12 +163,12 @@ it:
           s: 32
           from: "00:02:02,24"
           to: "00:02:10,09"
-          text: "My father used to make cheese at home, that type of cheese which is sought-after today while we hated it then because"
+          text: "perché mio padre faceva un formaggio in casa, quelle formaggine che adesso sono cercate e allora noi le odiavamo"
         sequence-33:
           s: 33
           from: "00:02:10,09"
           to: "00:02:12,29"
-          text: "we had it all the time"
+          text: "perché mangiavamo sempre quelle."
         sequence-34:
           s: 34
           from: "00:02:12,29"
@@ -178,12 +178,12 @@ it:
           s: 35
           from: "00:02:14,03"
           to: "00:02:16,04"
-          text: "and he drank a whole pot of milk."
+          text: "E ha bevuto un tegame di latte,"
         sequence-36:
           s: 36
           from: "00:02:16,04"
           to: "00:02:21,05"
-          text: "The pot was on the table in order to make cheese, and he drank it all."
+          text: "era sul tavolo proprio per preparare il formaggio. Ha bevuto un tegame di latte."
         sequence-37:
           s: 37
           from: "00:02:21,05"
