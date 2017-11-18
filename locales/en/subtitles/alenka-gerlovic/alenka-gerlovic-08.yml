@@ -113,7 +113,7 @@ en:
           s: 22
           from: "00:03:13,06"
           to: "00:03:35,01"
-          text: "And there was the fact that I finally got to work on art work. I was also perfectly willing to join the brigade."
+          text: "Additionally, I finally got to work on art work. I was also perfectly willing to join the brigade."
         sequence-23:
           s: 23
           from: "00:03:35,01"
@@ -128,12 +128,12 @@ en:
           s: 25
           from: "00:03:56,18"
           to: "00:04:04,20"
-          text: "First, I was to make the stage setting in the theater."
+          text: "First, my role was to build the stage setting in the theater."
         sequence-26:
           s: 26
           from: "00:04:04,20"
           to: "00:04:24,11"
-          text: "But there wasn’t enough to do, because there weren’t that many premieres. So I suggested that they call me on demand."
+          text: "But there wasn’t enough to do, because there weren’t that many plays. So I suggested that they call me, on demand."
         sequence-27:
           s: 27
           from: "00:04:24,11"

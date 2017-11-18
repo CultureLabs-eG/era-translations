@@ -78,32 +78,32 @@ it:
           s: 15
           from: "00:00:46,01"
           to: "00:00:51,10"
-          text: "I simply thought that they had to be spotted and killed."
+          text: "Ho pensato che andavano solo uccise, individuate e uccise, insomma, ecco."
         sequence-16:
           s: 16
           from: "00:00:51,10"
           to: "00:01:00,06"
-          text: "It was also important to set apart those in good faith from those who were not."
+          text: "Poi sapere distinguere anche dalla gente in buona fede che finisce lì, a della gente invece che è in malafede."
         sequence-17:
           s: 17
           from: "00:01:00,06"
           to: "00:01:05,19"
-          text: "If this woman took some money from the Germans to get our comrades killed,"
+          text: "Perché questa qui se prendeva dei soldi dai tedeschi per fare ammazzare i nostri,"
         sequence-18:
           s: 18
           from: "00:01:05,19"
           to: "00:01:09,12"
-          text: "it meant that there was really not too much good faith there."
+          text: "vuole dire che della buona fede lì non è che ce ne fosse tanta, insomma."
         sequence-19:
           s: 19
           from: "00:01:09,12"
           to: "00:01:13,02"
-          text: "They didn’t really have the fascist dogma, working for the regime."
+          text: "Non è che avessero il credo fascista “servo il fascismo”, insomma."
         sequence-20:
           s: 20
           from: "00:01:13,02"
           to: "00:01:19,00"
-          text: "If he’s a fascist to hurt people and is also paid for it, then it’s a double offence."
+          text: "Se lui fa il fascismo per fare del male ed è anche pagato, è un delitto due volte."
         sequence-21:
           s: 21
           from: "00:01:19,00"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:19,27"
           to: "00:01:24,05"
-          text: "There was this trail heading up, which turned around a bush."
+          text: "Questo sentiero che portava su, girava intorno a un cespuglio, proprio così."
         sequence-23:
           s: 23
           from: "00:01:24,05"

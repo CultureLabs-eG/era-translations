@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:23,14"
           to: "00:00:30,21"
-          text: "Prima di andare sotto copertura, c'era stata una grande attività pubblica."
+          text: "Prima di andare sotto copertura, eravamo stati molto attivi pubblicamente."
         sequence-4:
           s: 4
           from: "00:00:30,21"
           to: "00:00:39,22"
-          text: "Ci conoscevano. Sapevano bene che avremmo continuato nonostante l'interdizione del partito. Erano sempre vigili."
+          text: "Ci conoscevano. Sapevano bene che avremmo continuato nonostante l'interdizione del partito. Erano molto vigili."
         sequence-5:
           s: 5
           from: "00:00:39,22"
