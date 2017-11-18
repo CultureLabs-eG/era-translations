@@ -138,12 +138,14 @@ it:
           s: 27
           from: "00:03:33,15"
           to: "00:03:45,17"
-          text: "We realized we were somewhere foreign, but it was almost more comfortable than what we had left behind in Compiègne."
+          text: "Vedevamo bene che eravamo all'estero, ma era quasi più piacevole di quello che avevamo lasciato a Compiègne. "
         sequence-28:
           s: 28
           from: "00:03:45,17"
           to: "00:03:56,20"
-          text: "The following day we were taken to Birkenau, 4 or 5 km away and there it was totally different."
+          text: |-
+              E poi l'indomani ci hanno portati a Birkenau, distante 4 o 5
+              km. Là a Birkenau è tutto diverso.
         sequence-29:
           s: 29
           from: "00:03:56,20"

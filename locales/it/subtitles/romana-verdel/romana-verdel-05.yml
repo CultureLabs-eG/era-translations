@@ -63,12 +63,12 @@ it:
           s: 12
           from: "00:00:58,24"
           to: "00:01:04,23"
-          text: "Whenever they picked me up I fell down again until the woman said:"
+          text: "Ogni volta che mi tiravano su ricadevo."
         sequence-13:
           s: 13
           from: "00:01:04,23"
           to: "00:01:09,26"
-          text: "“This one is so exhausted, you cannot take her either. Just let her stay here.”"
+          text: "Fino a quando la donna ha detto: 'Beh, anche lei è troppo stanca, non potete portarla con voi. Che rimanga qui.'"
         sequence-14:
           s: 14
           from: "00:01:09,26"
