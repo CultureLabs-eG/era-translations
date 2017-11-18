@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:01:02,15"
           to: "00:01:10,15"
-          text: "Si sono sposati che avevano poco più di vent’anni, giovanissimi, non avevano altra possibilità di occupazione e si sono messi a fare i contadini;"
+          text: "They got married shortly after turning twenty... so young... they couldn't find any work so they got into farming."
         sequence-10:
           s: 10
           from: "00:01:10,15"
