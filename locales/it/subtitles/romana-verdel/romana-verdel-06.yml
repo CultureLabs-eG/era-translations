@@ -138,17 +138,17 @@ it:
           s: 27
           from: "00:02:09,01"
           to: "00:02:16,12"
-          text: "I was not frightened any more, feeling nothing."
+          text: "Ormai non avevo più paura. Non sentivo più nulla,"
         sequence-28:
           s: 28
           from: "00:02:16,12"
           to: "00:02:19,20"
-          text: "I was in shock."
+          text: "penso che fossi... in stato di shock o qualcosa così."
         sequence-29:
           s: 29
           from: "00:02:19,20"
           to: "00:02:26,00"
-          text: "Then I had to step over these partisans. He made me step over the dead people!"
+          text: "E sono dovuta andare sopra quei partigiani, mi ha fatta camminare sopra i morti."
         sequence-30:
           s: 30
           from: "00:02:26,00"
