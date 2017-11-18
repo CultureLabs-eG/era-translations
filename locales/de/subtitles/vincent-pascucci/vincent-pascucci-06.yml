@@ -113,7 +113,7 @@ de:
           s: 22
           from: "00:02:55,22"
           to: "00:03:24,04"
-          text: "Then the last Germans who were exploding the equipment from the aviation camp before leaving passed by and arrested them."
+          text: "Die letzten Deutschen, die im Luftfahrtlager die Einrichtung sprengten bevor sie gingen, kamen vorbei und verhafteten sie."
         sequence-23:
           s: 23
           from: "00:03:24,04"
@@ -123,12 +123,12 @@ de:
           s: 24
           from: "00:03:25,24"
           to: "00:03:33,08"
-          text: "They searched them and found the revolver I had given to Louis Meunier."
+          text: "Sie durchsuchten sie und fanden den Revolver, den ich Louis Meunier gegeben hatte."
         sequence-25:
           s: 25
           from: "00:03:33,08"
           to: "00:03:43,09"
-          text: "He didn’t like weapons, but I gave him one, telling him he needed it to defend himself."
+          text: "Er mochte keine Waffen, aber ich gab ihm eine und sagte ihm, dass er se brauche, um sich zu verteidigen."
         sequence-26:
           s: 26
           from: "00:03:43,09"
