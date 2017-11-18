@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:01,00"
           to: "00:00:09,17"
-          text: "Siamo tornati in Carinzia passando per i monti, una volta sciolta la neve, perché non c'erano altre possibilità."
+          text: "Siamo tornati in Carinzia passando per i monti, solo dopo che si era sciolta la neve, perché non c'erano altre possibilità."
         sequence-2:
           s: 2
           from: "00:00:09,17"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:17,24"
           to: "00:00:25,27"
-          text: "E la zia ha chiesto se potesse lasciare la figlia più giovane, perché era molto malata."
+          text: "E la zia ha chiesto se potesse lasciare la figlia più giovane,"
         sequence-5:
           s: 5
           from: "00:00:25,27"
