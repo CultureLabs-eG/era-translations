@@ -8,7 +8,7 @@ en:
           s: 1
           from: "00:00:00,25"
           to: "00:00:06,21"
-          text: "There were very many cultural workers with the partisans."
+          text: "There were many, many cultural workers with the partisans."
         sequence-2:
           s: 2
           from: "00:00:06,21"
@@ -18,12 +18,12 @@ en:
           s: 3
           from: "00:00:11,15"
           to: "00:00:20,15"
-          text: "The theater was relatively well represented and many premieres were held."
+          text: "The theater was relatively well represented and many plays were held."
         sequence-4:
           s: 4
           from: "00:00:20,15"
           to: "00:00:32,15"
-          text: "For one premiere, for Bor’s Raztrganci, I contributed the stage scenery."
+          text: "For one play, for Bor’s Raztrganci, I contributed the stage scenery."
         sequence-5:
           s: 5
           from: "00:00:32,15"
