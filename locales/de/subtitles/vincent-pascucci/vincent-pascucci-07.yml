@@ -78,12 +78,12 @@ de:
           s: 15
           from: "00:02:12,14"
           to: "00:02:26,15"
-          text: "Some Germans waren in den Pariser Wasserwerken. Sie wollten die Bassins sprengen aber sie wurden gefangen."
+          text: "Ein paar Deutsche waren in den Pariser Wasserwerken. Sie wollten die Wasserbecken sprengen aber sie wurden gefangen."
         sequence-16:
           s: 16
           from: "00:02:26,15"
           to: "00:02:34,15"
-          text: "So there was a prisoner exchange between those Germans"
+          text: "Es gab also einen Gefangenenaustausch mit diesen Deutschen"
         sequence-17:
           s: 17
           from: "00:02:34,15"

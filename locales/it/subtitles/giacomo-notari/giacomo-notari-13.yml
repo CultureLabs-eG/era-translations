@@ -2,13 +2,13 @@ it:
   giacomo-notari:
     chapter-13:
       c: 13
-      title: "Personal message"
+      title: "Messaggio personale"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,26"
           to: "00:00:04,02"
-          text: "I also want to add that what we did"
+          text: "Aggiungerei che tutto ciò che abbiamo fatto,"
         sequence-2:
           s: 2
           from: "00:00:04,02"
