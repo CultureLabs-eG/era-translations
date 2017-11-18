@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,20"
           to: "00:00:03,02"
-          text: "Alla fine di gennaio del 44 siamo là..."
+          text: "Alla fine di gennaio del 44 siamo là"
         sequence-2:
           s: 2
           from: "00:00:03,02"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:00:52,00"
           to: "00:00:55,18"
-          text: "Già che fossimo fuori da quella cantina, ci rendeva felici. Doveva cambiare qualcosa."
+          text: "Già esser fuori da quella cantina, ci rendeva felici. Doveva cambiare qualcosa."
         sequence-15:
           s: 15
           from: "00:00:55,18"

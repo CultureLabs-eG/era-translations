@@ -48,12 +48,12 @@ de:
           s: 9
           from: "00:01:09,03"
           to: "00:01:24,16"
-          text: "General Stüplinen ordered for every killed German, one hundred resistance fighters should be executed."
+          text: "General Stüplinen befahl, dass für jeden getöteten Deutschen 100 Widerstandskämpfer erschossen werden sollten."
         sequence-10:
           s: 10
           from: "00:01:24,16"
           to: "00:01:42,05"
-          text: "We identified 1015 corpses of people who had been shot between 1941 and 1944."
+          text: "Wir identifizierten 1015 Leichen von Personen, die zwischen 1941 und 1944 erschossen wurden."
         sequence-11:
           s: 11
           from: "00:01:42,05"
@@ -63,7 +63,7 @@ de:
           s: 12
           from: "00:01:43,18"
           to: "00:01:47,08"
-          text: "It was an execution place."
+          text: "Es war ein Ort der Exekution."
         sequence-13:
           s: 13
           from: "00:01:47,08"
@@ -73,7 +73,7 @@ de:
           s: 14
           from: "00:01:58,00"
           to: "00:02:12,14"
-          text: "The Germans couldn’t move anymore, as all the streets leading there were barricaded by the resistance."
+          text: "Die Deutschen konnten sich nicht mehr bewegen, weil alle Straßen dorthin von der Résistance verbarrikadiert waren."
         sequence-15:
           s: 15
           from: "00:02:12,14"

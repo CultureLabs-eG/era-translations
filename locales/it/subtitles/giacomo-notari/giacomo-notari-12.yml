@@ -113,22 +113,22 @@ it:
           s: 22
           from: "00:01:49,21"
           to: "00:01:56,28"
-          text: "Today you have stores full of stuff, you don’t know where to put things at home;"
+          text: "quando vedi le botteghe che scoppiano, le case che non san più dove mettere la roba."
         sequence-23:
           s: 23
           from: "00:01:56,28"
           to: "00:02:03,15"
-          text: "at the time if you had a bottle of water, some bread and cheese,"
+          text: "In fondo quando c'avevi una borraccia d’acqua, e un pane e un po’ di formaggio"
         sequence-24:
           s: 24
           from: "00:02:03,15"
           to: "00:02:09,24"
-          text: "you were just as strong as today, maybe even more since you didn’t need to go see the doctor after you ate too much."
+          text: "eri forte come adesso anche di più che hai bisogno di andare dal dottore perché hai mangiato troppo."
         sequence-25:
           s: 25
           from: "00:02:09,24"
           to: "00:02:15,09"
-          text: "I learned so much from the resistance, and from the war too."
+          text: "Ecco io ho avuto una grande cultura dalla Resistenza e anche dalla guerra insomma."
         sequence-26:
           s: 26
           from: "00:02:15,09"
@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:02:16,26"
           to: "00:02:21,15"
-          text: "Real antifascism developed even after the war."
+          text: "Direi che l’antifascismo vero... direi che poi è maturato anche dopo la guerra,"
         sequence-28:
           s: 28
           from: "00:02:21,15"
           to: "00:02:29,17"
-          text: "Along with awareness, as you understood that fascism wasn’t only people with guns."
+          text: "perché poi matura con la coscienza, che poi trovi che il fascismo non c’erano mica solo quelli con le armi in mano,"
         sequence-29:
           s: 29
           from: "00:02:29,17"
