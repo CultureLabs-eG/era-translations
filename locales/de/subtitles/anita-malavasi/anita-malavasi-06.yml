@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:02:34,04"
           to: "00:02:38,15"
-          text: "Ich sagte: \"Hör mal, ich habe Angst, zu Hause zu bleiben."
+          text: "Ich sagte: \"Hören Sie, ich habe Angst, zu Hause zu bleiben."
         sequence-27:
           s: 27
           from: "00:02:38,15"
@@ -143,7 +143,7 @@ de:
           s: 28
           from: "00:02:47,28"
           to: "00:02:56,05"
-          text: "My cousin said the same: “I usually go with her, or to my mother’s, would you let us go there?”"
+          text: "Meine Cousine sagte das gleiche: \"Ich gehe normalerweise mit ihr oder zu meiner Mutter. Würden Sie uns dort hin lassen?\""
         sequence-29:
           s: 29
           from: "00:02:56,05"

@@ -98,12 +98,12 @@ de:
           s: 19
           from: "00:01:44,15"
           to: "00:01:51,28"
-          text: "The struggle began after September 8th, as soon as men took off for the mountains."
+          text: "Der Kamp began nach dem 8ten September, sobald die Männer in die Berge auszogen."
         sequence-20:
           s: 20
           from: "00:01:51,28"
           to: "00:02:00,02"
-          text: "The Partisans were an army with no uniforms and no supplies."
+          text: "Die Partisanen waren eine Armee ohne Uniformen und ohne Proviant."
         sequence-21:
           s: 21
           from: "00:02:00,02"
@@ -113,7 +113,7 @@ de:
           s: 22
           from: "00:02:01,16"
           to: "00:02:08,21"
-          text: "They had nothing."
+          text: "Sie hatten nichts."
         sequence-23:
           s: 23
           from: "00:02:08,21"
@@ -123,7 +123,7 @@ de:
           s: 24
           from: "00:02:10,18"
           to: "00:02:17,06"
-          text: "That’s why we started to get hold of small things for them."
+          text: "Das ist warum wir begannen ihnen kleine Dinge zu organisieren."
         sequence-25:
           s: 25
           from: "00:02:17,06"

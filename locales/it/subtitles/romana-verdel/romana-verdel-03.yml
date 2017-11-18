@@ -53,12 +53,12 @@ it:
           s: 10
           from: "00:00:47,18"
           to: "00:00:54,23"
-          text: "But it was an area for partisans and there was always fighting."
+          text: "Ma era una zona partigiana, c'erano combattimenti di continuo,"
         sequence-11:
           s: 11
           from: "00:00:54,23"
           to: "00:00:57,21"
-          text: "It was dangerous at the house."
+          text: "era pericoloso stare vicino casa."
         sequence-12:
           s: 12
           from: "00:00:57,21"
