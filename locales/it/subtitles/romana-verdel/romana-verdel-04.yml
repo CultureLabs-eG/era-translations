@@ -213,7 +213,7 @@ it:
           s: 42
           from: "00:03:07,21"
           to: "00:03:10,11"
-          text: "There was nothing to talk about -"
+          text: "Nemmeno parlare, nulla da fare con gli adulti,"
         sequence-43:
           s: 43
           from: "00:03:10,11"
@@ -223,7 +223,7 @@ it:
           s: 44
           from: "00:03:12,10"
           to: "00:03:16,16"
-          text: "not even with the adults. Even they did not talk much."
+          text: "anche loro parlavano davvero poco."
         sequence-45:
           s: 45
           from: "00:03:16,16"
@@ -233,7 +233,7 @@ it:
           s: 46
           from: "00:03:20,10"
           to: "00:03:27,20"
-          text: "I cannot remember what we had to eat, either."
+          text: "Quanto tempo siamo rimasti là non lo so. Non mi ricordo nemmeno cosa abbiamo mangiato."
         sequence-47:
           s: 47
           from: "00:03:27,20"
