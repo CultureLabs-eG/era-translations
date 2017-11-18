@@ -328,12 +328,12 @@ it:
           s: 65
           from: "00:04:44,16"
           to: "00:04:49,29"
-          text: "Here and there we were in a stable, that was nice."
+          text: "Di tanto in tanto stavamo in una stalla. Era bello,"
         sequence-66:
           s: 66
           from: "00:04:49,29"
           to: "00:04:55,26"
-          text: "It was warm in the stable and we were used to the smell."
+          text: "nella stalla faceva caldo e non sentivamo puzza, perché ci eravamo ormai abituati."
         sequence-67:
           s: 67
           from: "00:04:55,26"
@@ -348,7 +348,7 @@ it:
           s: 69
           from: "00:05:01,04"
           to: "00:05:04,27"
-          text: "But most of the time we stayed in bunkers."
+          text: "ma quasi sempre stavamo nei bunker."
         sequence-70:
           s: 70
           from: "00:05:04,27"
@@ -358,12 +358,12 @@ it:
           s: 71
           from: "00:05:06,06"
           to: "00:05:11,13"
-          text: "There was fighting, as well."
+          text: "Siamo capitati anche dove c'erano combattimenti."
         sequence-72:
           s: 72
           from: "00:05:11,13"
           to: "00:05:17,23"
-          text: "Once, we were hiding in the forest when there was fighting."
+          text: "Una volta ci siamo nascosti nel bosco, per via di un combattimento in corso."
         sequence-73:
           s: 73
           from: "00:05:17,23"

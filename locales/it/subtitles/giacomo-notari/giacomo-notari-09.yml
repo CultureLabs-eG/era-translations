@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:31,27"
           to: "00:00:39,00"
-          text: "not the whole plant, only the roof, so that it would fall on the machinery and preserve them."
+          text: "non tutto ma di minare i tetti in maniera che cadessero sui macchinari per salvare almeno i macchinari;"
         sequence-9:
           s: 9
           from: "00:00:39,00"
@@ -53,22 +53,22 @@ it:
           s: 10
           from: "00:00:40,21"
           to: "00:00:45,13"
-          text: "Ramis refused and told them:"
+          text: "e allora \"Ramis\" si rifiutò e disse:"
         sequence-11:
           s: 11
           from: "00:00:45,13"
           to: "00:00:50,16"
-          text: "“Listen, there are 500 partisans over here”."
+          text: "“Ma insomma, qui siamo 500 partigiani”,"
         sequence-12:
           s: 12
           from: "00:00:50,16"
           to: "00:00:55,26"
-          text: "There was also an English officer, and we were really armed then."
+          text: "c'era anche un ufficiale inglese, allora eravamo davvero armati;"
         sequence-13:
           s: 13
           from: "00:00:55,26"
           to: "00:01:00,18"
-          text: "We had everything: a whole load of ammunition, machine guns, mortars…"
+          text: "c’era di tutto: munizioni a non finire, mitraglie, mortai..."
         sequence-14:
           s: 14
           from: "00:01:00,18"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:01,20"
           to: "00:01:04,28"
-          text: "If we had to mine a power plant at that point…"
+          text: "e a questo punto se dobbiamo minare una centrale…"
         sequence-16:
           s: 16
           from: "00:01:04,28"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:06,15"
           to: "00:01:11,09"
-          text: "We fought back fiercely, even at night."
+          text: "ci fu una resistenza fortissima, anche di notte,"
         sequence-18:
           s: 18
           from: "00:01:11,09"

@@ -98,7 +98,7 @@ en:
           s: 19
           from: "00:02:33,09"
           to: "00:02:41,05"
-          text: "whom they considered suspicious of working for the LF to the internment camp."
+          text: "that they considered suspicious of working for the LF to the internment camp."
         sequence-20:
           s: 20
           from: "00:02:41,05"
@@ -113,12 +113,12 @@ en:
           s: 22
           from: "00:02:57,05"
           to: "00:03:11,14"
-          text: "Once in internment it was necessary to take care of the families of the internees and of people who joined the partisans."
+          text: "Once in internment it was necessary to take care of the families of the internees and of the people who'd joined the partisans."
         sequence-23:
           s: 23
           from: "00:03:11,14"
           to: "00:03:22,10"
-          text: "And also of the illegal, which didn’t get coupons for rations."
+          text: "And also families of the illegals, who didn’t get coupons for rations."
         sequence-24:
           s: 24
           from: "00:03:22,10"
