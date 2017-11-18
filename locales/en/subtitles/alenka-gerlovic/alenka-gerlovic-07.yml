@@ -83,7 +83,7 @@ en:
           s: 16
           from: "00:01:53,28"
           to: "00:02:02,04"
-          text: "I passed that message to my own superiors in the LF network."
+          text: "I passed that message to my superiors in the LF network."
         sequence-17:
           s: 17
           from: "00:02:02,04"
@@ -103,7 +103,7 @@ en:
           s: 20
           from: "00:02:21,19"
           to: "00:02:35,21"
-          text: "Every building had a listing of all the people staying there. Every so often there would be raids."
+          text: "Every building had a list of all the people staying there. Every so often there would be raids."
         sequence-21:
           s: 21
           from: "00:02:35,21"
@@ -113,7 +113,7 @@ en:
           s: 22
           from: "00:02:43,29"
           to: "00:02:51,06"
-          text: "they were taken away; also all those who were hiding them."
+          text: "they were taken away; as were those hiding them."
         sequence-23:
           s: 23
           from: "00:02:51,06"
