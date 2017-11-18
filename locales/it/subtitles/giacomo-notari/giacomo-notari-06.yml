@@ -8,22 +8,22 @@ it:
           s: 1
           from: "00:00:01,09"
           to: "00:00:09,25"
-          text: "Well, did I kill somebody…"
+          text: "We were receiving reports of troops coming back from the front, from Garfagnana,"
         sequence-2:
           s: 2
           from: "00:00:09,25"
           to: "00:00:10,27"
-          text: "We did shoot, but then knowing if we killed them for sure is another story."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:10,27"
           to: "00:00:19,11"
-          text: "That night, three Germans were shot dead."
+          text: "on the road going through Fivizzano and the Cerreto pass and towards Castelnovo Monti."
         sequence-4:
           s: 4
           from: "00:00:19,11"
           to: "00:00:25,12"
-          text: "They were buried in the colony of Busana."
+          text: "They were sending new troops to the front, by that time they had been there two or three months."
         sequence-5:
           s: 5
           from: "00:00:25,12"
@@ -33,22 +33,22 @@ it:
           s: 6
           from: "00:00:33,07"
           to: "00:00:38,10"
-          text: "I can tell you that if I had killed a man while he was looking at me,"
+          text: "There was only this small thing we used to call the “fognone” (big sewer)."
         sequence-7:
           s: 7
           from: "00:00:38,10"
           to: "00:00:39,11"
-          text: "I would be sorry even now,"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:39,11"
           to: "00:00:44,12"
-          text: "as killing somebody is never a nice thing."
+          text: "By that time we had a lot of TNT since they dropped it from the airplanes."
         sequence-9:
           s: 9
           from: "00:00:44,12"
           to: "00:00:47,18"
-          text: "However, I’ve always thought that when somebody deserves it, when someone has done some bad deeds..."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:47,18"
@@ -58,12 +58,12 @@ it:
           s: 11
           from: "00:00:59,12"
           to: "00:01:03,15"
-          text: "Personally, I’m against torture, even if it’s necessary to obtain information."
+          text: "They had a machine gun nest not too far away,"
         sequence-12:
           s: 12
           from: "00:01:03,15"
           to: "00:01:11,09"
-          text: "But when someone has done some bad deeds, well, we must get rid of him."
+          text: "we put two groups there, one on each side of the bridge, in order to work untroubled."
         sequence-13:
           s: 13
           from: "00:01:11,09"
@@ -73,37 +73,37 @@ it:
           s: 14
           from: "00:01:19,23"
           to: "00:01:23,24"
-          text: "As for spies, I never really thought anything."
+          text: "After that we set the fuse and set it on fire."
         sequence-15:
           s: 15
           from: "00:01:23,24"
           to: "00:01:26,09"
-          text: "I simply thought that they had to be spotted and killed."
+          text: "We walked down a bit because rocks would be falling down"
         sequence-16:
           s: 16
           from: "00:01:26,09"
           to: "00:01:27,13"
-          text: "It was also important to set apart those in good faith from those who were not."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:27,13"
           to: "00:01:31,15"
-          text: "If this woman took some money from the Germans to get our comrades killed,"
+          text: "and well I went back to see after the war was over,"
         sequence-18:
           s: 18
           from: "00:01:31,15"
           to: "00:01:41,14"
-          text: "it meant that there was really not too much good faith there."
+          text: "and not only did we blow up the arch, but also 2-3 meters of road on both sides, because 45 kg are a lot."
         sequence-19:
           s: 19
           from: "00:01:41,14"
           to: "00:01:42,14"
-          text: "They didn’t really have the fascist dogma, working for the regime."
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:42,14"
           to: "00:01:49,07"
-          text: "If he’s a fascist to hurt people and is also paid for it, then it’s a double offence."
+          text: "When they arrived they had to do a horse-shoe, that’s why it was important to stop them."
         sequence-21:
           s: 21
           from: "00:01:49,07"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:55,26"
           to: "00:02:03,15"
-          text: "There was this trail heading up, which turned around a bush."
+          text: "and forcing them to dig the mountain, build a horse-shoe in order to be able to get through:"
         sequence-23:
           s: 23
           from: "00:02:03,15"

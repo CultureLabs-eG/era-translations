@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:25,27"
           to: "00:00:28,18"
-          text: "because she was very ill."
+          text: "siccome era così malata."
         sequence-6:
           s: 6
           from: "00:00:28,18"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:36,15"
           to: "00:00:43,23"
-          text: "I thought: ‘Oh, she can stay and I have to go again; and it is so nice and warm here.’"
+          text: "E io ho pensato: 'Ah, lei può rimanere e io invece devo ripartire. E qui fa così caldo.'"
         sequence-9:
           s: 9
           from: "00:00:43,23"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:47,15"
           to: "00:00:53,05"
-          text: "So I lay down on the bench and thought: ‘what could I do to be allowed to stay?’"
+          text: "Per cui mi sono straiata sulla panchina e ho pensato: 'Cosa posso fare, per rimanere anche io?'"
         sequence-11:
           s: 11
           from: "00:00:53,05"
