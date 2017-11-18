@@ -93,17 +93,17 @@ it:
           s: 18
           from: "00:01:11,09"
           to: "00:01:16,21"
-          text: "They had made it to less than one km from the road to the Predale power plant,"
+          text: "erano arrivati a meno di 1 km dalla strada della centrale di Predale,"
         sequence-19:
           s: 19
           from: "00:01:16,21"
           to: "00:01:21,08"
-          text: "but they didn’t manage to proceed any further, not one step further."
+          text: "però alla fine non sono riusciti a fare un passo in più, insomma."
         sequence-20:
           s: 20
           from: "00:01:21,08"
           to: "00:01:25,11"
-          text: "The local people helped us out a lot there."
+          text: "Lì c’è stato un bell’aiuto della popolazione,"
         sequence-21:
           s: 21
           from: "00:01:25,11"
@@ -113,17 +113,17 @@ it:
           s: 22
           from: "00:01:26,10"
           to: "00:01:33,05"
-          text: "Workers built the trenches while the women cooked."
+          text: "c’erano gli operai che facevano le trincee, le donne che facevano da mangiare..."
         sequence-23:
           s: 23
           from: "00:01:33,05"
           to: "00:01:37,03"
-          text: "That was really a perfect battle,"
+          text: "insomma c’è stata proprio veramente una battaglia esemplare,"
         sequence-24:
           s: 24
           from: "00:01:37,03"
           to: "00:01:42,11"
-          text: "and one morning the Germans were forced to retreat."
+          text: "e un mattino i tedeschi poi si son dovuti ritirare."
         sequence-25:
           s: 25
           from: "00:01:42,11"

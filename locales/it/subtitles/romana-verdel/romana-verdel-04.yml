@@ -373,12 +373,12 @@ it:
           s: 74
           from: "00:05:19,10"
           to: "00:05:24,07"
-          text: "A partisan pushed me down behind a tree and"
+          text: "Là un partigiano mi ha spinto dietro un albero"
         sequence-75:
           s: 75
           from: "00:05:24,07"
           to: "00:05:27,17"
-          text: "held me down so I could not get up."
+          text: "e mantenuta a terra, perché non mi potessi alzare."
         sequence-76:
           s: 76
           from: "00:05:27,17"
