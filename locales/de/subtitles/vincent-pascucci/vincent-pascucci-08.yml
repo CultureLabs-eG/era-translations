@@ -103,17 +103,17 @@ de:
           s: 20
           from: "00:03:18,22"
           to: "00:03:24,06"
-          text: "We organized school trips to Oradour s/Glane,"
+          text: "Wir organisierten Klassenfahrten nach Oradour-sur-Glane,"
         sequence-21:
           s: 21
           from: "00:03:24,06"
           to: "00:03:33,15"
-          text: "to Struthof, the only Nazi concentration camp there was in France, in Alsace."
+          text: "nach Struthof, dem einzigen Nazi-Konzentrationslager in Frankreich im Elsaß."
         sequence-22:
           s: 22
           from: "00:03:33,15"
           to: "00:03:44,08"
-          text: "We took classes of three different schools to Auschwitz-Birkenau."
+          text: "Wir brachten Klassen von drei verschiedenen Schulen nach Auschwitz-Birkenau."
         sequence-23:
           s: 23
           from: "00:03:44,08"
@@ -123,12 +123,12 @@ de:
           s: 24
           from: "00:03:45,01"
           to: "00:04:04,08"
-          text: "We want to show young people the atrocities of racism and xenophobia, the total absence of freedom."
+          text: "Wir wollen den jungen Leuten die Gräueltaten von Rassismus und Fremdenfeindlichkeit, die totale Abwesenheit von Freiheit zeigen."
         sequence-25:
           s: 25
           from: "00:04:04,08"
           to: "00:04:09,06"
-          text: "There are several of us."
+          text: "Es gibt mehrere von uns."
         sequence-26:
           s: 26
           from: "00:04:09,06"

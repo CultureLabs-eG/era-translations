@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:47,18"
           to: "00:00:59,12"
-          text: ~
+          text: "We walked up there. There was a wonderful moon this night, a very calm night, like in springtime."
         sequence-11:
           s: 11
           from: "00:00:59,12"
@@ -68,17 +68,17 @@ it:
           s: 13
           from: "00:01:11,09"
           to: "00:01:19,23"
-          text: ~
+          text: "e infatti abbiamo lavorato tranquilli, abbiamo messo 45 kg di tritolo plastico... era un po’ come la chewing-gum, no."
         sequence-14:
           s: 14
           from: "00:01:19,23"
           to: "00:01:23,24"
-          text: "After that we set the fuse and set it on fire."
+          text: "Poi abbiamo messo tutta la miccia, e poi abbiam dato fuoco."
         sequence-15:
           s: 15
           from: "00:01:23,24"
           to: "00:01:26,09"
-          text: "We walked down a bit because rocks would be falling down"
+          text: "Siamo andati un po’ giù perché piovevano le pietre..."
         sequence-16:
           s: 16
           from: "00:01:26,09"
