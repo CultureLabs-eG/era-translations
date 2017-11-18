@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:21,04"
           to: "00:00:28,06"
-          text: "oder Personen, die keiner Gruppe angehörten"
+          text: "oder Personen, die keiner Gruppe angehörten."
         sequence-5:
           s: 5
           from: "00:00:28,06"
@@ -168,4 +168,4 @@ de:
           s: 33
           from: "00:04:37,09"
           to: "00:04:46,08"
-          text: "That shows how thin the thread is life hangs on. Just a little bit of luck."
+          text: "Es zeigt, dass das Leben manchmal an einem seidenen Faden hängt. Nur ein bisschen Glück."
