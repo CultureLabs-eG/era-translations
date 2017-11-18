@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:38,01"
           to: "00:00:54,27"
-          text: "Sono stato portato a Rouen, dove ho trovato un centinaio di resistenti noti. Tutti della regione di Rouen, che è molto grande."
+          text: "Sono stato portato a Rouen, dove ho trovato un centinaio di resistenti noti, tutti della regione di Rouen."
         sequence-7:
           s: 7
           from: "00:00:54,27"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:23,07"
           to: "00:01:33,05"
-          text: "è successo diverse volte che la sera venissero a cercare dei compagni da fucilare per oltraggiamento…"
+          text: "è successo diverse volte che la sera venissero a cercare dei compagni da fucilare perché c'era stato un attentato…"
         sequence-11:
           s: 11
           from: "00:01:33,05"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:42,17"
           to: "00:01:48,13"
-          text: "A Compiègne siamo rimasti circa 8 mesi, siamo arrivato il 21 ottobre del '41."
+          text: "A Compiègne ci siamo rimasti circa 8 mesi, siamo arrivati il 21 ottobre del '41."
         sequence-14:
           s: 14
           from: "00:01:48,13"
