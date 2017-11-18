@@ -48,12 +48,12 @@ it:
           s: 9
           from: "00:00:28,12"
           to: "00:00:31,20"
-          text: "Why is there a church service at night tonight?”"
+          text: "\"Perché oggi fanno la messa di notte?\""
         sequence-10:
           s: 10
           from: "00:00:31,20"
           to: "00:00:34,26"
-          text: "The aunt answered: “Well, because there is. Let’s go.”"
+          text: "E la zia: \"È così e basta, fanno la messa di notte. Andiamo.\""
         sequence-11:
           s: 11
           from: "00:00:34,26"
