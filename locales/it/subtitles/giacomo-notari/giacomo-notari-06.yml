@@ -88,12 +88,12 @@ it:
           s: 17
           from: "00:01:27,13"
           to: "00:01:31,15"
-          text: "and well I went back to see after the war was over,"
+          text: "e in sostanza, che sono tornato a vedere a guerra finita,"
         sequence-18:
           s: 18
           from: "00:01:31,15"
           to: "00:01:41,14"
-          text: "and not only did we blow up the arch, but also 2-3 meters of road on both sides, because 45 kg are a lot."
+          text: "non solo aveva portato via quell’affare lì, l’arco, ma aveva preso anche 2-3 metri di strada a destra e a sinistra perché 45 kg sono tanti, insomma ecco."
         sequence-19:
           s: 19
           from: "00:01:41,14"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:42,14"
           to: "00:01:49,07"
-          text: "When they arrived they had to do a horse-shoe, that’s why it was important to stop them."
+          text: "E quando sono arrivati loro hanno dovuto fare un ferro di cavallo, ecco l’importanza del fermarli."
         sequence-21:
           s: 21
           from: "00:01:49,07"
