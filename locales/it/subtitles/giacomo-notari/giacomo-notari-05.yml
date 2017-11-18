@@ -2,18 +2,18 @@ it:
   giacomo-notari:
     chapter-5:
       c: 5
-      title: "Attempt to arrest a German marshall"
+      title: "Tentato arresto del maresciallo tedesco"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,26"
           to: "00:00:04,24"
-          text: "One night we went to Acqua Bona with Carretti"
+          text: "Una sera siamo andati ad Acquabona con Carretti,"
         sequence-2:
           s: 2
           from: "00:00:04,24"
           to: "00:00:12,05"
-          text: "and many partisans because we had to apprehend a German marshal"
+          text: "con molti partigiani perché si doveva prendere un maresciallo tedesco"
         sequence-3:
           s: 3
           from: "00:00:12,05"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:13,15"
           to: "00:00:24,06"
-          text: "who was taking milk away from the farmers, sending it out to the headquarters in Busana."
+          text: "perché portava via al mattino... faceva portare via il latte dei contadini e lo mandava al comando a Busana, alla colonia."
         sequence-5:
           s: 5
           from: "00:00:24,06"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:25,05"
           to: "00:00:33,22"
-          text: "The villages were full of people, the inhabitants had asked us to go take him."
+          text: "E i paesi erano pieno di gente, insomma, e allora i paesani ci avevano fatto sapere insomma che era bene che lo prendessimo."
         sequence-7:
           s: 7
           from: "00:00:33,22"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:35,11"
           to: "00:00:43,07"
-          text: "Caretti ordered us to wrap up our shoes with some bags in order not to make noise,"
+          text: "E allora siamo andati là una sera che Carretti c’aveva fatto fasciare i piedi con dei sacchi per non fare rumore"
         sequence-9:
           s: 9
           from: "00:00:43,07"
           to: "00:00:50,03"
-          text: "but it didn’t work because the villages were full of shepherds and they had dogs."
+          text: "e poi non sono serviti a niente perché c’erano tanti pastori nei paesi e avevano i cani."
         sequence-10:
           s: 10
           from: "00:00:50,03"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:50,29"
           to: "00:00:59,13"
-          text: "The dogs heard us and started barking."
+          text: "I cani si sono accorti che c'eravamo, insomma, anche se non si faceva un gran rumore, insomma e si sono messi a abbaiare."
         sequence-12:
           s: 12
           from: "00:00:59,13"
@@ -68,12 +68,12 @@ it:
           s: 13
           from: "00:01:00,17"
           to: "00:01:07,24"
-          text: "At that point the marshal came out with a soldier to see what was going on,"
+          text: "Allora questo maresciallo è uscito con un saldato per vedere un po’ cosa stava succedendo"
         sequence-14:
           s: 14
           from: "00:01:07,24"
           to: "00:01:10,28"
-          text: "why the dogs were still barking."
+          text: "visto l'insistenza dei cani."
         sequence-15:
           s: 15
           from: "00:01:10,28"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:11,29"
           to: "00:01:15,23"
-          text: "We had put some mines on the road,"
+          text: "Noi però avevamo messo delle mine nella strada,"
         sequence-17:
           s: 17
           from: "00:01:15,23"
           to: "00:01:24,25"
-          text: "so that if we had to fight, the soldiers who came down from Nismozza would walk into the mines."
+          text: "proprio perché abbiamo detto: se viene uno scontro per evitare che i soldati di Nismozza scendessero giù e... andavano sulle mine."
         sequence-18:
           s: 18
           from: "00:01:24,25"
@@ -98,14 +98,14 @@ it:
           s: 19
           from: "00:01:25,21"
           to: "00:01:33,27"
-          text: "While the marshal was walking around to see what was happening, we solved the problem: he blew up on a mine."
+          text: "Allora lui mentre passeggiava nella strada per vedere un po’ che cosa stava succedendo, abbiamo risolto il problema... che è saltato per aria."
         sequence-20:
           s: 20
           from: "00:01:33,27"
           to: "00:01:41,06"
-          text: "We were supposed to take him alive, but we got him dead, the marshal and the soldier as well."
+          text: "Se si doveva prendere vivo così l’hanno preso morto ed è saltato lui ed è saltato anche il soldato."
         sequence-21:
           s: 21
           from: "00:01:41,06"
           to: "00:01:45,05"
-          text: "Then we had to back off of course."
+          text: "E allora ci siamo dovuti ovviamente ritirare ecco."

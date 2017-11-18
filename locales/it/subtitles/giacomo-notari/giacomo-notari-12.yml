@@ -2,23 +2,23 @@ it:
   giacomo-notari:
     chapter-12:
       c: 12
-      title: "Partisan every day life; political commissars, why antifascism?"
+      title: "Vita partigiana; commissari politici"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:12,14"
-          text: "The last memory I have of my brother was after the mop-up of 1944."
+          text: "Con mio fratello l’ultima volta, che rimane un ricordo, abbiamo... era lì dopo il rastrellamento del ’44."
         sequence-2:
           s: 2
           from: "00:00:12,14"
           to: "00:00:19,17"
-          text: "With this song that went “The moon, the stars talked about love”."
+          text: "With this “La luna, le stelle parlavano d’amore”, questa canzone qui."
         sequence-3:
           s: 3
           from: "00:00:19,17"
           to: "00:00:23,19"
-          text: "It was hot then, they used to sing it on the radio."
+          text: "“O che bel fiore, o che bel fiore...” e così via, che era di voga allora, la cantavano alla radio quei tempi lì insomma."
         sequence-4:
           s: 4
           from: "00:00:23,19"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:24,26"
           to: "00:00:32,03"
-          text: "“Oh what a pretty flower, oh what a pretty flower”."
+          text: "“La luna, le stelle parlavano d’amore, o che bel fiore, o che bel fiore” proprio questa motivazione."
         sequence-6:
           s: 6
           from: "00:00:32,03"
@@ -38,12 +38,12 @@ it:
           s: 7
           from: "00:00:33,02"
           to: "00:00:38,05"
-          text: "That was the last time we were singing together, because he died"
+          text: "E ti dirò che fu anche l'ultima volta che abbiam cantato, perché dopo morì,"
         sequence-8:
           s: 8
           from: "00:00:38,05"
           to: "00:00:44,19"
-          text: "soon after in Ligonchio, near the house where I met my wife."
+          text: "proprio lì a Ligonchio, lì vicino alla casa dove ho preso moglie, dove ho conosciuto mia moglie."
         sequence-9:
           s: 9
           from: "00:00:44,19"
@@ -53,27 +53,27 @@ it:
           s: 10
           from: "00:00:46,15"
           to: "00:00:48,18"
-          text: "What did we do?"
+          text: "Cosa si faceva?"
         sequence-11:
           s: 11
           from: "00:00:48,18"
           to: "00:00:54,04"
-          text: "Cleaned the guns, some helped fixing the meals, another one went to get water."
+          text: "Davi una pulita alle armi, qualcuno aiutava a fare da mangiare, l’altro andava a prendere l’acqua."
         sequence-12:
           s: 12
           from: "00:00:54,04"
           to: "00:00:58,26"
-          text: "Then at night we also talked, about the few things we knew."
+          text: "E poi alla sera si discuteva anche, come si poteva."
         sequence-13:
           s: 13
           from: "00:00:58,26"
           to: "00:01:12,29"
-          text: "We had political commissioners we listened to, but after the war I realized that they didn’t know much as well."
+          text: "Adesso quando c’erano i commissari politici... che poi allora si ascoltavano, ma riguardandoli poi dopo la guerra così, poveretti anche loro sapevano quello che sapevano."
         sequence-14:
           s: 14
           from: "00:01:12,29"
           to: "00:01:23,00"
-          text: "I have to say that their knowledge, their political culture was quite limited."
+          text: "Commissario sì come nome, però come capacità, come cultura politica era un po’ limitata, bisogna riconoscerlo."
         sequence-15:
           s: 15
           from: "00:01:23,00"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:24,06"
           to: "00:01:29,14"
-          text: "I couldn’t live my life anywhere else, I would really have a hard time."
+          text: "Io la mia vita non riuscirei a farla da un’altra parte, sarebbe molto dura proprio."
         sequence-17:
           s: 17
           from: "00:01:29,14"
@@ -93,17 +93,17 @@ it:
           s: 18
           from: "00:01:30,21"
           to: "00:01:33,17"
-          text: "That’s how I felt during the war too."
+          text: "E l’ho vissuta così anche durante la guerra insomma."
         sequence-19:
           s: 19
           from: "00:01:33,17"
           to: "00:01:39,29"
-          text: "We even slept in beech-trees, I could say it was a beautiful experience."
+          text: "Abbiamo dormito anche nei faggi, con le foglie, per me è stato anche bello, un’esperienza."
         sequence-20:
           s: 20
           from: "00:01:39,29"
           to: "00:01:48,02"
-          text: "Looking at today’s consumerism, I also understood that men need only a few things to live."
+          text: "Ho anche capito per esempio guardando il consumismo di adesso con quante poche cose possa vivere un uomo, davvero,"
         sequence-21:
           s: 21
           from: "00:01:48,02"
@@ -113,22 +113,22 @@ it:
           s: 22
           from: "00:01:49,21"
           to: "00:01:56,28"
-          text: "Today you have stores full of stuff, you don’t know where to put things at home;"
+          text: "quando vedi le botteghe che scoppiano, le case che non san più dove mettere la roba."
         sequence-23:
           s: 23
           from: "00:01:56,28"
           to: "00:02:03,15"
-          text: "at the time if you had a bottle of water, some bread and cheese,"
+          text: "In fondo quando c'avevi una borraccia d’acqua, e un pane e un po’ di formaggio"
         sequence-24:
           s: 24
           from: "00:02:03,15"
           to: "00:02:09,24"
-          text: "you were just as strong as today, maybe even more since you didn’t need to go see the doctor after you ate too much."
+          text: "eri forte come adesso anche di più che hai bisogno di andare dal dottore perché hai mangiato troppo."
         sequence-25:
           s: 25
           from: "00:02:09,24"
           to: "00:02:15,09"
-          text: "I learned so much from the resistance, and from the war too."
+          text: "Ecco io ho avuto una grande cultura dalla Resistenza e anche dalla guerra insomma."
         sequence-26:
           s: 26
           from: "00:02:15,09"
@@ -138,34 +138,34 @@ it:
           s: 27
           from: "00:02:16,26"
           to: "00:02:21,15"
-          text: "Real antifascism developed even after the war."
+          text: "Direi che l’antifascismo vero... direi che poi è maturato anche dopo la guerra,"
         sequence-28:
           s: 28
           from: "00:02:21,15"
           to: "00:02:29,17"
-          text: "Along with awareness, as you understood that fascism wasn’t only people with guns."
+          text: "perché poi matura con la coscienza, che poi trovi che il fascismo non c’erano mica solo quelli con le armi in mano,"
         sequence-29:
           s: 29
           from: "00:02:29,17"
           to: "00:02:41,29"
-          text: "We found ourselves with the parties of Movimento Sociale and L’Uomo Qualunque in 1945-46 reorganizing fascist principles."
+          text: "ma ce lo siamo ritrovati poi nel ’45-’46 quando il Movimento Sociale, quando L’Uomo Qualunque comincia a organizzarsi con la veste fascista, capisci?"
         sequence-30:
           s: 30
           from: "00:02:41,29"
           to: "00:02:47,20"
-          text: "That’s when this feeling arises... Why am I still here at ANPI in Reggio?"
+          text: "E allora proprio nasce... bisogna che creiamo... Perché sono ancora qui all'ANPI a Reggio?"
         sequence-31:
           s: 31
           from: "00:02:47,20"
           to: "00:02:49,18"
-          text: "I’m here to resist."
+          text: "Proprio per resistere,"
         sequence-32:
           s: 32
           from: "00:02:49,18"
           to: "00:02:54,14"
-          text: "We must create a social fabric that won’t allow fascism again."
+          text: "bisogna che creiamo un tessuto tale che il fascismo non passi più,"
         sequence-33:
           s: 33
           from: "00:02:54,14"
           to: "00:03:01,28"
-          text: "That’s why I say that antifascism matured after the war more than during the war itself."
+          text: "ecco da qui direi che siamo maturati più nel dopoguerra che durante la guerra dal punto di vista dell’antifascismo."

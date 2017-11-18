@@ -2,7 +2,7 @@ de:
   vincent-pascucci:
     chapter-2:
       c: 2
-      title: "Political activities "
+      title: "Politische Aktivitäten"
       subtitles:
         sequence-1:
           s: 1
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:22,19"
           to: "00:00:32,07"
-          text: "Während des Wahlkampfes gab es immer Versammlungen in den verschiedenen Vierteln."
+          text: "Während des Wahlkampfes gab es Versammlungen in verschiedenen Vierteln."
         sequence-4:
           s: 4
           from: "00:00:32,07"

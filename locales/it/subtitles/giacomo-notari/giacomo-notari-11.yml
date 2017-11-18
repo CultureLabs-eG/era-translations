@@ -2,13 +2,13 @@ it:
   giacomo-notari:
     chapter-11:
       c: 11
-      title: "Why Giacomo entered the comunist party"
+      title: "Iscrizione al Partito Comunista"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:03,23"
-          text: "Now we might laugh about this, but when you talked about Russia then,"
+          text: "Adesso si scherza, ma il parlare della Russia allora,"
         sequence-2:
           s: 2
           from: "00:00:03,23"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:04,16"
           to: "00:00:07,24"
-          text: "about a country that carried out a revolution,"
+          text: "il parlare di un paese che ha fatto una rivoluzione,"
         sequence-4:
           s: 4
           from: "00:00:07,24"
           to: "00:00:14,21"
-          text: "where there was a king who was killed, where they were selling the land along with the farmers…"
+          text: "che c’era il re e che l’avevano ammazzato, e che vendevano la terra insieme ai contadini..."
         sequence-5:
           s: 5
           from: "00:00:14,21"
@@ -33,37 +33,37 @@ it:
           s: 6
           from: "00:00:16,09"
           to: "00:00:20,15"
-          text: "It was an inspirational message for the youth."
+          text: "è un messaggio che ai giovani ti prende, capisci?"
         sequence-7:
           s: 7
           from: "00:00:20,15"
           to: "00:00:23,25"
-          text: "Then we all know how the story went,"
+          text: "Dopo è andata a finire come è andata a finire,"
         sequence-8:
           s: 8
           from: "00:00:23,25"
           to: "00:00:30,26"
-          text: "but the communist principles, just like the Christian principles, are two sets of values that just can’t fail."
+          text: "ma il principio comunista come il principio cristiano sono due principi che sono i... non possono fallire."
         sequence-9:
           s: 9
           from: "00:00:30,26"
           to: "00:00:36,10"
-          text: "Mankind must head in this direction in order to survive, otherwise we will end up in the dust."
+          text: "L’umanità deve andare in quella strada lì se vuole sopravvivere, se no finiscono nella cenere."
         sequence-10:
           s: 10
           from: "00:00:36,10"
           to: "00:00:41,21"
-          text: "Having said this, there’s a message I’ve always told the priests too:"
+          text: "Detto questo, è un mesaggio che l'ho sempre detto anche coi preti:"
         sequence-11:
           s: 11
           from: "00:00:41,21"
           to: "00:00:48,06"
-          text: "communist and Catholic family…"
+          text: "comunista, una famiglia cattolica, comunista, guarda famiglia cattolica..."
         sequence-12:
           s: 12
           from: "00:00:48,06"
           to: "00:00:57,01"
-          text: "If you had really applied Christianity we would have had no reason to join the Communist Party, you would have been the ones making justice."
+          text: "se voi per sempio aveste applicato il cristianesimo non c’era mica bisogno che noi andassimo nel Partito Comunista, la facevate voialtri un po’ di giustizia."
         sequence-13:
           s: 13
           from: "00:00:57,01"
@@ -73,44 +73,44 @@ it:
           s: 14
           from: "00:00:58,04"
           to: "00:01:01,20"
-          text: "They can’t understand how anyone coming from a Catholic family"
+          text: "Non si spiegano come mai da una famiglia cattolica"
         sequence-15:
           s: 15
           from: "00:01:01,20"
           to: "00:01:05,17"
-          text: "that goes to Mass, that has baptized its children, whose father sings in church,"
+          text: "che va alla messa, che ha battezzato i figli, che il papà va a cantare in chiesa,"
         sequence-16:
           s: 16
           from: "00:01:05,17"
           to: "00:01:11,11"
-          text: "whose family that has rebuilt the church of Santa Maria after the Germans had set it on fire,"
+          text: "che ha costruito la chiesa di Santa Maria che l’avevano bruciata  i tedeschi, a sue spese e fatica..."
         sequence-17:
           s: 17
           from: "00:01:11,11"
           to: "00:01:17,07"
-          text: "can join the Communist Party. There was this message of liberation."
+          text: "e va nel Partito Comunista. Perché ha lanciato questo messaggio di liberazione, per questo l'abbiamo..."
         sequence-18:
           s: 18
           from: "00:01:17,07"
           to: "00:01:23,02"
-          text: "Otherwise who would have done it, nobody paid us for this…"
+          text: "e se no chi lo faceva, perché non ci pagava mica nessuno."
         sequence-19:
           s: 19
           from: "00:01:23,02"
           to: "00:01:30,21"
-          text: "I worked for the Communist Party for 13 years and 6 months without social insurance contributions and without health insurance."
+          text: "Io sono stato 13 anni e 6 mesi senza marche e senza mutua. Quelle tessere lì, se conti, 13 anni e 6 mesi io son stato senza paga di nessuno,"
         sequence-20:
           s: 20
           from: "00:01:30,21"
           to: "00:01:38,18"
-          text: "And that’s fortunately because I was already rich, I had food on my table at home."
+          text: "perché fortunatamente ero già ricco perché a casa mia mangiavo, perché avevo da mangiare a casa..."
         sequence-21:
           s: 21
           from: "00:01:38,18"
           to: "00:01:45,23"
-          text: "Other comrades who were living the same life I was living had their wives working as maids, or on the rice-field, with children at home."
+          text: "ma c’erano dei compagni che facevano la vita che facevo io, che avevano la moglie a servire, o alla risaia, e avevano dei bambini a casa, ecco."
         sequence-22:
           s: 22
           from: "00:01:45,23"
           to: "00:01:50,02"
-          text: "That’s how we set up the Communist Party, not with the treasure of Dongo."
+          text: "Noi il Partito Comunista l'abbiamo costruito così, altro che l'oro di Dongo, capisci?"

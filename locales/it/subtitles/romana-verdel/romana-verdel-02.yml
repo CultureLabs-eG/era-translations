@@ -2,18 +2,18 @@ it:
   romana-verdel:
     chapter-2:
       c: 2
-      title: "Mass imprisonment, deportation"
+      title: "Reclusione di massa, deportazione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,28"
           to: "00:00:03,08"
-          text: "I was not at home."
+          text: "Io non ero in casa."
         sequence-2:
           s: 2
           from: "00:00:03,08"
           to: "00:00:05,18"
-          text: "I was at the neighbour’s."
+          text: "Ero dai vicini."
         sequence-3:
           s: 3
           from: "00:00:05,18"
@@ -23,17 +23,17 @@ it:
           s: 4
           from: "00:00:07,11"
           to: "00:00:11,27"
-          text: "When the neighbour saw that the Gestapo went to our house,"
+          text: "Quando la vicina ha visto la Gestapo andare a casa nostra,"
         sequence-5:
           s: 5
           from: "00:00:11,27"
           to: "00:00:20,21"
-          text: "she hid us in an outhouse and warned us:"
+          text: "ci ha nascosti in una casetta là vicino e ci ha avvertito:"
         sequence-6:
           s: 6
           from: "00:00:20,21"
           to: "00:00:24,14"
-          text: "“Please, don’t look out of the window and stay quiet.”"
+          text: "“Ora non guardate fuori dalla finestra e rimanete tranquilli.”"
         sequence-7:
           s: 7
           from: "00:00:24,14"
@@ -43,27 +43,27 @@ it:
           s: 8
           from: "00:00:26,05"
           to: "00:00:31,11"
-          text: "But us children, we didn’t understand that and didn’t keep quiet."
+          text: "Ma noi bambini non l'abbiamo capito e non siamo rimasti tranquilli."
         sequence-9:
           s: 9
           from: "00:00:31,11"
           to: "00:00:38,06"
-          text: "We kept looking out to see what was going on"
+          text: "Abbiamo continuato a guardare fuori dalla finestra e osservato quello che stava succedendo"
         sequence-10:
           s: 10
           from: "00:00:38,06"
           to: "00:00:43,10"
-          text: "until we saw that they were marching our family and relatives off."
+          text: "fino a quando non abbiamo visto che stavano portando via la nostra famiglia."
         sequence-11:
           s: 11
           from: "00:00:43,10"
           to: "00:00:45,27"
-          text: "We were frightened then."
+          text: "Allora sì che ci siamo presi paura."
         sequence-12:
           s: 12
           from: "00:00:45,27"
           to: "00:00:49,20"
-          text: "Only then did we realize that there was danger."
+          text: "Solo allora ci siamo resi conto che eravamo in pericolo."
         sequence-13:
           s: 13
           from: "00:00:49,20"
@@ -73,17 +73,17 @@ it:
           s: 14
           from: "00:00:53,16"
           to: "00:00:56,17"
-          text: "They came to the neighbour’s house"
+          text: "Allora raggiunsero la casa dei vicini"
         sequence-15:
           s: 15
           from: "00:00:56,17"
           to: "00:01:02,29"
-          text: "after that and there was an argument in the yard."
+          text: "e ci fu una discussione nel cortile"
         sequence-16:
           s: 16
           from: "00:01:02,29"
           to: "00:01:10,06"
-          text: "We were frightened that they would take the neighbour, as well, and deport her."
+          text: "e abbiamo avuto paura che potessero portare via anche la vicina e deportarla."
         sequence-17:
           s: 17
           from: "00:01:10,06"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:13,15"
           to: "00:01:17,14"
-          text: "After an hour it went quiet."
+          text: "Passò molto tempo, sicuramente un'ora fino a che tornò la pace."
         sequence-19:
           s: 19
           from: "00:01:17,14"
@@ -103,22 +103,22 @@ it:
           s: 20
           from: "00:01:18,27"
           to: "00:01:27,04"
-          text: "Then the neighbour came and said we could come out now."
+          text: "Allora arrivò la vicina con il piccolo e disse: \"Adesso potete venir fuori.\""
         sequence-21:
           s: 21
           from: "00:01:27,04"
           to: "00:01:32,24"
-          text: "It was such a relief that she came to us."
+          text: "Fu un tale sollievo, che fosse venuta da noi."
         sequence-22:
           s: 22
           from: "00:01:32,24"
           to: "00:01:39,15"
-          text: "I don’t know what would have happened, if we – little children – would have stayed on our own."
+          text: "Non so cosa sarebbe successo, se noi, bambini piccoli, fossimo rimasti là da soli."
         sequence-23:
           s: 23
           from: "00:01:39,15"
           to: "00:01:43,16"
-          text: "The oldest one was six,"
+          text: "Il più grande aveva sei anni,"
         sequence-24:
           s: 24
           from: "00:01:43,16"
@@ -128,22 +128,22 @@ it:
           s: 25
           from: "00:01:45,00"
           to: "00:01:48,10"
-          text: "then three years, four years and I was five years old."
+          text: "gli altri tre e quattro e io avevo cinque anni."
         sequence-26:
           s: 26
           from: "00:01:48,10"
           to: "00:01:52,28"
-          text: "A cousin of mine had stayed at home."
+          text: "Una mia cugina era rimasta a casa."
         sequence-27:
           s: 27
           from: "00:01:52,28"
           to: "00:01:59,17"
-          text: "She was suffering with a contagious infection, scabies."
+          text: "Aveva una malattia contagiosa, la scabbia."
         sequence-28:
           s: 28
           from: "00:01:59,17"
           to: "00:02:07,23"
-          text: "The Gestapo saw that and did not take her. They were frightened of being infected."
+          text: "E la Gestapo se n'era accorta e non l'aveva presa, avevano paura di venire contagiati."
         sequence-29:
           s: 29
           from: "00:02:07,23"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:02:10,01"
           to: "00:02:14,06"
-          text: "She came to the neighbour’s."
+          text: "Anche lei è rimasta là ed è andata dalla vicina."
         sequence-31:
           s: 31
           from: "00:02:14,06"
@@ -163,17 +163,17 @@ it:
           s: 32
           from: "00:02:16,18"
           to: "00:02:25,26"
-          text: "The neighbour said that we could not stay with her, because she had five children of her own"
+          text: "La vicina ci disse che non potevamo rimanere da lei, perché aveva già cinque bambini suoi"
         sequence-33:
           s: 33
           from: "00:02:25,26"
           to: "00:02:28,29"
-          text: "and she was alone with them, as well."
+          text: "ed era rimasta lei stessa sola, con loro cinque."
         sequence-34:
           s: 34
           from: "00:02:28,29"
           to: "00:02:35,15"
-          text: "They had taken the oldest daughter, the farmer girl and the farmer away."
+          text: "Perché avevano preso la figlia maggiore, la domestica e il contadino."
         sequence-35:
           s: 35
           from: "00:02:35,15"
@@ -183,22 +183,22 @@ it:
           s: 36
           from: "00:02:37,16"
           to: "00:02:42,15"
-          text: "On the day they arrested our family,"
+          text: "Nel giorno in cui arrestarono la nostra famiglia,"
         sequence-37:
           s: 37
           from: "00:02:42,15"
           to: "00:02:49,29"
-          text: "they arrested so many people that a horse stable near Eisenkappl was full."
+          text: "arrestarono così tante persone che una delle stalle vicino a Eisenkappl era piena."
         sequence-38:
           s: 38
           from: "00:02:49,29"
           to: "00:02:53,25"
-          text: "They took them away in lorries"
+          text: "Li portarono via sui camion"
         sequence-39:
           s: 39
           from: "00:02:53,25"
           to: "00:02:57,25"
-          text: "to Klagenfurt and from there to various concentration camps."
+          text: "prima a Klagenfurt e da lì verso diversi campi di concentramento."
         sequence-40:
           s: 40
           from: "00:02:57,25"
@@ -208,12 +208,12 @@ it:
           s: 41
           from: "00:02:59,09"
           to: "00:03:03,20"
-          text: "Even my godfather, the neighbour, did not come back."
+          text: "Nemmeno il mio padrino, il vicino, tornò mai indietro."
         sequence-42:
           s: 42
           from: "00:03:03,20"
           to: "00:03:14,14"
-          text: "He died in Dachau, but his daughter and the farmer girl came back."
+          text: "Morì a Dachau, mentre sua figlia e la domestica tornarono."
         sequence-43:
           s: 43
           from: "00:03:14,14"
@@ -223,4 +223,4 @@ it:
           s: 44
           from: "00:03:16,08"
           to: "00:03:21,28"
-          text: "They were the only ones who came back from the concentration camp."
+          text: "Furono le uniche a tornare dal campo di concentramento."

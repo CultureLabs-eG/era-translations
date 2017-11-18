@@ -2,28 +2,28 @@ it:
   giacomo-notari:
     chapter-13:
       c: 13
-      title: "Personal message"
+      title: "Messaggio personale"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,26"
           to: "00:00:04,02"
-          text: "I also want to add that what we did"
+          text: "Aggiungerei che tutto ciò che abbiamo fatto,"
         sequence-2:
           s: 2
           from: "00:00:04,02"
           to: "00:00:12,27"
-          text: "get our country to move forward in all these years, everyone can see it."
+          text: "il paese ha fatto un grande passo in avanti, in tutti questi anni, l’abbiamo sotto gli occhi di tutti;"
         sequence-3:
           s: 3
           from: "00:00:12,27"
           to: "00:00:20,18"
-          text: "Now I’m worried, I would be sad if this heritage were to be lost,"
+          text: "adesso la preoccupazione e il dispiacere che avrei, è se questo patrimonio"
         sequence-4:
           s: 4
           from: "00:00:20,18"
           to: "00:00:29,14"
-          text: "if the country didn’t preserve the values of our liberation struggle."
+          text: "che abbiamo messo insieme, soprattutto guardando a quei 600, oltre 600"
         sequence-5:
           s: 5
           from: "00:00:29,14"

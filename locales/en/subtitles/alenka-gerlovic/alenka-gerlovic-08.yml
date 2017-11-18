@@ -2,7 +2,7 @@ en:
   alenka-gerlovic:
     chapter-8:
       c: 8
-      title: "Arriving at the partisans; first task"
+      title: "Joining the Partisans: The First Task"
       subtitles:
         sequence-1:
           s: 1
@@ -13,17 +13,17 @@ en:
           s: 2
           from: "00:00:07,10"
           to: "00:00:19,07"
-          text: "That evening a courier indeed brought me my passport, a fake one with a fabricated name."
+          text: "That evening a courier brought me my passport, a fake one with a made-up name."
         sequence-3:
           s: 3
           from: "00:00:19,07"
           to: "00:00:29,09"
-          text: "I headed to the train station and took a train down to the Primorje."
+          text: "I headed to the train station and took a train down to Primorje."
         sequence-4:
           s: 4
           from: "00:00:29,09"
           to: "00:00:40,07"
-          text: "The last call was in a place called Kosana; that’s where all the illegal from Ljubljana went."
+          text: "The last call was in a place called Kosana; that’s where all the illegals from Ljubljana went."
         sequence-5:
           s: 5
           from: "00:00:40,07"
@@ -43,12 +43,12 @@ en:
           s: 8
           from: "00:01:03,18"
           to: "00:01:18,15"
-          text: "I turned to him to say the code – Matija sends me from Ljubljana. He responded – Vremscica."
+          text: "I turned to him to say the code – \"Matija sends me from Ljubljana.\" He responded – \"Vremscica.\""
         sequence-9:
           s: 9
           from: "00:01:18,15"
           to: "00:01:31,26"
-          text: "At the time I didn’t know what Vremscica was. After WWII I became a mountaineer and hiked up Vremscica many times."
+          text: "At the time I didn’t know what Vremscica was. After WWII, I became a mountaineer and hiked up Vremscica many times."
         sequence-10:
           s: 10
           from: "00:01:31,26"
@@ -68,12 +68,12 @@ en:
           s: 13
           from: "00:01:50,19"
           to: "00:01:59,08"
-          text: "A very long journey ensued of course."
+          text: "A very long journey ensued, of course."
         sequence-14:
           s: 14
           from: "00:01:59,08"
           to: "00:02:10,17"
-          text: "Ultimately our goal was the village of Obcice pod Kolevskim Rogom."
+          text: "Our ultimate destination was the village of Obcice pod Kolevskim Rogom."
         sequence-15:
           s: 15
           from: "00:02:10,17"
@@ -88,17 +88,17 @@ en:
           s: 17
           from: "00:02:13,11"
           to: "00:02:23,00"
-          text: "It was all unforgettable beautiful, already with my leaving Ljubljana and going to liberated territory."
+          text: "It was all unforgettably beautiful, just my leaving Ljubljana and going to liberated territory."
         sequence-18:
           s: 18
           from: "00:02:23,00"
           to: "00:02:38,28"
-          text: "That was something incredible to me, to have found myself suddenly surrounded by nature after four months of hiding in basements."
+          text: "It was something incredible to me, to find myself suddenly surrounded by nature after four months of hiding in basements."
         sequence-19:
           s: 19
           from: "00:02:38,28"
           to: "00:02:51,12"
-          text: "The journey through the Kolpa valley was extremely beautiful: first Cebranke and the Kolpa,"
+          text: "The journey through the Kolpa valley was extremely beautiful: first Cebranke and then Kolpa,"
         sequence-20:
           s: 20
           from: "00:02:51,12"
@@ -108,12 +108,12 @@ en:
           s: 21
           from: "00:03:03,09"
           to: "00:03:13,06"
-          text: "which is when we left the liberated territory and headed into the Loska valley towards Bela krajina."
+          text: "Which is when we left the liberated territory and headed into the Loska valley towards Bela krajina."
         sequence-22:
           s: 22
           from: "00:03:13,06"
           to: "00:03:35,01"
-          text: "And there was the fact that I finally got to work on art work. I was also perfectly willing to join the brigade."
+          text: "Additionally, I finally got to work on art work. I was also perfectly willing to join the brigade."
         sequence-23:
           s: 23
           from: "00:03:35,01"
@@ -128,12 +128,12 @@ en:
           s: 25
           from: "00:03:56,18"
           to: "00:04:04,20"
-          text: "First, I was to make the stage setting in the theater."
+          text: "First, my role was to build the stage setting in the theater."
         sequence-26:
           s: 26
           from: "00:04:04,20"
           to: "00:04:24,11"
-          text: "But there wasn’t enough to do, because there weren’t that many premieres. So I suggested that they call me on demand."
+          text: "But there wasn’t enough to do, because there weren’t that many plays. So I suggested that they call me, on demand."
         sequence-27:
           s: 27
           from: "00:04:24,11"
@@ -153,4 +153,4 @@ en:
           s: 30
           from: "00:04:53,00"
           to: "00:05:04,05"
-          text: "A house painter from Crnomelj helped me and with joined forces we managed to paint over all of it and get everything ready."
+          text: "A house painter from Crnomelj helped me and together we managed to paint over all of it and get everything ready."

@@ -2,18 +2,18 @@ it:
   giacomo-notari:
     chapter-4:
       c: 4
-      title: "First partisan action; arms, deportations, fear"
+      title: "Prima azione da partigiano; armi, deportazioni, paura"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,28"
           to: "00:00:06,28"
-          text: "After all these actions the Germans couldn’t allow us to continue any longer."
+          text: "Dopo tutte queste azioni i tedeschi non potevano più sopportare, pensare di lasciarci fare insomma."
         sequence-2:
           s: 2
           from: "00:00:06,28"
           to: "00:00:14,05"
-          text: "I guess at our headquarters they found out that there would be a mop-up."
+          text: "E si vede che avevano una notizia al comando che ci sarebbe stato un rastrellamento, che poi è avvenuto."
         sequence-3:
           s: 3
           from: "00:00:14,05"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:15,05"
           to: "00:00:24,15"
-          text: "Paterlini came to us saying “we must find something to blow up the bridge”, so that the trucks couldn’t get through."
+          text: "E allora venne Paterlini e dice: “Bisogna trovare degli arnesi e che buttiamo giù il ponte”, per evitare poi quando arrivavano i camion che passassero."
         sequence-5:
           s: 5
           from: "00:00:24,15"
@@ -33,17 +33,17 @@ it:
           s: 6
           from: "00:00:25,06"
           to: "00:00:36,08"
-          text: "We went there with Carretti, a guy working for Edison, the local electric company:"
+          text: "E allora siamo andati lì con Carretti, c’era un dipendente dell'Edison che era la società elettrica lì,"
         sequence-7:
           s: 7
           from: "00:00:36,08"
           to: "00:00:41,21"
-          text: "they had a cave so they also had TNT, mines, gunpowder…"
+          text: "che avevano una cava e perciò avevano anche il tritolo, le mine insomma, la polvere..."
         sequence-8:
           s: 8
           from: "00:00:41,21"
           to: "00:00:51,02"
-          text: "We prepared the holes and then blew up a large arch of a very big bridge in Cinque Cerri."
+          text: "e allora abbiamo fatto le buche e poi dopo abbiamo fatto saltare un’arcata grossa, un ponte che è grosso, quello di Cinque Cerri… un ponte grandissimo."
         sequence-9:
           s: 9
           from: "00:00:51,02"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:52,16"
           to: "00:00:58,22"
-          text: "Then we left for the mountains. From that day I was in battle."
+          text: "E poi siamo andati su e da quel giorno lì sono stato in battaglia, insomma."
         sequence-11:
           s: 11
           from: "00:00:58,22"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:00:59,17"
           to: "00:01:07,20"
-          text: "We went to the headquarters in Lama Golese, on the Cusna mountain."
+          text: "Andiamo al comando a Lama Golese, Lama Golese che è sul Cusna."
         sequence-13:
           s: 13
           from: "00:01:07,20"
@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:08,27"
           to: "00:01:19,06"
-          text: "Pasquale Marconi was there, a teacher from Castelnovo Monti, who was a Christian Democrat,  a catholic anyway."
+          text: "Lì c’era il comando, lì c’era Marconi Pasquale, un professore di Castelnovo Monti, democristiano, cattolico comunque, ecco;"
         sequence-15:
           s: 15
           from: "00:01:19,06"
           to: "00:01:30,01"
-          text: "Then there were Eros, Miro, a Jewish doctor who was from Jugoslavia."
+          text: "poi c’era Eros, c’era Miro, c’era un medico ebreo che era slavo, mi dissero che era jugoslavo,"
         sequence-16:
           s: 16
           from: "00:01:30,01"
@@ -88,17 +88,17 @@ it:
           s: 17
           from: "00:01:31,00"
           to: "00:01:33,06"
-          text: "We spent a few days there."
+          text: "e abbiamo fatto un po’ di giorni lì,"
         sequence-18:
           s: 18
           from: "00:01:33,06"
           to: "00:01:39,10"
-          text: "It was a sort of recruitment, but we didn’t have enough weapons;"
+          text: "che era una specie di reclutamento, però le armi erano poche,"
         sequence-19:
           s: 19
           from: "00:01:39,10"
           to: "00:01:45,29"
-          text: "we were waiting for Allied air drops that didn’t take place,"
+          text: "aspettavano dei lanci dal cielo degli alleati che non venivano,"
         sequence-20:
           s: 20
           from: "00:01:45,29"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:47,06"
           to: "00:01:54,29"
-          text: "so they sent four of us back to Ligonchio."
+          text: "e allora ci rimandarono a Ligonchio, in quattro."
         sequence-22:
           s: 22
           from: "00:01:54,29"
@@ -118,22 +118,22 @@ it:
           s: 23
           from: "00:01:55,24"
           to: "00:02:02,21"
-          text: "We went to Ligonchio and there really was a crowd of partisans there."
+          text: "Siamo venuti a Ligonchio e lì c’era proprio un’infinità di partigiani,"
         sequence-24:
           s: 24
           from: "00:02:02,21"
           to: "00:02:06,00"
-          text: "Unfortunately, not all of them were armed."
+          text: "e purtroppo non tutti armati"
         sequence-25:
           s: 25
           from: "00:02:06,00"
           to: "00:02:18,24"
-          text: "More partisans came, who wanted to fight, to enrol."
+          text: "perché proprio era più forte l'affluenza dei partigiani, dei giovani che volevano combattere, volevano essere reclutati,"
         sequence-26:
           s: 26
           from: "00:02:18,24"
           to: "00:02:28,00"
-          text: "More than weapons dropped from the sky or taken during attacks to the German garrisons."
+          text: "che la quantità di armi che venivano gettate dal cielo o prese dagli attacchi ai presidi tedeschi, ecco."
         sequence-27:
           s: 27
           from: "00:02:28,00"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:02:28,26"
           to: "00:02:39,19"
-          text: "I was luckier than others, since I was given an English machine gun, a Sten gun, which was quite short."
+          text: "Io fortunatamente... sono stato fortunato più di altri, mi diedero un mitra inglese, uno Sten. Un mitra non lungo."
         sequence-29:
           s: 29
           from: "00:02:39,19"
@@ -153,12 +153,12 @@ it:
           s: 30
           from: "00:02:43,18"
           to: "00:02:51,19"
-          text: "You could disassemble it in three pieces and hide it, and put it together quickly."
+          text: "Però funzionava anche perché si poteva smontare in tre pezzi e nasconderlo che poi si faceva presto a rimontarlo e così via."
         sequence-31:
           s: 31
           from: "00:02:51,19"
           to: "00:02:57,00"
-          text: "And I also had a 9 mm Beretta and four hand grenades."
+          text: "E una rivoltella Beretta calibro 9 e quattro bombe a mano, ecco."
         sequence-32:
           s: 32
           from: "00:02:57,00"
@@ -168,17 +168,17 @@ it:
           s: 33
           from: "00:02:59,16"
           to: "00:03:04,17"
-          text: "I stayed there with the First Battalion"
+          text: "Dopo di che sono stato lì con il primo battaglione"
         sequence-34:
           s: 34
           from: "00:03:04,17"
           to: "00:03:11,12"
-          text: "and we used to go on road 63, where German garrisons were all over the place."
+          text: "e si andava sulla Statale 63 e lì c’erano poi già tutti i presidi tedeschi..."
         sequence-35:
           s: 35
           from: "00:03:11,12"
           to: "00:03:19,15"
-          text: "Not long after, around July, there was a great mop-up."
+          text: "e poi avviene, proprio dopo non molto, verso luglio, avviene il grande rastrellamento:"
         sequence-36:
           s: 36
           from: "00:03:19,15"
@@ -188,37 +188,37 @@ it:
           s: 37
           from: "00:03:20,08"
           to: "00:03:30,21"
-          text: "The Goering attacked, we fought back for a day and a half, two days."
+          text: "ci fu l’attacco della Goering. Ci fu una resistenza per un paio di giorni, un giorno e mezzo, due giorni."
         sequence-38:
           s: 38
           from: "00:03:30,21"
           to: "00:03:34,06"
-          text: "Then there was a disbandment,"
+          text: "E poi alla fine ci fu lo sbandamento"
         sequence-39:
           s: 39
           from: "00:03:34,06"
           to: "00:03:39,03"
-          text: "because it’s really hard to resist against an attack"
+          text: "perché una divisione tedesca anche abbastanza corazzata con autoblindo, artiglieria,"
         sequence-40:
           s: 40
           from: "00:03:39,03"
           to: "00:03:50,04"
-          text: "from a German division with armoured vehicles, artillery, small airplanes, special forces."
+          text: "piccoli aerei, truppe specializzate, diventa difficile resistere a un attacco di questo genere."
         sequence-41:
           s: 41
           from: "00:03:50,04"
           to: "00:03:56,13"
-          text: "Maybe it wasn’t even right to fight back as we did,"
+          text: "Poi forse ripensandoci adesso non era neanche giusto resistere a quella maniera lì,"
         sequence-42:
           s: 42
           from: "00:03:56,13"
           to: "00:04:01,29"
-          text: "since guerrilla means attacking and withdrawing, coming back and so on."
+          text: "perché guerriglia voleva dire attaccarli, scappare, attaccarli e scappare e tornare insomma, ecco."
         sequence-43:
           s: 43
           from: "00:04:01,29"
           to: "00:04:11,05"
-          text: "That time however it was decided to fight back jointly. We suffered many casualties in the end."
+          text: "Invece si era voluto quella volta lì, fare un fronte... e poi l’abbiamo anche pagata, perché ci furono molti morti, anche qualche disperso..."
         sequence-44:
           s: 44
           from: "00:04:11,05"
@@ -228,17 +228,17 @@ it:
           s: 45
           from: "00:04:12,13"
           to: "00:04:15,03"
-          text: "Then the Germans took away more than a thousand men:"
+          text: "poi portarono via più di mille uomini, i tedeschi,"
         sequence-46:
           s: 46
           from: "00:04:15,03"
           to: "00:04:28,28"
-          text: "all those who were able to work, and I think also a few women, were sent to Germany."
+          text: "tutti quelli che catturavano che erano in condizione di potere lavorare, li portarono in Germania, e anche qualche... credo solo un paio di donne, ma un migliaio di uomini li hanno portati via."
         sequence-47:
           s: 47
           from: "00:04:28,28"
           to: "00:04:32,23"
-          text: "That time there was a complete disbandment."
+          text: "Perciò lì, ci fu lo sbandamento, uno sbandamento completo."
         sequence-48:
           s: 48
           from: "00:04:32,23"
@@ -248,12 +248,12 @@ it:
           s: 49
           from: "00:04:34,06"
           to: "00:04:39,19"
-          text: "After that, the Germans left,"
+          text: "E dopo i tedeschi sono partiti,"
         sequence-50:
           s: 50
           from: "00:04:39,19"
           to: "00:04:47,29"
-          text: "their division withdrew, but the garrisons on road 63 remained until the end of the war."
+          text: "però la divisione si è ritirata, ma i presidi sulla Statale 63 sono rimasti, come sempre, sono rimasti fino alla fine della guerra, ecco."
         sequence-51:
           s: 51
           from: "00:04:47,29"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:04:49,02"
           to: "00:04:55,16"
-          text: "We slowly recovered, difficultly,"
+          text: "E dopo pianino pianino si sono ricomposte le fila, però a fatica,"
         sequence-53:
           s: 53
           from: "00:04:55,16"
@@ -273,7 +273,7 @@ it:
           s: 54
           from: "00:04:56,20"
           to: "00:05:03,03"
-          text: "and I remember I stayed home around ten days because of this, helping my father,"
+          text: "che mi ricordo che sono stato a casa una decina di giorni, che ho aiutato anche mio padre a seminare il grano, proprio perché..."
         sequence-55:
           s: 55
           from: "00:05:03,03"
@@ -283,7 +283,7 @@ it:
           s: 56
           from: "00:05:04,06"
           to: "00:05:12,02"
-          text: "while my brother had gone away with Frigio, Bedeschi. They were faster in getting back together."
+          text: "Mio fratello invece era andato con Frigio, col Bedeschi e hanno fatto prima loro a rimettersi assieme."
         sequence-57:
           s: 57
           from: "00:05:12,02"
@@ -293,12 +293,12 @@ it:
           s: 58
           from: "00:05:12,29"
           to: "00:05:16,10"
-          text: "Sure, there were moments we were afraid,"
+          text: "Paura, ci sono dei momenti che abbiamo avuto anche paura sì."
         sequence-59:
           s: 59
           from: "00:05:16,10"
           to: "00:05:21,26"
-          text: "but actually, it was more about being irresponsible than afraid."
+          text: "Però ti dirò che proprio una paura... ho avuto più incoscenza che altro."
         sequence-60:
           s: 60
           from: "00:05:21,26"
@@ -308,17 +308,17 @@ it:
           s: 61
           from: "00:05:22,23"
           to: "00:05:28,22"
-          text: "When I think about it now, I realize that we could have done so much more without that much efforts and dangers."
+          text: "Perché quando ci ripenso si potevan fare tante cose in più, con meno fatica e con meno pericolo."
         sequence-62:
           s: 62
           from: "00:05:28,22"
           to: "00:05:38,23"
-          text: "I’ve been afraid one night because I had never heard this German machine gun shoot,"
+          text: "Ho avuto paura una sera perché non avevo mai sentito sparare questa mitraglia tedesca,"
         sequence-63:
           s: 63
           from: "00:05:38,23"
           to: "00:05:44,00"
-          text: "they called it “raganella” (tree frog): it could shoot so fast, so many bullets."
+          text: "la raganella la chiamavano, una mitraglia che sparava moltissimo, molti proiettili."
         sequence-64:
           s: 64
           from: "00:05:44,00"
@@ -328,7 +328,7 @@ it:
           s: 65
           from: "00:05:46,16"
           to: "00:05:51,17"
-          text: "That was really the only time my heart was pounding."
+          text: "Proprio credo che sia l’unica sera che proprio sentivo il cuore che saltava."
         sequence-66:
           s: 66
           from: "00:05:51,17"
@@ -338,14 +338,14 @@ it:
           s: 67
           from: "00:05:53,09"
           to: "00:06:00,04"
-          text: "Later I realized it was quite distant, but at the moment I thought it was there, a few steps away,"
+          text: "Perché dopo ho capito che era lontana, però mi sembrava lì, a pochi passi insomma,"
         sequence-68:
           s: 68
           from: "00:06:00,04"
           to: "00:06:04,17"
-          text: "this nasty sound in the silence of the night."
+          text: "no, proprio questo rumore cattivo di notte, nel silenzio."
         sequence-69:
           s: 69
           from: "00:06:04,17"
           to: "00:06:13,18"
-          text: "I felt fear that night, at least for a short time."
+          text: "E quella sera lì ho avuto un po’ paura, per un po’ insomma."

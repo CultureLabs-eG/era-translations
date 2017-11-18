@@ -2,13 +2,13 @@ en:
   alenka-gerlovic:
     chapter-10:
       c: 10
-      title: "Partisan Vito, Alenkas husband"
+      title: "Partisan Vito, Alenka's husband"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:13,10"
-          text: "Later, Vito, a partisan not yet 26 years old, came to the Central Technique."
+          text: "Later on, Vito, a partisan not yet 26 years old, came to the Technical Center."
         sequence-2:
           s: 2
           from: "00:00:13,10"
@@ -23,7 +23,7 @@ en:
           s: 4
           from: "00:00:22,21"
           to: "00:00:35,17"
-          text: "His wish was to become a vocational painter after the war."
+          text: "He wanted to become a vocational painter after the war."
         sequence-5:
           s: 5
           from: "00:00:35,17"
@@ -33,32 +33,32 @@ en:
           s: 6
           from: "00:00:38,12"
           to: "00:00:46,17"
-          text: "Vito came to the Central Technique after me."
+          text: "Vito came to the Technical Center after me."
         sequence-7:
           s: 7
           from: "00:00:46,17"
           to: "00:00:58,07"
-          text: "Before though, he spent a long time in an Italian internment camp."
+          text: "Before, though, he'd spent a long time in an Italian internment camp."
         sequence-8:
           s: 8
           from: "00:00:58,07"
           to: "00:01:09,05"
-          text: "Due to the long and harsh conditions, he suffered from a very bad case of articular rheumatism."
+          text: "Due to the long, harsh conditions there, he suffered from a very bad case of articular rheumatism."
         sequence-9:
           s: 9
           from: "00:01:09,05"
           to: "00:01:17,11"
-          text: "He didn’t go home when Italy capitulated, because that would still have been too dangerous."
+          text: "He didn’t go home when Italy surrendered, because it would have still been too dangerous."
         sequence-10:
           s: 10
           from: "00:01:17,11"
           to: "00:01:29,12"
-          text: "Rather, he went straight to the partisans and in the dead of winter,"
+          text: "Instead, he went straight to the partisans, and in the dead of winter,"
         sequence-11:
           s: 11
           from: "00:01:29,12"
           to: "00:01:40,07"
-          text: "joined the march of the Ljubljana brigade and the 18th division to Gorski Kotar."
+          text: "he joined the march of the Ljubljana brigade and the 18th Division to Gorski Kotar."
         sequence-12:
           s: 12
           from: "00:01:40,07"
@@ -68,7 +68,7 @@ en:
           s: 13
           from: "00:01:43,10"
           to: "00:01:52,25"
-          text: "It was a terribly cold winter and his rheumatism went worse."
+          text: "It was a terribly cold winter and his rheumatism got worse."
         sequence-14:
           s: 14
           from: "00:01:52,25"
@@ -78,7 +78,7 @@ en:
           s: 15
           from: "00:02:06,20"
           to: "00:02:17,21"
-          text: "He slept with high temperature directly upon some branches lying on the snow."
+          text: "He slept with high fevers, laying on branches in the snow."
         sequence-16:
           s: 16
           from: "00:02:17,21"
@@ -88,17 +88,17 @@ en:
           s: 17
           from: "00:02:19,01"
           to: "00:02:29,04"
-          text: "His high temperature from the infection then affected his cardiac valves."
+          text: "His fever from the infection affected his cardiac valves."
         sequence-18:
           s: 18
           from: "00:02:29,04"
           to: "00:02:44,12"
-          text: "Although he and we were unaware, he was dead sick when he came to the Central Technique."
+          text: "None of us, including him, was aware he was deadly ill when he came to the Technical Center."
         sequence-19:
           s: 19
           from: "00:02:44,12"
           to: "00:03:06,03"
-          text: "When we withdrew from Bela krajina, he was suffering from anginal infections."
+          text: "When we withdrew from Bela krajina, he was suffering from angina infection."
         sequence-20:
           s: 20
           from: "00:03:06,03"
@@ -113,14 +113,14 @@ en:
           s: 22
           from: "00:03:25,08"
           to: "00:03:37,05"
-          text: "He had his first heart attack in the Gorski Kotar, but recovered from that."
+          text: "He had his first heart attack in Gorski Kotar, but recovered from that."
         sequence-23:
           s: 23
           from: "00:03:37,05"
           to: "00:03:49,25"
-          text: "We then arrived to Ljubljana believing the war to be coming to its end, and the end of sicknesses, the end of all things bad."
+          text: "We then got to Ljubljana with the impression the war was ending; the end of sicknesses, the end of all bad things."
         sequence-24:
           s: 24
           from: "00:03:49,25"
           to: "00:04:01,27"
-          text: "It was only a year and three months later that he died because of a cardiac valve infection, being a death sentence to that time."
+          text: "It was only a year and three months later that he died of a cardiac valve infection, a death sentence at that time."

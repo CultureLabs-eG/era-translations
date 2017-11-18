@@ -2,13 +2,13 @@ it:
   romana-verdel:
     chapter-4:
       c: 4
-      title: "Hiding with partisans in bunkers"
+      title: "Nascosti nei bunker con i partigiani"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,20"
           to: "00:00:03,02"
-          text: "At the end of January 1944"
+          text: "Alla fine di gennaio del 44 siamo là"
         sequence-2:
           s: 2
           from: "00:00:03,02"
@@ -18,27 +18,27 @@ it:
           s: 3
           from: "00:00:07,23"
           to: "00:00:13,09"
-          text: "the aunt got us ready and dressed."
+          text: "la zia ci ha preparati e vestiti"
         sequence-4:
           s: 4
           from: "00:00:13,09"
           to: "00:00:15,15"
-          text: "We asked: “Where are we going?”"
+          text: "e noi chiediamo, \"Dove andiamo adesso?\""
         sequence-5:
           s: 5
           from: "00:00:15,15"
           to: "00:00:19,28"
-          text: "The older ones already knew, but the little ones didn’t."
+          text: "I più grandi già sapevano dove saremmo andati, ma i piccoli no."
         sequence-6:
           s: 6
           from: "00:00:19,28"
           to: "00:00:22,11"
-          text: "She said: “Well, we are going to church.”"
+          text: "E lei: \"Beh, andiamo in chiesa.\""
         sequence-7:
           s: 7
           from: "00:00:22,11"
           to: "00:00:27,01"
-          text: "So we asked: “At night? Why are we going to church at night?"
+          text: "E noi: \"In chiesa di notte? Perché andiamo in chiesa di notte?\""
         sequence-8:
           s: 8
           from: "00:00:27,01"
@@ -48,12 +48,12 @@ it:
           s: 9
           from: "00:00:28,12"
           to: "00:00:31,20"
-          text: "Why is there a church service at night tonight?”"
+          text: "\"Perché oggi fanno la messa di notte?\""
         sequence-10:
           s: 10
           from: "00:00:31,20"
           to: "00:00:34,26"
-          text: "The aunt answered: “Well, because there is. Let’s go.”"
+          text: "E la zia: \"È così e basta, fanno la messa di notte. Andiamo.\""
         sequence-11:
           s: 11
           from: "00:00:34,26"
@@ -63,17 +63,17 @@ it:
           s: 12
           from: "00:00:36,18"
           to: "00:00:43,27"
-          text: "We had put a lot of clothes on – whatever we owned and she took a blanket."
+          text: "Eravamo parecchio vestiti, con tutti i vestiti che avevamo, e abbiamo portato con noi anche una coperta."
         sequence-13:
           s: 13
           from: "00:00:43,27"
           to: "00:00:52,00"
-          text: "Everything seemed adventurous, but we were not frightened."
+          text: "Tutto ci sembrava così avventuroso, ma per qualche ragione non avevamo paura."
         sequence-14:
           s: 14
           from: "00:00:52,00"
           to: "00:00:55,18"
-          text: "We were just glad to get out of this cellar."
+          text: "Già esser fuori da quella cantina, ci rendeva felici. Doveva cambiare qualcosa."
         sequence-15:
           s: 15
           from: "00:00:55,18"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:00:58,14"
           to: "00:01:06,16"
-          text: "Then we went, but not the way to where the church was,"
+          text: "E così ce ne siamo andati, ma nella direzione sbagliata. Non dove c'era la chiesa,"
         sequence-17:
           s: 17
           from: "00:01:06,16"
           to: "00:01:10,20"
-          text: "but up the mountains, a totally different direction."
+          text: "ma verso i monti, proprio dall'altra parte."
         sequence-18:
           s: 18
           from: "00:01:10,20"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:12,06"
           to: "00:01:21,28"
-          text: "The oldest cousin was 14 years old and should carry a rifle, being really pleased about that."
+          text: "Allora il cugino maggiore, che aveva 14 anni, ricevette un fucile. Era tutto contento, perché insomma aveva un fucile adesso."
         sequence-20:
           s: 20
           from: "00:01:21,28"
@@ -108,32 +108,32 @@ it:
           s: 21
           from: "00:01:24,29"
           to: "00:01:28,00"
-          text: "By then we knew: now we are going into war."
+          text: "Per allora avevamo già capito: va bene, stiamo andando in guerra."
         sequence-22:
           s: 22
           from: "00:01:28,00"
           to: "00:01:37,25"
-          text: "There were men with us and because adults were with us, the fear went."
+          text: "E in realtà di paura non ne avevamo perché c'erano degli uomini adulti con noi, adulti."
         sequence-23:
           s: 23
           from: "00:01:37,25"
           to: "00:01:41,10"
-          text: "We walked very, very far."
+          text: "E così abbiamo camminato a lungo, molto a lungo."
         sequence-24:
           s: 24
           from: "00:01:41,10"
           to: "00:01:43,05"
-          text: "There was a lot of snow."
+          text: "C'era così tanta neve,"
         sequence-25:
           s: 25
           from: "00:01:43,05"
           to: "00:01:48,27"
-          text: "It was so hard that nothing sank in."
+          text: "e la neve era così dura, che nulla ci poteva affondare dentro, per così dire."
         sequence-26:
           s: 26
           from: "00:01:48,27"
           to: "00:01:53,25"
-          text: "It was very glittery, so it was a beautiful but cold night."
+          text: "Luccicava tutto intorno, era una bella e fredda notte."
         sequence-27:
           s: 27
           from: "00:01:53,25"
@@ -143,12 +143,12 @@ it:
           s: 28
           from: "00:01:56,19"
           to: "00:02:02,28"
-          text: "During the first night we walked for at least three or four hours"
+          text: "Abbiamo camminato di sicuro tre o quattro ore quella prima notte."
         sequence-29:
           s: 29
           from: "00:02:02,28"
           to: "00:02:08,02"
-          text: "until we reached a bunker high up in the mountain."
+          text: "Fino ad arrivare ad un bunker in cima alla montagna."
         sequence-30:
           s: 30
           from: "00:02:08,02"
@@ -158,12 +158,12 @@ it:
           s: 31
           from: "00:02:11,00"
           to: "00:02:22,22"
-          text: "It was very cold in this bunker, but we were so tired that we were still glad we could lie down."
+          text: "Nel bunker faceva molto, molto freddo, ma eravamo così stanchi da essere comunque felici di poterci sdraiare."
         sequence-32:
           s: 32
           from: "00:02:22,22"
           to: "00:02:31,08"
-          text: "Although there was only fern to lie on and a horse blanket to cover us up."
+          text: "Nonostante ci fossero solo felci su cui sdraiarci e una coperta per cavalli per coprirci."
         sequence-33:
           s: 33
           from: "00:02:31,08"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:02:33,18"
           to: "00:02:38,23"
-          text: "I don’t know how long we lived in this bunker."
+          text: "In questo bunker non so per quanto tempo abbiamo vissuto,"
         sequence-35:
           s: 35
           from: "00:02:38,23"
@@ -183,22 +183,22 @@ it:
           s: 36
           from: "00:02:40,12"
           to: "00:02:44,27"
-          text: "It was cold and dark."
+          text: "ed era molto freddo e buio,"
         sequence-37:
           s: 37
           from: "00:02:44,27"
           to: "00:02:51,01"
-          text: "There was not a lot to eat and we had to be quiet."
+          text: "da mangiare ce n'era troppo poco, e dovevamo rimanere in silenzio."
         sequence-38:
           s: 38
           from: "00:02:51,01"
           to: "00:02:56,03"
-          text: "Not being allowed to talk was very hard for me."
+          text: "Non poter parlare per me era davvero brutto."
         sequence-39:
           s: 39
           from: "00:02:56,03"
           to: "00:02:59,16"
-          text: "I was such a lively and inquisitive child."
+          text: "Ero una bambina così irrequieta e curiosa, era la cosa più difficile."
         sequence-40:
           s: 40
           from: "00:02:59,16"
@@ -208,12 +208,12 @@ it:
           s: 41
           from: "00:03:01,17"
           to: "00:03:07,21"
-          text: "There was nothing to play with either."
+          text: "Rimanere tranquilla il giorno intero, senza nulla con cui giocare."
         sequence-42:
           s: 42
           from: "00:03:07,21"
           to: "00:03:10,11"
-          text: "There was nothing to talk about -"
+          text: "Nemmeno parlare, nulla da fare con gli adulti,"
         sequence-43:
           s: 43
           from: "00:03:10,11"
@@ -223,7 +223,7 @@ it:
           s: 44
           from: "00:03:12,10"
           to: "00:03:16,16"
-          text: "not even with the adults. Even they did not talk much."
+          text: "anche loro parlavano davvero poco."
         sequence-45:
           s: 45
           from: "00:03:16,16"
@@ -233,22 +233,22 @@ it:
           s: 46
           from: "00:03:20,10"
           to: "00:03:27,20"
-          text: "I cannot remember what we had to eat, either."
+          text: "Quanto tempo siamo rimasti là non lo so. Non mi ricordo nemmeno cosa abbiamo mangiato."
         sequence-47:
           s: 47
           from: "00:03:27,20"
           to: "00:03:37,11"
-          text: "I can remember a partisan brought a loaf of bread and a can of milk once."
+          text: "Solo una volta mi ricordo quando un partigiano ci ha portato una forma di pane e una brocca di latte."
         sequence-48:
           s: 48
           from: "00:03:37,11"
           to: "00:03:42,08"
-          text: "We were so happy that we could at least eat properly."
+          text: "Eravamo così felici, finalmente potevamo mangiare da scoppiare."
         sequence-49:
           s: 49
           from: "00:03:42,08"
           to: "00:03:48,22"
-          text: "But we only got a little piece and one or two mouths full of milk."
+          text: "E invece ce ne diedero solo un pezzetto e uno o due sorsi di latte."
         sequence-50:
           s: 50
           from: "00:03:48,22"
@@ -258,12 +258,12 @@ it:
           s: 51
           from: "00:03:50,08"
           to: "00:03:53,03"
-          text: "I was so disappointed. I thought:"
+          text: "Ero così delusa. Ho pensato:"
         sequence-52:
           s: 52
           from: "00:03:53,03"
           to: "00:03:58,07"
-          text: "‘Why does she give us so little all the time?’ We did not understand that she had to economize."
+          text: "'Perché ce n'è così poco?' Non avevamo certo capito che dovevamo fare economia."
         sequence-53:
           s: 53
           from: "00:03:58,07"
@@ -273,17 +273,17 @@ it:
           s: 54
           from: "00:04:01,08"
           to: "00:04:06,05"
-          text: "After a while she gave us some more and explained that she had to ration."
+          text: "Beh, dopo un po' ce ne diedero ancora un pochino, ma si trattava di fare le razioni."
         sequence-55:
           s: 55
           from: "00:04:06,05"
           to: "00:04:12,06"
-          text: "It was always dangerous to stay in one bunker for too long;"
+          text: "E poi il bunker era pericoloso, perché era sempre pericoloso rimanere in un bunker troppo a lungo;"
         sequence-56:
           s: 56
           from: "00:04:12,06"
           to: "00:04:17,13"
-          text: "far away from the farmers, resulting in bad provisions."
+          text: "lontani dai contadini, quindi l'approvvigionamento era pessimo,"
         sequence-57:
           s: 57
           from: "00:04:17,13"
@@ -293,7 +293,7 @@ it:
           s: 58
           from: "00:04:18,23"
           to: "00:04:22,26"
-          text: "So we went over a mountain into Yugoslavia."
+          text: "per cui siamo andati su in montagna, verso la Jugoslavia."
         sequence-59:
           s: 59
           from: "00:04:22,26"
@@ -303,22 +303,22 @@ it:
           s: 60
           from: "00:04:24,03"
           to: "00:04:27,16"
-          text: "That time we walked the whole night."
+          text: "Quella volta abbiamo camminato tutta la notte, penso."
         sequence-61:
           s: 61
           from: "00:04:27,16"
           to: "00:04:30,24"
-          text: "So long that I fell asleep walking."
+          text: "Tanto da addormentarmi, mentre camminavo mi sono addormentata."
         sequence-62:
           s: 62
           from: "00:04:30,24"
           to: "00:04:36,17"
-          text: "When we were outside at night I always watched the stars."
+          text: "Quando eravamo fuori, nella notte, guardavo sempre e solo le stelle."
         sequence-63:
           s: 63
           from: "00:04:36,17"
           to: "00:04:41,07"
-          text: "That was the only amusement we had."
+          text: "Almeno era un passatempo, l'unico che avessimo."
         sequence-64:
           s: 64
           from: "00:04:41,07"
@@ -328,12 +328,12 @@ it:
           s: 65
           from: "00:04:44,16"
           to: "00:04:49,29"
-          text: "Here and there we were in a stable, that was nice."
+          text: "Di tanto in tanto stavamo in una stalla. Era bello,"
         sequence-66:
           s: 66
           from: "00:04:49,29"
           to: "00:04:55,26"
-          text: "It was warm in the stable and we were used to the smell."
+          text: "nella stalla faceva caldo e non sentivamo puzza, perché ci eravamo ormai abituati."
         sequence-67:
           s: 67
           from: "00:04:55,26"
@@ -343,12 +343,12 @@ it:
           s: 68
           from: "00:04:56,29"
           to: "00:05:01,04"
-          text: "The main thing was that it was warm and safe there."
+          text: "L'importante era che fosse caldo e sicuro,"
         sequence-69:
           s: 69
           from: "00:05:01,04"
           to: "00:05:04,27"
-          text: "But most of the time we stayed in bunkers."
+          text: "ma quasi sempre stavamo nei bunker."
         sequence-70:
           s: 70
           from: "00:05:04,27"
@@ -358,12 +358,12 @@ it:
           s: 71
           from: "00:05:06,06"
           to: "00:05:11,13"
-          text: "There was fighting, as well."
+          text: "Siamo capitati anche dove c'erano combattimenti."
         sequence-72:
           s: 72
           from: "00:05:11,13"
           to: "00:05:17,23"
-          text: "Once, we were hiding in the forest when there was fighting."
+          text: "Una volta ci siamo nascosti nel bosco, per via di un combattimento in corso."
         sequence-73:
           s: 73
           from: "00:05:17,23"
@@ -373,27 +373,27 @@ it:
           s: 74
           from: "00:05:19,10"
           to: "00:05:24,07"
-          text: "A partisan pushed me down behind a tree and"
+          text: "Là un partigiano mi ha spinto dietro un albero"
         sequence-75:
           s: 75
           from: "00:05:24,07"
           to: "00:05:27,17"
-          text: "held me down so I could not get up."
+          text: "e mantenuta a terra, perché non mi potessi alzare."
         sequence-76:
           s: 76
           from: "00:05:27,17"
           to: "00:05:33,05"
-          text: "They were shooting, we saw flashes the whole night."
+          text: "Là hanno sparato così tanto che abbiamo solo visto lampeggiare tutta la notte."
         sequence-77:
           s: 77
           from: "00:05:33,05"
           to: "00:05:40,21"
-          text: "I do not know how we got out of that. But we did get out of it."
+          text: "Come ne siamo usciti vivi, non lo so. Grazie a Dio ci siamo riusciti."
         sequence-78:
           s: 78
           from: "00:05:40,21"
           to: "00:05:47,18"
-          text: "Until April, there was fighting in Slovenia,"
+          text: "Fino ad Aprile, là in Slovenia,"
         sequence-79:
           s: 79
           from: "00:05:47,18"
@@ -403,9 +403,9 @@ it:
           s: 80
           from: "00:05:51,29"
           to: "00:05:58,24"
-          text: "in Solcava it was called, Logarska Dolina."
+          text: "si chiamava Solčava, Logarska Dolina,"
         sequence-81:
           s: 81
           from: "00:05:58,24"
           to: "00:06:06,28"
-          text: "It was so dangerous they decided the aunt should go back to Carinthia."
+          text: "c'erano di quelle battaglie, era così pericoloso che decisero perché la zia tornasse indietro in Carinzia."

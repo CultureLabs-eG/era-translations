@@ -2,13 +2,13 @@ it:
   giacomo-notari:
     chapter-3:
       c: 3
-      title: "Massacre at Bettola, June 1944"
+      title: "Eccidio alla Bettola, giugno 1944"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,23"
           to: "00:00:04,28"
-          text: "Then there was this episode in La Bettola."
+          text: "Avvenne questo fatto della Bettola,"
         sequence-2:
           s: 2
           from: "00:00:04,28"
@@ -18,17 +18,17 @@ it:
           s: 3
           from: "00:00:09,13"
           to: "00:00:13,11"
-          text: "It was a shocking event for our province."
+          text: "che fu una cosa traumatica per la nostra provincia insomma."
         sequence-4:
           s: 4
           from: "00:00:13,11"
           to: "00:00:19,05"
-          text: "They had killed many people before, even elderly people, but always adults."
+          text: "Perché lì avevano ucciso in gran parte delle persone, anche anziane, comunque adulte."
         sequence-5:
           s: 5
           from: "00:00:19,05"
           to: "00:00:27,12"
-          text: "This time however they made fun of those who were dead, and also killed some children."
+          text: "Qui invece fecero scherno dei morti, e poi uccisero dei bambini insomma,"
         sequence-6:
           s: 6
           from: "00:00:27,12"
@@ -38,9 +38,9 @@ it:
           s: 7
           from: "00:00:28,08"
           to: "00:00:33,17"
-          text: "Everybody started to become conscious that it was “time to get rid of them”."
+          text: "e allora era proprio nata la coscienza di dire: “Con questi qua bisogna farla finita”."
         sequence-8:
           s: 8
           from: "00:00:33,17"
           to: "00:00:41,27"
-          text: "A really large group of people took up arms against them."
+          text: "E ci fu una bella leva che prese le armi."

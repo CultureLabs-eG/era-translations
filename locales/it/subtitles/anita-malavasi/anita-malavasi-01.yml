@@ -2,23 +2,23 @@ it:
   anita-malavasi:
     chapter-1:
       c: 1
-      title: "Introduction, family"
+      title: "Introduzione, famiglia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:07,15"
-          text: "I was born in Roncolo di Quattro Castella on the 21st of May 1921."
+          text: "Io sono nata a Roncolo di Quattro Castella il 21 maggio del 1921."
         sequence-2:
           s: 2
           from: "00:00:07,15"
           to: "00:00:14,27"
-          text: "We were a family of farmers, but our roots were different."
+          text: "La mia famiglia allora era una famiglia contadina, ma l'origine della mia famiglia non è contadina."
         sequence-3:
           s: 3
           from: "00:00:14,27"
           to: "00:00:22,23"
-          text: "My grandfather had studied to become a music teacher and had founded the band of Vezzano."
+          text: "Mio nonno aveva fino a vent'anni studiato come maestro di musica e aveva fondato la banda musicale di Vezzano."
         sequence-4:
           s: 4
           from: "00:00:22,23"

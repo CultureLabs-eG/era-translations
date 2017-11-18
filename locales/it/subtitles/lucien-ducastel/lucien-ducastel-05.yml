@@ -2,23 +2,23 @@ it:
   lucien-ducastel:
     chapter-5:
       c: 5
-      title: "Deportation to Compiègne and Auschwitz-Birkenau"
+      title: "Deportazione a Compiègne e Auschwitz-Birkenau"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,12"
           to: "00:00:06,17"
-          text: "I had been under observation by the police for some time."
+          text: "Era da un po' di tempo che la polizia mi seguiva. "
         sequence-2:
           s: 2
           from: "00:00:06,17"
           to: "00:00:14,23"
-          text: "When the Communist Party and leftist organizations were banned and had to go underground,"
+          text: "Fin dal momento in cui il Partito Comunista ha dovuto iniziare a operare nella clandestinità,"
         sequence-3:
           s: 3
           from: "00:00:14,23"
           to: "00:00:20,24"
-          text: "I was known to the police and was being watched."
+          text: "ero conosciuto e venivo osservato."
         sequence-4:
           s: 4
           from: "00:00:20,24"
@@ -28,37 +28,37 @@ it:
           s: 5
           from: "00:00:23,23"
           to: "00:00:38,01"
-          text: "On October 21st, 1941, they knocked on my door at four o’clock in the morning and I was arrested bay French and German police."
+          text: "Il 21 ottobre 1941 hanno bussato alla mia porta, alle 4 del mattino. Sono stato arrestato in queste condizioni dalla polizia francese e tedesca."
         sequence-6:
           s: 6
           from: "00:00:38,01"
           to: "00:00:54,27"
-          text: "I was taken to Rouen, along with another 100 resistance fighters from the who had been arrested the same night."
+          text: "Sono stato portato a Rouen, dove ho trovato un centinaio di resistenti noti. Tutti della regione di Rouen, che è molto grande."
         sequence-7:
           s: 7
           from: "00:00:54,27"
           to: "00:01:09,09"
-          text: "We were interrogated, but not too harshly. We were not obliged to talk about things we didn’t want to."
+          text: "Poi siamo stati interrogati, senza grandi problemi né difficoltà. Non ci hanno obbligati a dire cose che non volevamo dire."
         sequence-8:
           s: 8
           from: "00:01:09,09"
           to: "00:01:18,16"
-          text: "Then we were taken to the camp of Compiègne and from there to Auschwitz-Birkenau."
+          text: "In seguito siamo stati portati a Compiègne e da lì ci hanno portati a Auschwitz-Birkenau. "
         sequence-9:
           s: 9
           from: "00:01:18,16"
           to: "00:01:23,07"
-          text: "In Compiègne we were treated as hostages."
+          text: "A Compiègne ci trattavano come ostaggi,"
         sequence-10:
           s: 10
           from: "00:01:23,07"
           to: "00:01:33,05"
-          text: "It happened several times that comrades were taken away to be executed for attacks that had happened."
+          text: "è successo diverse volte che la sera venissero a cercare dei compagni da fucilare per oltraggiamento…"
         sequence-11:
           s: 11
           from: "00:01:33,05"
           to: "00:01:41,25"
-          text: "On July 6th, 1942 we were taken to a destination unknown."
+          text: "In seguito, il 6 giugno 1942 siamo stati portati via verso una destinazione sconosciuta."
         sequence-12:
           s: 12
           from: "00:01:41,25"
@@ -68,27 +68,27 @@ it:
           s: 13
           from: "00:01:42,17"
           to: "00:01:48,13"
-          text: "We stayed in Compiègne for about 8 months. We were arrested on October 21st, 1941."
+          text: "A Compiègne siamo rimasti circa 8 mesi, siamo arrivato il 21 ottobre del '41."
         sequence-14:
           s: 14
           from: "00:01:48,13"
           to: "00:01:55,01"
-          text: "Then they took us to Auschwitz-Birkenau. In Compiègne we were already hostages."
+          text: "Eravamo diretti a Auschwitz-Birkenau, ma a Compiègne eravamo già ostaggi,"
         sequence-15:
           s: 15
           from: "00:01:55,01"
           to: "00:02:04,05"
-          text: "That means when an attack had been, they would come and take some of our comrades."
+          text: "perciò, quando avvenivano degli attentati, venivano a cercare dei compagni, potevamo essere noi o degli altri, io sono sfuggito,"
         sequence-16:
           s: 16
           from: "00:02:04,05"
           to: "00:02:14,13"
-          text: "I escaped this fate like another few - but they would come and take some of our comrades to be executed,"
+          text: "venivano a cercare dei compagni per eseguirli, perché c'erano stati degli attentati la notte o la sera prima o due giorni prima,"
         sequence-17:
           s: 17
           from: "00:02:14,13"
           to: "00:02:23,03"
-          text: "as there had been this attack the night or the day before."
+          text: "avevano avuto i nomi, perciò venivano a cercare i ragazzi per imprigionarli o fucilarli."
         sequence-18:
           s: 18
           from: "00:02:23,03"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:25,26"
           to: "00:02:33,16"
-          text: "The following morning, at four o’clock, we were called up by buildings, as usual."
+          text: "L'indomani mattina, alle 4, siamo stati chiamati al raduno,"
         sequence-20:
           s: 20
           from: "00:02:33,16"

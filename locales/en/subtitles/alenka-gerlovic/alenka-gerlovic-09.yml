@@ -2,13 +2,13 @@ en:
   alenka-gerlovic:
     chapter-9:
       c: 9
-      title: "Cultural work at the partisans"
+      title: "Cultural work among the partisans"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,25"
           to: "00:00:06,21"
-          text: "There were very many cultural workers with the partisans."
+          text: "There were many, many cultural workers with the partisans."
         sequence-2:
           s: 2
           from: "00:00:06,21"
@@ -18,12 +18,12 @@ en:
           s: 3
           from: "00:00:11,15"
           to: "00:00:20,15"
-          text: "The theater was relatively well represented and many premieres were held."
+          text: "The theater was relatively well represented and many plays were held."
         sequence-4:
           s: 4
           from: "00:00:20,15"
           to: "00:00:32,15"
-          text: "For one premiere, for Bor’s Raztrganci, I contributed the stage scenery."
+          text: "For one play, for Bor’s Raztrganci, I contributed the stage scenery."
         sequence-5:
           s: 5
           from: "00:00:32,15"
@@ -33,19 +33,19 @@ en:
           s: 6
           from: "00:00:33,15"
           to: "00:00:38,02"
-          text: "One of the most important components"
+          text: "One of the most important features"
         sequence-7:
           s: 7
           from: "00:00:38,02"
           to: "00:00:48,29"
-          text: "of the ‘Central Technique’ (of the Slovene Communist Party Workshop) was the partisan printing press."
+          text: "of the ‘Technical Center’ (of the Slovene Communist Party Workshop) was the partisan printing press."
         sequence-8:
           s: 8
           from: "00:00:48,29"
           to: "00:01:09,14"
-          text: "Partisan printing presses were hidden all over the hills of Kocevski Rog and also Goteniski Sneznik."
+          text: "Partisan printing presses were hidden all throughout the hills of Kocevski Rog and Goteniski Sneznik."
         sequence-9:
           s: 9
           from: "00:01:09,14"
           to: "00:01:20,27"
-          text: "They printed partisan newspapers, brochures and even poetry collections and song-books."
+          text: "They printed partisan newspapers, brochures, and even poetry collections and song-books."
