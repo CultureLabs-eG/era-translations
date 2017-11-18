@@ -2,18 +2,18 @@ de:
   vincent-pascucci:
     chapter-9:
       c: 9
-      title: "The choice of doing what I did"
+      title: "Die Wahl, das zu tun, was ich getan habe."
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,08"
           to: "00:00:08,05"
-          text: "Yes, our life was very difficult."
+          text: "Ja, unser Leben war sehr schwierig."
         sequence-2:
           s: 2
           from: "00:00:08,05"
           to: "00:00:17,15"
-          text: "But we had made a choice. We could have put up our feet and watched TV."
+          text: "Aber wir hatten eine Wahl getroffen. Wir hätten unsere Füße hochlegen und fernsehen können."
         sequence-3:
           s: 3
           from: "00:00:17,15"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:19,18"
           to: "00:00:26,11"
-          text: "But we didn’t make that choice. I can’t explain exactly why."
+          text: "Aber wir haben diese Wahl nicht getroffen. Ich kann nicht genau erklären warum."
         sequence-5:
           s: 5
           from: "00:00:26,11"

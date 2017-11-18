@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:12,00"
           to: "00:01:22,09"
-          text: "The third one followed me, when I ran away, into the kitchen."
+          text: "io sono fuggita attraverso la porta, in cucina e il terzo partigiano mi stava seguendo."
         sequence-19:
           s: 19
           from: "00:01:22,09"
