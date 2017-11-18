@@ -28,17 +28,17 @@ de:
           s: 5
           from: "00:00:41,03"
           to: "00:00:49,21"
-          text: "One time I was stopped at the checkpoint by the hospice."
+          text: "Einmal wurde ich an der Kontrollstelle am Hospitz gestoppt."
         sequence-6:
           s: 6
           from: "00:00:49,21"
           to: "00:00:56,10"
-          text: "There was always one there, but that day a man had been killed."
+          text: "Dort war immer eine Kontrollstelle, aber an dem Tag war ein Mann getötet worden."
         sequence-7:
           s: 7
           from: "00:00:56,10"
           to: "00:01:03,05"
-          text: "So there was a group of fascists walking from San Maurizio towards the hospice,"
+          text: "Deshalb gab es eine Gruppe von Faschisten die von San Maurizio zum Hospiz wanderten,"
         sequence-8:
           s: 8
           from: "00:01:03,05"
