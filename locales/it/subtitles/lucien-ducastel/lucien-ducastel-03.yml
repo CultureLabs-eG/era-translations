@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:35,04"
           to: "00:01:46,06"
-          text: "E poi c'è anche da parlare del problema della produzione del materiale, perché andava bene distribuirlo, ma bisognava prima farlo."
+          text: "E poi c'è anche da parlare del problema della produzione del materiale, perché certo andava distribuito, ma bisognava prima farlo."
         sequence-19:
           s: 19
           from: "00:01:46,06"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:54,00"
           to: "00:02:02,12"
-          text: "il ciclostile, la macchina da scrivere e di nasconderli in cantina."
+          text: "il ciclostile, la macchina da scrivere, e di nasconderli in cantina."
         sequence-21:
           s: 21
           from: "00:02:02,12"
