@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:01:56,19"
           to: "00:02:02,28"
-          text: "Und dann sind wir bestimmt drei oder vier Stunden sind wir da die erste Nacht gegangen. Abbiamo camminato di sicuro tre o 4 ore quella prima notte."
+          text: "Abbiamo camminato di sicuro tre o 4 ore quella prima notte."
         sequence-29:
           s: 29
           from: "00:02:02,28"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:02:11,00"
           to: "00:02:22,22"
-          text: "It was very cold in this bunker, but we were so tired that we were still glad we could lie down."
+          text: "Nel bunker faceva molto, molto freddo, ma eravamo così stanchi da essere comunque felici di poterci sdraiare."
         sequence-32:
           s: 32
           from: "00:02:22,22"
