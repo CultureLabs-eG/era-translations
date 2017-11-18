@@ -53,7 +53,7 @@ en:
           s: 10
           from: "00:00:56,04"
           to: "00:01:10,11"
-          text: "some sort of legitimation paper, if you weren’t poorly thought of by the occupying police."
+          text: "some sort of legitimation paper, if you weren’t disliked by the occupying police."
         sequence-11:
           s: 11
           from: "00:01:10,11"
@@ -63,7 +63,7 @@ en:
           s: 12
           from: "00:01:14,17"
           to: "00:01:28,06"
-          text: "So as long as I still had the lascia passare, I’d still cycle to the outskirts of Ljubljana."
+          text: "So as long as I still had the lascia passare, I’d cycle to the outskirts of Ljubljana."
         sequence-13:
           s: 13
           from: "00:01:28,06"
