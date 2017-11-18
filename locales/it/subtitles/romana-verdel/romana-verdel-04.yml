@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:12,06"
           to: "00:01:21,28"
-          text: "Allora però il cugino maggiore, che aveva 14 anni, ha ricevuto un fucile. Era tutto contento, perché ha un fucile adesso, e così via."
+          text: "Allora il cugino maggiore, che aveva 14 anni, ricevette un fucile. Era tutto contento, perché insomma aveva un fucile adesso."
         sequence-20:
           s: 20
           from: "00:01:21,28"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:28,00"
           to: "00:01:37,25"
-          text: "E in realtà di paura non ne avevamo perché c'erano degli uomini con noi, adulti, per cui la paura se ne era andata."
+          text: "E in realtà di paura non ne avevamo perché c'erano degli uomini adulti con noi, adulti."
         sequence-23:
           s: 23
           from: "00:01:37,25"
