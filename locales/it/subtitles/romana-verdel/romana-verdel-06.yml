@@ -188,12 +188,12 @@ it:
           s: 37
           from: "00:03:00,13"
           to: "00:03:10,18"
-          text: "Then they took me inside to the two old farmers and my cousin."
+          text: "E così mi hanno portato dove si trovavano i due contadini anziani e mio cugino, e volevano..."
         sequence-38:
           s: 38
           from: "00:03:10,18"
           to: "00:03:16,19"
-          text: "One of them just wanted to shoot us and burn the house down."
+          text: "Uno di loro voleva solo spararci e bruciare la casa."
         sequence-39:
           s: 39
           from: "00:03:16,19"
