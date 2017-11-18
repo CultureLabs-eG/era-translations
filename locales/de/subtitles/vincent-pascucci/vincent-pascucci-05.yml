@@ -2,13 +2,13 @@ de:
   vincent-pascucci:
     chapter-5:
       c: 5
-      title: "Going in the underground; Activities"
+      title: "Aktivitäten im Untergrund"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:14,17"
-          text: "One could be part of the resistance movement and have a normal occupation as well."
+          text: "Man konnte Teil des Widerstands sein und gleichzeitig eine normale Beschäftigung haben."
         sequence-2:
           s: 2
           from: "00:00:14,17"
@@ -18,12 +18,12 @@ de:
           s: 3
           from: "00:00:17,01"
           to: "00:00:23,08"
-          text: "I worked in the Simca factory."
+          text: "Ich arbeitete in der Simca-Fabrik."
         sequence-4:
           s: 4
           from: "00:00:23,08"
           to: "00:00:35,10"
-          text: "That was an Italian enterprise. The director, Mr.Picosi, was Italian."
+          text: "Das war eine italienische Firma. Der Direktor, Mr. Picosi, war Italiener."
         sequence-5:
           s: 5
           from: "00:00:35,10"
@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:36,27"
           to: "00:00:50,03"
-          text: "They produced cars before the war. During the occupation, we were forced to produce axels for tanks."
+          text: "Vor dem Krieg produzierten sie Autos. Während der Besetzung waren wir gezwungen, Achsen für Kettenpanzer zu produzieren."
         sequence-7:
           s: 7
           from: "00:00:50,03"
@@ -43,12 +43,12 @@ de:
           s: 8
           from: "00:00:52,00"
           to: "00:00:59,03"
-          text: "We started sabotaging the machines during our work."
+          text: "Wir begannen während der Arbeit die Maschinen zu sabotieren."
         sequence-9:
           s: 9
           from: "00:00:59,03"
           to: "00:01:13,27"
-          text: "In the beginning of 1943, Hitler had begun to lose some battles."
+          text: "Anfang 1943 verlor Hitler manche Schlachten."
         sequence-10:
           s: 10
           from: "00:01:13,27"
@@ -58,12 +58,12 @@ de:
           s: 11
           from: "00:01:15,20"
           to: "00:01:23,12"
-          text: "He lost the battle of Stalingrad, the battle in Libya."
+          text: "Er verlor die Schlacht von Stalingrad und den Afrikafeldzug in Libyen."
         sequence-12:
           s: 12
           from: "00:01:23,12"
           to: "00:01:33,03"
-          text: "He had to mobilize his entire male population, having occupied almost whole Europe."
+          text: "Er musste seine gesamte männliche Bevölkerung mobilisieren, nachdem er fast ganz Europa besetzt hatte."
         sequence-13:
           s: 13
           from: "00:01:33,03"
@@ -73,17 +73,17 @@ de:
           s: 14
           from: "00:01:36,04"
           to: "00:01:43,02"
-          text: "He had to keep his war machinery going."
+          text: "Er musste seine Kriegsmaschinerie am Laufen halten."
         sequence-15:
           s: 15
           from: "00:01:43,02"
           to: "00:01:52,21"
-          text: "An agreement was signed between the French Pétain-Laval government"
+          text: "Es wurde eine Vereinbarung unterzeichnet zwischen der französischen Pétain-Laval-Regierung"
         sequence-16:
           s: 16
           from: "00:01:52,21"
           to: "00:02:03,20"
-          text: "and the German administration to create the so-called STO (Forced Labor)."
+          text: "und der deutschen Verwaltung, um die sogenannte STO („Pflichtarbeitsdienst“) einzurichten."
         sequence-17:
           s: 17
           from: "00:02:03,20"
@@ -93,47 +93,47 @@ de:
           s: 18
           from: "00:02:05,04"
           to: "00:02:15,24"
-          text: "In the beginning, they tried it with propaganda, saying that one worker going to work in Germany would liberate ten Prisoners of War."
+          text: "Anfangs versuchten sie es mit Propaganda. Sie sagten, dass Deutschland für jeden Arbeiter, der nach Deutschland ginge, zehn Kriegsgefangene freikommen würden."
         sequence-19:
           s: 19
           from: "00:02:15,24"
           to: "00:02:20,29"
-          text: "That didn’t work well, as very few volunteered."
+          text: "Das funktionierte nicht gut, nur wenige meldeten sich freiwillig."
         sequence-20:
           s: 20
           from: "00:02:20,29"
           to: "00:02:31,19"
-          text: "From then on lists with the names of some of the workers were sent to the factories."
+          text: "Von da an wurden Listen mit den Namen von manchen Arbeitern zu den Fabriken geschickt."
         sequence-21:
           s: 21
           from: "00:02:31,19"
           to: "00:02:37,19"
-          text: "If your name was on that list, you had to leave to work in Germany."
+          text: "Wenn dein Name auf der Liste war, musstest du nach Deutschland gehen zum arbeiten."
         sequence-22:
           s: 22
           from: "00:02:37,19"
           to: "00:02:43,00"
-          text: "One day I saw my name on one of these lists."
+          text: "Eines Tages sah ich meinen Namen auf einer der Listen."
         sequence-23:
           s: 23
           from: "00:02:43,00"
           to: "00:02:52,01"
-          text: "We were supposed to have a medical check-up in Courbevoie, with a German major."
+          text: "Wir sollten uns in Courbevoie einer medizinische Untersuchung durch einen deutschen Major unterziehen."
         sequence-24:
           s: 24
           from: "00:02:52,01"
           to: "00:03:02,10"
-          text: "I had a hernia, which in reality didn’t bother me."
+          text: "Ich hatte einen Leistenbruch, der mich nicht besonders störte."
         sequence-25:
           s: 25
           from: "00:03:02,10"
           to: "00:03:13,02"
-          text: "But I arrived there as if in pain, saying that my doctor had told me I needed to be operated on immediately."
+          text: "Aber ich kam dort an, als wäre ich unter Schmerzen und ich sagte, dass mein Doktor sagte, dass ich sofort operiert werden müsste."
         sequence-26:
           s: 26
           from: "00:03:13,02"
           to: "00:03:22,21"
-          text: "The major answered: “Don’t worry. We have very good surgeons in Germany, go ahead.”"
+          text: "Der Major antwortete: „Keine Sorge. Wir haben sehr gute Chirurgen in Deutschland, weiter gehen.”"
         sequence-27:
           s: 27
           from: "00:03:22,21"

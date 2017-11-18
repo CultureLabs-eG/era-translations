@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:01,07"
           to: "00:00:04,25"
-          text: "My name is Giacomo Notari."
+          text: "Allora, io mi chiamo Giacomo Notari,"
         sequence-2:
           s: 2
           from: "00:00:04,25"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:07,08"
           to: "00:00:16,11"
-          text: "I was born and still live in the mountains, in the town of Busana, in a tiny hamlet called Marmoreto."
+          text: "sono nato e abito ancora in montagna. Nel comune di Busana, esattamente in una piccolissima borgata chi si chiama Marmoreto."
         sequence-4:
           s: 4
           from: "00:00:16,11"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:17,26"
           to: "00:00:26,09"
-          text: "I have always lived here, because the mountains are part of my soul."
+          text: "Sono sempre vissuto lì, anche quando ho lavorato a Reggio proprio perché la montagna ce l’ho nell’anima."
         sequence-6:
           s: 6
           from: "00:00:26,09"
@@ -38,12 +38,12 @@ it:
           s: 7
           from: "00:00:27,07"
           to: "00:00:33,23"
-          text: "I was born in a small hamlet of about 300 inhabitants."
+          text: "Perciò sono nato lì in un borgata che aveva attorno a 300 abitanti,"
         sequence-8:
           s: 8
           from: "00:00:33,23"
           to: "00:00:45,13"
-          text: "Most of the people were small farmers who survived on subsistence farming."
+          text: "piccoli contadini in generale che producevano non per il mercato ma per vivere, un’agricoltura di sopravvivenza."
         sequence-9:
           s: 9
           from: "00:00:45,13"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:46,28"
           to: "00:00:54,16"
-          text: "It was the same for my family: we had some land, a few cows, chestnut groves and some woods."
+          text: "E così era la mia famiglia, avevamo della terra, un po’ di vacche, i castagneti e qualche bosco."
         sequence-11:
           s: 11
           from: "00:00:54,16"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:00:55,18"
           to: "00:01:01,02"
-          text: "Except for a few days during the war I never suffered hunger."
+          text: "Devo dire per la verità che tolti un po’ di giorni durante la guerra io non ho mai patito fame, ecco."
         sequence-13:
           s: 13
           from: "00:01:01,02"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:03,18"
           to: "00:01:10,00"
-          text: "I had a brother who died as a partisan at 19, towards the end of the war."
+          text: "Avevo un fratello che poi morì partigiano a 19 anni, quasi alla fine della guerra."
         sequence-15:
           s: 15
           from: "00:01:10,00"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:11,02"
           to: "00:01:15,20"
-          text: "I also had an uncle, who didn’t live with us but in Cervarezza,"
+          text: "C’era un mio zio che era un fratello di mia mamma ma non viveva con noi, abitava a Cervarezza"
         sequence-17:
           s: 17
           from: "00:01:15,20"
           to: "00:01:24,12"
-          text: "who died as a partisan after being confined to the Tremiti Islands by the fascists."
+          text: "che poi è morto partigiano anche lui dopo essere stato all’isola di Tremiti confinato dal fascismo."
         sequence-18:
           s: 18
           from: "00:01:24,12"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:26,01"
           to: "00:01:31,23"
-          text: "On the other hand, my family was a traditional Christian and catholic family."
+          text: "Invece la mia famiglia era d’origine cristiana, di origine cattolica."
         sequence-20:
           s: 20
           from: "00:01:31,23"
@@ -108,12 +108,12 @@ it:
           s: 21
           from: "00:01:32,18"
           to: "00:01:35,12"
-          text: "My father used to sing in church."
+          text: "Mio padre cantava in chiesa."
         sequence-22:
           s: 22
           from: "00:01:35,12"
           to: "00:01:50,01"
-          text: "I have never served at Mass, although they had asked me, because I didn’t like to dress up."
+          text: "Io non ho mai servito messa, anche se me l'hanno chiesto, perché non mi piaceva vestirmi... che mettevano delle vestine bianche e un po’ rosse insomma, e allora non ho mai accettato di fare il chierico insomma, ecco."
         sequence-23:
           s: 23
           from: "00:01:50,01"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:01:51,05"
           to: "00:01:56,24"
-          text: "But we used to go to Mass, at least on Sundays."
+          text: "Però andavamo a messa, quantomeno la domenica ecco, la dottrina dal prete e così via."
         sequence-25:
           s: 25
           from: "00:01:56,24"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:01:57,20"
           to: "00:02:05,24"
-          text: "We had an elementary school up to the third grade, then we had to go to Busana for the fifth grade, by foot of course."
+          text: "C’era una scuola elementare fino alla terza classe e poi si andava a Busana a fare la quinta, naturalmente a piedi,"
         sequence-27:
           s: 27
           from: "00:02:05,24"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:02:07,09"
           to: "00:02:19,10"
-          text: "There was no water in the houses, only a small fountain in a chestnut grove everyone drew water from."
+          text: "non c’era l'acqua nelle case, ma c’era una piccola fontana in un castagneto dove tutto il paese attingeva acqua solo in quel tubo lì."
         sequence-29:
           s: 29
           from: "00:02:19,10"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:02:20,17"
           to: "00:02:28,08"
-          text: "The school we attended was very crowded because there were many kids in the villages:"
+          text: "La scuola che frequentavamo era molto affollata perché allora bambini ce n’erano tanti nei paesi,"
         sequence-31:
           s: 31
           from: "00:02:28,08"
@@ -163,27 +163,27 @@ it:
           s: 32
           from: "00:02:29,08"
           to: "00:02:34,13"
-          text: "there were three classes together, and it was quite full."
+          text: "e eravamo tre classi insieme e perciò c’era un affollamento notevole."
         sequence-33:
           s: 33
           from: "00:02:34,13"
           to: "00:02:42,06"
-          text: "Naturally, our school had no toilet facilities, no running water and no electricity."
+          text: "Naturalmente scuola senza servizi igienici senza acqua e senza luce."
         sequence-34:
           s: 34
           from: "00:02:42,06"
           to: "00:02:48,09"
-          text: "There was a portrait of Mussolini, one of the king, and a crucifix."
+          text: "C'era un ritratto di Mussolini, uno del re e un crocifisso."
         sequence-35:
           s: 35
           from: "00:02:48,09"
           to: "00:02:56,19"
-          text: "Our teacher actually made the ink herself with some black powders in a flask."
+          text: "La maestra addirittura faceva lei l’inchiostro, faceva l’inchiostro con delle polveri nere in un fiasco e così abbiamo fatto fino alla terza elementare."
         sequence-36:
           s: 36
           from: "00:02:56,19"
           to: "00:03:03,13"
-          text: "I was always happy to go to school: actually, I longed for school."
+          text: "Io sono sempre andato volentieri a scuola anzi, io ho patito voglia di scuola."
         sequence-37:
           s: 37
           from: "00:03:03,13"
@@ -193,7 +193,7 @@ it:
           s: 38
           from: "00:03:04,09"
           to: "00:03:09,26"
-          text: "My mother died when I was four and a half years old, my brother was almost six,"
+          text: "Mia mamma è morta che avevo 4 anni e mezzo, mio fratello aveva quasi 6 anni."
         sequence-39:
           s: 39
           from: "00:03:09,26"
@@ -203,12 +203,12 @@ it:
           s: 40
           from: "00:03:12,20"
           to: "00:03:16,13"
-          text: "so I suffered from this loss, too."
+          text: "E perciò ho sofferto anche quella mancanza lì."
         sequence-41:
           s: 41
           from: "00:03:16,13"
           to: "00:03:23,11"
-          text: "I don’t know about other kids, but each has his own grief."
+          text: "Vi dirò non so altri ragazzi a volte c'ho anche parlato però, ognuno tiene al suo dispiacere."
         sequence-42:
           s: 42
           from: "00:03:23,11"
@@ -218,14 +218,14 @@ it:
           s: 43
           from: "00:03:24,11"
           to: "00:03:29,27"
-          text: "I sort of overcame this when my daughters were born,"
+          text: "Ho superato un po’ la cosa quando mi sono nate le bambine."
         sequence-44:
           s: 44
           from: "00:03:29,27"
           to: "00:03:32,29"
-          text: "but at times I still haven’t come through."
+          text: "Ma a volte non l'ho superata neanche adesso."
         sequence-45:
           s: 45
           from: "00:03:32,29"
           to: "00:03:36,14"
-          text: "I still dream of this… Anyway."
+          text: "Mi sogno ancora delle volte… e insomma."

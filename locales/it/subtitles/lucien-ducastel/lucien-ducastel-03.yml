@@ -128,27 +128,27 @@ it:
           s: 25
           from: "00:02:26,25"
           to: "00:02:36,14"
-          text: "where two or three of us could meet, maybe four, never more than four."
+          text: "dove potersi incontrare in due o tre, dipendeva, ma mai più di tre o quattro."
         sequence-26:
           s: 26
           from: "00:02:36,14"
           to: "00:02:48,10"
-          text: "We would meet in a basement or at friends’ not known for their political activities, but willing to help."
+          text: "Ci vedevamo o in una cantina o da amici che non erano conosciuti per la loro attività politica ma pronti ad aiutarci."
         sequence-27:
           s: 27
           from: "00:02:48,10"
           to: "00:02:55,16"
-          text: "They would let us in. We’d arrive at different times."
+          text: "Ci ricevevano, noi arrivavamo chi a un'ora chi a un'altra. Sempre a orari diversi."
         sequence-28:
           s: 28
           from: "00:02:55,16"
           to: "00:03:07,25"
-          text: "But then there was also the need to hide the material, the mimeograph, the typewriter etc…"
+          text: "Dovevamo anche nascondere il materiale di cui avevamo bisogno, ovvero il ciclostile, la macchina da scrivere, ecc."
         sequence-29:
           s: 29
           from: "00:03:07,25"
           to: "00:03:10,10"
-          text: "We had to be careful with all of that."
+          text: "Bisognava starci molto attenti."
         sequence-30:
           s: 30
           from: "00:03:10,10"
@@ -158,12 +158,12 @@ it:
           s: 31
           from: "00:03:12,02"
           to: "00:03:19,06"
-          text: "There were various newspaper publications in the Rouen region,"
+          text: "C'era grande prudenza, che s'instaurava leggendo quello che scrivevano…"
         sequence-32:
           s: 32
           from: "00:03:19,06"
           to: "00:03:29,22"
-          text: "talking about the number of political activists being arrested. One had to be very careful."
+          text: "«Arrestati questi e quei militanti…\" stava scritto nei giornali della regione di Rouen. Era molto difficile e bisognava stare attenti."
         sequence-33:
           s: 33
           from: "00:03:29,22"
@@ -173,24 +173,26 @@ it:
           s: 34
           from: "00:03:30,15"
           to: "00:03:36,06"
-          text: "We had a certain amount of support in the population."
+          text: "Avevamo un discreto sostegno da parte della popolazione. C'era, sì, gente che diceva"
         sequence-35:
           s: 35
           from: "00:03:36,06"
           to: "00:03:43,06"
-          text: "Some people said we shouldn’t do that, or when we were arrested, they’d say:"
+          text: "che queste cose non andavano fatte, quando li arrestavano. Ma c'era gente che ci sosteneva."
         sequence-36:
           s: 36
           from: "00:03:43,06"
           to: "00:03:53,16"
-          text: "“They shouldn’t have done that”, but others did support us, some of them very quietly because they were afraid."
+          text: "Lo facevano sommessamente, perché avevano paura."
         sequence-37:
           s: 37
           from: "00:03:53,16"
           to: "00:04:03,17"
-          text: "If the police detected a connection between a person and well-known political activist, you could be arrested."
+          text: |-
+              Se le polizia scopriva legami con militanti noti, si potevano avere problemi, 
+              farsi arrestare…
         sequence-38:
           s: 38
           from: "00:04:03,17"
           to: "00:04:17,00"
-          text: "It was dangerous for us as well as for the people we’d give the material to - if they were caught by the police etc. It was very difficult."
+          text: "Sia noi che le persone a cui davamo il materiale eravamo in pericolo di essere catturati dalla polizia. Era molto difficile e molto delicato."

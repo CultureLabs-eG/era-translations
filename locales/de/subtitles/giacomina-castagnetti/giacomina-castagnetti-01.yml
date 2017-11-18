@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:58,22"
           to: "00:02:08,16"
-          text: "ging sie nur bis zur dritten Klasse."
+          text: "Sie ging nur bis zur dritten Klasse."
         sequence-22:
           s: 22
           from: "00:02:08,16"
@@ -138,12 +138,12 @@ de:
           s: 27
           from: "00:02:54,17"
           to: "00:03:04,01"
-          text: "Alles war so organisiert damit Leute an diese Sachen glaubten:"
+          text: "Alles war so organisiert, dass Leute daran glaubten:"
         sequence-28:
           s: 28
           from: "00:03:04,01"
           to: "00:03:13,06"
-          text: "dass man sich dem Duce nicht widersetze und er immer Recht habe in dem, was er sage."
+          text: "Man widersetze sich dem Duce nicht und er habe immer Recht mit dem, was er sage."
         sequence-29:
           s: 29
           from: "00:03:13,06"
@@ -298,7 +298,7 @@ de:
           s: 59
           from: "00:06:10,14"
           to: "00:06:19,21"
-          text: "Deshalb konnte ich nicht mit den Gymnasten auftreten, obwohl ich es mir erträumt hatte."
+          text: "Deshalb konnte ich nicht mit den Gymnasten auftreten, obwohl ich es mein Traum war."
         sequence-60:
           s: 60
           from: "00:06:19,21"

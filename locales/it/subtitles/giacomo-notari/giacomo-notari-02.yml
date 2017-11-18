@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:00,14"
           to: "00:00:07,09"
-          text: "They took us to Busana as there was a radio there, and I remember that"
+          text: "Siccome a Busana c’era una radio, ci portarono a Busana e mi ricordo che"
         sequence-2:
           s: 2
           from: "00:00:07,09"
           to: "00:00:10,23"
-          text: "we listened to Mussolini’s speech from Palazzo Venezia."
+          text: "ascoltammo il discorso del duce da Palazzo Venezia."
         sequence-3:
           s: 3
           from: "00:00:10,23"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:11,20"
           to: "00:00:20,10"
-          text: "Afterwards I saw it on TV over and over, that big head at the window, on that balcony in Palazzo Venezia…"
+          text: "Che poi l'ho rivisto mille volte alla televisione, quel testone alla finestra,  al balconcino lassù, dal balcone a Palazzo Venezia..."
         sequence-5:
           s: 5
           from: "00:00:20,10"
           to: "00:00:24,04"
-          text: "and everybody clapping below."
+          text: "che poi c’era la gente che applaudiva sotto insomma."
         sequence-6:
           s: 6
           from: "00:00:24,04"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:26,17"
           to: "00:00:33,19"
-          text: "I thought that the war had started. You didn’t contemplate things too much at that age."
+          text: "E tu cosa pensasti? Eh, pensavo… pensavo che è scoppiata la guerra… non è che facevi molte considerazioni a quell'età lì ecco."
         sequence-8:
           s: 8
           from: "00:00:33,19"
@@ -48,12 +48,12 @@ it:
           s: 9
           from: "00:00:35,29"
           to: "00:00:45,27"
-          text: "That was June 1940, I was thirteen and a half, so what can you be concerned about?"
+          text: "Quanti anni avevi? Avevo, è successo nel giugno del '40, perciò avevo 13 anni e mezzo insomma, perciò che considerazione puoi fare?"
         sequence-10:
           s: 10
           from: "00:00:45,27"
           to: "00:00:49,26"
-          text: "Having had that sort of education."
+          text: "Dopo aver avuto un’educazione di quel tipo lì."
         sequence-11:
           s: 11
           from: "00:00:49,26"
@@ -63,17 +63,17 @@ it:
           s: 12
           from: "00:00:51,13"
           to: "00:00:58,10"
-          text: "These guys broke into the local headquarters of the fascist party and threw everything out of the windows,"
+          text: "Questi ragazzi andarono dentro la sede del fascio e buttarono giù tutto dalla finestra,"
         sequence-13:
           s: 13
           from: "00:00:58,10"
           to: "00:01:04,08"
-          text: "including the portrait of Mussolini, which had been respected so much until then."
+          text: "era al secondo piano e allora il quadro di Mussolini che allora c'era stato un rispetto fino ad allora"
         sequence-14:
           s: 14
           from: "00:01:04,08"
           to: "00:01:09,07"
-          text: "Seeing these things in the dirt of the street,"
+          text: "e vederli nella polvere nella strada, che allora le strade non erano asfaltate,"
         sequence-15:
           s: 15
           from: "00:01:09,07"
@@ -83,4 +83,4 @@ it:
           s: 16
           from: "00:01:10,05"
           to: "00:01:13,21"
-          text: "well that was the first turning point."
+          text: "e quella è stata la prima svolta ecco."
