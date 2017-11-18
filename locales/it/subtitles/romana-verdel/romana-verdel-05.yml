@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:09,26"
           to: "00:01:14,18"
-          text: "That possibly saved my life."
+          text: "Questo mi ha probabilmente salvato la vita."
         sequence-15:
           s: 15
           from: "00:01:14,18"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:15,27"
           to: "00:01:24,26"
-          text: "When the aunt left she went to a bunker in Ojstra, in Carinthia, near Eisenkappl."
+          text: "Perché poi la zia ha continuato, là a Ojstra, in Carinzia, vicino Eisenkappel,"
         sequence-17:
           s: 17
           from: "00:01:24,26"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:26,03"
           to: "00:01:31,25"
-          text: "This bunker was betrayed and she was shot dead."
+          text: "Ci fu un tradimento e la uccisero. Le spararono."
         sequence-19:
           s: 19
           from: "00:01:31,25"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:33,05"
           to: "00:01:39,24"
-          text: "The others got away, but she didn’t."
+          text: "Gli altri riuscirono ad andarsene, e lei... lei no."
         sequence-21:
           s: 21
           from: "00:01:39,24"

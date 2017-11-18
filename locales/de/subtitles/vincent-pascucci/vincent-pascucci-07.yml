@@ -178,7 +178,7 @@ de:
           s: 35
           from: "00:05:00,21"
           to: "00:05:06,05"
-          text: "Wir nannten sie Sektion Louis Meunier zu seinem Gedenken."
+          text: "Wir nannten sie Sektion Louis Meunier im Gedenken an Louis Meunier."
         sequence-36:
           s: 36
           from: "00:05:06,05"
@@ -203,7 +203,7 @@ de:
           s: 40
           from: "00:05:36,10"
           to: "00:05:49,29"
-          text: "It was a huge joy to have liberated France, even though it wasn’t quite over."
+          text: "Es war eine große Freude, Frankreich befreit zu haben, auch wenn es noch nicht ganz vorbei war."
         sequence-41:
           s: 41
           from: "00:05:49,29"
@@ -213,7 +213,7 @@ de:
           s: 42
           from: "00:05:52,12"
           to: "00:06:05,29"
-          text: "Alsace-Lorraine was still occupied; there was still the submarine basis in the enclave of La Rochelle."
+          text: "Elsaß-Lothringen war immer noch besetzt; es gab immer noch die U-Boot-Basis in der Enklave von La Rochelle."
         sequence-43:
           s: 43
           from: "00:06:05,29"
@@ -223,7 +223,7 @@ de:
           s: 44
           from: "00:06:10,26"
           to: "00:06:15,07"
-          text: "But really it was liberation."
+          text: "Aber es war wirklich eine Befreiung."
         sequence-45:
           s: 45
           from: "00:06:15,07"
@@ -233,7 +233,7 @@ de:
           s: 46
           from: "00:06:21,04"
           to: "00:06:30,18"
-          text: "We had the satisfaction of saying that we had won."
+          text: "Wir hatten die Genugtuung zu sagen, dass wir gewonnen hatten."
         sequence-47:
           s: 47
           from: "00:06:30,18"

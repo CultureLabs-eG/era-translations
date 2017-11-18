@@ -175,12 +175,12 @@ it:
           s: 34
           from: "00:04:26,16"
           to: "00:04:28,13"
-          text: "They tattooed this number."
+          text: "Ci hanno tatuato questo questo numero."
         sequence-35:
           s: 35
           from: "00:04:28,13"
           to: "00:04:29,02"
-          text: "Of course that had a big effect on us."
+          text: "Questa cosa ci ha segnati."
         sequence-36:
           s: 36
           from: "00:04:29,02"

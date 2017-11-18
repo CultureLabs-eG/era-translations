@@ -2,13 +2,13 @@ it:
   giacomo-notari:
     chapter-6:
       c: 6
-      title: "Mining a bridge; Sabotaging flow of German troops"
+      title: "Minare un ponte per ostacolare tedeschi"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,09"
           to: "00:00:09,25"
-          text: "We were receiving reports of troops coming back from the front, from Garfagnana,"
+          text: "Arrivavano delle segnalazioni che c’erano delle truppe che tornavano dal fronte, dalla Garfagnana"
         sequence-2:
           s: 2
           from: "00:00:09,25"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:10,27"
           to: "00:00:19,11"
-          text: "on the road going through Fivizzano and the Cerreto pass and towards Castelnovo Monti."
+          text: "e facevano la strada di Fivizzano e il valico del Cerreto e venivano verso Castelnovo Monti, verso la pianura"
         sequence-4:
           s: 4
           from: "00:00:19,11"
           to: "00:00:25,12"
-          text: "They were sending new troops to the front, by that time they had been there two or three months."
+          text: "Mettevano truppe fresche al fronte insomma, ormai erano 2 o 3 mesi che erano lì."
         sequence-5:
           s: 5
           from: "00:00:25,12"
