@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:27,21"
           to: "00:00:31,16"
-          text: "They got up and went outside"
+          text: "Si sono alzati e usciti"
         sequence-9:
           s: 9
           from: "00:00:31,16"
           to: "00:00:38,27"
-          text: "but stayed in the hallway and kept talking for a little while."
+          text: "e sono rimasti nell'atrio chiacchierando ancora un po'."
         sequence-10:
           s: 10
           from: "00:00:38,27"
