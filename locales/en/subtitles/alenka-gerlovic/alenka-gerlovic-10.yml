@@ -78,7 +78,7 @@ en:
           s: 15
           from: "00:02:06,20"
           to: "00:02:17,21"
-          text: "He slept with high temperature directly upon some branches lying on the snow."
+          text: "He slept with high fevers, laying on branches in the snow."
         sequence-16:
           s: 16
           from: "00:02:17,21"
@@ -88,12 +88,12 @@ en:
           s: 17
           from: "00:02:19,01"
           to: "00:02:29,04"
-          text: "His high temperature from the infection then affected his cardiac valves."
+          text: "His fever from the infection affected his cardiac valves."
         sequence-18:
           s: 18
           from: "00:02:29,04"
           to: "00:02:44,12"
-          text: "Although he and we were unaware, he was dead sick when he came to the Central Technique."
+          text: "None of us, including him, was aware he was deadly ill when he came to the Technical Center."
         sequence-19:
           s: 19
           from: "00:02:44,12"
