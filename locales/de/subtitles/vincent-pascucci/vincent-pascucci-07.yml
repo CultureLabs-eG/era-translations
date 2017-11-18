@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:02:26,15"
           to: "00:02:34,15"
-          text: "Es gab also einen Gefangenenaustausch mit diesen Deutschen"
+          text: "Es gab also einen Gefangenenaustausch von diesen Deutschen"
         sequence-17:
           s: 17
           from: "00:02:34,15"
@@ -253,9 +253,9 @@ de:
           s: 50
           from: "00:06:58,05"
           to: "00:07:06,24"
-          text: "I continued because I wanted to avenge Louis. At his funeral we had sworn that we would avenge him."
+          text: "Ich machte weiter, um Louis zu rächen. Bei seiner Beerdigung hatten wir uns geschworen ihn zu rächen."
         sequence-51:
           s: 51
           from: "00:07:06,24"
           to: "00:07:15,27"
-          text: "That meant to fight the Nazis until the end."
+          text: "Das bedeutete, die Nazis bis zum Ende zu bekämpfen."
