@@ -8,7 +8,7 @@ en:
           s: 1
           from: "00:00:01,04"
           to: "00:00:12,05"
-          text: "So on the very day that Ljubljana was liberated, to the same time being the end of WWII,"
+          text: "The day that Ljubljana was liberated, WWII was ending."
         sequence-2:
           s: 2
           from: "00:00:12,05"
@@ -78,12 +78,12 @@ en:
           s: 15
           from: "00:01:47,27"
           to: "00:01:54,13"
-          text: "She barely saved her life from the burning building."
+          text: "She barely saved herself from the burning building."
         sequence-16:
           s: 16
           from: "00:01:54,13"
           to: "00:02:05,29"
-          text: "It was the first night that she was staying in the apartment that she attained from the housing administration."
+          text: "It was the first night that she was staying in the apartment she got from the housing administration."
         sequence-17:
           s: 17
           from: "00:02:05,29"
@@ -103,7 +103,7 @@ en:
           s: 20
           from: "00:02:21,23"
           to: "00:02:28,20"
-          text: "My mother was left with nothing of what had before been"
+          text: "My mother was left with nothing from what had been, before,"
         sequence-21:
           s: 21
           from: "00:02:28,20"
@@ -133,14 +133,14 @@ en:
           s: 26
           from: "00:03:10,08"
           to: "00:03:17,29"
-          text: "One had to survive. So I’ve survived for most of my life."
+          text: "One had to survive. So I’ve gotten by for most of my life."
         sequence-27:
           s: 27
           from: "00:03:17,29"
           to: "00:03:33,19"
-          text: "I’ve supported myself as a professor of art, initially at high schools and then, following the reorganization of the schooling system, in elementary schools."
+          text: "I’ve supported myself as an art teacher, initially in high schools and then, following the reorganization of the schooling system, in elementary schools."
         sequence-28:
           s: 28
           from: "00:03:33,19"
           to: "00:03:43,05"
-          text: "All up to my retirement in 1969, when I finally found my true calling."
+          text: "Up to my retirement in 1969, when I finally found my true calling."

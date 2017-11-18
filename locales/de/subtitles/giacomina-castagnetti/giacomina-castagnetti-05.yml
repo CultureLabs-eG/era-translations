@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:17,06"
           to: "00:00:23,25"
-          text: "Das ist wie das Regime die bezeichnete, die dem Duce nicht zustimmten."
+          text: "Das ist das Etikett, dass das Regime für die verwendete, die dem Duce nicht zustimmten."
         sequence-6:
           s: 6
           from: "00:00:23,25"
@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:02:22,09"
           to: "00:02:27,17"
-          text: "Ich nehme an ihnen war schon klar, dass wir Antifaschisten waren."
+          text: "Ich nehme an, ihnen war schon klar, dass wir Antifaschisten waren."
         sequence-27:
           s: 27
           from: "00:02:27,17"
@@ -153,17 +153,17 @@ de:
           s: 30
           from: "00:02:41,09"
           to: "00:02:46,07"
-          text: "mit ein paar Aufgaben um die Kommunistische Partei zu unterstützen."
+          text: "mit ein paar Aufgaben, um die Kommunistische Partei zu unterstützen."
         sequence-31:
           s: 31
           from: "00:02:46,07"
           to: "00:02:51,22"
-          text: "Sie brauchten jemanden, der nicht auffiel."
+          text: "Sie brauchten jemanden, der nicht zu viel auffiel."
         sequence-32:
           s: 32
           from: "00:02:51,22"
           to: "00:03:05,24"
-          text: "Das war genau wonach ich Ausschau gehalten hatte. Ich wollte etwas tun, um zu helfen, aber ich wusste nicht wie."
+          text: "Das war genau, wonach ich Ausschau gehalten hatte. Ich wollte etwas tun, um zu helfen, aber ich wusste nicht wie."
         sequence-33:
           s: 33
           from: "00:03:05,24"
@@ -188,7 +188,7 @@ de:
           s: 37
           from: "00:03:42,11"
           to: "00:03:56,10"
-          text: "deren Eltern und Brüder fliehen mussten weil sie vom Regime verfolgt wurden."
+          text: "deren Eltern und Brüder fliehen mussten, weil sie vom Regime verfolgt wurden."
         sequence-38:
           s: 38
           from: "00:03:56,10"
@@ -198,12 +198,12 @@ de:
           s: 39
           from: "00:03:57,14"
           to: "00:04:01,06"
-          text: "It was just natural to me."
+          text: "Es kam mir ganz natürlich vor."
         sequence-40:
           s: 40
           from: "00:04:01,06"
           to: "00:04:12,06"
-          text: "After all I had suffered, joining the Communist party meant"
+          text: "Nach allem was ich erlitten habe, der Kommunistischen Partei beizutreten bedeutete"
         sequence-41:
           s: 41
           from: "00:04:12,06"
@@ -213,17 +213,17 @@ de:
           s: 42
           from: "00:04:16,23"
           to: "00:04:22,18"
-          text: "doing something for the vision I had developed."
+          text: "etwas für die Vision zu tun, die ich entwickelt habe."
         sequence-43:
           s: 43
           from: "00:04:22,18"
           to: "00:04:33,11"
-          text: "I would also be doing something for my brother and to grant people a chance to live better."
+          text: "Ich würde zudem etwas für meinen Bruder tun, und Menschen eine Chance auf ein besseres Leben geben."
         sequence-44:
           s: 44
           from: "00:04:33,11"
           to: "00:04:42,18"
-          text: "I became a communist day by day, taking in the atmosphere around me."
+          text: "Ich wurde Tag für Tag mehr Kommunist, dadurch, dass ich die Atmosphäre um mich herum verinnerlichte."
         sequence-45:
           s: 45
           from: "00:04:42,18"
@@ -233,14 +233,14 @@ de:
           s: 46
           from: "00:04:46,14"
           to: "00:04:55,05"
-          text: "At fifteen, I can’t say I was aware of what was going on."
+          text: "Ich kann nicht sagen, dass mir mit fünfzehn klar war, was um mich herum geschah."
         sequence-47:
           s: 47
           from: "00:04:55,05"
           to: "00:05:04,09"
-          text: "Given my life, however, joining the Communist party was the natural answer."
+          text: "Durch mein Leben war aber der Beitritt zur Kommunistischen Partei die natürliche Antwort."
         sequence-48:
           s: 48
           from: "00:05:04,09"
           to: "00:05:12,08"
-          text: "There was no other solution, no doubts of any sort."
+          text: "Es gab keine andere Lösung, ohne irgendwie gearteten Zweifel."

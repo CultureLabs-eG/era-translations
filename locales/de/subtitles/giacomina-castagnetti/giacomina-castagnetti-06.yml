@@ -8,12 +8,12 @@ de:
           s: 1
           from: "00:00:00,21"
           to: "00:00:11,25"
-          text: "In 1941 we received a telegram informing us that my brother Mario had died. He had been sent to Greece."
+          text: "1941 erhielten wir ein Telegram: Mein Bruder Mario war gestorben. Er war in Griechenland stationiert."
         sequence-2:
           s: 2
           from: "00:00:11,25"
           to: "00:00:20,13"
-          text: "Another brother went to Ukraine directly from Albania."
+          text: "Ein weiterer Bruder ging in die Ukraine, direkt aus Albanien."
         sequence-3:
           s: 3
           from: "00:00:20,13"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:23,03"
           to: "00:00:29,06"
-          text: "Another one was also recalled for military service and went to Mentone,"
+          text: "Ein weiterer wurde in den Militärdienst zurückberufen und ging nach Mentone,"
         sequence-5:
           s: 5
           from: "00:00:29,06"
@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:30,15"
           to: "00:00:35,01"
-          text: "in France, as Italy wanted to regain the area."
+          text: "in Frankreich, weil Italien diese Gebiet zurück haben wollte."
         sequence-7:
           s: 7
           from: "00:00:35,01"
@@ -43,17 +43,17 @@ de:
           s: 8
           from: "00:00:36,25"
           to: "00:00:46,24"
-          text: "The brother who was a victim of political persecution had not been recalled and was at home,"
+          text: "Der Bruder der Opfer politischer Verfolgung war wurde nicht zurückberufen und war zuhause,"
         sequence-9:
           s: 9
           from: "00:00:46,24"
           to: "00:00:58,14"
-          text: "along with the youngest one, who was not of age yet, the kids and the women."
+          text: "zusammen mit dem Jüngsten, der noch nicht volljährig war, den Kindern und den Frauen."
         sequence-10:
           s: 10
           from: "00:00:58,14"
           to: "00:01:02,15"
-          text: "We had 20 acres of land to farm."
+          text: "Wir hatten 20 Hektar Land zu bestellen."
         sequence-11:
           s: 11
           from: "00:01:02,15"
@@ -63,7 +63,7 @@ de:
           s: 12
           from: "00:01:04,17"
           to: "00:01:19,28"
-          text: "As women we began to consider ourselves the head of the family, although the law didn’t accept it."
+          text: "Wir als Frauen begannen uns selbst as Familienvorstand zu begreifen, obwohl das Gesetz das nicht zuließ."
         sequence-13:
           s: 13
           from: "00:01:19,28"
@@ -73,7 +73,7 @@ de:
           s: 14
           from: "00:01:22,14"
           to: "00:01:29,26"
-          text: "We had to find a way to farm the land."
+          text: "Wir mussten Wege finden, um das Land zu bestellen."
         sequence-15:
           s: 15
           from: "00:01:29,26"
@@ -83,17 +83,17 @@ de:
           s: 16
           from: "00:01:31,03"
           to: "00:01:41,12"
-          text: "Many women, even among our neighbours, had gone to work in the factories,"
+          text: "Viele Frauen, selbst unter unseren Nachbarn, sind zur Arbeit in die Fabriken gegangen,"
         sequence-17:
           s: 17
           from: "00:01:41,12"
           to: "00:01:48,00"
-          text: "taking advantage of the wartime industry. You have to imagine that men were at war"
+          text: "um einen Vorteil aus der Kriegsindustrie zu ziehen. Du musst dir vorstellen die Männer waren im Krieg"
         sequence-18:
           s: 18
           from: "00:01:48,00"
           to: "00:01:54,10"
-          text: "while women were left at home to look after the children and take care of the family."
+          text: "während die Frauen zu hause blieben um die Kinder zu hüten und sich um die Familie zu kümmern."
         sequence-19:
           s: 19
           from: "00:01:54,10"
@@ -103,7 +103,7 @@ de:
           s: 20
           from: "00:01:56,15"
           to: "00:02:03,25"
-          text: "We were very happy and felt like being born again."
+          text: "Wir waren sehr glücklich und fühlten uns wie neu geboren."
         sequence-21:
           s: 21
           from: "00:02:03,25"

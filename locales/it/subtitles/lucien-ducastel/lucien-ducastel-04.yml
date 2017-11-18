@@ -2,18 +2,20 @@ it:
   lucien-ducastel:
     chapter-4:
       c: 4
-      title: "Arrest 21st of October 1941"
+      title: "21 ottobre 1941: l'arresto"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:12,06"
-          text: "I was not undercover, but I was arrested nevertheless on October 21st. 1941 for being a politically active communist."
+          text: |-
+              Non ero sotto copertura, ma sono stato arrestato il 21 ottobre 1941.
+              Sono stato arrestato perché ero un militante comunista.
         sequence-2:
           s: 2
           from: "00:00:12,06"
           to: "00:00:23,14"
-          text: "The police in Seine-Maritime knew all the people that belonged to the Communist Party or to the Communist Youth Movement."
+          text: "La polizia della cittadina in cui abitavo nella Senna Marittima conosceva tutti quelli che avevano aderito al Partito o alla Gioventù Comunista."
         sequence-3:
           s: 3
           from: "00:00:23,14"

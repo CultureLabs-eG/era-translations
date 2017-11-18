@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:02:15,24"
           to: "00:02:20,29"
-          text: "Das funktionierte nicht gut, nur wenige meldeten sich freiwillig."
+          text: "Das funktionierte nicht lange, nur wenige meldeten sich freiwillig."
         sequence-20:
           s: 20
           from: "00:02:20,29"
@@ -128,7 +128,7 @@ de:
           s: 25
           from: "00:03:02,10"
           to: "00:03:13,02"
-          text: "Aber ich kam dort an, als wäre ich unter Schmerzen und ich sagte, dass mein Doktor sagte, dass ich sofort operiert werden müsste."
+          text: "Aber tat so, als wäre ich unter Schmerzen und ich trug vor, dass mein Doktor sagte, dass ich sofort operiert werden müsse."
         sequence-26:
           s: 26
           from: "00:03:13,02"
@@ -138,27 +138,27 @@ de:
           s: 27
           from: "00:03:22,21"
           to: "00:03:30,07"
-          text: "I then got in touch with my superiors."
+          text: "Ich nahm Kontakt zu meinen Vorgesetzten auf."
         sequence-28:
           s: 28
           from: "00:03:30,07"
           to: "00:03:36,26"
-          text: "It was decided that I would be sent to a ‘maquis’ in Corèse."
+          text: "Man schickte mich in ein „maquis“ in Corèse."
         sequence-29:
           s: 29
           from: "00:03:36,26"
           to: "00:03:43,17"
-          text: "Upon arrival in Brives, I was to contact the comrades."
+          text: "Nach der Ankunft in Brives, sollte ich die Kameraden kontaktieren."
         sequence-30:
           s: 30
           from: "00:03:43,17"
           to: "00:03:51,11"
-          text: "When I passed the demarcation line, I was not able to establish contact."
+          text: "Nachdem ich die Demarkationslinie überschritten hatte, konnte ich keinen Kontakt aufnehmen."
         sequence-31:
           s: 31
           from: "00:03:51,11"
           to: "00:04:00,27"
-          text: "The ‘maquis’ was under siege, after having derailed a German train filled with deportees."
+          text: "Das „maquis“ war umstellt, nachdem sie einen deutschen Zug mit Deportierten entgleisen ließen."
         sequence-32:
           s: 32
           from: "00:04:00,27"
@@ -168,7 +168,7 @@ de:
           s: 33
           from: "00:04:02,20"
           to: "00:04:11,29"
-          text: "I had already been controlled several times by the police with my false identification documents"
+          text: "Ich wurde bereits mehrmals mit meinen gefälschten Papieren von der Polizei kontrolliert"
         sequence-34:
           s: 34
           from: "00:04:11,29"
