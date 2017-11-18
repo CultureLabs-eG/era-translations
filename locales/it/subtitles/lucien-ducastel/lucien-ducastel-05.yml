@@ -185,7 +185,7 @@ it:
           s: 36
           from: "00:04:29,02"
           to: "00:04:39,22"
-          text: "We were no longer called so-and-so. We had this number and were supposed to respond to this number."
+          text: "Non ci chiamavamo più tal dei tali, ormai avevamo un numero e con quel numero dovevamo rispondere a tutte le domande."
         sequence-37:
           s: 37
           from: "00:04:39,22"

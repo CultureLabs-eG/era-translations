@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:41,15"
           to: "00:01:47,18"
-          text: "If I would have been there I don’t know what would have happened to me."
+          text: "Se fossi stata là, non so cosa mi sarebbe successo."
         sequence-23:
           s: 23
           from: "00:01:47,18"
@@ -123,9 +123,9 @@ it:
           s: 24
           from: "00:01:52,26"
           to: "00:01:55,26"
-          text: "At the farmer’s it was really nice."
+          text: "E alla fattoria si stava molto, molto bene."
         sequence-25:
           s: 25
           from: "00:01:55,26"
           to: "00:02:04,12"
-          text: "But it was still war and it was the last farmer before the border. There was bad fighting there."
+          text: "Ma eravamo comunque in guerra, e quella era l'ultima fattoria sul confine. C'erano combattimenti là, combattimenti molto duri."
