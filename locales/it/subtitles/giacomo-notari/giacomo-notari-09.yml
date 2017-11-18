@@ -2,13 +2,13 @@ it:
   giacomo-notari:
     chapter-9:
       c: 9
-      title: "Battle defending the Ligonchio power plant"
+      title: "Difesa delle centrali di Ligonchio"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:06,23"
-          text: "So the Germans decided to blow up the power plants in Ligonchio"
+          text: "I tedeschi decidono di far saltare le centrali di Ligonchio,"
         sequence-2:
           s: 2
           from: "00:00:06,23"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:08,10"
           to: "00:00:14,11"
-          text: "and headed up the mountains."
+          text: "e vengono su un mattino decisi, insomma."
         sequence-4:
           s: 4
           from: "00:00:14,11"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:15,23"
           to: "00:00:26,03"
-          text: "The central headquarters, who were afraid we would not endure one last attack by the Germans,"
+          text: "E allora il comando unico pensando che non fossimo in grado di resistere ad un ultimo attacco tedesco, così..."
         sequence-6:
           s: 6
           from: "00:00:26,03"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:27,15"
           to: "00:00:31,27"
-          text: "ordered the local commanding officer, Ramis, to mine the power plant:"
+          text: "mandò a dire al comando lì, a \"Ramis\", di minare la centrale,"
         sequence-8:
           s: 8
           from: "00:00:31,27"
