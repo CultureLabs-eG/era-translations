@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,14"
           to: "00:00:07,03"
-          text: "Wir organisierten Frauenselbsthilfegruppen."
+          text: "Wir organisierten Frauenhilfegruppen."
         sequence-2:
           s: 2
           from: "00:00:07,03"
@@ -223,4 +223,4 @@ de:
           s: 44
           from: "00:04:51,20"
           to: "00:05:04,02"
-          text: "In about half an hour the boys and men who had deserted knew that they had to leave and hide in the countryside."
+          text: "In rund einer halben Stunde wussten die Jungen und Männer, die desertiert hatten, dass sie aufbrechen und sich in der Natur verstecken mussten."

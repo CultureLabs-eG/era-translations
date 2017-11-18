@@ -103,7 +103,7 @@ en:
           s: 20
           from: "00:02:31,28"
           to: "00:02:41,21"
-          text: "Returning to the city, the guards stopped me"
+          text: "On the way back to the city, the guards stopped me"
         sequence-21:
           s: 21
           from: "00:02:41,21"
@@ -118,7 +118,7 @@ en:
           s: 23
           from: "00:03:04,19"
           to: "00:03:10,12"
-          text: "somebody started shrieking that I should be stopped."
+          text: "somebody started screaming that I should be stopped."
         sequence-24:
           s: 24
           from: "00:03:10,12"
@@ -128,7 +128,7 @@ en:
           s: 25
           from: "00:03:20,28"
           to: "00:03:27,13"
-          text: "What I was doing with this? I told them that I went out into the nature."
+          text: "What was I doing with this? I told them that I went out into countryside."
         sequence-26:
           s: 26
           from: "00:03:27,13"
@@ -143,7 +143,7 @@ en:
           s: 28
           from: "00:03:47,22"
           to: "00:03:55,16"
-          text: "My father opened the door and asked if I really was his daughter. He confirmed."
+          text: "My father opened the door and they asked if I really was his daughter. He confirmed I was."
         sequence-29:
           s: 29
           from: "00:03:55,16"
