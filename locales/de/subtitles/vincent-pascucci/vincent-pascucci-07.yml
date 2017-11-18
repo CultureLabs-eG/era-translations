@@ -113,12 +113,12 @@ de:
           s: 22
           from: "00:03:17,12"
           to: "00:03:24,25"
-          text: "who had been quarantined in the Bois de Boulogne with his brigade."
+          text: "der mit seiner Brigade in Bois de Boulogne einquartiert war."
         sequence-23:
           s: 23
           from: "00:03:24,25"
           to: "00:03:31,21"
-          text: "Colonel Rémy went up to the fort and they gave themselves in."
+          text: "Colonel Rémy ging zum Fort und sie ergaben sich."
         sequence-24:
           s: 24
           from: "00:03:31,21"
@@ -128,7 +128,7 @@ de:
           s: 25
           from: "00:03:33,16"
           to: "00:03:40,04"
-          text: "I didn’t have much time to enjoy the liberation."
+          text: "Ich hatte nicht viel Zeit die Befreiung zu genießen."
         sequence-26:
           s: 26
           from: "00:03:40,04"

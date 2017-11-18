@@ -6,246 +6,235 @@ it:
       subtitles:
         sequence-1:
           s: 1
-          from: "00:00:00,11"
-          to: "00:00:07,17"
+          from: "00:00:00,15"
+          to: "00:00:02,17"
           text: "They came around a week after they had arrested them, still in August."
         sequence-2:
           s: 2
-          from: "00:00:07,17"
-          to: "00:00:13,09"
+          from: "00:00:02,17"
+          to: "00:00:12,01"
           text: "I was questioned for a whole day."
         sequence-3:
           s: 3
-          from: "00:00:13,09"
-          to: "00:00:23,17"
+          from: "00:00:12,01"
+          to: "00:00:16,22"
           text: "In the morning I was interrogated by the chief of OPI and by one of the commissioners, I think it was Dr. Cocconi."
         sequence-4:
           s: 4
-          from: "00:00:23,17"
-          to: "00:00:28,18"
+          from: "00:00:16,22"
+          to: "00:00:23,19"
           text: "He was the cousin of the second-in-command"
         sequence-5:
           s: 5
-          from: "00:00:28,18"
-          to: "00:00:35,29"
+          from: "00:00:23,19"
+          to: "00:00:28,28"
           text: "of the central headquarters of the partisans operating in the mountains."
         sequence-6:
           s: 6
-          from: "00:00:35,29"
-          to: "00:00:41,10"
+          from: "00:00:28,28"
+          to: "00:00:31,19"
           text: "I was questioned very harshly. They were accusing me."
         sequence-7:
           s: 7
-          from: "00:00:41,10"
-          to: "00:00:44,24"
+          from: "00:00:31,19"
+          to: "00:00:36,05"
           text: "I was denying, claiming that I had gone there only to get some eggs,"
         sequence-8:
           s: 8
-          from: "00:00:44,24"
-          to: "00:00:51,11"
+          from: "00:00:36,05"
+          to: "00:00:39,24"
           text: "that a man had asked me for my ID card and I didn’t even know who he was."
         sequence-9:
           s: 9
-          from: "00:00:51,11"
-          to: "00:00:54,23"
+          from: "00:00:39,24"
+          to: "00:00:47,11"
           text: "This went on for two or three hours."
         sequence-10:
           s: 10
-          from: "00:00:54,23"
-          to: "00:01:01,07"
+          from: "00:00:47,11"
+          to: "00:00:54,00"
           text: "Then they said they were going to put me face to face with the man who had taken my ID card."
         sequence-11:
           s: 11
-          from: "00:01:01,07"
-          to: "00:01:09,25"
+          from: "00:00:54,00"
+          to: "00:01:02,28"
           text: "They brought this man inside, he was in plain clothes but all dressed up, wearing a tie."
         sequence-12:
           s: 12
-          from: "00:01:09,25"
-          to: "00:01:14,22"
+          from: "00:01:02,28"
+          to: "00:01:08,05"
           text: "I knew that partisans were tortured, and since he hadn’t been tortured…"
         sequence-13:
           s: 13
-          from: "00:01:14,22"
-          to: "00:01:23,15"
+          from: "00:01:08,05"
+          to: "00:01:14,10"
           text: "So he began to tell what I had done, saying that my brother was a partisan and I had gone there to pick up a gun."
         sequence-14:
           s: 14
-          from: "00:01:23,15"
-          to: "00:01:27,21"
+          from: "00:01:14,10"
+          to: "00:01:17,04"
           text: "At that point I just lost the light of reason."
         sequence-15:
           s: 15
-          from: "00:01:27,21"
-          to: "00:01:33,05"
+          from: "00:01:17,04"
+          to: "00:01:22,25"
           text: "That was my luck, since I reacted in a very aggressive way:"
         sequence-16:
           s: 16
-          from: "00:01:33,05"
-          to: "00:01:37,04"
+          from: "00:01:22,25"
+          to: "00:01:27,13"
           text: "“You’re a scoundrel, I went to pick up a gun?"
         sequence-17:
           s: 17
-          from: "00:01:37,04"
-          to: "00:01:43,29"
+          from: "00:01:27,13"
+          to: "00:01:34,06"
           text: "When I got there you asked me for my ID card, you took note of my name,"
         sequence-18:
           s: 18
-          from: "00:01:43,29"
-          to: "00:01:51,19"
+          from: "00:01:34,06"
+          to: "00:01:42,02"
           text: "and as you saw I lived in Reggio, you said you knew my brother…”"
         sequence-19:
           s: 19
-          from: "00:01:51,19"
-          to: "00:01:58,17"
+          from: "00:01:42,02"
+          to: "00:01:48,02"
           text: "I had to say this, since my brother had already gone to the mountains, it could have saved me."
         sequence-20:
           s: 20
-          from: "00:01:58,17"
-          to: "00:02:05,17"
+          from: "00:01:48,02"
+          to: "00:01:55,29"
           text: "“You told me I had to bring a gun to him, but how could I say no to you?"
         sequence-21:
           s: 21
-          from: "00:02:05,17"
-          to: "00:02:11,14"
+          from: "00:01:55,29"
+          to: "00:02:04,03"
           text: "You had a gun, I only had a basket of eggs in my hand”. I was very mean."
         sequence-22:
           s: 22
-          from: "00:02:11,14"
-          to: "00:02:18,16"
+          from: "00:02:04,03"
+          to: "00:02:10,12"
           text: "So he said I was right, and took back what he had stated."
         sequence-23:
           s: 23
-          from: "00:02:18,16"
-          to: "00:02:24,06"
+          from: "00:02:10,12"
+          to: "00:02:18,25"
           text: "They asked me to sign the minutes. I couldn’t tell what they wrote on it."
         sequence-24:
           s: 24
-          from: "00:02:24,06"
-          to: "00:02:26,28"
+          from: "00:02:18,25"
+          to: "00:02:31,06"
           text: "My cousin and I signed."
         sequence-25:
           s: 25
-          from: "00:02:26,28"
-          to: "00:02:34,04"
+          from: "00:02:31,06"
+          to: "00:02:36,26"
           text: "Then they told us we could go home, but they wanted to speak to us again the following morning."
         sequence-26:
           s: 26
-          from: "00:02:34,04"
-          to: "00:02:38,15"
+          from: "00:02:36,26"
+          to: "00:02:43,13"
           text: "So I said: “Listen, I’m afraid to stay at home."
         sequence-27:
           s: 27
-          from: "00:02:38,15"
-          to: "00:02:47,28"
+          from: "00:02:43,13"
+          to: "00:02:56,05"
           text: "Every night I go to San Bartolomeo to my cousin’s, she’s the local fascist secretary. Can I go there?”"
         sequence-28:
           s: 28
-          from: "00:02:47,28"
-          to: "00:02:56,05"
+          from: "00:02:56,05"
+          to: "00:03:03,17"
           text: "My cousin said the same: “I usually go with her, or to my mother’s, would you let us go there?”"
         sequence-29:
           s: 29
-          from: "00:02:56,05"
-          to: "00:02:58,28"
+          from: "00:03:03,17"
+          to: "00:03:06,25"
           text: "They told us we could."
         sequence-30:
           s: 30
-          from: "00:02:58,28"
-          to: "00:03:05,02"
+          from: "00:03:06,25"
+          to: "00:03:15,05"
           text: "I got home and Mafaldo Chiessi, who was also an antifascist"
         sequence-31:
           s: 31
-          from: "00:03:05,02"
-          to: "00:03:09,21"
+          from: "00:03:15,05"
+          to: "00:03:19,04"
           text: "and in charge of communications between Reggio and Milan, told me:"
         sequence-32:
           s: 32
-          from: "00:03:09,21"
-          to: "00:03:16,26"
+          from: "00:03:19,04"
+          to: "00:03:25,27"
           text: "“Are you joking? You can’t stay here. Tomorrow they’ll torture you."
         sequence-33:
           s: 33
-          from: "00:03:16,26"
-          to: "00:03:26,02"
+          from: "00:03:25,27"
+          to: "00:03:35,17"
           text: "Today was only the beginning. Things will be different tomorrow, trust me. Don’t think that they won’t come to get you."
         sequence-34:
           s: 34
-          from: "00:03:26,02"
-          to: "00:03:31,16"
+          from: "00:03:35,17"
+          to: "00:03:40,28"
           text: "After what happened you must run away”."
         sequence-35:
           s: 35
-          from: "00:03:31,16"
-          to: "00:03:35,08"
+          from: "00:03:40,28"
+          to: "00:03:47,01"
           text: "My poor father at some point said:"
         sequence-36:
           s: 36
-          from: "00:03:35,08"
-          to: "00:03:40,17"
+          from: "00:03:47,01"
+          to: "00:03:53,10"
           text: "“I have four children, but I have to admit I don’t know them."
         sequence-37:
           s: 37
-          from: "00:03:40,17"
-          to: "00:03:44,17"
+          from: "00:03:53,10"
+          to: "00:04:00,17"
           text: "I never thought that you were…”"
         sequence-38:
           s: 38
-          from: "00:03:44,17"
-          to: "00:03:49,19"
+          from: "00:04:00,17"
+          to: "00:04:08,00"
           text: "That’s because we had been working in absolute secrecy."
         sequence-39:
           s: 39
           from: "00:03:49,19"
           to: "00:03:57,06"
-          text: "Even my boyfriend didn’t know what I was doing and his mother or his brother-in-law never told him."
         sequence-40:
           s: 40
           from: "00:03:57,06"
           to: "00:04:07,08"
-          text: "Secrecy was vital in order to survive; there was no other value but this."
         sequence-41:
           s: 41
           from: "00:04:07,08"
           to: "00:04:10,23"
-          text: "My father went on: “So now you’ll leave, too."
         sequence-42:
           s: 42
           from: "00:04:10,23"
           to: "00:04:15,24"
-          text: "I have a son who’s been away for a year now, and I don’t know where he is and if he’s alive."
         sequence-43:
           s: 43
           from: "00:04:15,24"
           to: "00:04:22,18"
-          text: "As for the other one, I have had no news for the last three months. He came home for a while but I don’t know where he is now”."
         sequence-44:
           s: 44
           from: "00:04:22,18"
           to: "00:04:26,26"
-          text: "There was no communication with the families from the mountains to the valley."
         sequence-45:
           s: 45
           from: "00:04:26,26"
           to: "00:04:32,26"
-          text: "“Now you’re going away, too, and I’ll stay home with your sister, a ten year old girl."
         sequence-46:
           s: 46
           from: "00:04:32,26"
           to: "00:04:37,12"
-          text: "But I think that you made the right choice."
         sequence-47:
           s: 47
           from: "00:04:37,12"
           to: "00:04:47,21"
-          text: "At least you’ll have a chance to save and defend yourself, unlike us who will end up like mice trapped at home."
         sequence-48:
           s: 48
           from: "00:04:47,21"
           to: "00:04:52,19"
-          text: "Just remember that your father thinks a lot of you”."
         sequence-49:
           s: 49
           from: "00:04:52,19"
           to: "00:04:55,05"
-          text: "That was what my father told me."

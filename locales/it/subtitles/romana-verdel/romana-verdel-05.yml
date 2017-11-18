@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:01,00"
           to: "00:00:09,17"
-          text: "Da sind wir wieder über den Berg nach Kärnten gangen, wo schon der Schnee weg war, weil, früher war keine Möglichkeit zurückzugehen. We went back over the mountain to Carinthia, when the snow was gone."
+          text: "Siamo tornati in Carinzia passando per i monti, una volta sciolta la neve, perché non c'erano altre possibilità."
         sequence-2:
           s: 2
           from: "00:00:09,17"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:11,07"
           to: "00:00:17,24"
-          text: "We got to a farmer’s where the cousin’s grandmother was."
+          text: "E siamo arrivati ad una fattoria dove viveva la nonna dei cugini."
         sequence-4:
           s: 4
           from: "00:00:17,24"

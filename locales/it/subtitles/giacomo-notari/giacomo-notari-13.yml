@@ -53,14 +53,14 @@ it:
           s: 10
           from: "00:01:07,29"
           to: "00:01:15,20"
-          text: "we have Alessandra Mussolini, Fini, Berlusconi and Bossi, we don't support these reactionary people."
+          text: "che c’è la Mussolini e Fini, che c’è Berlusconi e Bossi, che si abbracciano questi reazionari, insomma."
         sequence-11:
           s: 11
           from: "00:01:15,20"
           to: "00:01:20,22"
-          text: "That’s why we want to tell our youth that in these times we must fight together,"
+          text: "Vogliamo dire ai giovani che è un periodo che bisogna che combattiamo insieme,"
         sequence-12:
           s: 12
           from: "00:01:20,22"
           to: "00:01:28,02"
-          text: "and as much as we can, although it will never be enough, we’re here for them."
+          text: "e noi per quel tanto che possiamo fare, che non sarà mai abbastanza, siamo qui, insomma, ecco."
