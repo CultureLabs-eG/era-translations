@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:01:48,15"
           to: "00:02:02,00"
-          text: "The Gestapo, or policeman, came in and stuck his machinegun into the hole."
+          text: "La Gestapo o la polizia è arrivata e ha infilato la mitragliatrice nel buco."
         sequence-26:
           s: 26
           from: "00:02:02,00"
           to: "00:02:09,01"
-          text: "But he looked in and saw that there was only a child and pulled me out."
+          text: "Ma ha guardato dentro e visto che c'era solo una bambina, e mi ha tirata fuori."
         sequence-27:
           s: 27
           from: "00:02:09,01"
