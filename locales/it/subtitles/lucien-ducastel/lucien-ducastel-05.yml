@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:48,13"
           to: "00:01:55,01"
-          text: "Then they took us to Auschwitz-Birkenau. In Compiègne we were already hostages."
+          text: "Eravamo diretti a Auschwitz-Birkenau, ma a Compiègne eravamo già ostaggi,"
         sequence-15:
           s: 15
           from: "00:01:55,01"
           to: "00:02:04,05"
-          text: "That means when an attack had been, they would come and take some of our comrades."
+          text: "dunque quando avvenivano degli attentati, venivano a cercare dei compagni,"
         sequence-16:
           s: 16
           from: "00:02:04,05"

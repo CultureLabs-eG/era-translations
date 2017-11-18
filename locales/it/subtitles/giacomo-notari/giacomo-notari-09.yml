@@ -153,22 +153,22 @@ it:
           s: 30
           from: "00:02:06,13"
           to: "00:02:14,00"
-          text: "But the Germans would always carry away their casualties."
+          text: "I tedeschi però i loro morti li han sempre portati via, han tribolato magari ma li han sempre portati."
         sequence-31:
           s: 31
           from: "00:02:14,00"
           to: "00:02:20,14"
-          text: "That was the last real battle in our area."
+          text: "E quella fu l’ultima battaglia che ci fu sul territorio,"
         sequence-32:
           s: 32
           from: "00:02:20,14"
           to: "00:02:28,04"
-          text: "After that there were only small attacks, to trucks and so on, but that was the last big battle."
+          text: "quella vera insomma, dopo attacchi qui e là a un camion, così, ci sono sempre stati, però la battaglia frontale, proprio..."
         sequence-33:
           s: 33
           from: "00:02:28,04"
           to: "00:02:37,13"
-          text: "I remember there was also Carretti who was leading a detachment in Primaora, but it was the last battle."
+          text: "Mi ricordo che c'era anche Carretti che aveva un distaccamento in mano a Primaora, fu l’ultima insomma."
         sequence-34:
           s: 34
           from: "00:02:37,13"
@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:02:38,20"
           to: "00:02:39,23"
-          text: "Why should we slip away?"
+          text: "Perché scappare?"
         sequence-36:
           s: 36
           from: "00:02:39,23"
