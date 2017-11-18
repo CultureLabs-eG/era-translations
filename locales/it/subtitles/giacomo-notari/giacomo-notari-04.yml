@@ -188,27 +188,27 @@ it:
           s: 37
           from: "00:03:20,08"
           to: "00:03:30,21"
-          text: "The Goering attacked, we fought back for a day and a half, two days."
+          text: "ci fu l’attacco della Goering. Ci fu una resistenza per un paio di giorni, un giorno e mezzo, due giorni."
         sequence-38:
           s: 38
           from: "00:03:30,21"
           to: "00:03:34,06"
-          text: "Then there was a disbandment,"
+          text: "E poi alla fine ci fu lo sbandamento"
         sequence-39:
           s: 39
           from: "00:03:34,06"
           to: "00:03:39,03"
-          text: "because it’s really hard to resist against an attack"
+          text: "perché una divisione tedesca anche abbastanza corazzata con autoblindo, artiglieria,"
         sequence-40:
           s: 40
           from: "00:03:39,03"
           to: "00:03:50,04"
-          text: "from a German division with armoured vehicles, artillery, small airplanes, special forces."
+          text: "piccoli aerei, truppe specializzate, diventa difficile resistere a un attacco di questo genere."
         sequence-41:
           s: 41
           from: "00:03:50,04"
           to: "00:03:56,13"
-          text: "Maybe it wasn’t even right to fight back as we did,"
+          text: "Poi forse ripensandoci adesso non era neanche giusto resistere a quella maniera lì,"
         sequence-42:
           s: 42
           from: "00:03:56,13"

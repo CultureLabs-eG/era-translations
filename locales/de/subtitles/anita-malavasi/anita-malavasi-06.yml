@@ -108,12 +108,12 @@ de:
           s: 21
           from: "00:02:05,17"
           to: "00:02:11,14"
-          text: "You had a gun, I only had a basket of eggs in my hand”. I was very mean."
+          text: "Sie hatten ein Gewehr, ich hatte nur einen Korb mit Eiern in der Hand.\" Ich war sehr gemein."
         sequence-22:
           s: 22
           from: "00:02:11,14"
           to: "00:02:18,16"
-          text: "So he said I was right, and took back what he had stated."
+          text: "Also sagte er, ich hätte Recht und nahm zurück, was er gesagt hatte."
         sequence-23:
           s: 23
           from: "00:02:18,16"

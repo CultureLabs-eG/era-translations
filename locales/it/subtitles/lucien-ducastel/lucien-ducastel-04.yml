@@ -72,7 +72,7 @@ it:
           s: 13
           from: "00:01:24,08"
           to: "00:01:35,29"
-          text: "Petit Quevilly was a little town of 20,000 inhabitants and the police knew everyone, especially those they shouldn’t have known."
+          text: "Petit Quevilly è una città di 20.000 abitanti, la polizia conosceva tutti, soprattutto quelli che non doveva conoscere."
         sequence-14:
           s: 14
           from: "00:01:35,29"
