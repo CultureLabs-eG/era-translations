@@ -163,12 +163,12 @@ it:
           s: 32
           from: "00:02:36,06"
           to: "00:02:39,02"
-          text: "I had to step right over their heads."
+          text: "Ho dovuto camminare sulla sua testa."
         sequence-33:
           s: 33
           from: "00:02:39,02"
           to: "00:02:46,06"
-          text: "E ho ancora la memoria esatta di quegli occhi, come li ho visti quella volta."
+          text: "E ho ancora il ricordo esatto di quegli occhi, come li ho visti quella volta."
         sequence-34:
           s: 34
           from: "00:02:46,06"
