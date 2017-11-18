@@ -153,12 +153,12 @@ it:
           s: 30
           from: "00:02:26,00"
           to: "00:02:28,08"
-          text: "One of them was not dead, yet."
+          text: "Uno di loro non era ancora morto,"
         sequence-31:
           s: 31
           from: "00:02:28,08"
           to: "00:02:36,06"
-          text: "He begged to be shot again and was looking at us pleadingly."
+          text: "e pregava di esser fucilato e ci stava guardando con sguardo supplichevole."
         sequence-32:
           s: 32
           from: "00:02:36,06"
