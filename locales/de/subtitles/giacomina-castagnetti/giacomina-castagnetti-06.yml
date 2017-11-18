@@ -88,12 +88,12 @@ de:
           s: 17
           from: "00:01:41,12"
           to: "00:01:48,00"
-          text: "um einen Vorteil aus der Kriegsindustrie zu ziehen. Du musst dir vorstellen die Männer waren im Krieg"
+          text: "um einen Vorteil aus der Kriegsindustrie zu ziehen. Sie müssen sich vorstellen: Die Männer waren im Krieg"
         sequence-18:
           s: 18
           from: "00:01:48,00"
           to: "00:01:54,10"
-          text: "während die Frauen zu hause blieben um die Kinder zu hüten und sich um die Familie zu kümmern."
+          text: "während die Frauen zu Hause blieben um die Kinder zu hüten und sich um die Familie zu kümmern."
         sequence-19:
           s: 19
           from: "00:01:54,10"
@@ -113,7 +113,7 @@ de:
           s: 22
           from: "00:02:08,10"
           to: "00:02:27,02"
-          text: "With two of my friends, those in the picture, we took an old flag. I don’t know where we found it, but we left on our bicycles."
+          text: "Mit zwei meiner Freunde, die in diesem Bild, nahmen wir eine alte Flagge. Ich weiß nicht wo wir sie gefunden haben, aber wir nahmen unsere Fahrräder."
         sequence-23:
           s: 23
           from: "00:02:27,02"

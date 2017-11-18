@@ -143,7 +143,7 @@ de:
           s: 28
           from: "00:03:30,07"
           to: "00:03:36,26"
-          text: "Man schickte mich in ein „maquis“ in Corèse."
+          text: "Man schickte mich in eine „Maquis“ in Corèse."
         sequence-29:
           s: 29
           from: "00:03:36,26"
@@ -158,7 +158,7 @@ de:
           s: 31
           from: "00:03:51,11"
           to: "00:04:00,27"
-          text: "Das „maquis“ war umstellt, nachdem sie einen deutschen Zug mit Deportierten entgleisen ließen."
+          text: "Die „Maquis“ war umstellt, nachdem sie einen deutschen Zug mit Deportierten entgleisen ließen."
         sequence-32:
           s: 32
           from: "00:04:00,27"
@@ -168,12 +168,12 @@ de:
           s: 33
           from: "00:04:02,20"
           to: "00:04:11,29"
-          text: "Ich wurde bereits mehrmals mit meinen gefälschten Papieren von der Polizei kontrolliert"
+          text: "Ich hatte gefälschte Papiere und wurde bereits mehrmals von der Polizei kontrolliert."
         sequence-34:
           s: 34
           from: "00:04:11,29"
           to: "00:04:18,02"
-          text: "and realized that the situation was getting dangerous."
+          text: "Ich realisierte, dass die Situation gefährlich wurde."
         sequence-35:
           s: 35
           from: "00:04:18,02"

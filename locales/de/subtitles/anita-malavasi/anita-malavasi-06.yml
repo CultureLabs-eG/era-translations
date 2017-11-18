@@ -23,17 +23,17 @@ de:
           s: 4
           from: "00:00:23,17"
           to: "00:00:28,18"
-          text: "Er war der Cousin des Stellvertreters."
+          text: "Er war der Cousin des Stellvertreters"
         sequence-5:
           s: 5
           from: "00:00:28,18"
           to: "00:00:35,29"
-          text: "of the central headquarters of the partisans operating in the mountains."
+          text: "des zentralen Hauptsitzes der Partisanen, die in den Bergen operierten."
         sequence-6:
           s: 6
           from: "00:00:35,29"
           to: "00:00:41,10"
-          text: "I was questioned very harshly. They were accusing me."
+          text: "Ich wurde sehr hart befragt. Sie beschuldigten mich."
         sequence-7:
           s: 7
           from: "00:00:41,10"
