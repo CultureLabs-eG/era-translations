@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:02:56,03"
           to: "00:02:59,16"
-          text: "I was such a lively and inquisitive child."
+          text: "Ero una bambina così irrequieta e curiosa, era la cosa più difficile."
         sequence-40:
           s: 40
           from: "00:02:59,16"
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:01,17"
           to: "00:03:07,21"
-          text: "There was nothing to play with either."
+          text: "Rimanere tranquilla il giorno intero, senza nulla con cui giocare."
         sequence-42:
           s: 42
           from: "00:03:07,21"

@@ -173,7 +173,7 @@ en:
           s: 34
           from: "00:04:20,09"
           to: "00:04:27,26"
-          text: "Then I’d have to leave already the next day or night."
+          text: "Then I’d have to leave the next day or night."
         sequence-35:
           s: 35
           from: "00:04:27,26"
@@ -183,7 +183,7 @@ en:
           s: 36
           from: "00:04:29,15"
           to: "00:04:39,20"
-          text: "It was with strangers that I was staying when finally,"
+          text: "I was staying with strangers when,"
         sequence-37:
           s: 37
           from: "00:04:39,20"
@@ -198,7 +198,7 @@ en:
           s: 39
           from: "00:04:54,22"
           to: "00:05:11,25"
-          text: "that one afternoon my friend Neda Grzinic came to see me."
+          text: "that one afternoon my friend Neda Grzinic finally came to see me."
         sequence-40:
           s: 40
           from: "00:05:11,25"
