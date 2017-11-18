@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:00,26"
           to: "00:00:04,24"
-          text: "One night we went to Acqua Bona with Carretti"
+          text: "Una sera siamo andati ad Acquabona con Carretti,"
         sequence-2:
           s: 2
           from: "00:00:04,24"
           to: "00:00:12,05"
-          text: "and many partisans because we had to apprehend a German marshal"
+          text: "con molti partigiani perché si doveva prendere un maresciallo tedesco"
         sequence-3:
           s: 3
           from: "00:00:12,05"
