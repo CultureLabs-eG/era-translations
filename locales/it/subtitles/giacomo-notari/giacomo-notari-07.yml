@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:02:39,18"
           to: "00:02:41,24"
-          text: "After that I took him to Ligonchio,"
+          text: "E poi l’ho accompagnato a Ligonchio"
         sequence-42:
           s: 42
           from: "00:02:41,24"
@@ -218,12 +218,12 @@ it:
           s: 43
           from: "00:02:43,03"
           to: "00:02:49,11"
-          text: "and a comrade from Busana told me afterwards that he guided him and two other Germans who were already there"
+          text: "che dopo mi ha raccontato uno di Busana che l’ha accompagnato lui insieme a altri due tedeschi che erano già lì..."
         sequence-44:
           s: 44
           from: "00:02:49,11"
           to: "00:02:56,13"
-          text: "to Silano and through the front, to the Allies."
+          text: "Li ha accompagnati a Silano e gli hanno fatto passare il fronte e sono andati con gli alleati, insomma ecco."
         sequence-45:
           s: 45
           from: "00:02:56,13"

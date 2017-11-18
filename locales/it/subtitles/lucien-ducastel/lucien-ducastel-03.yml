@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:02:02,12"
           to: "00:02:15,00"
-          text: "Dovevamo stare attentissimi, in primo luogo per proteggere questi compagni, e poi anche per poter continuare a fare queste cose."
+          text: "Dovevamo stare attentissimi, in primo luogo per proteggere questi compagni, e poi per poter continuare a fare queste cose."
         sequence-22:
           s: 22
           from: "00:02:15,00"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:15,24"
           to: "00:02:23,29"
-          text: "Ci organizzavamo tra di noi. All'inizio abbiamo cercato dei posti che ci permettessero di incontrarci clandestinamente, diciamo,"
+          text: "Ci organizzavamo tra di noi. All'inizio abbiamo cercato dei posti per incontrarci clandestinamente,"
         sequence-24:
           s: 24
           from: "00:02:23,29"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:02:36,14"
           to: "00:02:48,10"
-          text: "Ci vedevamo o in una cantina o da amici che non erano conosciuti per la loro attività politica ma pronti ad aiutarci."
+          text: "Ci incontravamo o in una cantina oppure da amici che non erano conosciuti per la loro attività politica ma erano pronti ad aiutarci."
         sequence-27:
           s: 27
           from: "00:02:48,10"
           to: "00:02:55,16"
-          text: "Ci ricevevano, noi arrivavamo chi a un'ora chi a un'altra. Sempre a orari diversi."
+          text: "Ci ricevevano, noi arrivavamo, chi a un'ora chi a un'altra. Sempre a orari diversi."
         sequence-28:
           s: 28
           from: "00:02:55,16"
