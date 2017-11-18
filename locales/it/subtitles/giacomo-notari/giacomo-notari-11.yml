@@ -38,27 +38,27 @@ it:
           s: 7
           from: "00:00:20,15"
           to: "00:00:23,25"
-          text: "Then we all know how the story went,"
+          text: "Dopo è andata a finire come è andata a finire,"
         sequence-8:
           s: 8
           from: "00:00:23,25"
           to: "00:00:30,26"
-          text: "but the communist principles, just like the Christian principles, are two sets of values that just can’t fail."
+          text: "ma il principio comunista come il principio cristiano sono due principi che sono i... non possono fallire."
         sequence-9:
           s: 9
           from: "00:00:30,26"
           to: "00:00:36,10"
-          text: "Mankind must head in this direction in order to survive, otherwise we will end up in the dust."
+          text: "L’umanità deve andare in quella strada lì se vuole sopravvivere, se no finiscono nella cenere."
         sequence-10:
           s: 10
           from: "00:00:36,10"
           to: "00:00:41,21"
-          text: "Having said this, there’s a message I’ve always told the priests too:"
+          text: "Detto questo, è un mesaggio che l'ho sempre detto anche coi preti:"
         sequence-11:
           s: 11
           from: "00:00:41,21"
           to: "00:00:48,06"
-          text: "communist and Catholic family…"
+          text: "comunista, una famiglia cattolica, comunista, guarda famiglia cattolica..."
         sequence-12:
           s: 12
           from: "00:00:48,06"

@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:17,29"
           to: "00:00:31,24"
-          text: "Là vivevano i figli di Katarina Sluga: Michael Sluga, Karl Paulitsch e Franz Rotter."
+          text: "Là vivevano Michael Sluga, Karl Paulitsch e Franz Rotter, i figli di Katarina Sluga."
         sequence-6:
           s: 6
           from: "00:00:31,24"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:59,25"
           to: "00:01:14,14"
-          text: "Nel 1943 si fece pericoloso. Katarina Sluga fuggì, raggiungendo i partigiani."
+          text: "Nel 1943 era diventato pericoloso. Katarina Sluga fuggì, raggiungendo i partigiani."
         sequence-12:
           s: 12
           from: "00:01:14,14"
