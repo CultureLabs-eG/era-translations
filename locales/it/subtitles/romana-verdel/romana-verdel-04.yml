@@ -248,7 +248,7 @@ it:
           s: 49
           from: "00:03:42,08"
           to: "00:03:48,22"
-          text: "But we only got a little piece and one or two mouths full of milk."
+          text: "E invece ce ne diedero solo un pezzetto e uno o due sorsi di latte."
         sequence-50:
           s: 50
           from: "00:03:48,22"
@@ -258,7 +258,7 @@ it:
           s: 51
           from: "00:03:50,08"
           to: "00:03:53,03"
-          text: "I was so disappointed. I thought:"
+          text: "Ero così delusa. Ho pensato:"
         sequence-52:
           s: 52
           from: "00:03:53,03"
@@ -343,7 +343,7 @@ it:
           s: 68
           from: "00:04:56,29"
           to: "00:05:01,04"
-          text: "The main thing was that it was warm and safe there."
+          text: "L'importante era che fosse caldo e al sicuro,"
         sequence-69:
           s: 69
           from: "00:05:01,04"

@@ -2,13 +2,13 @@ it:
   giacomo-notari:
     chapter-11:
       c: 11
-      title: "Why Giacomo entered the comunist party"
+      title: "Iscrizione al Partito Comunista"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:03,23"
-          text: "Now we might laugh about this, but when you talked about Russia then,"
+          text: "Adesso si scherza, ma il parlare della Russia allora,"
         sequence-2:
           s: 2
           from: "00:00:03,23"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:04,16"
           to: "00:00:07,24"
-          text: "about a country that carried out a revolution,"
+          text: "il parlare di un paese che ha fatto una rivoluzione,"
         sequence-4:
           s: 4
           from: "00:00:07,24"
