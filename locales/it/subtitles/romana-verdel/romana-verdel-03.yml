@@ -103,12 +103,12 @@ it:
           s: 20
           from: "00:01:47,27"
           to: "00:01:53,10"
-          text: "We weren’t allowed to cough or to go out to the loo."
+          text: "Però non potevamo tossire o andare al bagno, ed era piuttosto brutto."
         sequence-21:
           s: 21
           from: "00:01:53,10"
           to: "00:02:02,00"
-          text: "We could always hear people walk around outside, but we didn’t know whether they were Gestapo or partisans."
+          text: "E sentivamo sempre la gente camminare là fuori, senza sapere se fossero della Gestapo o i partigiani."
         sequence-22:
           s: 22
           from: "00:02:02,00"

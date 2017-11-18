@@ -43,12 +43,12 @@ en:
           s: 8
           from: "00:01:03,18"
           to: "00:01:18,15"
-          text: "I turned to him to say the code – Matija sends me from Ljubljana. He responded – Vremscica."
+          text: "I turned to him to say the code – \"Matija sends me from Ljubljana.\" He responded – \"Vremscica.\""
         sequence-9:
           s: 9
           from: "00:01:18,15"
           to: "00:01:31,26"
-          text: "At the time I didn’t know what Vremscica was. After WWII I became a mountaineer and hiked up Vremscica many times."
+          text: "At the time I didn’t know what Vremscica was. After WWII, I became a mountaineer and hiked up Vremscica many times."
         sequence-10:
           s: 10
           from: "00:01:31,26"
