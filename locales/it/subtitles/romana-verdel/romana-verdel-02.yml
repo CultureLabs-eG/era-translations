@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:20,21"
           to: "00:00:24,14"
-          text: "“Vi prego, non guardate fuori dalla finestra e rimanete tranquilli.”"
+          text: "“Ora non guardate fuori dalla finestra e rimanete tranquilli.”"
         sequence-7:
           s: 7
           from: "00:00:24,14"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:26,05"
           to: "00:00:31,11"
-          text: "Ma noi bambini non l'abbiamo capito  e non siamo rimasti tranquilli."
+          text: "Ma noi bambini non l'abbiamo capito e non siamo rimasti tranquilli."
         sequence-9:
           s: 9
           from: "00:00:31,11"
@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:00:53,16"
           to: "00:00:56,17"
-          text: "Allora andarono alla casa dei vicini"
+          text: "Allora raggiunsero la casa dei vicini"
         sequence-15:
           s: 15
           from: "00:00:56,17"
           to: "00:01:02,29"
-          text: "dopo ciò, e ci fu una discussione nel cortile."
+          text: "e ci fu una discussione nel cortile"
         sequence-16:
           s: 16
           from: "00:01:02,29"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:01:52,28"
           to: "00:01:59,17"
-          text: "Era malata di scabbia, una malattia contagiosa."
+          text: "Era malata di una malattia contagiosa, la scabbia."
         sequence-28:
           s: 28
           from: "00:01:59,17"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:02:10,01"
           to: "00:02:14,06"
-          text: "Così lei andò dalla vicina."
+          text: "Anche lei è rimasta là ed è andata dalla vicina."
         sequence-31:
           s: 31
           from: "00:02:14,06"
@@ -163,12 +163,12 @@ it:
           s: 32
           from: "00:02:16,18"
           to: "00:02:25,26"
-          text: "La vicina disse che non potevamo rimanere con lei, perché aveva già cinque bambini suoi"
+          text: "La vicina ci disse che non potevamo rimanere da lei, perché aveva già cinque bambini suoi"
         sequence-33:
           s: 33
           from: "00:02:25,26"
           to: "00:02:28,29"
-          text: "e lei stessa era da sola con loro."
+          text: "ed era rimasta lei stessa sola, con loro cinque."
         sequence-34:
           s: 34
           from: "00:02:28,29"
@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:02:53,25"
           to: "00:02:57,25"
-          text: "in direzione di Klagenfurt e da lì verso diversi campi di concentramento."
+          text: "prima a Klagenfurt e da lì verso diversi campi di concentramento."
         sequence-40:
           s: 40
           from: "00:02:57,25"
@@ -213,7 +213,7 @@ it:
           s: 42
           from: "00:03:03,20"
           to: "00:03:14,14"
-          text: "Morì a Dachau, mentre sua figlia e la contadina tornarono."
+          text: "Morì a Dachau, mentre sua figlia e la domestica tornarono."
         sequence-43:
           s: 43
           from: "00:03:14,14"
