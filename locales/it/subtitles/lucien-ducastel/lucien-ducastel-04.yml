@@ -95,7 +95,7 @@ it:
           s: 18
           from: "00:02:02,16"
           to: "00:02:15,04"
-          text: "Hanno bussato alla porta, mio padre non ha fatto in tempo ad aprire che loro erano già saliti in mansarda, dove dormivo."
+          text: "Hanno bussato alla porta, mio padre non ha fatto in tempo ad aprire che loro erano già saliti in mansarda, dove dormivo io."
         sequence-19:
           s: 19
           from: "00:02:15,04"

@@ -8,7 +8,7 @@ en:
           s: 1
           from: "00:00:00,11"
           to: "00:00:08,18"
-          text: "As soon as my father was taken away, I began to sleep elsewhere."
+          text: "As soon as my father was taken, I began to sleep elsewhere."
         sequence-2:
           s: 2
           from: "00:00:08,18"
@@ -18,7 +18,7 @@ en:
           s: 3
           from: "00:00:15,12"
           to: "00:00:29,11"
-          text: "they wouldn’t let me go underground because it might evoke my family having to pay for it."
+          text: "they wouldn’t let me go underground because it might cause repercussions for them."
         sequence-4:
           s: 4
           from: "00:00:29,11"

@@ -138,17 +138,17 @@ it:
           s: 27
           from: "00:01:42,12"
           to: "00:01:48,18"
-          text: "I took his rifle and he didn’t want to give me his shotgun:"
+          text: "alza le mani e io prendo il fucile e poi non mi voleva dare la rivoltella."
         sequence-28:
           s: 28
           from: "00:01:48,18"
           to: "00:01:53,18"
-          text: "I could have left it to him, keeping him in front of me, but it’s always better to be careful."
+          text: "Potevo anche lasciargliela, lasciarlo davanti, però è sempre meglio essere prudenti."
         sequence-29:
           s: 29
           from: "00:01:53,18"
           to: "00:01:57,00"
-          text: "I took the gun and I brought him home."
+          text: "Allora ce l’ho preso e l'ho portato a casa mia."
         sequence-30:
           s: 30
           from: "00:01:57,00"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:01:58,16"
           to: "00:02:02,24"
-          text: "I guess the Germans were really longing for some milk."
+          text: "Si vede che avevano una gran voglia di latte, i tedeschi,"
         sequence-32:
           s: 32
           from: "00:02:02,24"
