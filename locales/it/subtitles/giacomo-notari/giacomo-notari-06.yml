@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:09,25"
           to: "00:00:10,27"
-          text: ~
+          text: ""
         sequence-3:
           s: 3
           from: "00:00:10,27"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:38,10"
           to: "00:00:39,11"
-          text: ~
+          text: ""
         sequence-8:
           s: 8
           from: "00:00:39,11"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:44,12"
           to: "00:00:47,18"
-          text: ~
+          text: ""
         sequence-10:
           s: 10
           from: "00:00:47,18"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:26,09"
           to: "00:01:27,13"
-          text: ~
+          text: ""
         sequence-17:
           s: 17
           from: "00:01:27,13"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:41,14"
           to: "00:01:42,14"
-          text: ~
+          text: ""
         sequence-20:
           s: 20
           from: "00:01:42,14"
@@ -108,17 +108,17 @@ it:
           s: 21
           from: "00:01:49,07"
           to: "00:01:55,26"
-          text: "Stopping them from getting to the front 24 hours earlier during the attack,"
+          text: "Perché poi impedire alle truppe di arrivare 24 ore prima al fronte quando c’è l’offensiva"
         sequence-22:
           s: 22
           from: "00:01:55,26"
           to: "00:02:03,15"
-          text: "and forcing them to dig the mountain, build a horse-shoe in order to be able to get through:"
+          text: "e hanno dovuto dopo zappare il monte e fare un ferro di cavallo a monte per poter passare insomma,"
         sequence-23:
           s: 23
           from: "00:02:03,15"
           to: "00:02:08,09"
-          text: ~
+          text: "però intanto devi farlo, e devi farlo con delle zappe, non è che c’erano delle ruspe allora."
         sequence-24:
           s: 24
           from: "00:01:26,16"

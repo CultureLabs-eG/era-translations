@@ -148,7 +148,7 @@ de:
           s: 29
           from: "00:04:28,20"
           to: "00:04:37,27"
-          text: "Today more than ever it is necessary to do this work, because in Europe"
+          text: "Es ist heute mehr denn je notwendig, diese Arbeit zu machen,"
         sequence-30:
           s: 30
           from: "00:04:37,27"
@@ -158,17 +158,17 @@ de:
           s: 31
           from: "00:04:45,00"
           to: "00:04:55,02"
-          text: "because in Europe there is a dangerous rise of fascism."
+          text: "weil es in Europa einen gefährlichen Aufstieg von Faschismus gibt."
         sequence-32:
           s: 32
           from: "00:04:55,02"
           to: "00:05:01,10"
-          text: "Let us remember that Hitler got to power legally."
+          text: "Erinnern wir uns daran, dass Hitler rechtmäßig an die Macht kam."
         sequence-33:
           s: 33
           from: "00:05:01,10"
           to: "00:05:11,17"
-          text: "Nowadays, there a few European countries that have a right-extremist government."
+          text: "Heute gibt es einige europäische Länder, die eine rechtsextreme Regierung haben."
         sequence-34:
           s: 34
           from: "00:05:11,17"
@@ -178,7 +178,7 @@ de:
           s: 35
           from: "00:05:12,09"
           to: "00:05:24,14"
-          text: "It might seem pretentious but we think we have not finished our work."
+          text: "Es mag anmaßend erscheinen, aber wir glauben, dass wir unsere Arbeit nicht beendet haben."
         sequence-36:
           s: 36
           from: "00:05:24,14"
