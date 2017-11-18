@@ -113,12 +113,12 @@ de:
           s: 22
           from: "00:03:17,12"
           to: "00:03:24,25"
-          text: "der mit seiner Brigade in Bois de Boulogne einquartiert war."
+          text: "der mit seiner Panzerbrigade in Bois de Boulogne einquartiert war."
         sequence-23:
           s: 23
           from: "00:03:24,25"
           to: "00:03:31,21"
-          text: "Colonel Rémy ging zum Fort und sie ergaben sich."
+          text: "Colonel Rémy fuhr mit einem Panzer zum Fort und sie ergaben sich."
         sequence-24:
           s: 24
           from: "00:03:31,21"
