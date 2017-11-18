@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:03,26"
           to: "00:01:11,14"
-          text: "Abbiamo distribuito i volantini anche fuori dalle fabbriche, nonostante fossimo  un po' allo scoperto là."
+          text: "Abbiamo distribuito i volantini anche fuori dalle fabbriche, nonostante fossimo un po' allo scoperto là."
         sequence-13:
           s: 13
           from: "00:01:11,14"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:35,04"
           to: "00:01:46,06"
-          text: "E poi c'è anche da parlare del problema della produzione del materiale, perché andava bene distribuirlo ma bisognava anche farlo."
+          text: "E poi c'è anche da parlare del problema della produzione del materiale, perché andava bene distribuirlo, ma bisognava prima farlo."
         sequence-19:
           s: 19
           from: "00:01:46,06"
