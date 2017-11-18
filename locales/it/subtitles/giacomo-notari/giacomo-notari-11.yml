@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:07,24"
           to: "00:00:14,21"
-          text: "where there was a king who was killed, where they were selling the land along with the farmers…"
+          text: "che c’era il re e che l’avevano ammazzato, e che vendevano la terra insieme ai contadini..."
         sequence-5:
           s: 5
           from: "00:00:14,21"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:16,09"
           to: "00:00:20,15"
-          text: "It was an inspirational message for the youth."
+          text: "è un messaggio che ai giovani ti prende, capisci?"
         sequence-7:
           s: 7
           from: "00:00:20,15"
