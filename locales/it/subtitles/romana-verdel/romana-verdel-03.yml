@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:10,02"
           to: "00:01:18,00"
-          text: "She left two of her children, because they were bigger and took the youngest one with her."
+          text: "Il più piccolo se lo portava con sé, i suoi due li lasciava perché erano più grandi,"
         sequence-15:
           s: 15
           from: "00:01:18,00"
           to: "00:01:22,26"
-          text: "So there were the two of us and the cousin."
+          text: "e poi c'eravamo noi due con la cugina."
         sequence-16:
           s: 16
           from: "00:01:22,26"

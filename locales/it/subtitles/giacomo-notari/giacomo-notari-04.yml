@@ -293,12 +293,12 @@ it:
           s: 58
           from: "00:05:12,29"
           to: "00:05:16,10"
-          text: "Sure, there were moments we were afraid,"
+          text: "Paura, ci sono dei momenti che abbiamo avuto anche paura sì."
         sequence-59:
           s: 59
           from: "00:05:16,10"
           to: "00:05:21,26"
-          text: "but actually, it was more about being irresponsible than afraid."
+          text: "Però ti dirò che proprio una paura... ho avuto più incoscenza che altro."
         sequence-60:
           s: 60
           from: "00:05:21,26"
@@ -308,12 +308,12 @@ it:
           s: 61
           from: "00:05:22,23"
           to: "00:05:28,22"
-          text: "When I think about it now, I realize that we could have done so much more without that much efforts and dangers."
+          text: "Perché quando ci ripenso si potevan fare tante cose in più, con meno fatica e con meno pericolo."
         sequence-62:
           s: 62
           from: "00:05:28,22"
           to: "00:05:38,23"
-          text: "I’ve been afraid one night because I had never heard this German machine gun shoot,"
+          text: "Ho avuto paura una sera perché non avevo mai sentito sparare questa mitraglia tedesca,"
         sequence-63:
           s: 63
           from: "00:05:38,23"
