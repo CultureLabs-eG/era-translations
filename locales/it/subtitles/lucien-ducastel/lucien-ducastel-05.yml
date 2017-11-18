@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,12"
           to: "00:00:06,17"
-          text: "Era da un po' di tempo che la polizia mi seguiva. "
+          text: "Era da un po' che la polizia mi seguiva. "
         sequence-2:
           s: 2
           from: "00:00:06,17"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:14,23"
           to: "00:00:20,24"
-          text: "ero conosciuto e venivo osservato."
+          text: "mi conoscevano e mi osservavano."
         sequence-4:
           s: 4
           from: "00:00:20,24"
@@ -190,4 +190,4 @@ it:
           s: 37
           from: "00:04:39,22"
           to: "00:04:48,00"
-          text: "We had to learn it in German and in Polish, not easy. But we had to learn it quickly."
+          text: "E dovevamo farlo in tedesco e polacco. Non era facile, ma così è stato perché di alternative non ce n'erano."

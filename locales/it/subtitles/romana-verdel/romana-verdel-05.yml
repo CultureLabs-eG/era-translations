@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:15,27"
           to: "00:01:24,26"
-          text: "Perché poi la zia ha continuato, là a Ojstra, in Carinzia, vicino Eisenkappel,"
+          text: "Perché poi la zia ha proseguito fino ad un bunker a Ojstra, in Carinzia, vicino Eisenkappel,"
         sequence-17:
           s: 17
           from: "00:01:24,26"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:26,03"
           to: "00:01:31,25"
-          text: "Ci fu un tradimento e la uccisero. Le spararono."
+          text: "Là cii fu un tradimento e la uccisero. Le spararono."
         sequence-19:
           s: 19
           from: "00:01:31,25"
