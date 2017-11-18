@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:19,17"
           to: "00:00:23,19"
-          text: "It was hot then, they used to sing it on the radio."
+          text: "“O che bel fiore, o che bel fiore...” e così via, che era di voga allora, la cantavano alla radio quei tempi lì insomma."
         sequence-4:
           s: 4
           from: "00:00:23,19"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:24,26"
           to: "00:00:32,03"
-          text: "“Oh what a pretty flower, oh what a pretty flower”."
+          text: "“La luna, le stelle parlavano d’amore, o che bel fiore, o che bel fiore” proprio questa motivazione."
         sequence-6:
           s: 6
           from: "00:00:32,03"
