@@ -13,7 +13,7 @@ de:
           s: 2
           from: "00:00:07,27"
           to: "00:00:19,10"
-          text: "The German officers all left for Mont Valérien, the only place they felt safe."
+          text: "Die deutschen Offiziere waren alle nach Mont Valérien geflohen, den einzigen Ort an dem sie sich sicher fühlten."
         sequence-3:
           s: 3
           from: "00:00:19,10"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:22,10"
           to: "00:00:30,02"
-          text: "The Liberation Committee was installed."
+          text: "Das Comité de Libération wurde einberufen."
         sequence-5:
           s: 5
           from: "00:00:30,02"
@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:40,08"
           to: "00:00:52,26"
-          text: "Mont Valérien is a fort from the time before the Paris Commune."
+          text: "Mont Valérien ist ein Fort aus der Zeit vor der Pariser Kommune."
         sequence-7:
           s: 7
           from: "00:00:52,26"
@@ -43,7 +43,7 @@ de:
           s: 8
           from: "00:00:55,13"
           to: "00:01:09,03"
-          text: "There the resistance fighters were shot. Each time the resistance attacked the German troops."
+          text: "Dort wurden Widerstandskämpfer erschossen. Jedes mal wenn die Réstistance Deutsche Truppen angriff."
         sequence-9:
           s: 9
           from: "00:01:09,03"

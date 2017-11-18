@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:12,29"
           to: "00:01:23,00"
-          text: "I have to say that their knowledge, their political culture was quite limited."
+          text: "Commissario sì come nome, però come capacità, come cultura politica era un po’ limitata, bisogna riconoscerlo."
         sequence-15:
           s: 15
           from: "00:01:23,00"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:24,06"
           to: "00:01:29,14"
-          text: "I couldn’t live my life anywhere else, I would really have a hard time."
+          text: "Io la mia vita non riuscirei a farla da un’altra parte, sarebbe molto dura proprio."
         sequence-17:
           s: 17
           from: "00:01:29,14"
@@ -93,17 +93,17 @@ it:
           s: 18
           from: "00:01:30,21"
           to: "00:01:33,17"
-          text: "That’s how I felt during the war too."
+          text: "E l’ho vissuta così anche durante la guerra insomma."
         sequence-19:
           s: 19
           from: "00:01:33,17"
           to: "00:01:39,29"
-          text: "We even slept in beech-trees, I could say it was a beautiful experience."
+          text: "Abbiamo dormito anche nei faggi, con le foglie, per me è stato anche bello, un’esperienza."
         sequence-20:
           s: 20
           from: "00:01:39,29"
           to: "00:01:48,02"
-          text: "Looking at today’s consumerism, I also understood that men need only a few things to live."
+          text: "Ho anche capito per esempio guardando il consumismo di adesso con quante poche cose possa vivere un uomo, davvero,"
         sequence-21:
           s: 21
           from: "00:01:48,02"
