@@ -160,7 +160,7 @@ it:
           s: 31
           from: "00:04:12,13"
           to: "00:04:21,04"
-          text: "They gave us striped uniforms and took pictures of us."
+          text: "Ci hanno preso delle fotografie, ci hanno dato gli abiti a righe."
         sequence-32:
           s: 32
           from: "00:04:21,04"
