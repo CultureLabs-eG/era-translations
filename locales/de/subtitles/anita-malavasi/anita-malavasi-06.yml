@@ -228,17 +228,17 @@ de:
           s: 45
           from: "00:04:26,26"
           to: "00:04:32,26"
-          text: "“Now you’re going away, too, and I’ll stay home with your sister, a ten year old girl."
+          text: "\"Jetzt wirst du auch gehen und ich bleibe zuhause mit deiner Schwester, einem zehnjährigen Mädchen."
         sequence-46:
           s: 46
           from: "00:04:32,26"
           to: "00:04:37,12"
-          text: "But I think that you made the right choice."
+          text: "Aber ich glaube, du hast die richtige Wahl getroffen."
         sequence-47:
           s: 47
           from: "00:04:37,12"
           to: "00:04:47,21"
-          text: "At least you’ll have a chance to save and defend yourself, unlike us who will end up like mice trapped at home."
+          text: "Wenigstens wirst du eine Chance haben, dich zu retten und zu verteidigen. Nich wie wir, die hier wie Mäuse zuhause gefangen sein werden."
         sequence-48:
           s: 48
           from: "00:04:47,21"

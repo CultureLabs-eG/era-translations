@@ -112,7 +112,7 @@ it:
           s: 21
           from: "00:02:30,02"
           to: "00:02:40,28"
-          text: "They took us to Rouen and started interrogating us, asking us various questions."
+          text: "Ci hanno arrestati e portati a Rouen,"
         sequence-22:
           s: 22
           from: "00:02:40,28"
