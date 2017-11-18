@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:02:33,18"
           to: "00:02:38,23"
-          text: "I don’t know how long we lived in this bunker."
+          text: "In questo bunker non so per quanto tempo abbiamo vissuto,"
         sequence-35:
           s: 35
           from: "00:02:38,23"
@@ -183,17 +183,17 @@ it:
           s: 36
           from: "00:02:40,12"
           to: "00:02:44,27"
-          text: "It was cold and dark."
+          text: "ed era molto freddo e buio,"
         sequence-37:
           s: 37
           from: "00:02:44,27"
           to: "00:02:51,01"
-          text: "There was not a lot to eat and we had to be quiet."
+          text: "da mangiare ce n'era troppo poco, e dovevamo rimanere in silenzio."
         sequence-38:
           s: 38
           from: "00:02:51,01"
           to: "00:02:56,03"
-          text: "Not being allowed to talk was very hard for me."
+          text: "Non poter parlare per me era davvero brutto."
         sequence-39:
           s: 39
           from: "00:02:56,03"
