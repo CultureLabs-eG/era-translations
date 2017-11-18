@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:01:23,16"
           to: "00:01:27,02"
-          text: "It was an organized activity."
+          text: "Es war eine organisierte Arbeit."
         sequence-16:
           s: 16
           from: "00:01:27,02"
