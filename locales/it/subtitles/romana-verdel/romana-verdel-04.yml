@@ -28,17 +28,17 @@ it:
           s: 5
           from: "00:00:15,15"
           to: "00:00:19,28"
-          text: "The older ones already knew, but the little ones didn’t."
+          text: "I più grandi già sapevano dove saremmo andati, ma i piccoli no."
         sequence-6:
           s: 6
           from: "00:00:19,28"
           to: "00:00:22,11"
-          text: "She said: “Well, we are going to church.”"
+          text: "E lei: \"Beh, andiamo in chiesa.\""
         sequence-7:
           s: 7
           from: "00:00:22,11"
           to: "00:00:27,01"
-          text: "So we asked: “At night? Why are we going to church at night?"
+          text: "E noi: \"In chiesa di notte? Perché andiamo in chiesa di notte?\""
         sequence-8:
           s: 8
           from: "00:00:27,01"

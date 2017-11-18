@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:11,29"
           to: "00:01:15,23"
-          text: "We had put some mines on the road,"
+          text: "Noi però avevamo messo delle mine nella strada,"
         sequence-17:
           s: 17
           from: "00:01:15,23"
           to: "00:01:24,25"
-          text: "so that if we had to fight, the soldiers who came down from Nismozza would walk into the mines."
+          text: "proprio perché abbiamo detto: se viene uno scontro per evitare che i soldati di Nismozza scendessero giù e... andavano sulle mine."
         sequence-18:
           s: 18
           from: "00:01:24,25"
@@ -98,14 +98,14 @@ it:
           s: 19
           from: "00:01:25,21"
           to: "00:01:33,27"
-          text: "While the marshal was walking around to see what was happening, we solved the problem: he blew up on a mine."
+          text: "Allora lui mentre passeggiava nella strada per vedere un po’ che cosa stava succedendo, abbiamo risolto il problema... che è saltato per aria."
         sequence-20:
           s: 20
           from: "00:01:33,27"
           to: "00:01:41,06"
-          text: "We were supposed to take him alive, but we got him dead, the marshal and the soldier as well."
+          text: "Se si doveva prendere vivo così l’hanno preso morto ed è saltato lui ed è saltato anche il soldato."
         sequence-21:
           s: 21
           from: "00:01:41,06"
           to: "00:01:45,05"
-          text: "Then we had to back off of course."
+          text: "E allora ci siamo dovuti ovviamente ritirare ecco."
