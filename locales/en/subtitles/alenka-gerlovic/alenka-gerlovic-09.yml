@@ -33,19 +33,19 @@ en:
           s: 6
           from: "00:00:33,15"
           to: "00:00:38,02"
-          text: "One of the most important components"
+          text: "One of the most important features"
         sequence-7:
           s: 7
           from: "00:00:38,02"
           to: "00:00:48,29"
-          text: "of the ‘Central Technique’ (of the Slovene Communist Party Workshop) was the partisan printing press."
+          text: "of the ‘Technical Center’ (of the Slovene Communist Party Workshop) was the partisan printing press."
         sequence-8:
           s: 8
           from: "00:00:48,29"
           to: "00:01:09,14"
-          text: "Partisan printing presses were hidden all over the hills of Kocevski Rog and also Goteniski Sneznik."
+          text: "Partisan printing presses were hidden all throughout the hills of Kocevski Rog and Goteniski Sneznik."
         sequence-9:
           s: 9
           from: "00:01:09,14"
           to: "00:01:20,27"
-          text: "They printed partisan newspapers, brochures and even poetry collections and song-books."
+          text: "They printed partisan newspapers, brochures, and even poetry collections and song-books."

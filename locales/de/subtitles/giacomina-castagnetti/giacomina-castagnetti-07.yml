@@ -53,12 +53,12 @@ de:
           s: 10
           from: "00:00:59,28"
           to: "00:01:07,14"
-          text: "However we were all convinced that something had to be done to change the situation."
+          text: "Nichtsdestotrotz waren wir alle überzeugt, dass etwas getan werden musste, um die Situation zu ändern."
         sequence-11:
           s: 11
           from: "00:01:07,14"
           to: "00:01:11,09"
-          text: "What was the goal that moved us all?"
+          text: "Was war das Ziel das uns alle bewegt hat?"
         sequence-12:
           s: 12
           from: "00:01:11,09"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:01:12,14"
           to: "00:01:20,00"
-          text: "Peace. Fighting for peace, to end the war as soon as possible."
+          text: "Frieden. Streiten für den Frieden, um den Krieg so schnell wie möglich zu beenden."
         sequence-14:
           s: 14
           from: "00:01:20,00"

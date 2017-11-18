@@ -213,12 +213,12 @@ it:
           s: 42
           from: "00:03:56,13"
           to: "00:04:01,29"
-          text: "since guerrilla means attacking and withdrawing, coming back and so on."
+          text: "perché guerriglia voleva dire attaccarli, scappare, attaccarli e scappare e tornare insomma, ecco."
         sequence-43:
           s: 43
           from: "00:04:01,29"
           to: "00:04:11,05"
-          text: "That time however it was decided to fight back jointly. We suffered many casualties in the end."
+          text: "Invece si era voluto quella volta lì, fare un fronte... e poi l’abbiamo anche pagata, perché ci furono molti morti, anche qualche disperso..."
         sequence-44:
           s: 44
           from: "00:04:11,05"
@@ -228,17 +228,17 @@ it:
           s: 45
           from: "00:04:12,13"
           to: "00:04:15,03"
-          text: "Then the Germans took away more than a thousand men:"
+          text: "poi portarono via più di mille uomini, i tedeschi,"
         sequence-46:
           s: 46
           from: "00:04:15,03"
           to: "00:04:28,28"
-          text: "all those who were able to work, and I think also a few women, were sent to Germany."
+          text: "tutti quelli che catturavano che erano in condizione di potere lavorare, li portarono in Germania, e anche qualche... credo solo un paio di donne, ma un migliaio di uomini li hanno portati via."
         sequence-47:
           s: 47
           from: "00:04:28,28"
           to: "00:04:32,23"
-          text: "That time there was a complete disbandment."
+          text: "Perciò lì, ci fu lo sbandamento, uno sbandamento completo."
         sequence-48:
           s: 48
           from: "00:04:32,23"

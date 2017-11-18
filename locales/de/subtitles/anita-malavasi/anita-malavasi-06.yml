@@ -118,22 +118,22 @@ de:
           s: 23
           from: "00:02:18,16"
           to: "00:02:24,06"
-          text: "They asked me to sign the minutes. I couldn’t tell what they wrote on it."
+          text: "Sie baten mich, die Mitschrift zu unterschreiben. Ich konnte nicht erkennen, was sie geschrieben hatten."
         sequence-24:
           s: 24
           from: "00:02:24,06"
           to: "00:02:26,28"
-          text: "My cousin and I signed."
+          text: "Mein Cousin und ich unterschrieben."
         sequence-25:
           s: 25
           from: "00:02:26,28"
           to: "00:02:34,04"
-          text: "Then they told us we could go home, but they wanted to speak to us again the following morning."
+          text: "Dann sagten sie uns, wir könnten nach Hause gehen, aber sie wollten uns am folgenden Morgen wieder sprechen."
         sequence-26:
           s: 26
           from: "00:02:34,04"
           to: "00:02:38,15"
-          text: "So I said: “Listen, I’m afraid to stay at home."
+          text: "Ich sagte: \"Hör mal, ich habe Angst, zu Hause zu bleiben."
         sequence-27:
           s: 27
           from: "00:02:38,15"
