@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:21,00"
           to: "00:00:24,12"
-          text: "Il contadino disse: 'Ma non avete nessuno a far la guardia.'"
+          text: "Il contadino disse: 'Ma non avete sentinelle.'"
         sequence-7:
           s: 7
           from: "00:00:24,12"
