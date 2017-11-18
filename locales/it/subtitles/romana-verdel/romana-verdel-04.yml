@@ -313,12 +313,12 @@ it:
           s: 62
           from: "00:04:30,24"
           to: "00:04:36,17"
-          text: "When we were outside at night I always watched the stars."
+          text: "Quando eravamo fuori, nella notte, guardavo sempre e solo le stelle."
         sequence-63:
           s: 63
           from: "00:04:36,17"
           to: "00:04:41,07"
-          text: "That was the only amusement we had."
+          text: "Almeno era un passatempo, l'unico che avessimo."
         sequence-64:
           s: 64
           from: "00:04:41,07"

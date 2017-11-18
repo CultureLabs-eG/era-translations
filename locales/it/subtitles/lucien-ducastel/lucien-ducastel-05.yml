@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:01:33,05"
           to: "00:01:41,25"
-          text: "On July 6th, 1942 we were taken to a destination unknown."
+          text: "In seguito, il 6 giugno 1942 siamo stati portati via verso una destinazione sconosciuta."
         sequence-12:
           s: 12
           from: "00:01:41,25"

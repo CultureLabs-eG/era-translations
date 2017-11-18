@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:01:19,17"
           to: "00:01:24,18"
-          text: "Later the Germans tried to go take some on our side too,"
+          text: "Poi i tedeschi tentarono di venirne a prendere anche di qua,"
         sequence-20:
           s: 20
           from: "00:01:24,18"
           to: "00:01:32,21"
-          text: "and that’s when a partisan died, poor man, his name was Nello Vergai, he was a sailor from Caprile."
+          text: "e lì proprio morì un partigiano poverino che era di Caprile, Nello Vergai si chiamava, un marinaio,"
         sequence-21:
           s: 21
           from: "00:01:32,21"
@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:01:33,18"
           to: "00:01:40,12"
-          text: "He was shot and he took cover wounded,"
+          text: "che ha preso una raffica e si è nascosto... si è nascosto ferito,"
         sequence-23:
           s: 23
           from: "00:01:40,12"
           to: "00:01:44,04"
-          text: "but he hid so well that we didn’t find him."
+          text: "ma si è nascosto così bene che non l’abbiamo trovato."
         sequence-24:
           s: 24
           from: "00:01:44,04"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:01:44,29"
           to: "00:01:49,10"
-          text: "The woodmen found him two or three months later,"
+          text: "Non l’abbiamo trovato, e l’han trovato i boscaioli dopo due o tre mesi, capisci..."
         sequence-26:
           s: 26
           from: "00:01:49,10"
@@ -138,4 +138,4 @@ it:
           s: 27
           from: "00:01:50,29"
           to: "00:01:56,10"
-          text: "and you could see that he had bled to death. He had covered himself with leaves… It was a terrible tragedy."
+          text: "si vede che si è dissanguato, si era coperto di foglie... è stata una gran tragedia."

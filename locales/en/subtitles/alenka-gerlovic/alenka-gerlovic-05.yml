@@ -63,7 +63,7 @@ en:
           s: 12
           from: "00:01:37,02"
           to: "00:01:46,01"
-          text: "Don’t forget that Ljubljana was closed in by a wire fence to that time."
+          text: "Don’t forget that Ljubljana was closed in by a wire fence at that time."
         sequence-13:
           s: 13
           from: "00:01:46,01"
@@ -73,7 +73,7 @@ en:
           s: 14
           from: "00:01:56,06"
           to: "00:02:06,09"
-          text: "They were strictly guarded, and sometimes we could even go out."
+          text: "They were strictly guarded, occasionally we could go out."
         sequence-15:
           s: 15
           from: "00:02:06,09"

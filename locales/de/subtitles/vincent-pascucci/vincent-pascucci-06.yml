@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:53,18"
           to: "00:01:02,10"
-          text: "Die Kollaborationsregierung, der Bürgermeister usw., waren bereits von der Resistance verhaftet worden."
+          text: "Die Kollaborationsregierung, der Bürgermeister usw., waren bereits von der Résistance verhaftet worden."
         sequence-10:
           s: 10
           from: "00:01:02,10"
@@ -78,12 +78,12 @@ de:
           s: 15
           from: "00:01:49,15"
           to: "00:01:57,26"
-          text: "I went to meet comrades, with whom I went to Pont Neuilly to meet the old mayor of Nanterre,"
+          text: "Ich traf mich mit Kameraden, mit denen ich nach Pont Neuilly ging, um den alten Bürgermeister von Nanterre zu treffen."
         sequence-16:
           s: 16
           from: "00:01:57,26"
           to: "00:02:07,22"
-          text: "Raymond Bardet, who was in the Résistance – he was one of the leaders of the resistance of the railroad workers."
+          text: "Raymond Bardet war in der Résistance. Er war einer der Führer der Résistance der Bahnarbeiter."
         sequence-17:
           s: 17
           from: "00:02:07,22"
