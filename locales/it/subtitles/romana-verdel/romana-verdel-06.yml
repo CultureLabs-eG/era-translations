@@ -178,12 +178,12 @@ it:
           s: 35
           from: "00:02:50,12"
           to: "00:02:56,23"
-          text: "Whenever I see blue eyes like these somewhere, I remember this man."
+          text: "E ogni volta che vedo degli occhi blu così, da qualche parte, mi ricordo sempre di quell'uomo,"
         sequence-36:
           s: 36
           from: "00:02:56,23"
           to: "00:03:00,13"
-          text: "I do have a problem with that; I cannot forget that."
+          text: "e mi crea problemi, non posso dimenticarmene."
         sequence-37:
           s: 37
           from: "00:03:00,13"
