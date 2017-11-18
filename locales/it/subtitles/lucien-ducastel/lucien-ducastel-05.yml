@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:02:47,05"
           to: "00:03:02,05"
-          text: "Quello che io e la gente come me sentivamo era una sorta di spavento, perché non sapevamo dove ci stavano portando."
+          text: "Quello che io e la gente come me sentivamo era una sorta di spavento, perché non sapevamo dove ci stessero portando."
         sequence-23:
           s: 23
           from: "00:03:02,05"
           to: "00:03:12,08"
-          text: "ci portavano a gruppi di dieci, avrebbero potuto fucilarci mezz'ora dopo… Non sapevamo cosa ci sarebbe potuto succedere."
+          text: "Ci portavano a gruppi di dieci, avrebbero potuto fucilarci mezz'ora dopo… Non sapevamo cosa ci sarebbe potuto succedere."
         sequence-24:
           s: 24
           from: "00:03:12,08"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:03:33,15"
           to: "00:03:45,17"
-          text: "Vedevamo bene che eravamo all'estero, ma era quasi più piacevole di quello che avevamo lasciato a Compiègne. "
+          text: "Lo vedevamo che eravamo all'estero, ma era quasi più piacevole di quello che avevamo lasciato a Compiègne. "
         sequence-28:
           s: 28
           from: "00:03:45,17"
@@ -160,7 +160,7 @@ it:
           s: 31
           from: "00:04:12,13"
           to: "00:04:21,04"
-          text: "Ci hanno preso delle fotografie, ci hanno dato gli abiti a righe."
+          text: "Ci hanno fotografati, ci hanno dato gli abiti a righe."
         sequence-32:
           s: 32
           from: "00:04:21,04"
