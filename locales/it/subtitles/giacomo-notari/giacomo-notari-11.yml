@@ -93,22 +93,22 @@ it:
           s: 18
           from: "00:01:17,07"
           to: "00:01:23,02"
-          text: "Otherwise who would have done it, nobody paid us for this…"
+          text: "e se no chi lo faceva, perché non ci pagava mica nessuno."
         sequence-19:
           s: 19
           from: "00:01:23,02"
           to: "00:01:30,21"
-          text: "I worked for the Communist Party for 13 years and 6 months without social insurance contributions and without health insurance."
+          text: "Io sono stato 13 anni e 6 mesi senza marche e senza mutua. Quelle tessere lì, se conti, 13 anni e 6 mesi io son stato senza paga di nessuno,"
         sequence-20:
           s: 20
           from: "00:01:30,21"
           to: "00:01:38,18"
-          text: "And that’s fortunately because I was already rich, I had food on my table at home."
+          text: "perché fortunatamente ero già ricco perché a casa mia mangiavo, perché avevo da mangiare a casa..."
         sequence-21:
           s: 21
           from: "00:01:38,18"
           to: "00:01:45,23"
-          text: "Other comrades who were living the same life I was living had their wives working as maids, or on the rice-field, with children at home."
+          text: "ma c’erano dei compagni che facevano la vita che facevo io, che avevano la moglie a servire, o alla risaia, e avevano dei bambini a casa, ecco."
         sequence-22:
           s: 22
           from: "00:01:45,23"
