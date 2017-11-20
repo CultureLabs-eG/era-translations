@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,12"
           to: "00:00:06,17"
-          text: "Era da un po' di tempo che la polizia mi seguiva. "
+          text: "Era da un po' che la polizia mi seguiva. "
         sequence-2:
           s: 2
           from: "00:00:06,17"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:14,23"
           to: "00:00:20,24"
-          text: "ero conosciuto e venivo osservato."
+          text: "mi conoscevano e mi osservavano."
         sequence-4:
           s: 4
           from: "00:00:20,24"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:38,01"
           to: "00:00:54,27"
-          text: "Sono stato portato a Rouen, dove ho trovato un centinaio di resistenti noti. Tutti della regione di Rouen, che è molto grande."
+          text: "Sono stato portato a Rouen, dove ho trovato un centinaio di resistenti noti, tutti della regione di Rouen."
         sequence-7:
           s: 7
           from: "00:00:54,27"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:23,07"
           to: "00:01:33,05"
-          text: "è successo diverse volte che la sera venissero a cercare dei compagni da fucilare per oltraggiamento…"
+          text: "è successo diverse volte che la sera venissero a cercare dei compagni da fucilare perché c'era stato un attentato…"
         sequence-11:
           s: 11
           from: "00:01:33,05"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:42,17"
           to: "00:01:48,13"
-          text: "A Compiègne siamo rimasti circa 8 mesi, siamo arrivato il 21 ottobre del '41."
+          text: "A Compiègne ci siamo rimasti circa 8 mesi, siamo arrivati il 21 ottobre del '41."
         sequence-14:
           s: 14
           from: "00:01:48,13"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:02:33,16"
           to: "00:02:43,00"
-          text: "We were loaded up into the trains and we left to a destination unknown."
+          text: "baracca dopo baracca, come al solito. Man mano ci caricavano sui treni, per partire verso una destinazione sconosciuta."
         sequence-21:
           s: 21
           from: "00:02:43,00"
@@ -113,17 +113,17 @@ it:
           s: 22
           from: "00:02:47,05"
           to: "00:03:02,05"
-          text: "What we felt was a certain fear, because we didn’t know where we were taken to."
+          text: "Quello che io e la gente come me sentivamo era una sorta di spavento, perché non sapevamo dove ci stessero portando."
         sequence-23:
           s: 23
           from: "00:03:02,05"
           to: "00:03:12,08"
-          text: "We were led away in groups of ten. Ten people could easily be shot half an hour later."
+          text: "Ci portavano a gruppi di dieci, avrebbero potuto fucilarci mezz'ora dopo… Non sapevamo cosa ci sarebbe potuto succedere."
         sequence-24:
           s: 24
           from: "00:03:12,08"
           to: "00:03:22,19"
-          text: "They loaded us up in the animal wagons and we were taken to Auschwitz-Birkenau."
+          text: "Ci hanno caricati su vagoni bestiame, su vagoni merci e poi siamo arrivati a Auschwitz-Birkenau. "
         sequence-25:
           s: 25
           from: "00:03:22,19"
@@ -133,22 +133,24 @@ it:
           s: 26
           from: "00:03:23,06"
           to: "00:03:33,15"
-          text: "You know, we arrived in Auschwitz. Auschwitz consisted of old barracks, big buildings."
+          text: "Siamo arrivati a Auschwitz, dove c'erano vecchie caserme, grandi edifici…"
         sequence-27:
           s: 27
           from: "00:03:33,15"
           to: "00:03:45,17"
-          text: "We realized we were somewhere foreign, but it was almost more comfortable than what we had left behind in Compiègne."
+          text: "Lo vedevamo che eravamo all'estero, ma era quasi più piacevole di quello che avevamo lasciato a Compiègne. "
         sequence-28:
           s: 28
           from: "00:03:45,17"
           to: "00:03:56,20"
-          text: "The following day we were taken to Birkenau, 4 or 5 km away and there it was totally different."
+          text: |-
+              E poi l'indomani ci hanno portati a Birkenau, distante 4 o 5
+              km. Là a Birkenau è tutto diverso.
         sequence-29:
           s: 29
           from: "00:03:56,20"
           to: "00:04:11,13"
-          text: "Birkenau is a camp that was built on marshlands. There were old barracks. It made quiet an unsettling impression."
+          text: "Birkenau è costruito su una palude, ci sono delle vecchie baracche. Faceva un effetto abbastanza inquietante arrivare a Birkenau. "
         sequence-30:
           s: 30
           from: "00:04:11,13"
@@ -158,12 +160,12 @@ it:
           s: 31
           from: "00:04:12,13"
           to: "00:04:21,04"
-          text: "They gave us striped uniforms and took pictures of us."
+          text: "Ci hanno fotografati, ci hanno dato gli abiti a righe."
         sequence-32:
           s: 32
           from: "00:04:21,04"
           to: "00:04:26,05"
-          text: "They tattooed our registration numbers onto us."
+          text: "Ci hanno dato il numero di matricola, ce l'hanno tatuato addosso."
         sequence-33:
           s: 33
           from: "00:04:26,05"
@@ -173,19 +175,19 @@ it:
           s: 34
           from: "00:04:26,16"
           to: "00:04:28,13"
-          text: "They tattooed this number."
+          text: "Ci hanno tatuato questo questo numero."
         sequence-35:
           s: 35
           from: "00:04:28,13"
           to: "00:04:29,02"
-          text: "Of course that had a big effect on us."
+          text: "Questa cosa ci ha segnati."
         sequence-36:
           s: 36
           from: "00:04:29,02"
           to: "00:04:39,22"
-          text: "We were no longer called so-and-so. We had this number and were supposed to respond to this number."
+          text: "Non ci chiamavamo più tal dei tali, ormai avevamo un numero e con quel numero dovevamo rispondere a tutte le domande."
         sequence-37:
           s: 37
           from: "00:04:39,22"
           to: "00:04:48,00"
-          text: "We had to learn it in German and in Polish, not easy. But we had to learn it quickly."
+          text: "E dovevamo farlo in tedesco e polacco. Non era facile, ma è andata così perché di alternative non ce n'erano."

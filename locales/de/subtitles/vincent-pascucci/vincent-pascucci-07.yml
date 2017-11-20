@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:02:26,15"
           to: "00:02:34,15"
-          text: "Es gab also einen Gefangenenaustausch mit diesen Deutschen"
+          text: "Es gab also einen Gefangenenaustausch von diesen Deutschen"
         sequence-17:
           s: 17
           from: "00:02:34,15"
@@ -93,32 +93,32 @@ de:
           s: 18
           from: "00:02:43,06"
           to: "00:02:49,19"
-          text: "That is how we found out exactly what had happened to Louis Meunier."
+          text: "So fanden wir heraus was genau mit Louis Meunier geschehen war."
         sequence-19:
           s: 19
           from: "00:02:49,19"
           to: "00:03:00,09"
-          text: "Back to the Nazis in Mont Valérien: They refused to give themselves up to the resistance."
+          text: "Die Nazis in Mont Valérien weigerten sich, sich der Résistance zu ergeben."
         sequence-20:
           s: 20
           from: "00:03:00,09"
           to: "00:03:09,05"
-          text: "One of them said they would only give themselves up to the regular army."
+          text: "Einer von ihnen sagte, dass sie sich nur der regulären Armee ergeben würden."
         sequence-21:
           s: 21
           from: "00:03:09,05"
           to: "00:03:17,12"
-          text: "Our commander went to see Colonel Rémy from the Leclerc Division,"
+          text: "Unser Kommandant traf sich mit Colonel Rémy von der Leclerc-Division,"
         sequence-22:
           s: 22
           from: "00:03:17,12"
           to: "00:03:24,25"
-          text: "who had been quarantined in the Bois de Boulogne with his brigade."
+          text: "der mit seiner Panzerbrigade in Bois de Boulogne einquartiert war."
         sequence-23:
           s: 23
           from: "00:03:24,25"
           to: "00:03:31,21"
-          text: "Colonel Rémy went up to the fort and they gave themselves in."
+          text: "Colonel Rémy fuhr mit einem Panzer zum Fort und die Deutschen ergaben sich."
         sequence-24:
           s: 24
           from: "00:03:31,21"
@@ -128,27 +128,27 @@ de:
           s: 25
           from: "00:03:33,16"
           to: "00:03:40,04"
-          text: "I didn’t have much time to enjoy the liberation."
+          text: "Ich hatte nicht viel Zeit die Befreiung zu genießen."
         sequence-26:
           s: 26
           from: "00:03:40,04"
           to: "00:03:48,25"
-          text: "During the transition period, I was responsible for the security of Raymond Barbet,"
+          text: "In der Übergangszeit war ich für die Sicherheit von Raymond Barbet zuständig,"
         sequence-27:
           s: 27
           from: "00:03:48,25"
           to: "00:03:55,22"
-          text: "who was responsible for the resistance of the railroad workers."
+          text: "der einer der Verantwortlichen für die gesamte Résistance der Bahnarbeiter war."
         sequence-28:
           s: 28
           from: "00:03:55,22"
           to: "00:04:08,06"
-          text: "He had organized the insurrection-strike of the railroad workers on August 10th, 1944, sparking the nation-wide insurrection."
+          text: "Er hatte den Aufstandsstreik der Bahnarbeiter am 10. August 1944 organisiert, der zum landesweiten Aufstand führte."
         sequence-29:
           s: 29
           from: "00:04:08,06"
           to: "00:04:21,20"
-          text: "I was responsible for his safety, as still collaborators and other dangers were lurking."
+          text: "Ich war für seine Sicherheit verantwortlich, da es immer noch Kollaborateure gab und andere Gefahren lauerten."
         sequence-30:
           s: 30
           from: "00:04:21,20"
@@ -158,7 +158,7 @@ de:
           s: 31
           from: "00:04:23,03"
           to: "00:04:37,25"
-          text: "I myself went up to the fort on August 28th, August 29th."
+          text: "Am 28. August 1944 reiste ich zum Fort."
         sequence-32:
           s: 32
           from: "00:04:37,25"
@@ -168,17 +168,17 @@ de:
           s: 33
           from: "00:04:39,15"
           to: "00:04:43,23"
-          text: "We were organized militarily"
+          text: "Wir waren militärisch organisiert"
         sequence-34:
           s: 34
           from: "00:04:43,23"
           to: "00:05:00,21"
-          text: "and I had obtained the rank of lieutenant in the resistance and was given a section of 50 resistance fighters."
+          text: "und ich hatte den Rang des Leutnants der Résistance erhalten. Man gab mir eine Sektion von 50 Widerstandskämpfern."
         sequence-35:
           s: 35
           from: "00:05:00,21"
           to: "00:05:06,05"
-          text: "We called it the Louis Meunier section in his memory."
+          text: "Wir nannten sie Sektion Louis Meunier im Gedenken an Louis Meunier."
         sequence-36:
           s: 36
           from: "00:05:06,05"
@@ -188,22 +188,22 @@ de:
           s: 37
           from: "00:05:13,29"
           to: "00:05:20,01"
-          text: "What I felt at the liberation? Well, a lot of joy!"
+          text: "Was ich bei der Befreiung fühlte? Nun, viel Freude!"
         sequence-38:
           s: 38
           from: "00:05:20,01"
           to: "00:05:24,21"
-          text: "It was like a big party."
+          text: "Es war wie ein großes Fest."
         sequence-39:
           s: 39
           from: "00:05:24,21"
           to: "00:05:36,10"
-          text: "Even those who hadn’t done anything or maybe taken advantage of the situation now called themselves resistance fighters."
+          text: "Sogar diejenigen, die untätig waren oder vielleicht sogar die Situation ausgenutzt hatten, nannten sich jetzt Widerstandskämpfer."
         sequence-40:
           s: 40
           from: "00:05:36,10"
           to: "00:05:49,29"
-          text: "It was a huge joy to have liberated France, even though it wasn’t quite over."
+          text: "Es war eine große Freude, Frankreich befreit zu haben, auch wenn es noch nicht ganz vorbei war."
         sequence-41:
           s: 41
           from: "00:05:49,29"
@@ -213,7 +213,7 @@ de:
           s: 42
           from: "00:05:52,12"
           to: "00:06:05,29"
-          text: "Alsace-Lorraine was still occupied; there was still the submarine basis in the enclave of La Rochelle."
+          text: "Elsaß-Lothringen war immer noch besetzt; es gab immer noch die U-Boot-Basis in der Enklave von La Rochelle."
         sequence-43:
           s: 43
           from: "00:06:05,29"
@@ -223,7 +223,7 @@ de:
           s: 44
           from: "00:06:10,26"
           to: "00:06:15,07"
-          text: "But really it was liberation."
+          text: "Aber es war wirklich eine Befreiung."
         sequence-45:
           s: 45
           from: "00:06:15,07"
@@ -233,17 +233,17 @@ de:
           s: 46
           from: "00:06:21,04"
           to: "00:06:30,18"
-          text: "We had the satisfaction of saying that we had won."
+          text: "Wir hatten die Genugtuung zu sagen, dass wir gewonnen hatten."
         sequence-47:
           s: 47
           from: "00:06:30,18"
           to: "00:06:42,20"
-          text: "Not all of the comrades that had been in the group with us joined the army afterwards."
+          text: "Nicht alle Kameraden aus unserer Gruppe gingen schließlich mit zur Armee."
         sequence-48:
           s: 48
           from: "00:06:42,20"
           to: "00:06:52,13"
-          text: "But we had committed ourselves through the entire war."
+          text: "Aber wir verpflichteten uns für die ganze Dauer des Krieges."
         sequence-49:
           s: 49
           from: "00:06:52,13"
@@ -253,9 +253,9 @@ de:
           s: 50
           from: "00:06:58,05"
           to: "00:07:06,24"
-          text: "I continued because I wanted to avenge Louis. At his funeral we had sworn that we would avenge him."
+          text: "Ich machte weiter, um Louis zu rächen. Bei seiner Beerdigung hatten wir uns geschworen ihn zu rächen."
         sequence-51:
           s: 51
           from: "00:07:06,24"
           to: "00:07:15,27"
-          text: "That meant to fight the Nazis until the end."
+          text: "Das bedeutete, die Nazis bis zum Ende zu bekämpfen."
