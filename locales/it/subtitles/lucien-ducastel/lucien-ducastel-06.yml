@@ -8,22 +8,22 @@ it:
           s: 1
           from: "00:00:02,03"
           to: "00:00:09,25"
-          text: "Day to day life in the camp started with the morning role-call."
+          text: "La vita di tutti i giorni al campo iniziava con la chiamata all'appello, dopo il risveglio."
         sequence-2:
           s: 2
           from: "00:00:09,25"
           to: "00:00:14,05"
-          text: "The camp was huge."
+          text: "Il campo era immenso."
         sequence-3:
           s: 3
           from: "00:00:14,05"
           to: "00:00:20,23"
-          text: "I think we were a hundred thousand prisoners."
+          text: "Eravamo, non so, 100.000 nel campo."
         sequence-4:
           s: 4
           from: "00:00:20,23"
           to: "00:00:23,14"
-          text: "Birkenau was especially huge."
+          text: "Birkenau era particolarmente vasto."
         sequence-5:
           s: 5
           from: "00:00:23,14"
@@ -33,32 +33,32 @@ it:
           s: 6
           from: "00:00:24,00"
           to: "00:00:32,12"
-          text: "Then we found out that Birkenau was no holiday resort."
+          text: "Lì abbiamo capito che Birkenau non era un posto di villeggiatura."
         sequence-7:
           s: 7
           from: "00:00:32,12"
           to: "00:00:41,22"
-          text: "The days were very long: from 4h00 or 5h00 in the morning ‘til 21h00, 22h00 in the evening,"
+          text: "All'inizio le giornate erano molto lunghe, dalle 4 alle 5 del mattino, la sera anche fino alle 9 o alle 10"
         sequence-8:
           s: 8
           from: "00:00:41,22"
           to: "00:00:50,23"
-          text: "because if one of the 22,300 people was missing during the evening role-call, he had to be found."
+          text: "perché se ne mancava uno dei 22.300 all'appello della sera, bisognava ritrovarlo."
         sequence-9:
           s: 9
           from: "00:00:50,23"
           to: "00:01:00,00"
-          text: "We had to stay standing until this person was found. Sometimes we spent whole nights outside."
+          text: "Finché non lo ritrovavano, stavamo lì in piedi. A volte abbiamo passato la notte lì fuori,"
         sequence-10:
           s: 10
           from: "00:01:00,00"
           to: "00:01:14,29"
-          text: "Some people hid, some escaped and then we had to stand until the following morning, in summer, and winter."
+          text: "perché non avevano trovato quelli si erano nascosti o erano riusciti a evadere… Restavamo in piedi fino al mattino, estate e inverno."
         sequence-11:
           s: 11
           from: "00:01:14,29"
           to: "00:01:24,07"
-          text: "The winters in Upper Silesia are very cold, terrible. We lost many men there."
+          text: "Gli inverni in Alta Slesia sono molto freddi, la neve, ecc. Era terribile. Ne abbiamo di uomini così."
         sequence-12:
           s: 12
           from: "00:01:24,07"
@@ -68,17 +68,17 @@ it:
           s: 13
           from: "00:01:25,02"
           to: "00:01:31,22"
-          text: "Our days began at 4h00 or 5h00 with a first role-call."
+          text: "La giornata cominciava alle 4 o alle 5 del mattino, c'era un prima chiamata all'appello."
         sequence-14:
           s: 14
           from: "00:01:31,22"
           to: "00:01:38,18"
-          text: "They handed out a brew that they called herbata in our mugs,"
+          text: "Ci distribuivano un tè, che chiamavano \"herbata\","
         sequence-15:
           s: 15
           from: "00:01:38,18"
           to: "00:01:48,29"
-          text: "which we should absolutely not lose, and which we could never wash. Then we left for work."
+          text: "acqua sporca per le nostre gamelle che non potevamo assolutamente perdere ma neanche lavare. E poi andavamo a lavorare."
         sequence-16:
           s: 16
           from: "00:01:48,29"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:50,04"
           to: "00:02:12,18"
-          text: "Yes, we thought of it. There were three or four of us. We tried to find ways of fighting, but it was practically impossible."
+          text: "Ci trovavamo a discutere, c'era un ragazzo un po' più responsabile che discuteva su come provare a ribellarsi, ma era praticamente impossibile."
         sequence-18:
           s: 18
           from: "00:02:12,18"
