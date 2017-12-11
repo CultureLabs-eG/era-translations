@@ -13,7 +13,7 @@ de:
           s: 2
           from: "00:00:08,05"
           to: "00:00:22,03"
-          text: "Ich lagerte etwas in meinem Haus, weil ich verantwortlich war und ich gefährliche Dinge lieber bei mir hatte."
+          text: "Ich lagerte sie teilweise in meinem Haus, weil ich verantwortlich war und ich gefährliche Dinge lieber bei mir hatte."
         sequence-3:
           s: 3
           from: "00:00:22,03"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:01:07,17"
           to: "00:01:16,18"
-          text: "Die Frauen haben Dinge die sich hielte. Wir haben viele Weihnachtskarten an sie rangeheftet."
+          text: "Die Frauen haben Dinge gebracht die sich hielte. Wir haben viele Weihnachtskarten an sie rangeheftet."
         sequence-10:
           s: 10
           from: "00:01:16,18"
@@ -63,7 +63,7 @@ de:
           s: 12
           from: "00:01:28,29"
           to: "00:01:36,21"
-          text: "damit sie nicht so viel Leiden."
+          text: "damit sie nicht so sehr unter der Abwesenheit ihrer Familien leiden würden."
         sequence-13:
           s: 13
           from: "00:01:36,21"
@@ -73,17 +73,17 @@ de:
           s: 14
           from: "00:01:38,06"
           to: "00:01:50,28"
-          text: "We felt that women were silently behind us in our struggle for peace,"
+          text: "Wir fühlten die stille Unterstützung der Frauen, in unserem Kampf um den Frieden,"
         sequence-15:
           s: 15
           from: "00:01:50,28"
           to: "00:01:56,19"
-          text: "waiting for the war to be over, so it wasn’t hard."
+          text: "auf das Kriegsende wartend, also war es nicht so schwierig."
         sequence-16:
           s: 16
           from: "00:01:56,19"
           to: "00:02:01,21"
-          text: "We shared the tasks house by house."
+          text: "Wir teilten Aufgaben Haus für Haus."
         sequence-17:
           s: 17
           from: "00:02:01,21"
@@ -93,37 +93,37 @@ de:
           s: 18
           from: "00:02:02,23"
           to: "00:02:12,19"
-          text: "It was decided we would pass the word house by house and in small groups."
+          text: "Es wurde entschieden, dass wir die Nachrichten Haus für Haus und in kleinen Gruppen weitergeben."
         sequence-19:
           s: 19
           from: "00:02:12,19"
           to: "00:02:21,09"
-          text: "We had to reach the Reggio Emilia prefecture, in corso Garibaldi,"
+          text: "Wir mussten die Präfektur Reggio Emilia in Corso Garibaldi erreichen,"
         sequence-20:
           s: 20
           from: "00:02:21,09"
           to: "00:02:30,23"
-          text: "all together at 2 pm, but each had to move alone."
+          text: "alle zusammen um zwei Uhr nachmittags, aber jede musste alleine gehen."
         sequence-21:
           s: 21
           from: "00:02:30,23"
           to: "00:02:35,05"
-          text: "This meant you had to be really committed."
+          text: "Das bedeutete, dass du wirklich überzeug sein musstest."
         sequence-22:
           s: 22
           from: "00:02:35,05"
           to: "00:02:45,12"
-          text: "It wasn’t an everyday thing for a mother living 10 km away to take her bicycle and go in front of the prefecture."
+          text: "Es war nicht alltäglich für eine Mutter, die 10km weit weg wohnte, ihr Rad zu nehmen, und zur Präfektur zu fahren."
         sequence-23:
           s: 23
           from: "00:02:45,12"
           to: "00:02:54,13"
-          text: "But people were really starving and tired of the war, and there had been too many people dying."
+          text: "Aber die Leute waren am Hungern und Kriegsmüde, and es waren zu Viele gestorben"
         sequence-24:
           s: 24
           from: "00:02:54,13"
           to: "00:02:59,19"
-          text: "So in front of the prefecture were 2000."
+          text: "Also waren vor der Präfektur 2000."
         sequence-25:
           s: 25
           from: "00:02:59,19"
@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:03:01,00"
           to: "00:03:02,22"
-          text: "2000 women."
+          text: "2000 Frauen."
         sequence-27:
           s: 27
           from: "00:03:02,22"
@@ -143,7 +143,7 @@ de:
           s: 28
           from: "00:03:03,09"
           to: "00:03:09,24"
-          text: "We arrived at the prefecture and the majority of us entered the courtyard."
+          text: "Wir trafen bei der Präfektur ein und die meisten von uns sind in den Hof gegangen."
         sequence-29:
           s: 29
           from: "00:03:09,24"
@@ -153,7 +153,7 @@ de:
           s: 30
           from: "00:03:12,19"
           to: "00:03:19,03"
-          text: "We had appointed three women to go talk with the podestà."
+          text: "Wir haben drei Frauen ausgewählt um mit dem Bürgermeister zu sprechen."
         sequence-31:
           s: 31
           from: "00:03:19,03"
@@ -163,47 +163,47 @@ de:
           s: 32
           from: "00:03:21,14"
           to: "00:03:27,05"
-          text: "They were arrested immediately."
+          text: "Sie wurden sofort verhaftet."
         sequence-33:
           s: 33
           from: "00:03:27,05"
           to: "00:03:38,05"
-          text: "The women who were outside joined us inside the courtyard."
+          text: "Die Frauen, die noch draußen waren, kamen zu uns in den Hof."
         sequence-34:
           s: 34
           from: "00:03:38,05"
           to: "00:03:47,04"
-          text: "We started to shout that we wouldn’t leave until they released them."
+          text: "Wir fingen an zu Rufen, dass wir nicht eher gingen als das sie sie frei ließen."
         sequence-35:
           s: 35
           from: "00:03:47,04"
           to: "00:04:05,17"
-          text: "We stayed there a few hours and finally saw our comrades walking down the stairs. What were we asking for?"
+          text: "Wir blieben dort für einige Stunden und sahen schließlich unsere Kameradinnen die Treppe herunterlaufen. Was hatten wir gefordert?"
         sequence-36:
           s: 36
           from: "00:04:05,17"
           to: "00:04:13,28"
-          text: "We were asking for salt and food for our children, especially for those living in the city."
+          text: "Wir forderten Salz und Nahrung für unsere Kinder, insbesondere für die, die in der Stadt wohnten."
         sequence-37:
           s: 37
           from: "00:04:13,28"
           to: "00:04:22,01"
-          text: "In the country we always managed to find something to eat. In the city kids were dying of hunger."
+          text: "Auf dem Land fand sich immer irgendwas essbares. In der Stadt aber starben die Kinder vor Hunger."
         sequence-38:
           s: 38
           from: "00:04:22,01"
           to: "00:04:28,04"
-          text: "There was a ration card, they didn’t even have a few salad leaves."
+          text: "Es gab Lebensmittelkarten, aber es gab nicht einmal ein paar Salatblätter."
         sequence-39:
           s: 39
           from: "00:04:28,04"
           to: "00:04:38,22"
-          text: "Our groups had found out that the Germans had specific plans for our region."
+          text: "Unsere Gruppe hatte herausgefunden, dass die Deutschen spezifische Pläne für unsere Region hatten."
         sequence-40:
           s: 40
           from: "00:04:38,22"
           to: "00:04:43,28"
-          text: "Men were to be taken to Germany to work,"
+          text: "Die Männer sollten zum Arbeiten nach Deutschland gebracht werden,"
         sequence-41:
           s: 41
           from: "00:04:43,28"
@@ -213,12 +213,12 @@ de:
           s: 42
           from: "00:04:46,16"
           to: "00:04:58,20"
-          text: "while supplies for the German army on the Gothic front line had to come from the Po valley."
+          text: "während Essen für die deutsche Armee an der Gothic Front aus dem Po-Tal kommen musste."
         sequence-43:
           s: 43
           from: "00:04:58,20"
           to: "00:05:13,19"
-          text: "We realized that we could starve the German army by taking as many things as we could away from the pool."
+          text: "Uns wurde klar, dass wir die deutsche Armee aushungern konnten indem wir so viel wie möglich wegnahmen."
         sequence-44:
           s: 44
           from: "00:05:13,19"
@@ -228,7 +228,7 @@ de:
           s: 45
           from: "00:05:14,16"
           to: "00:05:22,29"
-          text: "We didn’t want to organize a political meeting in somebody’s house and put in danger the whole family."
+          text: "Wir wollten keine politischen Treffen in irgendjemandes Haus veranstalten, und dadurch die ganze Familie gefährden."
         sequence-46:
           s: 46
           from: "00:05:22,29"
@@ -238,57 +238,57 @@ de:
           s: 47
           from: "00:05:24,08"
           to: "00:05:34,11"
-          text: "We decided we would hold it under a tree down the road from Masone to Gavassa."
+          text: "Wir entschieden uns wir könnten es unter einem Baum die Straße von Masone nach Gavassa runter halten."
         sequence-48:
           s: 48
           from: "00:05:34,11"
           to: "00:05:41,03"
-          text: "I think it was called “al gublein”."
+          text: "Ich glaube er wurde “al gublein” genannt."
         sequence-49:
           s: 49
           from: "00:05:41,03"
           to: "00:05:52,05"
-          text: "I didn’t know how many women would show up, because we didn’t ask many questions."
+          text: "Ich wusste nicht, wie viele Frauen erscheinen würden, weil wir nicht viele Fragen stellten."
         sequence-50:
           s: 50
           from: "00:05:52,05"
           to: "00:06:00,22"
-          text: "All I knew is we had to go there. As I arrived, there were four or five of us."
+          text: "Alles was ich wusste war, dass wir dort hin gehen mussten. Als ich dort ankam waren wir vier oder fünf."
         sequence-51:
           s: 51
           from: "00:06:00,22"
           to: "00:06:06,26"
-          text: "After a few minutes the political commissioner reached us too."
+          text: "Nach ein paar Minuten hat uns auch der politische Kommissar erreicht."
         sequence-52:
           s: 52
           from: "00:06:06,26"
           to: "00:06:14,23"
-          text: "He began to tell us what the situation was and how our partisan units in the mountains were coping."
+          text: "Er began uns von der Situation in den Bergen zu erzählen, und wie die Partisaneneinheiten klar kamen."
         sequence-53:
           s: 53
           from: "00:06:14,23"
           to: "00:06:21,22"
-          text: "He told us our work was very valuable and we should carry on with it."
+          text: "Er erzählte uns unsere Arbeit sei sehr wertvoll und wir sollten damit weiter machen."
         sequence-54:
           s: 54
           from: "00:06:21,22"
           to: "00:06:30,29"
-          text: "He also added that women were putting themselves in a strong position for their rights to be accepted."
+          text: "Er fügte zudem hinzu, dass Frauen sich in eine starke Position brachten um ihre Rechte akzeptiert zu bekommen."
         sequence-55:
           s: 55
           from: "00:06:30,29"
           to: "00:06:39,22"
-          text: "They were already talking about what would change after the Liberation, about the right to vote for women."
+          text: "Sie hatten sich schon unterhalten, was sich nach der Befreiung ändern würde, über das Frauenwahlrecht."
         sequence-56:
           s: 56
           from: "00:06:39,22"
           to: "00:06:50,11"
-          text: "The commissioner explained to us that the right to vote was the most significant right women could have."
+          text: "Der Kommissar erklärte uns, dass das Recht zu Wählen das wichtigste Recht sei, das eine Frau haben könne."
         sequence-57:
           s: 57
           from: "00:06:50,11"
           to: "00:06:56,19"
-          text: "Throughout history it had not been acknowledged."
+          text: "Im Laufe der Geschichte wurde es nicht anerkannt."
         sequence-58:
           s: 58
           from: "00:06:56,19"
@@ -298,9 +298,9 @@ de:
           s: 59
           from: "00:06:57,23"
           to: "00:07:04,02"
-          text: "It was the first step towards women’s liberation."
+          text: "Es war der erste Schritt zur Befreiung der Frauen."
         sequence-60:
           s: 60
           from: "00:07:04,02"
           to: "00:07:18,02"
-          text: "That was the first time I heard somebody talk about these issues and about emancipation, such a great word."
+          text: "Das war das erste Mal, dass ich jemanden über die Themen sprechen hörte,  und über Emanzipation - ein so großartiges Wort."

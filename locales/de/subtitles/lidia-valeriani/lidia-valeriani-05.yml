@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:01:35,00"
           to: "00:01:40,06"
-          text: "also Dinge zum Verkleiden um unerkannt davon zu kommen,"
+          text: "also Dinge zum Verkleiden, um unerkannt davon zu kommen,"
         sequence-17:
           s: 17
           from: "00:01:40,06"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:01:44,20"
           to: "00:01:47,21"
-          text: "Dann bekam jeder einen Auftrag."
+          text: "Jeder bekam einen Auftrag."
         sequence-20:
           s: 20
           from: "00:01:47,21"
@@ -193,19 +193,19 @@ de:
           s: 38
           from: "00:03:33,11"
           to: "00:03:50,12"
-          text: "My military duties, I carried them out supporting the comrades who were in the mountains and those who had to hide."
+          text: "aber ich mochte die militärische Arbeit mehr oder weniger. Ich habe die Genossen in den Bergen unterstützt und die, die sich verstecken mussten und all diese Dinge."
         sequence-39:
           s: 39
           from: "00:03:50,12"
           to: "00:04:03,21"
-          text: "Propaganda, handing out leaflets, secretly bringing them all over the place at night."
+          text: "Propaganda, Flugblätter verteilen, sie über Nacht heimlich überall auslegen."
         sequence-40:
           s: 40
           from: "00:04:03,21"
           to: "00:04:09,06"
-          text: "Then the strikes slowly began."
+          text: "Dann begannen langsam die Streiks."
         sequence-41:
           s: 41
           from: "00:04:09,06"
           to: "00:04:18,20"
-          text: "The strikes against the war had started, and we got ready for the strike of the 1st of March."
+          text: "Die Streiks gegen den Krieg hatten bereits begonnen, und wir bereiteten uns auf den Streik vom 1. März vor."
