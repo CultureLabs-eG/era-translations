@@ -88,22 +88,22 @@ de:
           s: 17
           from: "00:01:32,09"
           to: "00:01:35,19"
-          text: "They were taking everything from us, we pooled wheat."
+          text: "Sie haben uns alles genommen, dann mussten wir den Weizen ins Lager bringen, alles."
         sequence-18:
           s: 18
           from: "00:01:35,19"
           to: "00:01:47,20"
-          text: "Farmers had to bring wine, grapes, everything, they were taking everything."
+          text: "Die Bauern brachten Wein, Trauben, alles, sie nahmen uns alles."
         sequence-19:
           s: 19
           from: "00:01:47,20"
           to: "00:01:55,12"
-          text: "That’s why afterwards there were even some casualties"
+          text: "Deshalb gab es später auch einige Verluste,"
         sequence-20:
           s: 20
           from: "00:01:55,12"
           to: "00:02:02,21"
-          text: "when we went to these stockpiles to take back all the stuff they had taken from us."
+          text: "als wir zu diesen Lagerbeständen gingen, um all das Zeug zu nehmen, das sie uns genommen hatten."
         sequence-21:
           s: 21
           from: "00:02:02,21"
