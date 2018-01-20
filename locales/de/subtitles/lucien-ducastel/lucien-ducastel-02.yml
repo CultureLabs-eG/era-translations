@@ -23,17 +23,17 @@ de:
           s: 4
           from: "00:00:26,25"
           to: "00:00:33,00"
-          text: "Später, 1937/1938 schloss ich mich der Jeneusse Communiste an."
+          text: "Später, 1937/1938 schloss ich mich der Jeneusse Communiste (kommunistische Jugendorganisation) an."
         sequence-5:
           s: 5
           from: "00:00:33,00"
           to: "00:00:39,17"
-          text: "There you could fight for your demands."
+          text: "Dort konnte man für seine Forderungen kämpfen."
         sequence-6:
           s: 6
           from: "00:00:39,17"
           to: "00:00:47,16"
-          text: "My friends at the time asked me, “Why don’t you join the Communist Youth Movement?” So I did."
+          text: "Meine Freunde damals fragten mich: „Warum schließt du dich nicht der Jeneusse Communiste an?“ Also tat ich es."
         sequence-7:
           s: 7
           from: "00:00:47,16"
@@ -43,7 +43,7 @@ de:
           s: 8
           from: "00:00:48,08"
           to: "00:00:59,10"
-          text: "In 1936 we participated in the Trade Union’s activities. We participated in the strikes and then I joined the Communist Youth Movement."
+          text: "1936 beteiligten wir uns an gewerkschaftlichen Aktionen und nahmen an den Streiks teil. Dann schloss ich mich der Jeneusse Communiste an."
         sequence-9:
           s: 9
           from: "00:00:59,10"
@@ -53,12 +53,12 @@ de:
           s: 10
           from: "00:00:59,24"
           to: "00:01:12,06"
-          text: "It meant that we had to prepare ourselves to go undercover. We were in a semi-undercover state."
+          text: "Das veränderte einiges, weil man sich darauf einstellen musste, unterzutauchen, also halb im Untergrund zu sein."
         sequence-11:
           s: 11
           from: "00:01:12,06"
           to: "00:01:22,12"
-          text: "The Communist Party and the Communist Youth Movement had been outlawed, which caused a lot of turmoil."
+          text: "Die Kommunistische Partei und die Jeneusse Communiste wurden verboten, was viel Aufsehen erregte."
         sequence-12:
           s: 12
           from: "00:01:22,12"

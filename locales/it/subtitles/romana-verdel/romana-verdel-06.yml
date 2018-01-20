@@ -258,7 +258,7 @@ it:
           s: 51
           from: "00:04:21,16"
           to: "00:04:25,23"
-          text: "Abbiamo protetto i partigiani così tanto, da bambini;"
+          text: "Abbiamo sempre veramente protetto i partigiani, da bambini,"
         sequence-52:
           s: 52
           from: "00:04:25,23"
@@ -273,4 +273,4 @@ it:
           s: 54
           from: "00:04:32,19"
           to: "00:04:34,29"
-          text: "e i tedeschi erano i nostri amici."
+          text: "e i tedeschi erano i nostri nemici."
