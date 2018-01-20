@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:01,07"
           to: "00:00:04,25"
-          text: "Also, ich heiße Giacomo Notari."
+          text: "Ich heiße Giacomo Notari."
         sequence-2:
           s: 2
           from: "00:00:04,25"
