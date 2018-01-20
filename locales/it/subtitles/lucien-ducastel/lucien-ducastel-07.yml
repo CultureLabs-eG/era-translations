@@ -108,12 +108,12 @@ it:
           s: 21
           from: "00:02:23,13"
           to: "00:02:31,21"
-          text: "I arrived home in the morning and my mother was there."
+          text: "Io sono arrivato di mattina, mia madre era in casa."
         sequence-22:
           s: 22
           from: "00:02:31,21"
           to: "00:02:40,17"
-          text: "She was a textile worker, but they sometimes had days off, and she was home. Ah! That was …!"
+          text: "Mia madre lavorava nel tessile, ma non lavorava, alle volte aveva dei giorni senza dover lavorare ed era là. Era… Ah!"
         sequence-23:
           s: 23
           from: "00:02:40,17"

@@ -13,27 +13,27 @@ it:
           s: 2
           from: "00:00:23,01"
           to: "00:00:27,01"
-          text: "My father’s name was Reino Quadreri."
+          text: "Mio nonno che si chiamava Zebenini Carlo, mio padre poi si chiamava Quadreri Reino."
         sequence-3:
           s: 3
           from: "00:00:27,01"
           to: "00:00:33,07"
-          text: "My mother was born in Reggio, her name was Valentina Paterni."
+          text: "Poi dopo c’era la mamma che si chiamava Paterni Valentina, nata a Reggio."
         sequence-4:
           s: 4
           from: "00:00:33,07"
           to: "00:00:47,02"
-          text: "Should I go on? Then, there was my brother Gastone, who was born in 1917, and Giulio, born in 1925."
+          text: "Poi devo continuare? Poi c’era mio fratello Gastone che era del 1917, poi c’era Giulio, Quadreri Giulio che è nato nel 1925."
         sequence-5:
           s: 5
           from: "00:00:47,02"
           to: "00:00:56,17"
-          text: "My sister Laura was born in 1926, then it was my turn in 1928."
+          text: "Poi Quadreri Laura che è nata nel 1926, poi Quadreri Giovanna nel 1928."
         sequence-6:
           s: 6
           from: "00:00:56,17"
           to: "00:01:06,06"
-          text: "Finally, Aldo in 1931 and Renzo in 1933."
+          text: "Poi Quadreri Aldo del 1931 e Renzo del 1933."
         sequence-7:
           s: 7
           from: "00:01:06,06"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:01:09,19"
           to: "00:01:13,05"
-          text: "Luckily my mother was a dressmaker."
+          text: "Mia madre faceva la sarta, per fortuna."
         sequence-9:
           s: 9
           from: "00:01:13,05"
           to: "00:01:23,06"
-          text: "We had a house and some land, however, with such a large family, my father had to work as a labourer."
+          text: "Invece mio papà faceva l’operaio, noi avevamo la casa e un po’ di terra, però faceva l’operaio, perché una famiglia così grossa..."
         sequence-10:
           s: 10
           from: "00:01:23,06"
@@ -58,17 +58,17 @@ it:
           s: 11
           from: "00:01:27,09"
           to: "00:01:34,23"
-          text: "We didn’t have any­thing even before the war, then everything got even worse."
+          text: "Non c’era possibilità proprio per niente poi è arrivata la guerra ed ha rovinato proprio tutto."
         sequence-12:
           s: 12
           from: "00:01:34,23"
           to: "00:01:42,03"
-          text: "My brothers only attended school until the third grade, which was all that Marola offered."
+          text: "Non... nessun titolo, hanno fatto solo la terza elementare perché a Marola c’era solo quella lì"
         sequence-13:
           s: 13
           from: "00:01:42,03"
           to: "00:01:49,15"
-          text: "I was the only one who went on to the fifth grade, but in order to do so I had to go to Carpineti."
+          text: "e per dare l’esame di quinta io sono andata a Carpineti, solo io l’ho fatto."
         sequence-14:
           s: 14
           from: "00:01:49,15"

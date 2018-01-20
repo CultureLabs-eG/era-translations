@@ -33,7 +33,7 @@ en:
           s: 6
           from: "00:00:27,10"
           to: "00:00:30,08"
-          text: "but it actually it turned out very beautiful."
+          text: "but actually it turned out to be very beautiful."
         sequence-7:
           s: 7
           from: "00:00:30,08"
