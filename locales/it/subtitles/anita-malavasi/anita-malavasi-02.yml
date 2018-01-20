@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:01:42,01"
           to: "00:01:47,17"
-          text: "I went home crying. My mother was feeding the pigs."
+          text: "Io sono andata a casa piangendo, mia madre stava dando da mangiare ai maiali, poveretta, si è trovata..."
         sequence-20:
           s: 20
           from: "00:01:47,17"
           to: "00:01:54,08"
-          text: "I was telling her that it was her fault that I didn’t receive my prize."
+          text: "ho detto: “La colpa è tua, non ho avuto un premio perché non mi avete preso la tessera”, no?"
         sequence-21:
           s: 21
           from: "00:01:54,08"
