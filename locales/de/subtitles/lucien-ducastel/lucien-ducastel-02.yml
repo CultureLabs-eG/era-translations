@@ -2,18 +2,18 @@ de:
   lucien-ducastel:
     chapter-2:
       c: 2
-      title: "First political engagements"
+      title: "Erste politische Aktivitäten"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,29"
           to: "00:00:12,22"
-          text: "I started working in a factory in 1934/1935. And then were the big days of 1936."
+          text: "1934/1935 fing ich an in einer Fabrik zu arbeiten. Dann kamen die großen Tage von 1936."
         sequence-2:
           s: 2
           from: "00:00:12,22"
           to: "00:00:26,02"
-          text: "It was then I joined the labor movement. I participated in the big strikes of 1936. I was 16, worked in a factory."
+          text: "Da schloss ich mich der Arbeiterbewegung an. Ich war Teil der großen Streiks von 1936. Ich war 16 und arbeitete in einer Fabrik."
         sequence-3:
           s: 3
           from: "00:00:26,02"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:26,25"
           to: "00:00:33,00"
-          text: "Later on, in 1937/1938 I joined the Communist Youth Movement."
+          text: "Später, 1937/1938 schloss ich mich der Jeneusse Communiste an."
         sequence-5:
           s: 5
           from: "00:00:33,00"

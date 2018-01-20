@@ -238,22 +238,22 @@ it:
           s: 47
           from: "00:03:59,23"
           to: "00:04:05,19"
-          text: "Io e mio cugino eravamo molto scossi."
+          text: "E noi due, anche noi eravamo completamente a pezzi."
         sequence-48:
           s: 48
           from: "00:04:05,19"
           to: "00:04:10,17"
-          text: "La moglie del contadino disse: \"Rimanete in casa e non uscite."
+          text: "Lei ci disse: \"Voi rimanete in casa e non uscite"
         sequence-49:
           s: 49
           from: "00:04:10,17"
           to: "00:04:14,22"
-          text: "Non dite a nessuno cosa sia successo.\" Così fu."
+          text: "e non dite a nessuno cosa sia successo.\" Così fu."
         sequence-50:
           s: 50
           from: "00:04:14,22"
           to: "00:04:21,16"
-          text: "Se qualcuno ci diceva ti tenerci qualcosa per noi, lo facevamo."
+          text: "Se qualcuno ci diceva ti tenerci qualcosa per noi, lo facevamo, chiudevamo la bocca."
         sequence-51:
           s: 51
           from: "00:04:21,16"
