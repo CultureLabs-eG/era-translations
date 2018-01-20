@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:26,04"
           to: "00:03:33,04"
-          text: "In two hours time a patrol will come and there mustn’t be anything showing.”"
+          text: "In due ore arriverà una pattuglia e non si deve vedere nulla.\""
         sequence-42:
           s: 42
           from: "00:03:33,04"
@@ -218,17 +218,17 @@ it:
           s: 43
           from: "00:03:36,15"
           to: "00:03:37,29"
-          text: "And they did that."
+          text: "E così fecero."
         sequence-44:
           s: 44
           from: "00:03:37,29"
           to: "00:03:47,10"
-          text: "The farmer buried the partisans and the farmer’s wife cleaned up, wiped the blood up."
+          text: "Il contadino seppellì i partigiani e sua moglie ripulì tutto dal sangue."
         sequence-45:
           s: 45
           from: "00:03:47,10"
           to: "00:03:56,17"
-          text: "It was hard for her to mop all that and she cried hard, kneeling in the blood."
+          text: "Era difficile per lei pulire tutto e pianse forte, inginocchiata nel sangue."
         sequence-46:
           s: 46
           from: "00:03:56,17"
@@ -238,32 +238,32 @@ it:
           s: 47
           from: "00:03:59,23"
           to: "00:04:05,19"
-          text: "My cousin and I were totally shattered."
+          text: "Io e mio cugino eravamo molto scossi."
         sequence-48:
           s: 48
           from: "00:04:05,19"
           to: "00:04:10,17"
-          text: "The farmer’s wife said: “You stay indoors and don’t go outside."
+          text: "La moglie del contadino disse: \"Rimanete in casa e non uscite."
         sequence-49:
           s: 49
           from: "00:04:10,17"
           to: "00:04:14,22"
-          text: "Don’t you tell anybody what happened.” We didn’t."
+          text: "Non dite a nessuno cosa sia successo.\" Così fu."
         sequence-50:
           s: 50
           from: "00:04:14,22"
           to: "00:04:21,16"
-          text: "If somebody told us to keep something to ourselves, we did."
+          text: "Se qualcuno ci diceva ti tenerci qualcosa per noi, lo facevamo."
         sequence-51:
           s: 51
           from: "00:04:21,16"
           to: "00:04:25,23"
-          text: "We protected the partisans so much when we were kids;"
+          text: "Abbiamo protetto i partigiani così tanto, da bambini;"
         sequence-52:
           s: 52
           from: "00:04:25,23"
           to: "00:04:29,26"
-          text: "they were our friends"
+          text: "erano i nostri amici"
         sequence-53:
           s: 53
           from: "00:04:29,26"
@@ -273,4 +273,4 @@ it:
           s: 54
           from: "00:04:32,19"
           to: "00:04:34,29"
-          text: "and the Germans were our enemies."
+          text: "e i tedeschi erano i nostri amici."

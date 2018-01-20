@@ -2,13 +2,13 @@ de:
   giacomo-notari:
     chapter-1:
       c: 1
-      title: "Introduction, family, school"
+      title: "Vorstellung, Familie, Schule"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,07"
           to: "00:00:04,25"
-          text: "My name is Giacomo Notari."
+          text: "Also, ich heiße Giacomo Notari."
         sequence-2:
           s: 2
           from: "00:00:04,25"

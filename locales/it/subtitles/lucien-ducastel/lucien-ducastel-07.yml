@@ -2,13 +2,13 @@ it:
   lucien-ducastel:
     chapter-7:
       c: 7
-      title: "Liberation at Auschwitz; coming home"
+      title: "La liberazione ad Auschwitz: il ritorno a casa"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,11"
           to: "00:00:03,27"
-          text: "Liberation came in 1945."
+          text: "Allora, nel 1945 c'è stata la liberazione."
         sequence-2:
           s: 2
           from: "00:00:03,27"
