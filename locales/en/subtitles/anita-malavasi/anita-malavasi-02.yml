@@ -78,12 +78,12 @@ en:
           s: 15
           from: "00:01:19,04"
           to: "00:01:24,29"
-          text: "Mr. Ganassi told me: “So you don’t belong to the Piccole Italiane?” I answered: “No, my father didn’t sign me up”."
+          text: "And he said: “Oh, you don’t belong to the Piccole Italiane?” I answered: “No, my father didn’t sign me up”."
         sequence-16:
           s: 16
           from: "00:01:24,29"
           to: "00:01:28,28"
-          text: "“So we can’t give you the award”, said Mr. Ganassi, and sent me back."
+          text: "“Ah beh allora il premio non te lo diamo”."
         sequence-17:
           s: 17
           from: "00:01:28,28"

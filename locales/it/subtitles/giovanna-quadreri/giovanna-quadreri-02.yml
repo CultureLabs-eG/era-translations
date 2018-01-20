@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:09,00"
           to: "00:00:17,08"
-          text: "when he would go to meet the others in the drying-rooms in a forest called “trenta pere” (thirty pears)."
+          text: "quando andava nei ritrovi la sera nei seccatoi che si chiamavano trenta pere, un bosco che si chiamava così"
         sequence-4:
           s: 4
           from: "00:00:17,08"
           to: "00:00:25,18"
-          text: "These drying-rooms in the mountains were empty in the winter, so they would hold meetings there."
+          text: "e c’erano questi seccatoi di montanari che d’inverno non c’era nessuno allora loro andavano lì."
         sequence-5:
           s: 5
           from: "00:00:25,18"
@@ -33,42 +33,42 @@ it:
           s: 6
           from: "00:00:29,05"
           to: "00:00:42,09"
-          text: "Before the fascist regime began, was it 1922? No, maybe in 1928 or 1930 then."
+          text: "Prima del regime fascista, è cominciato il ’22 non lo so... quando è cominciato? Eh, nel ’22 è cominciato? No, beh allora nel ’28, nel ’30 siamo."
         sequence-7:
           s: 7
           from: "00:00:42,09"
           to: "00:00:50,10"
-          text: "I was born in 1928 and even when I was very young I was already instructed,"
+          text: "Io sono nata nel ’28 per essere già una bambina perché loro poi ti indirizzavano,"
         sequence-8:
           s: 8
           from: "00:00:50,10"
           to: "00:00:58,01"
-          text: "for example, to go see a family in Buco del Signore and then come back."
+          text: "tu sapevi che andavi là, per dire al Buco del signore e andavi là, là dove c’era quella famiglia, poi tornavi indietro insomma."
         sequence-9:
           s: 9
           from: "00:00:58,01"
           to: "00:01:05,17"
-          text: "I don’t know how to explain this, but even if we were very young, we already knew how to move around,"
+          text: "Era... non so neanche come dire... ecco non è che era... anche se si era piccoli, noi eravamo già in grado di spostarci,"
         sequence-10:
           s: 10
           from: "00:01:05,17"
           to: "00:01:10,22"
-          text: "since in the mountains all these small trails easily led you to a house."
+          text: "perché in montagna tutti questi sentierini portavano in fretta alla prima casa."
         sequence-11:
           s: 11
           from: "00:01:10,22"
           to: "00:01:15,10"
-          text: "There was also the Miliari family, who lived close to us."
+          text: "Poi c’era un’altra famiglia, i Miliari, che abitavano poco lontano da noi, ed era proprio..."
         sequence-12:
           s: 12
           from: "00:01:15,10"
           to: "00:01:21,06"
-          text: "The father was truly an antifascist, he didn’t even have his children baptized."
+          text: "non ha fatto neanche battezzare i suoi figli, era proprio un antifascista,"
         sequence-13:
           s: 13
           from: "00:01:21,06"
           to: "00:01:28,11"
-          text: "I think he had worked in America, so he was very close to my father."
+          text: "era stato... mi sembra in America a lavorare così, e allora sa con mio padre..."
         sequence-14:
           s: 14
           from: "00:01:28,11"

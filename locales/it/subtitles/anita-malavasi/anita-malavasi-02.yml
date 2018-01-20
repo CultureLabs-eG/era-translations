@@ -68,17 +68,17 @@ it:
           s: 13
           from: "00:01:02,17"
           to: "00:01:12,19"
-          text: "il dottore Ganassi, questo lo devo dire perché era un amico di famiglia, e io tutte le sere gli portavo il latte di una mucca che praticamente avevo allevato, anche tutti noi, perché lui aveva un bambino ma non riusciva, gli morivano tutti piccolissimi i bambini, e noi gli portavamo questo latte..."
+          text: "il dottore Ganassi, questo lo devo dire perché era un amico di famiglia, e io tutte le sere gli portavo il latte di una mucca che praticamente avevo allevato, anche tutti noi,"
         sequence-14:
           s: 14
           from: "00:01:12,19"
           to: "00:01:19,04"
-          text: "Since he had a little child and he had been losing all his children when very young."
+          text: "perché lui aveva un bambino ma non riusciva, gli morivano tutti piccolissimi i bambini, e noi gli portavamo questo latte..."
         sequence-15:
           s: 15
           from: "00:01:19,04"
           to: "00:01:24,29"
-          text: "Mr. Ganassi told me: “So you don’t belong to the Piccole Italiane?” I answered: “No, my father didn’t sign me up”."
+          text: "e lui dice: “Ah, ma te non hai la tessera delle piccole italiane”. Dico: “No, papà non me l’ha presa”."
         sequence-16:
           s: 16
           from: "00:01:24,29"

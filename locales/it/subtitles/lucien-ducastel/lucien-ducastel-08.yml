@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:15,20"
           to: "00:00:26,05"
-          text: "“You should come talk in schools, otherwise it will be forgotten history.”"
+          text: "“Tutto ciò non è ancora presente nei libri di scuola, bisogna che tu venga a parlarne.\""
         sequence-4:
           s: 4
           from: "00:00:26,05"
           to: "00:00:31,19"
-          text: "I agreed, but hadn’t really thought about what that meant."
+          text: "Gli ho detto che andava bene, ma non avevo riflettuto su cosa significasse, mi sono semplicemente detto: perché no?"
         sequence-5:
           s: 5
           from: "00:00:31,19"
