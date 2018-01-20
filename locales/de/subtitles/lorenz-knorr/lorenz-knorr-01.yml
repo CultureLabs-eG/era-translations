@@ -8,12 +8,12 @@ de:
           s: 1
           from: "00:00:00,15"
           to: "00:00:04,04"
-          text: "My name is Lorenz Knorr;"
+          text: "Mein Name ist Lorenz Knorr."
         sequence-2:
           s: 2
           from: "00:00:04,04"
           to: "00:00:15,26"
-          text: "born in 1921 and grown up in Eger, now Cheb, in the German populated areas of Czechoslovakia."
+          text: "1921 in Eger, jetzt Cheb, in den deutsch besiedelten Gebieten der Tschechoslowakei, aufgewachsen."
         sequence-3:
           s: 3
           from: "00:00:15,26"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:16,23"
           to: "00:00:20,11"
-          text: "I am a trained typesetter and typographer."
+          text: "Erlernter Beruf: Schriftsetzer und Buchdrucker."
         sequence-5:
           s: 5
           from: "00:00:20,11"
@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:21,08"
           to: "00:00:28,04"
-          text: "After 1945 I was active in the socialistic youth as a state and federation secretary."
+          text: "Nach 1945 tätig in der sozialistischen Jugend als Landes- und als Bundessekretär."
         sequence-7:
           s: 7
           from: "00:00:28,04"
@@ -43,12 +43,12 @@ de:
           s: 8
           from: "00:00:29,20"
           to: "00:00:33,19"
-          text: "For 25 years I was the head of the German Union of Peace"
+          text: "25 Jahre lang an der Spitze der deutschen Friedensunion"
         sequence-9:
           s: 9
           from: "00:00:33,19"
           to: "00:00:39,27"
-          text: "and then federation spokesman for the Association of the victims of persecution by the Nazi regime."
+          text: "und dann Bundessprecher der Vereinigung der Verfolgten des Naziregimes."
         sequence-10:
           s: 10
           from: "00:00:39,27"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:00:42,18"
           to: "00:00:53,06"
-          text: "If you grew up in a family of a labour union official, in the German populated areas of Czechoslovakia"
+          text: "Wer in den 20er und in den 30er Jahren des vorigen Jahrhunderts in den deutsch besiedelten Gebieten der Tschechoslowakei"
         sequence-12:
           s: 12
           from: "00:00:53,06"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:00:54,20"
           to: "00:00:59,01"
-          text: "during the twenties and thirties, of the last century,"
+          text: "in einer Arbeiterfunktionärsfamilie aufgewachsen ist, der kam von Kindheit an mit den politischen Problemen, mit den politischen Kämpfen in Bewegung."
         sequence-14:
           s: 14
           from: "00:00:59,01"
@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:01:00,01"
           to: "00:01:09,02"
-          text: "you encountered the political problems and the political fights from early childhood."
+          text: "Mein Vater war vor dem ersten Weltkrieg der bekannteste Streikführer in Eger"
         sequence-16:
           s: 16
           from: "00:01:09,02"
