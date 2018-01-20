@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:03:03,01"
           to: "00:03:07,03"
-          text: "Life changed dramatically for me."
+          text: "e anche per me la vita cambia completamente;"
         sequence-33:
           s: 33
           from: "00:03:07,03"
