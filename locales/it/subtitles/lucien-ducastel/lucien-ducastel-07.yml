@@ -48,17 +48,17 @@ it:
           s: 9
           from: "00:00:48,18"
           to: "00:01:01,09"
-          text: "Prendiamo il mio caso, io pesavo 70-72 kg al mio arrivo, facevo sport, correvo in bicicletta, ero forte, ben piantato."
+          text: "Quando arrivi che pesi 70-72 kg, come nel mio caso, perché facevo sport, correvo in bicicletta, ero forte, ben piantato…"
         sequence-10:
           s: 10
           from: "00:01:01,09"
           to: "00:01:08,21"
-          text: "e alla fine ti trovi a pesare la metà, 35-36 kg, le cose non stanno più come prima."
+          text: "e alla fine ti trovi a pesare la metà, 35-36 kg, le cose non stanno più come prima,"
         sequence-11:
           s: 11
           from: "00:01:08,21"
           to: "00:01:22,29"
-          text: "Under those conditions, so weak, things don’t work the same way anymore, including reactions and the way the brain works."
+          text: "comprese le reazioni, il funzionamento del cervello… Non è più la stessa cosa, sei indebolito da capo a piedi e per questo è stato molto difficile."
         sequence-12:
           s: 12
           from: "00:01:22,29"

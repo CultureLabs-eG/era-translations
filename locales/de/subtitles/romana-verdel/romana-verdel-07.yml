@@ -93,17 +93,17 @@ de:
           s: 18
           from: "00:01:18,29"
           to: "00:01:21,05"
-          text: "„Nein, ich bin nicht traurig.“ Das hab ich einfach aus Trotz gesagt und aus Wut."
+          text: "„Nein, ich bin nicht traurig.“"
         sequence-19:
           s: 19
           from: "00:01:21,05"
           to: "00:01:24,16"
-          text: "Ich hab’ so eine Wut kriegt, wenn mich jemand das gefragt hat."
+          text: "Das hab ich einfach aus Trotz gesagt und aus Wut."
         sequence-20:
           s: 20
           from: "00:01:24,16"
           to: "00:01:28,01"
-          text: "Entweder hab ich gar keine Antwort gegeben, oder ich habe kalt gesagt: „Nein, ich bin überhaupt nicht traurig.“"
+          text: "Ich hab’ so eine Wut kriegt, wenn mich jemand das gefragt hat."
         sequence-21:
           s: 21
           from: "00:01:28,01"
@@ -113,12 +113,12 @@ de:
           s: 22
           from: "00:01:29,09"
           to: "00:01:37,04"
-          text: "Obwohl ich in Wirklichkeit schon sehr traurig war, dass niemand mehr zurückgekommen ist, in unser – in mein Geburtshaus."
+          text: "Entweder hab ich gar keine Antwort gegeben, oder ich habe kalt gesagt: „Nein, ich bin überhaupt nicht traurig.“"
         sequence-23:
           s: 23
           from: "00:01:37,04"
           to: "00:01:45,27"
-          text: "Also, es sind vier … zwei Tanten sind bei die Partisanen gefallen,"
+          text: "Obwohl ich in Wirklichkeit schon sehr traurig war, dass niemand mehr zurückgekommen ist, in unser – in mein Geburtshaus."
         sequence-24:
           s: 24
           from: "00:01:45,27"
@@ -128,7 +128,7 @@ de:
           s: 25
           from: "00:01:52,25"
           to: "00:01:55,12"
-          text: "und meine Mutter und eine Tante sind im KZ in Ravensbrück ums Leben kommen."
+          text: "Also, es sind vier … zwei Tanten sind bei die Partisanen gefallen,"
         sequence-26:
           s: 26
           from: "00:01:55,12"
@@ -138,12 +138,12 @@ de:
           s: 27
           from: "00:01:57,06"
           to: "00:02:01,29"
-          text: "my mother and one aunt died in the concentration camp in Ravensbrück."
+          text: "und meine Mutter und eine Tante sind im KZ in Ravensbrück ums Leben kommen."
         sequence-28:
           s: 28
           from: "00:02:01,29"
           to: "00:02:07,07"
-          text: "Two uncles died in Dachau"
+          text: "Dann sind zwei Onkel in Dachau ums Leben kommen,"
         sequence-29:
           s: 29
           from: "00:02:07,07"
@@ -153,7 +153,7 @@ de:
           s: 30
           from: "00:02:08,21"
           to: "00:02:11,19"
-          text: "and one cousin got killed with the partisans,"
+          text: "und dann ist ein Cousin gefallen, bei die Partisanen;"
         sequence-31:
           s: 31
           from: "00:02:11,19"
