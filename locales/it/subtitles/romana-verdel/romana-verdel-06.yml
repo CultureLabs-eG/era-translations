@@ -223,12 +223,12 @@ it:
           s: 44
           from: "00:03:37,29"
           to: "00:03:47,10"
-          text: "Il contadino seppellì i partigiani e sua moglie ripulì tutto dal sangue."
+          text: "Il contadino seppellì i partigiani e sua moglie pulì e lavò via tutto,"
         sequence-45:
           s: 45
           from: "00:03:47,10"
           to: "00:03:56,17"
-          text: "Era difficile per lei pulire tutto e pianse forte, inginocchiata nel sangue."
+          text: "ed era difficile per lei pulire tutto e si mise a piangere forte, inginocchiata nel sangue."
         sequence-46:
           s: 46
           from: "00:03:56,17"
