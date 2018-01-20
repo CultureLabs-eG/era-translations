@@ -75,26 +75,22 @@ de:
           s: 14
           from: "00:01:44,27"
           to: "00:02:04,13"
-          text: "Ich zog nach Villa Rivalta und mit nicht einmal 17 Jahren begann ich bei Officine Reggiane – einem Eisenbahn- und Flugzeughersteller – zu arbeiten."
+          text: "Ich zog nach Villa Rivalta und mit nicht einmal 17 Jahren begann ich bei Officine Reggiane zu arbeiten."
         sequence-15:
           s: 15
           from: "00:02:04,13"
           to: "00:02:10,12"
-          text: "Even there, every day was a struggle."
+          text: "Sogar dort war jeder Tag ein Kampf, es war kein schönes Leben."
         sequence-16:
           s: 16
           from: "00:02:10,12"
           to: "00:02:17,27"
-          text: |-
-              It was unpleasant to have to show a 
-              Fascist membership card for everything,
+          text: "Für alles musste man den Mitgliedsausweis der faschistischen Partei vorzeigen"
         sequence-17:
           s: 17
           from: "00:02:17,27"
           to: "00:02:25,15"
-          text: |-
-              and that’s another aspect which had me 
-              disagreeing with the fascists.
+          text: "das war ein weiterer Grund für mich, nicht mit den Faschisten einverstanden zu sein."
         sequence-18:
           s: 18
           from: "00:02:25,15"

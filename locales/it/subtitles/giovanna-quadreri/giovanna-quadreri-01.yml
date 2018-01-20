@@ -93,12 +93,12 @@ it:
           s: 18
           from: "00:02:15,12"
           to: "00:02:25,24"
-          text: "d’estate lui aveva un lavoro fisso diciamo per due mesi andava a trebbiare con quelle macchine da trebbiare il frumento e allora stavano via molto, stavano via quasi due mesi a lavorare."
+          text: "d’estate lui aveva un lavoro fisso diciamo per due mesi andava a trebbiare con quelle macchine da trebbiare il frumento e allora stavano via molto,"
         sequence-19:
           s: 19
           from: "00:02:25,24"
           to: "00:02:34,23"
-          text: "Con il lavoro che teneva mio padre perché era bravo a tenere a queste macchine"
+          text: "stavano via quasi due mesi a lavorare. Con il lavoro che teneva mio padre perché era bravo a tenere a queste macchine"
         sequence-20:
           s: 20
           from: "00:02:34,23"
@@ -108,17 +108,17 @@ it:
           s: 21
           from: "00:02:43,02"
           to: "00:02:49,14"
-          text: "Ecco quelle lì, allora mio padre d’estate lavorava sempre con questa famiglia, per 42 anni ha lavorato per questa famiglia."
+          text: "Mio padre d’estate lavorava sempre con questa famiglia, per 42 anni ha lavorato per questa famiglia."
         sequence-22:
           s: 22
           from: "00:02:49,14"
           to: "00:02:54,02"
-          text: "and that was the only regular salary throughout the year."
+          text: "L’unico stipendio che c’era sempre era quello lì di tutto l’anno,"
         sequence-23:
           s: 23
           from: "00:02:54,02"
           to: "00:03:00,03"
-          text: "At times he would also manage to work for a couple of weeks, once or twice a year."
+          text: "il resto ci facevano fare quindici giorni, ma una volta o due all’anno e basta."
         sequence-24:
           s: 24
           from: "00:03:00,03"

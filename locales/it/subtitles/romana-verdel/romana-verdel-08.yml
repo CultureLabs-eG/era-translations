@@ -2,7 +2,7 @@ it:
   romana-verdel:
     chapter-8:
       c: 8
-      title: "Discrimination of Slovenians after war"
+      title: "La discriminazione degli sloveni dopo la guerra"
       subtitles:
         sequence-1:
           s: 1
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:25,04"
           to: "00:01:31,17"
-          text: "Nonostante in precedenta avessimo considerato gli inglesi come alleati in nostro aiuto,"
+          text: "Nonostante prima avessimo considerato gli inglesi come alleati in nostro aiuto,"
         sequence-20:
           s: 20
           from: "00:01:31,17"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:32,25"
           to: "00:01:37,16"
-          text: "it was a big disappointment later."
+          text: "in seguito fu una grande delusione."
         sequence-22:
           s: 22
           from: "00:01:37,16"
@@ -118,14 +118,14 @@ it:
           s: 23
           from: "00:01:41,12"
           to: "00:01:47,02"
-          text: "I still can’t understand why the English"
+          text: "Ancora adesso non capisco perché gli inglesi"
         sequence-24:
           s: 24
           from: "00:01:47,02"
           to: "00:01:52,06"
-          text: "let themselves be so influenced by the Nazis"
+          text: "si fossero fatti influenzare tanto dai nazisti,"
         sequence-25:
           s: 25
           from: "00:01:52,06"
           to: "00:01:58,03"
-          text: "and we – the partisans and the Slovenes - were the enemies again."
+          text: "e noi eravamo di nuovo nemici: solo i partigiani e gli sloveni."

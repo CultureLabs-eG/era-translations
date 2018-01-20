@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:01:26,01"
           to: "00:01:31,23"
-          text: "On the other hand, my family was a traditional Christian and catholic family."
+          text: "Meine Familie war christlicher, katholischer Herkunft."
         sequence-20:
           s: 20
           from: "00:01:31,23"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:32,18"
           to: "00:01:35,12"
-          text: "My father used to sing in church."
+          text: "Mein Vater sang in der Kirche."
         sequence-22:
           s: 22
           from: "00:01:35,12"
