@@ -33,12 +33,12 @@ de:
           s: 6
           from: "00:00:39,27"
           to: "00:00:50,22"
-          text: "Ich wurde zum Militärdienst eingezogen, ging nach Bologna und dann nach Orvieto, wo ich die Grundausbildung abschloss."
+          text: "Ich wurde zum Militärdienst eingezogen, ging nach Bologna und dann nach Orvieto, wo ich die Grundausbildung absolvierte."
         sequence-7:
           s: 7
           from: "00:00:50,22"
           to: "00:00:56,05"
-          text: "Nach der Grundausbildung wurden wir an verschiedene Orte geschickt."
+          text: "Nach der Grundausbildung wurden wir an verschiedene Orte versetzt."
         sequence-8:
           s: 8
           from: "00:00:56,05"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:01:16,18"
           to: "00:01:22,21"
-          text: "Wir gingen im Palazzo Venezia zur Wache."
+          text: "Wir gingen im Palazzo Venezia Wache."
         sequence-12:
           s: 12
           from: "00:01:22,21"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:02:02,05"
           to: "00:02:08,17"
-          text: "Ich ging zum Schlaafsaal und als ich einen der Briefe öffnete, kam mein Leutnant,"
+          text: "Ich ging zum Schlafsaal und als ich einen der Briefe öffnete, kam mein Leutnant,"
         sequence-18:
           s: 18
           from: "00:02:08,17"
@@ -110,7 +110,7 @@ de:
           s: 21
           from: "00:02:26,28"
           to: "00:02:33,18"
-          text: "Der Marschall nahm mir zu erst den Brief aus der Hand."
+          text: "Der Marschall nahm mir zuerst den Brief aus der Hand."
         sequence-22:
           s: 22
           from: "00:02:33,18"
