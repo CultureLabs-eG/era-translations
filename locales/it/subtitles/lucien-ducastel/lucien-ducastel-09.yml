@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:00,15"
           to: "00:00:07,19"
-          text: "We tried to go undercover as much as possible during the German occupation,"
+          text: "Abbiamo vissuto l'occupazione nascondendoci il più possibile,"
         sequence-2:
           s: 2
           from: "00:00:07,19"
           to: "00:00:14,06"
-          text: "even though I was not totally undercover. I still lived with my parents."
+          text: "anche se io abitavo ancora dai miei genitori. Non ero clandestino nel vero senso della parola."
         sequence-3:
           s: 3
           from: "00:00:14,06"
