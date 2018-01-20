@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:38,21"
           to: "00:00:44,15"
-          text: "It took many years before I had it worked out"
+          text: "Mi ci vollero molti anni per trovare un bilancio, e questo solo"
         sequence-11:
           s: 11
           from: "00:00:44,15"
@@ -63,9 +63,9 @@ it:
           s: 12
           from: "00:00:45,26"
           to: "00:00:51,23"
-          text: "that it weren’t the Germans as such – it were just the fascists."
+          text: "quando sono arrivata a capire che non si tratta di tedeschi, ma semplicemente di fascisti."
         sequence-13:
           s: 13
           from: "00:00:51,23"
           to: "00:00:58,12"
-          text: "But not all are German; they can be from anywhere, in other countries."
+          text: "E questi non sono solo tedeschi, ma di ogni paese possibile."

@@ -2,13 +2,13 @@ it:
   lucien-ducastel:
     chapter-8:
       c: 8
-      title: "Activity as eyewitness; message"
+      title: "L'attività di testimone; il messaggio"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,08"
           to: "00:00:06,15"
-          text: "I was invited as a witness to a school."
+          text: "Ero stato invitato a testimoniare in una scuola."
         sequence-2:
           s: 2
           from: "00:00:06,15"

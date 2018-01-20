@@ -118,7 +118,7 @@ de:
           s: 23
           from: "00:02:40,15"
           to: "00:02:51,28"
-          text: "Es war besser, Flugblätter nur nachts zu verteilen, aber nicht zu oft, weil man sehr vorsichtig sein musste."
+          text: "Wir versuchten Flugblätter nicht am Tag, sondern nur nachts zu verteilen, und eher am Abend, weil man sehr vorsichtig sein musste."
         sequence-24:
           s: 24
           from: "00:02:51,28"
@@ -128,4 +128,4 @@ de:
           s: 25
           from: "00:02:54,06"
           to: "00:03:02,27"
-          text: "Unter diesen Umständen wurde ich politische aktiv, bei der Arbeit und in meinem Alltag."
+          text: "Unter diesen Umständen wurde ich zu einem aktiven Mitglied, bei der Arbeit und in meinem Alltag."
