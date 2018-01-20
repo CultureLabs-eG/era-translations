@@ -95,7 +95,7 @@ de:
           s: 18
           from: "00:02:25,15"
           to: "00:02:31,27"
-          text: "Bei allem was man tat, allem was man brauchte,"
+          text: "Bei allem was man tat, bei allem was man brauchte,"
         sequence-19:
           s: 19
           from: "00:02:31,27"
@@ -150,20 +150,14 @@ de:
           s: 29
           from: "00:03:39,25"
           to: "00:03:52,16"
-          text: |-
-              It’s not like someone stopped me from going, 
-              it’s just that it was enough to learn the basics of reading and writing.
+          text: "Es war nicht aus Bosheit, es war nur so, dass es genügte, wenn man Lesen und Schreiben gelernt hatte."
         sequence-30:
           s: 30
           from: "00:03:52,16"
           to: "00:04:03,02"
-          text: |-
-              Later, in the army, I used to write letters for a fellow soldier from Guastalla 
-              and two more who were from the mountains.
+          text: "Später, in der Armee, schrieb ich Briefe für einen Kameraden aus Guastalla und zwei weitere aus den Bergen."
         sequence-31:
           s: 31
           from: "00:04:03,02"
           to: "00:04:13,22"
-          text: |-
-              They were my age but didn’t know how to write:
-              I was not better than them, but I had gone to school until third grade.
+          text: "Sie waren in meinem Alter, aber sie konnten nicht schreiben. Ich war nicht besser als sie, außer dass ich bis zur dritten Klasse zur Schule ging."

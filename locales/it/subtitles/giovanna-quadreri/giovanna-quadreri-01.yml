@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:01,17"
           to: "00:00:23,01"
-          text: "My father was a foundling, who was adopted by my grandfather, Carlo Zebenini, when he was just a baby."
+          text: "Mio nonno era Zebenini Carlo. Era un padre che aveva preso mio papà, perché mio papà era un esposto, un figlio di NN, non so come dite voi, era un figlio di... di nessuno. L’aveva preso da piccolino."
         sequence-2:
           s: 2
           from: "00:00:23,01"
@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:03:55,29"
           to: "00:04:02,09"
-          text: "So I would go to bed at one and then get up to wake him up at two. He didn’t ask his wife to do it."
+          text: "perché sua moglie magari... io andavo a bussare perché lui andava a lavorare nel forno."
         sequence-33:
           s: 33
           from: "00:04:02,09"
