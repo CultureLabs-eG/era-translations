@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:54,20"
           to: "00:00:59,01"
-          text: "nella famiglia di un funzionario della classe lavoratrice,"
+          text: "all'interno della famiglia di un funzionario della classe lavoratrice,"
         sequence-14:
           s: 14
           from: "00:00:59,01"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:00,01"
           to: "00:01:09,02"
-          text: "you encountered the political problems and the political fights from early childhood."
+          text: "avrai a che fare fin da piccolo con problemi e lotte politiche in continua evoluzione."
         sequence-16:
           s: 16
           from: "00:01:09,02"

@@ -305,34 +305,32 @@ de:
           s: 60
           from: "00:06:46,26"
           to: "00:06:52,07"
-          text: "I spent two months in the San Tommaso prison, in Reggio Emilia,"
+          text: "Ich verbrachte zwei Monate im San Tommaso Gefängnis in Reggio Emilia,"
         sequence-61:
           s: 61
           from: "00:06:52,07"
           to: "00:06:58,18"
-          text: "before they were forced to transfer us to make room for new inmates."
+          text: "bis sie gezwungen waren uns zu verlegen, um Platz für neue Häftlinge zu machen."
         sequence-62:
           s: 62
           from: "00:06:58,18"
           to: "00:07:07,26"
-          text: "We were 18 or 19, all fettered to the same chain."
+          text: "Wir waren 18 or 19, alle an der gleichen Kette gefesselt."
         sequence-63:
           s: 63
           from: "00:07:07,26"
           to: "00:07:16,04"
-          text: "Our families had been told we would be at the station,"
+          text: "Unsere Familien wurden gewarnt, dass wir am Bahnhof sein würden."
         sequence-64:
           s: 64
           from: "00:07:16,04"
           to: "00:07:24,20"
-          text: "so once we got there they had come to see us, and some of them were crying:"
+          text: "als wir dort waren, wren sie gekommen, um uns zu sehen und manche von ihnen weinten."
         sequence-65:
           s: 65
           from: "00:07:24,20"
           to: "00:07:35,09"
-          text: |-
-              we had to pretend everything was ok 
-              and force a smile in order to make it easier for them.
+          text: "Wir mussten so tun, als ob alles in Ordnung wäre und uns zum Lachen zwingen, um es einfacher für sie zu machen."
         sequence-66:
           s: 66
           from: "00:07:35,09"

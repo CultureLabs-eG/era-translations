@@ -68,17 +68,17 @@ it:
           s: 13
           from: "00:01:35,12"
           to: "00:01:50,24"
-          text: "poi lui si è trovato con Gordon, quello che è morto ieri, e dei ragazzi un po’ speciali e allora Don Carlo dice: “Io direi di affidarvi alla missione inglese” che cominciavano a venire giù dei paracadutisti."
+          text: "poi lui si è trovato con Gordon, quello che è morto ieri, e dei ragazzi un po’ speciali e allora Don Carlo dice: “Io direi di affidarvi alla missione inglese”"
         sequence-14:
           s: 14
           from: "00:01:50,24"
           to: "00:01:56,00"
-          text: "At that time paratroopers were starting to be dropped in the area,"
+          text: "che cominciavano a venire giù dei paracadutisti."
         sequence-15:
           s: 15
           from: "00:01:56,00"
           to: "00:02:09,28"
-          text: "and they had set up the English command with radio transmitters in Secchio."
+          text: "Allora infatti, allora hanno messo a Secchio il comando della missione inglese, con i trasmettitori, come si dice... con quegli affari lì da trasmettere che avevano, allora dice: “Io mi appoggio lì”."
         sequence-16:
           s: 16
           from: "00:02:09,28"
@@ -88,22 +88,22 @@ it:
           s: 17
           from: "00:02:14,14"
           to: "00:02:22,22"
-          text: "They asked the Central Headquarters to provide them with around 25 skilled partisans,"
+          text: "Allora hanno scelto fra questi del comando unico si sono fatti dare 23-24 partigiani, fra quelli un po’ scelti,"
         sequence-18:
           s: 18
           from: "00:02:22,22"
           to: "00:02:29,14"
-          text: "who had been there for a while and were well trained."
+          text: "fra quelli che era già un po’ che erano lì, che erano bravi che erano..."
         sequence-19:
           s: 19
           from: "00:02:29,14"
           to: "00:02:38,26"
-          text: "You have to realise that at the beginning there were all sorts of people in the mountains,"
+          text: "perché sa, purtroppo lì i primi tempi specialmente c’è un po’ di tutto e allora sai,"
         sequence-20:
           s: 20
           from: "00:02:38,26"
           to: "00:02:48,29"
-          text: "but the English only wanted experienced men, so 25 partisans were chosen to join them."
+          text: "volevano proprio delle persone molto serie, così, niente. E c’erano questi, questi 25 che sono andati sotto la missione inglese."
         sequence-21:
           s: 21
           from: "00:02:48,29"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:02:52,09"
           to: "00:02:59,02"
-          text: "Then they had to set up a dispatch-carriers unit,"
+          text: "Ah dopo io, allora hanno cominciato a dire: “Ma adesso dobbiamo organizzare delle staffette”,"
         sequence-23:
           s: 23
           from: "00:02:59,02"
