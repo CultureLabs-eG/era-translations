@@ -230,9 +230,7 @@ de:
           s: 45
           from: "00:05:07,25"
           to: "00:05:14,27"
-          text: |-
-              There, I was confronted with a lot of stories, 
-              and I still had to deal with the issue of the letter.
+          text: "Ich wurde mit verschiedenen Geschichten konfrontiert und ich hatte immer noch das Problem mit diesem Brief."
         sequence-46:
           s: 46
           from: "00:05:14,27"
