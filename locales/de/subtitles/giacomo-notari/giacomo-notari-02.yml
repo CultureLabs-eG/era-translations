@@ -13,7 +13,7 @@ de:
           s: 2
           from: "00:00:07,09"
           to: "00:00:10,23"
-          text: "dass wir die Rede des \"duce\" aus dem Palazzo Venezia hörten."
+          text: "dass wir die Rede des \"duce\" (Mussolini) aus dem Palazzo Venezia hörten."
         sequence-3:
           s: 3
           from: "00:00:10,23"
@@ -68,12 +68,12 @@ de:
           s: 13
           from: "00:00:58,10"
           to: "00:01:04,08"
-          text: "including the portrait of Mussolini, which had been respected so much until then."
+          text: "im zweiten Stock. Auch das Bild von Mussolini, das bis dahin verehrt worden war."
         sequence-14:
           s: 14
           from: "00:01:04,08"
           to: "00:01:09,07"
-          text: "Seeing these things in the dirt of the street,"
+          text: "Diese Sachen im Staub der unasphaltierten Straße zu sehen"
         sequence-15:
           s: 15
           from: "00:01:09,07"
@@ -83,4 +83,4 @@ de:
           s: 16
           from: "00:01:10,05"
           to: "00:01:13,21"
-          text: "well that was the first turning point."
+          text: "ist der erste Wendepunkt gewesen."

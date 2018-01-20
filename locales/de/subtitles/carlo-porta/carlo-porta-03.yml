@@ -130,7 +130,7 @@ de:
           s: 25
           from: "00:02:55,01"
           to: "00:03:02,10"
-          text: "Die arme erzählte mir diese Dinge ganz offen, weil ich in Rom war. Und stattdessen haben sie mich dort erwischt."
+          text: "Die Arme erzählte mir diese Dinge ganz offen, weil ich in Rom war. Und stattdessen haben sie mich dort erwischt."
         sequence-26:
           s: 26
           from: "00:03:02,10"
@@ -170,12 +170,12 @@ de:
           s: 33
           from: "00:03:46,20"
           to: "00:03:54,00"
-          text: "In anderen Fällen, z.B. als ich verhaftet wurde,"
+          text: "In anderen Fällen, z.B. als ich verhaftet wurde, waren wir 18 Mann."
         sequence-34:
           s: 34
           from: "00:03:54,00"
           to: "00:04:03,19"
-          text: "waren wir 18 Mann. Wir hatten einen ganzen Wagon für uns und es gab keine anderen Leuten."
+          text: "Wir hatten einen ganzen Wagon für uns und es gab keine anderen Leuten."
         sequence-35:
           s: 35
           from: "00:04:03,19"
@@ -220,7 +220,7 @@ de:
           s: 43
           from: "00:04:53,26"
           to: "00:05:00,28"
-          text: "Im Zug von Bologna nach Reggio-Emilia waren viel weniger Leute."
+          text: "Im Zug von Bologna nach Reggio Emilia waren viel weniger Leute."
         sequence-44:
           s: 44
           from: "00:05:00,28"
@@ -260,7 +260,7 @@ de:
           s: 51
           from: "00:05:48,09"
           to: "00:05:59,16"
-          text: "ich schützte mich selbst, sodass er auf die Handschellen schlug. Er wurde böse und schlug mich zwei oder drei Mal."
+          text: "Ich schützte mich selbst, sodass er auf die Handschellen schlug. Er wurde böse und schlug mich zwei oder drei Mal."
         sequence-52:
           s: 52
           from: "00:05:59,16"
@@ -310,7 +310,7 @@ de:
           s: 61
           from: "00:06:52,07"
           to: "00:06:58,18"
-          text: "bis sie gezwungen waren uns zu verlegen, um Platz für neue Häftlinge zu machen."
+          text: "bis sie uns verlegen mussten, um Platz für neue Häftlinge zu machen."
         sequence-62:
           s: 62
           from: "00:06:58,18"
@@ -325,7 +325,7 @@ de:
           s: 64
           from: "00:07:16,04"
           to: "00:07:24,20"
-          text: "als wir dort waren, waren sie gekommen, um uns zu sehen und manche von ihnen weinten."
+          text: "Als wir dort waren, waren sie gekommen, um uns zu sehen und manche von ihnen weinten."
         sequence-65:
           s: 65
           from: "00:07:24,20"
@@ -370,7 +370,7 @@ de:
           s: 73
           from: "00:08:20,20"
           to: "00:08:27,18"
-          text: "Es gab nur eine kleine Öffnung in der Tür ein ein winziges Fenster für frische Luft."
+          text: "Es gab nur eine kleine Öffnung in der Tür und ein winziges Fenster für frische Luft."
         sequence-74:
           s: 74
           from: "00:08:27,18"
