@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:35,16"
           to: "00:00:43,11"
-          text: "although I was really suffering about not being able to see these people."
+          text: "Nonostante stessi soffrendo moltissimo per il fatto di non rivedere mai più queste persone, la zia e gli altri."
         sequence-10:
           s: 10
           from: "00:00:43,11"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:45,21"
           to: "00:00:54,13"
-          text: "Father had already died in August 1943."
+          text: "Mio padre era già morto nel '43, in agosto,"
         sequence-12:
           s: 12
           from: "00:00:54,13"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:59,20"
           to: "00:01:02,24"
-          text: "I had forgotten all about him."
+          text: "e me ne ero già completamente dimenticata."
         sequence-14:
           s: 14
           from: "00:01:02,24"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:10,26"
           to: "00:01:12,10"
-          text: "Whenever someone asked me:"
+          text: "Ma era... quando qualcuno mi chiedeva:"
         sequence-16:
           s: 16
           from: "00:01:12,10"
@@ -88,12 +88,12 @@ it:
           s: 17
           from: "00:01:13,27"
           to: "00:01:18,29"
-          text: "“Are you sad that your mother won’t come any more?”"
+          text: "\"Sei triste che tua mamma non tornerà mai più?\""
         sequence-18:
           s: 18
           from: "00:01:18,29"
           to: "00:01:21,05"
-          text: "I always answered: “No, I’m not sad.”"
+          text: "Io rispondevo: \"No, non sono triste.\""
         sequence-19:
           s: 19
           from: "00:01:21,05"

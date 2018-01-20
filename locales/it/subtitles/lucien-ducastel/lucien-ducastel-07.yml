@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:32,23"
           to: "00:01:45,05"
-          text: "When we were liberated, they put us onto wagons, depending on the region we were going to."
+          text: "Ci hanno messi in dei vagoni a seconda della regione in cui andavamo, mentre ci dicevano \"Arrangiatevi!\""
         sequence-15:
           s: 15
           from: "00:01:45,05"
           to: "00:01:55,15"
-          text: "I went back to Rouen. There were three or four of us. We had lost hundreds of friends."
+          text: "Sono tornato a Rouen. Dovevamo essere, non so, forse  3 o 4, qualche compagno l'avevamo perso."
         sequence-16:
           s: 16
           from: "00:01:55,15"
