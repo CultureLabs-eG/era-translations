@@ -248,12 +248,12 @@ de:
           s: 49
           from: "00:04:35,17"
           to: "00:04:58,01"
-          text: "We didn’t really hurt him, let’s say that nobody did anything that would have got him killed."
+          text: "Jemand gab ihm eine Schelle, aber niemand tat ihm nicht wirklich weh, und niemand rief Dinge wie \"lasst ihn uns töten\"."
         sequence-50:
           s: 50
           from: "00:04:58,01"
           to: "00:05:07,05"
-          text: "Somebody might have kicked him, but everything was ok."
+          text: "Ich meine, wir waren unbewaffnet und vielleicht ihm jemand einen Tritt gegeben, aber das war alles okay."
         sequence-51:
           s: 51
           from: "00:05:07,05"
