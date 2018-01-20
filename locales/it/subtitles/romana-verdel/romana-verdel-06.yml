@@ -203,12 +203,12 @@ it:
           s: 40
           from: "00:03:21,03"
           to: "00:03:26,04"
-          text: "I partigiani devono essere seppelliti, e tutto deve esser pulito."
+          text: "Devono seppellire i partigiani e pulire tutto,"
         sequence-41:
           s: 41
           from: "00:03:26,04"
           to: "00:03:33,04"
-          text: "In due ore arriverà una pattuglia e non si deve vedere nulla.\""
+          text: "e in due ore arriverà una pattuglia e non devono rimanere segni di quel che è successo.\""
         sequence-42:
           s: 42
           from: "00:03:33,04"
@@ -218,7 +218,7 @@ it:
           s: 43
           from: "00:03:36,15"
           to: "00:03:37,29"
-          text: "E così fecero."
+          text: "E fecero davvero così."
         sequence-44:
           s: 44
           from: "00:03:37,29"
