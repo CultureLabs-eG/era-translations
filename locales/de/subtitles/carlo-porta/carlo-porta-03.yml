@@ -160,9 +160,7 @@ de:
           s: 31
           from: "00:03:30,11"
           to: "00:03:38,23"
-          text: |-
-              they had taken everything from me 
-              and that day I was slightly shabby and hadn’t shaved.
+          text: "sie hatten mir alles weggenommen, an dem Tag war ich leicht heruntergekommen, war unrasiert und ich war etwas krank."
         sequence-32:
           s: 32
           from: "00:03:38,23"

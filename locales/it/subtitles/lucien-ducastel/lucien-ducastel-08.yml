@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:06,15"
           to: "00:00:15,20"
-          text: "Ho incontrato un compagno, un insegnante, che mi ha detto:"
+          text: "Ho incontrato un amico, un insegnante, che mi ha detto:"
         sequence-3:
           s: 3
           from: "00:00:15,20"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:03:30,01"
           to: "00:03:38,29"
-          text: "Siete esseri umani, potete avere dei compagni con la pelle scura o neri, perché no? Sono esseri umani come voi."
+          text: "Siete esseri umani, potete avere degli amici con la pelle scura o neri, perché no? Sono esseri umani come voi."
         sequence-35:
           s: 35
           from: "00:03:38,29"
