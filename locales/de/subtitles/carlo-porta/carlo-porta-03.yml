@@ -150,12 +150,12 @@ de:
           s: 29
           from: "00:03:22,08"
           to: "00:03:26,16"
-          text: "Then, one morning, we left from the train station."
+          text: "Eines morgens fuhren wir vom Bahnhof ab."
         sequence-30:
           s: 30
           from: "00:03:26,16"
           to: "00:03:30,11"
-          text: "I had already been reduced to the ranks:"
+          text: "Ich wurde bereits degradiert:"
         sequence-31:
           s: 31
           from: "00:03:30,11"
