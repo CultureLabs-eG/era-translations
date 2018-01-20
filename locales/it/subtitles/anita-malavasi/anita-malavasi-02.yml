@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:17,27"
           to: "00:00:27,10"
-          text: "It’s not easy to colour that with crayons if you’re not good at it."
+          text: "Dipingerlo, cioè colorarlo con i pastelli se non hai la mano abbastanza..."
         sequence-6:
           s: 6
           from: "00:00:27,10"

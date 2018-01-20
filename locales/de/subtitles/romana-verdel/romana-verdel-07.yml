@@ -163,12 +163,12 @@ de:
           s: 32
           from: "00:02:14,28"
           to: "00:02:18,23"
-          text: "one uncle fell in Russia."
+          text: "dann auch ein Onkel in Russland"
         sequence-33:
           s: 33
           from: "00:02:18,23"
           to: "00:02:20,29"
-          text: Altogether
+          text: "und so alle zusammen"
         sequence-34:
           s: 34
           from: "00:02:20,29"
@@ -178,7 +178,7 @@ de:
           s: 35
           from: "00:02:22,25"
           to: "00:02:26,05"
-          text: "it added up to 12 people that died."
+          text: "waren’s 12 Menschen, die gefallen sind."
         sequence-36:
           s: 36
           from: "00:02:26,05"
@@ -188,7 +188,7 @@ de:
           s: 37
           from: "00:02:27,17"
           to: "00:02:37,18"
-          text: "They were my closest relatives, who I grew up with, who were near and dear to me."
+          text: "Also das waren alle meine engsten Verwandten, bei denen ich aufgewachsen bin und die mir lieb waren."
         sequence-38:
           s: 38
           from: "00:02:37,18"
@@ -198,12 +198,12 @@ de:
           s: 39
           from: "00:02:43,25"
           to: "00:02:46,03"
-          text: "The mother was in the concentration camp."
+          text: "Die Mutter ist im KZ."
         sequence-40:
           s: 40
           from: "00:02:46,03"
           to: "00:02:50,01"
-          text: "Father went to the partisans."
+          text: "Der Vater ist zu die Partisanen gegangen, von …"
         sequence-41:
           s: 41
           from: "00:02:50,01"
@@ -213,19 +213,19 @@ de:
           s: 42
           from: "00:02:56,29"
           to: "00:03:02,22"
-          text: "He had fought for Hitler in Finland or somewhere, before."
+          text: "Der Vater war irgendwie in Finnland oder irgendwo in … für den Hitler gekämpft."
         sequence-43:
           s: 43
           from: "00:03:02,22"
           to: "00:03:09,01"
-          text: "He saw that it was wrong and when he came home on holiday, he went to the partisans."
+          text: "Und dann hat er gesehen, dass das falsch ist, dann ist er auf Urlaub gekommen und dann ist er zu die Partisanen."
         sequence-44:
           s: 44
           from: "00:03:09,01"
           to: "00:03:12,10"
-          text: "But he was with them for only for ten minutes and died,"
+          text: "Aber er war nur 10 Minuten bei die Partisanen und ist da gefallen,"
         sequence-45:
           s: 45
           from: "00:03:12,10"
           to: "00:03:14,10"
-          text: "because somebody betrayed him."
+          text: "weil ihn einer verraten hat."
