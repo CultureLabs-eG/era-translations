@@ -118,22 +118,22 @@ it:
           s: 23
           from: "00:02:59,02"
           to: "00:03:08,03"
-          text: "and I was the only one assigned to Reggio, at the local headquarters."
+          text: "ma dice: “Tu sei destinata a Reggio, solo tu, perché tu, c’è un comando qui a Reggio”,"
         sequence-24:
           s: 24
           from: "00:03:08,03"
           to: "00:03:19,27"
-          text: "I was told to go see a group of men I already knew. There was Grandi, a lawyer, Piccinini, an architect, and the Count Calvi."
+          text: "e io dovevo andare da questi, io già conoscevo. C’era l’avvocato Grandi, Piccinini che era architetto, il conte Calvi."
         sequence-25:
           s: 25
           from: "00:03:19,27"
           to: "00:03:26,28"
-          text: "They were six initially, then Mattia told me that one was killed."
+          text: "Erano sei poi dopo due, uno l’hanno ammazzato mi ha detto Mattia e l’altro non so."
         sequence-26:
           s: 26
           from: "00:03:26,28"
           to: "00:03:34,09"
-          text: "Still, at the beginning there were these six antifascists who were in charge of things in Reggio."
+          text: "Ma erano 6 subito, questi antifascisti che avevano la piazza di Reggio."
         sequence-27:
           s: 27
           from: "00:03:34,09"
@@ -143,37 +143,37 @@ it:
           s: 28
           from: "00:03:36,21"
           to: "00:03:44,28"
-          text: "I had to go home to my mother’s and uncles’ house. They were staying in Davoli’s house,"
+          text: "Allora io dovevo andare a casa là da mia madre e dai miei zii, che erano proprio nella casa di Davoli,"
         sequence-29:
           s: 29
           from: "00:03:44,28"
           to: "00:03:55,11"
-          text: "or I should rather say Kiss, the one in charge of the dispatch-riders, who had set up quite a few things."
+          text: "di quello Giulio, di Kiss quello che è venuto che era poi infatti il comandante delle staffette, e infatti aveva organizzato un bel pochino."
         sequence-30:
           s: 30
           from: "00:03:55,11"
           to: "00:04:00,29"
-          text: "However I was the only one who would go to Reggio."
+          text: "Però io, solo io dovevo venire a Reggio,"
         sequence-31:
           s: 31
           from: "00:04:00,29"
           to: "00:04:10,09"
-          text: "They realised I would remember things and take care of everything properly."
+          text: "perché insomma dopo, avevano imparato che io riuscivo a ricordarmi, a fare le cose ben fatte. Magari se c’eravamo in di più..."
         sequence-32:
           s: 32
           from: "00:04:10,09"
           to: "00:04:19,26"
-          text: "I often didn’t write things down, although sometimes I did, in order to remember the names of the Germans for example."
+          text: "Invece io, delle volte, non scrivevo certe cose, certe cose io le scrivevo sulle cartine e poi le mangiavo anche, se mi avessero trovato,"
         sequence-33:
           s: 33
           from: "00:04:19,26"
           to: "00:04:26,00"
-          text: "I would have eaten the slips of paper if I was caught."
+          text: "perché come ricordarsi dei nomi tedeschi e cose così allora."
         sequence-34:
           s: 34
           from: "00:04:26,00"
           to: "00:04:37,23"
-          text: "To give you an example, when they told me to go and inform the others that a mop-up was scheduled, lead by Dolmann or Surmann,"
+          text: "Allora io quando mi dicevano: “Vai perché per il tal giorno c’è un rastrellamento, lo comanda Dolmann, lo comanda Surmann”"
         sequence-35:
           s: 35
           from: "00:04:37,23"

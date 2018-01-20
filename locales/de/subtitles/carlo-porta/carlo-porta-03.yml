@@ -325,7 +325,7 @@ de:
           s: 64
           from: "00:07:16,04"
           to: "00:07:24,20"
-          text: "als wir dort waren, wren sie gekommen, um uns zu sehen und manche von ihnen weinten."
+          text: "als wir dort waren, waren sie gekommen, um uns zu sehen und manche von ihnen weinten."
         sequence-65:
           s: 65
           from: "00:07:24,20"
@@ -335,14 +335,12 @@ de:
           s: 66
           from: "00:07:35,09"
           to: "00:07:42,16"
-          text: |-
-              When we arrived in Castelfranco, the warden came over 
-              and asked the sergeant, who was in charge of the guards,
+          text: "Als wir in Castelfranco ankamen, frug der Chef der Wärter den Direktor,"
         sequence-67:
           s: 67
           from: "00:07:42,16"
           to: "00:07:50,24"
-          text: "where they were supposed to put us, since the prison was also full."
+          text: "wo sie uns hinbringen sollten, denn das Gefängnis war auch voll."
         sequence-68:
           s: 68
           from: "00:07:50,24"
