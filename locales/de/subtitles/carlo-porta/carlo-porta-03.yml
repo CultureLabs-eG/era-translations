@@ -135,16 +135,12 @@ de:
           s: 26
           from: "00:03:02,10"
           to: "00:03:09,15"
-          text: |-
-              I never managed to get that letter back. 
-              Wherever I was taken, the letter seemed to follow me.
+          text: "Diesen Brief bekam ich nie zurück. Wo immer ich hingebracht wurde, der Brief schien mir zu folgen."
         sequence-27:
           s: 27
           from: "00:03:09,15"
           to: "00:03:20,28"
-          text: |-
-              You see, we all used to deny knowing someone, but I couldn’t, 
-              since the names were written on the letter.
+          text: "Wir würden immer leugnen, jemanden gekannt zu haben. Ich konnte nicht, denn die Namen standen in diesem Brief geschrieben."
         sequence-28:
           s: 28
           from: "00:03:20,28"
