@@ -82,34 +82,34 @@ it:
         sequence-16:
           s: 16
           from: "00:01:39,19"
-          to: "00:01:59,00"
-          text: "Mia sorella da piccolina é andata anche lei a servire, a Parma. Lei aveva nove, dieci anni, é andata a Parma con una signora. Al mattino faceva la faccendina di casa, pomeriggio andava con la contessa che era poi una signora molto vecchia. Lei faceva la crocerossina,"
+          to: "00:01:48,00"
+          text: "Mia sorella da piccolina é andata anche lei a servire, a Parma. Lei aveva nove, dieci anni, é andata a Parma con una signora."
         sequence-17:
           s: 17
+          from: "00:01:48,00"
+          to: "00:01:59,00"
+          text: "Al mattino faceva la faccendina di casa, pomeriggio andava con la contessa, che era poi una signora molto vecchia. Lei faceva la crocerossina,"
+        sequence-18:
+          s: 18
           from: "00:01:59,00"
           to: "00:02:10,04"
           text: "allora se la portava in ospedale. Per quello che ha avuto la mania di curare i feriti, di curare la gente, proprio una passione. Ecco perchè dopo é andata nei partigiani"
-        sequence-18:
-          s: 18
+        sequence-19:
+          s: 19
           from: "00:02:10,04"
           to: "00:02:19,24"
           text: "e faceva l’infermiera lei. Faceva quello che poteva fare, le punture, curare delle cose, insomma si impegnava per la gente,"
-        sequence-19:
-          s: 19
+        sequence-20:
+          s: 20
           from: "00:02:19,24"
           to: "00:02:26,06"
           text: "per la gente lì del paese e per i partigiani, ma anche per la gente del paese, perché sai in montagna non c’era niente per nessuno."
-        sequence-20:
-          s: 20
+        sequence-21:
+          s: 21
           from: "00:02:26,06"
           to: "00:02:35,04"
           text: "Mia madre poveretta che era l’unica che sapeva fare le punture correva sempre avanti indietro, la chiamavano dappertutto, anche di notte."
-        sequence-21:
-          s: 21
-          from: "00:02:35,04"
-          to: "00:02:37,06"
-          text: ~
-        sequence-22:
+       sequence-22:
           s: 22
           from: "00:02:37,06"
           to: "00:02:49,23"
