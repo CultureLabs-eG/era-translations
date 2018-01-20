@@ -48,17 +48,17 @@ it:
           s: 9
           from: "00:00:45,11"
           to: "00:00:50,05"
-          text: "Sometimes that led to discussions between us."
+          text: "Questo alle volte ci ha portati a discutere."
         sequence-10:
           s: 10
           from: "00:00:50,05"
           to: "00:01:00,00"
-          text: "I always defended the idea that these people were not necessarily Nazis."
+          text: "Io ho sempre difeso l'idea che queste persone non fossero per forza dei nazisti, lavoravano,"
         sequence-11:
           s: 11
           from: "00:01:00,00"
           to: "00:01:07,19"
-          text: "As French people worked, they worked here and that one had to respect."
+          text: "Erano obbligati a lavorare come i francesi, per questo bisognava rispettarli."
         sequence-12:
           s: 12
           from: "00:01:07,19"
