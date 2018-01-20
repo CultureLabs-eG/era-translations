@@ -98,29 +98,29 @@ it:
           s: 19
           from: "00:01:53,21"
           to: "00:02:02,10"
-          text: "When he wasn’t working he wouldn’t sleep much, because he always had to go see if there was somebody around."
+          text: "lui quando non lavorava... lui dormiva poco, perché lui doveva sempre andare a vedere se c’era qualcuno perché se"
         sequence-20:
           s: 20
           from: "00:02:02,10"
           to: "00:02:14,10"
-          text: "Did you know that they burned down a whole village if a German was killed?"
+          text: "per caso qualcuno avesse ammazzato un tedesco così... e se qualcuno avesse ammazzato un tedesco lo sa che bruciavano addirittura dei paesi?"
         sequence-21:
           s: 21
           from: "00:02:14,10"
           to: "00:02:21,02"
-          text: "They would destroy whatever they found, and kill ten of our people for each German who had been killed."
+          text: "Distruggevano quello che trovavano, ammazzavano un tedesco e ne ammazzavano dieci dei nostri."
         sequence-22:
           s: 22
           from: "00:02:21,02"
           to: "00:02:25,12"
-          text: "That’s why my father was very careful, they burned down only one house in Marola."
+          text: "Allora mio padre stava molto attento, infatti a Marola hanno bruciato solo una casa"
         sequence-23:
           s: 23
           from: "00:02:25,12"
           to: "00:02:30,19"
-          text: "I don’t know if someone was wounded, since I was rarely at home at the time."
+          text: "e non so se è rimasto ferito qualcuno, perché io a quei tempi non ero a casa,"
         sequence-24:
           s: 24
           from: "00:02:30,19"
           to: "00:02:34,27"
-          text: "I was always on the move between the mountains and Reggio."
+          text: "ero un po’ in montagna, un po’ a Reggio a seconda, io ero sempre in viaggio."

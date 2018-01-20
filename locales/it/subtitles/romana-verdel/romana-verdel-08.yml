@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:24,22"
           to: "00:00:31,05"
-          text: "perché avessi tanto interesse nella politica, perché fossi tanto a favore degli sloveni e così via."
+          text: "perché avessi tanto interessi politici, perché fossi tanto a favore degli sloveni e così via."
         sequence-7:
           s: 7
           from: "00:00:31,05"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:07,16"
           to: "00:01:14,14"
-          text: "armati e duri, noi bambini abbiamo pensato - anzi io, in quanto bambina:"
+          text: "armati e rigidi, noi bambini -anzi, io - abbiamo pensato:"
         sequence-16:
           s: 16
           from: "00:01:14,14"

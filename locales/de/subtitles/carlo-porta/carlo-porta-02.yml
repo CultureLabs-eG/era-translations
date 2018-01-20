@@ -48,19 +48,17 @@ de:
           s: 9
           from: "00:00:54,10"
           to: "00:00:57,28"
-          text: "Mein Chef sagte immer,"
+          text: "Mein Chef sagte immer"
         sequence-10:
           s: 10
           from: "00:00:57,28"
           to: "00:01:06,28"
-          text: |-
-              when the soldiers would come back, they would have to become members 
-              of the Party if they wanted to work in the factory”.
+          text: "“wenn die Soldaten zurück nach Hause kommen und in die Partei eintreten, können sie in der Fabrik arbeiten”."
         sequence-11:
           s: 11
           from: "00:01:06,28"
           to: "00:01:11,28"
-          text: "They were my teachers, they taught me how to take care of things."
+          text: "[…] Sie waren meine Lehrer, sie brachten mir bei, wie man leben sollte."
         sequence-12:
           s: 12
           from: "00:01:11,28"
