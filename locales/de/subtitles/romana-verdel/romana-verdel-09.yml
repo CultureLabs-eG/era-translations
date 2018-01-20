@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:13,25"
           to: "00:00:23,15"
-          text: "I started having delusions, bad feelings and fears about people."
+          text: "phantasiert und alles Mögliche, schlimme Gefühle und Angst vor die Leute,"
         sequence-6:
           s: 6
           from: "00:00:23,15"
@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:26,16"
           to: "00:00:32,08"
-          text: "When I saw somebody in uniform coming, I used to hide."
+          text: "und wenn ich einen in Uniform sehen hab kommen, dann hab’ ich mich schon versteckt auch."
         sequence-8:
           s: 8
           from: "00:00:32,08"
@@ -48,12 +48,12 @@ de:
           s: 9
           from: "00:00:34,12"
           to: "00:00:38,21"
-          text: "The Germans were my deadly enemies for a long time."
+          text: "Und die Deutschen waren meine Todfeinde, lange, lange."
         sequence-10:
           s: 10
           from: "00:00:38,21"
           to: "00:00:44,15"
-          text: "It took many years before I had it worked out"
+          text: "Lange Jahre bevor das mit mir selber fertig war, und das nicht"
         sequence-11:
           s: 11
           from: "00:00:44,15"
@@ -63,9 +63,9 @@ de:
           s: 12
           from: "00:00:45,26"
           to: "00:00:51,23"
-          text: "that it weren’t the Germans as such – it were just the fascists."
+          text: "– bis ich drauf kommen bin, dass das nicht der Deutsche ist, es ist einfach der Faschist."
         sequence-13:
           s: 13
           from: "00:00:51,23"
           to: "00:00:58,12"
-          text: "But not all are German; they can be from anywhere, in other countries."
+          text: "Das sind aber nicht nur die Deutschen, das alles Mögliche andere, in alle Länder."

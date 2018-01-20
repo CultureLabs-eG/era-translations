@@ -85,29 +85,27 @@ de:
           s: 16
           from: "00:02:10,12"
           to: "00:02:17,27"
-          text: "Für alles musste man den Mitgliedsausweis der faschistischen Partei vorzeigen"
+          text: "Für alles musste man das Parteibuch der Faschisten vorzeigen."
         sequence-17:
           s: 17
           from: "00:02:17,27"
           to: "00:02:25,15"
-          text: "das war ein weiterer Grund für mich, nicht mit den Faschisten einverstanden zu sein."
+          text: "Das war ein weiterer Grund für mich, nicht mit den Faschisten einverstanden zu sein."
         sequence-18:
           s: 18
           from: "00:02:25,15"
           to: "00:02:31,27"
-          text: "Anything you did, or whatever you might have needed,"
+          text: "Bei allem was man tat, allem was man brauchte,"
         sequence-19:
           s: 19
           from: "00:02:31,27"
           to: "00:02:36,19"
-          text: |-
-              you were always expected to have your 
-              Fascist membership card with you.
+          text: "sollte man das Parteibuch vorzeigen."
         sequence-20:
           s: 20
           from: "00:02:36,19"
           to: "00:02:41,21"
-          text: "I did not believe in this and didn’t want the card,"
+          text: "Ich glaubte nicht daran und ich wollte das Parteibuch nicht."
         sequence-21:
           s: 21
           from: "00:02:41,21"

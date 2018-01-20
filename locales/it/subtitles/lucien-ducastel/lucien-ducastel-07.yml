@@ -148,12 +148,12 @@ it:
           s: 29
           from: "00:03:14,15"
           to: "00:03:25,09"
-          text: "I had been called to the police headquarters because a family was asking for information about their son."
+          text: "Ero stato convocato al commissariato di polizia perché c'erano persone che volevano delle informazioni. Ho pensato molto se andare o meno."
         sequence-30:
           s: 30
           from: "00:03:25,09"
           to: "00:03:33,00"
-          text: "I hesitated for a long time, but finally I decided to go, as it was to help."
+          text: "Poi mi sono detto: \"Serve ad aiutare della gente!\", e ci sono andato."
         sequence-31:
           s: 31
           from: "00:03:33,00"
