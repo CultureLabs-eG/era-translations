@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,14"
           to: "00:00:09,21"
-          text: "1922 I joined the labour sports club ‘Fichte’."
+          text: "1922 bin ich in den Arbeitersportverein \"Fichte\" eingetreten."
         sequence-2:
           s: 2
           from: "00:00:09,21"
@@ -18,12 +18,12 @@ de:
           s: 3
           from: "00:00:11,22"
           to: "00:00:20,18"
-          text: "And all the following years – we practiced gymnastics twice a week –"
+          text: "Und die nachfolgenden Jahre, wir haben zweimal in der Woche geturnt."
         sequence-4:
           s: 4
           from: "00:00:20,18"
           to: "00:00:28,00"
-          text: "influenced us there."
+          text: "Haben dort auch den Einfluß ausgeübt."
         sequence-5:
           s: 5
           from: "00:00:28,00"
@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:29,05"
           to: "00:00:37,17"
-          text: "My sister was in ‘Fichte’, and that was the reason why I joined them, too."
+          text: "Meine Schwester war auch in \"Fichte\" und da bin ich da auch eingetreten."
         sequence-7:
           s: 7
           from: "00:00:37,17"
@@ -43,12 +43,12 @@ de:
           s: 8
           from: "00:00:38,12"
           to: "00:00:43,03"
-          text: "I was the only one in my class."
+          text: "In meiner Klasse war ich dann der Einzige."
         sequence-9:
           s: 9
           from: "00:00:43,03"
           to: "00:00:49,23"
-          text: "There were mainly reactionary teachers there."
+          text: "Da waren ja meistens so reaktionäre Lehrer."
         sequence-10:
           s: 10
           from: "00:00:49,23"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:00:50,18"
           to: "00:00:55,17"
-          text: "They did not have anything in mind with ‘Fichte’."
+          text: "Der hatte mit Fichte nichts im Sinn gehabt."
         sequence-12:
           s: 12
           from: "00:00:55,17"
@@ -68,27 +68,27 @@ de:
           s: 13
           from: "00:00:56,26"
           to: "00:01:11,21"
-          text: "Here in ‘Fichte’ I felt comfortable. It was nice for a child to be and to do sports with others."
+          text: "Und hier in \"Fichte\" fühlte ich mich wohl. Es war schön als Kind, dort mit anderen, die im ähnlichen Alter waren zusammen zu sein - zu toben."
         sequence-14:
           s: 14
           from: "00:01:11,21"
           to: "00:01:19,23"
-          text: "On Sundays we sometimes went on excursions into the proximity of Berlin."
+          text: "Sonntags hatten wir manchmal so Ausflüge gemacht, in die nähere Umgebung Berlins. Da fühlte man sich geborgen."
         sequence-15:
           s: 15
           from: "00:01:19,23"
           to: "00:01:33,04"
-          text: "You just felt secure there in the circle of peers under the supervision of older people,"
+          text: "Da fühlte man sich eben geborgen, bzw. im Kreis von gleichaltrigen unter guten Leitung von Älteren,"
         sequence-16:
           s: 16
           from: "00:01:33,04"
           to: "00:01:39,13"
-          text: "who pointed out a lot of things when we were walking"
+          text: "die uns auf viele Dinge, wenn wir wanderten, hingewiesen haben,"
         sequence-17:
           s: 17
           from: "00:01:39,13"
           to: "00:01:48,27"
-          text: "and that was something that impressed us especially."
+          text: "und das war etwas, was einen so besonders auch beeindruckte."
         sequence-18:
           s: 18
           from: "00:01:48,27"
@@ -98,9 +98,9 @@ de:
           s: 19
           from: "00:01:49,25"
           to: "00:02:01,04"
-          text: "The labourer sports movement had already been founded in the previous century"
+          text: "Die Arbeitersportbewegung ist ja schon im vorhergehenden Jahrhundert gegründet worden,"
         sequence-20:
           s: 20
           from: "00:02:01,04"
           to: "00:02:23,00"
-          text: "as a counter organisation to the civil sports movement that went more the chauvinistic way."
+          text: "als Gegenorganisation gegen die bürgerliche Sportbewegung oder Turnbewegung, die ins chauvinistische ging. Und aus dieser Zeit ist auch die Bildung der Arbeitersportbewegung entstanden."

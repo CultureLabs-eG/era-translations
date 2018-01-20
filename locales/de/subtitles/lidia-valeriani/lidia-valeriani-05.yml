@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,16"
           to: "00:00:11,14"
-          text: "Ab dem 8. September wusste ich wo sich die Genossen aufhielten"
+          text: "Ab dem 8. September war ich informiert wo sich die Genossen aufhielten"
         sequence-2:
           s: 2
           from: "00:00:11,14"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:19,20"
           to: "00:00:29,28"
-          text: "For example, Felice from Puianello, they sent somebody for me to go inform Alfeo Viani"
+          text: "Zum Beispiel Felice aus Puianello; sie haben jemanden geschickt, der mir sagte, dass ich Alfeo Viani informieren soll,"
         sequence-5:
           s: 5
           from: "00:00:29,28"
@@ -43,12 +43,12 @@ de:
           s: 8
           from: "00:00:47,14"
           to: "00:00:50,03"
-          text: "I would go and warn these comrades,"
+          text: "Ich wollte die Kammeraden warnen,"
         sequence-9:
           s: 9
           from: "00:00:50,03"
           to: "00:00:58,26"
-          text: "und dann trafen sie sich alle in Scampate bei Chicco Castellani."
+          text: "aber dann trafen sie sich alle in Scampate bei Chicco Castellani."
         sequence-10:
           s: 10
           from: "00:00:58,26"
@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:01:35,00"
           to: "00:01:40,06"
-          text: "also Dinge zum Verkleiden um unerkannt davon zu kommen,"
+          text: "also Dinge zum Verkleiden, um unerkannt davon zu kommen,"
         sequence-17:
           s: 17
           from: "00:01:40,06"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:01:44,20"
           to: "00:01:47,21"
-          text: "Then each was given his assignment."
+          text: "Jeder bekam einen Auftrag."
         sequence-20:
           s: 20
           from: "00:01:47,21"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:49,14"
           to: "00:01:59,03"
-          text: "From then on, some started to go to the mountains, but there was absolutely nothing ready there."
+          text: "Von da an begannen einige in Berge zu gehen, aber dort war absolut nichts vorbereitet."
         sequence-22:
           s: 22
           from: "00:01:59,03"
@@ -118,12 +118,12 @@ de:
           s: 23
           from: "00:01:59,29"
           to: "00:02:14,26"
-          text: "We would go visit families who we knew were antifascist, who were against the war…"
+          text: "Wir gingen zu den Familien, von denen wir wussten, dass sie Antifaschisten waren, die gegen den Krieg waren…"
         sequence-24:
           s: 24
           from: "00:02:14,26"
           to: "00:02:24,04"
-          text: "First of all, there were already some soldiers who had succeeded in deserting, and we told them to go to the mountains."
+          text: "Zuallererst gab es bereits Soldaten, die es geschafft hatten zu fliehen und wir sagten Ihnen sie sollen in die Berge gehen."
         sequence-25:
           s: 25
           from: "00:02:24,04"
@@ -133,17 +133,17 @@ de:
           s: 26
           from: "00:02:26,26"
           to: "00:02:36,11"
-          text: "Then we collected clothes and supplies."
+          text: "Dann sammelten wir Kleider und Lebensmittel."
         sequence-27:
           s: 27
           from: "00:02:36,11"
           to: "00:02:45,25"
-          text: "I took them to Roncolo and handed them to Torreggiani, who would take care of getting them to the mountains."
+          text: "Ich brachte die Sachen nach Roncolo und übergab sie an Torreggiani, der sich darum kümmerte, dass sie in die Berge gebracht wurden."
         sequence-28:
           s: 28
           from: "00:02:45,25"
           to: "00:02:52,03"
-          text: "We did that during the winter,"
+          text: "Wir taten das im Winter,"
         sequence-29:
           s: 29
           from: "00:02:52,03"
@@ -153,17 +153,17 @@ de:
           s: 30
           from: "00:02:52,21"
           to: "00:02:59,12"
-          text: "collecting things, preparing people, preparing women"
+          text: "wir sammelten nützliche Dinge, wir bereiteten die Menschen vor, bereiteten die Frauen darauf vor"
         sequence-31:
           s: 31
           from: "00:02:59,12"
           to: "00:03:10,21"
-          text: "in order to have some homes ready to hide in for one night for those who didn’t know where to stay before they left for the mountains."
+          text: "Unterkünfte bereit zu halten, um jemanden für eine Nacht zu verstecken oder für diejenigen die nicht wussten wo sie schlafen sollten, bevor sie in die Berge aufbrachen."
         sequence-32:
           s: 32
           from: "00:03:10,21"
           to: "00:03:14,18"
-          text: "That’s more or less what we did."
+          text: "Wir haben diese Dinge mehr oder weniger immer gemacht."
         sequence-33:
           s: 33
           from: "00:03:14,18"
@@ -173,7 +173,7 @@ de:
           s: 34
           from: "00:03:16,06"
           to: "00:03:24,05"
-          text: "We delivered orders…"
+          text: "Wir nahmen Aufträge entgegen…"
         sequence-35:
           s: 35
           from: "00:03:24,05"
@@ -183,7 +183,7 @@ de:
           s: 36
           from: "00:03:27,11"
           to: "00:03:32,09"
-          text: "At that point some were already properly organized."
+          text: "Einige organisierten, auch andere Dinge,"
         sequence-37:
           s: 37
           from: "00:03:32,09"
@@ -193,19 +193,19 @@ de:
           s: 38
           from: "00:03:33,11"
           to: "00:03:50,12"
-          text: "My military duties, I carried them out supporting the comrades who were in the mountains and those who had to hide."
+          text: "aber ich mochte die militärische Arbeit mehr oder weniger. Ich habe die Genossen in den Bergen unterstützt und die, die sich verstecken mussten und all diese Dinge."
         sequence-39:
           s: 39
           from: "00:03:50,12"
           to: "00:04:03,21"
-          text: "Propaganda, handing out leaflets, secretly bringing them all over the place at night."
+          text: "Propaganda, Flugblätter verteilen, sie über Nacht heimlich überall auslegen."
         sequence-40:
           s: 40
           from: "00:04:03,21"
           to: "00:04:09,06"
-          text: "Then the strikes slowly began."
+          text: "Dann begannen langsam die Streiks."
         sequence-41:
           s: 41
           from: "00:04:09,06"
           to: "00:04:18,20"
-          text: "The strikes against the war had started, and we got ready for the strike of the 1st of March."
+          text: "Die Streiks gegen den Krieg hatten bereits begonnen, und wir bereiteten uns auf den Streik vom 1. März vor."

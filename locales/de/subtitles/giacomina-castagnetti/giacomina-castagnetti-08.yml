@@ -13,7 +13,7 @@ de:
           s: 2
           from: "00:00:07,25"
           to: "00:00:18,20"
-          text: "um dem Grundbesitzer mitzuteilen, ob wir kauften oder verkauften. Denn wir waren Pachtbauern, wir mussten alles berichten, was das Land betraf."
+          text: "um dem Grundbesitzer mitzuteilen, ob wir kauften oder verkauften. Denn wir waren Pachtbauern. Wir mussten alles berichten, was das Land betraf."
         sequence-3:
           s: 3
           from: "00:00:18,20"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:41,03"
           to: "00:00:49,21"
-          text: "Einmal wurde ich an der Kontrollstelle am Hospitz gestoppt."
+          text: "Einmal wurde ich an der Kontrollstelle am Hospital gestoppt."
         sequence-6:
           s: 6
           from: "00:00:49,21"
@@ -43,17 +43,17 @@ de:
           s: 8
           from: "00:01:03,05"
           to: "00:01:09,21"
-          text: "where the local fascist headquarters were. They had laid a boy who was slaughtered"
+          text: "wo das lokale faschistische Hauptquartier war. Sie haben einen Jungen, der zerfleischt worden war"
         sequence-9:
           s: 9
           from: "00:01:09,21"
           to: "00:01:16,00"
-          text: "on an improvised stretcher, and walked towards the hospice singing:"
+          text: "auf eine improvisierten Trage gelegt, und sangen auf dem Weg zum Hospiz:"
         sequence-10:
           s: 10
           from: "00:01:16,00"
           to: "00:01:19,00"
-          text: "“Allarme siam fascisti” (Call to arms, we’re fascists)."
+          text: "“Allarme siam fascisti” (Alarm, wir sind Faschisten)."
         sequence-11:
           s: 11
           from: "00:01:19,00"
@@ -63,17 +63,17 @@ de:
           s: 12
           from: "00:01:20,02"
           to: "00:01:25,04"
-          text: "The checkpoint at the hospice was right by the railway crossing."
+          text: "Die Straßenkontrolle am Hospiz war direkt am Bahnübergang."
         sequence-13:
           s: 13
           from: "00:01:25,04"
           to: "00:01:33,22"
-          text: "They took my bicycle. That bicycle was everything to me."
+          text: "Sie nahmen mein Fahrrad. Für mich war das Fahrrad alles."
         sequence-14:
           s: 14
           from: "00:01:33,22"
           to: "00:01:42,09"
-          text: "It was a young girl’s Ferrari."
+          text: "Es war der Ferrari meiner Tage, für mich."
         sequence-15:
           s: 15
           from: "00:01:42,09"
@@ -83,34 +83,34 @@ de:
           s: 16
           from: "00:01:44,28"
           to: "00:01:51,02"
-          text: "The problem was I was carrying a bag with some partisan stuff."
+          text: "Das Problem war, dass ich eine Tasche mit Materialien dabei hatte."
         sequence-17:
           s: 17
           from: "00:01:51,02"
           to: "00:01:59,01"
-          text: "I immediately held on to the bag real tight and started to scream and cry."
+          text: "Ich habe direkt die Tasche fest an mich gedrückt und angefangen zu schreien und zu weinen."
         sequence-18:
           s: 18
           from: "00:01:59,01"
           to: "00:02:04,13"
-          text: "It was all an act, although I was also a little bit afraid."
+          text: "Es war alles eine Finte, aber ich war auch ein bisschen ängstlich."
         sequence-19:
           s: 19
           from: "00:02:04,13"
           to: "00:02:11,02"
-          text: "A fascist stared at me for a while, then took my bicycle and threw it at me."
+          text: "Der Faschist starrte mich eine Zeit lang an, dann nahm er mein Rad und warf es auf mich."
         sequence-20:
           s: 20
           from: "00:02:11,02"
           to: "00:02:16,25"
-          text: "We both fell on the ground, the bicycle and I. I got back on my feet quickly, and he told me:"
+          text: "Wir fielen beide auf den Boden, das Rad und ich. Ich stand schnell wieder auf und dann sagte er zu mir:"
         sequence-21:
           s: 21
           from: "00:02:16,25"
           to: "00:02:20,13"
-          text: "“Do not ever come around here again”."
+          text: "\"Komm nicht noch mal hier her\"."
         sequence-22:
           s: 22
           from: "00:02:20,13"
           to: "00:02:29,25"
-          text: "I can still remember his boots were very tall. He seemed like a giant to me. That’s how it felt then."
+          text: "Ich erinnere mich noch, dass seine Stiefel sehr hoch waren. Er schien mir wie ein Riese. So hat es sich damals angefühlt."
