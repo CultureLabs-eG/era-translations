@@ -60,21 +60,17 @@ de:
           s: 11
           from: "00:01:23,25"
           to: "00:01:30,29"
-          text: |-
-              There were also other reasons which kept me 
-              from taking up membership,-.
+          text: "Es gab auch andere Gründe, die mich davon abhielten Mitglied zu werden,"
         sequence-12:
           s: 12
           from: "00:01:30,29"
           to: "00:01:38,29"
-          text: |-
-              such as the fact that the Fascist youth had to take part 
-              in military activities and all kinds of classes every Saturday,
+          text: "z.B. mussten die faschistischen Jugendlichen jeden Samstag an militärischen Übungen und an allerlei Unterrichten teilnehmen,"
         sequence-13:
           s: 13
           from: "00:01:38,29"
           to: "00:01:44,27"
-          text: "an environment which I did not want to be involved in."
+          text: "ein Umfeld, mit dem ich nichts zu tun haben wollte."
         sequence-14:
           s: 14
           from: "00:01:44,27"

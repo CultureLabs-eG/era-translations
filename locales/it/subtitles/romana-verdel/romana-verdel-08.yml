@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:06,06"
           to: "00:00:12,20"
-          text: "There were conflicts because I was a Slovenian."
+          text: "Siccome ero slovena, ecco, già c'erano conflitti."
         sequence-2:
           s: 2
           from: "00:00:12,20"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:14,13"
           to: "00:00:17,10"
-          text: "I even had conflicts with other Slovenians."
+          text: "Avevo conflitti persino con altri sloveni."
         sequence-4:
           s: 4
           from: "00:00:17,10"
           to: "00:00:20,17"
-          text: "They could not understand"
+          text: "Non riuscivano a capire"
         sequence-5:
           s: 5
           from: "00:00:20,17"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:24,22"
           to: "00:00:31,05"
-          text: "why I had so much political interest and why I am for the Slovenes."
+          text: "perché avessi tanto interesse nella politica, perché fossi tanto a favore degli sloveni e così via."
         sequence-7:
           s: 7
           from: "00:00:31,05"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:33,17"
           to: "00:00:40,12"
-          text: "Well, the disappointment was big when the English came"
+          text: "E poi la delusione era stata tale, quando era finita la guerra ed erano arrivati gli inglesi"
         sequence-9:
           s: 9
           from: "00:00:40,12"
           to: "00:00:45,11"
-          text: "and treated us like enemies again."
+          text: "e avevano continuato a trattarci come nemici,"
         sequence-10:
           s: 10
           from: "00:00:45,11"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:50,08"
           to: "00:00:55,16"
-          text: "We weren’t even allowed to go to church without ID."
+          text: "non potevamo nemmeno più andare in chiesa senza documento e così via."
         sequence-12:
           s: 12
           from: "00:00:55,16"

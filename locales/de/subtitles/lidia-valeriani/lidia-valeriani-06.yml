@@ -183,17 +183,17 @@ de:
           s: 36
           from: "00:03:20,05"
           to: "00:03:25,21"
-          text: "Some soldiers were on the bus, we got them off and disarmed them:"
+          text: "Im Bus waren auch ein paar Soldaten, wir haben sie heraus geholt und entwaffnet:"
         sequence-37:
           s: 37
           from: "00:03:25,21"
           to: "00:03:34,13"
-          text: "they gave us their weapons without resisting and didn’t get back on the bus."
+          text: "Sie gaben uns die Waffen heraus ohne Widerstand zu leisten und sie stiegen nicht zurück in den Bus."
         sequence-38:
           s: 38
           from: "00:03:34,13"
           to: "00:03:39,07"
-          text: "They began to walk, maybe they were heading home."
+          text: "Sie sind zu Fuß los gegangen, vielleicht um zu Fuß nach Hause zu gehen."
         sequence-39:
           s: 39
           from: "00:03:39,07"
@@ -203,7 +203,7 @@ de:
           s: 40
           from: "00:03:41,04"
           to: "00:03:44,18"
-          text: "This didn’t cause any trouble."
+          text: "Es war nichts passiert."
         sequence-41:
           s: 41
           from: "00:03:44,18"

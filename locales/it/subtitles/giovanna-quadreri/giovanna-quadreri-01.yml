@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:49,15"
           to: "00:01:57,19"
-          text: "We stayed at home; my brothers worked occasionally, often as farm-hands for other families."
+          text: "Siamo stati a casa, i miei fratelli andavano a lavorare così dove capitava o anche per garzoni nelle famiglie."
         sequence-15:
           s: 15
           from: "00:01:57,19"
           to: "00:02:09,28"
-          text: "My older brother worked as a bricklayer in the seminary for ten years, before he was drafted into the army when he was 20."
+          text: "Mio fratello più vecchio invece quello ha lavorato 10 anni in seminario come manovale da muratore, dopo a 20 anni è andato militare."
         sequence-16:
           s: 16
           from: "00:02:09,28"
@@ -88,27 +88,27 @@ it:
           s: 17
           from: "00:02:10,28"
           to: "00:02:15,12"
-          text: "My father worked whenever he could find work."
+          text: "E mio padre così... quando poteva faceva un po’ di lavoro,"
         sequence-18:
           s: 18
           from: "00:02:15,12"
           to: "00:02:25,24"
-          text: "He only had a regular job in the summer, when he left for almost two months to go thresh the fields."
+          text: "d’estate lui aveva un lavoro fisso diciamo per due mesi andava a trebbiare con quelle macchine da trebbiare il frumento e allora stavano via molto, stavano via quasi due mesi a lavorare."
         sequence-19:
           s: 19
           from: "00:02:25,24"
           to: "00:02:34,23"
-          text: "You can still see those machines around the villages during the threshing season,"
+          text: "Con il lavoro che teneva mio padre perché era bravo a tenere a queste macchine"
         sequence-20:
           s: 20
           from: "00:02:34,23"
           to: "00:02:43,02"
-          text: "and he was very good with them, so they would go work for almost two months."
+          text: "che adesso poi si vedono nei paesi le macchine che vengono a fare ancora la trebbiatura."
         sequence-21:
           s: 21
           from: "00:02:43,02"
           to: "00:02:49,14"
-          text: "My father worked for this family every summer for 42 years,"
+          text: "Ecco quelle lì, allora mio padre d’estate lavorava sempre con questa famiglia, per 42 anni ha lavorato per questa famiglia."
         sequence-22:
           s: 22
           from: "00:02:49,14"
