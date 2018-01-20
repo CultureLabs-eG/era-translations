@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:09,28"
           to: "00:00:13,03"
-          text: "E non so in che modo siano venuti a saperlo."
+          text: "E non so in che modo fossero venuti a saperlo."
         sequence-4:
           s: 4
           from: "00:00:13,03"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:17,23"
           to: "00:00:25,21"
-          text: "Era così e basta. Ma ero così fredda che non piansi, quando dissero che la mamma non c'era più. La mamma non tornerà mai più."
+          text: "Era così e basta. Ma ero così fredda da non aver pianto, quando dissero che la mamma non c'era più. La mamma non tornerà mai più."
         sequence-6:
           s: 6
           from: "00:00:25,21"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:10,26"
           to: "00:01:12,10"
-          text: "Ma era... quando qualcuno mi chiedeva:"
+          text: "Ma era... Quando qualcuno mi chiedeva:"
         sequence-16:
           s: 16
           from: "00:01:12,10"
