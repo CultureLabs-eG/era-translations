@@ -265,31 +265,27 @@ de:
           s: 52
           from: "00:05:59,16"
           to: "00:06:03,26"
-          text: "Wir alle standen Schlange. Es gab Leute wie"
+          text: "Wir alle standen Schlange."
         sequence-53:
           s: 53
           from: "00:06:03,26"
           to: "00:06:08,00"
-          text: "like the guy who told on me, a baker whose name was Montermini."
+          text: "Ein gewisser Montermini, ein Bäcker, wurde vom Sondergericht zu fünfzehn Jahren verurteilt."
         sequence-54:
           s: 54
           from: "00:06:08,00"
           to: "00:06:14,00"
-          text: |-
-              He was sentenced to fifteen years by the special court, 
-              and served quite a few of them.
+          text: "Er saß einige davon ab."
         sequence-55:
           s: 55
           from: "00:06:14,00"
           to: "00:06:23,28"
-          text: |-
-              We were the last ones, and our sentences were lighter:
-              as for myself, I was sentenced to four years of confinement.
+          text: "Wir waren die letzten und unsere Strafen waren milder. Ich selbst wurde zu vier Jahren Haft verurteilt."
         sequence-56:
           s: 56
           from: "00:06:23,28"
           to: "00:06:28,14"
-          text: "Nobody defended you, it was only up to you to stand up for yourself."
+          text: "Niemand hat dich verteidigt. Du hast dich selbst verteidigt, so gut du konntest."
         sequence-57:
           s: 57
           from: "00:06:28,14"
