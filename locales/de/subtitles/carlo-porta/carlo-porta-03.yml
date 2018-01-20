@@ -200,40 +200,32 @@ de:
           s: 39
           from: "00:04:29,08"
           to: "00:04:33,13"
-          text: "Ihr Problem war, dass sie kein Platz hatten, um mich zu verstecken."
+          text: "Ihr Problem war, dass sie mich nicht verstecken konnten."
         sequence-40:
           s: 40
           from: "00:04:33,13"
           to: "00:04:38,29"
-          text: "also konnten sie nichts tun, wenn mir jemand eine Zigarette anbot."
+          text: "Also konnten sie nichts tun, wenn mir jemand eine Zigarette anbot."
         sequence-41:
           s: 41
           from: "00:04:38,29"
           to: "00:04:44,21"
-          text: |-
-              Once we arrived in Florence, however, 
-              the Carabinieri decided to get off and change train.
+          text: "In Florenz beschlossen die Carabinieri, in einen anderen Zug umzusteigen."
         sequence-42:
           s: 42
           from: "00:04:44,21"
           to: "00:04:53,26"
-          text: |-
-              Later I understood that they did this to prevent me from talking 
-              to the people that were on the first train.
+          text: "Später verstand ich, dass sie das taten um mich daran zu hindern, mit den Leuten zu sprechen."
         sequence-43:
           s: 43
           from: "00:04:53,26"
           to: "00:05:00,28"
-          text: |-
-              The other one – from Bologna to Reggio Emilia – 
-              was a lot less crowded.
+          text: "Im Zug von Bologna nach Reggio-Emilia waren viel weniger Leute."
         sequence-44:
           s: 44
           from: "00:05:00,28"
           to: "00:05:07,25"
-          text: |-
-              When we arrived in Reggio Emilia I was immediately taken 
-              to the Police Station.
+          text: "Als wir in Reggio Emilia ankamen, wurde ich direkt zur Polizeiwache gebracht."
         sequence-45:
           s: 45
           from: "00:05:07,25"
