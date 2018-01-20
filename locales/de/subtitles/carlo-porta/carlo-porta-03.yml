@@ -290,19 +290,17 @@ de:
           s: 57
           from: "00:06:28,14"
           to: "00:06:35,10"
-          text: |-
-              In any case, when you got into the movement you were aware 
-              that there would not be much you could do:
+          text: "Aber wenn du Teil der Bewegung wurdest, gab es nichts zu verteidigen."
         sequence-58:
           s: 58
           from: "00:06:35,10"
           to: "00:06:43,00"
-          text: "we all knew that if we got caught we would end up doing a couple of years."
+          text: "Wenn du erwischt wirst, musst du mit ein paar Jahren rechnen."
         sequence-59:
           s: 59
           from: "00:06:43,00"
           to: "00:06:46,26"
-          text: "It came to no surprise."
+          text: "Das wussten wir schon vorher."
         sequence-60:
           s: 60
           from: "00:06:46,26"
