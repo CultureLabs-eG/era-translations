@@ -115,26 +115,22 @@ de:
           s: 22
           from: "00:02:33,18"
           to: "00:02:38,23"
-          text: "In the letter, my mother had written the following words:"
+          text: "In dem Brief schrieb meine Mutter die folgenden Worte:"
         sequence-23:
           s: 23
           from: "00:02:38,23"
           to: "00:02:50,09"
-          text: |-
-              “You’re lucky to be in the Army, since in the past few days Pattaccini, 
-              Boiardi and others were arrested”.
+          text: "„Du hast Glück, dass du in der Armee bist, denn in den letzten Tagen wurden Pattaccini, Boiardi und andere verhaftet“."
         sequence-24:
           s: 24
           from: "00:02:50,09"
           to: "00:02:55,01"
-          text: "They were all people I used to be implicated with in our activities,"
+          text: "Das waren fünf oder sechs Leute, mit denen ich dort immer zusammengearbeitet hatte."
         sequence-25:
           s: 25
           from: "00:02:55,01"
           to: "00:03:02,10"
-          text: |-
-              and my poor mother was telling me this openly. 
-              But that’s exactly why I was arrested.
+          text: "Die arme erzählte mir diese Dinge ganz offen, weil ich in Rom war. Und stattdessen haben sie mich dort erwischt."
         sequence-26:
           s: 26
           from: "00:03:02,10"
