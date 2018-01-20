@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:03:16,19"
           to: "00:03:21,03"
-          text: "Another one said: “You shouldn’t do that."
+          text: "Arrivò un altro e disse: \"Non dovremmo farlo."
         sequence-40:
           s: 40
           from: "00:03:21,03"

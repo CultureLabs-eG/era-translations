@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:41,22"
           to: "00:00:50,23"
-          text: "perché, se mancava uno dei 22.300 all'appello della sera, bisognava ritrovarlo."
+          text: "perché, se uno dei 22.300 mancava all'appello della sera, bisognava ritrovarlo."
         sequence-9:
           s: 9
           from: "00:00:50,23"
