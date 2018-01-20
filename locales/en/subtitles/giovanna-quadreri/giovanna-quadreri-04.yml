@@ -93,22 +93,22 @@ en:
           s: 18
           from: "00:01:59,00"
           to: "00:02:10,04"
-          text: "My mother did whatever she could. She also tried to help the partisans and the people in our village."
+          text: "change me"
         sequence-19:
           s: 19
           from: "00:02:10,04"
           to: "00:02:19,24"
-          text: "She would give injections and take care of things: in the mountains nobody had anything at that time."
+          text: "CHANGE ... She did whatever she could. She would give injections and take care of things."
         sequence-20:
           s: 20
           from: "00:02:19,24"
           to: "00:02:26,06"
-          text: "My mother, poor woman, was the only one who knew how to give injections, so she was always dashing about, even at night, summoned by many families in the village."
+          text: "She also tried to help the partisans and the people in our village: in the mountains nobody had anything at that time."
         sequence-21:
           s: 21
           from: "00:02:26,06"
           to: "00:02:35,04"
-          text: "so she was always dashing about, even at night, summoned by many families in the village."
+          text: "CHANGE ... My mother, poor woman, was the only one who knew how to give injections, so she was always dashing about, even at night, summoned by many families in the village."
         sequence-22:
           s: 22
           from: "00:02:37,06"

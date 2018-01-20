@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:21,27"
           to: "00:00:30,27"
-          text: "Also, die jungen Arbeiter von Reggiane, die zur Armee eingezogen wurden, waren berechtigt, bei der Luftwaffe zu dienen,"
+          text: "Die jungen Arbeiter von Reggiane, die zur Armee eingezogen wurden, waren berechtigt, bei der Luftwaffe zu dienen,"
         sequence-5:
           s: 5
           from: "00:00:30,27"
@@ -365,25 +365,19 @@ de:
           s: 72
           from: "00:08:13,14"
           to: "00:08:20,20"
-          text: |-
-              The prison was full, but they had these special cells 
-              where they could fit one or two of us,
+          text: "Das Gefängnis war voll, aber sie hatten diese speziellen Zellen für ein bis zwei Leute."
         sequence-73:
           s: 73
           from: "00:08:20,20"
           to: "00:08:27,18"
-          text: |-
-              There was only a small opening in the door, 
-              and a tiny window for some fresh air,
+          text: "Es gab nur eine kleine Öffnung in der Tür ein ein winziges Fenster für frische Luft."
         sequence-74:
           s: 74
           from: "00:08:27,18"
           to: "00:08:35,25"
-          text: |-
-              so you never heard or saw anyone aside from the guard 
-              who came by to check on us every now and then.
+          text: "Man hörte und sah niemanden, außer den Wärter, der ab und zu vorbeikam, um nachzusehen."
         sequence-75:
           s: 75
           from: "00:08:35,25"
           to: "00:08:40,20"
-          text: "I spent more or less twenty days in Castelfranco."
+          text: "Ich verbrachte um die zwanzig Tage in Castelfranco."
