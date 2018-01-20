@@ -2,18 +2,18 @@ de:
   carlo-porta:
     chapter-3:
       c: 3
-      title: "Arrest while in the army"
+      title: "Verhaftung in der Armee"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,13"
           to: "00:00:04,24"
-          text: "There was one rule back then."
+          text: "Es gab damals nur eine Regel."
         sequence-2:
           s: 2
           from: "00:00:04,24"
           to: "00:00:09,10"
-          text: "At Reggiane we manufactured airplanes"
+          text: "Bei Reggiane bauten wir Flugzeuge."
         sequence-3:
           s: 3
           from: "00:00:09,10"

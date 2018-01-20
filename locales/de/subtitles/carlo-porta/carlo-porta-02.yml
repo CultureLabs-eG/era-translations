@@ -73,7 +73,7 @@ de:
           s: 14
           from: "00:01:28,08"
           to: "00:01:36,21"
-          text: "Am härtesten traf es diejenigen, die in Spanien gekämpft hatten."
+          text: "Am härtesten traf es diejenigen, die in Spanien gekämpft hatten,"
         sequence-15:
           s: 15
           from: "00:01:36,21"
@@ -93,9 +93,9 @@ de:
           s: 18
           from: "00:01:59,00"
           to: "00:02:07,04"
-          text: "Einmal ware der Hauptpreis eine Henne, die uns ein Bauer geschenkt hatte,"
+          text: "Einmal war der Hauptpreis eine Henne, die uns ein Bauer geschenkt hatte,"
         sequence-19:
           s: 19
           from: "00:02:07,04"
           to: "00:02:13,17"
-          text: "um das Geld zu sammeln, das wir brauchten."
+          text: "um das nötige Geld zu sammeln."
