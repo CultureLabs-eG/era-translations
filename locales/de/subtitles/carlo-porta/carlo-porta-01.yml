@@ -29,13 +29,13 @@ de:
           from: "00:00:37,08"
           to: "00:00:44,22"
           text: |-
-              Sehr genau erinnere ich mich zum Beispiel an den Tag, 
-              ich muss fünf gewesen sein,
+              Ich erinnere mich sehr genau an einen Tag im Jahr 1923 – 
+              ich muss fünf gewesen sein –
         sequence-6:
           s: 6
           from: "00:00:44,22"
           to: "00:00:51,26"
-          text: "als sie die Konsumgenossenschaft von Gavasseto niederbrannten."
+          text: "als die Konsumgenossenschaft von Gavasseto niedergebrannt wurde."
         sequence-7:
           s: 7
           from: "00:00:51,26"
@@ -65,7 +65,7 @@ de:
           s: 12
           from: "00:01:30,29"
           to: "00:01:38,29"
-          text: "z.B. mussten die faschistischen Jugendlichen jeden Samstag an militärischen Übungen und an allerlei Unterrichten teilnehmen,"
+          text: "z.B. mussten die faschistischen Jugendlichen jeden Samstag an militärischen Übungen und an allerlei Unterricht teilnehmen,"
         sequence-13:
           s: 13
           from: "00:01:38,29"
@@ -90,7 +90,7 @@ de:
           s: 17
           from: "00:02:17,27"
           to: "00:02:25,15"
-          text: "Das war ein weiterer Grund für mich, nicht mit den Faschisten einverstanden zu sein."
+          text: "Für mich war das ein weiterer Grund, nicht mit den Faschisten einverstanden zu sein."
         sequence-18:
           s: 18
           from: "00:02:25,15"
@@ -110,7 +110,7 @@ de:
           s: 21
           from: "00:02:41,21"
           to: "00:02:49,02"
-          text: "Ich musste mich so gut wie möglich mit den Methoden behelfen, die ich von meiner Familie gelernt hatte,"
+          text: "Ich musste mich so gut wie möglich behelfen, mit Methoden, die ich von meiner Familie gelernt hatte,"
         sequence-22:
           s: 22
           from: "00:02:49,02"
@@ -145,7 +145,7 @@ de:
           s: 28
           from: "00:03:36,04"
           to: "00:03:39,25"
-          text: "I stopped attending school."
+          text: "ging ich nicht mehr zur Schule."
         sequence-29:
           s: 29
           from: "00:03:39,25"

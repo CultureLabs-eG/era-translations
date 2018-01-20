@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:23,01"
           to: "00:00:36,07"
-          text: "Zwei oder drei von uns verteilten die Flugblätter und zwei oder drei andere hielten nach der Polizei Ausschau."
+          text: "Zwei oder drei von uns verteilten die Flugblätter und zwei oder drei andere hielten Ausschau, um die anderen zu warnen."
         sequence-6:
           s: 6
           from: "00:00:36,07"
@@ -48,12 +48,12 @@ de:
           s: 9
           from: "00:00:52,14"
           to: "00:00:59,03"
-          text: "Wir versuchten, sie nachts zu verteilen, um der Polizei zu entkommen."
+          text: "Und dann versuchten wir, sie nachts zu verteilen, um der Polizei zu entkommen."
         sequence-10:
           s: 10
           from: "00:00:59,03"
           to: "00:01:03,00"
-          text: "Aber die Polizei war nachts auch unterwegs."
+          text: "Aber die Polizei war nachts auch unterwegs und es war eine schwierige Aufgabe."
         sequence-11:
           s: 11
           from: "00:01:03,00"
