@@ -48,7 +48,7 @@ en:
           s: 9
           from: "00:00:42,17"
           to: "00:00:45,17"
-          text: "The podestà was to hand out the prizes."
+          text: "The podestà was supposed to come hand out the prizes."
         sequence-10:
           s: 10
           from: "00:00:45,17"

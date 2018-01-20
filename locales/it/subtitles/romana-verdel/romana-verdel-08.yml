@@ -68,17 +68,17 @@ it:
           s: 13
           from: "00:00:58,10"
           to: "00:01:01,26"
-          text: "Even the English were quite discriminating."
+          text: "Venivamo discriminati anche dagli inglesi."
         sequence-14:
           s: 14
           from: "00:01:01,26"
           to: "00:01:07,16"
-          text: "When the English came to the farmer’s the first time,"
+          text: "Quando gli inglesi arrivarono per la prima volta alla fattoria,"
         sequence-15:
           s: 15
           from: "00:01:07,16"
           to: "00:01:14,14"
-          text: "armed and strict, I (being a child) thought:"
+          text: "armati e duri, noi bambini abbiamo pensato - anzi io, in quanto bambina:"
         sequence-16:
           s: 16
           from: "00:01:14,14"
@@ -88,17 +88,17 @@ it:
           s: 17
           from: "00:01:15,14"
           to: "00:01:19,10"
-          text: "‘Why does the war keep on, although it is over?’"
+          text: "\"Ma la guerra è finita, perché la guerra continua?\""
         sequence-18:
           s: 18
           from: "00:01:19,10"
           to: "00:01:25,04"
-          text: "We did not understand that there were still armed men coming to the house."
+          text: "Non avevamo capito, siccome la guerra era finita ma continuavano a venire uomini armati a casa."
         sequence-19:
           s: 19
           from: "00:01:25,04"
           to: "00:01:31,17"
-          text: "Although we knew the English to be our confederates and helpers,"
+          text: "Nonostante in precedenta avessimo considerato gli inglesi come alleati in nostro aiuto,"
         sequence-20:
           s: 20
           from: "00:01:31,17"
