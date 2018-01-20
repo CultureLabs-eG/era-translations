@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:10,02"
           to: "00:02:20,09"
-          text: "Dopo essere arrivati a casa, andava diversamente per gli uni e per gli altri perché i genitori erano diversi, è chiaro!"
+          text: "Dopo essere arrivati a casa, andava diversamente per gli uni e per gli altri perché i genitori erano diversi, è chiaro."
         sequence-20:
           s: 20
           from: "00:02:20,09"

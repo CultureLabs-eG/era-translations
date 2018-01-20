@@ -45,14 +45,12 @@ de:
           s: 8
           from: "00:01:00,21"
           to: "00:01:05,13"
-          text: "Ich erinnere mich, dass in der Nacht Leute kamen, um sie aufzuwecken"
+          text: "Ich erinnere mich, dass in der Nacht Leute kamen, um sie aufzuwecken."
         sequence-9:
           s: 9
           from: "00:01:05,13"
           to: "00:01:12,26"
-          text: |-
-              shouting that “the coop was on fire”:
-              that’s a moment I will never forget.
+          text: "Sie schrien „Die Genossenschaft steht in Flammen“. Das werde ich nie vergessen."
         sequence-10:
           s: 10
           from: "00:01:12,26"

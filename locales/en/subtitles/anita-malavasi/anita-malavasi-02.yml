@@ -28,12 +28,12 @@ en:
           s: 5
           from: "00:00:17,27"
           to: "00:00:27,10"
-          text: "It’s not easy to colour that with crayons if you’re not good at it."
+          text: "To paint it, I mean, to color it with crayons if you don't have the hand for it... I mean, if you're not careful, it won't turn out well..."
         sequence-6:
           s: 6
           from: "00:00:27,10"
           to: "00:00:30,08"
-          text: "It turned out really nice."
+          text: "but it actually it turned out very beautiful."
         sequence-7:
           s: 7
           from: "00:00:30,08"
