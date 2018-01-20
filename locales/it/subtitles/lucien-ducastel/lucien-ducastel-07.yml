@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:57,03"
           to: "00:02:09,12"
-          text: "Upon our arrival there were ambulances waiting for us, taking us where we told them to. In my case, that was to my parents."
+          text: "Al nostro arrivo c'erano delle ambulanze ad attenderci, ci accompagnavano dove gli dicevamo noi, nel mio caso dai miei genitori."
         sequence-18:
           s: 18
           from: "00:02:09,12"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:10,02"
           to: "00:02:20,09"
-          text: "The arrival at home was different for each of us. The parents were all different from each other of course."
+          text: "Dopo essere arrivati a casa, andava diversamente per gli uni e per gli altri perché i genitori erano diversi, è chiaro!"
         sequence-20:
           s: 20
           from: "00:02:20,09"

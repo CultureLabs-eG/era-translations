@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:05,07"
           to: "00:00:08,26"
-          text: "La scuola fa un concorso: il più bel disegno."
+          text: "Ecco la scuola fa un concorso: il più bel disegno."
         sequence-3:
           s: 3
           from: "00:00:08,26"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:27,10"
           to: "00:00:30,08"
-          text: "It turned out really nice."
+          text: "invece la cosa era diventata veramente bella"
         sequence-7:
           s: 7
           from: "00:00:30,08"
           to: "00:00:36,20"
-          text: "My drawing was chosen as the most beautiful one in the school."
+          text: "per cui fu valutato il più bel disegno delle scuole elementari di Castelnuovo Sotto;"
         sequence-8:
           s: 8
           from: "00:00:36,20"

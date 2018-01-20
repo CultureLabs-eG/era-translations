@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:01:21,05"
           to: "00:01:24,16"
-          text: "I said that out of defiance and out of furiousness."
+          text: "Lo dicevo per sfida, semplicemente, e per rabbia."
         sequence-20:
           s: 20
           from: "00:01:24,16"
           to: "00:01:28,01"
-          text: "I got so furious when someone asked me about that."
+          text: "Diventavo così furiosa, quando mi facevano queste domande."
         sequence-21:
           s: 21
           from: "00:01:28,01"
@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:01:29,09"
           to: "00:01:37,04"
-          text: "I either didn’t answer at all or I just coldly said: “No, I’m not sad at all.”"
+          text: "O non rispondevo o rispondevo freddamente: \"No, non sono per niente triste.\""
         sequence-23:
           s: 23
           from: "00:01:37,04"
           to: "00:01:45,27"
-          text: "Although I was very sad, really, that nobody would come back to the house of my birth."
+          text: "Nonostante in realtà fossi molto triste del fatto che nessuno sarebbe mai tornato, a casa nostra - mia."
         sequence-24:
           s: 24
           from: "00:01:45,27"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:01:52,25"
           to: "00:01:55,12"
-          text: "Two aunts got killed with the partisans,"
+          text: "Erano quattro... Due zie morte presso i partigiani,"
         sequence-26:
           s: 26
           from: "00:01:55,12"
@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:01:57,06"
           to: "00:02:01,29"
-          text: "my mother and one aunt died in the concentration camp in Ravensbrück."
+          text: "mia madre e una zia morte nel campo di concentramento di Ravensbrück."
         sequence-28:
           s: 28
           from: "00:02:01,29"
           to: "00:02:07,07"
-          text: "Two uncles died in Dachau"
+          text: "Poi due zii morti a Dachau,"
         sequence-29:
           s: 29
           from: "00:02:07,07"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:02:08,21"
           to: "00:02:11,19"
-          text: "and one cousin got killed with the partisans,"
+          text: "e un cugino caduto presso i partigiani;"
         sequence-31:
           s: 31
           from: "00:02:11,19"
@@ -163,12 +163,12 @@ it:
           s: 32
           from: "00:02:14,28"
           to: "00:02:18,23"
-          text: "one uncle fell in Russia."
+          text: "e ancora, uno zio in Russia"
         sequence-33:
           s: 33
           from: "00:02:18,23"
           to: "00:02:20,29"
-          text: Altogether
+          text: "quindi in totale"
         sequence-34:
           s: 34
           from: "00:02:20,29"
@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:02:22,25"
           to: "00:02:26,05"
-          text: "it added up to 12 people that died."
+          text: "fanno 12 persone morte."
         sequence-36:
           s: 36
           from: "00:02:26,05"

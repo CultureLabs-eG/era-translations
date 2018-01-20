@@ -113,17 +113,17 @@ de:
           s: 22
           from: "00:02:03,15"
           to: "00:02:08,23"
-          text: "My father told me that morning of the 1st of March:"
+          text: "Ich habe schon oft gesagt, was mein Vater mir am Morgen des 1. März gesagt hat:"
         sequence-23:
           s: 23
           from: "00:02:08,23"
           to: "00:02:12,21"
-          text: "“Lidia, you’re doing the right thing because it’s important,"
+          text: "„Ja Lidia, du tust das Richtige, weil es eine wichtige Sache ist,"
         sequence-24:
           s: 24
           from: "00:02:12,21"
           to: "00:02:17,16"
-          text: "but you must remember that your life is going to change after this”."
+          text: "aber denk daran, dass sich danach dein Leben ändern wird\"."
         sequence-25:
           s: 25
           from: "00:02:17,16"
