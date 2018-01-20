@@ -53,22 +53,22 @@ de:
           s: 10
           from: "00:01:08,18"
           to: "00:01:16,18"
-          text: "Our units were sent to mount guard in Rome,"
+          text: "Von dort wurde unsere Einheit als Wache nach Rom geschickt."
         sequence-11:
           s: 11
           from: "00:01:16,18"
           to: "00:01:22,21"
-          text: "so we went to Palazzo Venezia."
+          text: "Wir gingen im Palazzo Venezia zur Wache."
         sequence-12:
           s: 12
           from: "00:01:22,21"
           to: "00:01:31,11"
-          text: "Throughout the week, every night a different unit was in charge of this:"
+          text: "Während der Woche war jede Nacht eine andere Abteilung verantwortlich:"
         sequence-13:
           s: 13
           from: "00:01:31,11"
           to: "00:01:38,01"
-          text: "one night it was the Air Force, one night the artillerymen, and so on."
+          text: "eine Nacht war es die Luftwaffe, eine Nacht die Artillerie und so weiter."
         sequence-14:
           s: 14
           from: "00:01:38,01"

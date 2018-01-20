@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:02:55,10"
           to: "00:02:59,27"
-          text: "There was a need to move closer to the city."
+          text: "c’è l’esigenza di avvicinarsi alla città,"
         sequence-31:
           s: 31
           from: "00:02:59,27"
