@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:01,13"
           to: "00:00:04,24"
-          text: "Es gab damals nur eine Regel."
+          text: "Es gab damals eine Regel."
         sequence-2:
           s: 2
           from: "00:00:04,24"
@@ -18,9 +18,7 @@ de:
           s: 3
           from: "00:00:09,10"
           to: "00:00:21,27"
-          text: |-
-              – you can still see one of the airplanes we made, 
-              it’s at the Reggio Emilia airport –
+          text: "am Flughafen von Reggio Emilia kann man noch eines der Flugzeuge sehen, die wir gebaut haben."
         sequence-4:
           s: 4
           from: "00:00:21,27"

@@ -143,12 +143,12 @@ it:
           s: 28
           from: "00:02:56,12"
           to: "00:03:02,00"
-          text: "You are young people. Don’t fight with each other. Be collegial."
+          text: "Siete giovani, andate a scuola. Avete quest'opportunità, non combattetevi l'un l'altro."
         sequence-29:
           s: 29
           from: "00:03:02,00"
           to: "00:03:08,19"
-          text: "Be friends because you don’t know what tomorrow will be like."
+          text: "Siate fraterni, siate amici, perché non potete sapere cosa serba il domani."
         sequence-30:
           s: 30
           from: "00:03:08,19"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:03:09,02"
           to: "00:03:17,13"
-          text: "You are human beings and the future is in you, you carry tomorrow in you."
+          text: "Siete degli esseri umani, siete l'avvenire, siete voi che portate l'avvenire."
         sequence-32:
           s: 32
           from: "00:03:17,13"
