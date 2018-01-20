@@ -13,7 +13,7 @@ de:
           s: 2
           from: "00:00:04,24"
           to: "00:00:09,10"
-          text: "Bei Reggiane bauten wir Flugzeuge."
+          text: "Bei Reggiane bauten wir Flugzeuge –"
         sequence-3:
           s: 3
           from: "00:00:09,10"
@@ -235,14 +235,12 @@ de:
           s: 46
           from: "00:05:14,27"
           to: "00:05:20,00"
-          text: "I would have never told anything to the authorities,"
+          text: "Ich hätte nie etwas preisgegeben"
         sequence-47:
           s: 47
           from: "00:05:20,00"
           to: "00:05:30,21"
-          text: |-
-              but Pagliarello had my letter in his hands while he questioned me, 
-              and I did not know what to say.
+          text: "aber Pagliarello hatte meinen Brief in der Hand, als er mich verhörte und ich wusste nicht, was ich sagen sollte."
         sequence-48:
           s: 48
           from: "00:05:30,21"
@@ -252,21 +250,17 @@ de:
           s: 49
           from: "00:05:33,11"
           to: "00:05:42,07"
-          text: "At a certain point, although I was handcuffed,"
+          text: "Auf der Polizeiwache wurden mir Handschellen angelegt."
         sequence-50:
           s: 50
           from: "00:05:42,07"
           to: "00:05:48,09"
-          text: |-
-              I managed to see out of the corner of my eye that 
-              he was about to hit me from behind,
+          text: "Ich sah aus den Augenwinkeln, dass er mich von hinten schlagen wollte."
         sequence-51:
           s: 51
           from: "00:05:48,09"
           to: "00:05:59,16"
-          text: |-
-              so I protected myself: he ended up hitting the handcuffs, 
-              got angry and smacked me a couple of times.
+          text: "ich schützte mich selbst, sodass er auf die Handschellen schlug. Er wurde böse und schlug mich zwei oder drei Mal."
         sequence-52:
           s: 52
           from: "00:05:59,16"
