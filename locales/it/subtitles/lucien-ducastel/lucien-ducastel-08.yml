@@ -103,12 +103,12 @@ it:
           s: 20
           from: "00:02:00,05"
           to: "00:02:09,04"
-          text: "Whenever I go to a school and have to talk about these subjects, concerning children…"
+          text: "Quando mi trovo in una scuola e devo affrontare tutte queste domande riguardanti l'infanzia…"
         sequence-21:
           s: 21
           from: "00:02:09,04"
           to: "00:02:15,19"
-          text: "the soup doesn’t taste as good in the evening."
+          text: "la zuppa della sera non è più tanto buona."
         sequence-22:
           s: 22
           from: "00:02:15,19"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:17,01"
           to: "00:02:27,29"
-          text: "What is remarkable when you go into a classroom is that you never have to ask for silence."
+          text: "È anche molto significativo il fatto che quando sei in una classe non hai mai bisogno di richiamare al silenzio."
         sequence-24:
           s: 24
           from: "00:02:27,29"

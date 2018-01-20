@@ -118,7 +118,7 @@ de:
           s: 23
           from: "00:02:15,24"
           to: "00:02:23,29"
-          text: "Wir organisierten uns, um Orte zu finden, wo wir uns ungesehen treffen konnten."
+          text: "Wir organisierten uns, um Orte zu finden, wo wir uns ungesehen treffen konnten,"
         sequence-24:
           s: 24
           from: "00:02:23,29"
@@ -128,12 +128,12 @@ de:
           s: 25
           from: "00:02:26,25"
           to: "00:02:36,14"
-          text: "Wo sich zwei oder drei von uns treffen konnten, aber nie mehr als vier."
+          text: "wo sich zwei oder drei von uns treffen konnten, aber nie mehr als drei oder vier."
         sequence-26:
           s: 26
           from: "00:02:36,14"
           to: "00:02:48,10"
-          text: "Wir trafen uns in einem Keller oder im Haus von Freunden, die nicht für ihr politisches Engagement bekannt waren."
+          text: "Wir trafen uns in einem Keller oder bei Freunden, die nicht für ihr politisches Engagement bekannt waren, aber bereit waren, uns zu helfen."
         sequence-27:
           s: 27
           from: "00:02:48,10"

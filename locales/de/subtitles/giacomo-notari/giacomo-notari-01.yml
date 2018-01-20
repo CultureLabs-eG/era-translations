@@ -183,7 +183,7 @@ de:
           s: 36
           from: "00:02:56,19"
           to: "00:03:03,13"
-          text: "Ich bin immer gerne zur Schule gegangen, ich sehnte mich danach."
+          text: "Ich bin immer gerne zur Schule gegangen, ich sehnte mich sogar danach."
         sequence-37:
           s: 37
           from: "00:03:03,13"
@@ -193,7 +193,7 @@ de:
           s: 38
           from: "00:03:04,09"
           to: "00:03:09,26"
-          text: "My mother died when I was four and a half years old, my brother was almost six,"
+          text: "Meine Mutter ist gestorben, als ich 4 1/2 Jahre alt war, mein Bruder war fast 6."
         sequence-39:
           s: 39
           from: "00:03:09,26"

@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:01,02"
           to: "00:00:08,01"
-          text: "Es war nicht wirklich gefährlich, denn sie kontrollierten eher diejenigen, die älter als ich waren"
+          text: "Es war nicht wirklich gefährlich, denn sie kontrollierten eher diejenigen, die älter waren als ich."
         sequence-2:
           s: 2
           from: "00:00:08,01"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:13,03"
           to: "00:00:19,24"
-          text: "so wie viele andere, die weniger Glück hatten als ich."
+          text: "so wie viele andere auch, die weniger Glück hatten als ich."
         sequence-4:
           s: 4
           from: "00:00:19,24"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:24,23"
           to: "00:00:38,21"
-          text: "Einige, wie Ganassi, Bagnacani oder Catellani wurden ins Gefängnis gesteckt, als heraus kam, dass sie Sand in die Zylinder gaben."
+          text: "Einige Leute, wie Ganassi, Bagnacani oder Catellani wurden ins Gefängnis gesteckt, als heraus kam, dass sie Sand in die Zylinder gaben."
         sequence-6:
           s: 6
           from: "00:00:38,21"
@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:00:57,28"
           to: "00:01:06,28"
-          text: "“wenn die Soldaten zurück nach Hause kommen und in die Partei eintreten, können sie in der Fabrik arbeiten”."
+          text: "“wenn die Soldaten zurück nach Hause kommen, müssen sie in die Partei eintreten, wenn sie in der Fabrik arbeiten wollen”."
         sequence-11:
           s: 11
           from: "00:01:06,28"
@@ -63,12 +63,12 @@ de:
           s: 12
           from: "00:01:11,28"
           to: "00:01:19,05"
-          text: "Zu der sammelten wir Geld für die Rote Hilfe"
+          text: "Zu der Zeit sammelten wir Geld für die Rote Hilfe."
         sequence-13:
           s: 13
           from: "00:01:19,05"
           to: "00:01:28,08"
-          text: "ich war für Rivalta zuständig: wir sammelten Geld und gaben es der Partei."
+          text: "Ich war für Rivalta zuständig: wir sammelten Geld und gaben es der Partei."
         sequence-14:
           s: 14
           from: "00:01:28,08"
@@ -78,26 +78,24 @@ de:
           s: 15
           from: "00:01:36,21"
           to: "00:01:44,04"
-          text: "but some of our comrades from Rivalta, like Fontanesi, had also been imprisoned,"
+          text: "aber manche Kameraden aus Rivalta, wie Fontanesi, wurden auch eingesperrt."
         sequence-16:
           s: 16
           from: "00:01:44,04"
           to: "00:01:49,29"
-          text: "so the Party tried to help their families as much as possible."
+          text: "Die Partei versuchte den Familien so gut wie möglich zu helfen."
         sequence-17:
           s: 17
           from: "00:01:49,29"
           to: "00:01:59,00"
-          text: |-
-              On Sundays we used to set up stalls in the square to sell things, 
-              or we organized lotteries:
+          text: "Sonntags machten wir Flohmärkte auf den Plätzen und organisierten Lotterien."
         sequence-18:
           s: 18
           from: "00:01:59,00"
           to: "00:02:07,04"
-          text: "on one occasion, the first prize was a hen that a farmer had given to us"
+          text: "Einmal ware der Hauptpreis eine Henne, die uns ein Bauer geschenkt hatte,"
         sequence-19:
           s: 19
           from: "00:02:07,04"
           to: "00:02:13,17"
-          text: "to collect some of the money that was needed."
+          text: "um das Geld zu sammeln, das wir brauchten."
