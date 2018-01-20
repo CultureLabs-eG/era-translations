@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,17"
           to: "00:00:04,13"
-          text: "Ci sono state delle ricadute su di me."
+          text: "Sì, questo ha avuto conseguenze durature per me."
         sequence-2:
           s: 2
           from: "00:00:04,13"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:13,25"
           to: "00:00:23,15"
-          text: "deliravo, avevo sentimenti cattivi e paura e tutto il resto, nei confronti della gente,"
+          text: "deliravo, avevo sentimenti cattivi e paura delle persone e tutto il resto,"
         sequence-6:
           s: 6
           from: "00:00:23,15"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:26,16"
           to: "00:00:32,08"
-          text: "e quando vedevo arrivare qualcuno in uniforme, arrivavo a nascondermi."
+          text: "e quando vedevo arrivare qualcuno in uniforme, mi nascondevo persino."
         sequence-8:
           s: 8
           from: "00:00:32,08"
@@ -48,12 +48,12 @@ it:
           s: 9
           from: "00:00:34,12"
           to: "00:00:38,21"
-          text: "I tedeschi rimasero nemici a morte per molto, molto tempo."
+          text: "I tedeschi rimasero nemici mortali per molto, molto tempo."
         sequence-10:
           s: 10
           from: "00:00:38,21"
           to: "00:00:44,15"
-          text: "Mi ci vollero molti anni per trovare un bilancio, e questo solo"
+          text: "Mi ci vollero molti anni per trovare un bilancio in me, e questo solo"
         sequence-11:
           s: 11
           from: "00:00:44,15"

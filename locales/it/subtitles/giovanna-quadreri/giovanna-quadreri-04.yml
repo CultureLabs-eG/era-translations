@@ -2,18 +2,18 @@ it:
   giovanna-quadreri:
     chapter-4:
       c: 4
-      title: "Sister joins the partisans"
+      title: "La sorella entra nei partigiani"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,13"
           to: "00:00:11,17"
-          text: "My sister joined the partisans after she had an argument with our mayor."
+          text: "Perché è andata mia sorella... Mia sorella è andata nei partigiani. E’ andata nei partigiani perché lei se l’era presa con il sindaco,"
         sequence-2:
           s: 2
           from: "00:00:11,17"
           to: "00:00:24,06"
-          text: "She declared she would join the partisans from Carpineti because she wanted the war to end. She was furious."
+          text: "allora, con il sindaco e con quelli di Carpineti, allora c’erano i partigiani e dice: “Allora io vado con loro perché io voglio che questa guerra finisca, io voglio...”"
         sequence-3:
           s: 3
           from: "00:00:24,06"

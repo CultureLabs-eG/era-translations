@@ -63,19 +63,17 @@ de:
           s: 12
           from: "00:01:11,28"
           to: "00:01:19,05"
-          text: "At the time we were collecting money for the so-called Red Relief,"
+          text: "Zu der sammelten wir Geld für die Rote Hilfe"
         sequence-13:
           s: 13
           from: "00:01:19,05"
           to: "00:01:28,08"
-          text: "and I was the one in charge for Rivalta: we collected money and gave it to the Party."
+          text: "ich war für Rivalta zuständig: wir sammelten Geld und gaben es der Partei."
         sequence-14:
           s: 14
           from: "00:01:28,08"
           to: "00:01:36,21"
-          text: |-
-              Those who were facing the worst situation were indeed those 
-              who had been combatants in Spain,
+          text: "Am härtesten traf es diejenigen, die in Spanien gekämpft hatten."
         sequence-15:
           s: 15
           from: "00:01:36,21"
