@@ -345,26 +345,22 @@ de:
           s: 68
           from: "00:07:50,24"
           to: "00:07:56,13"
-          text: |-
-              He asked where we came from, 
-              and when he was told we were from Reggio Emilia, he said:
+          text: "Er fragte wo wir herkämen und als man ihm sagt, dass wir aus Reggio Emilia sind, sagte er:"
         sequence-69:
           s: 69
           from: "00:07:56,13"
           to: "00:08:01,01"
-          text: "“If it was for me, I would just dump them in a cesspit”."
+          text: "„Wenn es nach mir ginge, würde ich sie in die Jauchegrube werfen“."
         sequence-70:
           s: 70
           from: "00:08:01,01"
           to: "00:08:07,11"
-          text: "Very funny, isn’t it?"
+          text: "Lustig, nicht wahr?"
         sequence-71:
           s: 71
           from: "00:08:07,11"
           to: "00:08:13,14"
-          text: |-
-              Although we had not done anything to be punished, 
-              they ended up putting us in confinement cells.
+          text: "Obwohl wir nichts getan hatte, landeten wir schließlich in Strafzellen."
         sequence-72:
           s: 72
           from: "00:08:13,14"

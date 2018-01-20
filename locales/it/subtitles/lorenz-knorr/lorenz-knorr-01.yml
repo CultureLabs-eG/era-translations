@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:01:17,20"
           to: "00:01:24,24"
-          text: "and afterwards he was, although not fit for work,"
+          text: "ed in seguito, nonostante non fosse più idoneo al lavoro,"
         sequence-20:
           s: 20
           from: "00:01:24,24"
           to: "00:01:31,03"
-          text: "still speaker at demonstrations and meetings of the union."
+          text: "era ancora uno degli oratori all'interno di manifestazioni e incontri del sindacato."
         sequence-21:
           s: 21
           from: "00:01:31,03"
