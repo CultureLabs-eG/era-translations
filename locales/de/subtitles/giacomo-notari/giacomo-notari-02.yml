@@ -48,12 +48,12 @@ de:
           s: 9
           from: "00:00:35,29"
           to: "00:00:45,27"
-          text: "[Wie alt warst du da?] Es geschah im Juni 1940, also war ich 13 1/2. Was für Überlegungen sollte ich da schon anstellen?"
+          text: "[Wie alt warst du da?] Es geschah im Juni 1940, also war ich 13 1/2. Was für Überlegungen solltest du da schon anstellen?"
         sequence-10:
           s: 10
           from: "00:00:45,27"
           to: "00:00:49,26"
-          text: "Having had that sort of education."
+          text: "Nachdem man eine Ausbildung dieser Art gehabt hat."
         sequence-11:
           s: 11
           from: "00:00:49,26"

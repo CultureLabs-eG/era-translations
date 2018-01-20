@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:10,16"
           to: "00:01:16,18"
-          text: "In Eger my father was the most popular strike-leader before the First World Wararbeitstauglich"
+          text: "Mio padre era, prima della prima guerra mondiale, il più famoso leader a capo degli scioperi a Eger"
         sequence-18:
           s: 18
           from: "00:01:16,18"
@@ -98,17 +98,17 @@ it:
           s: 19
           from: "00:01:17,20"
           to: "00:01:24,24"
-          text: "ed in seguito, nonostante non fosse più idoneo al lavoro,"
+          text: "e, nel dopoguerra, nonostante non fosse più idoneo al lavoro,"
         sequence-20:
           s: 20
           from: "00:01:24,24"
           to: "00:01:31,03"
-          text: "era ancora uno degli oratori all'interno di manifestazioni e incontri del sindacato."
+          text: "continuò ad essere oratore in manifestazioni e incontri del sindacato."
         sequence-21:
           s: 21
           from: "00:01:31,03"
           to: "00:01:40,05"
-          text: "As his son, I obviously experienced this first hand, because my parents often took me with them to political activities;"
+          text: "Ovviamente anche suo figlio fu coinvolto, dal momento che spesso i genitori lo portavano con sé agli eventi politici,"
         sequence-22:
           s: 22
           from: "00:01:40,05"
