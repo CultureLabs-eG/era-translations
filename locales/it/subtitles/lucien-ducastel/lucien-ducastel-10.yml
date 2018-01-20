@@ -2,18 +2,18 @@ it:
   lucien-ducastel:
     chapter-10:
       c: 10
-      title: "The number on the arm"
+      title: "Il numero sul braccio"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,26"
           to: "00:00:07,09"
-          text: "Often the children ask me why I don’t have the number removed."
+          text: "Molto spesso mi chiedevano perché non me lo potevo far togliere."
         sequence-2:
           s: 2
           from: "00:00:07,09"
           to: "00:00:13,09"
-          text: "I tell them, I could have it removed, but I won’t."
+          text: "Certo che potrei farmelo togliere, ma non lo farò perché l'hanno fatto i nazisti o dalla gente che lavorava per loro."
         sequence-3:
           s: 3
           from: "00:00:13,09"
