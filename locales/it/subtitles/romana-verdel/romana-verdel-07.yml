@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:01:52,25"
           to: "00:01:55,12"
-          text: "Erano quattro... Due zie morte presso i partigiani,"
+          text: "Erano quattro... Due zie cadute presso i partigiani,"
         sequence-26:
           s: 26
           from: "00:01:55,12"
@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:02:22,25"
           to: "00:02:26,05"
-          text: "fanno 12 persone morte."
+          text: "furono 12 persone a morire."
         sequence-36:
           s: 36
           from: "00:02:26,05"

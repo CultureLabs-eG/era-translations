@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:01:25,20"
           to: "00:01:34,01"
-          text: "Manchmal verteilten wir sie auch vor den Fabriktoren, obwohl das sehr gefährlich war."
+          text: "Manchmal verteilten wir sie auch vor den Fabriktoren, obwohl das sehr gefährlich war, weil es dort in aller Öffentlichkeit war."
         sequence-17:
           s: 17
           from: "00:01:34,01"
@@ -93,7 +93,7 @@ de:
           s: 18
           from: "00:01:35,04"
           to: "00:01:46,06"
-          text: "Es war schwierig, die Flugblätter herzustellen. Es war gut, sie zu verteilen, aber sie mussten ja erst hergestellt werden."
+          text: "Hinzu kam die Schwierigkeit, die Flugblätter herzustellen. Es war gut, sie zu verteilen, aber sie mussten ja erst hergestellt werden."
         sequence-19:
           s: 19
           from: "00:01:46,06"

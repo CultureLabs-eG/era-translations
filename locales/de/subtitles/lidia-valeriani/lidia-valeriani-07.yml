@@ -8,17 +8,17 @@ de:
           s: 1
           from: "00:00:00,21"
           to: "00:00:07,00"
-          text: "At that point I see a fascist, a German van driving up the hill."
+          text: "Dann sehe ich den Lastwagen der Faschisten vorbeifahren, die Deutschen gehen hinauf."
         sequence-2:
           s: 2
           from: "00:00:07,00"
           to: "00:00:14,00"
-          text: "Since all peasants were at the strike… the van proceeds further up…"
+          text: "Da alle Bauern im Streik waren… fuhr der Lastwagen weiter hoch…"
         sequence-3:
           s: 3
           from: "00:00:14,00"
           to: "00:00:22,13"
-          text: "they went to Aleotti’s house instead and set it on fire (the Aleotti family was at the strike)."
+          text: "sie fuhren stattdessen zu Aleottis Haus und setzten es in Brand (die Familie Aleotti war beim Streik)."
         sequence-4:
           s: 4
           from: "00:00:22,13"

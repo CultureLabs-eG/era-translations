@@ -28,19 +28,17 @@ de:
           s: 5
           from: "00:00:24,23"
           to: "00:00:38,21"
-          text: |-
-              Colleagues like Ganassi, Bagnacani or Catellani were all sent to jail 
-              after being caught putting sand in the engine cylinders.
+          text: "Einige, wie Ganassi, Bagnacani oder Catellani wurden ins Gefängnis gesteckt, als heraus kam, dass sie Sand in die Zylinder gaben."
         sequence-6:
           s: 6
           from: "00:00:38,21"
           to: "00:00:46,26"
-          text: "But they were all thirty or so, were already married and often had children,"
+          text: "Aber sie waren um die 30 Jahre alt, waren bereits verheiratet und hatten zum Teil Kinder."
         sequence-7:
           s: 7
           from: "00:00:46,26"
           to: "00:00:51,18"
-          text: "and that’s the kind of people they hit harder on."
+          text: "Auf diese Leute hatten sie es besonders abgesehen."
         sequence-8:
           s: 8
           from: "00:00:51,18"

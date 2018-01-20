@@ -48,22 +48,22 @@ it:
           s: 9
           from: "00:01:02,04"
           to: "00:01:07,25"
-          text: "and they thought he was dead, but he was only frostbitten and suffering."
+          text: "e lui non era morto era assiderato e stava male, ma non era morto."
         sequence-10:
           s: 10
           from: "00:01:07,25"
           to: "00:01:13,05"
-          text: "I guess they slowly revived him and managed to bring him back to Italy, to Rimini."
+          text: "Dopo si vede che pian piano l’hanno rifocillato e dopo sono riusciti poi a portarlo a Rimini."
         sequence-11:
           s: 11
           from: "00:01:13,05"
           to: "00:01:20,15"
-          text: "They kept him there for three months and we never even went to visit him,"
+          text: "E dopo l’hanno tenuto a Rimini tre mesi che purtroppo non siamo andati nessuno a trovarlo,"
         sequence-12:
           s: 12
           from: "00:01:20,15"
           to: "00:01:27,04"
-          text: "because there was no way for us to get there."
+          text: "perché allora non c’erano... non c’era la possibilità di andare, non c’era viaggi, non c’era mezzi di niente."
         sequence-13:
           s: 13
           from: "00:01:27,04"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:28,19"
           to: "00:01:34,20"
-          text: "I did go to Milan by foot, but Rimini seemed really too far."
+          text: "Io a Milano sono andata a piedi ma andare a Rimini secondo me mi sembrava troppo lontano."
         sequence-15:
           s: 15
           from: "00:01:34,20"
