@@ -8,17 +8,17 @@ it:
           s: 1
           from: "00:00:00,12"
           to: "00:00:05,07"
-          text: "The fascist regime didn’t spare us children."
+          text: "Questo dominio fascista non risparmiava nemmeno noi bambini."
         sequence-2:
           s: 2
           from: "00:00:05,07"
           to: "00:00:08,26"
-          text: "Our school organized a contest for the best drawing."
+          text: "La scuola fa un concorso: il più bel disegno."
         sequence-3:
           s: 3
           from: "00:00:08,26"
           to: "00:00:12,01"
-          text: "I was really very good in drawing."
+          text: "Io sono brava, in disegno ero veramente brava."
         sequence-4:
           s: 4
           from: "00:00:12,01"

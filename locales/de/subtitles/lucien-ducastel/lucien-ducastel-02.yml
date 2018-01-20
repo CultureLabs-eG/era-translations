@@ -63,12 +63,12 @@ de:
           s: 12
           from: "00:01:22,12"
           to: "00:01:27,05"
-          text: "My father, who had anarchist tendencies,"
+          text: "Mein Vater, der anarchistische Ansichten vertrat, sagte zu mir:"
         sequence-13:
           s: 13
           from: "00:01:27,05"
           to: "00:01:37,28"
-          text: "asked me if I was going to stop my activities as he thought I was going to pay dearly."
+          text: "„Hör auf damit! Das wird dir teuer zu stehen kommen, weil sie das verboten haben.“"
         sequence-14:
           s: 14
           from: "00:01:37,28"
@@ -78,17 +78,17 @@ de:
           s: 15
           from: "00:01:39,02"
           to: "00:01:48,18"
-          text: "I answered him, that it was my business. I was 17 at the time and argued: “Should one stop just because…”"
+          text: "Ich erwiderte: „Das ist mein Problem.“ Ich war 17. „Soll man deswegen aufhören …?"
         sequence-16:
           s: 16
           from: "00:01:48,18"
           to: "00:02:01,00"
-          text: "I asked him how he could work as a coppersmith on ships in 1936/1937 and not even join the trade union."
+          text: "Du wusstest, wie es 1936/1937 als Kupferschmied auf Schiffen war, aber du hast dich nie der Gewerkschaft angeschlossen.“"
         sequence-17:
           s: 17
           from: "00:02:01,00"
           to: "00:02:11,21"
-          text: "We had quite a discussion. He himself was not politically active. That took some effort and he worked a lot."
+          text: "Er selbst war nicht politisch aktiv, denn dafür musste man sich engagieren und er arbeitete sehr viel."
         sequence-18:
           s: 18
           from: "00:02:11,21"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:02:12,08"
           to: "00:02:22,00"
-          text: "We had to keep a low profile. You can not really call it undercover; we were known to the police."
+          text: "Wir mussten uns bedeckt halten. Man konnte es nicht wirklich Untergrund nennen, aber wir waren schon polizeilich bekannt."
         sequence-20:
           s: 20
           from: "00:02:22,00"
@@ -108,17 +108,17 @@ de:
           s: 21
           from: "00:02:23,15"
           to: "00:02:28,21"
-          text: "So we had to take some precautionary measures:"
+          text: "Wir mussten besondere Vorsichtsmaßnahmen ergreifen:"
         sequence-22:
           s: 22
           from: "00:02:28,21"
           to: "00:02:40,15"
-          text: "Only going out at night, and also being careful because of police raids. It was extremely difficult. But we did not give up."
+          text: "Nur spät nachts nach draußen gehen und aufpassen, da es nächtliche Polizeirazzien gab. Das war sehr schwer, aber wir gaben nicht auf."
         sequence-23:
           s: 23
           from: "00:02:40,15"
           to: "00:02:51,28"
-          text: "When distributing leaflets we would try to go out at night, but also not too often, because one had to be careful."
+          text: "Es war besser, Flugblätter nur nachts zu verteilen, aber nicht zu oft, weil man sehr vorsichtig sein musste."
         sequence-24:
           s: 24
           from: "00:02:51,28"

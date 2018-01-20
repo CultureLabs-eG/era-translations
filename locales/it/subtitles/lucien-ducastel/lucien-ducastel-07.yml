@@ -48,12 +48,12 @@ it:
           s: 9
           from: "00:00:48,18"
           to: "00:01:01,09"
-          text: "Take my case: I weighed 70kg/72kg upon my arrival, I used to do exercise, to bike, I was strong."
+          text: "Prendiamo il mio caso, io pesavo 70-72 kg al mio arrivo, facevo sport, correvo in bicicletta, ero forte, ben piantato."
         sequence-10:
           s: 10
           from: "00:01:01,09"
           to: "00:01:08,21"
-          text: "In the end I had reached half my weight: 35kg/36kg."
+          text: "e alla fine ti trovi a pesare la metà, 35-36 kg, le cose non stanno più come prima."
         sequence-11:
           s: 11
           from: "00:01:08,21"
