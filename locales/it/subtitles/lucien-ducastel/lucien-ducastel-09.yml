@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:15,26"
           to: "00:00:21,04"
-          text: "We thought about how we could distribute our leaflets."
+          text: "Ma escogitavamo un modo per distribuire i nostri volantini."
         sequence-5:
           s: 5
           from: "00:00:21,04"
           to: "00:00:31,03"
-          text: "Our concern was the French population, not the Germans. It was necessary to fight against the occupiers."
+          text: "Era il popolo a importarci, non i tedeschi, volevamo informare il popolo della necessità di combattere l'occupazione."
         sequence-6:
           s: 6
           from: "00:00:31,03"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:31,29"
           to: "00:00:41,21"
-          text: "In the camps we met civilized, working Germans."
+          text: "Nei campi abbiamo incontrato dei tedeschi civili, che lavoravano."
         sequence-8:
           s: 8
           from: "00:00:41,21"
