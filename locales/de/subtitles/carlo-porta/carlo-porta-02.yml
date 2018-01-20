@@ -2,15 +2,13 @@ de:
   carlo-porta:
     chapter-2:
       c: 2
-      title: "The old antifascists in Reggio"
+      title: "Die alten Antifaschisten in Reggio"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,02"
           to: "00:00:08,01"
-          text: |-
-              There weren’t any real dangers, since they rather controlled those 
-              who were older than me.
+          text: "Es war nicht wirklich gefährlich, denn sie kontrollierten eher diejenigen, die älter als ich waren"
         sequence-2:
           s: 2
           from: "00:00:08,01"

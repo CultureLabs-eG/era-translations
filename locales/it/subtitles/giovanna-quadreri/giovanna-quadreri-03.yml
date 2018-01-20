@@ -2,18 +2,18 @@ it:
   giovanna-quadreri:
     chapter-3:
       c: 3
-      title: "Brother at war"
+      title: "Un fratello in guerra"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:02,12"
           to: "00:00:08,26"
-          text: "My oldest brother had already left for the war in 1939."
+          text: "Sì l’inizio della guerra sì, perché già mio fratello era andato via, il più vecchio, è andato via nel ’39"
         sequence-2:
           s: 2
           from: "00:00:08,26"
           to: "00:00:18,17"
-          text: "I was looking at some postcards the other night, and the first were sent in 1939 from Albania."
+          text: "ed erano già in Albania, perché l’altra sera mentre guardavo le cartoline, guardavo e nel ’39, i primi del ’39, era già in Albania."
         sequence-3:
           s: 3
           from: "00:00:18,17"
