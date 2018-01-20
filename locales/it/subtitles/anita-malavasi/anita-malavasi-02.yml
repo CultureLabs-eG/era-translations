@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:02:59,27"
           to: "00:03:03,01"
-          text: "They bought a house in Dalmazia street."
+          text: "hanno comperato una casa lì in via Dalmazia,"
         sequence-32:
           s: 32
           from: "00:03:03,01"

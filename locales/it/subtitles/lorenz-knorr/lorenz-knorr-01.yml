@@ -2,13 +2,13 @@ it:
   lorenz-knorr:
     chapter-1:
       c: 1
-      title: "Presentation, Introduction"
+      title: "Presentazione e introduzione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,15"
           to: "00:00:04,04"
-          text: "My name is Lorenz Knorr;"
+          text: "Il mio nome è Lorenz Knorr."
         sequence-2:
           s: 2
           from: "00:00:04,04"

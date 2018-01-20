@@ -73,47 +73,39 @@ de:
           s: 14
           from: "00:01:38,01"
           to: "00:01:47,11"
-          text: |-
-              So we went to mount guard, and I remember that a new lieutenant came 
-              to pick us up with a van at eight in the morning,
+          text: "Wir gingen also zur Wache und ich erinnere mich, dass ein neuer Leutnant uns um acht Uhr morgens mit einem Transporter abholte."
         sequence-15:
           s: 15
           from: "00:01:47,11"
           to: "00:01:53,23"
-          text: |-
-              and told us we would be visiting Rome for a while since 
-              he had never been there before.
+          text: "und er sagte uns, dass wir für eine Weile Rom besichtigen würden, da er nie dort war."
         sequence-16:
           s: 16
           from: "00:01:53,23"
           to: "00:02:02,05"
-          text: |-
-              I went back inside the airport. The mail had arrived 
-              and there were also some letters for me.
+          text: "[…] Ich ging zurück zum Flughafen. Die Post war angekommen und es gab auch ein paar Briefe für mich."
         sequence-17:
           s: 17
           from: "00:02:02,05"
           to: "00:02:08,17"
-          text: |-
-              I went to my sleeping quarter and was opening a letter 
-              when my lieutenant,
+          text: "Ich ging zum Schlaafsaal und als ich einen der Briefe öffnete, kam mein Leutnant,"
         sequence-18:
           s: 18
           from: "00:02:08,17"
           to: "00:02:16,27"
           text: |-
-              a man from Ancona whose name was Santaroni, came over. 
-              He was a good man – he gave me a hug later –
+              ein Mann aus Ancona mit Namen Santaroni.
+              Er war ein guter Mann – er umarmte mich später –
         sequence-19:
           s: 19
           from: "00:02:16,27"
           to: "00:02:23,14"
-          text: "who had come to tell me that “somebody needed to speak to me”."
+          text: "und er sagte, „diese Herren brauchen dich“."
         sequence-20:
           s: 20
           from: "00:02:23,14"
           to: "00:02:26,28"
-          text: "It was three policemen."
+          text: "Es waren drei Polizisten."
         sequence-21:
           s: 21
           from: "00:02:26,28"
