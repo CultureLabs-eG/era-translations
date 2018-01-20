@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,20"
           to: "00:00:03,02"
-          text: "Alla fine di gennaio del 44 siamo là"
+          text: "Alla fine di gennaio del '44"
         sequence-2:
           s: 2
           from: "00:00:03,02"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:28,00"
           to: "00:01:37,25"
-          text: "E in realtà di paura non ne avevamo perché c'erano degli uomini adulti con noi, adulti."
+          text: "E in realtà di paura non ne avevamo perché c'erano degli uomini con noi, degli adulti."
         sequence-23:
           s: 23
           from: "00:01:37,25"

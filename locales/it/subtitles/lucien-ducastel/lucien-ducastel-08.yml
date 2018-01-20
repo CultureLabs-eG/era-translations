@@ -33,17 +33,17 @@ it:
           s: 6
           from: "00:00:33,10"
           to: "00:00:39,02"
-          text: "So I went."
+          text: "E dunque ci sono andato."
         sequence-7:
           s: 7
           from: "00:00:39,02"
           to: "00:00:42,13"
-          text: "It was difficult."
+          text: "È stato molto difficile."
         sequence-8:
           s: 8
           from: "00:00:42,13"
           to: "00:00:50,21"
-          text: "When you are with 30 students, it is very difficult to talk about all these things:"
+          text: "Quando ti trovi davanti a una trentina di alunni, parlare di certe cose è difficile."
         sequence-9:
           s: 9
           from: "00:00:50,21"
