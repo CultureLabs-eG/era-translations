@@ -160,24 +160,22 @@ de:
           s: 31
           from: "00:03:30,11"
           to: "00:03:38,23"
-          text: "sie hatten mir alles weggenommen, an dem Tag war ich leicht heruntergekommen, war unrasiert und ich war etwas krank."
+          text: "sie hatten mir alles weggenommen, an dem Tag war ich leicht heruntergekommen, unrasiert und etwas krank."
         sequence-32:
           s: 32
           from: "00:03:38,23"
           to: "00:03:46,20"
-          text: "As we set off, those who were on the railcar with us were curious."
+          text: "Die anderen Leute auf der Reise waren neugierig."
         sequence-33:
           s: 33
           from: "00:03:46,20"
           to: "00:03:54,00"
-          text: "On other occasions, such as the day I was interned,"
+          text: "In anderen Fällen, z.B. als ich verhaftet wurde,"
         sequence-34:
           s: 34
           from: "00:03:54,00"
           to: "00:04:03,19"
-          text: |-
-              when there were eighteen of us, we had a whole railcar for ourselves, 
-              so there was no one else.
+          text: "waren wir 18 Mann. Wir hatten einen ganzen Wagon für uns und es gab keine anderen Leuten."
         sequence-35:
           s: 35
           from: "00:04:03,19"
