@@ -38,17 +38,17 @@ de:
           s: 7
           from: "00:00:46,26"
           to: "00:00:51,18"
-          text: "Auf diese Leute hatten sie es besonders abgesehen."
+          text: "Auf diese Leute hatten sie es besonders abgesehen, wir blieben unbemerkt."
         sequence-8:
           s: 8
           from: "00:00:51,18"
           to: "00:00:54,10"
-          text: "They didn’t really insist with us, we were left somehow ignored."
+          text: "Sie verfolgten uns nicht wirklich."
         sequence-9:
           s: 9
           from: "00:00:54,10"
           to: "00:00:57,28"
-          text: "My boss always used to say that"
+          text: "Mein Chef sagte immer,"
         sequence-10:
           s: 10
           from: "00:00:57,28"

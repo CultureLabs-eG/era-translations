@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:02:46,03"
           to: "00:02:50,01"
-          text: "Mio padre era andato dai partigiani..."
+          text: "Mio padre era andato dai partigiani."
         sequence-41:
           s: 41
           from: "00:02:50,01"
@@ -213,12 +213,12 @@ it:
           s: 42
           from: "00:02:56,29"
           to: "00:03:02,22"
-          text: "Aveva combattuto da qualche parte in Finlandia o altrove, per Hitler."
+          text: "Aveva combattuto da qualche parte in Finlandia o chissà dove, per Hitler."
         sequence-43:
           s: 43
           from: "00:03:02,22"
           to: "00:03:09,01"
-          text: "Dopo si era reso conto che era sbagliato, è andato in vacanza e poi dai partigiani."
+          text: "Dopo si era reso conto che era sbagliato, e tornato dalle vacanze era andato dai partigiani."
         sequence-44:
           s: 44
           from: "00:03:09,01"

@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:35,26"
           to: "00:01:41,11"
-          text: "Fortunately, my father was at home during the war."
+          text: "Mio padre era a casa durante la guerra. Eh, fortunatamente era a casa e..."
         sequence-17:
           s: 17
           from: "00:01:41,11"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:44,09"
           to: "00:01:53,21"
-          text: "He would check to see if there were Germans around in order to tell the partisans."
+          text: "lui non ha fatto niente, lui stava, lui andava a vedere quando se c’erano dei tedeschi, uno stava attento ai partigiani,"
         sequence-19:
           s: 19
           from: "00:01:53,21"

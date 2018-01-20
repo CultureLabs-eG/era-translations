@@ -88,17 +88,17 @@ it:
           s: 17
           from: "00:01:27,18"
           to: "00:01:40,00"
-          text: "il primo grande campo dove siamo stati, arrivavano dei convogli interi di ebrei e zingari."
+          text: "il primo grande campo dove siamo stati, arrivavano interi convogli di ebrei e zingari."
         sequence-18:
           s: 18
           from: "00:01:40,00"
           to: "00:01:49,05"
-          text: "There were men and women, but children as well, and babies in their mother’s arms."
+          text: "C'erano uomini e donne, ma anche bambini e i bebè in braccio alle madri."
         sequence-19:
           s: 19
           from: "00:01:49,05"
           to: "00:02:00,05"
-          text: "We saw them, we were not far away and we knew what was going to happen. That hurt a lot, it still does."
+          text: "Li vedevamo, non eravamo lontani, e sapevamo come sarebbero andate le cose. Questo ci faceva male, e ce ne fa ancora."
         sequence-20:
           s: 20
           from: "00:02:00,05"
