@@ -110,21 +110,17 @@ de:
           s: 21
           from: "00:02:41,21"
           to: "00:02:49,02"
-          text: |-
-              so I was forced to use alternative methods, 
-              those I had learned from my family,
+          text: "Ich musste mich so gut wie möglich mit den Methoden behelfen, die ich von meiner Familie gelernt hatte,"
         sequence-22:
           s: 22
           from: "00:02:49,02"
           to: "00:02:54,12"
-          text: "my parents and my two older sisters."
+          text: "von meinen Eltern und meinen beiden älteren Schwestern."
         sequence-23:
           s: 23
           from: "00:02:54,12"
           to: "00:03:07,19"
-          text: |-
-              During the first three months of school we did writing exercises 
-              and we learned to count up to fifty.
+          text: "In der Schule machten wir in den ersten drei Monaten Schreibübungen und lernten bis 50 zu zählen."
         sequence-24:
           s: 24
           from: "00:03:07,19"

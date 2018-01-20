@@ -128,17 +128,17 @@ it:
           s: 25
           from: "00:03:01,07"
           to: "00:03:07,07"
-          text: "We were doing fine because my mother worked as a dressmaker and was able to earn a little money."
+          text: "Noi stavamo ancora bene perché mia madre faceva la sarta, un po’ di soldini se li guadagnava"
         sequence-26:
           s: 26
           from: "00:03:07,07"
           to: "00:03:11,28"
-          text: "She was very good at her job and worked for a family who paid her well."
+          text: "ed era molto molto brava e lavorava per questi signori che un po’ di soldi ce li davano."
         sequence-27:
           s: 27
           from: "00:03:11,28"
           to: "00:03:20,25"
-          text: "Nevertheless, we were nine in our family, so my brothers went to work as soon as they could."
+          text: "Ma la famiglia eravamo in nove. Poi... dopo i miei fratelli sono andati subito tutti a lavorare."
         sequence-28:
           s: 28
           from: "00:03:20,25"
