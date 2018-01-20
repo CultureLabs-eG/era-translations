@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:44,22"
           to: "00:02:49,05"
-          text: ~
+          text: "Poi dopo io altre cose, non saprei proprio cosa dire per gli ebrei proprio perché..."
         sequence-26:
           s: 26
           from: "00:02:49,05"
@@ -143,12 +143,12 @@ it:
           s: 28
           from: "00:03:03,26"
           to: "00:03:11,09"
-          text: "Avevano un negozio lì di mobili, secondo me hanno chiuso tutto e poi hanno detto noi dobbiamo andare via, ma allora io non pensavo e non sapevo perché gli ebrei scappassero così. No, io poi non, non se ne parlava perché sai gli ebrei... poi noi in montagna, noi abitavamo a Marola, non eravamo... io venivo spesso in città perché mia madre è nata proprio in Via Emilia San Pietro, è nata proprio a Reggio."
+          text: "Avevano un negozio lì di mobili, secondo me hanno chiuso tutto e poi hanno detto noi dobbiamo andare via,"
         sequence-29:
           s: 29
           from: "00:03:11,09"
           to: "00:03:17,19"
-          text: "At the time I didn’t know or understand why they fled like that."
+          text: "ma allora io non pensavo e non sapevo perché gli ebrei scappassero così."
         sequence-30:
           s: 30
           from: "00:03:17,19"
@@ -158,9 +158,9 @@ it:
           s: 31
           from: "00:03:22,00"
           to: "00:03:28,24"
-          text: "We didn’t talk about it, especially in Marola, in the mountains,"
+          text: "No, io poi non, non se ne parlava perché sai gli ebrei... poi noi in montagna, noi abitavamo a Marola,"
         sequence-32:
           s: 32
           from: "00:03:28,24"
           to: "00:03:36,07"
-          text: "although I would often come to Reggio, since my mother was born in Reggio, in via Emilia San Pietro."
+          text: "non eravamo... although I would often come to Reggio, since my mother was born in Reggio, in via Emilia San Pietro."

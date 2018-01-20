@@ -108,12 +108,12 @@ it:
           s: 21
           from: "00:01:54,08"
           to: "00:02:02,09"
-          text: "E lei m’ha dato un bel manrovescio e mi ha detto: “Adesso almeno piangi per qualche cosa”."
+          text: "E lei m’ha dato un bel manrovescio e mi ha detto: “Adesso almeno piangi per qualche cosa”. Forse in quel momento si è trovata in difficoltà a darmi una risposta,"
         sequence-22:
           s: 22
           from: "00:02:02,09"
           to: "00:02:06,27"
-          text: "Parents had to be really careful to talk with us kids."
+          text: "anche perché i genitori stavano molto attenti a parlare con noi bambini,"
         sequence-23:
           s: 23
           from: "00:02:06,27"
