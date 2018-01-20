@@ -143,17 +143,17 @@ it:
           s: 28
           from: "00:03:20,25"
           to: "00:03:27,01"
-          text: "My sister was ten when she left home and went to work in Parma for a lady who was living alone."
+          text: "Mia sorella è andata a 10 anni a Parma con questa signora, una signora che era da sola, a 10 anni era già via da casa."
         sequence-29:
           s: 29
           from: "00:03:27,01"
           to: "00:03:32,01"
-          text: "I went to Switzerland and worked there with a family for ten years."
+          text: "Io sono andata in Svizzera, sono stata dieci anni in una casa."
         sequence-30:
           s: 30
           from: "00:03:32,01"
           to: "00:03:42,24"
-          text: "I was the one who had to wake up my master at two in the morning, knocking on the door and shouting, “It’s two o’ clock”."
+          text: "Io mi sono presa la responsabilità che alle due, andavo a letto all’una e alle due andavo a chiamare il mio padrone, dovevo bussare alla porta e dire: “Sono le due”."
         sequence-31:
           s: 31
           from: "00:03:42,24"
@@ -173,9 +173,9 @@ it:
           s: 34
           from: "00:04:10,24"
           to: "00:04:22,13"
-          text: "All I knew was that I had to work. That was it. And I can tell you that you sure work hard under the Germans, isn’t that true?"
+          text: "Io mi sono sempre sentita solo in dovere di lavorare, e basta. E sotto i tedeschi lavori eh, perché loro lavorano. E’ vero o no?"
         sequence-35:
           s: 35
           from: "00:04:22,13"
           to: "00:04:31,26"
-          text: "Even in the rain, they wear a priest’s hat and go to work in the fields."
+          text: "Loro lavorano veh, perché quando piove forte, con un cappello da prete in testa, vanno in campagna."

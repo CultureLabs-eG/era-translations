@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:00:58,04"
           to: "00:01:02,17"
-          text: "They finally called me. I went up the steps to the stand."
+          text: "Mi chiamano, io vado su per la scala, arrivo sul palco..."
         sequence-13:
           s: 13
           from: "00:01:02,17"

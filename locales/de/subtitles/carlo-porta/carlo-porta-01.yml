@@ -125,14 +125,12 @@ de:
           s: 24
           from: "00:03:07,19"
           to: "00:03:13,27"
-          text: "Our teachers were not like the ones you might find today."
+          text: "Die Lehrerinnen waren nicht so wie heute."
         sequence-25:
           s: 25
           from: "00:03:13,27"
           to: "00:03:22,22"
-          text: |-
-              I remember that my teacher was from Casalgrande 
-              and walked all the way to school and back, poor woman.
+          text: "Ich erinnere mich, dass meine Lehrerin aus Casalgrande kam. Die arme Frau ging den ganzen Weg zur Schule und zurück zu Fuß."
         sequence-26:
           s: 26
           from: "00:03:22,22"

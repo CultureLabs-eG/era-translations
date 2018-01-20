@@ -168,12 +168,12 @@ it:
           s: 33
           from: "00:03:48,11"
           to: "00:03:54,11"
-          text: "I did a huge leap, with my 35kg at the time, yelling at the police officer:"
+          text: "Sono sobbalzato, con i miei 35 kg, e ho detto al commissario:"
         sequence-34:
           s: 34
           from: "00:03:54,11"
           to: "00:04:01,09"
-          text: "“Ask that cop what he did in the night of October 21st, 1941!” I made a big fuss."
+          text: "“Chieda a quel poliziotto quello che è successo la notte del 21 ottobre!\" Ho fatto una baraonda là dentro!"
         sequence-35:
           s: 35
           from: "00:04:01,09"
