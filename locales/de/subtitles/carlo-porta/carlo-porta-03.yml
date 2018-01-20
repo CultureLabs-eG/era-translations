@@ -180,34 +180,32 @@ de:
           s: 35
           from: "00:04:03,19"
           to: "00:04:10,09"
-          text: |-
-              This time, however, the railcar was full, 
-              so people began to ask me what I had done,
+          text: "Dieses Mal aber, begannen die Leute zu fragen, was ich getan hatte"
         sequence-36:
           s: 36
           from: "00:04:10,09"
           to: "00:04:16,13"
-          text: "and I did what I could to have them do so."
+          text: "und ich ließ es zu."
         sequence-37:
           s: 37
           from: "00:04:16,13"
           to: "00:04:22,02"
-          text: "I became the star of the railcar, everybody handed me something,"
+          text: "Ich wurde der Star des Wagons, alle gaben mir etwas. Zigaretten und so weiter."
         sequence-38:
           s: 38
           from: "00:04:22,02"
           to: "00:04:29,08"
-          text: "cigarettes and so on, and the Carabinieri didn’t know what to say."
+          text: "Die Carabinieri wussten nicht, was sie sagen sollten."
         sequence-39:
           s: 39
           from: "00:04:29,08"
           to: "00:04:33,13"
-          text: "Their problem was that they didn’t have a place to hide me in,"
+          text: "Ihr Problem war, dass sie kein Platz hatten, um mich zu verstecken."
         sequence-40:
           s: 40
           from: "00:04:33,13"
           to: "00:04:38,29"
-          text: "so they couldn’t do anything if someone offered me a cigarette."
+          text: "also konnten sie nichts tun, wenn mir jemand eine Zigarette anbot."
         sequence-41:
           s: 41
           from: "00:04:38,29"

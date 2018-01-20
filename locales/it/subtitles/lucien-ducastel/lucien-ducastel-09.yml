@@ -103,17 +103,17 @@ it:
           s: 20
           from: "00:02:10,06"
           to: "00:02:20,08"
-          text: "“We are going to Germany, to meet some people. But of course we won’t ask you to come along.”"
+          text: "\"Andiamo in Germania il tal giorno per incontrare degli amici. Certo non ti chiediamo di venire con noi…\""
         sequence-21:
           s: 21
           from: "00:02:20,08"
           to: "00:02:31,12"
-          text: "I said: “Why won’t you ask me to go with you? Are you afraid that I will say that all Germans are fascists?"
+          text: "Ho detto: \"Perché non mi chiedete di venire con voi? Avete paura che vada a dire che i tedeschi sono tutti fascisti?\""
         sequence-22:
           s: 22
           from: "00:02:31,12"
           to: "00:02:44,19"
-          text: "Not way. If you want me to, I will come along. I promise I will behave correctly towards the Germans we meet."
+          text: "Se desiderate che venga con voi, lo farò, e prometto di essere correttissimo nei confronti dei tedeschi.\""
         sequence-23:
           s: 23
           from: "00:02:44,19"
