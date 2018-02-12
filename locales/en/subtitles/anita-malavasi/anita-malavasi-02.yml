@@ -8,7 +8,7 @@ en:
           s: 1
           from: "00:00:00,12"
           to: "00:00:05,07"
-          text: "The fascist regime didn’t spare us children."
+          text: "The fascist regime didn’t even spare us children."
         sequence-2:
           s: 2
           from: "00:00:05,07"
@@ -18,122 +18,122 @@ en:
           s: 3
           from: "00:00:08,26"
           to: "00:00:12,01"
-          text: "I was really very good in drawing."
+          text: "I was good, I was really good at drawing."
         sequence-4:
           s: 4
           from: "00:00:12,01"
           to: "00:00:17,27"
-          text: "I had drawn some very nice fasces with a laurel wreath."
+          text: "And look at the irony of fate: I drew a very nice sheaf with a beautiful laurel wreath."
         sequence-5:
           s: 5
           from: "00:00:17,27"
           to: "00:00:27,10"
-          text: "It’s not easy to colour that with crayons if you’re not good at it."
+          text: "To paint it, I mean, to color it with crayons if you don't have the hand for it... I mean, if you're not careful, it won't turn out well..."
         sequence-6:
           s: 6
           from: "00:00:27,10"
           to: "00:00:30,08"
-          text: "It turned out really nice."
+          text: "but actually it turned out to be very beautiful"
         sequence-7:
           s: 7
           from: "00:00:30,08"
           to: "00:00:36,20"
-          text: "My drawing was chosen as the most beautiful one in the school."
+          text: "and it was selected as the best drawing of our elementary school in Castelnovo di Sotto."
         sequence-8:
           s: 8
           from: "00:00:36,20"
           to: "00:00:42,17"
-          text: "We were called at the Ausoni theatre for the award ceremony."
+          text: "We were called to the Ausoni theatre for the award ceremony."
         sequence-9:
           s: 9
           from: "00:00:42,17"
           to: "00:00:45,17"
-          text: "The podestà was to hand out the prizes."
+          text: "The podestà was supposed to come hand out the prizes."
         sequence-10:
           s: 10
           from: "00:00:45,17"
           to: "00:00:52,19"
-          text: "The whole fascist hierarchy was attending, as always in case of ceremonies."
+          text: "They were present, since the entire fascist heirarchy was present at every event, giving out awards to the children...\n"
         sequence-11:
           s: 11
           from: "00:00:52,19"
           to: "00:00:58,04"
-          text: "I was the last one who would have been awarded."
+          text: "i was the last one to be called since I had earned the top award in the entire school."
         sequence-12:
           s: 12
           from: "00:00:58,04"
           to: "00:01:02,17"
-          text: "They finally called me. I went up the steps to the stand."
+          text: "They called me, I went up the stairs and was up on the stage..."
         sequence-13:
           s: 13
           from: "00:01:02,17"
           to: "00:01:12,19"
-          text: "Mr. Ganassi was there. Every evening I used to bring him some milk of a cow I had raised."
+          text: "and there stood Doctor Ganassi. This I should state because he was a family friend and I, even all of us, would bring him milk from a cow that I'd practically raised,"
         sequence-14:
           s: 14
           from: "00:01:12,19"
           to: "00:01:19,04"
-          text: "Since he had a little child and he had been losing all his children when very young."
+          text: "since he had a young son but couldn't manage to raise him... all of his children died as infants and so we would bring him this milk."
         sequence-15:
           s: 15
           from: "00:01:19,04"
           to: "00:01:24,29"
-          text: "Mr. Ganassi told me: “So you don’t belong to the Piccole Italiane?” I answered: “No, my father didn’t sign me up”."
+          text: "And he said: “Oh, you don’t belong to the Piccole Italiane?” I answered: “No, my father didn’t sign me up”."
         sequence-16:
           s: 16
           from: "00:01:24,29"
           to: "00:01:28,28"
-          text: "“So we can’t give you the award”, said Mr. Ganassi, and sent me back."
+          text: "\"Well, then we won't give your your award\" and he sent me back."
         sequence-17:
           s: 17
           from: "00:01:28,28"
           to: "00:01:34,05"
-          text: "How can a little girl who’s ten or eleven years old understand"
+          text: "A ten, eleven year-old girl... how can you explain to her that..."
         sequence-18:
           s: 18
           from: "00:01:34,05"
           to: "00:01:42,01"
-          text: "that having a membership card is worth more than her skills?"
+          text: "how can she understand that there is more worth to a membership card than her ability to work, to study, to be good, etcetera?"
         sequence-19:
           s: 19
           from: "00:01:42,01"
           to: "00:01:47,17"
-          text: "I went home crying. My mother was feeding the pigs."
+          text: "I went home crying. My mother was feeding the pigs. Poor thing.. she found herself..."
         sequence-20:
           s: 20
           from: "00:01:47,17"
           to: "00:01:54,08"
-          text: "I was telling her that it was her fault that I didn’t receive my prize."
+          text: "I said, \"This is your fault. I didn't get an award because you didn't get me the membership.\""
         sequence-21:
           s: 21
           from: "00:01:54,08"
           to: "00:02:02,09"
-          text: "She slapped me and told me that at least I had something to cry about. She didn’t know how to explain me."
+          text: "So she gave me a good slap and told me, \"At least now you have something to cry about.\" Perhaps she found it difficult to respond to me in the moment"
         sequence-22:
           s: 22
           from: "00:02:02,09"
           to: "00:02:06,27"
-          text: "Parents had to be really careful to talk with us kids."
+          text: "since parents were really careful about talking to us kids."
         sequence-23:
           s: 23
           from: "00:02:06,27"
           to: "00:02:12,11"
-          text: "Children often repeat things they hear at home:"
+          text: "because children could easily let something slip, even with others... and you couldn't... i mean..."
         sequence-24:
           s: 24
           from: "00:02:12,11"
           to: "00:02:23,07"
-          text: "If they said something bad about the fascists, parents could be punished."
+          text: "if you said something bad about the fascists, there was the risk and the danger, if you expressed it outside of your home, that your parents would be punished."
         sequence-25:
           s: 25
           from: "00:02:23,07"
           to: "00:02:34,20"
-          text: "Even when they were talking in the cattle shed, they kept telling us not to talk about what we heard."
+          text: "And because of that, even when they spoke in the stables, they would say, “Ragasol, vueter guai s’adgiv quèl”, which meant \"children, be careful, you shouldn't talk about anything that you hear at home\"."
         sequence-26:
           s: 26
           from: "00:02:34,20"
           to: "00:02:42,26"
-          text: "So since we were kids we knew we had to keep quiet in order not to get ourselves and our family in trouble."
+          text: "Through this, ever since we were children, we knew that we had to keep quiet, that it was dangerous for us and our family to do certain things."
         sequence-27:
           s: 27
           from: "00:02:42,26"
@@ -143,12 +143,12 @@ en:
           s: 28
           from: "00:02:43,21"
           to: "00:02:49,13"
-          text: "Then our family moved to Reggio, because the kids were going to school."
+          text: "Then I came to Reggio. Our family moved to Reggio since the boys were studying..."
         sequence-29:
           s: 29
           from: "00:02:49,13"
           to: "00:02:55,10"
-          text: "My brother had been going to high school at a boarding school in Parma."
+          text: "That is, my brother had gone to high school at a boarding school in Parma and they were starting..."
         sequence-30:
           s: 30
           from: "00:02:55,10"
@@ -158,47 +158,47 @@ en:
           s: 31
           from: "00:02:59,27"
           to: "00:03:03,01"
-          text: "They bought a house in Dalmazia street."
+          text: "They bought a house on Dalmazia Street"
         sequence-32:
           s: 32
           from: "00:03:03,01"
           to: "00:03:07,03"
-          text: "Life changed dramatically for me."
+          text: "and my life changed completely."
         sequence-33:
           s: 33
           from: "00:03:07,03"
           to: "00:03:19,09"
-          text: "We left farm life, based on conservatism, traditionalism, on having to be careful to what you say or do."
+          text: "coming from the traditions, the farm life, which was based on conservatism, the traditionalism, having to be careful about what you said..."
         sequence-34:
           s: 34
           from: "00:03:19,09"
           to: "00:03:25,23"
-          text: "Also, women would be considered being a nobody."
+          text: "and the women were constantly being treated like nobodies."
         sequence-35:
           s: 35
           from: "00:03:25,23"
           to: "00:03:30,14"
-          text: "I used to be told to shut up because I was a woman even at home."
+          text: "In fact, I used to be told even in my own home, \"Shut up. You are a woman.\" "
         sequence-36:
           s: 36
           from: "00:03:30,14"
           to: "00:03:34,02"
-          text: "My mother thought this was right."
+          text: "And my mother, poor woman, thought this was right."
         sequence-37:
           s: 37
           from: "00:03:34,02"
           to: "00:03:38,07"
-          text: "In the city I started meeting women who went to work."
+          text: "Here, I instead started meeting women that went to work"
         sequence-38:
           s: 38
           from: "00:03:38,07"
           to: "00:03:45,11"
-          text: "The working class elite used to live in Dalmazia street."
+          text: "and Dalmazia Street was a street where the working-class elites of the city lived."
         sequence-39:
           s: 39
           from: "00:03:45,11"
           to: "00:03:50,03"
-          text: "Reggiane factory technicians of the water and gas companies."
+          text: "There were factory technicians, gas technicians, water technicians."
         sequence-40:
           s: 40
           from: "00:03:50,03"

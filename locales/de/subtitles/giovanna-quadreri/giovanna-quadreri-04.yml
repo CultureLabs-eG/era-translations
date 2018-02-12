@@ -82,32 +82,32 @@ de:
         sequence-16:
           s: 16
           from: "00:01:39,19"
-          to: "00:01:59,00"
+          to: "00:01:48,00"
           text: ~
         sequence-17:
           s: 17
-          from: "00:01:59,00"
-          to: "00:02:10,04"
+          from: "00:01:48,00"
+          to: "00:01:59,00"
           text: "My mother did whatever she could. She also tried to help the partisans and the people in our village."
         sequence-18:
           s: 18
-          from: "00:02:10,04"
-          to: "00:02:19,24"
+          from: "00:01:59,00"
+          to: "00:02:10,04"
           text: "She would give injections and take care of things: in the mountains nobody had anything at that time."
         sequence-19:
           s: 19
-          from: "00:02:19,24"
-          to: "00:02:26,06"
+          from: "00:02:10,04"
+          to: "00:02:19,24"
           text: "My mother, poor woman, was the only one who knew how to give injections,"
         sequence-20:
           s: 20
-          from: "00:02:26,06"
-          to: "00:02:35,04"
+          from: "00:02:19,24"
+          to: "00:02:26,06"
           text: "so she was always dashing about, even at night, summoned by many families in the village."
         sequence-21:
           s: 21
-          from: "00:02:35,04"
-          to: "00:02:37,06"
+          from: "00:02:26,06"
+          to: "00:02:35,04"
           text: ~
         sequence-22:
           s: 22

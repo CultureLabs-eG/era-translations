@@ -2,18 +2,18 @@ it:
   lorenz-knorr:
     chapter-1:
       c: 1
-      title: "Presentation, Introduction"
+      title: "Presentazione e introduzione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,15"
           to: "00:00:04,04"
-          text: "My name is Lorenz Knorr;"
+          text: "Il mio nome è Lorenz Knorr."
         sequence-2:
           s: 2
           from: "00:00:04,04"
           to: "00:00:15,26"
-          text: "born in 1921 and grown up in Eger, now Cheb, in the German populated areas of Czechoslovakia."
+          text: "nato nel 1921 a Eger, ora Cheb, nei territori tedeschi occupati in Cecoslovacchia."
         sequence-3:
           s: 3
           from: "00:00:15,26"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:16,23"
           to: "00:00:20,11"
-          text: "I am a trained typesetter and typographer."
+          text: "Professione appresa: compositore tipografico e tipografo."
         sequence-5:
           s: 5
           from: "00:00:20,11"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:21,08"
           to: "00:00:28,04"
-          text: "After 1945 I was active in the socialistic youth as a state and federation secretary."
+          text: "Dopo il 1945 attivo nella gioventù socialista come segretario nazionale e federale."
         sequence-7:
           s: 7
           from: "00:00:28,04"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:29,20"
           to: "00:00:33,19"
-          text: "For 25 years I was the head of the German Union of Peace"
+          text: "Per 25 anni a capo della Friedensunion (Unione per la pace) tedesca"
         sequence-9:
           s: 9
           from: "00:00:33,19"
           to: "00:00:39,27"
-          text: "and then federation spokesman for the Association of the victims of persecution by the Nazi regime."
+          text: "e poi portavoce federale della Vereinigung der Verfolgten des Naziregimes (Associazione perseguitati dal regime nazista)."
         sequence-10:
           s: 10
           from: "00:00:39,27"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:42,18"
           to: "00:00:53,06"
-          text: "If you grew up in a family of a labour union official, in the German populated areas of Czechoslovakia"
+          text: "Chi è cresciuto negli anni '20 e '30 del secolo passato, nei territori tedeschi occupati della Cecoslovacchia,"
         sequence-12:
           s: 12
           from: "00:00:53,06"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:54,20"
           to: "00:00:59,01"
-          text: "during the twenties and thirties, of the last century,"
+          text: "all'interno della famiglia di un funzionario della classe lavoratrice,"
         sequence-14:
           s: 14
           from: "00:00:59,01"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:00,01"
           to: "00:01:09,02"
-          text: "you encountered the political problems and the political fights from early childhood."
+          text: "avrai a che fare fin da piccolo con problemi e lotte politiche in continua evoluzione."
         sequence-16:
           s: 16
           from: "00:01:09,02"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:10,16"
           to: "00:01:16,18"
-          text: "In Eger my father was the most popular strike-leader before the First World War"
+          text: "Mio padre era, prima della prima guerra mondiale, il più famoso leader a capo degli scioperi a Eger"
         sequence-18:
           s: 18
           from: "00:01:16,18"
@@ -98,22 +98,22 @@ it:
           s: 19
           from: "00:01:17,20"
           to: "00:01:24,24"
-          text: "and afterwards he was, although not fit for work,"
+          text: "e, nel dopoguerra, nonostante non fosse più idoneo al lavoro,"
         sequence-20:
           s: 20
           from: "00:01:24,24"
           to: "00:01:31,03"
-          text: "still speaker at demonstrations and meetings of the union."
+          text: "continuò ad essere oratore in manifestazioni e incontri del sindacato."
         sequence-21:
           s: 21
           from: "00:01:31,03"
           to: "00:01:40,05"
-          text: "As his son, I obviously experienced this first hand, because my parents often took me with them to political activities;"
+          text: "Ovviamente anche suo figlio fu coinvolto, dal momento che spesso i genitori lo portavano con sé agli eventi politici,"
         sequence-22:
           s: 22
           from: "00:01:40,05"
           to: "00:01:47,20"
-          text: "especially on the 1st May or on other red-letter days of the labour movement."
+          text: "e in particolare per il 1 maggio o in altri giorni di festa del movimento dei lavoratori."
         sequence-23:
           s: 23
           from: "00:01:47,20"
@@ -123,22 +123,22 @@ it:
           s: 24
           from: "00:01:49,05"
           to: "00:01:57,12"
-          text: "The moulding and forming impressions were: 1. the year 1933,"
+          text: "Le impressioni distintive e formative furono però nell'anno 1933,"
         sequence-25:
           s: 25
           from: "00:01:57,12"
           to: "00:02:06,06"
-          text: "when the German corpus and the German General staff shifted the power towards the Nazi leading clique"
+          text: "quando il capitale e lo stato maggiore tedeschi spostarono il potere nelle mani dei capi nazisti,"
         sequence-26:
           s: 26
           from: "00:02:06,06"
           to: "00:02:10,13"
-          text: "and: 2. the year 1934, in Austria,"
+          text: "e nel 1934 in Austria,"
         sequence-27:
           s: 27
           from: "00:02:10,13"
           to: "00:02:17,29"
-          text: "when the latter gave power to the cleric-fascists who broke up the labour movement."
+          text: "quando la Heimwehr clerico-fascista distrusse il movimento operaio."
         sequence-28:
           s: 28
           from: "00:02:17,29"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:19,03"
           to: "00:02:32,11"
-          text: "According to our understanding the development of mankind goes from lower forms to increasing forms of living together,"
+          text: "In base alla nostra comprensione delle cose, che vede l'umanità svilupparsi a partire da minori verso sempre più alte forme di convivenza,"
         sequence-30:
           s: 30
           from: "00:02:32,11"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:02:33,16"
           to: "00:02:36,25"
-          text: "therefore that was obviously a heavy setback."
+          text: "questo era ovviamente un violento"
         sequence-32:
           s: 32
           from: "00:02:36,25"

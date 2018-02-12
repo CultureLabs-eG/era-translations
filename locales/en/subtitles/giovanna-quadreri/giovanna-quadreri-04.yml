@@ -82,33 +82,33 @@ en:
         sequence-16:
           s: 16
           from: "00:01:39,19"
-          to: "00:01:59,00"
-          text: ~
+          to: "00:01:48,00"
+          text: "My little sister also served in Parma. She was nine or ten years old, and went with a woman."
         sequence-17:
           s: 17
-          from: "00:01:59,00"
-          to: "00:02:10,04"
-          text: "My mother did whatever she could. She also tried to help the partisans and the people in our village."
+          from: "00:01:48,00"
+          to: "00:01:59,00"
+          text: "In the morning, she tended to little household affairs, in the afternoon she went with the contessa, who was a very old woman. She worked with the Red Cross."
         sequence-18:
           s: 18
-          from: "00:02:10,04"
-          to: "00:02:19,24"
-          text: "She would give injections and take care of things: in the mountains nobody had anything at that time."
+          from: "00:01:59,00"
+          to: "00:02:10,04"
+          text: "Then she took her to the hospital. She was crazy about treating the wounded, treating people -- it was a real passion for her. It was because of this she joined the partisans."
         sequence-19:
           s: 19
-          from: "00:02:19,24"
-          to: "00:02:26,06"
-          text: "My mother, poor woman, was the only one who knew how to give injections,"
+          from: "00:02:10,04"
+          to: "00:02:19,24"
+          text: "And she was a nurse. She did whatever she could. She would give injections and take care of things. In short, she served the people."
         sequence-20:
           s: 20
-          from: "00:02:26,06"
-          to: "00:02:35,04"
-          text: "so she was always dashing about, even at night, summoned by many families in the village."
+          from: "00:02:19,24"
+          to: "00:02:26,06"
+          text: "She also tried to help the partisans and the people in our village: in the mountains nobody had anything at that time."
         sequence-21:
           s: 21
-          from: "00:02:35,04"
-          to: "00:02:37,06"
-          text: ~
+          from: "00:02:26,06"
+          to: "00:02:35,04"
+          text: "My mother, poor woman, was the only one who knew how to give injections, so she was always dashing about, called on by everyone, even at night."
         sequence-22:
           s: 22
           from: "00:02:37,06"

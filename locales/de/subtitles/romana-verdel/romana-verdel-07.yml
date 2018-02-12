@@ -8,17 +8,17 @@ de:
           s: 1
           from: "00:00:00,27"
           to: "00:00:04,15"
-          text: "Towards the end of the war the message came"
+          text: "Na, gegen Kriegsende da kam schon die Post,"
         sequence-2:
           s: 2
           from: "00:00:04,15"
           to: "00:00:09,28"
-          text: "that mother was dead."
+          text: "dass die Mutter tot ist."
         sequence-3:
           s: 3
           from: "00:00:09,28"
           to: "00:00:13,03"
-          text: "I don’t know how they got to know about it."
+          text: "Und i weiß nicht, von wo die das erfahren haben."
         sequence-4:
           s: 4
           from: "00:00:13,03"
@@ -28,17 +28,17 @@ de:
           s: 5
           from: "00:00:17,23"
           to: "00:00:25,21"
-          text: "I was so cold; I did not cry when they told me. Mother would not come back."
+          text: "Es war halt so. Aber ich war so kalt, ich hab nicht geweint, wie sie gesagt haben, die Mutter ist nicht mehr. Die Mutter wird nicht mehr zurückkommen."
         sequence-6:
           s: 6
           from: "00:00:25,21"
           to: "00:00:30,25"
-          text: "I had no tears; not for the aunt, for nobody."
+          text: "Ich hab keine Tränen gehabt. Nicht für Tante, für niemanden."
         sequence-7:
           s: 7
           from: "00:00:30,25"
           to: "00:00:34,14"
-          text: "I did not cry one single tear for anybody,"
+          text: "Nicht eine Träne geweint, für jemanden."
         sequence-8:
           s: 8
           from: "00:00:34,14"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:35,16"
           to: "00:00:43,11"
-          text: "although I was really suffering about not being able to see these people."
+          text: "Und obwohl i sehr, sehr gelitten hab, dass ich die Menschen nicht mehr sehen werd’ und auch die Tante und alle."
         sequence-10:
           s: 10
           from: "00:00:43,11"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:00:45,21"
           to: "00:00:54,13"
-          text: "Father had already died in August 1943."
+          text: "Der Vater ist schon 43, im August 43 gefallen,"
         sequence-12:
           s: 12
           from: "00:00:54,13"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:00:59,20"
           to: "00:01:02,24"
-          text: "I had forgotten all about him."
+          text: "und den hab ich schon überhaupt total vergessen."
         sequence-14:
           s: 14
           from: "00:01:02,24"
@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:01:10,26"
           to: "00:01:12,10"
-          text: "Whenever someone asked me:"
+          text: "Aber es war… das war halt… wenn mich jemand gefragt hat, ja:"
         sequence-16:
           s: 16
           from: "00:01:12,10"
@@ -88,22 +88,22 @@ de:
           s: 17
           from: "00:01:13,27"
           to: "00:01:18,29"
-          text: "“Are you sad that your mother won’t come any more?”"
+          text: "„Bist du traurig, dass deine Mutter nicht mehr kommt?“ oder … habe ich gesagt:"
         sequence-18:
           s: 18
           from: "00:01:18,29"
           to: "00:01:21,05"
-          text: "I always answered: “No, I’m not sad.”"
+          text: "„Nein, ich bin nicht traurig.“"
         sequence-19:
           s: 19
           from: "00:01:21,05"
           to: "00:01:24,16"
-          text: "I said that out of defiance and out of furiousness."
+          text: "Das hab ich einfach aus Trotz gesagt und aus Wut."
         sequence-20:
           s: 20
           from: "00:01:24,16"
           to: "00:01:28,01"
-          text: "I got so furious when someone asked me about that."
+          text: "Ich hab’ so eine Wut kriegt, wenn mich jemand das gefragt hat."
         sequence-21:
           s: 21
           from: "00:01:28,01"
@@ -113,12 +113,12 @@ de:
           s: 22
           from: "00:01:29,09"
           to: "00:01:37,04"
-          text: "I either didn’t answer at all or I just coldly said: “No, I’m not sad at all.”"
+          text: "Entweder hab ich gar keine Antwort gegeben, oder ich habe kalt gesagt: „Nein, ich bin überhaupt nicht traurig.“"
         sequence-23:
           s: 23
           from: "00:01:37,04"
           to: "00:01:45,27"
-          text: "Although I was very sad, really, that nobody would come back to the house of my birth."
+          text: "Obwohl ich in Wirklichkeit schon sehr traurig war, dass niemand mehr zurückgekommen ist, in unser – in mein Geburtshaus."
         sequence-24:
           s: 24
           from: "00:01:45,27"
@@ -128,7 +128,7 @@ de:
           s: 25
           from: "00:01:52,25"
           to: "00:01:55,12"
-          text: "Two aunts got killed with the partisans,"
+          text: "Also, es sind vier … zwei Tanten sind bei die Partisanen gefallen,"
         sequence-26:
           s: 26
           from: "00:01:55,12"
@@ -138,12 +138,12 @@ de:
           s: 27
           from: "00:01:57,06"
           to: "00:02:01,29"
-          text: "my mother and one aunt died in the concentration camp in Ravensbrück."
+          text: "und meine Mutter und eine Tante sind im KZ in Ravensbrück ums Leben kommen."
         sequence-28:
           s: 28
           from: "00:02:01,29"
           to: "00:02:07,07"
-          text: "Two uncles died in Dachau"
+          text: "Dann sind zwei Onkel in Dachau ums Leben kommen,"
         sequence-29:
           s: 29
           from: "00:02:07,07"
@@ -153,7 +153,7 @@ de:
           s: 30
           from: "00:02:08,21"
           to: "00:02:11,19"
-          text: "and one cousin got killed with the partisans,"
+          text: "und dann ist ein Cousin gefallen, bei die Partisanen;"
         sequence-31:
           s: 31
           from: "00:02:11,19"
@@ -163,12 +163,12 @@ de:
           s: 32
           from: "00:02:14,28"
           to: "00:02:18,23"
-          text: "one uncle fell in Russia."
+          text: "dann auch ein Onkel in Russland"
         sequence-33:
           s: 33
           from: "00:02:18,23"
           to: "00:02:20,29"
-          text: Altogether
+          text: "und so alle zusammen"
         sequence-34:
           s: 34
           from: "00:02:20,29"
@@ -178,7 +178,7 @@ de:
           s: 35
           from: "00:02:22,25"
           to: "00:02:26,05"
-          text: "it added up to 12 people that died."
+          text: "waren’s 12 Menschen, die gefallen sind."
         sequence-36:
           s: 36
           from: "00:02:26,05"
@@ -188,7 +188,7 @@ de:
           s: 37
           from: "00:02:27,17"
           to: "00:02:37,18"
-          text: "They were my closest relatives, who I grew up with, who were near and dear to me."
+          text: "Also das waren alle meine engsten Verwandten, bei denen ich aufgewachsen bin und die mir lieb waren."
         sequence-38:
           s: 38
           from: "00:02:37,18"
@@ -198,12 +198,12 @@ de:
           s: 39
           from: "00:02:43,25"
           to: "00:02:46,03"
-          text: "The mother was in the concentration camp."
+          text: "Die Mutter ist im KZ."
         sequence-40:
           s: 40
           from: "00:02:46,03"
           to: "00:02:50,01"
-          text: "Father went to the partisans."
+          text: "Der Vater ist zu die Partisanen gegangen, von …"
         sequence-41:
           s: 41
           from: "00:02:50,01"
@@ -213,19 +213,19 @@ de:
           s: 42
           from: "00:02:56,29"
           to: "00:03:02,22"
-          text: "He had fought for Hitler in Finland or somewhere, before."
+          text: "Der Vater war irgendwie in Finnland oder irgendwo in … für den Hitler gekämpft."
         sequence-43:
           s: 43
           from: "00:03:02,22"
           to: "00:03:09,01"
-          text: "He saw that it was wrong and when he came home on holiday, he went to the partisans."
+          text: "Und dann hat er gesehen, dass das falsch ist, dann ist er auf Urlaub gekommen und dann ist er zu die Partisanen."
         sequence-44:
           s: 44
           from: "00:03:09,01"
           to: "00:03:12,10"
-          text: "But he was with them for only for ten minutes and died,"
+          text: "Aber er war nur 10 Minuten bei die Partisanen und ist da gefallen,"
         sequence-45:
           s: 45
           from: "00:03:12,10"
           to: "00:03:14,10"
-          text: "because somebody betrayed him."
+          text: "weil ihn einer verraten hat."

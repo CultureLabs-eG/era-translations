@@ -2,18 +2,18 @@ de:
   giacomo-notari:
     chapter-2:
       c: 2
-      title: "1940 beginning of the war; 1943 Mussolini arrested"
+      title: "1940 Kriegsbeginn; 1943 nach der Inhaftierung Mussolinis"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:07,09"
-          text: "They took us to Busana as there was a radio there, and I remember that"
+          text: "Da es in Busana ein Radio gab, brachte man uns nach Busana und ich erinnere mich,"
         sequence-2:
           s: 2
           from: "00:00:07,09"
           to: "00:00:10,23"
-          text: "we listened to Mussolini’s speech from Palazzo Venezia."
+          text: "dass wir die Rede des \"duce\" (Mussolini) aus dem Palazzo Venezia hörten."
         sequence-3:
           s: 3
           from: "00:00:10,23"
@@ -23,12 +23,12 @@ de:
           s: 4
           from: "00:00:11,20"
           to: "00:00:20,10"
-          text: "Afterwards I saw it on TV over and over, that big head at the window, on that balcony in Palazzo Venezia…"
+          text: "Später habe ich ihn tausenfach im Fernsehen gesehen, diesen Dickkopf am Fenster, auf dem Balkon des Palazzo Venezia..."
         sequence-5:
           s: 5
           from: "00:00:20,10"
           to: "00:00:24,04"
-          text: "and everybody clapping below."
+          text: "und die ganzen Leute, die unten applaudierten."
         sequence-6:
           s: 6
           from: "00:00:24,04"
@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:26,17"
           to: "00:00:33,19"
-          text: "I thought that the war had started. You didn’t contemplate things too much at that age."
+          text: "[Und was dachtest du?] Ich dachte, dass der Krieg ausgebrochen ist... Es war nicht so, dass du viel nachgedacht hast in diesem Alter."
         sequence-8:
           s: 8
           from: "00:00:33,19"
@@ -48,12 +48,12 @@ de:
           s: 9
           from: "00:00:35,29"
           to: "00:00:45,27"
-          text: "That was June 1940, I was thirteen and a half, so what can you be concerned about?"
+          text: "[Wie alt warst du?] Es geschah im Juni 1940, also war ich 13 1/2. Was für Gedanken solltest du dir da schon gemacht haben?"
         sequence-10:
           s: 10
           from: "00:00:45,27"
           to: "00:00:49,26"
-          text: "Having had that sort of education."
+          text: "Nachdem man eine Ausbildung dieser Art gehabt hat."
         sequence-11:
           s: 11
           from: "00:00:49,26"
@@ -63,17 +63,17 @@ de:
           s: 12
           from: "00:00:51,13"
           to: "00:00:58,10"
-          text: "These guys broke into the local headquarters of the fascist party and threw everything out of the windows,"
+          text: "Diese Jungs gingen zum Sitz der faschistischen Partei und warfen alles aus dem Fenster"
         sequence-13:
           s: 13
           from: "00:00:58,10"
           to: "00:01:04,08"
-          text: "including the portrait of Mussolini, which had been respected so much until then."
+          text: "im zweiten Stock. Auch das Bild von Mussolini, das bis dahin verehrt worden war."
         sequence-14:
           s: 14
           from: "00:01:04,08"
           to: "00:01:09,07"
-          text: "Seeing these things in the dirt of the street,"
+          text: "Diese Sachen im Staub der unasphaltierten Straße zu sehen"
         sequence-15:
           s: 15
           from: "00:01:09,07"
@@ -83,4 +83,4 @@ de:
           s: 16
           from: "00:01:10,05"
           to: "00:01:13,21"
-          text: "well that was the first turning point."
+          text: "ist der erste Wendepunkt gewesen."
