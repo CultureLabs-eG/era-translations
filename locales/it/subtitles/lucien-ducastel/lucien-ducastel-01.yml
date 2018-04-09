@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:41,26"
           to: "00:01:47,11"
-          text: "Ho fatto diversi lavori manuali, ecc. ecc."
+          text: "Ho fatto diversi lavori manuali."
         sequence-18:
           s: 18
           from: "00:01:47,11"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:56,22"
           to: "00:02:09,21"
-          text: "Così, semplicemente, sono diventato operaio e ho vissuto tutto il periodo del 1936, gli scioperi e tutto quello che significavano."
+          text: "Così sono diventato operaio e ho vissuto tutto il periodo del 1936, gli scioperi e tutto quello che significavano."
         sequence-21:
           s: 21
           from: "00:02:09,21"
@@ -113,19 +113,19 @@ it:
           s: 22
           from: "00:02:20,22"
           to: "00:02:25,00"
-          text: "Gli scioperi del 1936 hanno dato il via a tutto."
+          text: "Sono stati gli scioperi del 1936 a dare il via al resto."
         sequence-23:
           s: 23
           from: "00:02:25,00"
           to: "00:02:33,27"
-          text: "Era un movimento operaio a manifestarsi. Io all'epoca lavoravo già nei circoli operai."
+          text: "Era un movimento operaio che si manifestava. All'epoca lavoravo già in un contesto operaio."
         sequence-24:
           s: 24
           from: "00:02:33,27"
           to: "00:02:42,26"
-          text: "Ed è in queste circostanze che il movimento del 1936 è cresciuto un po' dappertutto e ci sono state le grandi manifestazioni."
+          text: "In queste circostanze il movimento del 1936 è cresciuto un po' dappertutto, con grandi manifestazioni."
         sequence-25:
           s: 25
           from: "00:02:42,26"
           to: "00:02:48,12"
-          text: "Tutto questo rappresentava molto per il movimento operaio in Francia, è stata una cosa molto importante. Di sicuro!"
+          text: "Tutto ciò significava molto per il movimento operaio in Francia, è stata una cosa importantissima."

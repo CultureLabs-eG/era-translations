@@ -2,7 +2,7 @@ it:
   lucien-ducastel:
     chapter-3:
       c: 3
-      title: "Attività semi clandestine 1939-41"
+      title: "Le attività semi clandestine: 1939-41"
       subtitles:
         sequence-1:
           s: 1
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:16,09"
           to: "00:00:23,01"
-          text: "Spesso lo facevamo la notte, ma di notte c'erano anche le ronde della polizia. Ci dovevamo arrangiare."
+          text: "Spesso lo facevamo la notte, ma allora c'erano anche le ronde della polizia. Ci dovevamo arrangiare."
         sequence-5:
           s: 5
           from: "00:00:23,01"
           to: "00:00:36,07"
-          text: "Eravamo in due o tre a distribuire e in due o tre a controllare: \"Attenzione, è ora di andare…\", si diceva."
+          text: "Eravamo in due o tre a distribuire e a controllare. Dicevamo: \"Attenzione, è ora di andare!\""
         sequence-6:
           s: 6
           from: "00:00:36,07"
@@ -78,12 +78,12 @@ it:
           s: 15
           from: "00:01:18,27"
           to: "00:01:25,20"
-          text: "Uscivamo verso le due o le tre del mattino per andare a distribuire, ci spartivamo le vie…"
+          text: "Uscivamo verso le due o le tre del mattino per andare a distribuire, ci spartivamo le vie."
         sequence-16:
           s: 16
           from: "00:01:25,20"
           to: "00:01:34,01"
-          text: "A volte lo facevamo all'uscita delle fabbriche… ma era molto rischioso, essendo in pieno giorno."
+          text: "A volte lo facevamo all'uscita delle fabbriche, ma era molto rischioso, essendo in pieno giorno."
         sequence-17:
           s: 17
           from: "00:01:34,01"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:35,04"
           to: "00:01:46,06"
-          text: "E poi c'è anche da parlare del problema della produzione del materiale, perché certo andava distribuito, ma bisognava prima farlo."
+          text: "E poi c'è anche da parlare del problema della produzione del materiale. Certo andava distribuito, ma bisognava prima farlo."
         sequence-19:
           s: 19
           from: "00:01:46,06"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:02:02,12"
           to: "00:02:15,00"
-          text: "Dovevamo stare attentissimi, in primo luogo per proteggere questi amici, e poi per poter continuare a fare queste cose."
+          text: "Dovevamo stare attentissimi, in primo luogo per proteggere questi amici, e poi per poter continuare con queste cose."
         sequence-22:
           s: 22
           from: "00:02:15,00"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:26,25"
           to: "00:02:36,14"
-          text: "dove potersi incontrare in due o tre, dipendeva, ma mai più di tre o quattro."
+          text: "dove potersi incontrare in due o tre, ma mai più di tre o quattro."
         sequence-26:
           s: 26
           from: "00:02:36,14"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:02:48,10"
           to: "00:02:55,16"
-          text: "Ci ricevevano, noi arrivavamo, chi a un'ora chi a un'altra. Sempre a orari diversi."
+          text: "Ci ricevevano. Noi arrivavamo, chi a un'ora chi a un'altra. Sempre a orari diversi."
         sequence-28:
           s: 28
           from: "00:02:55,16"
@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:03:19,06"
           to: "00:03:29,22"
-          text: "«Arrestati questi e quei militanti…\" stava scritto nei giornali della regione di Rouen. Era molto difficile e bisognava stare attenti."
+          text: "«Arrestati questi e quei militanti…\" stava scritto nei giornali della regione di Rouen. Bisognava stare attenti."
         sequence-33:
           s: 33
           from: "00:03:29,22"
@@ -173,12 +173,12 @@ it:
           s: 34
           from: "00:03:30,15"
           to: "00:03:36,06"
-          text: "Avevamo un discreto sostegno da parte della popolazione. C'era, sì, gente che diceva"
+          text: "Avevamo un discreto sostegno da parte della popolazione. C'era gente che diceva"
         sequence-35:
           s: 35
           from: "00:03:36,06"
           to: "00:03:43,06"
-          text: "che queste cose non andavano fatte, quando li arrestavano. Ma c'era gente che ci sosteneva."
+          text: "che queste cose non andavano fatte. Ma c'era anche gente che ci sosteneva."
         sequence-36:
           s: 36
           from: "00:03:43,06"
@@ -189,8 +189,8 @@ it:
           from: "00:03:53,16"
           to: "00:04:03,17"
           text: |-
-              Se le polizia scopriva legami con militanti noti, si potevano avere problemi,
-              farsi arrestare…
+              Se le polizia scopriva legami con militanti noti, si potevano avere problemi o
+              farsi arrestare.
         sequence-38:
           s: 38
           from: "00:04:03,17"

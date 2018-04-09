@@ -2,18 +2,18 @@ it:
   lucien-ducastel:
     chapter-4:
       c: 4
-      title: "21 ottobre 1941: l'arresto"
+      title: "L'arresto: 21 ottobre 1941"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:12,06"
-          text: "Non ero sotto copertura, ma sono qomunque stato arrestato il 21 ottobre 1941.Sono stato arrestato perché ero un militante comunista."
+          text: "Non ero sotto copertura, ma sono comunque stato arrestato il 21 ottobre 1941 perché ero un militante comunista."
         sequence-2:
           s: 2
           from: "00:00:12,06"
           to: "00:00:23,14"
-          text: "La polizia della cittadina in cui abitavo nella Senna Marittima conosceva tutti quelli che avevano aderito al Partito o alla Gioventù Comunista."
+          text: "La polizia della mia cittadina conosceva tutti quelli che avevano aderito al Partito o alla Gioventù Comunista."
         sequence-3:
           s: 3
           from: "00:00:23,14"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:30,21"
           to: "00:00:39,22"
-          text: "Ci conoscevano. Sapevano bene che avremmo continuato nonostante l'interdizione del partito. Erano molto vigili."
+          text: "Ci conoscevano. Sapevano che avremmo continuato nonostante l'interdizione del partito. Erano molto vigili."
         sequence-5:
           s: 5
           from: "00:00:39,22"
@@ -63,9 +63,7 @@ it:
           s: 12
           from: "00:01:13,00"
           to: "00:01:24,08"
-          text: |-
-              Quando andavamo a distribuire i volantini, li nascondevamo sotto la giacca…
-               Non andavamo a distribuirne 500 per volta.
+          text: "Quando andavamo a distribuire i volantini, li nascondevamo sotto la giacca. Non ne distribuivamo 500 per volta."
         sequence-13:
           s: 13
           from: "00:01:24,08"
@@ -80,7 +78,7 @@ it:
           s: 15
           from: "00:01:37,28"
           to: "00:01:46,00"
-          text: "È stata la polizia francese a prelevarci in piena notte… la polizia francese e quella tedesca."
+          text: "È stata la polizia francese a prelevarci in piena notte, insieme a quella tedesca."
         sequence-16:
           s: 16
           from: "00:01:46,00"
@@ -110,12 +108,12 @@ it:
           s: 21
           from: "00:02:30,02"
           to: "00:02:40,28"
-          text: "Ci hanno arrestati e portati a Rouen,"
+          text: "Ci hanno arrestati e portati a Rouen."
         sequence-22:
           s: 22
           from: "00:02:40,28"
           to: "00:02:49,02"
-          text: "là hanno incominciato a interrogarci, a farci un certo numero di domande… a cui cercavamo di rispondere dicendo il meno possibile."
+          text: "Là ci hanno interrogati, fatto domande a cui cercavamo di rispondere dicendo il meno possibile."
         sequence-23:
           s: 23
           from: "00:02:49,02"
@@ -140,7 +138,7 @@ it:
           s: 27
           from: "00:03:24,26"
           to: "00:03:37,21"
-          text: "Ma molta gente non era disposta a ospitarci, anche se simpatizzava con noi. \"E se viene la polizia? Arrestano anche noi…\", dicevano."
+          text: "Ma molta gente non era disposta a ospitarci, anche se simpatizzava con noi. \"Se viene la polizia, arrestano anche noi\", dicevano."
         sequence-28:
           s: 28
           from: "00:03:37,21"

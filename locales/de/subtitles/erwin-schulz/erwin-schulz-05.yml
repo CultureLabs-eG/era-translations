@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:01:08,10"
           to: "00:01:13,16"
-          text: "So many murders happened at that time, as well."
+          text: "Es gab ja in dieser Zeit auch viele Morde"
         sequence-14:
           s: 14
           from: "00:01:13,16"
@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:01:14,16"
           to: "00:01:18,18"
-          text: "Politische Gegner wurden ermordet."
+          text: "politische Gegner wurden ermordet."
         sequence-16:
           s: 16
           from: "00:01:18,18"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:01:19,10"
           to: "00:01:28,09"
-          text: "We witnessed something like this, too. One day, we were out and about, when we were attacked by SA people."
+          text: "Wir haben sowas auch erlebt. Wir waren mal unterwegs, sind wir auch mal von SA Leuten überfallen worden."
         sequence-18:
           s: 18
           from: "00:01:28,09"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:01:29,12"
           to: "00:01:35,15"
-          text: "And then another example: In 1932"
+          text: "Auch dann ein anderes Beispiel: Wir hatten 1932"
         sequence-20:
           s: 20
           from: "00:01:35,15"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:36,13"
           to: "00:01:45,17"
-          text: "we went on a holiday to the Baltic Sea with the children from ‘Fichte’."
+          text: "mit den Kindern von Fichte eine Ferienreise gemacht nach der Ostsee"
         sequence-22:
           s: 22
           from: "00:01:45,17"
@@ -118,22 +118,22 @@ de:
           s: 23
           from: "00:01:47,18"
           to: "00:02:06,12"
-          text: "During this time a holiday camp (which had been organized by the social democrats) was attacked by the SA."
+          text: "In dieser Zeit wurde ein Ferienlager von SA überfallen - Den Kinderfreunden, das war von der Sozialdemokratie."
         sequence-24:
           s: 24
           from: "00:02:06,12"
           to: "00:02:16,05"
-          text: "Children and adults were injured during this attack."
+          text: "Da sind Kinder und Erwachsene auch verletzt worden bei dem Überfall."
         sequence-25:
           s: 25
           from: "00:02:16,05"
           to: "00:02:19,28"
-          text: "We were meant to be attacked, too,"
+          text: "Wir sollten auch überfallen werden,"
         sequence-26:
           s: 26
           from: "00:02:19,28"
           to: "00:02:40,17"
-          text: "but we still carried on with our camp, as we had received support by labourer’s organisations from a village."
+          text: "aber wir haben unsere Zeit als Lager trotzdem bis zu Ende geführt. Wir hatten Unterstützung bekommen von einer Arbeiterorganisation aus einem Ort"
         sequence-27:
           s: 27
           from: "00:02:40,17"
@@ -143,12 +143,12 @@ de:
           s: 28
           from: "00:02:42,00"
           to: "00:02:45,21"
-          text: "And fortunately there was no attack."
+          text: "Und ein Glück das da kein Überfall kam."
         sequence-29:
           s: 29
           from: "00:02:45,21"
           to: "00:02:49,20"
-          text: "Who knows what that would have turned out to be like."
+          text: "Wer weiß was das für ein Prozess geworden wäre."
         sequence-30:
           s: 30
           from: "00:02:49,20"
@@ -158,7 +158,7 @@ de:
           s: 31
           from: "00:02:50,14"
           to: "00:02:56,26"
-          text: "Hitler, he received the power through Hindenburg."
+          text: "Hitler, dem wird durch Hindenburg die Macht übertragen."
         sequence-32:
           s: 32
           from: "00:02:56,26"
@@ -168,7 +168,7 @@ de:
           s: 33
           from: "00:03:00,14"
           to: "00:03:15,19"
-          text: "The labour movement was so divided that no unified resistance could be formed."
+          text: "Und die Arbeiterbewegung war so gespalten, daß keine einheitliche Gegenwehr zustande kam."
         sequence-34:
           s: 34
           from: "00:03:15,19"
@@ -178,7 +178,7 @@ de:
           s: 35
           from: "00:03:18,07"
           to: "00:03:22,11"
-          text: "There were a lot of protest demonstrations."
+          text: "Protestdemonstrationen gab es da auch eine Menge."
         sequence-36:
           s: 36
           from: "00:03:22,11"
@@ -188,7 +188,7 @@ de:
           s: 37
           from: "00:03:23,25"
           to: "00:03:30,29"
-          text: "That led to the provocation later on – the burning of the Reichstag –"
+          text: "Führte dann nachher auch noch zu dieser Provokation \"Reichstagsbrand\""
         sequence-38:
           s: 38
           from: "00:03:30,29"
@@ -198,9 +198,9 @@ de:
           s: 39
           from: "00:03:32,15"
           to: "00:03:42,23"
-          text: "after which many people were arrested. It had all been prepared for."
+          text: "nach dem viele verhaftet wurden, es war vieles vorbereitet."
         sequence-40:
           s: 40
           from: "00:03:42,23"
           to: "00:03:50,16"
-          text: "There were mass arrests of the labour officials."
+          text: "Große Verhaftungswellen der Arbeiterfunktionäre."

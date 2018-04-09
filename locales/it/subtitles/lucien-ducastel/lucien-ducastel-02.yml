@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:48,08"
           to: "00:00:59,10"
-          text: "Nel '36 partecipavamo alle attività sindacali, alle manifestazioni e a tutto quello che succedeva, ed è lì che sono entrato nella Gioventù Comunista."
+          text: "Nel '36 partecipavamo alle attività sindacali e alle manifestazioni. Così sono entrato nella Gioventù Comunista."
         sequence-9:
           s: 9
           from: "00:00:59,10"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:59,24"
           to: "00:01:12,06"
-          text: "Questo ha cambiato molte cose. Eravamo obbligati a prendere delle disposizioni per nasconderci, in una sorta di clandestinità."
+          text: "Questo ha cambiato le cose, dovevamo prendere degli accorgimenti per nasconderci, in una sorta di clandestinità."
         sequence-11:
           s: 11
           from: "00:01:12,06"
@@ -78,17 +78,17 @@ it:
           s: 15
           from: "00:01:39,02"
           to: "00:01:48,18"
-          text: "Gli ho risposto che era un mio problema. Avevo 17 anni… Mica bisogna fermarsi davanti a…"
+          text: "Gli ho risposto che era un mio problema. Avevo 17 anni… \"Mica bisogna fermarsi davanti a…\""
         sequence-16:
           s: 16
           from: "00:01:48,18"
           to: "00:02:01,00"
-          text: "Tu hai vissuto in prima persona il 1936-37 a bordo delle navi come calderaio, nella metallurgia, e non sei nemmeno nel sindacato…"
+          text: "\"Tu hai vissuto in prima persona il 1936-37 a bordo delle navi come calderaio, nella metallurgia, e non sei nemmeno nel sindacato.\""
         sequence-17:
           s: 17
           from: "00:02:01,00"
           to: "00:02:11,21"
-          text: "Non era politicamente attivo politicamente perché richiedeva un certo impegno e lui era molto impegnato con il lavoro."
+          text: "Non era politicamente attivo politicamente perché era molto impegnato con il lavoro."
         sequence-18:
           s: 18
           from: "00:02:11,21"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:12,08"
           to: "00:02:22,00"
-          text: "Eravamo obbligati a muoverci nella clandestinità. Non si trattava di vera e propria clandestinità, ma la polizia ci conosceva…"
+          text: "Eravamo obbligati a muoverci nella clandestinità. Non si trattava di vera e propria clandestinità, ma la polizia ci conosceva."
         sequence-20:
           s: 20
           from: "00:02:22,00"
@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:02:28,21"
           to: "00:02:40,15"
-          text: "Per esempio uscire a notte fonda, facendo attenzione quando c'erano le retate… Era estremamente difficile, ma non abbiamo ceduto."
+          text: "Per esempio uscire a notte fonda, facendo attenzione quando c'erano le retate. Era estremamente difficile, ma non abbiamo ceduto."
         sequence-23:
           s: 23
           from: "00:02:40,15"
           to: "00:02:51,28"
-          text: "Evitavamo di distribuire i volantini in pieno giorno, ma neanche troppo di notte ma piuttosto di sera perché… Bisognava stare attentissimi."
+          text: "Evitavamo di distribuire i volantini in pieno giorno e di notte, lo facevamo la sera. Bisognava stare attentissimi."
         sequence-24:
           s: 24
           from: "00:02:51,28"
