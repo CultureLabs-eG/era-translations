@@ -2,13 +2,13 @@ de:
   erwin-schulz:
     chapter-5:
       c: 5
-      title: "Worldwide economic crisis, SA-attack on childrens camp"
+      title: "Weltwirtschaftskrise, SA-Angriff auf Kinderlager"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:10,29"
-          text: "At that time the communists propagated the slogan:"
+          text: "Damals haben die Kommunisten die Losung rausgegeben:"
         sequence-2:
           s: 2
           from: "00:00:10,29"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:11,23"
           to: "00:00:20,23"
-          text: "“Who votes for Hindenburg, votes for Hitler and who votes for Hitler, votes for war.”"
+          text: "“Wer Hindenburg wählt, wählt Hitler und wer Hitler wählt, wählt den Krieg.”"
         sequence-4:
           s: 4
           from: "00:00:20,23"
@@ -28,12 +28,12 @@ de:
           s: 5
           from: "00:00:21,16"
           to: "00:00:30,17"
-          text: "The Great Depression affected Germany."
+          text: "Vielleicht noch eine Sache. Die Weltwirtschaftskrise wirkte sich ja aus in Deutschland"
         sequence-6:
           s: 6
           from: "00:00:30,17"
           to: "00:00:34,12"
-          text: "There were more than 6 millions of unemployed people."
+          text: "wir hatten ja mehr als 6 Millionen Arbeitslose."
         sequence-7:
           s: 7
           from: "00:00:34,12"
@@ -43,7 +43,7 @@ de:
           s: 8
           from: "00:00:35,05"
           to: "00:00:52,01"
-          text: "Companies put signs up: “We do not recruit.”"
+          text: "Bei den Betrieben waren ja Schilder dran: \"Wir stellen keinen ein!\" Heute macht man solche Schilder nicht ran. Also so ändert sich auch einiges."
         sequence-9:
           s: 9
           from: "00:00:52,01"
@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:00:54,05"
           to: "00:01:01,12"
-          text: "And the troubles well, youngsters mainly, who did not have a job."
+          text: "Und die Unruhe, Jugendliche vor allen Dingen, die keine Arbeit hatten"
         sequence-11:
           s: 11
           from: "00:01:01,12"
@@ -63,7 +63,7 @@ de:
           s: 12
           from: "00:01:02,11"
           to: "00:01:08,10"
-          text: "That led to radicalizations."
+          text: "und das führte dann nachher auch zu Radikalisierungen."
         sequence-13:
           s: 13
           from: "00:01:08,10"
@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:01:14,16"
           to: "00:01:18,18"
-          text: "Political opponents were murdered."
+          text: "Politische Gegner wurden ermordet."
         sequence-16:
           s: 16
           from: "00:01:18,18"
