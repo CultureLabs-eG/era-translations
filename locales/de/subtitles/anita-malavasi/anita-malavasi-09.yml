@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:01:40,20"
           to: "00:01:45,05"
-          text: "That was really it, I couldn’t take it anymore."
+          text: "Das war es , ich konnte es nicht mehr aushalten."
         sequence-17:
           s: 17
           from: "00:01:45,05"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:02:09,17"
           to: "00:02:14,15"
-          text: "Es war oft ein Diskussionsthema, sogar mit meinem Vater."
+          text: "Es war oft ein Diskussionsthema, sogar mit meinem Vater,"
         sequence-22:
           s: 22
           from: "00:02:14,15"
@@ -118,17 +118,17 @@ de:
           s: 23
           from: "00:02:24,28"
           to: "00:02:30,17"
-          text: "I told him: “Giving birth to a child for a man is just a matter of seconds."
+          text: "Ich sagte ihm: \"Ein Kind zu zeugen ist für einen Mann nur eine Sache von Sekunden."
         sequence-24:
           s: 24
           from: "00:02:30,17"
           to: "00:02:35,27"
-          text: "I share my life with him for nine months. He lives in me,"
+          text: "Ich teile mein Leben mit ihm für 9 Monate. Es lebt in mir,"
         sequence-25:
           s: 25
           from: "00:02:35,27"
           to: "00:02:44,01"
-          text: "I’m the one who feeds him, who looks after him and gives him a chance to live."
+          text: "Ich bin diejenige, die ihm Nahrung gibt, es versorgt und eine Chance zum Leben gibt."
         sequence-26:
           s: 26
           from: "00:02:44,01"
@@ -138,7 +138,7 @@ de:
           s: 27
           from: "00:02:51,08"
           to: "00:02:59,01"
-          text: "His reply was simply that it’s up to the man to take decisions at home. So I told him he could go home and be the man of the house there,"
+          text: "Seine Antwort war einfach, dass der Mann zuhause die Entscheidungen trifft. Also sagte ich ihm, er kann nach Hause gehen, um der Mann des Hauses zu sein,"
         sequence-28:
           s: 28
           from: "00:02:59,01"
