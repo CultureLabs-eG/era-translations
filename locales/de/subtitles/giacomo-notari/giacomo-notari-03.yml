@@ -2,13 +2,13 @@ de:
   giacomo-notari:
     chapter-3:
       c: 3
-      title: "Massacre at Bettola, June 1944"
+      title: "Massaker an der Bettola, Juni 1944"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,23"
           to: "00:00:04,28"
-          text: "Then there was this episode in La Bettola."
+          text: "Es ereignete sich diese Geschichte an der Bettola,"
         sequence-2:
           s: 2
           from: "00:00:04,28"
@@ -18,12 +18,12 @@ de:
           s: 3
           from: "00:00:09,13"
           to: "00:00:13,11"
-          text: "It was a shocking event for our province."
+          text: "was ein traumatisches Ereignis für unsere Gegend war."
         sequence-4:
           s: 4
           from: "00:00:13,11"
           to: "00:00:19,05"
-          text: "They had killed many people before, even elderly people, but always adults."
+          text: "Sie hatten vorher größtenteils erwachsene Menschen getötet, auch Alte, aber jedenfalls Erwachsene."
         sequence-5:
           s: 5
           from: "00:00:19,05"
