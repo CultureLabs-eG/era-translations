@@ -2,18 +2,18 @@ de:
   lidia-valeriani:
     chapter-8:
       c: 8
-      title: "Activities as a partisan; battle-name"
+      title: "Aktivitäten als Partisanin; Kampfname"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,05"
           to: "00:00:03,28"
-          text: "They called me Aurora and told me:"
+          text: "Sie nannten mich 'Aurora' and sagten zu mir:"
         sequence-2:
           s: 2
           from: "00:00:03,28"
           to: "00:00:09,11"
-          text: "“Aurora, here we need someone who stays on duty the whole time”."
+          text: "“Aurora, wir brauchen hier jemanden, der die ganze Zeit im Dienst bleibt”."
         sequence-3:
           s: 3
           from: "00:00:09,11"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:10,20"
           to: "00:00:18,07"
-          text: "I was available night and day, unlike those who stayed at home"
+          text: "Ich war Tag und Nacht verfügbar, im Gegensatz zu denen, die zu Hause blieben"
         sequence-5:
           s: 5
           from: "00:00:18,07"
@@ -33,12 +33,12 @@ de:
           s: 6
           from: "00:00:19,21"
           to: "00:00:25,18"
-          text: "and did their household chores."
+          text: "und ihre Hausarbeiten erledigten."
         sequence-7:
           s: 7
           from: "00:00:25,18"
           to: "00:00:28,18"
-          text: "We needed someone who was always available."
+          text: "Wir brauchten jemanden der immer verfügbar war."
         sequence-8:
           s: 8
           from: "00:00:28,18"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:29,11"
           to: "00:00:47,22"
-          text: "I said alright, I’ll learn. I took typewriting classes, we got a typewriter and began my full daily life."
+          text: "Und dann entschied ich mich und sagte, es ist in Ordnung, ich werden es lernen. Ich machte einen Schreibmaschinenkurs, wir bekamen eine Schreibmaschine und dann begann mein viel beschäftigtes Leben."
         sequence-10:
           s: 10
           from: "00:00:47,22"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:00:49,05"
           to: "00:00:55,26"
-          text: "I was a dispatch rider, I was a secretary, I did everything that needed to be done."
+          text: "Ich war eine Staffetta, ich war eine Sekretärin, ich tat alles, was getan werden musste."
         sequence-12:
           s: 12
           from: "00:00:55,26"

@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:23,23"
           to: "00:00:38,01"
-          text: "Il 21 ottobre 1941 hanno bussato alla mia porta, alle 4 del mattino. Sono stato arrestato in queste condizioni dalla polizia francese e tedesca."
+          text: "Il 21 ottobre 1941 hanno bussato da me, alle 4 del mattino. Sono stato arrestato così dalla polizia francese e tedesca."
         sequence-6:
           s: 6
           from: "00:00:38,01"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:23,07"
           to: "00:01:33,05"
-          text: "è successo diverse volte che la sera venissero a cercare dei compagni da fucilare perché c'era stato un attentato…"
+          text: "è successo diverse volte che la sera venissero a cercare dei compagni da fucilare perché c'era stato un attentato."
         sequence-11:
           s: 11
           from: "00:01:33,05"
@@ -68,22 +68,22 @@ it:
           s: 13
           from: "00:01:42,17"
           to: "00:01:48,13"
-          text: "A Compiègne ci siamo rimasti circa 8 mesi, siamo arrivati il 21 ottobre del '41."
+          text: "Siamo rimasti a Compiègne circa 8 mesi, siamo arrivati il 21 ottobre del '41."
         sequence-14:
           s: 14
           from: "00:01:48,13"
           to: "00:01:55,01"
-          text: "Eravamo diretti a Auschwitz-Birkenau, ma a Compiègne eravamo già ostaggi,"
+          text: "Eravamo diretti a Auschwitz-Birkenau, ma a Compiègne eravamo già ostaggi."
         sequence-15:
           s: 15
           from: "00:01:55,01"
           to: "00:02:04,05"
-          text: "perciò, quando avvenivano degli attentati, venivano a cercare dei compagni, potevamo essere noi o degli altri, io sono sfuggito,"
+          text: "Quando avvenivano degli attentati, venivano a cercare dei compagni. Potevamo essere noi o degli altri, io sono sfuggito."
         sequence-16:
           s: 16
           from: "00:02:04,05"
           to: "00:02:14,13"
-          text: "venivano a cercare dei compagni per eseguirli, perché c'erano stati degli attentati la notte o la sera prima o due giorni prima,"
+          text: "Venivano a cercare dei compagni per eseguirli, perché c'erano stati degli attentati la notte o la sera prima o due giorni prima,"
         sequence-17:
           s: 17
           from: "00:02:14,13"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:02:33,16"
           to: "00:02:43,00"
-          text: "baracca dopo baracca, come al solito. Man mano ci caricavano sui treni, per partire verso una destinazione sconosciuta."
+          text: "baracca dopo baracca, come al solito. Ci caricavano man mano sui treni, per partire verso una destinazione sconosciuta."
         sequence-21:
           s: 21
           from: "00:02:43,00"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:03:23,06"
           to: "00:03:33,15"
-          text: "Siamo arrivati a Auschwitz, dove c'erano vecchie caserme, grandi edifici…"
+          text: "Siamo arrivati a Auschwitz, dove c'erano vecchie caserme e grandi edifici."
         sequence-27:
           s: 27
           from: "00:03:33,15"
@@ -145,7 +145,7 @@ it:
           to: "00:03:56,20"
           text: |-
               E poi l'indomani ci hanno portati a Birkenau, distante 4 o 5
-              km. Là a Birkenau è tutto diverso.
+              km. Là a Birkenau era tutto diverso.
         sequence-29:
           s: 29
           from: "00:03:56,20"

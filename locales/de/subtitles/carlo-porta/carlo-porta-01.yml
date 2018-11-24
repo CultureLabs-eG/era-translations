@@ -13,12 +13,12 @@ de:
           s: 2
           from: "00:00:05,05"
           to: "00:00:18,12"
-          text: "Alle in meiner Familie, drei Schwestern, meine Mutter, mein Vater waren Sozialisten."
+          text: "Meine drei Schwestern, meine Mutter und mein Vater waren Sozialisten."
         sequence-3:
           s: 3
           from: "00:00:18,12"
           to: "00:00:30,15"
-          text: "Sie waren auch alle in der Sozialistischen Partei aktiv."
+          text: "Sie waren in der Sozialistischen Partei aktiv."
         sequence-4:
           s: 4
           from: "00:00:30,15"
@@ -29,167 +29,135 @@ de:
           from: "00:00:37,08"
           to: "00:00:44,22"
           text: |-
-              Sehr genau erinnere ich mich zum Beispiel an den Tag, 
-              ich muss fünf gewesen sein,
+              Ich erinnere mich sehr genau an einen Tag im Jahr 1923 – 
+              ich muss fünf gewesen sein –
         sequence-6:
           s: 6
           from: "00:00:44,22"
           to: "00:00:51,26"
-          text: "an dem sie die Konsumgesellschaft niederbrannten."
+          text: "als die Konsumgenossenschaft von Gavasseto niedergebrannt wurde."
         sequence-7:
           s: 7
           from: "00:00:51,26"
           to: "00:01:00,21"
-          text: |-
-              My mother and father had always been working 
-              to set up the cooperative.
+          text: "Meine Mutter und mein Vater arbeiteten schon immer am Aufbau der Konsumgenossenschaft."
         sequence-8:
           s: 8
           from: "00:01:00,21"
           to: "00:01:05,13"
-          text: |-
-              Then, that night, I remember that people came over 
-              to wake them up,
+          text: "Ich erinnere mich, dass in der Nacht Leute kamen, um sie aufzuwecken."
         sequence-9:
           s: 9
           from: "00:01:05,13"
           to: "00:01:12,26"
-          text: |-
-              shouting that “the coop was on fire”:
-              that’s a moment I will never forget.
+          text: "Sie schrien „Die Genossenschaft steht in Flammen“. Das werde ich nie vergessen."
         sequence-10:
           s: 10
           from: "00:01:12,26"
           to: "00:01:23,25"
-          text: "From that day, I’ve never been a member of the Fascist Party."
+          text: "Ich bin daher nie Mitglied der faschistischen Partei geworden."
         sequence-11:
           s: 11
           from: "00:01:23,25"
           to: "00:01:30,29"
-          text: |-
-              There were also other reasons which kept me 
-              from taking up membership,-.
+          text: "Es gab auch andere Gründe, die mich davon abhielten Mitglied zu werden,"
         sequence-12:
           s: 12
           from: "00:01:30,29"
           to: "00:01:38,29"
-          text: |-
-              such as the fact that the Fascist youth had to take part 
-              in military activities and all kinds of classes every Saturday,
+          text: "z.B. mussten die faschistischen Jugendlichen jeden Samstag an militärischen Übungen und an allerlei Unterricht teilnehmen,"
         sequence-13:
           s: 13
           from: "00:01:38,29"
           to: "00:01:44,27"
-          text: "an environment which I did not want to be involved in."
+          text: "ein Umfeld, mit dem ich nichts zu tun haben wollte."
         sequence-14:
           s: 14
           from: "00:01:44,27"
           to: "00:02:04,13"
-          text: |-
-              I went to live in Villa Rivalta and I wasn’t even seventeen 
-              when I started working at Officine Reggiane.
+          text: "Ich zog nach Villa Rivalta und mit nicht einmal 17 Jahren begann ich bei Officine Reggiane zu arbeiten."
         sequence-15:
           s: 15
           from: "00:02:04,13"
           to: "00:02:10,12"
-          text: "Even there, every day was a struggle."
+          text: "Sogar dort war jeder Tag ein Kampf, es war kein schönes Leben."
         sequence-16:
           s: 16
           from: "00:02:10,12"
           to: "00:02:17,27"
-          text: |-
-              It was unpleasant to have to show a 
-              Fascist membership card for everything,
+          text: "Für alles musste man das Parteibuch der Faschisten vorzeigen."
         sequence-17:
           s: 17
           from: "00:02:17,27"
           to: "00:02:25,15"
-          text: |-
-              and that’s another aspect which had me 
-              disagreeing with the fascists.
+          text: "Für mich war das ein weiterer Grund, nicht mit den Faschisten einverstanden zu sein."
         sequence-18:
           s: 18
           from: "00:02:25,15"
           to: "00:02:31,27"
-          text: "Anything you did, or whatever you might have needed,"
+          text: "Bei allem was man tat, bei allem was man brauchte,"
         sequence-19:
           s: 19
           from: "00:02:31,27"
           to: "00:02:36,19"
-          text: |-
-              you were always expected to have your 
-              Fascist membership card with you.
+          text: "sollte man das Parteibuch vorzeigen."
         sequence-20:
           s: 20
           from: "00:02:36,19"
           to: "00:02:41,21"
-          text: "I did not believe in this and didn’t want the card,"
+          text: "Ich glaubte nicht daran und ich wollte das Parteibuch nicht."
         sequence-21:
           s: 21
           from: "00:02:41,21"
           to: "00:02:49,02"
-          text: |-
-              so I was forced to use alternative methods, 
-              those I had learned from my family,
+          text: "Ich musste mich so gut wie möglich behelfen, mit Methoden, die ich von meiner Familie gelernt hatte,"
         sequence-22:
           s: 22
           from: "00:02:49,02"
           to: "00:02:54,12"
-          text: "my parents and my two older sisters."
+          text: "von meinen Eltern und meinen beiden älteren Schwestern."
         sequence-23:
           s: 23
           from: "00:02:54,12"
           to: "00:03:07,19"
-          text: |-
-              During the first three months of school we did writing exercises 
-              and we learned to count up to fifty.
+          text: "In der Schule machten wir in den ersten drei Monaten Schreibübungen und lernten bis 50 zu zählen."
         sequence-24:
           s: 24
           from: "00:03:07,19"
           to: "00:03:13,27"
-          text: "Our teachers were not like the ones you might find today."
+          text: "Die Lehrerinnen waren nicht so wie heute."
         sequence-25:
           s: 25
           from: "00:03:13,27"
           to: "00:03:22,22"
-          text: |-
-              I remember that my teacher was from Casalgrande 
-              and walked all the way to school and back, poor woman.
+          text: "Ich erinnere mich, dass meine Lehrerin aus Casalgrande kam. Die arme Frau ging den ganzen Weg zur Schule und zurück zu Fuß."
         sequence-26:
           s: 26
           from: "00:03:22,22"
           to: "00:03:27,03"
-          text: "Going to school was not considered too important."
+          text: ~
         sequence-27:
           s: 27
           from: "00:03:27,03"
           to: "00:03:36,04"
-          text: |-
-              Just take my case: as soon as I finished primary third grade, 
-              after I had failed second grade,
+          text: "Wenn man meinen Fall nimmt: als ich mit der dritten Klasse fertig war, nachdem ich die zweite nicht bestanden hatte,"
         sequence-28:
           s: 28
           from: "00:03:36,04"
           to: "00:03:39,25"
-          text: "I stopped attending school."
+          text: "ging ich nicht mehr zur Schule."
         sequence-29:
           s: 29
           from: "00:03:39,25"
           to: "00:03:52,16"
-          text: |-
-              It’s not like someone stopped me from going, 
-              it’s just that it was enough to learn the basics of reading and writing.
+          text: "Es war nicht aus Bosheit, es war nur so, dass es genügte, wenn man Lesen und Schreiben gelernt hatte."
         sequence-30:
           s: 30
           from: "00:03:52,16"
           to: "00:04:03,02"
-          text: |-
-              Later, in the army, I used to write letters for a fellow soldier from Guastalla 
-              and two more who were from the mountains.
+          text: "Später, in der Armee, schrieb ich Briefe für einen Kameraden aus Guastalla und zwei weitere aus den Bergen."
         sequence-31:
           s: 31
           from: "00:04:03,02"
           to: "00:04:13,22"
-          text: |-
-              They were my age but didn’t know how to write:
-              I was not better than them, but I had gone to school until third grade.
+          text: "Sie waren in meinem Alter, aber sie konnten nicht schreiben. Ich war nicht besser als sie, außer dass ich bis zur dritten Klasse zur Schule ging."

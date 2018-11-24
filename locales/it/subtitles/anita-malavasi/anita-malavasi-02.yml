@@ -8,132 +8,132 @@ it:
           s: 1
           from: "00:00:00,12"
           to: "00:00:05,07"
-          text: "The fascist regime didn’t spare us children."
+          text: "Questo dominio fascista non risparmiava nemmeno noi bambini."
         sequence-2:
           s: 2
           from: "00:00:05,07"
           to: "00:00:08,26"
-          text: "Our school organized a contest for the best drawing."
+          text: "Ecco la scuola fa un concorso: il più bel disegno."
         sequence-3:
           s: 3
           from: "00:00:08,26"
           to: "00:00:12,01"
-          text: "I was really very good in drawing."
+          text: "Io sono brava, in disegno ero veramente brava."
         sequence-4:
           s: 4
           from: "00:00:12,01"
           to: "00:00:17,27"
-          text: "I had drawn some very nice fasces with a laurel wreath."
+          text: "E poi guarda ironia della sorte, avevo fatto un bel fascio con una bella corona di alloro attorno."
         sequence-5:
           s: 5
           from: "00:00:17,27"
           to: "00:00:27,10"
-          text: "It’s not easy to colour that with crayons if you’re not good at it."
+          text: "Dipingerlo, cioè colorarlo con i pastelli se non hai la mano abbastanza... cioè se non stai attenta non viene un bel lavoro;"
         sequence-6:
           s: 6
           from: "00:00:27,10"
           to: "00:00:30,08"
-          text: "It turned out really nice."
+          text: "invece la cosa era diventata veramente bella"
         sequence-7:
           s: 7
           from: "00:00:30,08"
           to: "00:00:36,20"
-          text: "My drawing was chosen as the most beautiful one in the school."
+          text: "per cui fu valutato il più bel disegno delle scuole elementari di Castelnovo di Sotto;"
         sequence-8:
           s: 8
           from: "00:00:36,20"
           to: "00:00:42,17"
-          text: "We were called at the Ausoni theatre for the award ceremony."
+          text: "ci chiamano al teatro Ausoni, allora c’era per il premio..."
         sequence-9:
           s: 9
           from: "00:00:42,17"
           to: "00:00:45,17"
-          text: "The podestà was to hand out the prizes."
+          text: "il podestà avrebbe dovuto venire a premiarci;"
         sequence-10:
           s: 10
           from: "00:00:45,17"
           to: "00:00:52,19"
-          text: "The whole fascist hierarchy was attending, as always in case of ceremonies."
+          text: "c’era presente, perché in tutte le iniziative era sempre presente tutta la gerarchia dei fascisti, premiano i bambini..."
         sequence-11:
           s: 11
           from: "00:00:52,19"
           to: "00:00:58,04"
-          text: "I was the last one who would have been awarded."
+          text: "io sono l’ultima perché ho il primo premio di tutte le scuole."
         sequence-12:
           s: 12
           from: "00:00:58,04"
           to: "00:01:02,17"
-          text: "They finally called me. I went up the steps to the stand."
+          text: "Mi chiamano, io vado su per la scala, arrivo sul palco..."
         sequence-13:
           s: 13
           from: "00:01:02,17"
           to: "00:01:12,19"
-          text: "Mr. Ganassi was there. Every evening I used to bring him some milk of a cow I had raised."
+          text: "il dottore Ganassi, questo lo devo dire perché era un amico di famiglia, e io tutte le sere gli portavo il latte di una mucca che praticamente avevo allevato, anche tutti noi,"
         sequence-14:
           s: 14
           from: "00:01:12,19"
           to: "00:01:19,04"
-          text: "Since he had a little child and he had been losing all his children when very young."
+          text: "perché lui aveva un bambino ma non riusciva, gli morivano tutti piccolissimi i bambini, e noi gli portavamo questo latte..."
         sequence-15:
           s: 15
           from: "00:01:19,04"
           to: "00:01:24,29"
-          text: "Mr. Ganassi told me: “So you don’t belong to the Piccole Italiane?” I answered: “No, my father didn’t sign me up”."
+          text: "e lui dice: “Ah, ma te non hai la tessera delle piccole italiane”. Dico: “No, papà non me l’ha presa”."
         sequence-16:
           s: 16
           from: "00:01:24,29"
           to: "00:01:28,28"
-          text: "“So we can’t give you the award”, said Mr. Ganassi, and sent me back."
+          text: "“Ah beh allora il premio non te lo diamo”. E mi manda indietro."
         sequence-17:
           s: 17
           from: "00:01:28,28"
           to: "00:01:34,05"
-          text: "How can a little girl who’s ten or eleven years old understand"
+          text: "Una bambina di 10-11 anni, come fa a spiegarsi che vale..."
         sequence-18:
           s: 18
           from: "00:01:34,05"
           to: "00:01:42,01"
-          text: "that having a membership card is worth more than her skills?"
+          text: "come fa a capire che vale più una tessera che la sua capacità di operare, di studiare, di essere brava, ecc."
         sequence-19:
           s: 19
           from: "00:01:42,01"
           to: "00:01:47,17"
-          text: "I went home crying. My mother was feeding the pigs."
+          text: "Io sono andata a casa piangendo, mia madre stava dando da mangiare ai maiali, poveretta, si è trovata..."
         sequence-20:
           s: 20
           from: "00:01:47,17"
           to: "00:01:54,08"
-          text: "I was telling her that it was her fault that I didn’t receive my prize."
+          text: "ho detto: “La colpa è tua, non ho avuto un premio perché non mi avete preso la tessera”, no?"
         sequence-21:
           s: 21
           from: "00:01:54,08"
           to: "00:02:02,09"
-          text: "She slapped me and told me that at least I had something to cry about. She didn’t know how to explain me."
+          text: "E lei m’ha dato un bel manrovescio e mi ha detto: “Adesso almeno piangi per qualche cosa”. Forse in quel momento si è trovata in difficoltà a darmi una risposta,"
         sequence-22:
           s: 22
           from: "00:02:02,09"
           to: "00:02:06,27"
-          text: "Parents had to be really careful to talk with us kids."
+          text: "anche perché i genitori stavano molto attenti a parlare con noi bambini,"
         sequence-23:
           s: 23
           from: "00:02:06,27"
           to: "00:02:12,11"
-          text: "Children often repeat things they hear at home:"
+          text: "perché il bambino facilmente gli scappa detto, anche con altri, e non si poteva, cioè..."
         sequence-24:
           s: 24
           from: "00:02:12,11"
           to: "00:02:23,07"
-          text: "If they said something bad about the fascists, parents could be punished."
+          text: "se tu dicevi male dei fascisti c’era il rischio e pericolo che se lo esprimevi fuori dalla casa, i genitori venissero puniti."
         sequence-25:
           s: 25
           from: "00:02:23,07"
           to: "00:02:34,20"
-          text: "Even when they were talking in the cattle shed, they kept telling us not to talk about what we heard."
+          text: "E per cui anche nelle stalle quando parlavano, dicevano: “Ragasol, vueter guai s’adgiv quèl”, cioè “bambini state attenti, non dovete dir niente di quello che sentite in casa”."
         sequence-26:
           s: 26
           from: "00:02:34,20"
           to: "00:02:42,26"
-          text: "So since we were kids we knew we had to keep quiet in order not to get ourselves and our family in trouble."
+          text: "Per cui fin da piccoli sapevamo che dovevamo tacere, che era pericoloso per noi e per la famiglia fare qualche cosa."
         sequence-27:
           s: 27
           from: "00:02:42,26"
@@ -143,62 +143,62 @@ it:
           s: 28
           from: "00:02:43,21"
           to: "00:02:49,13"
-          text: "Then our family moved to Reggio, because the kids were going to school."
+          text: "Poi io vengo a Reggio, la famiglia si sposta a Reggio perché i ragazzi studiano,"
         sequence-29:
           s: 29
           from: "00:02:49,13"
           to: "00:02:55,10"
-          text: "My brother had been going to high school at a boarding school in Parma."
+          text: "cioè mio fratello aveva fatto il ginnasio a Parma, in collegio a Parma, e cominciano..."
         sequence-30:
           s: 30
           from: "00:02:55,10"
           to: "00:02:59,27"
-          text: "There was a need to move closer to the city."
+          text: "c’è l’esigenza di avvicinarsi alla città,"
         sequence-31:
           s: 31
           from: "00:02:59,27"
           to: "00:03:03,01"
-          text: "They bought a house in Dalmazia street."
+          text: "hanno comperato una casa lì in via Dalmazia,"
         sequence-32:
           s: 32
           from: "00:03:03,01"
           to: "00:03:07,03"
-          text: "Life changed dramatically for me."
+          text: "e anche per me la vita cambia completamente;"
         sequence-33:
           s: 33
           from: "00:03:07,03"
           to: "00:03:19,09"
-          text: "We left farm life, based on conservatism, traditionalism, on having to be careful to what you say or do."
+          text: "perché dalla tradizione, dalla cultura contadina che è fatta di conservatorismo, di tradizionalismo per cui “stai attenta a quel che dici”, “chissà che cosa dicono”..."
         sequence-34:
           s: 34
           from: "00:03:19,09"
           to: "00:03:25,23"
-          text: "Also, women would be considered being a nobody."
+          text: "poi le donne costantemente considerate una nullità,"
         sequence-35:
           s: 35
           from: "00:03:25,23"
           to: "00:03:30,14"
-          text: "I used to be told to shut up because I was a woman even at home."
+          text: "infatti “taci che sei una donna” me lo sentivo dire anche in casa mia."
         sequence-36:
           s: 36
           from: "00:03:30,14"
           to: "00:03:34,02"
-          text: "My mother thought this was right."
+          text: "Mia madre poi, poveretta, ne aveva un culto di queste cose."
         sequence-37:
           s: 37
           from: "00:03:34,02"
           to: "00:03:38,07"
-          text: "In the city I started meeting women who went to work."
+          text: "Qui incontro invece le donne che vanno a lavorare,"
         sequence-38:
           s: 38
           from: "00:03:38,07"
           to: "00:03:45,11"
-          text: "The working class elite used to live in Dalmazia street."
+          text: "e soprattutto via Dalmazia è una via dove abita l’élite operaia della città."
         sequence-39:
           s: 39
           from: "00:03:45,11"
           to: "00:03:50,03"
-          text: "Reggiane factory technicians of the water and gas companies."
+          text: "Vi erano i tecnici delle Reggiane, i tecnici del gas, i tecnici dell’acqua, cioè..."
         sequence-40:
           s: 40
           from: "00:03:50,03"

@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:26,03"
           to: "00:01:31,25"
-          text: "Là cii fu un tradimento e la uccisero. Le spararono."
+          text: "Là ci fu un tradimento e la uccisero. Le spararono."
         sequence-19:
           s: 19
           from: "00:01:31,25"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:33,05"
           to: "00:01:39,24"
-          text: "Gli altri riuscirono ad andarsene, e lei... lei no."
+          text: "Gli altri riuscirono ad andarsene, ma lei... lei no."
         sequence-21:
           s: 21
           from: "00:01:39,24"

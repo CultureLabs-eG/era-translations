@@ -2,56 +2,48 @@ de:
   carlo-porta:
     chapter-3:
       c: 3
-      title: "Arrest while in the army"
+      title: "Verhaftung in der Armee"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,13"
           to: "00:00:04,24"
-          text: "There was one rule back then."
+          text: "Es gab damals eine Regel."
         sequence-2:
           s: 2
           from: "00:00:04,24"
           to: "00:00:09,10"
-          text: "At Reggiane we manufactured airplanes"
+          text: "Bei Reggiane bauten wir Flugzeuge –"
         sequence-3:
           s: 3
           from: "00:00:09,10"
           to: "00:00:21,27"
-          text: |-
-              – you can still see one of the airplanes we made, 
-              it’s at the Reggio Emilia airport –
+          text: "am Flughafen von Reggio Emilia kann man noch eines der Flugzeuge sehen, die wir gebaut haben."
         sequence-4:
           s: 4
           from: "00:00:21,27"
           to: "00:00:30,27"
-          text: |-
-              so the young workers of Reggiane who were called into the Army 
-              were entitled to serve in the Air Force,
+          text: "Die jungen Arbeiter von Reggiane, die zur Armee eingezogen wurden, waren berechtigt, bei der Luftwaffe zu dienen,"
         sequence-5:
           s: 5
           from: "00:00:30,27"
           to: "00:00:39,27"
-          text: |-
-              while those who worked at Lombardini Motori, manufacturing ship engines, 
-              usually served in the Navy.
+          text: "während die Arbeiter von Lombardini Motori, die Schiffsmotoren bauten, in der Regel bei der Marine dienten."
         sequence-6:
           s: 6
           from: "00:00:39,27"
           to: "00:00:50,22"
-          text: |-
-              I was called up for military service, went to Bologna and then to Orvieto, 
-              where I completed the recruit training.
+          text: "Ich wurde zum Militärdienst eingezogen, ging nach Bologna und dann nach Orvieto, wo ich die Grundausbildung absolvierte."
         sequence-7:
           s: 7
           from: "00:00:50,22"
           to: "00:00:56,05"
-          text: "After that, we were transferred to different places."
+          text: "Nach der Grundausbildung wurden wir an verschiedene Orte versetzt."
         sequence-8:
           s: 8
           from: "00:00:56,05"
           to: "00:01:04,24"
-          text: "I was sent to an airport near Rome, in a small village called Furbara."
+          text: "Ich wurde zu einem Flughafen in der Nähe von Rom geschickt, in ein kleines Dorf names Furbara."
         sequence-9:
           s: 9
           from: "00:01:04,24"
@@ -61,110 +53,94 @@ de:
           s: 10
           from: "00:01:08,18"
           to: "00:01:16,18"
-          text: "Our units were sent to mount guard in Rome,"
+          text: "Von dort wurde unsere Einheit als Wache nach Rom geschickt."
         sequence-11:
           s: 11
           from: "00:01:16,18"
           to: "00:01:22,21"
-          text: "so we went to Palazzo Venezia."
+          text: "Wir gingen im Palazzo Venezia Wache."
         sequence-12:
           s: 12
           from: "00:01:22,21"
           to: "00:01:31,11"
-          text: "Throughout the week, every night a different unit was in charge of this:"
+          text: "Während der Woche war jede Nacht eine andere Abteilung verantwortlich:"
         sequence-13:
           s: 13
           from: "00:01:31,11"
           to: "00:01:38,01"
-          text: "one night it was the Air Force, one night the artillerymen, and so on."
+          text: "eine Nacht war es die Luftwaffe, eine Nacht die Artillerie und so weiter."
         sequence-14:
           s: 14
           from: "00:01:38,01"
           to: "00:01:47,11"
-          text: |-
-              So we went to mount guard, and I remember that a new lieutenant came 
-              to pick us up with a van at eight in the morning,
+          text: "Wir gingen also zur Wache und ich erinnere mich, dass ein neuer Leutnant uns um acht Uhr morgens mit einem Transporter abholte."
         sequence-15:
           s: 15
           from: "00:01:47,11"
           to: "00:01:53,23"
-          text: |-
-              and told us we would be visiting Rome for a while since 
-              he had never been there before.
+          text: "und er sagte uns, dass wir für eine Weile Rom besichtigen würden, da er nie dort war."
         sequence-16:
           s: 16
           from: "00:01:53,23"
           to: "00:02:02,05"
-          text: |-
-              I went back inside the airport. The mail had arrived 
-              and there were also some letters for me.
+          text: "[…] Ich ging zurück zum Flughafen. Die Post war angekommen und es gab auch ein paar Briefe für mich."
         sequence-17:
           s: 17
           from: "00:02:02,05"
           to: "00:02:08,17"
-          text: |-
-              I went to my sleeping quarter and was opening a letter 
-              when my lieutenant,
+          text: "Ich ging zum Schlafsaal und als ich einen der Briefe öffnete, kam mein Leutnant,"
         sequence-18:
           s: 18
           from: "00:02:08,17"
           to: "00:02:16,27"
           text: |-
-              a man from Ancona whose name was Santaroni, came over. 
-              He was a good man – he gave me a hug later –
+              ein Mann aus Ancona mit Namen Santaroni.
+              Er war ein guter Mann – er umarmte mich später –
         sequence-19:
           s: 19
           from: "00:02:16,27"
           to: "00:02:23,14"
-          text: "who had come to tell me that “somebody needed to speak to me”."
+          text: "und er sagte, „diese Herren brauchen dich“."
         sequence-20:
           s: 20
           from: "00:02:23,14"
           to: "00:02:26,28"
-          text: "It was three policemen."
+          text: "Es waren drei Polizisten."
         sequence-21:
           s: 21
           from: "00:02:26,28"
           to: "00:02:33,18"
-          text: "The first thing the sergeant did was take the letter I held in my hands."
+          text: "Der Marschall nahm mir zuerst den Brief aus der Hand."
         sequence-22:
           s: 22
           from: "00:02:33,18"
           to: "00:02:38,23"
-          text: "In the letter, my mother had written the following words:"
+          text: "In dem Brief schrieb meine Mutter die folgenden Worte:"
         sequence-23:
           s: 23
           from: "00:02:38,23"
           to: "00:02:50,09"
-          text: |-
-              “You’re lucky to be in the Army, since in the past few days Pattaccini, 
-              Boiardi and others were arrested”.
+          text: "„Du hast Glück, dass du in der Armee bist, denn in den letzten Tagen wurden Pattaccini, Boiardi und andere verhaftet“."
         sequence-24:
           s: 24
           from: "00:02:50,09"
           to: "00:02:55,01"
-          text: "They were all people I used to be implicated with in our activities,"
+          text: "Das waren fünf oder sechs Leute, mit denen ich dort immer zusammengearbeitet hatte."
         sequence-25:
           s: 25
           from: "00:02:55,01"
           to: "00:03:02,10"
-          text: |-
-              and my poor mother was telling me this openly. 
-              But that’s exactly why I was arrested.
+          text: "Die Arme erzählte mir diese Dinge ganz offen, weil ich in Rom war. Und stattdessen haben sie mich dort erwischt."
         sequence-26:
           s: 26
           from: "00:03:02,10"
           to: "00:03:09,15"
-          text: |-
-              I never managed to get that letter back. 
-              Wherever I was taken, the letter seemed to follow me.
+          text: "Diesen Brief bekam ich nie zurück. Wo immer ich hingebracht wurde, der Brief schien mir zu folgen."
         sequence-27:
           s: 27
           from: "00:03:09,15"
           to: "00:03:20,28"
-          text: |-
-              You see, we all used to deny knowing someone, but I couldn’t, 
-              since the names were written on the letter.
+          text: "Wir würden immer leugnen, jemanden gekannt zu haben. Ich konnte nicht, denn die Namen standen in diesem Brief geschrieben."
         sequence-28:
           s: 28
           from: "00:03:20,28"
@@ -174,115 +150,97 @@ de:
           s: 29
           from: "00:03:22,08"
           to: "00:03:26,16"
-          text: "Then, one morning, we left from the train station."
+          text: "Eines morgens fuhren wir vom Bahnhof ab."
         sequence-30:
           s: 30
           from: "00:03:26,16"
           to: "00:03:30,11"
-          text: "I had already been reduced to the ranks:"
+          text: "Ich wurde bereits degradiert:"
         sequence-31:
           s: 31
           from: "00:03:30,11"
           to: "00:03:38,23"
-          text: |-
-              they had taken everything from me 
-              and that day I was slightly shabby and hadn’t shaved.
+          text: "sie hatten mir alles weggenommen, an dem Tag war ich leicht heruntergekommen, unrasiert und etwas krank."
         sequence-32:
           s: 32
           from: "00:03:38,23"
           to: "00:03:46,20"
-          text: "As we set off, those who were on the railcar with us were curious."
+          text: "Die anderen Leute auf der Reise waren neugierig."
         sequence-33:
           s: 33
           from: "00:03:46,20"
           to: "00:03:54,00"
-          text: "On other occasions, such as the day I was interned,"
+          text: "In anderen Fällen, z.B. als ich verhaftet wurde, waren wir 18 Mann."
         sequence-34:
           s: 34
           from: "00:03:54,00"
           to: "00:04:03,19"
-          text: |-
-              when there were eighteen of us, we had a whole railcar for ourselves, 
-              so there was no one else.
+          text: "Wir hatten einen ganzen Wagon für uns und es gab keine anderen Leuten."
         sequence-35:
           s: 35
           from: "00:04:03,19"
           to: "00:04:10,09"
-          text: |-
-              This time, however, the railcar was full, 
-              so people began to ask me what I had done,
+          text: "Dieses Mal aber, begannen die Leute zu fragen, was ich getan hatte"
         sequence-36:
           s: 36
           from: "00:04:10,09"
           to: "00:04:16,13"
-          text: "and I did what I could to have them do so."
+          text: "und ich ließ es zu."
         sequence-37:
           s: 37
           from: "00:04:16,13"
           to: "00:04:22,02"
-          text: "I became the star of the railcar, everybody handed me something,"
+          text: "Ich wurde der Star des Wagons, alle gaben mir etwas. Zigaretten und so weiter."
         sequence-38:
           s: 38
           from: "00:04:22,02"
           to: "00:04:29,08"
-          text: "cigarettes and so on, and the Carabinieri didn’t know what to say."
+          text: "Die Carabinieri wussten nicht, was sie sagen sollten."
         sequence-39:
           s: 39
           from: "00:04:29,08"
           to: "00:04:33,13"
-          text: "Their problem was that they didn’t have a place to hide me in,"
+          text: "Ihr Problem war, dass sie mich nicht verstecken konnten."
         sequence-40:
           s: 40
           from: "00:04:33,13"
           to: "00:04:38,29"
-          text: "so they couldn’t do anything if someone offered me a cigarette."
+          text: "Also konnten sie nichts tun, wenn mir jemand eine Zigarette anbot."
         sequence-41:
           s: 41
           from: "00:04:38,29"
           to: "00:04:44,21"
-          text: |-
-              Once we arrived in Florence, however, 
-              the Carabinieri decided to get off and change train.
+          text: "In Florenz beschlossen die Carabinieri, in einen anderen Zug umzusteigen."
         sequence-42:
           s: 42
           from: "00:04:44,21"
           to: "00:04:53,26"
-          text: |-
-              Later I understood that they did this to prevent me from talking 
-              to the people that were on the first train.
+          text: "Später verstand ich, dass sie das taten um mich daran zu hindern, mit den Leuten zu sprechen."
         sequence-43:
           s: 43
           from: "00:04:53,26"
           to: "00:05:00,28"
-          text: |-
-              The other one – from Bologna to Reggio Emilia – 
-              was a lot less crowded.
+          text: "Im Zug von Bologna nach Reggio Emilia waren viel weniger Leute."
         sequence-44:
           s: 44
           from: "00:05:00,28"
           to: "00:05:07,25"
-          text: |-
-              When we arrived in Reggio Emilia I was immediately taken 
-              to the Police Station.
+          text: "Als wir in Reggio Emilia ankamen, wurde ich direkt zur Polizeiwache gebracht."
         sequence-45:
           s: 45
           from: "00:05:07,25"
           to: "00:05:14,27"
-          text: |-
-              There, I was confronted with a lot of stories, 
-              and I still had to deal with the issue of the letter.
+          text: "Ich wurde mit verschiedenen Geschichten konfrontiert und ich hatte immer noch das Problem mit diesem Brief."
         sequence-46:
           s: 46
           from: "00:05:14,27"
           to: "00:05:20,00"
-          text: "I would have never told anything to the authorities,"
+          text: "Ich hätte nie etwas preisgegeben"
         sequence-47:
           s: 47
           from: "00:05:20,00"
           to: "00:05:30,21"
-          text: |-
-              but Pagliarello had my letter in his hands while he questioned me, 
-              and I did not know what to say.
+          text: "aber Pagliarello hatte meinen Brief in der Hand, als er mich verhörte und ich wusste nicht, was ich sagen sollte."
         sequence-48:
           s: 48
           from: "00:05:30,21"
@@ -292,158 +250,134 @@ de:
           s: 49
           from: "00:05:33,11"
           to: "00:05:42,07"
-          text: "At a certain point, although I was handcuffed,"
+          text: "Auf der Polizeiwache wurden mir Handschellen angelegt."
         sequence-50:
           s: 50
           from: "00:05:42,07"
           to: "00:05:48,09"
-          text: |-
-              I managed to see out of the corner of my eye that 
-              he was about to hit me from behind,
+          text: "Ich sah aus den Augenwinkeln, dass er mich von hinten schlagen wollte."
         sequence-51:
           s: 51
           from: "00:05:48,09"
           to: "00:05:59,16"
-          text: |-
-              so I protected myself: he ended up hitting the handcuffs, 
-              got angry and smacked me a couple of times.
+          text: "Ich schützte mich selbst, sodass er auf die Handschellen schlug. Er wurde böse und schlug mich zwei oder drei Mal."
         sequence-52:
           s: 52
           from: "00:05:59,16"
           to: "00:06:03,26"
-          text: "We were all waiting in line. There were people"
+          text: "Wir alle standen Schlange."
         sequence-53:
           s: 53
           from: "00:06:03,26"
           to: "00:06:08,00"
-          text: "like the guy who told on me, a baker whose name was Montermini."
+          text: "Ein gewisser Montermini, ein Bäcker, wurde vom Sondergericht zu fünfzehn Jahren verurteilt."
         sequence-54:
           s: 54
           from: "00:06:08,00"
           to: "00:06:14,00"
-          text: |-
-              He was sentenced to fifteen years by the special court, 
-              and served quite a few of them.
+          text: "Er saß einige davon ab."
         sequence-55:
           s: 55
           from: "00:06:14,00"
           to: "00:06:23,28"
-          text: |-
-              We were the last ones, and our sentences were lighter:
-              as for myself, I was sentenced to four years of confinement.
+          text: "Wir waren die letzten und unsere Strafen waren milder. Ich selbst wurde zu vier Jahren Haft verurteilt."
         sequence-56:
           s: 56
           from: "00:06:23,28"
           to: "00:06:28,14"
-          text: "Nobody defended you, it was only up to you to stand up for yourself."
+          text: "Niemand hat dich verteidigt. Du hast dich selbst verteidigt, so gut du konntest."
         sequence-57:
           s: 57
           from: "00:06:28,14"
           to: "00:06:35,10"
-          text: |-
-              In any case, when you got into the movement you were aware 
-              that there would not be much you could do:
+          text: "Aber wenn du Teil der Bewegung wurdest, gab es nichts zu verteidigen."
         sequence-58:
           s: 58
           from: "00:06:35,10"
           to: "00:06:43,00"
-          text: "we all knew that if we got caught we would end up doing a couple of years."
+          text: "Wenn du erwischt wirst, musst du mit ein paar Jahren rechnen."
         sequence-59:
           s: 59
           from: "00:06:43,00"
           to: "00:06:46,26"
-          text: "It came to no surprise."
+          text: "Das wussten wir schon vorher."
         sequence-60:
           s: 60
           from: "00:06:46,26"
           to: "00:06:52,07"
-          text: "I spent two months in the San Tommaso prison, in Reggio Emilia,"
+          text: "Ich verbrachte zwei Monate im San Tommaso Gefängnis in Reggio Emilia,"
         sequence-61:
           s: 61
           from: "00:06:52,07"
           to: "00:06:58,18"
-          text: "before they were forced to transfer us to make room for new inmates."
+          text: "bis sie uns verlegen mussten, um Platz für neue Häftlinge zu machen."
         sequence-62:
           s: 62
           from: "00:06:58,18"
           to: "00:07:07,26"
-          text: "We were 18 or 19, all fettered to the same chain."
+          text: "Wir waren 18 or 19, alle an der gleichen Kette gefesselt."
         sequence-63:
           s: 63
           from: "00:07:07,26"
           to: "00:07:16,04"
-          text: "Our families had been told we would be at the station,"
+          text: "Unsere Familien wurden gewarnt, dass wir am Bahnhof sein würden."
         sequence-64:
           s: 64
           from: "00:07:16,04"
           to: "00:07:24,20"
-          text: "so once we got there they had come to see us, and some of them were crying:"
+          text: "Als wir dort waren, waren sie gekommen, um uns zu sehen und manche von ihnen weinten."
         sequence-65:
           s: 65
           from: "00:07:24,20"
           to: "00:07:35,09"
-          text: |-
-              we had to pretend everything was ok 
-              and force a smile in order to make it easier for them.
+          text: "Wir mussten so tun, als ob alles in Ordnung wäre und uns zum Lachen zwingen, um es einfacher für sie zu machen."
         sequence-66:
           s: 66
           from: "00:07:35,09"
           to: "00:07:42,16"
-          text: |-
-              When we arrived in Castelfranco, the warden came over 
-              and asked the sergeant, who was in charge of the guards,
+          text: "Als wir in Castelfranco ankamen, frug der Chef der Wärter den Direktor,"
         sequence-67:
           s: 67
           from: "00:07:42,16"
           to: "00:07:50,24"
-          text: "where they were supposed to put us, since the prison was also full."
+          text: "wo sie uns hinbringen sollten, denn das Gefängnis war auch voll."
         sequence-68:
           s: 68
           from: "00:07:50,24"
           to: "00:07:56,13"
-          text: |-
-              He asked where we came from, 
-              and when he was told we were from Reggio Emilia, he said:
+          text: "Er fragte wo wir herkämen und als man ihm sagt, dass wir aus Reggio Emilia sind, sagte er:"
         sequence-69:
           s: 69
           from: "00:07:56,13"
           to: "00:08:01,01"
-          text: "“If it was for me, I would just dump them in a cesspit”."
+          text: "„Wenn es nach mir ginge, würde ich sie in die Jauchegrube werfen“."
         sequence-70:
           s: 70
           from: "00:08:01,01"
           to: "00:08:07,11"
-          text: "Very funny, isn’t it?"
+          text: "Lustig, nicht wahr?"
         sequence-71:
           s: 71
           from: "00:08:07,11"
           to: "00:08:13,14"
-          text: |-
-              Although we had not done anything to be punished, 
-              they ended up putting us in confinement cells.
+          text: "Obwohl wir nichts getan hatte, landeten wir schließlich in Strafzellen."
         sequence-72:
           s: 72
           from: "00:08:13,14"
           to: "00:08:20,20"
-          text: |-
-              The prison was full, but they had these special cells 
-              where they could fit one or two of us,
+          text: "Das Gefängnis war voll, aber sie hatten diese speziellen Zellen für ein bis zwei Leute."
         sequence-73:
           s: 73
           from: "00:08:20,20"
           to: "00:08:27,18"
-          text: |-
-              There was only a small opening in the door, 
-              and a tiny window for some fresh air,
+          text: "Es gab nur eine kleine Öffnung in der Tür und ein winziges Fenster für frische Luft."
         sequence-74:
           s: 74
           from: "00:08:27,18"
           to: "00:08:35,25"
-          text: |-
-              so you never heard or saw anyone aside from the guard 
-              who came by to check on us every now and then.
+          text: "Man hörte und sah niemanden, außer den Wärter, der ab und zu vorbeikam, um nachzusehen."
         sequence-75:
           s: 75
           from: "00:08:35,25"
           to: "00:08:40,20"
-          text: "I spent more or less twenty days in Castelfranco."
+          text: "Ich verbrachte um die zwanzig Tage in Castelfranco."

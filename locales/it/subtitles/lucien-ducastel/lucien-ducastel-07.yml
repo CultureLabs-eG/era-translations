@@ -2,18 +2,18 @@ it:
   lucien-ducastel:
     chapter-7:
       c: 7
-      title: "Liberation at Auschwitz; coming home"
+      title: "La liberazione ad Auschwitz: il ritorno a casa"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,11"
           to: "00:00:03,27"
-          text: "Liberation came in 1945."
+          text: "Allora, nel 1945 c'è stata la liberazione."
         sequence-2:
           s: 2
           from: "00:00:03,27"
           to: "00:00:12,19"
-          text: "But it wasn’t quite that simple because there were all these"
+          text: "Per noi questo voleva dire liberazione, ma non solo, perché non era così semplice."
         sequence-3:
           s: 3
           from: "00:00:12,19"
@@ -23,17 +23,17 @@ it:
           s: 4
           from: "00:00:14,08"
           to: "00:00:23,06"
-          text: "Kapos that had taken on this bad habit of beating and massacring and liquidating people."
+          text: "I kapo, i capi delle baracche, avevano preso la cattiva abitudine di massacrare, picchiare, liquidare dei poveri ragazzi…"
         sequence-5:
           s: 5
           from: "00:00:23,06"
           to: "00:00:29,00"
-          text: "They played this role until the end. So again we lost many people."
+          text: "Hanno recitato quella parte fino alla fine. Ed è per questo che anche allora abbiamo perso della gente."
         sequence-6:
           s: 6
           from: "00:00:29,00"
           to: "00:00:35,12"
-          text: "Out of the 1175 of us deportees I think 19 returned."
+          text: "Dei 1175 di noi che erano stati deportati ne sono tornati 19, penso."
         sequence-7:
           s: 7
           from: "00:00:35,12"
@@ -43,27 +43,27 @@ it:
           s: 8
           from: "00:00:38,22"
           to: "00:00:48,18"
-          text: "Gradually we felt a certain degree of liberation, but we were in such a state, we barely reacted."
+          text: "Abbiamo comunque sentito un certo senso di liberazione, ma eravamo in uno stato tale che reagivamo appena."
         sequence-9:
           s: 9
           from: "00:00:48,18"
           to: "00:01:01,09"
-          text: "Take my case: I weighed 70kg/72kg upon my arrival, I used to do exercise, to bike, I was strong."
+          text: "Quando arrivi che pesi 70-72 kg, come nel mio caso, perché facevo sport, correvo in bicicletta, ero forte, ben piantato…"
         sequence-10:
           s: 10
           from: "00:01:01,09"
           to: "00:01:08,21"
-          text: "In the end I had reached half my weight: 35kg/36kg."
+          text: "e alla fine ti trovi a pesare la metà, 35-36 kg, le cose non stanno più come prima,"
         sequence-11:
           s: 11
           from: "00:01:08,21"
           to: "00:01:22,29"
-          text: "Under those conditions, so weak, things don’t work the same way anymore, including reactions and the way the brain works."
+          text: "comprese le reazioni, il funzionamento del cervello… Non è più la stessa cosa, sei indebolito da capo a piedi e per questo è stato molto difficile."
         sequence-12:
           s: 12
           from: "00:01:22,29"
           to: "00:01:31,20"
-          text: "But we also started to take deep breaths of fresh air, telling ourselves that it was over."
+          text: "Ma alla fine c'è da dire che iniziavamo a respirare l'aria fresca, a dire: \"È fatta! È finita!\""
         sequence-13:
           s: 13
           from: "00:01:31,20"
@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:32,23"
           to: "00:01:45,05"
-          text: "When we were liberated, they put us onto wagons, depending on the region we were going to."
+          text: "Ci hanno messi in dei vagoni a seconda della regione in cui andavamo, mentre ci dicevano \"Arrangiatevi!\""
         sequence-15:
           s: 15
           from: "00:01:45,05"
           to: "00:01:55,15"
-          text: "I went back to Rouen. There were three or four of us. We had lost hundreds of friends."
+          text: "Sono tornato a Rouen. Dovevamo essere, non so, forse  3 o 4, qualche amico l'avevamo perso."
         sequence-16:
           s: 16
           from: "00:01:55,15"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:57,03"
           to: "00:02:09,12"
-          text: "Upon our arrival there were ambulances waiting for us, taking us where we told them to. In my case, that was to my parents."
+          text: "Al nostro arrivo c'erano delle ambulanze ad attenderci, ci accompagnavano dove gli dicevamo noi, nel mio caso dai miei genitori."
         sequence-18:
           s: 18
           from: "00:02:09,12"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:10,02"
           to: "00:02:20,09"
-          text: "The arrival at home was different for each of us. The parents were all different from each other of course."
+          text: "Dopo essere arrivati a casa, andava diversamente per gli uni e per gli altri perché i genitori erano diversi, è chiaro."
         sequence-20:
           s: 20
           from: "00:02:20,09"
@@ -108,22 +108,22 @@ it:
           s: 21
           from: "00:02:23,13"
           to: "00:02:31,21"
-          text: "I arrived home in the morning and my mother was there."
+          text: "Io sono arrivato di mattina, mia madre era in casa."
         sequence-22:
           s: 22
           from: "00:02:31,21"
           to: "00:02:40,17"
-          text: "She was a textile worker, but they sometimes had days off, and she was home. Ah! That was …!"
+          text: "Mia madre lavorava nel tessile, ma non lavorava, alle volte aveva dei giorni senza dover lavorare ed era là. Era… Ah!"
         sequence-23:
           s: 23
           from: "00:02:40,17"
           to: "00:02:53,06"
-          text: "My father arrived in the evening. He was a coppersmith, working very hard. He was also very firm."
+          text: "Mio padre è arrivato la sera, faceva riparazioni per le navi, era calderaio, faceva un lavoro molto duro… Ma era anche molto determinato."
         sequence-24:
           s: 24
           from: "00:02:53,06"
           to: "00:02:54,29"
-          text: "He said:"
+          text: "Arriva e dice:"
         sequence-25:
           s: 25
           from: "00:02:54,29"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:02:56,03"
           to: "00:03:01,05"
-          text: "“So there you are! Where are you coming from?”"
+          text: "Beh! Eccoti qui! Cosa ci fai qui?"
         sequence-27:
           s: 27
           from: "00:03:01,05"
           to: "00:03:13,14"
-          text: "Quite nice. That was how he was. I had already imagined it would be that way. But things got straightened out in the end."
+          text: "Beh, era una cosa simpatica. Lui era così e io già lo sapevo che sarebbe andata così."
         sequence-28:
           s: 28
           from: "00:03:13,14"
@@ -148,17 +148,17 @@ it:
           s: 29
           from: "00:03:14,15"
           to: "00:03:25,09"
-          text: "I had been called to the police headquarters because a family was asking for information about their son."
+          text: "Ero stato convocato al commissariato di polizia perché c'erano persone che volevano delle informazioni. Ho pensato molto se andare o meno."
         sequence-30:
           s: 30
           from: "00:03:25,09"
           to: "00:03:33,00"
-          text: "I hesitated for a long time, but finally I decided to go, as it was to help."
+          text: "Poi mi sono detto: \"Serve ad aiutare della gente!\", e ci sono andato."
         sequence-31:
           s: 31
           from: "00:03:33,00"
           to: "00:03:44,17"
-          text: "When I walked into the police office, one of these individuals who had arrested me, entered."
+          text: "Poco dopo essere entrato nell'ufficio del commissario, lui aveva iniziato a parlare, c'è quest'individuo che entra. Era uno di quelli che mi avevano arrestato."
         sequence-32:
           s: 32
           from: "00:03:44,17"
@@ -168,14 +168,14 @@ it:
           s: 33
           from: "00:03:48,11"
           to: "00:03:54,11"
-          text: "I did a huge leap, with my 35kg at the time, yelling at the police officer:"
+          text: "Sono sobbalzato, con i miei 35 kg, e ho detto al commissario:"
         sequence-34:
           s: 34
           from: "00:03:54,11"
           to: "00:04:01,09"
-          text: "“Ask that cop what he did in the night of October 21st, 1941!” I made a big fuss."
+          text: "“Chieda a quel poliziotto quello che è successo la notte del 21 ottobre!\" Ho fatto una baraonda là dentro!"
         sequence-35:
           s: 35
           from: "00:04:01,09"
           to: "00:04:05,08"
-          text: "The officer calmed me down and sent the other one out."
+          text: "Mi hanno detto di calmarmi, ma l'hanno fatto uscire."

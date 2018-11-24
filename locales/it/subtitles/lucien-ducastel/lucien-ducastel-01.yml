@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,11"
           to: "00:00:08,05"
-          text: "Mi chiamo Lucien Ducastel. Sono originario della Seine-Maritime, normanno di nascita."
+          text: "Mi chiamo Lucien Ducastel. Sono originario della Seine-Maritime, in Normandia."
         sequence-2:
           s: 2
           from: "00:00:08,05"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:12,25"
           to: "00:00:25,18"
-          text: "Ho imparato il mestiere di macellaio per tre anni, ma non mi piaceva affatto. Mi sono messo a lavorare nell'edilizia, nel metallurgico, ecc."
+          text: "Ho imparato il mestiere di macellaio per tre anni, ma non mi piaceva affatto. Mi sono messo a lavorare nell'edilizia e poi nel metallurgico."
         sequence-4:
           s: 4
           from: "00:00:25,18"
           to: "00:00:30,19"
-          text: "Ho fatto dei lavori molto duri. E, dunque, è andata così."
+          text: "Ho fatto dei lavori molto duri."
         sequence-5:
           s: 5
           from: "00:00:30,19"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:35,20"
           to: "00:00:42,19"
-          text: "I miei genitori… mio padre era operaio, un meccanico, era uno che lavorava duro. Faceva riparazioni a bordo delle navi."
+          text: "I miei genitori… mio padre era meccanico, era uno che lavorava duro. Faceva riparazioni a bordo delle navi."
         sequence-7:
           s: 7
           from: "00:00:42,19"
           to: "00:00:50,23"
-          text: "Lavorava molto duro. E mia madre era operaia nel tessile. I miei genitori erano operai, lavoravano entrambi. E io andavo a scuola e non avevamo problemi."
+          text: "Mia madre era operaia nel tessile. I miei genitori lavoravano entrambi. E io andavo a scuola e non avevamo problemi."
         sequence-8:
           s: 8
           from: "00:00:50,23"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:53,12"
           to: "00:01:01,06"
-          text: "Io ho il certificato delle scuole elementari… Avevo appena dodici anni, o undici e mezzo."
+          text: "Ho finito le scuole elementari. Avevo appena dodici anni, o undici e mezzo."
         sequence-10:
           s: 10
           from: "00:01:01,06"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:01:09,05"
           to: "00:01:16,12"
-          text: "Dunque, ho ottenuto questo certificato… Era molto importante per me. Dopo mi sono messo a lavorare."
+          text: "Era molto importante per me. Dopo mi sono messo a lavorare."
         sequence-12:
           s: 12
           from: "00:01:16,12"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:25,02"
           to: "00:01:33,10"
-          text: "Ho lavorato là tre anni e mezzo. Facevo le commissioni, lavoravo e imparavo… Ma alla fine non sono diventato macellaio."
+          text: "Ho lavorato là tre anni e mezzo. Facevo le commissioni, lavoravo e imparavo. Ma alla fine non sono diventato macellaio."
         sequence-15:
           s: 15
           from: "00:01:33,10"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:41,26"
           to: "00:01:47,11"
-          text: "Ho fatto diversi lavori manuali, ecc. ecc."
+          text: "Ho fatto diversi lavori manuali."
         sequence-18:
           s: 18
           from: "00:01:47,11"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:56,22"
           to: "00:02:09,21"
-          text: "Così, semplicemente, sono diventato operaio e ho vissuto tutto il periodo del 1936, gli scioperi e tutto quello che significavano."
+          text: "Così sono diventato operaio e ho vissuto tutto il periodo del 1936, gli scioperi e tutto quello che significavano."
         sequence-21:
           s: 21
           from: "00:02:09,21"
@@ -113,19 +113,19 @@ it:
           s: 22
           from: "00:02:20,22"
           to: "00:02:25,00"
-          text: "Gli scioperi del 1936 hanno dato il via a tutto."
+          text: "Sono stati gli scioperi del 1936 a dare il via al resto."
         sequence-23:
           s: 23
           from: "00:02:25,00"
           to: "00:02:33,27"
-          text: "Era un movimento operaio a manifestarsi. Io all'epoca lavoravo già nei circoli operai."
+          text: "Era un movimento operaio che si manifestava. All'epoca lavoravo già in un contesto operaio."
         sequence-24:
           s: 24
           from: "00:02:33,27"
           to: "00:02:42,26"
-          text: "Ed è in queste circostanze che il movimento del 1936 è cresciuto un po' dappertutto e ci sono state le grandi manifestazioni."
+          text: "In queste circostanze il movimento del 1936 è cresciuto un po' dappertutto, con grandi manifestazioni."
         sequence-25:
           s: 25
           from: "00:02:42,26"
           to: "00:02:48,12"
-          text: "Tutto questo rappresentava molto per il movimento operaio in Francia, è stata una cosa molto importante. Di sicuro!"
+          text: "Tutto ciò significava molto per il movimento operaio in Francia, è stata una cosa importantissima."

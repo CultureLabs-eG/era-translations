@@ -2,23 +2,23 @@ it:
   giovanna-quadreri:
     chapter-4:
       c: 4
-      title: "Sister joins the partisans"
+      title: "La sorella entra nei partigiani"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,13"
           to: "00:00:11,17"
-          text: "My sister joined the partisans after she had an argument with our mayor."
+          text: "Perché è andata mia sorella... Mia sorella è andata nei partigiani. E’ andata nei partigiani perché lei se l’era presa con il sindaco,"
         sequence-2:
           s: 2
           from: "00:00:11,17"
           to: "00:00:24,06"
-          text: "She declared she would join the partisans from Carpineti because she wanted the war to end. She was furious."
+          text: "allora, con il sindaco e con quelli di Carpineti, allora c’erano i partigiani e dice: “Allora io vado con loro perché io voglio che questa guerra finisca, io voglio...”"
         sequence-3:
           s: 3
           from: "00:00:24,06"
           to: "00:00:34,28"
-          text: "Did I tell you she was supposed to take my father’s place in jail?"
+          text: "ed era talmente arrabbiata che... perché doveva andare in galera al posto di mio padre mia sorella, non so se ve l’ho già raccontato..."
         sequence-4:
           s: 4
           from: "00:00:34,28"
@@ -28,27 +28,27 @@ it:
           s: 5
           from: "00:00:36,09"
           to: "00:00:41,24"
-          text: "One day, when she didn’t see my father come back, she went to find out"
+          text: "e quando ha visto che mio padre non tornava è andata a vedere"
         sequence-6:
           s: 6
           from: "00:00:41,24"
           to: "00:00:46,25"
-          text: "that my father had been sentenced to three days in jail."
+          text: "e allora mio padre era in prigione, gli avevano dato tre giorni."
         sequence-7:
           s: 7
           from: "00:00:46,25"
           to: "00:00:56,04"
-          text: "She said that my father had to go home because he had a family to support, and she would take his place."
+          text: "Allora ha detto: “Beh adesso al posto di mio padre, mio padre deve andare a casa c’ha la famiglia a casa e io sto qui”"
         sequence-8:
           s: 8
           from: "00:00:56,04"
           to: "00:01:02,09"
-          text: "In the end they let them both go, after two days instead of three."
+          text: "e allora dopo li hanno mandati a casa tutti e due, mio padre e mia sorella. Dopo invece che tenerlo tre giorni l’avranno tenuto due giorni in prigione,"
         sequence-9:
           s: 9
           from: "00:01:02,09"
           to: "00:01:05,23"
-          text: "My father had slapped the mayor,"
+          text: "perché aveva dato uno schiaffo al sindaco..."
         sequence-10:
           s: 10
           from: "00:01:05,23"
@@ -58,139 +58,139 @@ it:
           s: 11
           from: "00:01:06,29"
           to: "00:01:12,20"
-          text: "or I should say the podestà, that’s how he was called then."
+          text: "al sindaco si dice? No, era il podestà allora... beh è lo stesso."
         sequence-12:
           s: 12
           from: "00:01:12,20"
           to: "00:01:17,06"
-          text: "When they came back home, my sister was really furious."
+          text: "Niente, dopo che è venuta a casa, lei era talmente arrabbiata,"
         sequence-13:
           s: 13
           from: "00:01:17,06"
           to: "00:01:23,07"
-          text: "My father could not work as he wasn’t a member of the fascist party,"
+          text: "poi sentire sempre che mio padre era avversario e poi sentire"
         sequence-14:
           s: 14
           from: "00:01:23,07"
           to: "00:01:31,09"
-          text: "and the only one who brought home any money at the time was one of my brothers,"
+          text: "che c’era questo mio fratello, l’unico che portava a casa un po’ di soldi, che lavorava da tanti anni in seminario, era lui che prendeva la quindicina allora,"
         sequence-15:
           s: 15
           from: "00:01:31,09"
           to: "00:01:39,19"
-          text: "who had been working in the seminary for a long time then and was paid every two weeks."
+          text: "cominciava a prendere un po’ di soldini. Non avevamo più aiuto da nessuno."
         sequence-16:
           s: 16
           from: "00:01:39,19"
-          to: "00:01:59,00"
-          text: ~
+          to: "00:01:48,00"
+          text: "Mia sorella da piccolina é andata anche lei a servire, a Parma. Lei aveva nove, dieci anni, é andata a Parma con una signora."
         sequence-17:
           s: 17
-          from: "00:01:59,00"
-          to: "00:02:10,04"
-          text: "My mother did whatever she could. She also tried to help the partisans and the people in our village."
+          from: "00:01:48,00"
+          to: "00:01:59,00"
+          text: "Al mattino faceva la faccendina di casa, pomeriggio andava con la contessa, che era poi una signora molto vecchia. Lei faceva la crocerossina,"
         sequence-18:
           s: 18
-          from: "00:02:10,04"
-          to: "00:02:19,24"
-          text: "She would give injections and take care of things: in the mountains nobody had anything at that time."
+          from: "00:01:59,00"
+          to: "00:02:10,04"
+          text: "allora se la portava in ospedale. Per quello che ha avuto la mania di curare i feriti, di curare la gente, proprio una passione. Ecco perchè dopo é andata nei partigiani"
         sequence-19:
           s: 19
-          from: "00:02:19,24"
-          to: "00:02:26,06"
-          text: "My mother, poor woman, was the only one who knew how to give injections,"
+          from: "00:02:10,04"
+          to: "00:02:19,24"
+          text: "e faceva l’infermiera lei. Faceva quello che poteva fare, le punture, curare delle cose, insomma si impegnava per la gente,"
         sequence-20:
           s: 20
-          from: "00:02:26,06"
-          to: "00:02:35,04"
-          text: "so she was always dashing about, even at night, summoned by many families in the village."
+          from: "00:02:19,24"
+          to: "00:02:26,06"
+          text: "per la gente lì del paese e per i partigiani, ma anche per la gente del paese, perché sai in montagna non c’era niente per nessuno."
         sequence-21:
           s: 21
-          from: "00:02:35,04"
-          to: "00:02:37,06"
-          text: ~
+          from: "00:02:26,06"
+          to: "00:02:35,04"
+          text: "Mia madre poveretta che era l’unica che sapeva fare le punture correva sempre avanti indietro, la chiamavano dappertutto, anche di notte."
         sequence-22:
           s: 22
           from: "00:02:37,06"
           to: "00:02:49,23"
-          text: "One day my parents told me to go look for my sister. As I got there I ended up in a mop-up."
+          text: "Perché dopo poi quando io... dice i miei: “Quella là, va a vedere un po’ dov’è”. E allora io sono andata là. E quando sono andata là sono finita dentro un rastrellamento."
         sequence-23:
           s: 23
           from: "00:02:49,23"
           to: "00:03:03,16"
-          text: "There was also a wounded man with a shattered leg, so my sister and others told me to go with them."
+          text: "Dentro un rastrellamento che c’era un ferito con una gamba fracassata. Allora mia sorella con degli uomini mi avevano detto: “Vieni anche tu, vieni! Vieni!”."
         sequence-24:
           s: 24
           from: "00:03:03,16"
           to: "00:03:10,09"
-          text: "We went to Quara di Toano, in the mountains, and then moved towards Modena."
+          text: "E siamo andati a Quara di Toano, Quara su in montagna poi dopo di lì siamo andati nel modenese."
         sequence-25:
           s: 25
           from: "00:03:10,09"
           to: "00:03:19,13"
-          text: "But the following day I decided to go back home, because I had to go tell my parents we were safe."
+          text: "Ma io il giorno dopo sono voluta tornare a casa perché ho detto: “Dobbiamo dire qualcosa, io devo andare a casa a dire qualcosa ai genitori”."
         sequence-26:
           s: 26
           from: "00:03:19,13"
           to: "00:03:29,15"
-          text: "There had been a big battle in Carpineti, and they had to retreat to the castle at first, but then they had to escape."
+          text: "Sa, sapere che c’era stata una grossa battaglia a Carpineti, si erano ritirati sul castello, ma dopo sono dovuti scappare proprio..."
         sequence-27:
           s: 27
           from: "00:03:29,15"
           to: "00:03:37,22"
-          text: "So I went back home, but my sister didn’t return home until the war was over, a year later."
+          text: "e allora io sono andata, io sono venuta a casa e mia sorella non è più venuta a casa, per un anno, fino che non è finita la guerra,"
         sequence-28:
           s: 28
           from: "00:03:37,22"
           to: "00:03:42,08"
-          text: "I would be going back and forth."
+          text: "invece io andavo avanti e indietro. E dopo io sono tornata a casa e basta, così."
         sequence-29:
           s: 29
           from: "00:03:42,08"
           to: "00:03:52,12"
-          text: "I went to the mountains a couple of times, since my parents were worried and wanted me to go see if my sister was safe."
+          text: "Sono andata una volta o due su a vedere se, ogni tanto i miei mi dicevano: “Va a vedere un po’, va a vedere”,"
         sequence-30:
           s: 30
           from: "00:03:52,12"
           to: "00:04:03,11"
-          text: "She was only 18 then. When she was in Parma they knew she was with a family, but at that time they were definitely worried."
+          text: "perché erano preoccupati, perché lei aveva poi 18 anni, finché era a Parma che allora sapevano che era una famiglia, ma sa così, si preoccupavano tanto."
         sequence-31:
           s: 31
           from: "00:04:03,11"
           to: "00:04:08,09"
-          text: "I would leave early in the morning and run towards the mountains,"
+          text: "Allora io partivo alla mattina presto andavo via di corsa, andavo in ritrovata"
         sequence-32:
           s: 32
           from: "00:04:08,09"
           to: "00:04:19,16"
-          text: "stopping every now and then to ask people if they had seen a partisan unit with a woman. Actually there were two women in the unit then."
+          text: "e poi ogni tanto chiedevo: “Avete visto una formazione di partigiani con una donna?”, che poi erano due, c’erano due ragazze, sì."
         sequence-33:
           s: 33
           from: "00:04:19,16"
           to: "00:04:27,02"
-          text: "Somebody finally knew where they were, taking me to Gova, towards Mt. Penna, very far away."
+          text: "E allora dopo mi hanno detto: “Sì lo sappiamo dov’è” e mi hanno portato proprio a Gova, proprio là dove, verso il Monte Penna, ma lontano lontano proprio."
         sequence-34:
           s: 34
           from: "00:04:27,02"
           to: "00:04:34,09"
-          text: "They had run away there because the Germans were looking for them."
+          text: "Erano scappati là, perché con i tedeschi di dietro sono dovuti andare."
         sequence-35:
           s: 35
           from: "00:04:34,09"
           to: "00:04:42,08"
-          text: "She would always walk behind the rest of the group because she would take care of the wounded."
+          text: "E lei era sempre più indietro perché lei aveva questo ferito da portarsi a dietro"
         sequence-36:
           s: 36
           from: "00:04:42,08"
           to: "00:04:53,27"
-          text: "She wouldn’t carry them, there were others who would help her, but they didn’t have vehicles or horses, nothing at all,"
+          text: "ma non so se lo portava lei, c’era chi li aiutava ma erano sempre gente senza mezzi, senza un cavallo, senza niente insomma,"
         sequence-37:
           s: 37
           from: "00:04:53,27"
           to: "00:05:04,02"
-          text: "so they would often improvise a stretcher – they called it a ladder – and put a cloth over it, if they had one."
+          text: "allora si improvvisava delle barelle, delle specie di barelle e li portavano così, degli scaletti, come si dice... delle scale, quattro uomini e li portavano così,"
         sequence-38:
           s: 38
           from: "00:05:04,02"
           to: "00:05:09,06"
-          text: "That’s how four men would carry the wounded."
+          text: "mettevano un panno se ce lo avevano, una persona sopra e via."
