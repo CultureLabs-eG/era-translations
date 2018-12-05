@@ -2,56 +2,48 @@ sl:
   carlo-porta:
     chapter-3:
       c: 3
-      title: "Arrest while in the army"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,13"
           to: "00:00:04,24"
-          text: "There was one rule back then."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:04,24"
           to: "00:00:09,10"
-          text: "At Reggiane we manufactured airplanes"
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:09,10"
           to: "00:00:21,27"
-          text: |-
-              – you can still see one of the airplanes we made, 
-              it’s at the Reggio Emilia airport –
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:21,27"
           to: "00:00:30,27"
-          text: |-
-              so the young workers of Reggiane who were called into the Army 
-              were entitled to serve in the Air Force,
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:30,27"
           to: "00:00:39,27"
-          text: |-
-              while those who worked at Lombardini Motori, manufacturing ship engines, 
-              usually served in the Navy.
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:39,27"
           to: "00:00:50,22"
-          text: |-
-              I was called up for military service, went to Bologna and then to Orvieto, 
-              where I completed the recruit training.
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:50,22"
           to: "00:00:56,05"
-          text: "After that, we were transferred to different places."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:56,05"
           to: "00:01:04,24"
-          text: "I was sent to an airport near Rome, in a small village called Furbara."
+          text: ~
         sequence-9:
           s: 9
           from: "00:01:04,24"
@@ -61,110 +53,92 @@ sl:
           s: 10
           from: "00:01:08,18"
           to: "00:01:16,18"
-          text: "Our units were sent to mount guard in Rome,"
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:16,18"
           to: "00:01:22,21"
-          text: "so we went to Palazzo Venezia."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:22,21"
           to: "00:01:31,11"
-          text: "Throughout the week, every night a different unit was in charge of this:"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:31,11"
           to: "00:01:38,01"
-          text: "one night it was the Air Force, one night the artillerymen, and so on."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:38,01"
           to: "00:01:47,11"
-          text: |-
-              So we went to mount guard, and I remember that a new lieutenant came 
-              to pick us up with a van at eight in the morning,
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:47,11"
           to: "00:01:53,23"
-          text: |-
-              and told us we would be visiting Rome for a while since 
-              he had never been there before.
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:53,23"
           to: "00:02:02,05"
-          text: |-
-              I went back inside the airport. The mail had arrived 
-              and there were also some letters for me.
+          text: ~
         sequence-17:
           s: 17
           from: "00:02:02,05"
           to: "00:02:08,17"
-          text: |-
-              I went to my sleeping quarter and was opening a letter 
-              when my lieutenant,
+          text: ~
         sequence-18:
           s: 18
           from: "00:02:08,17"
           to: "00:02:16,27"
-          text: |-
-              a man from Ancona whose name was Santaroni, came over. 
-              He was a good man – he gave me a hug later –
+          text: ~
         sequence-19:
           s: 19
           from: "00:02:16,27"
           to: "00:02:23,14"
-          text: "who had come to tell me that “somebody needed to speak to me”."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:23,14"
           to: "00:02:26,28"
-          text: "It was three policemen."
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:26,28"
           to: "00:02:33,18"
-          text: "The first thing the sergeant did was take the letter I held in my hands."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:33,18"
           to: "00:02:38,23"
-          text: "In the letter, my mother had written the following words:"
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:38,23"
           to: "00:02:50,09"
-          text: |-
-              “You’re lucky to be in the Army, since in the past few days Pattaccini, 
-              Boiardi and others were arrested”.
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:50,09"
           to: "00:02:55,01"
-          text: "They were all people I used to be implicated with in our activities,"
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:55,01"
           to: "00:03:02,10"
-          text: |-
-              and my poor mother was telling me this openly. 
-              But that’s exactly why I was arrested.
+          text: ~
         sequence-26:
           s: 26
           from: "00:03:02,10"
           to: "00:03:09,15"
-          text: |-
-              I never managed to get that letter back. 
-              Wherever I was taken, the letter seemed to follow me.
+          text: ~
         sequence-27:
           s: 27
           from: "00:03:09,15"
           to: "00:03:20,28"
-          text: |-
-              You see, we all used to deny knowing someone, but I couldn’t, 
-              since the names were written on the letter.
+          text: ~
         sequence-28:
           s: 28
           from: "00:03:20,28"
@@ -174,115 +148,97 @@ sl:
           s: 29
           from: "00:03:22,08"
           to: "00:03:26,16"
-          text: "Then, one morning, we left from the train station."
+          text: ~
         sequence-30:
           s: 30
           from: "00:03:26,16"
           to: "00:03:30,11"
-          text: "I had already been reduced to the ranks:"
+          text: ~
         sequence-31:
           s: 31
           from: "00:03:30,11"
           to: "00:03:38,23"
-          text: |-
-              they had taken everything from me 
-              and that day I was slightly shabby and hadn’t shaved.
+          text: ~
         sequence-32:
           s: 32
           from: "00:03:38,23"
           to: "00:03:46,20"
-          text: "As we set off, those who were on the railcar with us were curious."
+          text: ~
         sequence-33:
           s: 33
           from: "00:03:46,20"
           to: "00:03:54,00"
-          text: "On other occasions, such as the day I was interned,"
+          text: ~
         sequence-34:
           s: 34
           from: "00:03:54,00"
           to: "00:04:03,19"
-          text: |-
-              when there were eighteen of us, we had a whole railcar for ourselves, 
-              so there was no one else.
+          text: ~
         sequence-35:
           s: 35
           from: "00:04:03,19"
           to: "00:04:10,09"
-          text: |-
-              This time, however, the railcar was full, 
-              so people began to ask me what I had done,
+          text: ~
         sequence-36:
           s: 36
           from: "00:04:10,09"
           to: "00:04:16,13"
-          text: "and I did what I could to have them do so."
+          text: ~
         sequence-37:
           s: 37
           from: "00:04:16,13"
           to: "00:04:22,02"
-          text: "I became the star of the railcar, everybody handed me something,"
+          text: ~
         sequence-38:
           s: 38
           from: "00:04:22,02"
           to: "00:04:29,08"
-          text: "cigarettes and so on, and the Carabinieri didn’t know what to say."
+          text: ~
         sequence-39:
           s: 39
           from: "00:04:29,08"
           to: "00:04:33,13"
-          text: "Their problem was that they didn’t have a place to hide me in,"
+          text: ~
         sequence-40:
           s: 40
           from: "00:04:33,13"
           to: "00:04:38,29"
-          text: "so they couldn’t do anything if someone offered me a cigarette."
+          text: ~
         sequence-41:
           s: 41
           from: "00:04:38,29"
           to: "00:04:44,21"
-          text: |-
-              Once we arrived in Florence, however, 
-              the Carabinieri decided to get off and change train.
+          text: ~
         sequence-42:
           s: 42
           from: "00:04:44,21"
           to: "00:04:53,26"
-          text: |-
-              Later I understood that they did this to prevent me from talking 
-              to the people that were on the first train.
+          text: ~
         sequence-43:
           s: 43
           from: "00:04:53,26"
           to: "00:05:00,28"
-          text: |-
-              The other one – from Bologna to Reggio Emilia – 
-              was a lot less crowded.
+          text: ~
         sequence-44:
           s: 44
           from: "00:05:00,28"
           to: "00:05:07,25"
-          text: |-
-              When we arrived in Reggio Emilia I was immediately taken 
-              to the Police Station.
+          text: ~
         sequence-45:
           s: 45
           from: "00:05:07,25"
           to: "00:05:14,27"
-          text: |-
-              There, I was confronted with a lot of stories, 
-              and I still had to deal with the issue of the letter.
+          text: ~
         sequence-46:
           s: 46
           from: "00:05:14,27"
           to: "00:05:20,00"
-          text: "I would have never told anything to the authorities,"
+          text: ~
         sequence-47:
           s: 47
           from: "00:05:20,00"
           to: "00:05:30,21"
-          text: |-
-              but Pagliarello had my letter in his hands while he questioned me, 
-              and I did not know what to say.
+          text: ~
         sequence-48:
           s: 48
           from: "00:05:30,21"
@@ -292,158 +248,134 @@ sl:
           s: 49
           from: "00:05:33,11"
           to: "00:05:42,07"
-          text: "At a certain point, although I was handcuffed,"
+          text: ~
         sequence-50:
           s: 50
           from: "00:05:42,07"
           to: "00:05:48,09"
-          text: |-
-              I managed to see out of the corner of my eye that 
-              he was about to hit me from behind,
+          text: ~
         sequence-51:
           s: 51
           from: "00:05:48,09"
           to: "00:05:59,16"
-          text: |-
-              so I protected myself: he ended up hitting the handcuffs, 
-              got angry and smacked me a couple of times.
+          text: ~
         sequence-52:
           s: 52
           from: "00:05:59,16"
           to: "00:06:03,26"
-          text: "We were all waiting in line. There were people"
+          text: ~
         sequence-53:
           s: 53
           from: "00:06:03,26"
           to: "00:06:08,00"
-          text: "like the guy who told on me, a baker whose name was Montermini."
+          text: ~
         sequence-54:
           s: 54
           from: "00:06:08,00"
           to: "00:06:14,00"
-          text: |-
-              He was sentenced to fifteen years by the special court, 
-              and served quite a few of them.
+          text: ~
         sequence-55:
           s: 55
           from: "00:06:14,00"
           to: "00:06:23,28"
-          text: |-
-              We were the last ones, and our sentences were lighter:
-              as for myself, I was sentenced to four years of confinement.
+          text: ~
         sequence-56:
           s: 56
           from: "00:06:23,28"
           to: "00:06:28,14"
-          text: "Nobody defended you, it was only up to you to stand up for yourself."
+          text: ~
         sequence-57:
           s: 57
           from: "00:06:28,14"
           to: "00:06:35,10"
-          text: |-
-              In any case, when you got into the movement you were aware 
-              that there would not be much you could do:
+          text: ~
         sequence-58:
           s: 58
           from: "00:06:35,10"
           to: "00:06:43,00"
-          text: "we all knew that if we got caught we would end up doing a couple of years."
+          text: ~
         sequence-59:
           s: 59
           from: "00:06:43,00"
           to: "00:06:46,26"
-          text: "It came to no surprise."
+          text: ~
         sequence-60:
           s: 60
           from: "00:06:46,26"
           to: "00:06:52,07"
-          text: "I spent two months in the San Tommaso prison, in Reggio Emilia,"
+          text: ~
         sequence-61:
           s: 61
           from: "00:06:52,07"
           to: "00:06:58,18"
-          text: "before they were forced to transfer us to make room for new inmates."
+          text: ~
         sequence-62:
           s: 62
           from: "00:06:58,18"
           to: "00:07:07,26"
-          text: "We were 18 or 19, all fettered to the same chain."
+          text: ~
         sequence-63:
           s: 63
           from: "00:07:07,26"
           to: "00:07:16,04"
-          text: "Our families had been told we would be at the station,"
+          text: ~
         sequence-64:
           s: 64
           from: "00:07:16,04"
           to: "00:07:24,20"
-          text: "so once we got there they had come to see us, and some of them were crying:"
+          text: ~
         sequence-65:
           s: 65
           from: "00:07:24,20"
           to: "00:07:35,09"
-          text: |-
-              we had to pretend everything was ok 
-              and force a smile in order to make it easier for them.
+          text: ~
         sequence-66:
           s: 66
           from: "00:07:35,09"
           to: "00:07:42,16"
-          text: |-
-              When we arrived in Castelfranco, the warden came over 
-              and asked the sergeant, who was in charge of the guards,
+          text: ~
         sequence-67:
           s: 67
           from: "00:07:42,16"
           to: "00:07:50,24"
-          text: "where they were supposed to put us, since the prison was also full."
+          text: ~
         sequence-68:
           s: 68
           from: "00:07:50,24"
           to: "00:07:56,13"
-          text: |-
-              He asked where we came from, 
-              and when he was told we were from Reggio Emilia, he said:
+          text: ~
         sequence-69:
           s: 69
           from: "00:07:56,13"
           to: "00:08:01,01"
-          text: "“If it was for me, I would just dump them in a cesspit”."
+          text: ~
         sequence-70:
           s: 70
           from: "00:08:01,01"
           to: "00:08:07,11"
-          text: "Very funny, isn’t it?"
+          text: ~
         sequence-71:
           s: 71
           from: "00:08:07,11"
           to: "00:08:13,14"
-          text: |-
-              Although we had not done anything to be punished, 
-              they ended up putting us in confinement cells.
+          text: ~
         sequence-72:
           s: 72
           from: "00:08:13,14"
           to: "00:08:20,20"
-          text: |-
-              The prison was full, but they had these special cells 
-              where they could fit one or two of us,
+          text: ~
         sequence-73:
           s: 73
           from: "00:08:20,20"
           to: "00:08:27,18"
-          text: |-
-              There was only a small opening in the door, 
-              and a tiny window for some fresh air,
+          text: ~
         sequence-74:
           s: 74
           from: "00:08:27,18"
           to: "00:08:35,25"
-          text: |-
-              so you never heard or saw anyone aside from the guard 
-              who came by to check on us every now and then.
+          text: ~
         sequence-75:
           s: 75
           from: "00:08:35,25"
           to: "00:08:40,20"
-          text: "I spent more or less twenty days in Castelfranco."
+          text: ~

@@ -2,18 +2,18 @@ sl:
   lidia-valeriani:
     chapter-12:
       c: 12
-      title: "Life after war"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:06,26"
-          text: "My family was fortunate."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:06,26"
           to: "00:00:18,10"
-          text: "I made it back home, my father and Avvenire came back from Germany, Davide was in the mountains too:"
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:18,10"
@@ -23,12 +23,12 @@ sl:
           s: 4
           from: "00:00:20,10"
           to: "00:00:23,29"
-          text: "he was one of the leaders and later became deputy police prefect here."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:23,29"
           to: "00:00:31,14"
-          text: "We were all alive, all nine of us and our parents."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:31,14"
@@ -38,12 +38,12 @@ sl:
           s: 7
           from: "00:00:32,19"
           to: "00:00:37,27"
-          text: "After that we always worked for peace, freedom and equality."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:37,27"
           to: "00:00:39,09"
-          text: "We’re still working for this!"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:39,09"
@@ -53,27 +53,27 @@ sl:
           s: 10
           from: "00:00:40,05"
           to: "00:00:57,05"
-          text: "Sixty years ago, we thought that things would be better for you, our nephews."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:57,05"
           to: "00:01:05,07"
-          text: "That life would be a little more peaceful. Not too much, only a little bit, because you too are not peaceful yet."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:05,07"
           to: "00:01:16,15"
-          text: "We did everything for our sons and nephews to have a better world:"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:16,15"
           to: "00:01:32,17"
-          text: "not only our sons but for the whole world, freed from wars, hardship, all terrible things."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:32,17"
           to: "00:01:35,05"
-          text: "We still have terrible things going on."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:35,05"
@@ -83,39 +83,39 @@ sl:
           s: 16
           from: "00:01:35,22"
           to: "00:01:39,26"
-          text: "Many say: “we fought for nothing”. No!"
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:39,26"
           to: "00:01:44,21"
-          text: "We fought for a prosperous future."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:44,21"
           to: "00:01:53,24"
-          text: "Our struggle was valuable because we were living a life of sacrifice."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:53,24"
           to: "00:01:58,03"
-          text: "We had a lot, but"
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:58,03"
           to: "00:02:03,24"
-          text: "also wished that there may be just as much for others today."
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:03,24"
           to: "00:02:09,20"
-          text: "Compared to what we had before, after the war we had so much:"
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:09,20"
           to: "00:02:18,01"
-          text: "we worked, we fought even afterwards, we built things, we worked day and night."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:18,01"
           to: "00:02:21,01"
-          text: "We had many positive outcomes."
+          text: ~

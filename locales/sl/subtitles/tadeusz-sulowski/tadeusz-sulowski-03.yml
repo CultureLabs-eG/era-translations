@@ -2,18 +2,18 @@ sl:
   tadeusz-sulowski:
     chapter-3:
       c: 3
-      title: "Life in Warsaw; socialist conspiracy"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,00"
           to: "00:00:05,08"
-          text: "In Warsaw we needed to rent a flat,"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:05,08"
           to: "00:00:22,00"
-          text: "since our house where we used to live was destroyed during the wartime military operations."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:22,00"
@@ -23,12 +23,12 @@ sl:
           s: 4
           from: "00:00:25,28"
           to: "00:00:30,26"
-          text: "We rented a flat in Ujazdowskie Alleys."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:30,26"
           to: "00:00:35,29"
-          text: "The landlady was a Mrs Kijewska."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:35,29"
@@ -38,17 +38,17 @@ sl:
           s: 7
           from: "00:00:40,24"
           to: "00:00:48,10"
-          text: "Our life in occupied Warsaw began."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:48,10"
           to: "00:00:53,10"
-          text: "In Warsaw, naturally, we did not bow to the Germans."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:53,10"
           to: "00:00:58,00"
-          text: "This was in the so-called General-Gouvernement."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:58,00"
@@ -58,22 +58,22 @@ sl:
           s: 11
           from: "00:01:01,02"
           to: "00:01:15,04"
-          text: "There were no great liberties, but we could go to primary schools."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:15,04"
           to: "00:01:21,15"
-          text: "My sisters used to attend to the school run by the Sisters of the Holy Family of Nazareth."
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:21,15"
           to: "00:01:26,23"
-          text: "My brother had already graduated secondary school, so he didn’t go to school."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:26,23"
           to: "00:01:38,02"
-          text: "My eldest sister very soon enrolled for some classes at the illegal university,"
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:38,02"
@@ -83,7 +83,7 @@ sl:
           s: 16
           from: "00:01:40,13"
           to: "00:01:46,03"
-          text: "because the academies began the term quite efficiently."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:46,03"
@@ -93,39 +93,39 @@ sl:
           s: 18
           from: "00:01:48,07"
           to: "00:01:54,22"
-          text: "On the other hand my brother soon got in touch"
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:54,22"
           to: "00:02:09,23"
-          text: "with an illegal organization of the leftist type."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:09,23"
           to: "00:02:26,21"
-          text: "A lot of young people at the time had grudges to our former political system, the period of Piłsudski’s rule,"
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:26,21"
           to: "00:02:32,04"
-          text: "with many wrongs and a lot of poverty."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:32,04"
           to: "00:02:40,16"
-          text: "Young people very often did not accept the situation"
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:40,16"
           to: "00:02:48,09"
-          text: "in new Poland and wanted to introduce a more democratic system."
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:48,09"
           to: "00:02:53,04"
-          text: "That is why my brother joined the PPS (Polish Socialist Party)."
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:53,04"
           to: "00:03:05,18"
-          text: "But not the one under the aegis of the Soviet Union which was called RPPS, the so-called Workers’ Socialist Party,"
+          text: ~

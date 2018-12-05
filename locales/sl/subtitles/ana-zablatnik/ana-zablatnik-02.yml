@@ -2,13 +2,13 @@ sl:
   ana-zablatnik:
     chapter-2:
       c: 2
-      title: "Ana´s tasks in the resistance group"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,22"
           to: "00:00:09,16"
-          text: "We took on different tasks:"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:09,16"
@@ -18,39 +18,39 @@ sl:
           s: 3
           from: "00:00:11,18"
           to: "00:00:12,21"
-          text: "mail,"
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:12,21"
           to: "00:00:14,05"
-          text: "messenger service,"
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:14,05"
           to: "00:00:18,21"
-          text: "food (that was important, too),"
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:18,21"
           to: "00:00:20,20"
-          text: "clothes,"
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:20,20"
           to: "00:00:23,15"
-          text: "and a very important thing: medical supplies."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:23,15"
           to: "00:00:28,03"
-          text: "They were important, because there was always somebody wounded,"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:28,03"
           to: "00:00:39,06"
-          text: "and they had to attend to him until they had the opportunity to take him across the river Drau"
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:39,06"
           to: "00:00:48,16"
-          text: "into the Karawanken, because there was a partisan hospital where they took the wounded."
+          text: ~

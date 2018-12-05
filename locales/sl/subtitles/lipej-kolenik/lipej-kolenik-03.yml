@@ -2,23 +2,23 @@ sl:
   lipej-kolenik:
     chapter-3:
       c: 3
-      title: "Who supported the partisans?"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,05"
           to: "00:00:06,16"
-          text: "Well, there were only few that weren’t with the partisans."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:06,16"
           to: "00:00:10,00"
-          text: "In the town there were more."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:10,00"
           to: "00:00:16,24"
-          text: "Bleiburg is a known town and Carinthia was a Nazi stronghold,"
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:16,24"
@@ -28,7 +28,7 @@ sl:
           s: 5
           from: "00:00:19,15"
           to: "00:00:23,12"
-          text: "but the population outside was of different opinion."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:23,12"
@@ -38,14 +38,14 @@ sl:
           s: 7
           from: "00:00:25,22"
           to: "00:00:36,12"
-          text: "There were only few and they did not report us to the police –"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:36,12"
           to: "00:00:41,02"
-          text: "kept quiet and did not keep in touch with us."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:41,02"
           to: "00:00:44,07"
-          text: "But only about 10 % weren’t with us."
+          text: ~
