@@ -18,12 +18,12 @@ de:
           s: 3
           from: "00:00:13,26"
           to: "00:00:21,27"
-          text: "Especially now that I understand who I am as a painter."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:21,27"
           to: "00:00:27,19"
-          text: "Above all I’m a landscape painter, because it’s my world."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:27,19"
@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:31,03"
           to: "00:00:44,18"
-          text: "Before the war, I’d cycle out of Ljubljana to find some motif to draw and paint."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:44,18"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:50,03"
           to: "00:00:56,04"
-          text: "At first we received a sort of ‘lascia passare’,"
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:56,04"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:01:10,11"
           to: "00:01:14,17"
-          text: "Later they abolished it."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:14,17"
@@ -73,7 +73,7 @@ de:
           s: 14
           from: "00:01:31,29"
           to: "00:01:40,10"
-          text: "Then they prohibited bicycles and I couldn’t go anywhere anymore."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:40,10"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:02:00,10"
           to: "00:02:20,01"
-          text: "I took a wheel from my sister’s bicycle and had a colleague attach it to my bicycle."
+          text: ~
         sequence-18:
           s: 18
           from: "00:02:20,01"
@@ -108,12 +108,12 @@ de:
           s: 21
           from: "00:02:41,21"
           to: "00:02:52,20"
-          text: "and inspected me and discovered that all I had were flowers and let me pass on through."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:52,20"
           to: "00:03:04,19"
-          text: "But when I reached today’s Presernova Street and passed by the Italian police,"
+          text: ~
         sequence-23:
           s: 23
           from: "00:03:04,19"
@@ -123,7 +123,7 @@ de:
           s: 24
           from: "00:03:10,12"
           to: "00:03:20,28"
-          text: "Then the so-called ‘quaestors’ arrested me and confiscated my tricycle and took me to the police."
+          text: ~
         sequence-25:
           s: 25
           from: "00:03:20,28"
@@ -133,12 +133,12 @@ de:
           s: 26
           from: "00:03:27,13"
           to: "00:03:36,02"
-          text: "Then they put me in a police car, a policeman on each side of me."
+          text: ~
         sequence-27:
           s: 27
           from: "00:03:36,02"
           to: "00:03:47,22"
-          text: "I felt so ashamed to be taken home in such company. They drove me home because I admitted where I lived."
+          text: ~
         sequence-28:
           s: 28
           from: "00:03:47,22"
@@ -148,14 +148,14 @@ de:
           s: 29
           from: "00:03:55,16"
           to: "00:04:01,00"
-          text: "“Does she live here?” - “She lives here.”"
+          text: ~
         sequence-30:
           s: 30
           from: "00:04:01,00"
           to: "00:04:08,07"
-          text: "They then left and the next day I got my tricycle back."
+          text: ~
         sequence-31:
           s: 31
           from: "00:04:08,07"
           to: "00:04:16,00"
-          text: "But I wasn’t permitted to ride it anymore because after my little adventure, tricycles were also banned."
+          text: ~

@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,18"
           to: "00:00:07,10"
-          text: "I was lucky to be given passage to the partisans."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:07,10"
@@ -28,12 +28,12 @@ de:
           s: 5
           from: "00:00:40,07"
           to: "00:00:48,04"
-          text: "Again we had to know the code."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:48,04"
           to: "00:00:59,08"
-          text: "The landlord was the innkeeper at the Dolgan Inn."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:59,08"
@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:01:31,26"
           to: "00:01:38,02"
-          text: "It’s a beautiful mountain with a gorgeous view."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:38,02"
@@ -63,7 +63,7 @@ de:
           s: 12
           from: "00:01:38,23"
           to: "00:01:50,19"
-          text: "I came to the partisans relatively late. I’d been in hiding in Ljubljana for four months. I left in July 1944."
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:50,19"
@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:02:11,12"
           to: "00:02:13,11"
-          text: "You know what?"
+          text: ~
         sequence-17:
           s: 17
           from: "00:02:13,11"
@@ -118,12 +118,12 @@ de:
           s: 23
           from: "00:03:35,01"
           to: "00:03:45,01"
-          text: "Although I don’t know how that might have worked out – considering my sensitivity to the thundering of explosions."
+          text: ~
         sequence-24:
           s: 24
           from: "00:03:45,01"
           to: "00:03:56,18"
-          text: "Probably not well at all. But at that point they weren’t taking females into the brigade anymore."
+          text: ~
         sequence-25:
           s: 25
           from: "00:03:56,18"
@@ -138,17 +138,17 @@ de:
           s: 27
           from: "00:04:24,11"
           to: "00:04:34,09"
-          text: "They did, when they were preparing the first showing of Raztrganci by Matej Bor."
+          text: ~
         sequence-28:
           s: 28
           from: "00:04:34,09"
           to: "00:04:46,24"
-          text: "I went to Bela krajina then for about two weeks to prepare the stage scenery."
+          text: ~
         sequence-29:
           s: 29
           from: "00:04:46,24"
           to: "00:04:53,00"
-          text: "I used old stage scenery from the Sokolski dom in Crnomelj."
+          text: ~
         sequence-30:
           s: 30
           from: "00:04:53,00"

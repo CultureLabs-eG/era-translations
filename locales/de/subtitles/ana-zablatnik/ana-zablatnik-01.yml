@@ -2,13 +2,13 @@ de:
   ana-zablatnik:
     chapter-1:
       c: 1
-      title: "Prohibition of Slovenian culture"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,27"
           to: "00:00:10,26"
-          text: "The resettling of the Carinthian Slovenes."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:10,26"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:11,24"
           to: "00:00:23,12"
-          text: "With the occupation of Yugoslavia they already transferred our parishes into German parishes."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:23,12"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:24,09"
           to: "00:00:29,22"
-          text: "We weren’t even allowed to sing Slovenian in church."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:29,22"
@@ -38,27 +38,27 @@ de:
           s: 7
           from: "00:00:30,25"
           to: "00:00:38,09"
-          text: "We had an inn, and there we had to hang up posters:"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:38,09"
           to: "00:00:40,14"
-          text: "“Carinthians speak German!”"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:40,14"
           to: "00:00:46,12"
-          text: "You always had to look out who was at the inn – as there were spies around –"
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:46,12"
           to: "00:00:49,20"
-          text: "whether you spoke Slovenian or German."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:49,20"
           to: "00:00:57,19"
-          text: "Of course, if you knew there was nobody around, you spoke Slovenian."
+          text: ~
         sequence-12:
           s: 12
           from: "00:00:57,19"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:00:59,07"
           to: "00:01:08,07"
-          text: "In 1942 they resettled five families from Ludmannsdorf."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:08,07"
@@ -78,24 +78,24 @@ de:
           s: 15
           from: "00:01:09,17"
           to: "00:01:13,09"
-          text: "We were on the list, as well."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:13,09"
           to: "00:01:20,15"
-          text: "Allegedly 16 Families of the parish were to be resettled."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:20,15"
           to: "00:01:22,29"
-          text: "They stopped it then."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:22,29"
           to: "00:01:32,05"
-          text: "We heard that there were so many that they didn’t know where to send them."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:32,05"
           to: "00:01:35,00"
-          text: "They stopped it then."
+          text: ~

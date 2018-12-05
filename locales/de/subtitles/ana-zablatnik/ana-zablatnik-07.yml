@@ -2,18 +2,18 @@ de:
   ana-zablatnik:
     chapter-7:
       c: 7
-      title: "In prison"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,24"
           to: "00:00:03,26"
-          text: "I was in prison as well. There was a raid."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:03,26"
           to: "00:00:12,03"
-          text: "Somebody had said – that was at the end of October – we were having contacts."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:12,03"
@@ -23,62 +23,62 @@ de:
           s: 4
           from: "00:00:13,28"
           to: "00:00:22,21"
-          text: "Once there was one, she was imprisoned as well, she always said:"
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:22,21"
           to: "00:00:26,12"
-          text: "“If something happens, would you want to come with us?”"
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:26,12"
           to: "00:00:30,09"
-          text: "So I asked: “Well, what’s going on? Yes.” “You will see.“"
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:30,09"
           to: "00:00:34,12"
-          text: "Something was given away, allegedly."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:34,12"
           to: "00:00:50,00"
-          text: "There were two supervisors that had connection to the communists."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:50,00"
           to: "00:00:56,09"
-          text: "Two or three busses were supposed to come and pick us up later on."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:56,09"
           to: "00:01:04,01"
-          text: "That “game” was given away, and these two were taken"
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:04,01"
           to: "00:01:12,03"
-          text: "to the prison in ‘Völkermarkter Str.’ together with some others."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:12,03"
           to: "00:01:19,04"
-          text: "They didn’t search us, but everything else."
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:19,04"
           to: "00:01:25,10"
-          text: "All the straw mattresses were torn open and everything searched."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:25,10"
           to: "00:01:32,09"
-          text: "Whatever we had with us was all piled up in a heap in the yard."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:32,09"
           to: "00:01:34,10"
-          text: "They did not find anything."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:34,10"
@@ -88,12 +88,12 @@ de:
           s: 17
           from: "00:01:36,08"
           to: "00:01:39,28"
-          text: "But as they were looking for evidence"
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:39,28"
           to: "00:01:46,07"
-          text: "we had to line up in the corridor, 1 meter apart from each other, facing the wall."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:46,07"
@@ -103,17 +103,17 @@ de:
           s: 20
           from: "00:01:47,17"
           to: "00:01:50,07"
-          text: "Then we had to go into the cell."
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:50,07"
           to: "00:01:58,10"
-          text: "There we had to get fully undressed and they searched us whether we had anything hidden."
+          text: ~
         sequence-22:
           s: 22
           from: "00:01:58,10"
           to: "00:02:03,05"
-          text: "I don’t know where you can hide anything if you don’t wear anything."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:03,05"
@@ -123,7 +123,7 @@ de:
           s: 24
           from: "00:02:04,26"
           to: "00:02:12,13"
-          text: "That was done by the Gestapo and it was another bitter experience."
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:12,13"
@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:02:13,28"
           to: "00:02:18,29"
-          text: "You were not even a human being any more, not even as good as a fly."
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:18,29"
@@ -143,4 +143,4 @@ de:
           s: 28
           from: "00:02:20,15"
           to: "00:02:29,20"
-          text: "Even them you let go occasionally so they can fly away."
+          text: ~

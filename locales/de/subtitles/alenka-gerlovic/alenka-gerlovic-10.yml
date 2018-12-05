@@ -13,7 +13,7 @@ de:
           s: 2
           from: "00:00:13,10"
           to: "00:00:20,25"
-          text: "Vito was an extremely talented painter, despite not being schooled."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:20,25"
@@ -73,7 +73,7 @@ de:
           s: 14
           from: "00:01:52,25"
           to: "00:02:06,20"
-          text: "There were no antibiotics at the time or any such medicine."
+          text: ~
         sequence-15:
           s: 15
           from: "00:02:06,20"
@@ -103,12 +103,12 @@ de:
           s: 20
           from: "00:03:06,03"
           to: "00:03:15,18"
-          text: "Once we had withdrawn from Bela krajina and gone to Gorski Kotar,"
+          text: ~
         sequence-21:
           s: 21
           from: "00:03:15,18"
           to: "00:03:25,08"
-          text: "(the entire active militia was heading towards Trieste), we, the reserve units, followed along behind."
+          text: ~
         sequence-22:
           s: 22
           from: "00:03:25,08"

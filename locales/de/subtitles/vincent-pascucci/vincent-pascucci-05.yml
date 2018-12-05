@@ -278,12 +278,12 @@ de:
           s: 55
           from: "00:07:18,08"
           to: "00:07:28,25"
-          text: "We had a certain amount of support in the population. In the beginning there was mostly fear."
+          text: ~
         sequence-56:
           s: 56
           from: "00:07:28,25"
           to: "00:07:37,10"
-          text: "When we handed out leaflets, the people would scatter. Later on things changed."
+          text: ~
         sequence-57:
           s: 57
           from: "00:07:37,10"
