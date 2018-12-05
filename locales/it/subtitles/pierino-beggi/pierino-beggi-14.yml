@@ -2,83 +2,83 @@ it:
   pierino-beggi:
     chapter-14:
       c: 14
-      title: "Liberation of Reggio Emilia"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:07,18"
-          text: "We went on the roof to see who was shooting from the Church of Madonna della Ghiara."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:07,18"
           to: "00:00:15,03"
-          text: "We couldn’t see anything from there, so we went back downstairs and headed for the bell-tower."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:15,03"
           to: "00:00:20,07"
-          text: "We found the bell-ringer and asked him how we could climb up."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:20,07"
           to: "00:00:24,24"
-          text: "He showed us the way and told us to proceed slowly."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:24,24"
           to: "00:00:35,05"
-          text: "As we got on the roof there were three men of the Black Brigade with a 37 mm Breda machine gun."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:35,05"
           to: "00:00:40,28"
-          text: "I told them not to move and raise their hands."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:40,28"
           to: "00:00:45,10"
-          text: "They obeyed as they saw the machine gun pointed at them."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:45,10"
           to: "00:00:53,24"
-          text: "They told us not to kill them. They’d show us where the others were. “Alright”, we said, “where are they?”"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:53,24"
           to: "00:01:06,24"
-          text: "They told us there was a platoon of around thirty of them hiding in the subterranean vaults of “La Luna”, a spot near Porta Castello."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:06,24"
           to: "00:01:13,12"
-          text: "As we got back down, however, there was a surprise."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:13,12"
           to: "00:01:24,21"
-          text: "A jeep with a big white star printed on the hood was parked by the church. I asked what was going on."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:24,21"
           to: "00:01:28,13"
-          text: "The driver got out of the jeep"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:28,13"
           to: "00:01:36,16"
-          text: "and told me that the commander wanted to know who those three men with their hands up were."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:36,16"
           to: "00:01:45,28"
-          text: "I told them that they were the ones who were shooting from the roof."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:45,28"
           to: "00:01:57,29"
-          text: "The major didn’t speak Italian, so the driver had to translate for him."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:57,29"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:02:00,03"
           to: "00:02:06,11"
-          text: "He got out of the car too, pointed the Thompson gun"
+          text: ~
         sequence-18:
           s: 18
           from: "00:02:06,11"
@@ -98,29 +98,29 @@ it:
           s: 19
           from: "00:02:09,15"
           to: "00:02:16,11"
-          text: "and fired a spray of bullets."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:16,11"
           to: "00:02:25,21"
-          text: "I had to take a piece of liver off my jacket afterwards, because he had shot them at point-blank range."
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:25,21"
           to: "00:02:30,25"
-          text: "I asked him why he killed them, since they had surrendered and were our prisoners."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:30,25"
           to: "00:02:35,13"
-          text: "But the driver called me over and showed me there were three holes in their jeep."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:35,13"
           to: "00:02:44,08"
-          text: "We were free, but there were too many things we had to sort out and too many had died."
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:44,08"
           to: "00:02:58,00"
-          text: "It wasn’t a happy day. Fiorello died right next to me. We had been friends since we were kids."
+          text: ~

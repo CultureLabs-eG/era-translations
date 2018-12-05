@@ -2,38 +2,38 @@ it:
   stefania-dambrowska:
     chapter-9:
       c: 9
-      title: "Hiding a Jewish girl: Sonia; Gestapo’s raid"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:05,22"
-          text: "One beautiful day Jadzia came to me and said:"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:05,22"
           to: "00:00:14,10"
-          text: "Nitson is asking if you would mind taking his niece to your place, Sonia,"
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:14,10"
           to: "00:00:23,25"
-          text: "as they live in the forest in the shelter and Sonia cannot stand this place any more,"
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:23,25"
           to: "00:00:32,15"
-          text: "she gets angry and would prefer to live among people."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:32,15"
           to: "00:00:40,02"
-          text: "Sonia is fifteen years old, is a daughter of a rich sales man in the town called Niemenczyn"
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:40,02"
           to: "00:00:46,08"
-          text: "and his Mr. Rubin Nitson`s sister he also was a rich sales man,"
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:46,08"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:48,06"
           to: "00:00:51,19"
-          text: "she could not speak Polish very well."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:51,19"
@@ -53,12 +53,12 @@ it:
           s: 10
           from: "00:00:54,00"
           to: "00:00:56,23"
-          text: "Does she have papers? No, she does not."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:56,23"
           to: "00:01:04,15"
-          text: "They managed somehow to leave the ghetto in Niemenczyn, they were hiding a few kilometers from us next to Drzwiniany."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:04,15"
@@ -68,12 +68,12 @@ it:
           s: 13
           from: "00:01:07,17"
           to: "00:01:10,05"
-          text: "But what was Sonia is going to do?"
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:10,05"
           to: "00:01:13,15"
-          text: "Sonia and Janusz could mind the cows."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:13,15"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:14,21"
           to: "00:01:23,01"
-          text: "Janusz, he was my mum`s cousin`s son, who was sent by his aunt in summer to Orwidów"
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:23,01"
           to: "00:01:30,15"
-          text: "because she also was worring about this boy, that maybe he could start doing something dangerous in Vilnius."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:30,15"
@@ -98,27 +98,27 @@ it:
           s: 19
           from: "00:01:31,20"
           to: "00:01:39,23"
-          text: "Sonia and Janusz will wake up early in the morning and hike to the forests to those grazing lands"
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:39,23"
           to: "00:01:43,05"
-          text: "and come back late in the evening."
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:43,05"
           to: "00:01:53,27"
-          text: "It doesn`t matter how hot it is going to be, but cows cannot be brought home at noon so Sonia needs to hide far away."
+          text: ~
         sequence-22:
           s: 22
           from: "00:01:53,27"
           to: "00:01:57,18"
-          text: "And everything was ok for two, three weeks."
+          text: ~
         sequence-23:
           s: 23
           from: "00:01:57,18"
           to: "00:02:12,02"
-          text: "Next to the entry to Orwidów there was a cross."
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:12,02"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:13,01"
           to: "00:02:16,27"
-          text: "Everyone who came to Orwidów had to pass this cross."
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:16,27"
@@ -138,17 +138,17 @@ it:
           s: 27
           from: "00:02:17,28"
           to: "00:02:33,01"
-          text: "Natka wanted the kids, Marysia and Sonia, to decorate the cross for the May religious holiday."
+          text: ~
         sequence-28:
           s: 28
           from: "00:02:33,01"
           to: "00:02:45,11"
-          text: "It was not the best idea, but it was done like that – Marysia even did not know what her religion was and what her nationality was."
+          text: ~
         sequence-29:
           s: 29
           from: "00:02:45,11"
           to: "00:02:49,08"
-          text: "Marysia was from Mrs. Melania."
+          text: ~
         sequence-30:
           s: 30
           from: "00:02:49,08"
@@ -158,27 +158,27 @@ it:
           s: 31
           from: "00:02:50,05"
           to: "00:03:04,18"
-          text: "One day, it was a very hot day in June, I went together with Stefan to the mill in Hamernia."
+          text: ~
         sequence-32:
           s: 32
           from: "00:03:04,18"
           to: "00:03:14,03"
-          text: "We spent a lot of time there as it took long to grind the grains."
+          text: ~
         sequence-33:
           s: 33
           from: "00:03:14,03"
           to: "00:03:19,19"
-          text: "We came back home and everyone was in a horrible mood."
+          text: ~
         sequence-34:
           s: 34
           from: "00:03:19,19"
           to: "00:03:21,01"
-          text: "What happened?"
+          text: ~
         sequence-35:
           s: 35
           from: "00:03:21,01"
           to: "00:03:27,10"
-          text: "During our absence we had a visit of Lithuanians and Germans"
+          text: ~
         sequence-36:
           s: 36
           from: "00:03:27,10"
@@ -188,17 +188,17 @@ it:
           s: 37
           from: "00:03:29,02"
           to: "00:03:36,01"
-          text: "and they did not search through the whole house but questioned all residents."
+          text: ~
         sequence-38:
           s: 38
           from: "00:03:36,01"
           to: "00:03:43,20"
-          text: "They divided all of them into two groups by the oaks."
+          text: ~
         sequence-39:
           s: 39
           from: "00:03:43,20"
           to: "00:03:49,07"
-          text: "So by the one oak the adults were, and by the other one the children."
+          text: ~
         sequence-40:
           s: 40
           from: "00:03:49,07"
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:50,26"
           to: "00:04:00,11"
-          text: "The house was twenty, thirty meters from the embankment, behind that was a river."
+          text: ~
         sequence-42:
           s: 42
           from: "00:04:00,11"
@@ -218,7 +218,7 @@ it:
           s: 43
           from: "00:04:01,19"
           to: "00:04:10,18"
-          text: "At the bank of the river there were four oaks, in front of the house two and further the next two."
+          text: ~
         sequence-44:
           s: 44
           from: "00:04:10,18"
@@ -228,17 +228,17 @@ it:
           s: 45
           from: "00:04:11,15"
           to: "00:04:17,02"
-          text: "And we used to have benches by those oaks. It was a wonderful place"
+          text: ~
         sequence-46:
           s: 46
           from: "00:04:17,02"
           to: "00:04:21,05"
-          text: "and those Lithuanians and Germans divided them into two groups."
+          text: ~
         sequence-47:
           s: 47
           from: "00:04:21,05"
           to: "00:04:24,28"
-          text: "All adults were staying by the one oak, and the children by the second one."
+          text: ~
         sequence-48:
           s: 48
           from: "00:04:24,28"
@@ -248,22 +248,22 @@ it:
           s: 49
           from: "00:04:26,08"
           to: "00:04:37,18"
-          text: "Sonia was also there as it was a very hot day and the cows did not want to stay at the grazing lands so were taken home."
+          text: ~
         sequence-50:
           s: 50
           from: "00:04:37,18"
           to: "00:04:48,27"
-          text: "Natka who was very caring and hospitable invited both kids to the dining room,"
+          text: ~
         sequence-51:
           s: 51
           from: "00:04:48,27"
           to: "00:05:02,23"
-          text: "took them by the table, gave them bread, milk from fridge, and while children were eating,"
+          text: ~
         sequence-52:
           s: 52
           from: "00:05:02,23"
           to: "00:05:06,12"
-          text: "the Lithuanians and Germans came."
+          text: ~
         sequence-53:
           s: 53
           from: "00:05:06,12"
@@ -273,7 +273,7 @@ it:
           s: 54
           from: "00:05:07,19"
           to: "00:05:12,18"
-          text: "All of them, except Sonia, had documents"
+          text: ~
         sequence-55:
           s: 55
           from: "00:05:12,18"
@@ -283,17 +283,17 @@ it:
           s: 56
           from: "00:05:14,17"
           to: "00:05:22,02"
-          text: "and Sonia was scared. She recognized one Lithuanian who used to come to her parents` shop"
+          text: ~
         sequence-57:
           s: 57
           from: "00:05:22,02"
           to: "00:05:25,13"
-          text: "to do shopping and look after her."
+          text: ~
         sequence-58:
           s: 58
           from: "00:05:25,13"
           to: "00:05:29,29"
-          text: "Did he recognize her? We do not know."
+          text: ~
         sequence-59:
           s: 59
           from: "00:05:29,29"
@@ -303,22 +303,22 @@ it:
           s: 60
           from: "00:05:30,25"
           to: "00:05:33,21"
-          text: "Nobody knows that but Sonia was scared"
+          text: ~
         sequence-61:
           s: 61
           from: "00:05:33,21"
           to: "00:05:42,15"
-          text: "and in the evening Jadzia Pluchocianka came to me,"
+          text: ~
         sequence-62:
           s: 62
           from: "00:05:42,15"
           to: "00:05:50,02"
-          text: "because I think that night Sonia was staying at Pluchocianka´s, and said that Sonia begs to take her back to her uncle,"
+          text: ~
         sequence-63:
           s: 63
           from: "00:05:50,02"
           to: "00:05:55,06"
-          text: "she prefers sitting in that shelter in the forests to staying in this nice accommodation."
+          text: ~
         sequence-64:
           s: 64
           from: "00:05:55,06"
@@ -328,7 +328,7 @@ it:
           s: 65
           from: "00:05:56,00"
           to: "00:05:58,16"
-          text: "We had to take Sonia back to her uncle."
+          text: ~
         sequence-66:
           s: 66
           from: "00:05:58,16"
@@ -338,9 +338,9 @@ it:
           s: 67
           from: "00:06:01,01"
           to: "00:06:08,16"
-          text: "They survived, and after the Russian army came they could leave the forest."
+          text: ~
         sequence-68:
           s: 68
           from: "00:06:08,16"
           to: "00:06:17,01"
-          text: "Mr. Nitson wrote a card to me saying he wants to thank me, that he, his brother and Sonia were alive."
+          text: ~

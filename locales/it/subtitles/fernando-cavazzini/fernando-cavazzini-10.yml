@@ -2,43 +2,43 @@ it:
   fernando-cavazzini:
     chapter-10:
       c: 10
-      title: "Training a group of sappers"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:04,20"
-          text: "The ones I was working with weren't trained."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:04,20"
           to: "00:00:11,02"
-          text: "Once, they were on guard duty and an accidental burst of fire occurred."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:11,02"
           to: "00:00:14,04"
-          text: "They fled, leaving me alone."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:14,04"
           to: "00:00:20,13"
-          text: "So I told myself I had to form a group of sappers under my command."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:20,13"
           to: "00:00:24,21"
-          text: "I went to put forward my idea at the headquarters of the 26th Brigade, and I told Luigi:"
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:24,21"
           to: "00:00:29,10"
-          text: "“Listen, I want to set up a team of sappers, I can train them”."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:29,10"
           to: "00:00:32,00"
-          text: "We would have been under direct orders of the Brigade."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:32,00"
@@ -48,24 +48,24 @@ it:
           s: 9
           from: "00:00:32,19"
           to: "00:00:38,02"
-          text: "The headquarters agreed, so I trained this group."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:38,02"
           to: "00:00:46,20"
-          text: "We were able to take care of three or four actions at a time in a group of 12 men."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:46,20"
           to: "00:00:51,11"
-          text: "At the same time we reduced the risk, unfortunately some of us got killed at times."
+          text: ~
         sequence-12:
           s: 12
           from: "00:00:51,11"
           to: "00:00:54,04"
-          text: "If I was killed there would have been nobody left."
+          text: ~
         sequence-13:
           s: 13
           from: "00:00:54,04"
           to: "00:00:56,20"
-          text: "We did the course and it was successful."
+          text: ~
