@@ -2,13 +2,13 @@ fr:
   pierino-beggi:
     chapter-4:
       c: 4
-      title: "Action for exchange of prisoners"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,11"
           to: "00:00:07,14"
-          text: "Another of our great engagements was capturing Major Battaglia"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:07,14"
@@ -18,22 +18,22 @@ fr:
           s: 3
           from: "00:00:09,10"
           to: "00:00:14,08"
-          text: "at Villa Bresci in San Bartolomeo."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:14,08"
           to: "00:00:26,10"
-          text: "He was a young commander of the GNR. He used to sleep there, having seized the villa."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:26,10"
           to: "00:00:34,26"
-          text: "They had captured Muso during a mop-up in San Polo. We had to consider how we could save him."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:34,26"
           to: "00:00:46,25"
-          text: "Some Black Brigades units had captured around twenty young men to send to Germany,"
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:46,25"
@@ -43,12 +43,12 @@ fr:
           s: 8
           from: "00:00:50,16"
           to: "00:01:00,25"
-          text: "while they sent Muso to the San Tommaso prison after they found a gun on him."
+          text: ~
         sequence-9:
           s: 9
           from: "00:01:00,25"
           to: "00:01:08,07"
-          text: "He was in prison waiting to be executed, together with the Cervi brothers."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:08,07"
@@ -58,32 +58,32 @@ fr:
           s: 11
           from: "00:01:10,07"
           to: "00:01:17,03"
-          text: "We caught Major Battaglia and took him to central headquarters in the mountains."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:17,03"
           to: "00:01:23,25"
-          text: "All the different parties were represented at the central headquarters:"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:23,25"
           to: "00:01:31,13"
-          text: "Professor Marconi, together with Eros, Cocconi and everyone else."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:31,13"
           to: "00:01:55,07"
-          text: "We sent a dispatch to the Podestà Rabotti, offering to swap our prisoner Major Battaglia with Muso."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:55,07"
           to: "00:02:02,23"
-          text: "The German headquarters however didn’t consent to the exchange."
+          text: ~
         sequence-16:
           s: 16
           from: "00:02:02,23"
           to: "00:02:10,17"
-          text: "They replied that the man they had caught with a gun had to be shot."
+          text: ~
         sequence-17:
           s: 17
           from: "00:02:10,17"
@@ -93,12 +93,12 @@ fr:
           s: 18
           from: "00:02:12,04"
           to: "00:02:19,11"
-          text: "We got together to discuss the situation. Since they refused to accept the exchange,"
+          text: ~
         sequence-19:
           s: 19
           from: "00:02:19,11"
           to: "00:02:26,10"
-          text: "we had to consider capturing a German soldier."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:26,10"
@@ -108,12 +108,12 @@ fr:
           s: 21
           from: "00:02:27,00"
           to: "00:02:33,09"
-          text: "Giorgio, the commander of the Cavriago GAP,"
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:33,09"
           to: "00:02:45,27"
-          text: "told us about a SS captain who used to ride his motorbike in the evening to visit a woman in Cavriago."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:45,27"
@@ -123,52 +123,52 @@ fr:
           s: 24
           from: "00:02:52,04"
           to: "00:02:58,02"
-          text: "I told the others we had to catch him."
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:58,02"
           to: "00:03:03,09"
-          text: "We hid behind a bush during the day,"
+          text: ~
         sequence-26:
           s: 26
           from: "00:03:03,09"
           to: "00:03:09,17"
-          text: "in order not to be noticed by the farmers who worked nearby."
+          text: ~
         sequence-27:
           s: 27
           from: "00:03:09,17"
           to: "00:03:15,18"
-          text: "When the motorbike approached we jumped in the middle of the street"
+          text: ~
         sequence-28:
           s: 28
           from: "00:03:15,18"
           to: "00:03:25,29"
-          text: "with our sub-machine gun pointed at him. He stopped the bike immediately and tried to take his gun."
+          text: ~
         sequence-29:
           s: 29
           from: "00:03:25,29"
           to: "00:03:31,22"
-          text: "He managed to pull it out, but Fiorello hit him with the sub-machine gun."
+          text: ~
         sequence-30:
           s: 30
           from: "00:03:31,22"
           to: "00:03:43,12"
-          text: "Fiorello then left with the motorbike, while we put the captain in an icehouse."
+          text: ~
         sequence-31:
           s: 31
           from: "00:03:43,12"
           to: "00:03:53,12"
-          text: "At the time we had these ice-houses: people used to make holes in the ground,"
+          text: ~
         sequence-32:
           s: 32
           from: "00:03:53,12"
           to: "00:04:07,04"
-          text: "pave them and put snow in them, to use the ice in the cheese factories."
+          text: ~
         sequence-33:
           s: 33
           from: "00:04:07,04"
           to: "00:04:18,02"
-          text: "At night we headed for the mountains with this blindfolded SS captain."
+          text: ~
         sequence-34:
           s: 34
           from: "00:04:18,02"
@@ -178,9 +178,9 @@ fr:
           s: 35
           from: "00:04:20,19"
           to: "00:04:28,17"
-          text: "We sent a dispatch to the Podestà again, telling him to inform the German headquarters"
+          text: ~
         sequence-36:
           s: 36
           from: "00:04:28,17"
           to: "00:04:37,25"
-          text: "that we had captured captain “whatever his name was”. On the same day the prisoner exchange was done."
+          text: ~

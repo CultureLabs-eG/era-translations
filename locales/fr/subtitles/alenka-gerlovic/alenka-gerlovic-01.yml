@@ -2,13 +2,13 @@ fr:
   alenka-gerlovic:
     chapter-1:
       c: 1
-      title: Introduction
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,09"
           to: "00:00:08,16"
-          text: "For many years I also taught drawing at various schools,"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:08,16"
@@ -18,7 +18,7 @@ fr:
           s: 3
           from: "00:00:10,10"
           to: "00:00:21,13"
-          text: "but now in my old age I have dedicated myself entirely to my primary vocation – painting."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:21,13"
@@ -28,7 +28,7 @@ fr:
           s: 5
           from: "00:00:25,06"
           to: "00:00:35,08"
-          text: "I’m 87 years old. My generation experienced WWII."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:35,08"
@@ -38,7 +38,7 @@ fr:
           s: 7
           from: "00:00:42,22"
           to: "00:00:52,28"
-          text: "Experienced massive changes during the war and then after the war as well."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:52,28"
@@ -48,7 +48,7 @@ fr:
           s: 9
           from: "00:00:55,23"
           to: "00:01:17,21"
-          text: "I must say that we imagined a different world after WWII. A different world would arise than the one we live in now."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:17,21"
@@ -58,7 +58,7 @@ fr:
           s: 11
           from: "00:01:20,08"
           to: "00:01:29,06"
-          text: "But one just has to adjust one’s expectations to what is going on in society."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:29,06"
@@ -68,12 +68,12 @@ fr:
           s: 13
           from: "00:01:30,17"
           to: "00:01:41,26"
-          text: "At the time I was very active in Ljubljana and a lot was going on in Ljubljana."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:41,26"
           to: "00:01:48,06"
-          text: "The walls were plastered with lists of hostages"
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:48,06"
@@ -83,17 +83,17 @@ fr:
           s: 16
           from: "00:01:49,19"
           to: "00:02:03,14"
-          text: "and practically every day you would be informed of something horrible."
+          text: ~
         sequence-17:
           s: 17
           from: "00:02:03,14"
           to: "00:02:11,19"
-          text: "It is difficult to say whether one could even feel in the mood to create some great piece of art."
+          text: ~
         sequence-18:
           s: 18
           from: "00:02:11,19"
           to: "00:02:17,02"
-          text: "Nonetheless, I would, just to remain a painter –"
+          text: ~
         sequence-19:
           s: 19
           from: "00:02:17,02"
@@ -103,9 +103,9 @@ fr:
           s: 20
           from: "00:02:20,17"
           to: "00:02:32,06"
-          text: "usually doing things similar to that in the program at the Zagreb Academy – just enough to stay in condition."
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:32,06"
           to: "00:02:46,05"
-          text: "It was later, when I joined the partisans that I could finally make use of my painting skills."
+          text: ~

@@ -2,18 +2,18 @@ fr:
   lucien-ducastel:
     chapter-9:
       c: 9
-      title: "Distinguishing between Germans and Nazis"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,15"
           to: "00:00:07,19"
-          text: "We tried to go undercover as much as possible during the German occupation,"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:07,19"
           to: "00:00:14,06"
-          text: "even though I was not totally undercover. I still lived with my parents."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:14,06"
@@ -23,12 +23,12 @@ fr:
           s: 4
           from: "00:00:15,26"
           to: "00:00:21,04"
-          text: "We thought about how we could distribute our leaflets."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:21,04"
           to: "00:00:31,03"
-          text: "Our concern was the French population, not the Germans. It was necessary to fight against the occupiers."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:31,03"
@@ -38,7 +38,7 @@ fr:
           s: 7
           from: "00:00:31,29"
           to: "00:00:41,21"
-          text: "In the camps we met civilized, working Germans."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:41,21"
@@ -48,17 +48,17 @@ fr:
           s: 9
           from: "00:00:45,11"
           to: "00:00:50,05"
-          text: "Sometimes that led to discussions between us."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:50,05"
           to: "00:01:00,00"
-          text: "I always defended the idea that these people were not necessarily Nazis."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:00,00"
           to: "00:01:07,19"
-          text: "As French people worked, they worked here and that one had to respect."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:07,19"
@@ -68,12 +68,12 @@ fr:
           s: 13
           from: "00:01:09,27"
           to: "00:01:16,08"
-          text: "Then it was their responsibility. They knew who we were,"
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:16,08"
           to: "00:01:32,08"
-          text: "in our striped uniforms and some had a friendly word for us, in German, which we had to learn."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:32,08"
@@ -83,12 +83,12 @@ fr:
           s: 16
           from: "00:01:34,07"
           to: "00:01:45,24"
-          text: "I always said that one should not mix up the SS and the Germans we met at work."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:45,24"
           to: "00:01:55,10"
-          text: "The SS made a choice. They opted for the regime, the system."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:55,10"
@@ -98,29 +98,29 @@ fr:
           s: 19
           from: "00:02:00,05"
           to: "00:02:10,06"
-          text: "Three, four years after coming back I was talking to some friends who said:"
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:10,06"
           to: "00:02:20,08"
-          text: "“We are going to Germany, to meet some people. But of course we won’t ask you to come along.”"
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:20,08"
           to: "00:02:31,12"
-          text: "I said: “Why won’t you ask me to go with you? Are you afraid that I will say that all Germans are fascists?"
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:31,12"
           to: "00:02:44,19"
-          text: "Not way. If you want me to, I will come along. I promise I will behave correctly towards the Germans we meet."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:44,19"
           to: "00:02:59,02"
-          text: "That won’t stop me from saying what happened in the camps."
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:59,02"
           to: "00:03:05,22"
-          text: "But I will not say THE Germans.”"
+          text: ~

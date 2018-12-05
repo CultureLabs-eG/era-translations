@@ -2,13 +2,13 @@ fr:
   erwin-schulz:
     chapter-11:
       c: 11
-      title: "Military service, murder of a bible scholar"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,27"
           to: "00:00:05,24"
-          text: "I had already been mustered in Aschendorfer Moor."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:05,24"
@@ -18,12 +18,12 @@ fr:
           s: 3
           from: "00:00:06,23"
           to: "00:00:16,22"
-          text: "There we got an army exclusion certificate; we were unworthy for the army."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:16,22"
           to: "00:00:24,12"
-          text: "Convicts and political prisoners were all unworthy for the army."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:24,12"
@@ -33,7 +33,7 @@ fr:
           s: 6
           from: "00:00:31,29"
           to: "00:00:38,28"
-          text: "In 1941/42 we were mustered again,"
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:38,28"
@@ -43,7 +43,7 @@ fr:
           s: 8
           from: "00:00:41,04"
           to: "00:00:50,28"
-          text: "due to the massive losses at the eastern front."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:50,28"
@@ -53,7 +53,7 @@ fr:
           s: 10
           from: "00:00:52,08"
           to: "00:00:57,00"
-          text: "They needed human material now."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:57,00"
@@ -63,7 +63,7 @@ fr:
           s: 12
           from: "00:00:58,24"
           to: "00:01:08,01"
-          text: "There may have been a decree of the ‘Fuehrer’– so we were called up."
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:08,01"
@@ -73,17 +73,17 @@ fr:
           s: 14
           from: "00:01:09,22"
           to: "00:01:16,17"
-          text: "Erwin, a collegue also working in my company,"
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:16,17"
           to: "00:01:23,27"
-          text: "built climbing irons. He was a toolmaker and able to do things like that."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:23,27"
           to: "00:01:28,26"
-          text: "I organized a rope, and we made this trip."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:28,26"
@@ -93,12 +93,12 @@ fr:
           s: 18
           from: "00:01:31,06"
           to: "00:01:37,00"
-          text: "It was a great experience; many had again and again said:"
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:37,00"
           to: "00:01:42,14"
-          text: "Erwin, go ahead, do that when the war has ended. I said: What one has, one has."
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:42,14"
@@ -108,7 +108,7 @@ fr:
           s: 21
           from: "00:01:43,17"
           to: "00:01:50,15"
-          text: "I wouldn't have had another possibility to make such a mountain trip on the Großglockner mountain."
+          text: ~
         sequence-22:
           s: 22
           from: "00:01:50,15"
@@ -118,12 +118,12 @@ fr:
           s: 23
           from: "00:01:52,21"
           to: "00:01:56,16"
-          text: "But I don't want to go on talking of this mountain trip..."
+          text: ~
         sequence-24:
           s: 24
           from: "00:01:56,16"
           to: "00:02:02,09"
-          text: "But the conscription..."
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:02,09"
@@ -133,12 +133,12 @@ fr:
           s: 26
           from: "00:02:10,04"
           to: "00:02:17,05"
-          text: "We had to report, somewhere here in Kreuzberg."
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:17,05"
           to: "00:02:25,15"
-          text: "Another man and I were deferred."
+          text: ~
         sequence-28:
           s: 28
           from: "00:02:25,15"
@@ -148,12 +148,12 @@ fr:
           s: 29
           from: "00:02:26,29"
           to: "00:02:34,15"
-          text: "We got the order to take the train to Heuberg the next day or the day after."
+          text: ~
         sequence-30:
           s: 30
           from: "00:02:34,15"
           to: "00:02:42,08"
-          text: "We just were two overdue ones, spare ones, who went there on that day."
+          text: ~
         sequence-31:
           s: 31
           from: "00:02:42,08"
@@ -163,7 +163,7 @@ fr:
           s: 32
           from: "00:02:44,08"
           to: "00:02:51,22"
-          text: "I got to know Otto Linke’s wife then, as well."
+          text: ~
         sequence-33:
           s: 33
           from: "00:02:51,22"
@@ -173,12 +173,12 @@ fr:
           s: 34
           from: "00:02:53,20"
           to: "00:03:01,02"
-          text: "Before he had been in the SAP (socialistic labour party), and so we quickly got in contact with each other."
+          text: ~
         sequence-35:
           s: 35
           from: "00:03:01,02"
           to: "00:03:09,10"
-          text: "So we went to Heuberg, that training camp in Wuerttemberg."
+          text: ~
         sequence-36:
           s: 36
           from: "00:03:09,10"
@@ -188,7 +188,7 @@ fr:
           s: 37
           from: "00:03:17,10"
           to: "00:03:25,20"
-          text: "Something else that you can never really forget:"
+          text: ~
         sequence-38:
           s: 38
           from: "00:03:25,20"
@@ -198,7 +198,7 @@ fr:
           s: 39
           from: "00:03:28,02"
           to: "00:03:39,10"
-          text: "The crew mentor was a bible student."
+          text: ~
         sequence-40:
           s: 40
           from: "00:03:39,10"
@@ -208,7 +208,7 @@ fr:
           s: 41
           from: "00:03:40,11"
           to: "00:03:44,06"
-          text: "He refused to take a weapon."
+          text: ~
         sequence-42:
           s: 42
           from: "00:03:44,06"
@@ -218,17 +218,17 @@ fr:
           s: 43
           from: "00:03:45,29"
           to: "00:03:55,14"
-          text: "One evening you sat together with him, during the night he was sentenced to death."
+          text: ~
         sequence-44:
           s: 44
           from: "00:03:55,14"
           to: "00:04:00,06"
-          text: "The next day, the company had to muster"
+          text: ~
         sequence-45:
           s: 45
           from: "00:04:00,06"
           to: "00:04:10,02"
-          text: "and then watch, as he was murdered at the stake."
+          text: ~
         sequence-46:
           s: 46
           from: "00:04:10,02"
@@ -238,9 +238,9 @@ fr:
           s: 47
           from: "00:04:11,14"
           to: "00:04:18,19"
-          text: "“That will happen to you, as well,” said the chief of the company"
+          text: ~
         sequence-48:
           s: 48
           from: "00:04:18,19"
           to: "00:04:28,00"
-          text: "“if you don’t do as you are told.”"
+          text: ~

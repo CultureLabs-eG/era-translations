@@ -2,13 +2,13 @@ fr:
   romana-verdel:
     chapter-9:
       c: 9
-      title: "Hate against Germans for long time"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:04,13"
-          text: "I did have problems because of that."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:04,13"
@@ -18,7 +18,7 @@ fr:
           s: 3
           from: "00:00:06,22"
           to: "00:00:12,03"
-          text: "As long as I was healthy, nothing; but when I was ill,"
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:12,03"
@@ -28,7 +28,7 @@ fr:
           s: 5
           from: "00:00:13,25"
           to: "00:00:23,15"
-          text: "I started having delusions, bad feelings and fears about people."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:23,15"
@@ -38,7 +38,7 @@ fr:
           s: 7
           from: "00:00:26,16"
           to: "00:00:32,08"
-          text: "When I saw somebody in uniform coming, I used to hide."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:32,08"
@@ -48,12 +48,12 @@ fr:
           s: 9
           from: "00:00:34,12"
           to: "00:00:38,21"
-          text: "The Germans were my deadly enemies for a long time."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:38,21"
           to: "00:00:44,15"
-          text: "It took many years before I had it worked out"
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:44,15"
@@ -63,9 +63,9 @@ fr:
           s: 12
           from: "00:00:45,26"
           to: "00:00:51,23"
-          text: "that it weren’t the Germans as such – it were just the fascists."
+          text: ~
         sequence-13:
           s: 13
           from: "00:00:51,23"
           to: "00:00:58,12"
-          text: "But not all are German; they can be from anywhere, in other countries."
+          text: ~

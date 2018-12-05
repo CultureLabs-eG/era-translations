@@ -2,13 +2,13 @@ fr:
   erwin-schulz:
     chapter-2:
       c: 2
-      title: "Apprenticeship, Inflation"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,21"
           to: "00:00:05,13"
-          text: "I can’t remember when my father came back home."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:05,13"
@@ -18,12 +18,12 @@ fr:
           s: 3
           from: "00:00:07,02"
           to: "00:00:16,09"
-          text: "When soldiers, who were demobbed, came through Tempelhof,"
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:16,09"
           to: "00:00:22,15"
-          text: "I always used to run there but I never saw my father with them."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:22,15"
@@ -33,7 +33,7 @@ fr:
           s: 6
           from: "00:00:23,27"
           to: "00:00:33,27"
-          text: "One thing that just belongs to this time: 1923, the inflation."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:33,27"
@@ -43,7 +43,7 @@ fr:
           s: 8
           from: "00:00:35,05"
           to: "00:00:43,23"
-          text: "My sister used to stand in front of the baker’s shop, me at the butcher’s"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:43,23"
@@ -53,17 +53,17 @@ fr:
           s: 10
           from: "00:00:44,27"
           to: "00:00:55,23"
-          text: "and we used to wait until my father came back from work and he had a backpack full of money."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:55,23"
           to: "00:01:08,25"
-          text: "Then he used to give us bundles of it and with them we paid for the bread or a 250 g of sausage or a 500 g of meat."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:08,25"
           to: "00:01:14,27"
-          text: "The money was worthless the next day."
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:14,27"
@@ -73,22 +73,22 @@ fr:
           s: 14
           from: "00:01:15,24"
           to: "00:01:25,14"
-          text: "During this time many sank into poverty."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:25,14"
           to: "00:01:32,18"
-          text: "A lot of people had paid war bonds"
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:32,18"
           to: "00:01:37,08"
-          text: "and they became invalid – were not worth anything."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:37,08"
           to: "00:01:42,15"
-          text: "So, whoever had no material goods, lost everything."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:42,15"
@@ -98,7 +98,7 @@ fr:
           s: 19
           from: "00:01:43,22"
           to: "00:01:58,07"
-          text: "1927 I left school."
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:58,07"
@@ -108,7 +108,7 @@ fr:
           s: 21
           from: "00:02:03,14"
           to: "00:02:09,06"
-          text: "Then I tried for an apprenticeship."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:09,06"
@@ -118,7 +118,7 @@ fr:
           s: 23
           from: "00:02:10,17"
           to: "00:02:19,05"
-          text: "I didn’t get one, although I had good school reports."
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:19,05"
@@ -128,7 +128,7 @@ fr:
           s: 25
           from: "00:02:20,05"
           to: "00:02:28,24"
-          text: "It was in this time, as well,"
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:28,24"
@@ -138,12 +138,12 @@ fr:
           s: 27
           from: "00:02:30,03"
           to: "00:02:33,24"
-          text: "that the grammar school pupils were older."
+          text: ~
         sequence-28:
           s: 28
           from: "00:02:33,24"
           to: "00:02:42,20"
-          text: "There is a difference between the strength of a fourteen year old boy or a seventeen/eighteen year old young man."
+          text: ~
         sequence-29:
           s: 29
           from: "00:02:42,20"
@@ -153,37 +153,37 @@ fr:
           s: 30
           from: "00:02:43,29"
           to: "00:02:47,08"
-          text: "I wanted to become a type setter."
+          text: ~
         sequence-31:
           s: 31
           from: "00:02:47,08"
           to: "00:02:50,26"
-          text: "My uncle sought for a place – rejected."
+          text: ~
         sequence-32:
           s: 32
           from: "00:02:50,26"
           to: "00:02:57,02"
-          text: "Then another uncle said: “Well, then you become a bricklayer” – as well, no success."
+          text: ~
         sequence-33:
           s: 33
           from: "00:02:57,02"
           to: "00:03:06,17"
-          text: "My father was a metal worker – again, nothing."
+          text: ~
         sequence-34:
           s: 34
           from: "00:03:06,17"
           to: "00:03:23,03"
-          text: "And then I started at the company ‘Jonas’ as an adolescent employee."
+          text: ~
         sequence-35:
           s: 35
           from: "00:03:23,03"
           to: "00:03:25,16"
-          text: "That was in 1927."
+          text: ~
         sequence-36:
           s: 36
           from: "00:03:25,16"
           to: "00:03:33,19"
-          text: "During this time I joined the trade union, the central association of the employees."
+          text: ~
         sequence-37:
           s: 37
           from: "00:03:33,19"
@@ -193,9 +193,9 @@ fr:
           s: 38
           from: "00:03:34,11"
           to: "00:03:50,27"
-          text: "The head office was in the same building. Later on,"
+          text: ~
         sequence-39:
           s: 39
           from: "00:03:50,27"
           to: "00:03:57,00"
-          text: "that led to my dismissal, because of my activity in the union."
+          text: ~
