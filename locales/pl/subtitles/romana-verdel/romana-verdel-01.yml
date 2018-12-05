@@ -2,13 +2,13 @@ pl:
   romana-verdel:
     chapter-1:
       c: 1
-      title: "Introduction; Family arrested"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:08,03"
-          text: "I was born in Remschenig near Eisenkappl into a Slovenian family;"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:08,03"
@@ -18,7 +18,7 @@ pl:
           s: 3
           from: "00:00:09,03"
           to: "00:00:15,17"
-          text: "at my aunt’s, really, where my mother was a farm maid."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:15,17"
@@ -28,7 +28,7 @@ pl:
           s: 5
           from: "00:00:17,29"
           to: "00:00:31,24"
-          text: "There where Katarina’s sons Michael Sluga, Karl Paulitsch and Franz Rotter."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:31,24"
@@ -38,17 +38,17 @@ pl:
           s: 7
           from: "00:00:33,10"
           to: "00:00:39,08"
-          text: "Franz Rotter was a member of the German ‘Wehrmacht’;"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:39,08"
           to: "00:00:47,09"
-          text: "so was Karl Sluga, who crossed over to the partisans."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:47,09"
           to: "00:00:53,15"
-          text: "Michael Sluga joined the partisans straight away instead of enlisting."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:53,15"
@@ -58,7 +58,7 @@ pl:
           s: 11
           from: "00:00:59,25"
           to: "00:01:14,14"
-          text: "In 1943 it became dangerous. Katarina Sluga escaped to the partisans then."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:14,14"
@@ -68,7 +68,7 @@ pl:
           s: 13
           from: "00:01:16,02"
           to: "00:01:29,17"
-          text: "My aunt was interested in culture and politics."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:29,17"
@@ -78,12 +78,12 @@ pl:
           s: 15
           from: "00:01:31,05"
           to: "00:01:44,20"
-          text: "She soon started to organise meetings against Hitler and to attend other meetings."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:44,20"
           to: "00:01:50,09"
-          text: "Therefore she was politically suspicious."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:50,09"
@@ -93,7 +93,7 @@ pl:
           s: 18
           from: "00:01:52,07"
           to: "00:01:57,07"
-          text: "So we all were in danger."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:57,07"
@@ -103,7 +103,7 @@ pl:
           s: 20
           from: "00:02:00,12"
           to: "00:02:04,08"
-          text: "She was aware that something could happen."
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:04,08"
@@ -113,7 +113,7 @@ pl:
           s: 22
           from: "00:02:06,03"
           to: "00:02:13,14"
-          text: "She had people who sent her a message to withdraw."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:13,14"
@@ -123,17 +123,17 @@ pl:
           s: 24
           from: "00:02:15,04"
           to: "00:02:17,23"
-          text: "For her it was dangerous now."
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:17,23"
           to: "00:02:20,29"
-          text: "So she backed away to the partisans"
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:20,29"
           to: "00:02:29,14"
-          text: "and thought that everything would be okay if she went."
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:29,14"
@@ -143,12 +143,12 @@ pl:
           s: 28
           from: "00:02:31,11"
           to: "00:02:33,02"
-          text: "But she was wrong."
+          text: ~
         sequence-29:
           s: 29
           from: "00:02:33,02"
           to: "00:02:35,05"
-          text: "When the Gestapo came"
+          text: ~
         sequence-30:
           s: 30
           from: "00:02:35,05"
@@ -158,4 +158,4 @@ pl:
           s: 31
           from: "00:02:38,21"
           to: "00:02:51,17"
-          text: "it was dangerous for all of them. They arrested all."
+          text: ~

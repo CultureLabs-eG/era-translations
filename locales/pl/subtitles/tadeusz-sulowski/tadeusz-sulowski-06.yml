@@ -2,18 +2,18 @@ pl:
   tadeusz-sulowski:
     chapter-6:
       c: 6
-      title: "Tadeusz’s brother: tasks, actions, death"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,21"
           to: "00:00:07,02"
-          text: "My brother had this job in the intelligence."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:07,02"
           to: "00:00:18,15"
-          text: "Mainly he was about pursuing informers who might have harmed Poles."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:18,15"
@@ -23,37 +23,37 @@ pl:
           s: 4
           from: "00:00:20,26"
           to: "00:00:26,13"
-          text: "My brother did not tell me what it looked like,"
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:26,13"
           to: "00:00:56,28"
-          text: "but I knew when he was directed to execute an informer with whom he was in touch through trading in the ghetto."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:56,28"
           to: "00:01:06,05"
-          text: "This informer, they said, was trading furs and the like."
+          text: ~
         sequence-7:
           s: 7
           from: "00:01:06,05"
           to: "00:01:15,26"
-          text: "Since the Jews were selling all their valuables."
+          text: ~
         sequence-8:
           s: 8
           from: "00:01:15,26"
           to: "00:01:21,26"
-          text: "That’s how my brother got in touch with him."
+          text: ~
         sequence-9:
           s: 9
           from: "00:01:21,26"
           to: "00:01:29,11"
-          text: "He needed to get closer to the informer, to talk to him, to stalk him and later shoot him."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:29,11"
           to: "00:01:35,25"
-          text: "So you needed these contacts, social ones or others."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:35,25"
@@ -63,12 +63,12 @@ pl:
           s: 12
           from: "00:01:37,04"
           to: "00:01:53,00"
-          text: "He wanted this Marian Zieliński to come at a certain time and to a certain place so he could eliminate him."
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:53,00"
           to: "00:02:03,10"
-          text: "Three of them went there. He lived at 69 Ogrodowa street."
+          text: ~
         sequence-14:
           s: 14
           from: "00:02:03,10"
@@ -78,17 +78,17 @@ pl:
           s: 15
           from: "00:02:05,22"
           to: "00:02:12,13"
-          text: "Although it was my brother, and he seems to have been the commander of this group, they made a mess of it."
+          text: ~
         sequence-16:
           s: 16
           from: "00:02:12,13"
           to: "00:02:19,27"
-          text: "When this Zieliński opened the door they should have shot him and run away."
+          text: ~
         sequence-17:
           s: 17
           from: "00:02:19,27"
           to: "00:02:22,26"
-          text: "Without coming in and having a talk."
+          text: ~
         sequence-18:
           s: 18
           from: "00:02:22,26"
@@ -98,7 +98,7 @@ pl:
           s: 19
           from: "00:02:23,26"
           to: "00:02:40,01"
-          text: "Jerzy drew his pistol and then Zieliński opened a drawer and drew his gun and fired at Jerzy."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:40,01"
@@ -108,77 +108,77 @@ pl:
           s: 21
           from: "00:02:43,07"
           to: "00:02:47,25"
-          text: "The other mate of my brother’s was shot in the hand."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:47,25"
           to: "00:03:05,15"
-          text: "Instead of shooting back, one can do it with the other hand, this mate just turned round and rushed away."
+          text: ~
         sequence-23:
           s: 23
           from: "00:03:05,15"
           to: "00:03:31,20"
-          text: "Enraged, Zieliński saw Jerzy lying wounded or dead and ran downstairs, shooting at this mate."
+          text: ~
         sequence-24:
           s: 24
           from: "00:03:31,20"
           to: "00:03:37,03"
-          text: "That brought him to death, because the third man was standing in the gateway,"
+          text: ~
         sequence-25:
           s: 25
           from: "00:03:37,03"
           to: "00:03:44,12"
-          text: "he was the smartest of them, this Andrzejczak."
+          text: ~
         sequence-26:
           s: 26
           from: "00:03:44,12"
           to: "00:03:56,11"
-          text: "I met him beforehand, because a couple of months before I had the pleasure to work with him on one sabotage job."
+          text: ~
         sequence-27:
           s: 27
           from: "00:03:56,11"
           to: "00:04:03,05"
-          text: "He waited, drew the pistol."
+          text: ~
         sequence-28:
           s: 28
           from: "00:04:03,05"
           to: "00:04:19,03"
-          text: "So with the gun in his hand he waited until the two appeared."
+          text: ~
         sequence-29:
           s: 29
           from: "00:04:19,03"
           to: "00:04:26,09"
-          text: "One was his friend, running away with a wounded hand; shouting:"
+          text: ~
         sequence-30:
           s: 30
           from: "00:04:26,09"
           to: "00:04:29,28"
-          text: "‘I’m hit and ‘Ralf’ is dead I guess!’"
+          text: ~
         sequence-31:
           s: 31
           from: "00:04:29,28"
           to: "00:04:37,06"
-          text: "So Andrzejczak yelled: ‘Fetch the horse cab!’ and waited for the other one."
+          text: ~
         sequence-32:
           s: 32
           from: "00:04:37,06"
           to: "00:04:46,08"
-          text: "Zieliński, with a gun still smoking, was chasing the first one."
+          text: ~
         sequence-33:
           s: 33
           from: "00:04:46,08"
           to: "00:04:53,01"
-          text: "Andrzejczak aimed and Zieliński aimed at Andrzejczak too,"
+          text: ~
         sequence-34:
           s: 34
           from: "00:04:53,01"
           to: "00:04:58,19"
-          text: "shots were fired almost simultaneously and Andrzejczak hit him."
+          text: ~
         sequence-35:
           s: 35
           from: "00:04:58,19"
           to: "00:05:01,12"
-          text: "Zieliński did not hit him."
+          text: ~
         sequence-36:
           s: 36
           from: "00:05:01,12"
@@ -188,17 +188,17 @@ pl:
           s: 37
           from: "00:05:04,06"
           to: "00:05:11,13"
-          text: "The first one brought a horse cab – there were no taxis then,"
+          text: ~
         sequence-38:
           s: 38
           from: "00:05:11,13"
           to: "00:05:13,24"
-          text: "these were only for Germans."
+          text: ~
         sequence-39:
           s: 39
           from: "00:05:13,24"
           to: "00:05:20,28"
-          text: "They got in the horse cab and escaped."
+          text: ~
         sequence-40:
           s: 40
           from: "00:05:20,28"
@@ -208,12 +208,12 @@ pl:
           s: 41
           from: "00:05:24,22"
           to: "00:05:34,03"
-          text: "I was told this story by one of my brother’s friends, but, unfortunately,"
+          text: ~
         sequence-42:
           s: 42
           from: "00:05:34,03"
           to: "00:05:44,00"
-          text: "he told this to me not until July, and it all happened on 19 March 1943."
+          text: ~
         sequence-43:
           s: 43
           from: "00:05:44,00"
@@ -223,12 +223,12 @@ pl:
           s: 44
           from: "00:05:46,28"
           to: "00:06:00,15"
-          text: "My brother was taken by a German ambulance to the Szucha street Gestapo headquarters."
+          text: ~
         sequence-45:
           s: 45
           from: "00:06:00,15"
           to: "00:06:10,09"
-          text: "Zieliński was also taken by the same ambulance and both men, so they say, died in it."
+          text: ~
         sequence-46:
           s: 46
           from: "00:06:10,09"
@@ -238,49 +238,49 @@ pl:
           s: 47
           from: "00:06:11,03"
           to: "00:06:17,14"
-          text: "At that time informers, the so called secret agents"
+          text: ~
         sequence-48:
           s: 48
           from: "00:06:17,14"
           to: "00:06:35,03"
-          text: "were harming the resistance groups heavily, so you had to liquidate such men."
+          text: ~
         sequence-49:
           s: 49
           from: "00:06:35,03"
           to: "00:06:44,08"
-          text: "Also many women were shot by the soldiers of the underground."
+          text: ~
         sequence-50:
           s: 50
           from: "00:06:44,08"
           to: "00:06:51,22"
-          text: "Women who were at the Gestapo’s services, they had to die."
+          text: ~
         sequence-51:
           s: 51
           from: "00:06:51,22"
           to: "00:06:56,08"
-          text: "I think it was necessary and right."
+          text: ~
         sequence-52:
           s: 52
           from: "00:06:56,08"
           to: "00:07:04,20"
-          text: "This was war, the invader was uncompromising,"
+          text: ~
         sequence-53:
           s: 53
           from: "00:07:04,20"
           to: "00:07:07,14"
-          text: "a great many people were dying."
+          text: ~
         sequence-54:
           s: 54
           from: "00:07:07,14"
           to: "00:07:11,10"
-          text: "In concentration camps, in the streets."
+          text: ~
         sequence-55:
           s: 55
           from: "00:07:11,10"
           to: "00:07:14,12"
-          text: "Many people were arrested."
+          text: ~
         sequence-56:
           s: 56
           from: "00:07:14,12"
           to: "00:07:23,20"
-          text: "And once we knew who was to blame for that, then this somebody had to be liquidated immediately."
+          text: ~

@@ -2,72 +2,68 @@ pl:
   carlo-porta:
     chapter-9:
       c: 9
-      title: "Trying to stay alive"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:03,25"
-          text: "At that point I was determined to come back home,"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:03,25"
           to: "00:00:07,20"
-          text: "I could not stand ending up like that anymore."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:07,20"
           to: "00:00:10,23"
-          text: "I ate just as bad as the others,"
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:10,23"
           to: "00:00:17,08"
-          text: "although my doctor tells me today that those two years in Germany"
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:17,08"
           to: "00:00:22,28"
-          text: "were good for my health and helped me to stay alive."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:22,28"
           to: "00:00:36,00"
-          text: |-
-              I didn’t do much, but I was never scared of not being able 
-              to make it home one day.
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:36,00"
           to: "00:00:41,22"
-          text: "Only during the last three months did I let go:"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:41,22"
           to: "00:00:48,18"
-          text: "I could not remember my family anymore,"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:48,18"
           to: "00:00:53,02"
-          text: "it was as if that notion had vanished,"
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:53,02"
           to: "00:00:58,03"
-          text: "and it’s something I could not understand back then."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:58,03"
           to: "00:01:02,17"
-          text: "I was exhausted,"
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:02,17"
           to: "00:01:11,03"
-          text: |-
-              the food was terrible for all of us, 
-              but I did my best to survive even in those conditions.
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:11,03"
@@ -77,31 +73,27 @@ pl:
           s: 14
           from: "00:01:12,08"
           to: "00:01:21,06"
-          text: |-
-              Regarding my weight, you hear people say they were thirty-eight or forty kilos,
-              but I never did weigh myself.
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:21,06"
           to: "00:01:25,28"
-          text: "I might have weighed around fifty or fifty-five."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:25,28"
           to: "00:01:30,07"
-          text: "I know I was skinny, but I just had to live with that."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:30,07"
           to: "00:01:34,19"
-          text: "I saw some die in anguish, crying:"
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:34,19"
           to: "00:01:41,00"
-          text: |-
-              many had a wife and kids, 
-              and those were different kinds of problems.
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:41,00"
@@ -111,41 +103,39 @@ pl:
           s: 20
           from: "00:01:41,29"
           to: "00:01:44,15"
-          text: "Then the Americans arrived at my camp."
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:44,15"
           to: "00:01:48,28"
-          text: "They left some guards, but we were free to go wherever we wanted."
+          text: ~
         sequence-22:
           s: 22
           from: "00:01:48,28"
           to: "00:01:57,14"
-          text: |-
-              Two of us were butchers – 
-              one of them was from Ravenna, his name was Belloni.
+          text: ~
         sequence-23:
           s: 23
           from: "00:01:57,14"
           to: "00:02:06,04"
-          text: "They began to find calves - I’m not joking! - then slaughtered them"
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:06,04"
           to: "00:02:14,16"
-          text: "and put the meat in those beer barrels that you can find in Germany."
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:14,16"
           to: "00:02:20,25"
-          text: "We had fresh meat after 15 or 20 days,"
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:20,25"
           to: "00:02:24,04"
-          text: "and every night they would go out to find something,"
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:24,04"
           to: "00:02:28,15"
-          text: "so we were finally ok concerning food."
+          text: ~

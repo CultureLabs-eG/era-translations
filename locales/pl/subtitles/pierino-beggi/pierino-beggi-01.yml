@@ -2,13 +2,13 @@ pl:
   pierino-beggi:
     chapter-1:
       c: 1
-      title: "Introduction and family; 8th September 1943; escape from captivity"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,21"
           to: "00:00:06,01"
-          text: "My name is Pierino Beggi, battle name “Gigi”."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:06,01"
@@ -18,12 +18,12 @@ pl:
           s: 3
           from: "00:00:08,16"
           to: "00:00:13,07"
-          text: "I was born in Reggio Emilia."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:13,07"
           to: "00:00:24,05"
-          text: "Until I was twenty years old, I lived where the Biasola Park is today."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:24,05"
@@ -33,22 +33,22 @@ pl:
           s: 6
           from: "00:00:25,29"
           to: "00:00:33,08"
-          text: "My father was a farmer and worked on the farm that was once there."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:33,08"
           to: "00:00:45,16"
-          text: "We grew up working the land with him, until we were called into the army when we were around twenty."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:45,16"
           to: "00:00:54,05"
-          text: "I spent three years in Turin with the Engineer Corps"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:54,05"
           to: "00:01:02,20"
-          text: "and then we were transferred to Bardonecchia where we stayed another three years."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:02,20"
@@ -58,7 +58,7 @@ pl:
           s: 11
           from: "00:01:03,15"
           to: "00:01:06,13"
-          text: "On the 8th of September 1943,"
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:06,13"
@@ -68,17 +68,17 @@ pl:
           s: 13
           from: "00:01:08,19"
           to: "00:01:16,08"
-          text: "General Vercellino ordered us to mine the Frejus tunnel,"
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:16,08"
           to: "00:01:25,24"
-          text: "since the Germans were coming through with tanks and army crews loaded on freight trains."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:25,24"
           to: "00:01:38,00"
-          text: "We carried 14 hundred kilograms of explosives inside the tunnel and blew it up."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:38,00"
@@ -88,32 +88,32 @@ pl:
           s: 17
           from: "00:01:39,13"
           to: "00:01:48,02"
-          text: "But the Germans kept coming along the road across the mountains and were shooting at us."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:48,02"
           to: "00:01:58,07"
-          text: "We were ordered to withdraw towards Turin. We reached the city walking in the countryside for 100 km."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:58,07"
           to: "00:02:09,23"
-          text: "In Turin, we were already surrounded by the Germans. They had followed the road on motor vehicles."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:09,23"
           to: "00:02:14,19"
-          text: "Many of us were captured there."
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:14,19"
           to: "00:02:26,28"
-          text: "Then we were put on freight trains, around seventy of us in each box car."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:26,28"
           to: "00:02:33,11"
-          text: "They had unloaded cattle before and the straw was still there."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:33,11"
@@ -123,7 +123,7 @@ pl:
           s: 24
           from: "00:02:34,22"
           to: "00:02:47,22"
-          text: "They were told us that we would be going to Germany."
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:47,22"
@@ -133,7 +133,7 @@ pl:
           s: 26
           from: "00:02:49,27"
           to: "00:02:57,25"
-          text: "The train had to stop in Codoglio di Piacenza,"
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:57,25"
@@ -143,17 +143,17 @@ pl:
           s: 28
           from: "00:03:02,22"
           to: "00:03:10,01"
-          text: "in order to let through another train coming in the opposite direction."
+          text: ~
         sequence-29:
           s: 29
           from: "00:03:10,01"
           to: "00:03:16,15"
-          text: "Trains at the time were not electric, they were powered with coal."
+          text: ~
         sequence-30:
           s: 30
           from: "00:03:16,15"
           to: "00:03:20,09"
-          text: "We stopped for quite a long time."
+          text: ~
         sequence-31:
           s: 31
           from: "00:03:20,09"
@@ -163,17 +163,17 @@ pl:
           s: 32
           from: "00:03:21,18"
           to: "00:03:32,19"
-          text: "Since the wagons were full of people, it was hot inside. There wasn’t enough ventilation."
+          text: ~
         sequence-33:
           s: 33
           from: "00:03:32,19"
           to: "00:03:44,27"
-          text: "Some passed out, so the Germans opened the sliding doors slightly to let some air in."
+          text: ~
         sequence-34:
           s: 34
           from: "00:03:44,27"
           to: "00:03:54,05"
-          text: "At that point there were four Germans, while we were four thousand."
+          text: ~
         sequence-35:
           s: 35
           from: "00:03:54,05"
@@ -183,47 +183,47 @@ pl:
           s: 36
           from: "00:03:58,21"
           to: "00:04:09,13"
-          text: "They walked back and forth outside, with big guns slung over their shoulders."
+          text: ~
         sequence-37:
           s: 37
           from: "00:04:09,13"
           to: "00:04:19,22"
-          text: "Before we left we had grabbed a small bag of things. I had the mess tin we used to eat in."
+          text: ~
         sequence-38:
           s: 38
           from: "00:04:19,22"
           to: "00:04:28,20"
-          text: "I asked the German if I could go to the fountain in the station. We had not drunk any water for two days."
+          text: ~
         sequence-39:
           s: 39
           from: "00:04:28,20"
           to: "00:04:35,13"
-          text: "I probably wasn’t thinking about escaping. I was just really thirsty and desperate."
+          text: ~
         sequence-40:
           s: 40
           from: "00:04:35,13"
           to: "00:04:43,08"
-          text: "The German said “Ja, ja, ja”. I got off the train and headed towards the fountain."
+          text: ~
         sequence-41:
           s: 41
           from: "00:04:43,08"
           to: "00:04:51,02"
-          text: "The German joined another soldier further away and started eating a peace of watermelon with him."
+          text: ~
         sequence-42:
           s: 42
           from: "00:04:51,02"
           to: "00:04:57,17"
-          text: "I threw away the tin and started to run as fast as I could. I was skinny then and 23 years old."
+          text: ~
         sequence-43:
           s: 43
           from: "00:04:57,17"
           to: "00:05:01,25"
-          text: "The soldier took out his gun and started shooting at me."
+          text: ~
         sequence-44:
           s: 44
           from: "00:05:01,25"
           to: "00:05:09,28"
-          text: "But, when I started running, a friend of mine tried to come along."
+          text: ~
         sequence-45:
           s: 45
           from: "00:05:09,28"
@@ -233,4 +233,4 @@ pl:
           s: 46
           from: "00:05:11,09"
           to: "00:05:18,01"
-          text: "He was hit in the thigh and fell over the tracks."
+          text: ~

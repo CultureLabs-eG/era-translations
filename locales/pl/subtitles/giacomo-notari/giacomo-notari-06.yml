@@ -2,13 +2,13 @@ pl:
   giacomo-notari:
     chapter-6:
       c: 6
-      title: "Mining a bridge; Sabotaging flow of German troops"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,09"
           to: "00:00:09,25"
-          text: "We were receiving reports of troops coming back from the front, from Garfagnana,"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:09,25"
@@ -18,12 +18,12 @@ pl:
           s: 3
           from: "00:00:10,27"
           to: "00:00:19,11"
-          text: "on the road going through Fivizzano and the Cerreto pass and towards Castelnovo Monti."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:19,11"
           to: "00:00:25,12"
-          text: "They were sending new troops to the front, by that time they had been there two or three months."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:25,12"
@@ -33,7 +33,7 @@ pl:
           s: 6
           from: "00:00:33,07"
           to: "00:00:38,10"
-          text: "There was only this small thing we used to call the “fognone” (big sewer)."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:38,10"
@@ -43,7 +43,7 @@ pl:
           s: 8
           from: "00:00:39,11"
           to: "00:00:44,12"
-          text: "By that time we had a lot of TNT since they dropped it from the airplanes."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:44,12"
@@ -53,17 +53,17 @@ pl:
           s: 10
           from: "00:00:47,18"
           to: "00:00:59,12"
-          text: "We walked up there. There was a wonderful moon this night, a very calm night, like in springtime."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:59,12"
           to: "00:01:03,15"
-          text: "They had a machine gun nest not too far away,"
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:03,15"
           to: "00:01:11,09"
-          text: "we put two groups there, one on each side of the bridge, in order to work untroubled."
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:11,09"
@@ -73,12 +73,12 @@ pl:
           s: 14
           from: "00:01:19,23"
           to: "00:01:23,24"
-          text: "After that we set the fuse and set it on fire."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:23,24"
           to: "00:01:26,09"
-          text: "We walked down a bit because rocks would be falling down"
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:26,09"
@@ -88,12 +88,12 @@ pl:
           s: 17
           from: "00:01:27,13"
           to: "00:01:31,15"
-          text: "and well I went back to see after the war was over,"
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:31,15"
           to: "00:01:41,14"
-          text: "and not only did we blow up the arch, but also 2-3 meters of road on both sides, because 45 kg are a lot."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:41,14"
@@ -103,7 +103,7 @@ pl:
           s: 20
           from: "00:01:42,14"
           to: "00:01:49,07"
-          text: "When they arrived they had to do a horse-shoe, that’s why it was important to stop them."
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:49,07"
@@ -113,7 +113,7 @@ pl:
           s: 22
           from: "00:01:55,26"
           to: "00:02:03,15"
-          text: "and forcing them to dig the mountain, build a horse-shoe in order to be able to get through:"
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:03,15"
@@ -123,26 +123,32 @@ pl:
           s: 24
           from: "00:01:26,16"
           to: "00:01:32,23"
+          text: ~
         sequence-25:
           s: 25
           from: "00:01:32,23"
           to: "00:01:36,10"
+          text: ~
         sequence-26:
           s: 26
           from: "00:01:36,10"
           to: "00:01:42,12"
+          text: ~
         sequence-27:
           s: 27
           from: "00:01:42,12"
           to: "00:01:48,18"
+          text: ~
         sequence-28:
           s: 28
           from: "00:01:48,18"
           to: "00:01:53,18"
+          text: ~
         sequence-29:
           s: 29
           from: "00:01:53,18"
           to: "00:01:57,00"
+          text: ~
         sequence-30:
           s: 30
           from: "00:01:57,00"
@@ -152,14 +158,17 @@ pl:
           s: 31
           from: "00:01:58,16"
           to: "00:02:02,24"
+          text: ~
         sequence-32:
           s: 32
           from: "00:02:02,24"
           to: "00:02:10,09"
+          text: ~
         sequence-33:
           s: 33
           from: "00:02:10,09"
           to: "00:02:12,29"
+          text: ~
         sequence-34:
           s: 34
           from: "00:02:12,29"
@@ -169,10 +178,12 @@ pl:
           s: 35
           from: "00:02:14,03"
           to: "00:02:16,04"
+          text: ~
         sequence-36:
           s: 36
           from: "00:02:16,04"
           to: "00:02:21,05"
+          text: ~
         sequence-37:
           s: 37
           from: "00:02:21,05"
@@ -182,10 +193,12 @@ pl:
           s: 38
           from: "00:02:25,15"
           to: "00:02:33,27"
+          text: ~
         sequence-39:
           s: 39
           from: "00:02:33,27"
           to: "00:02:38,12"
+          text: ~
         sequence-40:
           s: 40
           from: "00:02:38,12"
@@ -195,6 +208,7 @@ pl:
           s: 41
           from: "00:02:39,18"
           to: "00:02:41,24"
+          text: ~
         sequence-42:
           s: 42
           from: "00:02:41,24"
@@ -204,10 +218,12 @@ pl:
           s: 43
           from: "00:02:43,03"
           to: "00:02:49,11"
+          text: ~
         sequence-44:
           s: 44
           from: "00:02:49,11"
           to: "00:02:56,13"
+          text: ~
         sequence-45:
           s: 45
           from: "00:02:56,13"
@@ -217,15 +233,19 @@ pl:
           s: 46
           from: "00:03:00,18"
           to: "00:03:08,05"
+          text: ~
         sequence-47:
           s: 47
           from: "00:03:08,05"
           to: "00:03:15,10"
+          text: ~
         sequence-48:
           s: 48
           from: "00:03:15,10"
           to: "00:03:21,28"
+          text: ~
         sequence-49:
           s: 49
           from: "00:03:21,28"
           to: "00:03:29,25"
+          text: ~
