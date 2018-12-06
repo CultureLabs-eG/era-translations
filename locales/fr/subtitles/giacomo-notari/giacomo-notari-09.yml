@@ -2,13 +2,13 @@ fr:
   giacomo-notari:
     chapter-9:
       c: 9
-      title: "Battle defending the Ligonchio power plant"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:06,23"
-          text: "So the Germans decided to blow up the power plants in Ligonchio"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:06,23"
@@ -18,7 +18,7 @@ fr:
           s: 3
           from: "00:00:08,10"
           to: "00:00:14,11"
-          text: "and headed up the mountains."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:14,11"
@@ -28,7 +28,7 @@ fr:
           s: 5
           from: "00:00:15,23"
           to: "00:00:26,03"
-          text: "The central headquarters, who were afraid we would not endure one last attack by the Germans,"
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:26,03"
@@ -38,12 +38,12 @@ fr:
           s: 7
           from: "00:00:27,15"
           to: "00:00:31,27"
-          text: "ordered the local commanding officer, Ramis, to mine the power plant:"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:31,27"
           to: "00:00:39,00"
-          text: "not the whole plant, only the roof, so that it would fall on the machinery and preserve them."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:39,00"
@@ -53,22 +53,22 @@ fr:
           s: 10
           from: "00:00:40,21"
           to: "00:00:45,13"
-          text: "Ramis refused and told them:"
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:45,13"
           to: "00:00:50,16"
-          text: "“Listen, there are 500 partisans over here”."
+          text: ~
         sequence-12:
           s: 12
           from: "00:00:50,16"
           to: "00:00:55,26"
-          text: "There was also an English officer, and we were really armed then."
+          text: ~
         sequence-13:
           s: 13
           from: "00:00:55,26"
           to: "00:01:00,18"
-          text: "We had everything: a whole load of ammunition, machine guns, mortars…"
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:00,18"
@@ -78,7 +78,7 @@ fr:
           s: 15
           from: "00:01:01,20"
           to: "00:01:04,28"
-          text: "If we had to mine a power plant at that point…"
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:04,28"
@@ -88,22 +88,22 @@ fr:
           s: 17
           from: "00:01:06,15"
           to: "00:01:11,09"
-          text: "We fought back fiercely, even at night."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:11,09"
           to: "00:01:16,21"
-          text: "They had made it to less than one km from the road to the Predale power plant,"
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:16,21"
           to: "00:01:21,08"
-          text: "but they didn’t manage to proceed any further, not one step further."
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:21,08"
           to: "00:01:25,11"
-          text: "The local people helped us out a lot there."
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:25,11"
@@ -113,17 +113,17 @@ fr:
           s: 22
           from: "00:01:26,10"
           to: "00:01:33,05"
-          text: "Workers built the trenches while the women cooked."
+          text: ~
         sequence-23:
           s: 23
           from: "00:01:33,05"
           to: "00:01:37,03"
-          text: "That was really a perfect battle,"
+          text: ~
         sequence-24:
           s: 24
           from: "00:01:37,03"
           to: "00:01:42,11"
-          text: "and one morning the Germans were forced to retreat."
+          text: ~
         sequence-25:
           s: 25
           from: "00:01:42,11"
@@ -133,7 +133,7 @@ fr:
           s: 26
           from: "00:01:43,27"
           to: "00:01:50,22"
-          text: "In order to retreat the Germans had to cross a slope: it was easy to shoot them with the machine gun."
+          text: ~
         sequence-27:
           s: 27
           from: "00:01:50,22"
@@ -143,32 +143,32 @@ fr:
           s: 28
           from: "00:01:51,17"
           to: "00:02:01,17"
-          text: "So they devised a plan: using smoke-bombs, they created a smoke-screen in the whole area to try and get through."
+          text: ~
         sequence-29:
           s: 29
           from: "00:02:01,17"
           to: "00:02:06,13"
-          text: "We kept firing the machine guns, in spite of the smoke-screen."
+          text: ~
         sequence-30:
           s: 30
           from: "00:02:06,13"
           to: "00:02:14,00"
-          text: "But the Germans would always carry away their casualties."
+          text: ~
         sequence-31:
           s: 31
           from: "00:02:14,00"
           to: "00:02:20,14"
-          text: "That was the last real battle in our area."
+          text: ~
         sequence-32:
           s: 32
           from: "00:02:20,14"
           to: "00:02:28,04"
-          text: "After that there were only small attacks, to trucks and so on, but that was the last big battle."
+          text: ~
         sequence-33:
           s: 33
           from: "00:02:28,04"
           to: "00:02:37,13"
-          text: "I remember there was also Carretti who was leading a detachment in Primaora, but it was the last battle."
+          text: ~
         sequence-34:
           s: 34
           from: "00:02:37,13"
@@ -178,19 +178,19 @@ fr:
           s: 35
           from: "00:02:38,20"
           to: "00:02:39,23"
-          text: "Why should we slip away?"
+          text: ~
         sequence-36:
           s: 36
           from: "00:02:39,23"
           to: "00:02:45,14"
-          text: "There were 500 of us now, and we had all we needed. There’s also an English officer with us."
+          text: ~
         sequence-37:
           s: 37
           from: "00:02:45,14"
           to: "00:02:50,02"
-          text: "We stayed there, and in the end there was this great feeling of joy."
+          text: ~
         sequence-38:
           s: 38
           from: "00:02:50,02"
           to: "00:02:53,05"
-          text: "It’s truly a great memory."
+          text: ~

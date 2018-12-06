@@ -2,28 +2,28 @@ sl:
   giovanna-quadreri:
     chapter-3:
       c: 3
-      title: "Brother at war"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:02,12"
           to: "00:00:08,26"
-          text: "My oldest brother had already left for the war in 1939."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:08,26"
           to: "00:00:18,17"
-          text: "I was looking at some postcards the other night, and the first were sent in 1939 from Albania."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:18,17"
           to: "00:00:27,29"
-          text: "He was in the Julia Alpini Brigade and had been in Udine for a while,"
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:27,29"
           to: "00:00:36,22"
-          text: "before he was sent to Albania and then to Greece and Russia."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:36,22"
@@ -33,37 +33,37 @@ sl:
           s: 6
           from: "00:00:38,08"
           to: "00:00:45,27"
-          text: "It was really rough for my brother, poor guy!"
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:45,27"
           to: "00:00:55,13"
-          text: "He was sent to Albania, then to Greece and finally to Russia. When he came back from Russia he was ill."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:55,13"
           to: "00:01:02,04"
-          text: "Actually, they thought he was dead. They were picking up bodies from the Don"
+          text: ~
         sequence-9:
           s: 9
           from: "00:01:02,04"
           to: "00:01:07,25"
-          text: "and they thought he was dead, but he was only frostbitten and suffering."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:07,25"
           to: "00:01:13,05"
-          text: "I guess they slowly revived him and managed to bring him back to Italy, to Rimini."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:13,05"
           to: "00:01:20,15"
-          text: "They kept him there for three months and we never even went to visit him,"
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:20,15"
           to: "00:01:27,04"
-          text: "because there was no way for us to get there."
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:27,04"
@@ -73,7 +73,7 @@ sl:
           s: 14
           from: "00:01:28,19"
           to: "00:01:34,20"
-          text: "I did go to Milan by foot, but Rimini seemed really too far."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:34,20"
@@ -83,7 +83,7 @@ sl:
           s: 16
           from: "00:01:35,26"
           to: "00:01:41,11"
-          text: "Fortunately, my father was at home during the war."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:41,11"
@@ -93,34 +93,34 @@ sl:
           s: 18
           from: "00:01:44,09"
           to: "00:01:53,21"
-          text: "He would check to see if there were Germans around in order to tell the partisans."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:53,21"
           to: "00:02:02,10"
-          text: "When he wasn’t working he wouldn’t sleep much, because he always had to go see if there was somebody around."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:02,10"
           to: "00:02:14,10"
-          text: "Did you know that they burned down a whole village if a German was killed?"
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:14,10"
           to: "00:02:21,02"
-          text: "They would destroy whatever they found, and kill ten of our people for each German who had been killed."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:21,02"
           to: "00:02:25,12"
-          text: "That’s why my father was very careful, they burned down only one house in Marola."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:25,12"
           to: "00:02:30,19"
-          text: "I don’t know if someone was wounded, since I was rarely at home at the time."
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:30,19"
           to: "00:02:34,27"
-          text: "I was always on the move between the mountains and Reggio."
+          text: ~

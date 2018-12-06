@@ -2,18 +2,18 @@ pl:
   lucien-ducastel:
     chapter-2:
       c: 2
-      title: "First political engagements"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,29"
           to: "00:00:12,22"
-          text: "I started working in a factory in 1934/1935. And then were the big days of 1936."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:12,22"
           to: "00:00:26,02"
-          text: "It was then I joined the labor movement. I participated in the big strikes of 1936. I was 16, worked in a factory."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:26,02"
@@ -23,17 +23,17 @@ pl:
           s: 4
           from: "00:00:26,25"
           to: "00:00:33,00"
-          text: "Later on, in 1937/1938 I joined the Communist Youth Movement."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:33,00"
           to: "00:00:39,17"
-          text: "There you could fight for your demands."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:39,17"
           to: "00:00:47,16"
-          text: "My friends at the time asked me, “Why don’t you join the Communist Youth Movement?” So I did."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:47,16"
@@ -43,7 +43,7 @@ pl:
           s: 8
           from: "00:00:48,08"
           to: "00:00:59,10"
-          text: "In 1936 we participated in the Trade Union’s activities. We participated in the strikes and then I joined the Communist Youth Movement."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:59,10"
@@ -53,22 +53,22 @@ pl:
           s: 10
           from: "00:00:59,24"
           to: "00:01:12,06"
-          text: "It meant that we had to prepare ourselves to go undercover. We were in a semi-undercover state."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:12,06"
           to: "00:01:22,12"
-          text: "The Communist Party and the Communist Youth Movement had been outlawed, which caused a lot of turmoil."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:22,12"
           to: "00:01:27,05"
-          text: "My father, who had anarchist tendencies,"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:27,05"
           to: "00:01:37,28"
-          text: "asked me if I was going to stop my activities as he thought I was going to pay dearly."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:37,28"
@@ -78,17 +78,17 @@ pl:
           s: 15
           from: "00:01:39,02"
           to: "00:01:48,18"
-          text: "I answered him, that it was my business. I was 17 at the time and argued: “Should one stop just because…”"
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:48,18"
           to: "00:02:01,00"
-          text: "I asked him how he could work as a coppersmith on ships in 1936/1937 and not even join the trade union."
+          text: ~
         sequence-17:
           s: 17
           from: "00:02:01,00"
           to: "00:02:11,21"
-          text: "We had quite a discussion. He himself was not politically active. That took some effort and he worked a lot."
+          text: ~
         sequence-18:
           s: 18
           from: "00:02:11,21"
@@ -98,7 +98,7 @@ pl:
           s: 19
           from: "00:02:12,08"
           to: "00:02:22,00"
-          text: "We had to keep a low profile. You can not really call it undercover; we were known to the police."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:22,00"
@@ -108,17 +108,17 @@ pl:
           s: 21
           from: "00:02:23,15"
           to: "00:02:28,21"
-          text: "So we had to take some precautionary measures:"
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:28,21"
           to: "00:02:40,15"
-          text: "Only going out at night, and also being careful because of police raids. It was extremely difficult. But we did not give up."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:40,15"
           to: "00:02:51,28"
-          text: "When distributing leaflets we would try to go out at night, but also not too often, because one had to be careful."
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:51,28"
@@ -128,4 +128,4 @@ pl:
           s: 25
           from: "00:02:54,06"
           to: "00:03:02,27"
-          text: "Under these circumstances I became politically active, at work and in my daily life."
+          text: ~

@@ -8,12 +8,12 @@ fr:
           s: 1
           from: "00:00:01,08"
           to: "00:00:08,05"
-          text: "Yes, our life was very difficult."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:08,05"
           to: "00:00:17,15"
-          text: "But we had made a choice. We could have put up our feet and watched TV."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:17,15"
@@ -23,22 +23,22 @@ fr:
           s: 4
           from: "00:00:19,18"
           to: "00:00:26,11"
-          text: "But we didn’t make that choice. I can’t explain exactly why."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:26,11"
           to: "00:00:36,29"
-          text: "On one hand, it was thanks to the way my parents educated me."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:36,29"
           to: "00:00:44,24"
-          text: "As soon as I was old enough, they told me what Italian fascism was."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:44,24"
           to: "00:00:48,25"
-          text: "Then it was thanks to the teachers in school,"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:48,25"
@@ -48,14 +48,14 @@ fr:
           s: 9
           from: "00:00:50,03"
           to: "00:00:58,03"
-          text: "especially my last one. I have very fond memories of him."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:58,03"
           to: "00:01:07,28"
-          text: "He embedded in us the principles of loyalty, taught us what it meant to be a citizen,"
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:07,28"
           to: "00:01:13,21"
-          text: "to be someone who took on responsibilities and acted in life."
+          text: ~

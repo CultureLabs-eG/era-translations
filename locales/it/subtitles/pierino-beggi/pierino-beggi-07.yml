@@ -2,28 +2,28 @@ it:
   pierino-beggi:
     chapter-7:
       c: 7
-      title: "Steeling ammunition"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,29"
           to: "00:00:06,02"
-          text: "We figured out that the Germans"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:06,02"
           to: "00:00:12,08"
-          text: "had put a lot of ammunition under some trees."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:12,08"
           to: "00:00:19,27"
-          text: "They even had the Italian sub-machine gun ammunition we had been looking for everywhere."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:19,27"
           to: "00:00:31,06"
-          text: "We had the weapons but no ammunition. There were also machine guns, a bazooka and other weapons."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:31,06"
@@ -33,14 +33,14 @@ it:
           s: 6
           from: "00:00:35,07"
           to: "00:00:44,24"
-          text: "We never caused any retaliation by the Germans, who would burn down civilian houses."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:44,24"
           to: "00:00:54,01"
-          text: "We opened the trunks with a screwdriver, took out the ammunition and weigh it"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:54,01"
           to: "00:01:01,01"
-          text: "and filled the trunk with a load of earth. In the end the Germans took off with trunks full of earth."
+          text: ~

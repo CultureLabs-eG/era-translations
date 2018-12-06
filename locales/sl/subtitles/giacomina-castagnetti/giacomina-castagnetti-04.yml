@@ -2,18 +2,18 @@ sl:
   giacomina-castagnetti:
     chapter-4:
       c: 4
-      title: "Education: news in the cattle shed, books"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:04,11"
           to: "00:00:11,04"
-          text: "In the winter we used the cattle shed as our meeting place."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:11,04"
           to: "00:00:19,12"
-          text: "Friends could finally spend some time together."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:19,12"
@@ -23,17 +23,17 @@ sl:
           s: 4
           from: "00:00:23,18"
           to: "00:00:29,29"
-          text: "Social and political activities took place in the cattle shed,"
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:29,29"
           to: "00:00:37,20"
-          text: "as well as love affairs, since boys and girls met there."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:37,20"
           to: "00:00:45,12"
-          text: "I would sneak in and day by day my curiosity would grow."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:45,12"
@@ -48,17 +48,17 @@ sl:
           s: 9
           from: "00:00:56,16"
           to: "00:00:59,29"
-          text: "I was hearing everyday news,"
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:59,29"
           to: "00:01:07,22"
-          text: "but especially political discussions which were starting to take place at our house."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:07,22"
           to: "00:01:17,01"
-          text: "I began to hear that a lot of people didn’t agree with fascism."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:17,01"
@@ -68,12 +68,12 @@ sl:
           s: 13
           from: "00:01:18,25"
           to: "00:01:24,17"
-          text: "The tone was always rather timid and veiled though."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:24,17"
           to: "00:01:32,10"
-          text: "Even a joke regarding the Duce could have got you in jail then."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:32,10"
@@ -83,17 +83,17 @@ sl:
           s: 16
           from: "00:01:34,03"
           to: "00:01:41,20"
-          text: "I remember a story regarding a young man who was beaten"
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:41,20"
           to: "00:01:50,09"
-          text: "since he hadn’t saluted a fascist with the fascist salute."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:50,09"
           to: "00:02:03,13"
-          text: "I was really shocked by the fact that a boy could be beaten for this."
+          text: ~
         sequence-19:
           s: 19
           from: "00:02:03,13"
@@ -103,12 +103,12 @@ sl:
           s: 20
           from: "00:02:04,28"
           to: "00:02:15,08"
-          text: "I found out that many of these young men didn’t want to take part in the “fascist Saturday”"
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:15,08"
           to: "00:02:26,02"
-          text: "activities as they realised that they were also meant to prepare the youth for war."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:26,02"
@@ -118,54 +118,54 @@ sl:
           s: 23
           from: "00:02:27,00"
           to: "00:02:32,07"
-          text: "We were passing around “Il padrone delle ferriere” (Le maître des forges)"
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:32,07"
           to: "00:02:40,02"
-          text: "or “Le stelle ci stanno a guardare” (The stars look down), which I’ve read many times."
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:40,02"
           to: "00:02:47,15"
-          text: "The one which got me thinking the most though was “Il padrone delle ferriere”."
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:47,15"
           to: "00:02:56,00"
-          text: "As farmers we worked hard, but at least we stayed under the sun, in the open, under a tree."
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:56,00"
           to: "00:03:05,24"
-          text: "Reading the book I imagined those people working several meters underground with no protection."
+          text: ~
         sequence-28:
           s: 28
           from: "00:03:05,24"
           to: "00:03:19,02"
-          text: "The author explains that everything in town had turned black, the colour of coal."
+          text: ~
         sequence-29:
           s: 29
           from: "00:03:19,02"
           to: "00:03:26,29"
-          text: "Even the kids’ faces were black since the coal dust was everywhere."
+          text: ~
         sequence-30:
           s: 30
           from: "00:03:26,29"
           to: "00:03:32,29"
-          text: "This book really shook me."
+          text: ~
         sequence-31:
           s: 31
           from: "00:03:32,29"
           to: "00:03:39,27"
-          text: "I realized what the differences between the rich and the poor were."
+          text: ~
         sequence-32:
           s: 32
           from: "00:03:39,27"
           to: "00:03:43,06"
-          text: "I remembered these men saying"
+          text: ~
         sequence-33:
           s: 33
           from: "00:03:43,06"
           to: "00:03:49,17"
-          text: "“It’s always the sons of the poor who go to war, not those of the rich”."
+          text: ~

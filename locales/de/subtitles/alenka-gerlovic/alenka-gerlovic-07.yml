@@ -13,7 +13,7 @@ de:
           s: 2
           from: "00:00:08,18"
           to: "00:00:15,12"
-          text: "As long as my family was around,"
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:15,12"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:29,11"
           to: "00:00:36,23"
-          text: "They could be taken away to the internment camp etc."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:36,23"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:01:18,25"
           to: "00:01:25,20"
-          text: "A few days after I moved, the Gestapo visited my mother,"
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:25,20"
@@ -73,12 +73,12 @@ de:
           s: 14
           from: "00:01:36,04"
           to: "00:01:44,09"
-          text: "They wanted to know where I was. My mother didn’t know."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:44,09"
           to: "00:01:53,28"
-          text: "But she got the message to me that the Gestapo had come looking for me."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:53,28"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:02:02,04"
           to: "00:02:11,02"
-          text: "From then onwards I was taken care of."
+          text: ~
         sequence-18:
           s: 18
           from: "00:02:11,02"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:02:13,10"
           to: "00:02:21,19"
-          text: "That was how it was done in Ljubljana:"
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:21,19"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:02:35,21"
           to: "00:02:43,29"
-          text: "If anyone not on the list was found during these raids,"
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:43,29"
@@ -118,7 +118,7 @@ de:
           s: 23
           from: "00:02:51,06"
           to: "00:02:57,01"
-          text: "People would take the risk,"
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:57,01"
@@ -128,17 +128,17 @@ de:
           s: 25
           from: "00:03:09,29"
           to: "00:03:16,22"
-          text: "The counterfeit ration coupons – everyone had ration coupons –"
+          text: ~
         sequence-26:
           s: 26
           from: "00:03:16,22"
           to: "00:03:24,08"
-          text: "made for the illegal would always come with great delay,"
+          text: ~
         sequence-27:
           s: 27
           from: "00:03:24,08"
           to: "00:03:30,05"
-          text: "often when you weren’t allowed to be there anymore."
+          text: ~
         sequence-28:
           s: 28
           from: "00:03:30,05"
@@ -158,17 +158,17 @@ de:
           s: 31
           from: "00:03:51,06"
           to: "00:04:03,22"
-          text: "I could get in anywhere with the code word, and the owner would respond with a code word and then I could stay there."
+          text: ~
         sequence-32:
           s: 32
           from: "00:04:03,22"
           to: "00:04:12,00"
-          text: "I had to change homes several times because I’d sneeze in the room I was hiding in."
+          text: ~
         sequence-33:
           s: 33
           from: "00:04:12,00"
           to: "00:04:20,09"
-          text: "Someone outside would happen to hear it and comment that someone must be home."
+          text: ~
         sequence-34:
           s: 34
           from: "00:04:20,09"
@@ -193,7 +193,7 @@ de:
           s: 38
           from: "00:04:45,27"
           to: "00:04:54,22"
-          text: "after four months of hiding from house to house,"
+          text: ~
         sequence-39:
           s: 39
           from: "00:04:54,22"
@@ -203,9 +203,9 @@ de:
           s: 40
           from: "00:05:11,25"
           to: "00:05:23,19"
-          text: "She told me that a LF courier would bring me a fake passport that evening"
+          text: ~
         sequence-41:
           s: 41
           from: "00:05:23,19"
           to: "00:05:36,00"
-          text: "and I’d be leaving to join the partisans in the morning."
+          text: ~

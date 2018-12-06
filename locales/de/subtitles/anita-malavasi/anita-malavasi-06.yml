@@ -63,7 +63,7 @@ de:
           s: 12
           from: "00:01:09,25"
           to: "00:01:14,22"
-          text: "I knew that partisans were tortured, and since he hadn’t been tortured…"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:14,22"

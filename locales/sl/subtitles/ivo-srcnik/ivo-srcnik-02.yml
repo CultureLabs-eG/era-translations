@@ -2,18 +2,18 @@ sl:
   ivo-srcnik:
     chapter-2:
       c: 2
-      title: "Mobilization into the Wehrmacht"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,28"
           to: "00:00:11,15"
-          text: "We were recruited while serving in the Arbeitsdienst."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:11,15"
           to: "00:00:16,11"
-          text: "I was assigned to the German infantry."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:16,11"
@@ -23,17 +23,17 @@ sl:
           s: 4
           from: "00:00:17,15"
           to: "00:00:31,12"
-          text: "By the time I got home in December 1942, I was recruited into the German army, forcibly mobilized."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:31,12"
           to: "00:00:44,18"
-          text: "I was an 18 year old youth at the time and had no idea what the army was or what a weapon was."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:44,18"
           to: "00:00:54,24"
-          text: "I came to the German army at Brno in the Czech Republic; it was called Brünn in German."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:54,24"
@@ -43,17 +43,17 @@ sl:
           s: 8
           from: "00:00:56,07"
           to: "00:01:04,22"
-          text: "I was in the army December 1942, and January and February."
+          text: ~
         sequence-9:
           s: 9
           from: "00:01:04,22"
           to: "00:01:12,06"
-          text: "We had what they call in German Ausbildung, which was a drill using German weapons."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:12,06"
           to: "00:01:30,07"
-          text: "We were given an assignment of which I knew nothing about: to fight against the Russian soldiers."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:30,07"
@@ -63,14 +63,14 @@ sl:
           s: 12
           from: "00:01:33,19"
           to: "00:01:43,06"
-          text: "We were sent in February 1943, Germany was suffering"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:43,06"
           to: "00:01:54,00"
-          text: "from hard times due to the Soviet troops conquering German troops in Stalingrad,"
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:54,00"
           to: "00:02:00,21"
-          text: "up in Leningrad, and we were sent to the eastern front."
+          text: ~

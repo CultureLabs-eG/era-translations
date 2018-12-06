@@ -2,23 +2,23 @@ de:
   romana-verdel:
     chapter-3:
       c: 3
-      title: "Hidden in an earth cellar"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:04,07"
-          text: "We were quite desperate."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:04,07"
           to: "00:00:08,25"
-          text: "Then we remembered we still had another aunt nearby."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:08,25"
           to: "00:00:13,01"
-          text: "We would go there; it was aunty Amalija."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:13,01"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:14,22"
           to: "00:00:24,19"
-          text: "She had three children of her own, and her husband was still at home."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:24,19"
@@ -38,79 +38,79 @@ de:
           s: 7
           from: "00:00:26,01"
           to: "00:00:31,03"
-          text: "We stayed there. But the aunt had such a small flat."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:31,03"
           to: "00:00:36,23"
-          text: "So she went to our house, where she looked after the small animals"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:36,23"
           to: "00:00:47,18"
-          text: "and us children because we had enough to eat at home."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:47,18"
           to: "00:00:54,23"
-          text: "But it was an area for partisans and there was always fighting."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:54,23"
           to: "00:00:57,21"
-          text: "It was dangerous at the house."
+          text: ~
         sequence-12:
           s: 12
           from: "00:00:57,21"
           to: "00:01:03,15"
-          text: "We could stay around the house during the day"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:03,15"
           to: "00:01:10,02"
-          text: "and at night she locked us into the cellar and went home."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:10,02"
           to: "00:01:18,00"
-          text: "She left two of her children, because they were bigger and took the youngest one with her."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:18,00"
           to: "00:01:22,26"
-          text: "So there were the two of us and the cousin."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:22,26"
           to: "00:01:26,09"
-          text: "We slept in the cellar."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:26,09"
           to: "00:01:34,03"
-          text: "It was an earth cellar, in the rock"
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:34,03"
           to: "00:01:38,26"
-          text: "and it was very damp, cold and totally dark."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:38,26"
           to: "00:01:47,27"
-          text: "Everything was padded with hay and covers so nobody would hear us."
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:47,27"
           to: "00:01:53,10"
-          text: "We weren’t allowed to cough or to go out to the loo."
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:53,10"
           to: "00:02:02,00"
-          text: "We could always hear people walk around outside, but we didn’t know whether they were Gestapo or partisans."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:02,00"
           to: "00:02:06,22"
-          text: "It was very exiting but very dangerous."
+          text: ~

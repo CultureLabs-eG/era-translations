@@ -2,28 +2,28 @@ de:
   lucien-ducastel:
     chapter-6:
       c: 6
-      title: "Every-day live at Auschwitz-Birkenau"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:02,03"
           to: "00:00:09,25"
-          text: "Day to day life in the camp started with the morning role-call."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:09,25"
           to: "00:00:14,05"
-          text: "The camp was huge."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:14,05"
           to: "00:00:20,23"
-          text: "I think we were a hundred thousand prisoners."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:20,23"
           to: "00:00:23,14"
-          text: "Birkenau was especially huge."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:23,14"
@@ -33,32 +33,32 @@ de:
           s: 6
           from: "00:00:24,00"
           to: "00:00:32,12"
-          text: "Then we found out that Birkenau was no holiday resort."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:32,12"
           to: "00:00:41,22"
-          text: "The days were very long: from 4h00 or 5h00 in the morning ‘til 21h00, 22h00 in the evening,"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:41,22"
           to: "00:00:50,23"
-          text: "because if one of the 22,300 people was missing during the evening role-call, he had to be found."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:50,23"
           to: "00:01:00,00"
-          text: "We had to stay standing until this person was found. Sometimes we spent whole nights outside."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:00,00"
           to: "00:01:14,29"
-          text: "Some people hid, some escaped and then we had to stand until the following morning, in summer, and winter."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:14,29"
           to: "00:01:24,07"
-          text: "The winters in Upper Silesia are very cold, terrible. We lost many men there."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:24,07"
@@ -68,17 +68,17 @@ de:
           s: 13
           from: "00:01:25,02"
           to: "00:01:31,22"
-          text: "Our days began at 4h00 or 5h00 with a first role-call."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:31,22"
           to: "00:01:38,18"
-          text: "They handed out a brew that they called herbata in our mugs,"
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:38,18"
           to: "00:01:48,29"
-          text: "which we should absolutely not lose, and which we could never wash. Then we left for work."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:48,29"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:01:50,04"
           to: "00:02:12,18"
-          text: "Yes, we thought of it. There were three or four of us. We tried to find ways of fighting, but it was practically impossible."
+          text: ~
         sequence-18:
           s: 18
           from: "00:02:12,18"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:02:14,06"
           to: "00:02:25,01"
-          text: "There was a room leader who was to keep control. There also were leaders for each building."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:25,01"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:02:27,23"
           to: "00:02:40,18"
-          text: "And there were also team leaders, themselves being deported prisoners."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:40,18"
@@ -118,7 +118,7 @@ de:
           s: 23
           from: "00:02:41,22"
           to: "00:02:46,00"
-          text: "Often they were Germans, Poles."
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:46,00"
@@ -128,12 +128,12 @@ de:
           s: 25
           from: "00:02:48,05"
           to: "00:02:54,07"
-          text: "It was very difficult, very hard. We got lots of beatings."
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:54,07"
           to: "00:03:05,20"
-          text: "In the beginning we thought we shouldn’t take that, but we soon saw that there was no way out, as life there was so terrible."
+          text: ~
         sequence-27:
           s: 27
           from: "00:03:05,20"
@@ -143,32 +143,32 @@ de:
           s: 28
           from: "00:03:06,09"
           to: "00:03:12,11"
-          text: "It was difficult to form a group."
+          text: ~
         sequence-29:
           s: 29
           from: "00:03:12,11"
           to: "00:03:25,09"
-          text: "Those of us that had been arrested as French resistance fighters were scattered."
+          text: ~
         sequence-30:
           s: 30
           from: "00:03:25,09"
           to: "00:03:31,22"
-          text: "They knew exactly who we were."
+          text: ~
         sequence-31:
           s: 31
           from: "00:03:31,22"
           to: "00:03:41,09"
-          text: "It was very different from the camp in Compiègne. There we were still active, we resisted, discussed, talked."
+          text: ~
         sequence-32:
           s: 32
           from: "00:03:41,09"
           to: "00:03:50,00"
-          text: "But here we were seperated and with all the block leaders, the Vorarbeiter, the team chiefs, the Kapos"
+          text: ~
         sequence-33:
           s: 33
           from: "00:03:50,00"
           to: "00:03:56,13"
-          text: "it was extremely difficult, as they were very loose with their batons."
+          text: ~
         sequence-34:
           s: 34
           from: "00:03:56,13"
@@ -178,14 +178,14 @@ de:
           s: 35
           from: "00:03:57,08"
           to: "00:04:08,01"
-          text: "We were not necessarily amongst French people at all. Sometimes there were 2 or 3 French people in a group of 150 or 200 men."
+          text: ~
         sequence-36:
           s: 36
           from: "00:04:08,01"
           to: "00:04:14,04"
-          text: "Most of them were Poles. They did not like us very much."
+          text: ~
         sequence-37:
           s: 37
           from: "00:04:14,04"
           to: "00:04:22,13"
-          text: "There were Germans as well, so-called Reichsdeutsche. They had mostly been arrested for political reasons."
+          text: ~

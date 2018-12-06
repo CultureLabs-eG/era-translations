@@ -2,23 +2,23 @@ it:
   giacomina-castagnetti:
     chapter-11:
       c: 11
-      title: "The end of wars brings little joy"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,22"
           to: "00:00:07,29"
-          text: "That night at home we started to count out those who were coming back."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:07,29"
           to: "00:00:15,09"
-          text: "As soon as we saw soldiers returning from the front, I went to the train station in Reggio."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:15,09"
           to: "00:00:20,17"
-          text: "I was hoping I would see my brother make it home too,"
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:20,17"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:21,01"
           to: "00:00:24,05"
-          text: "but I never saw him again."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:24,05"
@@ -38,17 +38,17 @@ it:
           s: 7
           from: "00:00:26,06"
           to: "00:00:33,12"
-          text: "Of my six brothers, our numerous family,"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:33,12"
           to: "00:00:38,13"
-          text: "that had been awarded by the Duce,"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:38,13"
           to: "00:00:48,06"
-          text: "three died, one was a victim of political persecution and one hostage."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:48,06"
@@ -58,4 +58,4 @@ it:
           s: 11
           from: "00:00:50,00"
           to: "00:00:57,25"
-          text: "We didn’t really have too much to be happy about, in spite of the Liberation."
+          text: ~
