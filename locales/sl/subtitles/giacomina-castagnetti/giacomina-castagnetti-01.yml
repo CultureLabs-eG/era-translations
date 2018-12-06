@@ -2,23 +2,23 @@ sl:
   giacomina-castagnetti:
     chapter-1:
       c: 1
-      title: "Family, social and political context"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:03,11"
-          text: "My name is Giacomina Castagnetti."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:03,11"
           to: "00:00:08,13"
-          text: "I always accept when I’m asked to talk about my life."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:08,13"
           to: "00:00:19,20"
-          text: "Not because I think it's very important, or interesting, or even unique, but because I’ve lived"
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:19,20"
@@ -33,7 +33,7 @@ sl:
           s: 6
           from: "00:00:26,17"
           to: "00:00:37,02"
-          text: "I was born in 1925, in Roncolo di Quattro Castella, in a large family of sharecroppers."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:37,02"
@@ -43,12 +43,12 @@ sl:
           s: 8
           from: "00:00:44,07"
           to: "00:00:58,15"
-          text: "I was the youngest in the family, coming after six brothers and a sister."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:58,15"
           to: "00:01:07,00"
-          text: "I was born three months after my father died. My mother was left a widow with eight children."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:07,00"
@@ -58,7 +58,7 @@ sl:
           s: 11
           from: "00:01:08,02"
           to: "00:01:14,11"
-          text: "We have always been a very close-knit family."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:14,11"
@@ -68,27 +68,27 @@ sl:
           s: 13
           from: "00:01:15,16"
           to: "00:01:21,29"
-          text: "As a woman, the law didn’t allow my mother to be the head of the family."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:21,29"
           to: "00:01:26,13"
-          text: "So she couldn’t hold parental authority over the children."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:26,13"
           to: "00:01:36,22"
-          text: "The court appointed a guardian who had to keep control over a poor sharecropping family like ours."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:36,22"
           to: "00:01:45,02"
-          text: "He came to our home to count how many forks and spoons we had, the furniture and everything else."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:45,02"
           to: "00:01:52,10"
-          text: "He was to make sure that this fortune remained untouched for us children until we came of age."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:52,10"
@@ -98,7 +98,7 @@ sl:
           s: 19
           from: "00:01:52,27"
           to: "00:01:56,22"
-          text: "I started going to school in Roncolo."
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:56,22"
@@ -108,57 +108,57 @@ sl:
           s: 21
           from: "00:01:58,22"
           to: "00:02:08,16"
-          text: "It only offered courses up to the third grade."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:08,16"
           to: "00:02:21,23"
-          text: "I began to attend school with clogs on my feet, a cloth sack, two notebooks -"
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:21,23"
           to: "00:02:30,27"
-          text: "one ruled and one squared – and a spelling-book"
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:30,27"
           to: "00:02:41,11"
-          text: "which had been passed on by all my brothers before I got it."
+          text: ~
         sequence-25:
           s: 25
           from: "00:02:41,11"
           to: "00:02:51,17"
-          text: "At school there was a large banner that had been badly painted, that said:"
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:51,17"
           to: "00:02:54,17"
-          text: "“The Duce is always right”."
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:54,17"
           to: "00:03:04,01"
-          text: "Everything was made so that people believed in these things:"
+          text: ~
         sequence-28:
           s: 28
           from: "00:03:04,01"
           to: "00:03:13,06"
-          text: "that the Duce was not to be opposed and that he was always right in what he said."
+          text: ~
         sequence-29:
           s: 29
           from: "00:03:13,06"
           to: "00:03:24,10"
-          text: "In the morning we were given cod-liver oil: half a spoon to the girls, a full spoon to the boys."
+          text: ~
         sequence-30:
           s: 30
           from: "00:03:24,10"
           to: "00:03:31,05"
-          text: "This wasn’t a problem at all, since the oil was nasty and rancid,"
+          text: ~
         sequence-31:
           s: 31
           from: "00:03:31,05"
           to: "00:03:40,18"
-          text: "but it was already a sign of the discrimination existing towards women."
+          text: ~
         sequence-32:
           s: 32
           from: "00:03:40,18"
@@ -168,27 +168,27 @@ sl:
           s: 33
           from: "00:03:42,08"
           to: "00:03:52,29"
-          text: "We didn’t take much math, but we spent a lot of time doing gymnastics, as we had to forge our physique."
+          text: ~
         sequence-34:
           s: 34
           from: "00:03:52,29"
           to: "00:04:03,05"
-          text: "Since we didn’t have a gym, every day we spent two hours in the school courtyard doing physical education,"
+          text: ~
         sequence-35:
           s: 35
           from: "00:04:03,05"
           to: "00:04:06,20"
-          text: "even in the winter when it turned cold."
+          text: ~
         sequence-36:
           s: 36
           from: "00:04:06,20"
           to: "00:04:16,07"
-          text: "We were all excited for the gymnastics display we were working on."
+          text: ~
         sequence-37:
           s: 37
           from: "00:04:16,07"
           to: "00:04:27,06"
-          text: "It would take place in the main square, in front of our parents and all the others."
+          text: ~
         sequence-38:
           s: 38
           from: "00:04:27,06"
@@ -198,7 +198,7 @@ sl:
           s: 39
           from: "00:04:28,13"
           to: "00:04:36,27"
-          text: "However, Mussolini wanted children to wear a uniform from our earliest childhood:"
+          text: ~
         sequence-40:
           s: 40
           from: "00:04:36,27"
@@ -208,7 +208,7 @@ sl:
           s: 41
           from: "00:04:37,20"
           to: "00:04:44,17"
-          text: "the “Figli della Lupa”, the “Balilla”, the “Piccole Italiane”, the “Avant-gardists”."
+          text: ~
         sequence-42:
           s: 42
           from: "00:04:44,17"
@@ -218,12 +218,12 @@ sl:
           s: 43
           from: "00:04:46,11"
           to: "00:04:50,00"
-          text: "Mothers were enrolled in the “Massaie rurali” (rural housewives),"
+          text: ~
         sequence-44:
           s: 44
           from: "00:04:50,00"
           to: "00:05:00,21"
-          text: "and were given pamphlets for them to learn how to breed chickens and work the garden: the “war garden”."
+          text: ~
         sequence-45:
           s: 45
           from: "00:05:00,21"
@@ -233,7 +233,7 @@ sl:
           s: 46
           from: "00:05:02,25"
           to: "00:05:06,16"
-          text: "The whole family was"
+          text: ~
         sequence-47:
           s: 47
           from: "00:05:06,16"
@@ -243,7 +243,7 @@ sl:
           s: 48
           from: "00:05:08,20"
           to: "00:05:11,01"
-          text: organized.
+          text: ~
         sequence-49:
           s: 49
           from: "00:05:11,01"
@@ -253,27 +253,27 @@ sl:
           s: 50
           from: "00:05:13,19"
           to: "00:05:22,29"
-          text: "The Duce had also decided that large families were to be awarded with a certificate."
+          text: ~
         sequence-51:
           s: 51
           from: "00:05:22,29"
           to: "00:05:29,20"
-          text: "Even more so for our family since there were six boys and two girls."
+          text: ~
         sequence-52:
           s: 52
           from: "00:05:29,20"
           to: "00:05:36,08"
-          text: "This certificate had to be displayed at home, so that everybody could see"
+          text: ~
         sequence-53:
           s: 53
           from: "00:05:36,08"
           to: "00:05:44,21"
-          text: "that Mussolini had acknowledged these families"
+          text: ~
         sequence-54:
           s: 54
           from: "00:05:44,21"
           to: "00:05:54,23"
-          text: "who had generated manpower for the nation to prepare for war."
+          text: ~
         sequence-55:
           s: 55
           from: "00:05:54,23"
@@ -283,7 +283,7 @@ sl:
           s: 56
           from: "00:05:55,23"
           to: "00:06:01,01"
-          text: "When I was seven I suffered my first humiliation."
+          text: ~
         sequence-57:
           s: 57
           from: "00:06:01,01"
@@ -293,22 +293,22 @@ sl:
           s: 58
           from: "00:06:02,06"
           to: "00:06:10,14"
-          text: "My mother didn’t have enough money to buy me the uniform of the “Piccole Italiane”."
+          text: ~
         sequence-59:
           s: 59
           from: "00:06:10,14"
           to: "00:06:19,21"
-          text: "So I couldn’t take part in the gymnastics event, as I had dreamed about."
+          text: ~
         sequence-60:
           s: 60
           from: "00:06:19,21"
           to: "00:06:27,29"
-          text: "I never found out if we really didn’t have any money"
+          text: ~
         sequence-61:
           s: 61
           from: "00:06:27,29"
           to: "00:06:37,04"
-          text: "or rather my mother didn’t want me to wear that uniform."
+          text: ~
         sequence-62:
           s: 62
           from: "00:06:37,04"
@@ -318,39 +318,39 @@ sl:
           s: 63
           from: "00:06:39,01"
           to: "00:06:47,07"
-          text: "After the display they handed out an Easter egg to all the participants."
+          text: ~
         sequence-64:
           s: 64
           from: "00:06:47,07"
           to: "00:06:57,01"
-          text: "I had never seen one before. It was amazing, with its shiny coloured paper."
+          text: ~
         sequence-65:
           s: 65
           from: "00:06:57,01"
           to: "00:07:08,18"
-          text: "The teacher handed out an egg to all the children while I was left out. I wasn’t worth it."
+          text: ~
         sequence-66:
           s: 66
           from: "00:07:08,18"
           to: "00:07:14,11"
-          text: "Can you imagine the despair of a seven-year-old girl, as she walked home thinking"
+          text: ~
         sequence-67:
           s: 67
           from: "00:07:14,11"
           to: "00:07:24,27"
-          text: "that she was different because of such a pointless motive? Because she didn’t have a white shirt and a black skirt?"
+          text: ~
         sequence-68:
           s: 68
           from: "00:07:24,27"
           to: "00:07:30,11"
-          text: "After I had a son and a family of my own,"
+          text: ~
         sequence-69:
           s: 69
           from: "00:07:30,11"
           to: "00:07:35,16"
-          text: "I told him what I had gone through when I was seven."
+          text: ~
         sequence-70:
           s: 70
           from: "00:07:35,16"
           to: "00:07:41,00"
-          text: "So every year at Easter, he brings me a huge Easter egg."
+          text: ~

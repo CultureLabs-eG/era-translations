@@ -2,13 +2,13 @@ pl:
   romana-verdel:
     chapter-8:
       c: 8
-      title: "Discrimination of Slovenians after war"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:06,06"
           to: "00:00:12,20"
-          text: "There were conflicts because I was a Slovenian."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:12,20"
@@ -18,12 +18,12 @@ pl:
           s: 3
           from: "00:00:14,13"
           to: "00:00:17,10"
-          text: "I even had conflicts with other Slovenians."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:17,10"
           to: "00:00:20,17"
-          text: "They could not understand"
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:20,17"
@@ -33,7 +33,7 @@ pl:
           s: 6
           from: "00:00:24,22"
           to: "00:00:31,05"
-          text: "why I had so much political interest and why I am for the Slovenes."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:31,05"
@@ -43,12 +43,12 @@ pl:
           s: 8
           from: "00:00:33,17"
           to: "00:00:40,12"
-          text: "Well, the disappointment was big when the English came"
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:40,12"
           to: "00:00:45,11"
-          text: "and treated us like enemies again."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:45,11"
@@ -58,7 +58,7 @@ pl:
           s: 11
           from: "00:00:50,08"
           to: "00:00:55,16"
-          text: "We weren’t even allowed to go to church without ID."
+          text: ~
         sequence-12:
           s: 12
           from: "00:00:55,16"
@@ -68,17 +68,17 @@ pl:
           s: 13
           from: "00:00:58,10"
           to: "00:01:01,26"
-          text: "Even the English were quite discriminating."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:01,26"
           to: "00:01:07,16"
-          text: "When the English came to the farmer’s the first time,"
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:07,16"
           to: "00:01:14,14"
-          text: "armed and strict, I (being a child) thought:"
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:14,14"
@@ -88,17 +88,17 @@ pl:
           s: 17
           from: "00:01:15,14"
           to: "00:01:19,10"
-          text: "‘Why does the war keep on, although it is over?’"
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:19,10"
           to: "00:01:25,04"
-          text: "We did not understand that there were still armed men coming to the house."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:25,04"
           to: "00:01:31,17"
-          text: "Although we knew the English to be our confederates and helpers,"
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:31,17"
@@ -108,7 +108,7 @@ pl:
           s: 21
           from: "00:01:32,25"
           to: "00:01:37,16"
-          text: "it was a big disappointment later."
+          text: ~
         sequence-22:
           s: 22
           from: "00:01:37,16"
@@ -118,14 +118,14 @@ pl:
           s: 23
           from: "00:01:41,12"
           to: "00:01:47,02"
-          text: "I still can’t understand why the English"
+          text: ~
         sequence-24:
           s: 24
           from: "00:01:47,02"
           to: "00:01:52,06"
-          text: "let themselves be so influenced by the Nazis"
+          text: ~
         sequence-25:
           s: 25
           from: "00:01:52,06"
           to: "00:01:58,03"
-          text: "and we – the partisans and the Slovenes - were the enemies again."
+          text: ~

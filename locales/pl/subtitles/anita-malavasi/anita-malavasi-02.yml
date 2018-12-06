@@ -2,7 +2,7 @@ pl:
   anita-malavasi:
     chapter-2:
       c: 2
-      title: "Growing up during Fascism"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
@@ -13,7 +13,7 @@ pl:
           s: 2
           from: "00:00:05,07"
           to: "00:00:08,26"
-          text: "Our school organized a contest for the best drawing."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:08,26"
@@ -153,7 +153,7 @@ pl:
           s: 30
           from: "00:02:55,10"
           to: "00:02:59,27"
-          text: "There was a need to move closer to the city."
+          text: ~
         sequence-31:
           s: 31
           from: "00:02:59,27"
@@ -203,42 +203,42 @@ pl:
           s: 40
           from: "00:03:50,03"
           to: "00:03:57,12"
-          text: "They were a very bright, mature and well-prepared group of working class people."
+          text: ~
         sequence-41:
           s: 41
           from: "00:03:57,12"
           to: "00:04:08,01"
-          text: "We moved there in 1938; I had just turned 17. We had a restaurant with a bar."
+          text: ~
         sequence-42:
           s: 42
           from: "00:04:08,01"
           to: "00:04:18,11"
-          text: "Although I was quite young, I was very curious. I had always been like that."
+          text: ~
         sequence-43:
           s: 43
           from: "00:04:18,11"
           to: "00:04:27,28"
-          text: "The older men liked me. They started to explain to me what I had known only in general terms."
+          text: ~
         sequence-44:
           s: 44
           from: "00:04:27,28"
           to: "00:04:34,06"
-          text: "What fascism really was, the real reasons behind its existence,"
+          text: ~
         sequence-45:
           s: 45
           from: "00:04:34,06"
           to: "00:04:41,19"
-          text: "for it was only violence and ignorance to me at that time."
+          text: ~
         sequence-46:
           s: 46
           from: "00:04:41,19"
           to: "00:04:46,19"
-          text: "These men were generally Communists and Socialists."
+          text: ~
         sequence-47:
           s: 47
           from: "00:04:46,19"
           to: "00:04:55,00"
-          text: "I began to understand and to see things from a different point of view that attracted me more."
+          text: ~
         sequence-48:
           s: 48
           from: "00:04:55,00"
@@ -248,17 +248,17 @@ pl:
           s: 49
           from: "00:04:56,13"
           to: "00:05:05,08"
-          text: "I had made friends with the young men who came to our bar."
+          text: ~
         sequence-50:
           s: 50
           from: "00:05:05,08"
           to: "00:05:10,29"
-          text: "When they left for war I became their communication point."
+          text: ~
         sequence-51:
           s: 51
           from: "00:05:10,29"
           to: "00:05:13,25"
-          text: "They were writing from Africa,"
+          text: ~
         sequence-52:
           s: 52
           from: "00:05:13,25"
@@ -268,9 +268,9 @@ pl:
           s: 53
           from: "00:05:15,04"
           to: "00:05:21,03"
-          text: "from France, from Russia, asking for news about each other."
+          text: ~
         sequence-54:
           s: 54
           from: "00:05:21,03"
           to: "00:05:36,10"
-          text: "I started to have a broader view of the war, compared to those who only had letters from their relatives."
+          text: ~

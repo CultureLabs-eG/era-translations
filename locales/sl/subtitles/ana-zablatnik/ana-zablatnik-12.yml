@@ -2,13 +2,13 @@ sl:
   ana-zablatnik:
     chapter-12:
       c: 12
-      title: "Horrors that her husband saw"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,04"
           to: "00:00:04,01"
-          text: "Well, actually it is hard to talk about it now"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:04,01"
@@ -18,22 +18,22 @@ sl:
           s: 3
           from: "00:00:05,15"
           to: "00:00:08,21"
-          text: "and to remember everything; there are so many things."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:08,21"
           to: "00:00:12,06"
-          text: "It was not easy to run around at night."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:12,06"
           to: "00:00:14,04"
-          text: "You always had to look out;"
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:14,04"
           to: "00:00:22,29"
-          text: "always make sure that nobody saw you and that you managed."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:22,29"
@@ -43,7 +43,7 @@ sl:
           s: 8
           from: "00:00:24,14"
           to: "00:00:32,15"
-          text: "Or the boys who stayed at home were always in fear of being summarily executed."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:32,15"
@@ -53,7 +53,7 @@ sl:
           s: 10
           from: "00:00:38,15"
           to: "00:00:48,24"
-          text: "All the members of the armed forces who stayed at home were summarily executed."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:48,24"
@@ -63,27 +63,27 @@ sl:
           s: 12
           from: "00:00:52,12"
           to: "00:00:56,07"
-          text: "Micha told me what he saw."
+          text: ~
         sequence-13:
           s: 13
           from: "00:00:56,07"
           to: "00:01:08,02"
-          text: "The first was about a train, which came into Berlin to deliver Russian prisoners to Germany."
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:08,02"
           to: "00:01:14,25"
-          text: "The people inside were screaming like mad,"
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:14,25"
           to: "00:01:17,14"
-          text: "as they were without water and everything."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:17,14"
           to: "00:01:25,20"
-          text: "Some threw stones into the train."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:25,20"
@@ -93,17 +93,17 @@ sl:
           s: 18
           from: "00:01:28,04"
           to: "00:01:32,27"
-          text: "Then some said: “Open the door!” so they could get some air."
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:32,27"
           to: "00:01:43,23"
-          text: "Micha said that the bodies had been eaten."
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:43,23"
           to: "00:01:48,25"
-          text: "The ones that were still alive had been eating the dead ones,"
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:48,25"
@@ -113,9 +113,9 @@ sl:
           s: 22
           from: "00:01:50,10"
           to: "00:01:52,03"
-          text: "because they did not have anything else."
+          text: ~
         sequence-23:
           s: 23
           from: "00:01:52,03"
           to: "00:01:58,20"
-          text: "Having seen this, my husband said: “On account of this crime I will not go back.”"
+          text: ~

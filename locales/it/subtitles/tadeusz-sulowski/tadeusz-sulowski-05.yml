@@ -2,57 +2,53 @@ it:
   tadeusz-sulowski:
     chapter-5:
       c: 5
-      title: "Tadeusz’s first serious action"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,00"
           to: "00:00:08,20"
-          text: "The head was this socialist poet, Mr ‘Hagen’ was his pseudonym."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:08,20"
           to: "00:00:10,05"
-          text: "We called him ‘Robert’."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:10,05"
           to: "00:00:21,27"
-          text: |-
-              I guess he was the commander of the group. 
-              So he praised me a lot and asked if I wanted to go for a real sabotage job.
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:21,27"
           to: "00:00:25,03"
-          text: "I, naturally, said yes."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:25,03"
           to: "00:00:31,18"
-          text: "‘Then please wait for further orders."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:31,18"
           to: "00:00:43,18"
-          text: |-
-              And when time comes and the weather is dark enough, then we’ll do a
-              job under the Poniatowski bridge.’
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:43,18"
           to: "00:00:56,03"
-          text: "Later I asked my brother Jerzy what kind of action it was supposed to be."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:56,03"
           to: "00:01:12,27"
-          text: "He replied, that the Germans kept police cars and other military trucks under the bridge."
+          text: ~
         sequence-9:
           s: 9
           from: "00:01:12,27"
           to: "00:01:17,20"
-          text: "And we were supposed to set them on fire."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:17,20"
@@ -62,29 +58,27 @@ it:
           s: 11
           from: "00:01:18,02"
           to: "00:01:25,18"
-          text: "My brother says: ‘Listen, we’ve got this unpleasant situation, I have this present for you."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:25,18"
           to: "00:01:34,13"
-          text: "In case they catch you and beat the hell out of you, or they massacre you too much so you can’t stand it anymore,"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:34,13"
           to: "00:01:41,00"
-          text: "then here is this vial, a small glass bottle…’ – it looked like an injection vial – ‘…just bite it.’"
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:41,00"
           to: "00:01:44,16"
-          text: "I tell him: ‘Don’t be silly, I’ll get cuts.’"
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:44,16"
           to: "00:01:53,05"
-          text: |-
-              And he: ‘It won’t matter to you anyway, as soon as you bite it you die.’ 
-              It was cyanide.
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:53,05"
@@ -94,47 +88,47 @@ it:
           s: 17
           from: "00:01:55,05"
           to: "00:02:12,02"
-          text: "My task, as they later told me, was to walk along the pavement in the same way"
+          text: ~
         sequence-18:
           s: 18
           from: "00:02:12,02"
           to: "00:02:16,26"
-          text: "as the watch guard did guarding those trucks."
+          text: ~
         sequence-19:
           s: 19
           from: "00:02:16,26"
           to: "00:02:20,23"
-          text: "He was quite visible wearing a white coat."
+          text: ~
         sequence-20:
           s: 20
           from: "00:02:20,23"
           to: "00:02:27,10"
-          text: "It was October, but the Germans cared about their soldiers, they dressed them well."
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:27,10"
           to: "00:02:39,16"
-          text: "And this guard would mostly walk from Dobra street in the direction of the city, then to the right and back."
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:39,16"
           to: "00:02:46,17"
-          text: "I was supposed to walk on the opposite side of the street, seeing his white coat."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:46,17"
           to: "00:03:02,00"
-          text: "They told me to smoke a cigarette and, watching the spark from my cigarette, they knew where I was and thus were the guard was."
+          text: ~
         sequence-24:
           s: 24
           from: "00:03:02,00"
           to: "00:03:20,11"
-          text: "Depending how far away he moved, they were able to plant the firebombs, usually between the wheel and the mudguard."
+          text: ~
         sequence-25:
           s: 25
           from: "00:03:20,11"
           to: "00:03:23,17"
-          text: "Rubber is flammable. If this catches fire, then there’s no stopping it."
+          text: ~
         sequence-26:
           s: 26
           from: "00:03:23,17"
@@ -144,19 +138,17 @@ it:
           s: 27
           from: "00:03:24,17"
           to: "00:03:33,17"
-          text: |-
-              It worked out fine. 
-              We were able to see if we had succeeded only the following day.
+          text: ~
         sequence-28:
           s: 28
           from: "00:03:33,17"
           to: "00:03:44,00"
-          text: "I used to go to school at Powiśle, in Sewerynów street and I had this friend there who lived at 3, Trzeciego Maja Alley,"
+          text: ~
         sequence-29:
           s: 29
           from: "00:03:44,00"
           to: "00:03:52,27"
-          text: "that’s right opposite the place where those German trucks were stationed."
+          text: ~
         sequence-30:
           s: 30
           from: "00:03:52,27"
@@ -166,29 +158,29 @@ it:
           s: 31
           from: "00:03:54,28"
           to: "00:04:04,25"
-          text: "And this friend, Jurek Suchanek from the scout troops and my classmate, told me:"
+          text: ~
         sequence-32:
           s: 32
           from: "00:04:04,25"
           to: "00:04:10,00"
-          text: "‘You’re not gonna believe this: last night there was a huge affair in our street!"
+          text: ~
         sequence-33:
           s: 33
           from: "00:04:10,00"
           to: "00:04:15,14"
-          text: "They were shooting around at midnight, there was a huge fire under the bridge!"
+          text: ~
         sequence-34:
           s: 34
           from: "00:04:15,14"
           to: "00:04:22,20"
-          text: "Some saboteurs burned the trucks! The Germans were shooting! The whole commotion! The ambulance sirens!’"
+          text: ~
         sequence-35:
           s: 35
           from: "00:04:22,20"
           to: "00:04:25,05"
-          text: "And I asked: ‘Well, did they catch those guys?’"
+          text: ~
         sequence-36:
           s: 36
           from: "00:04:25,05"
           to: "00:04:35,27"
-          text: "‘No, I guess not! Anyways, they got really mad because 12 or 13 trucks got burnt.’"
+          text: ~

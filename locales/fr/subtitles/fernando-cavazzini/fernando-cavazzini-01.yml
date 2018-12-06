@@ -2,48 +2,48 @@ fr:
   fernando-cavazzini:
     chapter-1:
       c: 1
-      title: "Presentation: family, church, work"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:04,00"
-          text: "My name is Fernando Cavazzini, partisan Toni."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:04,00"
           to: "00:00:08,26"
-          text: "I was born in Reggio Emilia, in the hamlet of Villa Cella, on the 23rd of September 1923."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:08,26"
           to: "00:00:16,02"
-          text: "My father was a cobbler, just like his father."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:16,02"
           to: "00:00:21,23"
-          text: "My mother was a housewife and at times a day-labourer."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:21,23"
           to: "00:00:25,18"
-          text: "I had an older brother, who was born in 1915."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:25,18"
           to: "00:00:27,18"
-          text: "He was also a cobbler."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:27,18"
           to: "00:00:34,18"
-          text: "My sister Margherita worked as a day-labourer or in the rice-fields."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:34,18"
           to: "00:00:37,10"
-          text: "Another sister was a dress-maker."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:37,10"
@@ -53,42 +53,42 @@ fr:
           s: 10
           from: "00:00:38,03"
           to: "00:00:41,10"
-          text: "My father was an antifascist,"
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:41,10"
           to: "00:00:45,03"
-          text: "although he wasn’t really organized in the antifascist movement."
+          text: ~
         sequence-12:
           s: 12
           from: "00:00:45,03"
           to: "00:00:49,07"
-          text: "Nobody in my family was a fascist,"
+          text: ~
         sequence-13:
           s: 13
           from: "00:00:49,07"
           to: "00:00:55,04"
-          text: "but they weren’t organized, apart from me. I was in “Azione Cattolica” (Catholic Action)."
+          text: ~
         sequence-14:
           s: 14
           from: "00:00:55,04"
           to: "00:01:06,24"
-          text: "When I was twelve, Don Luca Pallai, who was Villa Cella’s parish priest and later also joined the Resistance,"
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:06,24"
           to: "00:01:18,02"
-          text: "kept pressing my parents to send me to study to become a priest."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:18,02"
           to: "00:01:22,05"
-          text: "I believed in God and lived by the church."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:22,05"
           to: "00:01:25,26"
-          text: "I was the only one of our family who went to church."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:25,26"
@@ -98,12 +98,12 @@ fr:
           s: 19
           from: "00:01:27,16"
           to: "00:01:30,11"
-          text: "I finished elementary school"
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:30,11"
           to: "00:01:35,00"
-          text: "and went to work when I was twelve."
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:35,00"
@@ -113,7 +113,7 @@ fr:
           s: 22
           from: "00:01:35,15"
           to: "00:01:40,03"
-          text: "However, when I was just a little older than 14,"
+          text: ~
         sequence-23:
           s: 23
           from: "00:01:40,03"
@@ -123,32 +123,32 @@ fr:
           s: 24
           from: "00:01:41,23"
           to: "00:01:50,06"
-          text: "my father and the bailiff had a small dispute, so I got fired and was left unemployed."
+          text: ~
         sequence-25:
           s: 25
           from: "00:01:50,06"
           to: "00:01:55,13"
-          text: "I went to the employment agency to get a job at the Reggiane mechanical plant."
+          text: ~
         sequence-26:
           s: 26
           from: "00:01:55,13"
           to: "00:02:00,13"
-          text: "They kept telling me to come back the following month."
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:00,13"
           to: "00:02:07,28"
-          text: "But every morning for the following forty days, I turned up at the employment agency before they opened."
+          text: ~
         sequence-28:
           s: 28
           from: "00:02:07,28"
           to: "00:02:11,27"
-          text: "I guess I wore them out, because one morning they finally told me to come inside."
+          text: ~
         sequence-29:
           s: 29
           from: "00:02:11,27"
           to: "00:02:14,02"
-          text: "They were going to let me work at the Reggiane."
+          text: ~
         sequence-30:
           s: 30
           from: "00:02:14,02"
@@ -158,12 +158,12 @@ fr:
           s: 31
           from: "00:02:14,19"
           to: "00:02:17,22"
-          text: "The Reggiane mechanical plant was"
+          text: ~
         sequence-32:
           s: 32
           from: "00:02:17,22"
           to: "00:02:24,29"
-          text: "the most important weapon factory in the whole region."
+          text: ~
         sequence-33:
           s: 33
           from: "00:02:24,29"
@@ -173,24 +173,24 @@ fr:
           s: 34
           from: "00:02:25,17"
           to: "00:02:34,18"
-          text: "Quite frankly, I was a catholic and went to church. For me it was all about this, work and church."
+          text: ~
         sequence-35:
           s: 35
           from: "00:02:34,18"
           to: "00:02:37,06"
-          text: "I had never been interested in politics."
+          text: ~
         sequence-36:
           s: 36
           from: "00:02:37,06"
           to: "00:02:43,05"
-          text: "Even at the time of the laws against the Jews, I didn’t follow the issue much."
+          text: ~
         sequence-37:
           s: 37
           from: "00:02:43,05"
           to: "00:02:47,17"
-          text: "I was a passionate worker."
+          text: ~
         sequence-38:
           s: 38
           from: "00:02:47,17"
           to: "00:02:54,00"
-          text: "I was even doing research to increase production."
+          text: ~

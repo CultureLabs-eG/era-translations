@@ -2,18 +2,18 @@ fr:
   erwin-schulz:
     chapter-4:
       c: 4
-      title: "Political education"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,12"
           to: "00:00:17,27"
-          text: "Something else helped my attitude and that was the year 1929, I think."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:17,27"
           to: "00:00:25,15"
-          text: "That was when the book “All quiet on the Western Front “, by Remarque was published."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:25,15"
@@ -23,12 +23,12 @@ fr:
           s: 4
           from: "00:00:26,09"
           to: "00:00:38,00"
-          text: "This book was read by the organised youngsters of the union,"
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:38,00"
           to: "00:00:50,13"
-          text: "in the SAJ (socialistic labourer youth) or communistic labourer youth or by the labourer sportsmen."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:50,13"
@@ -38,27 +38,27 @@ fr:
           s: 7
           from: "00:00:52,06"
           to: "00:01:05,21"
-          text: "The older ones, who took part in the First World War, had to report at our youth centre evenings:"
+          text: ~
         sequence-8:
           s: 8
           from: "00:01:05,21"
           to: "00:01:09,11"
-          text: "“What was it like in Verdun, or somewhere else?” -"
+          text: ~
         sequence-9:
           s: 9
           from: "00:01:09,11"
           to: "00:01:33,29"
-          text: "Your Experiences! And that strengthened many youngsters in their fight against the fascist danger that appeared over the years."
+          text: ~
         sequence-10:
           s: 10
           from: "00:01:33,29"
           to: "00:01:44,22"
-          text: "The SA tried to ban the film and did manage."
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:44,22"
           to: "00:01:58,04"
-          text: "That is something that accompanied me further on in my life;"
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:58,04"
@@ -68,4 +68,4 @@ fr:
           s: 13
           from: "00:02:00,13"
           to: "00:02:04,11"
-          text: "against war and against fascism, too."
+          text: ~

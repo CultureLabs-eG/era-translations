@@ -2,43 +2,43 @@ it:
   lipej-kolenik:
     chapter-5:
       c: 5
-      title: "Joining the partisan army"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,12"
           to: "00:00:03,09"
-          text: "So I went home."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:03,09"
           to: "00:00:07,26"
-          text: "On the first evening the partisans, acquaintances were already there."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:07,26"
           to: "00:00:11,13"
-          text: "After 14 days the holiday was over."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:11,13"
           to: "00:00:15,12"
-          text: "“Well, what are we going to do, mother?” My mother was crying again."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:15,12"
           to: "00:00:19,08"
-          text: "She sprinkled me with holy water."
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:19,08"
           to: "00:00:30,07"
-          text: "“Mother, that doesn’t help! I will not go back to the ones that sentenced us to death.”"
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:30,07"
           to: "00:00:36,00"
-          text: "So I went and the commander of the partisans said:"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:36,00"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:39,00"
           to: "00:00:41,18"
-          text: "“We will come and pick you up."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:41,18"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:42,17"
           to: "00:00:54,25"
-          text: "We will bring enough people so your family won’t be resettled or get locked into jail.”"
+          text: ~
         sequence-12:
           s: 12
           from: "00:00:54,25"
@@ -68,57 +68,57 @@ it:
           s: 13
           from: "00:00:56,06"
           to: "00:00:57,26"
-          text: "The evening came."
+          text: ~
         sequence-14:
           s: 14
           from: "00:00:57,26"
           to: "00:01:05,22"
-          text: "No partisan called up, but the commander had told me I would be gone in the evening."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:05,22"
           to: "00:01:12,27"
-          text: "I went back to Bleiburg and picked up my military equipment."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:12,27"
           to: "00:01:19,11"
-          text: "On the next day I met the commander of the partisans and said to him:"
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:19,11"
           to: "00:01:21,04"
-          text: "“Why didn’t you come?”"
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:21,04"
           to: "00:01:22,10"
-          text: "He said to me:"
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:22,10"
           to: "00:01:24,27"
-          text: "“You know by yourself where you belong.”"
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:24,27"
           to: "00:01:29,07"
-          text: "That was easily said in those days."
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:29,07"
           to: "00:01:32,25"
-          text: "But it was not an easy thing to do."
+          text: ~
         sequence-22:
           s: 22
           from: "00:01:32,25"
           to: "00:01:38,16"
-          text: "But the English bombarded Klagenfurt in those days."
+          text: ~
         sequence-23:
           s: 23
           from: "00:01:38,16"
           to: "00:01:51,29"
-          text: "When the police came afterwards to ask if I had reported somewhere, my mother said:"
+          text: ~
         sequence-24:
           s: 24
           from: "00:01:51,29"
@@ -128,27 +128,27 @@ it:
           s: 25
           from: "00:01:56,03"
           to: "00:02:00,07"
-          text: "“Maybe he has been killed in the air raid.”"
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:00,07"
           to: "00:02:09,09"
-          text: "My Mother was clever. There was an illegal co-worker of the partisans in Bleiburg."
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:09,09"
           to: "00:02:21,28"
-          text: "After 2 to 3 weeks, my mother gave one of them a parcel to take it to this woman."
+          text: ~
         sequence-28:
           s: 28
           from: "00:02:21,28"
           to: "00:02:31,17"
-          text: "Later this woman took the parcel to the post with my military address on it,"
+          text: ~
         sequence-29:
           s: 29
           from: "00:02:31,17"
           to: "00:02:35,24"
-          text: "the one I should have reported to after my holiday."
+          text: ~
         sequence-30:
           s: 30
           from: "00:02:35,24"
@@ -158,9 +158,9 @@ it:
           s: 31
           from: "00:02:36,25"
           to: "00:02:38,11"
-          text: "The parcel came back again…"
+          text: ~
         sequence-32:
           s: 32
           from: "00:02:38,11"
           to: "00:02:42,11"
-          text: "The parcels kept going backwards and forwards."
+          text: ~

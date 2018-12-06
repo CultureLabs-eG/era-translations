@@ -2,18 +2,18 @@ sl:
   anita-malavasi:
     chapter-1:
       c: 1
-      title: "Introduction, family"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:07,15"
-          text: "I was born in Roncolo di Quattro Castella on the 21st of May 1921."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:07,15"
           to: "00:00:14,27"
-          text: "We were a family of farmers, but our roots were different."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:14,27"
@@ -33,7 +33,7 @@ sl:
           s: 6
           from: "00:00:36,20"
           to: "00:00:48,06"
-          text: "My grandparents had both studied a lot more than farmers would have normally done."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:48,06"
@@ -53,4 +53,4 @@ sl:
           s: 10
           from: "00:01:10,15"
           to: "00:01:20,20"
-          text: "My father’s generation was the only one involved in farming only until they were older and got involved in other things."
+          text: ~

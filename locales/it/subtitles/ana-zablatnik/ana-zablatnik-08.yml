@@ -2,68 +2,68 @@ it:
   ana-zablatnik:
     chapter-8:
       c: 8
-      title: "Horrible conditions in prison"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:09,06"
-          text: "Around 40 to 45 women were in one cell with 10 beds."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:09,06"
           to: "00:00:16,13"
-          text: "The others had to sleep next to them, or three in one bed, or on the floor."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:16,13"
           to: "00:00:18,21"
-          text: "Well, we were so many."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:18,21"
           to: "00:00:23,17"
-          text: "We only had one pot for the loo,"
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:23,17"
           to: "00:00:28,02"
-          text: "and in the morning there was everything in there,"
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:28,02"
           to: "00:00:31,24"
-          text: "and you can imagine what it looked like then."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:31,24"
           to: "00:00:38,15"
-          text: "Nobody brought in different straw mattresses."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:38,15"
           to: "00:00:40,21"
-          text: "With the food it was just the same."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:40,21"
           to: "00:00:47,11"
-          text: "In the morning it was a thin soup or coffee, which you couldn’t even smell – that was tea;"
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:47,11"
           to: "00:00:50,15"
-          text: "at 10 am we got a dry piece of bread for the whole day."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:50,15"
           to: "00:00:52,25"
-          text: "For dinner there was soup again,"
+          text: ~
         sequence-12:
           s: 12
           from: "00:00:52,25"
           to: "00:00:59,06"
-          text: "with some lentils, oats or"
+          text: ~
         sequence-13:
           s: 13
           from: "00:00:59,06"
@@ -73,14 +73,14 @@ it:
           s: 14
           from: "00:01:00,21"
           to: "00:01:11,18"
-          text: "whatever was left over from the stalks of cabbage, which you couldn’t even chew."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:11,18"
           to: "00:01:13,07"
-          text: "That was our lunch."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:13,07"
           to: "00:01:15,00"
-          text: "In the evening it was coffee again."
+          text: ~

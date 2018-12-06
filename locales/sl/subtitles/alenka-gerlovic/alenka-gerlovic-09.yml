@@ -13,7 +13,7 @@ sl:
           s: 2
           from: "00:00:06,21"
           to: "00:00:11,15"
-          text: "And my humble self was among them."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:11,15"

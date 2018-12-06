@@ -2,18 +2,18 @@ it:
   lidia-valeriani:
     chapter-8:
       c: 8
-      title: "Activities as a partisan; battle-name"
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,05"
           to: "00:00:03,28"
-          text: "They called me Aurora and told me:"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:03,28"
           to: "00:00:09,11"
-          text: "“Aurora, here we need someone who stays on duty the whole time”."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:09,11"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:10,20"
           to: "00:00:18,07"
-          text: "I was available night and day, unlike those who stayed at home"
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:18,07"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:19,21"
           to: "00:00:25,18"
-          text: "and did their household chores."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:25,18"
           to: "00:00:28,18"
-          text: "We needed someone who was always available."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:28,18"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:29,11"
           to: "00:00:47,22"
-          text: "I said alright, I’ll learn. I took typewriting classes, we got a typewriter and began my full daily life."
+          text: ~
         sequence-10:
           s: 10
           from: "00:00:47,22"
@@ -58,22 +58,22 @@ it:
           s: 11
           from: "00:00:49,05"
           to: "00:00:55,26"
-          text: "I was a dispatch rider, I was a secretary, I did everything that needed to be done."
+          text: ~
         sequence-12:
           s: 12
           from: "00:00:55,26"
           to: "00:01:01,02"
-          text: "In the beginning I went to Bologna twice a week,"
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:01,02"
           to: "00:01:13,05"
-          text: "picking up weapons and ammunitions if needed, but mostly new orders coming from the central headquarters,"
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:13,05"
           to: "00:01:19,12"
-          text: "which we depended on."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:19,12"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:21,11"
           to: "00:01:27,01"
-          text: "There were the central headquarters and then other headquarters all the way down to the brigades."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:27,01"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:28,21"
           to: "00:01:38,06"
-          text: "I worked without pause taking part in actions when it was needed,"
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:38,06"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:39,20"
           to: "00:01:51,17"
-          text: "shadowing and other actions of our brigade."
+          text: ~
         sequence-21:
           s: 21
           from: "00:01:51,17"
@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:01:52,24"
           to: "00:02:11,02"
-          text: "We had places we went to, we called them “recapiti” (addresses), where I brought things for everybody:"
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:11,02"
           to: "00:02:19,22"
-          text: "in Carpi, in Fossoli, in the lowlands where we had all our partisans."
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:19,22"
@@ -128,17 +128,17 @@ it:
           s: 25
           from: "00:02:21,04"
           to: "00:02:30,26"
-          text: "I carried the stuff there and the dispatch riders then carried it to the “recapiti”."
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:30,26"
           to: "00:02:34,06"
-          text: "There were various dispatch riders."
+          text: ~
         sequence-27:
           s: 27
           from: "00:02:34,06"
           to: "00:02:41,21"
-          text: "At the local headquarters I was a secretary but I also had two dispatch riders there."
+          text: ~
         sequence-28:
           s: 28
           from: "00:02:41,21"
@@ -148,12 +148,12 @@ it:
           s: 29
           from: "00:02:43,28"
           to: "00:02:50,01"
-          text: "One was Carmen (battle name) and the other Vera, who was from Yugoslavia."
+          text: ~
         sequence-30:
           s: 30
           from: "00:02:50,01"
           to: "00:02:54,14"
-          text: "They were assigned to the headquarters of the brigade."
+          text: ~
         sequence-31:
           s: 31
           from: "00:02:54,14"
@@ -163,37 +163,37 @@ it:
           s: 32
           from: "00:02:55,09"
           to: "00:02:58,26"
-          text: "That’s what the partisan struggle was about."
+          text: ~
         sequence-33:
           s: 33
           from: "00:02:58,26"
           to: "00:03:04,20"
-          text: "Fourteen months of actions."
+          text: ~
         sequence-34:
           s: 34
           from: "00:03:04,20"
           to: "00:03:11,29"
-          text: "If it wasn’t everyday, there was something one night, something else the following and the one after too."
+          text: ~
         sequence-35:
           s: 35
           from: "00:03:11,29"
           to: "00:03:15,24"
-          text: "I did this the whole time, continuously."
+          text: ~
         sequence-36:
           s: 36
           from: "00:03:15,24"
           to: "00:03:25,10"
-          text: "If I wasn’t typewriting, I was riding my bicycle going all over the place, to Bologna or other towns."
+          text: ~
         sequence-37:
           s: 37
           from: "00:03:25,10"
           to: "00:03:38,00"
-          text: "More or less constantly: these actions, these deaths."
+          text: ~
         sequence-38:
           s: 38
           from: "00:03:38,00"
           to: "00:03:43,03"
-          text: "Because there were battles, casualties too."
+          text: ~
         sequence-39:
           s: 39
           from: "00:03:43,03"
@@ -203,4 +203,4 @@ it:
           s: 40
           from: "00:03:44,09"
           to: "00:03:47,13"
-          text: "It was fourteen months of battle."
+          text: ~

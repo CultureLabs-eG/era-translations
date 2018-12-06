@@ -8,12 +8,12 @@ de:
           s: 1
           from: "00:00:00,28"
           to: "00:00:06,28"
-          text: "After all these actions the Germans couldn’t allow us to continue any longer."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:06,28"
           to: "00:00:14,05"
-          text: "I guess at our headquarters they found out that there would be a mop-up."
+          text: ~
         sequence-3:
           s: 3
           from: "00:00:14,05"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:15,05"
           to: "00:00:24,15"
-          text: "Paterlini came to us saying “we must find something to blow up the bridge”, so that the trucks couldn’t get through."
+          text: ~
         sequence-5:
           s: 5
           from: "00:00:24,15"
@@ -38,12 +38,12 @@ de:
           s: 7
           from: "00:00:36,08"
           to: "00:00:41,21"
-          text: "they had a cave so they also had TNT, mines, gunpowder…"
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:41,21"
           to: "00:00:51,02"
-          text: "We prepared the holes and then blew up a large arch of a very big bridge in Cinque Cerri."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:51,02"
@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:00:52,16"
           to: "00:00:58,22"
-          text: "Then we left for the mountains. From that day I was in battle."
+          text: ~
         sequence-11:
           s: 11
           from: "00:00:58,22"
@@ -63,7 +63,7 @@ de:
           s: 12
           from: "00:00:59,17"
           to: "00:01:07,20"
-          text: "We went to the headquarters in Lama Golese, on the Cusna mountain."
+          text: ~
         sequence-13:
           s: 13
           from: "00:01:07,20"
@@ -73,12 +73,12 @@ de:
           s: 14
           from: "00:01:08,27"
           to: "00:01:19,06"
-          text: "Pasquale Marconi was there, a teacher from Castelnovo Monti, who was a Christian Democrat,  a catholic anyway."
+          text: ~
         sequence-15:
           s: 15
           from: "00:01:19,06"
           to: "00:01:30,01"
-          text: "Then there were Eros, Miro, a Jewish doctor who was from Jugoslavia."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:30,01"
@@ -88,17 +88,17 @@ de:
           s: 17
           from: "00:01:31,00"
           to: "00:01:33,06"
-          text: "We spent a few days there."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:33,06"
           to: "00:01:39,10"
-          text: "It was a sort of recruitment, but we didn’t have enough weapons;"
+          text: ~
         sequence-19:
           s: 19
           from: "00:01:39,10"
           to: "00:01:45,29"
-          text: "we were waiting for Allied air drops that didn’t take place,"
+          text: ~
         sequence-20:
           s: 20
           from: "00:01:45,29"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:47,06"
           to: "00:01:54,29"
-          text: "so they sent four of us back to Ligonchio."
+          text: ~
         sequence-22:
           s: 22
           from: "00:01:54,29"

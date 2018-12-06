@@ -2,13 +2,13 @@ fr:
   lidia-valeriani:
     chapter-11:
       c: 11
-      title: Liberation
+      title: ~
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,20"
           to: "00:00:07,25"
-          text: "On the 25th of April, in Modena, we were free since we had already liberated ourselves on the 23rd or the 22nd."
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:07,25"
@@ -18,7 +18,7 @@ fr:
           s: 3
           from: "00:00:08,26"
           to: "00:00:13,08"
-          text: "I want to mention the only thing that I didn’t manage to do, as the liberation came right after."
+          text: ~
         sequence-4:
           s: 4
           from: "00:00:13,08"
@@ -28,22 +28,22 @@ fr:
           s: 5
           from: "00:00:17,10"
           to: "00:00:27,01"
-          text: "We stayed up all night to prepare a map,"
+          text: ~
         sequence-6:
           s: 6
           from: "00:00:27,01"
           to: "00:00:42,23"
-          text: "illustrating where the units had to leave from, the squads in our area, where the various GAPs were."
+          text: ~
         sequence-7:
           s: 7
           from: "00:00:42,23"
           to: "00:00:48,07"
-          text: "We did this for our GAPs, the SAPs did the same for their SAPs."
+          text: ~
         sequence-8:
           s: 8
           from: "00:00:48,07"
           to: "00:00:59,06"
-          text: "Others came down from the mountains, and they also had places to liberate."
+          text: ~
         sequence-9:
           s: 9
           from: "00:00:59,06"
@@ -53,12 +53,12 @@ fr:
           s: 10
           from: "00:01:00,21"
           to: "00:01:06,04"
-          text: "We stayed up all night to prepare this,"
+          text: ~
         sequence-11:
           s: 11
           from: "00:01:06,04"
           to: "00:01:16,22"
-          text: "this advance strategy to throw the Germans, the fascists, all the soldiers and armed men out of Modena."
+          text: ~
         sequence-12:
           s: 12
           from: "00:01:16,22"
@@ -68,7 +68,7 @@ fr:
           s: 13
           from: "00:01:21,17"
           to: "00:01:24,11"
-          text: "I had to go to Paganine"
+          text: ~
         sequence-14:
           s: 14
           from: "00:01:24,11"
@@ -78,22 +78,22 @@ fr:
           s: 15
           from: "00:01:25,17"
           to: "00:01:34,01"
-          text: "to transmit the orders, since it was always dispatch-riders who had to do this."
+          text: ~
         sequence-16:
           s: 16
           from: "00:01:34,01"
           to: "00:01:43,28"
-          text: "There was no other way. We had no telephone."
+          text: ~
         sequence-17:
           s: 17
           from: "00:01:43,28"
           to: "00:01:51,12"
-          text: "So I left with my orders."
+          text: ~
         sequence-18:
           s: 18
           from: "00:01:51,12"
           to: "00:02:01,26"
-          text: "I had to go because we could already hear bombing in Bologna"
+          text: ~
         sequence-19:
           s: 19
           from: "00:02:01,26"
@@ -103,22 +103,22 @@ fr:
           s: 20
           from: "00:02:06,26"
           to: "00:02:18,17"
-          text: "and then some bombed around us too."
+          text: ~
         sequence-21:
           s: 21
           from: "00:02:18,17"
           to: "00:02:22,12"
-          text: "In Modena this didn’t happen because we told them,"
+          text: ~
         sequence-22:
           s: 22
           from: "00:02:22,12"
           to: "00:02:29,06"
-          text: "but they bombed Reggio, and Cavriago, where the German headquarters were."
+          text: ~
         sequence-23:
           s: 23
           from: "00:02:29,06"
           to: "00:02:35,20"
-          text: "I left and headed down Morane street to Paganine,"
+          text: ~
         sequence-24:
           s: 24
           from: "00:02:35,20"
@@ -128,7 +128,7 @@ fr:
           s: 25
           from: "00:02:42,23"
           to: "00:02:46,19"
-          text: "a town towards Bologna, towards the mountains."
+          text: ~
         sequence-26:
           s: 26
           from: "00:02:46,19"
@@ -138,7 +138,7 @@ fr:
           s: 27
           from: "00:02:47,29"
           to: "00:02:54,09"
-          text: "When I got there, I went on for a kilometre and I found the Germans already retreating."
+          text: ~
         sequence-28:
           s: 28
           from: "00:02:54,09"
@@ -148,22 +148,22 @@ fr:
           s: 29
           from: "00:02:55,23"
           to: "00:03:02,24"
-          text: "Cows, carts, horses, bicycles, they had a bit of everything."
+          text: ~
         sequence-30:
           s: 30
           from: "00:03:02,24"
           to: "00:03:08,18"
-          text: "They stopped me. I couldn’t move on."
+          text: ~
         sequence-31:
           s: 31
           from: "00:03:08,18"
           to: "00:03:17,10"
-          text: "“I have to go”, I told them. We always found an excuse, an ill brother or telling them we lived there and had to get back."
+          text: ~
         sequence-32:
           s: 32
           from: "00:03:17,10"
           to: "00:03:23,21"
-          text: "But there was no way. They wanted to take my bicycle and forced me to go back."
+          text: ~
         sequence-33:
           s: 33
           from: "00:03:23,21"
@@ -173,19 +173,19 @@ fr:
           s: 34
           from: "00:03:24,13"
           to: "00:03:30,05"
-          text: "I had to wait for the agreed time to meet with the other comrades,"
+          text: ~
         sequence-35:
           s: 35
           from: "00:03:30,05"
           to: "00:03:36,25"
-          text: "where all got together, all those who had left to transmit the orders."
+          text: ~
         sequence-36:
           s: 36
           from: "00:03:36,25"
           to: "00:03:42,26"
-          text: "We met and then helped those who had to defend the city and those arriving."
+          text: ~
         sequence-37:
           s: 37
           from: "00:03:42,26"
           to: "00:03:48,22"
-          text: "That was the only mission I didn’t complete."
+          text: ~
