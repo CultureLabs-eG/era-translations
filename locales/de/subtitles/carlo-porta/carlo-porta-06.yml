@@ -2,110 +2,130 @@ de:
   carlo-porta:
     chapter-6:
       c: 6
-      title: ~
+      title: "Das harte Leben im Lager"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,23"
           to: "00:00:08,04"
-          text: ~
+          text: "Sie gaben uns nur eines dieser großen dunklen Brote zu Essen."
         sequence-2:
           s: 2
           from: "00:00:08,04"
           to: "00:00:13,12"
-          text: ~
+          text: "Es war ein großer Laib aber man musste es in fünf Teile brechen."
         sequence-3:
           s: 3
           from: "00:00:13,12"
           to: "00:00:20,19"
-          text: ~
+          text: |-
+              Das war alles, was man bis zum Abend bekam.
+              Am Abend bekamen wir nur etwas eklige Brühe, aber kein Brot mehr.
         sequence-4:
           s: 4
           from: "00:00:20,19"
           to: "00:00:29,00"
-          text: ~
+          text: |-
+              Das Stück Brot war für Gold für mich:
+              ich aß es Stückchen für Stückchen um es aufzusparen.
         sequence-5:
           s: 5
           from: "00:00:29,00"
           to: "00:00:38,15"
-          text: ~
+          text: |-
+              Wir hatten schrecklichen Hunger und im Winter,
+              als wir zurück nach Hagen gingen, gab es eine Eiseskälte.
         sequence-6:
           s: 6
           from: "00:00:38,15"
           to: "00:00:46,15"
-          text: ~
+          text: "Wir verbrachten den ganzen Tag in der Nähe eines Flusses und die Luft war unerträglich."
         sequence-7:
           s: 7
           from: "00:00:46,15"
           to: "00:00:50,07"
-          text: ~
+          text: "Zum Mittagessen gaben sie uns eine Plörre."
         sequence-8:
           s: 8
           from: "00:00:50,07"
           to: "00:00:54,04"
-          text: ~
+          text: "Dort habe ich Margarine kennengelernt,"
         sequence-9:
           s: 9
           from: "00:00:54,04"
           to: "00:01:03,27"
-          text: ~
+          text: |-
+              Mangold, Rüben und solche Dinge, alles gehackt,
+              gekocht und mit etwas Margarine verfeinert.
         sequence-10:
           s: 10
           from: "00:01:03,27"
           to: "00:01:07,25"
-          text: ~
+          text: "Wer zuletzt kam, aß es kalt."
         sequence-11:
           s: 11
           from: "00:01:07,25"
           to: "00:01:14,20"
-          text: ~
+          text: |-
+              Das war bei mir oft der Fall,
+              weil ich mich nicht immer mit allen anderen anstellen wollte.
         sequence-12:
           s: 12
           from: "00:01:14,20"
           to: "00:01:19,00"
-          text: ~
+          text: "Manchmal erlaubten sie uns aus der Reihe zu tanzen."
         sequence-13:
           s: 13
           from: "00:01:19,00"
           to: "00:01:24,06"
-          text: ~
+          text: |-
+              Die Deutschen schienen es zu genießen
+              uns beim drängeln und streiten zu zu sehen.
         sequence-14:
           s: 14
           from: "00:01:24,06"
           to: "00:01:32,20"
-          text: ~
+          text: |-
+              Mützen fielen in die Suppe.
+              Etwas, das die Menschen zum Durchdrehen brachte.
         sequence-15:
           s: 15
           from: "00:01:32,20"
           to: "00:01:43,04"
-          text: ~
+          text: |-
+              Mein Korporal, Mario Palazzeschi, ein Junge aus Arezzo,
+              war unglaublich gesund. Viel gesünder als ich.
         sequence-16:
           s: 16
           from: "00:01:43,04"
           to: "00:01:49,04"
-          text: ~
+          text: |-
+              Eines Tages aber, begann er zu schluchzen
+              „Carlo, ich schaffe es nicht, ich schaffe es nicht…“
         sequence-17:
           s: 17
           from: "00:01:49,04"
           to: "00:01:52,11"
-          text: ~
+          text: "Innerhalb von drei Monaten war er tot."
         sequence-18:
           s: 18
           from: "00:01:52,11"
           to: "00:01:54,18"
-          text: ~
+          text: "Wissen Sie was ich immer gesagt habe?"
         sequence-19:
           s: 19
           from: "00:01:54,18"
           to: "00:02:02,11"
-          text: ~
+          text: "Herr Mussolini und Herr Hitler müssen vor mir sterben."
         sequence-20:
           s: 20
           from: "00:02:02,11"
           to: "00:02:10,24"
-          text: ~
+          text: |-
+              Stellen Sie sich vor, was sie sagen würden, wenn sie erführen,
+              dass ich immer noch da bin. Mit über achtzig Jahren!
         sequence-21:
           s: 21
           from: "00:02:10,24"
           to: "00:02:15,02"
-          text: ~
+          text: "Ich sage das nur um ein wenig zu lachen."
