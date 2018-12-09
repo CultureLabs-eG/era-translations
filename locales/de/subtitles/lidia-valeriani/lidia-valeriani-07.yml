@@ -38,37 +38,37 @@ de:
           s: 7
           from: "00:00:35,00"
           to: "00:00:44,06"
-          text: "Sie haben getäuscht, damit der Streik nur in Montecavolo gut läuft, aber nicht in den anderen Gemeinden rund um Reggio."
+          text: "Man hatte uns verraten, jedoch der Streik in Montecavolo funktionierte, aber nicht in den anderen Dörfern um Reggio,"
         sequence-8:
           s: 8
           from: "00:00:44,06"
           to: "00:00:55,05"
-          text: ~
+          text: "denn wenn das in der ganzen Provinz passiert wäre, hätten die Faschisten und die Deutschen viel zu tun gehabt!"
         sequence-9:
           s: 9
           from: "00:00:55,05"
           to: "00:01:03,29"
-          text: ~
+          text: "So konzentrierten sie sich auf Montecavolo, während der Streik in Rivalta nicht funktionierte,"
         sequence-10:
           s: 10
           from: "00:01:03,29"
           to: "00:01:13,22"
-          text: ~
+          text: "da jemand die Leute gewarnt hatte „nicht hinzugehen, um nicht umgebracht zu werden“."
         sequence-11:
           s: 11
           from: "00:01:13,22"
           to: "00:01:21,13"
-          text: ~
+          text: "Es hätte passieren können, das stimmt, aber diese Kämpfe mussten geführt werden,"
         sequence-12:
           s: 12
           from: "00:01:21,13"
           to: "00:01:27,23"
-          text: ~
+          text: "sie waren ein Teil unserer Untergrundarbeit, dessen, wofür wir kämpften."
         sequence-13:
           s: 13
           from: "00:01:27,23"
           to: "00:01:35,08"
-          text: ~
+          text: "Wir mussten kämpfen, um uns von all dem zu befreien."
         sequence-14:
           s: 14
           from: "00:01:35,08"
@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:01:36,00"
           to: "00:01:43,29"
-          text: ~
+          text: "Bei mir zu Hause verhafteten sie Antinea, Liliana und Narciso, die einzigen, die sie antrafen."
         sequence-16:
           s: 16
           from: "00:01:43,29"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:01:46,00"
           to: "00:01:55,10"
-          text: ~
+          text: "Narciso war zehn, er wurde im September elf, und wir hatten damals März."
         sequence-18:
           s: 18
           from: "00:01:55,10"
@@ -98,47 +98,47 @@ de:
           s: 19
           from: "00:01:56,03"
           to: "00:02:00,26"
-          text: ~
+          text: "Später brachten sie ihn wieder zurück nach Hause, während Antinea und Liliana in Haft blieben."
         sequence-20:
           s: 20
           from: "00:02:00,26"
           to: "00:02:04,08"
-          text: ~
+          text: "Meine Mutter war mit den Kleinsten zu Hause geblieben,"
         sequence-21:
           s: 21
           from: "00:02:04,08"
           to: "00:02:11,27"
-          text: ~
+          text: "da Beatrice erst 5 war (sie war 1939 geboren)."
         sequence-22:
           s: 22
           from: "00:02:11,27"
           to: "00:02:25,04"
-          text: ~
+          text: "Sie hatten einige Sachen zusammengepackt, um sie zu retten, falls die Faschisten kämen, um das Haus niederzubrennen."
         sequence-23:
           s: 23
           from: "00:02:25,04"
           to: "00:02:27,25"
-          text: ~
+          text: "Dann verhafteten sie alle."
         sequence-24:
           s: 24
           from: "00:02:27,25"
           to: "00:02:36,13"
-          text: ~
+          text: "Meinen Vater fanden sie nicht, sie erwischten ihn erst 7 oder 8 Tage später und schickten ihn in ein Konzentrationslager in Deutschland."
         sequence-25:
           s: 25
           from: "00:02:36,13"
           to: "00:02:45,07"
-          text: ~
+          text: "Sie kamen auch zur Familie Aleotti und verhafteten den Jüngsten,"
         sequence-26:
           s: 26
           from: "00:02:45,07"
           to: "00:02:48,29"
-          text: ~
+          text: "der ein Freund von Chicco Catellani war,"
         sequence-27:
           s: 27
           from: "00:02:48,29"
           to: "00:02:55,26"
-          text: ~
+          text: "und den Ältesten – sie fanden nur diese beiden – und schickten auch sie nach Deutschland."
         sequence-28:
           s: 28
           from: "00:02:55,26"
@@ -148,7 +148,7 @@ de:
           s: 29
           from: "00:02:57,10"
           to: "00:03:02,04"
-          text: ~
+          text: "Der Jüngste war etwa 16-17 Jahre alt."
         sequence-30:
           s: 30
           from: "00:03:02,04"
@@ -158,4 +158,4 @@ de:
           s: 31
           from: "00:03:06,04"
           to: "00:03:17,13"
-          text: ~
+          text: "In jener Nacht konnten wir von Ghiardo aus das Feuer in Scampate sehen, denn sie brannten einfach alle Häuser nieder."
