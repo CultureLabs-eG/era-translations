@@ -2,23 +2,23 @@ de:
   erwin-schulz:
     chapter-8:
       c: 8
-      title: ~
+      title: "Ankunft in Moorlager, Sport Belästigung"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,10"
           to: "00:00:07,24"
-          text: ~
+          text: "Als wir dort hinkamen und ausgeladen wurden, da sagte der Justitzwachtmeister,"
         sequence-2:
           s: 2
           from: "00:00:07,24"
           to: "00:00:13,12"
-          text: ~
+          text: "der uns begleitetete: \"Ach die armen Jungs.\""
         sequence-3:
           s: 3
           from: "00:00:13,12"
           to: "00:00:17,14"
-          text: ~
+          text: "Der wußte was im Moor los ist."
         sequence-4:
           s: 4
           from: "00:00:17,14"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:19,03"
           to: "00:00:22,06"
-          text: ~
+          text: "Wir wurden dann an die SA übergeben."
         sequence-6:
           s: 6
           from: "00:00:22,06"
@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:24,00"
           to: "00:00:33,00"
-          text: ~
+          text: "Da gings schon los die Schreierei: \"Linksrum, wer aus der Reihe tritt wird sofort erschossen."
         sequence-8:
           s: 8
           from: "00:00:33,00"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:34,09"
           to: "00:00:38,05"
-          text: ~
+          text: "So ging das nach \"Börgermoor\"."
         sequence-10:
           s: 10
           from: "00:00:38,05"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:00:39,02"
           to: "00:00:46,25"
-          text: ~
+          text: "Wir sind dann mit solcher Brigardebahn, das war eine Schmalspurbahn, hingefahren worden."
         sequence-12:
           s: 12
           from: "00:00:46,25"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:00:47,29"
           to: "00:00:50,24"
-          text: ~
+          text: "Wir wurden dort neu eingekleidet."
         sequence-14:
           s: 14
           from: "00:00:50,24"
@@ -78,27 +78,27 @@ de:
           s: 15
           from: "00:00:52,24"
           to: "00:01:04,07"
-          text: ~
+          text: "und der Kammerbulle, das war auch ein SA Mann, der fragte dann: \"Weshalb bist du denn hier?\""
         sequence-16:
           s: 16
           from: "00:01:04,07"
           to: "00:01:09,22"
-          text: ~
+          text: "Ich sage: \"Wegen Sport.\" Ich war ja im Sportprozess."
         sequence-17:
           s: 17
           from: "00:01:09,22"
           to: "00:01:15,02"
-          text: ~
+          text: "\"Ach, dann mach mal gleich 25 Süße.\""
         sequence-18:
           s: 18
           from: "00:01:15,02"
           to: "00:01:17,28"
-          text: ~
+          text: "Das waren 25 Kniebeugen."
         sequence-19:
           s: 19
           from: "00:01:17,28"
           to: "00:01:23,15"
-          text: ~
+          text: "Die hab ich dann gemacht, das war ja in der Zeit auch kein Problem."
         sequence-20:
           s: 20
           from: "00:01:23,15"
@@ -108,17 +108,17 @@ de:
           s: 21
           from: "00:01:24,20"
           to: "00:01:28,19"
-          text: ~
+          text: "\"Na, hast du das gut gemacht?\" Ich sage: \"Ich hoffe Herr Wachtmeister.\""
         sequence-22:
           s: 22
           from: "00:01:28,19"
           to: "00:01:32,18"
-          text: ~
+          text: "\"Na, dann mach nochmal deine Runde.\""
         sequence-23:
           s: 23
           from: "00:01:32,18"
           to: "00:01:42,13"
-          text: ~
+          text: "Dann haben die uns die Lederschuhe abgenommen, haben wir diese Holzschuhe bekommen. So wie die Holländer sind."
         sequence-24:
           s: 24
           from: "00:01:42,13"
@@ -128,7 +128,7 @@ de:
           s: 25
           from: "00:01:43,05"
           to: "00:01:54,21"
-          text: ~
+          text: "Und dann hat man uns Fußlappen hingeschmissen und diese Holzschuhe."
         sequence-26:
           s: 26
           from: "00:01:54,21"
@@ -138,7 +138,7 @@ de:
           s: 27
           from: "00:01:59,24"
           to: "00:02:07,12"
-          text: ~
+          text: "Und dann mußten wir wieder antreten. \"Wir haben ja auch einen schönen Sportplatz und den wollen wir euch mal zeigen. Da könnt ihr dann auch Sport machen.\""
         sequence-28:
           s: 28
           from: "00:02:07,12"
@@ -148,7 +148,7 @@ de:
           s: 29
           from: "00:02:08,18"
           to: "00:02:12,17"
-          text: ~
+          text: "Und auf dem Sportplatz hat man uns dann so rumgejagt."
         sequence-30:
           s: 30
           from: "00:02:12,17"
@@ -158,22 +158,22 @@ de:
           s: 31
           from: "00:02:13,26"
           to: "00:02:20,21"
-          text: ~
+          text: "Gruppenkniebeugen, Dauerlauf"
         sequence-32:
           s: 32
           from: "00:02:20,21"
           to: "00:02:28,15"
-          text: ~
+          text: "und misshandelt wurden wir auch, mit Kolbenschlägen von der SA-Bewachung."
         sequence-33:
           s: 33
           from: "00:02:28,15"
           to: "00:02:33,18"
-          text: ~
+          text: "Wir mussten nachher über eine Eskaladierwand – die ist 2 Meter hoch."
         sequence-34:
           s: 34
           from: "00:02:33,18"
           to: "00:02:36,10"
-          text: ~
+          text: "Einige kamen nicht ’rüber,"
         sequence-35:
           s: 35
           from: "00:02:36,10"
@@ -183,12 +183,12 @@ de:
           s: 36
           from: "00:02:37,07"
           to: "00:02:44,25"
-          text: ~
+          text: "da waren ja auch Ältere bei, die auch schon jahrelang eingesperrt waren."
         sequence-37:
           s: 37
           from: "00:02:44,25"
           to: "00:02:48,08"
-          text: ~
+          text: "Die hatten ja keine Luft mehr bekommen."
         sequence-38:
           s: 38
           from: "00:02:48,08"
@@ -198,4 +198,4 @@ de:
           s: 39
           from: "00:02:49,00"
           to: "00:02:53,15"
-          text: ~
+          text: "Na ja, dann: „Freiwillige vor“, wir sind drüber, wir Jüngeren."

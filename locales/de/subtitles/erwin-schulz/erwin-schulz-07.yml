@@ -2,13 +2,13 @@ de:
   erwin-schulz:
     chapter-7:
       c: 7
-      title: ~
+      title: "Gefängnis Luckau, Arbeit, Inhaftierung "
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,10"
           to: "00:00:08,27"
-          text: ~
+          text: "Ich glaube wir sind auch in Ketten durch Luckau, vom Bahnhof, gelaufen."
         sequence-2:
           s: 2
           from: "00:00:08,27"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:10,11"
           to: "00:00:14,09"
-          text: ~
+          text: "und hinter uns schlossen sich die Tore."
         sequence-4:
           s: 4
           from: "00:00:14,09"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:15,06"
           to: "00:00:25,11"
-          text: ~
+          text: "Wir wurden dort eingekleidet, bekamen die Zuchthauskleidung. Unsere Privatsachen wurden uns alle abgenommen."
         sequence-6:
           s: 6
           from: "00:00:25,11"
@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:27,21"
           to: "00:00:31,00"
-          text: ~
+          text: "Da kamen wir in eine Zelle"
         sequence-8:
           s: 8
           from: "00:00:31,00"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:32,23"
           to: "00:00:38,23"
-          text: ~
+          text: "so zwei mal vier Meter, mit drei Mann."
         sequence-10:
           s: 10
           from: "00:00:38,23"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:00:40,04"
           to: "00:00:49,15"
-          text: ~
+          text: "Da sollte in den nächsten Monaten und Jahren sich unser weiteres Leben abspielen."
         sequence-12:
           s: 12
           from: "00:00:49,15"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:00:50,11"
           to: "00:00:54,15"
-          text: ~
+          text: "Luckau als Zuchthaus war überbelegt."
         sequence-14:
           s: 14
           from: "00:00:54,15"
@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:00:55,12"
           to: "00:01:05,02"
-          text: ~
+          text: "In Einmannzellen waren drei Mann drin. Wie es in den großen Zellen war, weiß ich nicht."
         sequence-16:
           s: 16
           from: "00:01:05,02"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:01:05,17"
           to: "00:01:15,17"
-          text: ~
+          text: "Wir waren ja isoliert. Aus der Zelle kamen wir ja nur raus in der Freistunde - eine halbe Stunde."
         sequence-18:
           s: 18
           from: "00:01:15,17"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:01:17,14"
           to: "00:01:22,16"
-          text: ~
+          text: "Da mußten wir Abstand waren zu anderen. Durften nicht sprechen."
         sequence-20:
           s: 20
           from: "00:01:22,16"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:23,21"
           to: "00:01:30,01"
-          text: ~
+          text: "Unterm Fenster ein Bett, das andere Bett war and der Wand hochgeklappt."
         sequence-22:
           s: 22
           from: "00:01:30,01"
@@ -118,12 +118,12 @@ de:
           s: 23
           from: "00:01:31,00"
           to: "00:01:37,29"
-          text: ~
+          text: "Und der dritte Mann der lag unten auf dem Fußboden auf Matratzen."
         sequence-24:
           s: 24
           from: "00:01:37,29"
           to: "00:01:48,11"
-          text: ~
+          text: "So lebten wir dort in der Zelle. Die Notdurft mußten wir in der Zelle verrichten."
         sequence-25:
           s: 25
           from: "00:01:48,11"
@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:01:49,05"
           to: "00:01:52,09"
-          text: ~
+          text: "In der ersten Zeit hatten wir keine Arbeit."
         sequence-27:
           s: 27
           from: "00:01:52,09"
@@ -143,7 +143,7 @@ de:
           s: 28
           from: "00:01:53,00"
           to: "00:02:05,03"
-          text: ~
+          text: "Nachher hatte man uns Arbeit gegeben. Da mußten wir Jutefasern aufknüpfen, oder aufwinden."
         sequence-29:
           s: 29
           from: "00:02:05,03"
@@ -153,7 +153,7 @@ de:
           s: 30
           from: "00:02:07,29"
           to: "00:02:29,19"
-          text: ~
+          text: "Von den Erntemaschinen, die hatten ja automatisch gebunden, die Gaben. Diese Jute mußten wir aufknüpfen. Da war ewig Dreck in der Zelle."
         sequence-31:
           s: 31
           from: "00:02:29,19"
@@ -163,12 +163,12 @@ de:
           s: 32
           from: "00:02:30,28"
           to: "00:02:44,20"
-          text: ~
+          text: "Wir mußten nachher auch abends unsere Zuchthauskleidung und die Schuhe rauslegen, die waren dann vor der Zelle draußen."
         sequence-33:
           s: 33
           from: "00:02:44,20"
           to: "00:02:48,00"
-          text: ~
+          text: "Die hatten Angst das wir fliehen, oder weiß ich."
         sequence-34:
           s: 34
           from: "00:02:48,00"
@@ -178,7 +178,7 @@ de:
           s: 35
           from: "00:02:48,27"
           to: "00:02:51,08"
-          text: ~
+          text: "Post bekam ich von meiner Schwester."
         sequence-36:
           s: 36
           from: "00:02:51,08"
@@ -188,12 +188,12 @@ de:
           s: 37
           from: "00:02:51,27"
           to: "00:03:03,22"
-          text: ~
+          text: "Sie grüßte von den Eltern, und behandelte oft so wissenschaftliche Themen"
         sequence-38:
           s: 38
           from: "00:03:03,22"
           to: "00:03:09,01"
-          text: ~
+          text: "die anregten zur Diskussion. Wir waren ja drei Mann."
         sequence-39:
           s: 39
           from: "00:03:09,01"
@@ -203,7 +203,7 @@ de:
           s: 40
           from: "00:03:10,10"
           to: "00:03:13,29"
-          text: ~
+          text: "Die anderen beiden waren auch aus dem Sportprozess."
         sequence-41:
           s: 41
           from: "00:03:13,29"
@@ -213,19 +213,19 @@ de:
           s: 42
           from: "00:03:15,25"
           to: "00:03:26,05"
-          text: ~
+          text: "Später habe ich auch die Genehmigung bekommen Debattenschrift / Steno zu lernen."
         sequence-43:
           s: 43
           from: "00:03:26,05"
           to: "00:03:31,01"
-          text: ~
+          text: "aber zum Üben hatten wir nur ne Schiefertafel."
         sequence-44:
           s: 44
           from: "00:03:31,01"
           to: "00:03:35,12"
-          text: ~
+          text: "Debattenschrift auf der Schiefertafel war natürlich eine Illusion"
         sequence-45:
           s: 45
           from: "00:03:35,12"
           to: "00:03:38,00"
-          text: ~
+          text: "Aber da hab ich das gelernt."

@@ -2,13 +2,13 @@ de:
   erwin-schulz:
     chapter-9:
       c: 9
-      title: ~
+      title: "Ein Tag im Börgermoor"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,15"
           to: "00:00:03,21"
-          text: ~
+          text: "Ich glaube, wir wurden so um sechs geweckt."
         sequence-2:
           s: 2
           from: "00:00:03,21"
@@ -18,12 +18,12 @@ de:
           s: 3
           from: "00:00:04,14"
           to: "00:00:08,19"
-          text: ~
+          text: "Da ging dann alles im Galopptempo – nicht:"
         sequence-4:
           s: 4
           from: "00:00:08,19"
           to: "00:00:15,12"
-          text: ~
+          text: "Betten machen, waschen, auf Toilette gehen, das war hinten in irgend so einer Baracke."
         sequence-5:
           s: 5
           from: "00:00:15,12"
@@ -33,17 +33,17 @@ de:
           s: 6
           from: "00:00:16,21"
           to: "00:00:20,02"
-          text: ~
+          text: "Da wurde dann nachher das Essen ausgeteilt."
         sequence-7:
           s: 7
           from: "00:00:20,02"
           to: "00:00:34,04"
-          text: ~
+          text: "Wir bekamen einen halben Liter Suppe, und die Tagesration Brot, ein bisschen Fett, Marmelade,"
         sequence-8:
           s: 8
           from: "00:00:34,04"
           to: "00:00:38,11"
-          text: ~
+          text: "Schwarzbrot und Weißbrot, das war dann auch so gemischt."
         sequence-9:
           s: 9
           from: "00:00:38,11"
@@ -53,12 +53,12 @@ de:
           s: 10
           from: "00:00:39,07"
           to: "00:00:45,26"
-          text: ~
+          text: "Und dann war Zählappell – nicht - das ging alles sozusagen im Galopp."
         sequence-11:
           s: 11
           from: "00:00:45,26"
           to: "00:00:54,11"
-          text: ~
+          text: "Dann ging es raus zur Arbeit, dann mussten wir antreten."
         sequence-12:
           s: 12
           from: "00:00:54,11"
@@ -68,32 +68,32 @@ de:
           s: 13
           from: "00:00:56,25"
           to: "00:01:02,23"
-          text: ~
+          text: "Ich bin dann größtenteils zu dem Kuhlenkommando gekommen."
         sequence-14:
           s: 14
           from: "00:01:02,23"
           to: "00:01:13,03"
-          text: ~
+          text: "Da waren so zirka 500 Gefangene, und da wurde wieder gezählt."
         sequence-15:
           s: 15
           from: "00:01:13,03"
           to: "00:01:16,13"
-          text: ~
+          text: "Gezählt wurden wir am Tag X-Mal."
         sequence-16:
           s: 16
           from: "00:01:16,13"
           to: "00:01:26,01"
-          text: ~
+          text: "Wenn wir da waren, nachher im Moor, auf dem Gelände, wo wir arbeiteten,"
         sequence-17:
           s: 17
           from: "00:01:26,01"
           to: "00:01:31,10"
-          text: ~
+          text: "da wurden wir gezählt, und ringsum war dann die Postenkette."
         sequence-18:
           s: 18
           from: "00:01:31,10"
           to: "00:01:37,03"
-          text: ~
+          text: "Da und dort saß einer, damit die einen Überblick hatten."
         sequence-19:
           s: 19
           from: "00:01:37,03"
@@ -103,7 +103,7 @@ de:
           s: 20
           from: "00:01:39,00"
           to: "00:01:46,01"
-          text: ~
+          text: "Nach dem Tag, abends, sind wir dann wieder eingerückt; ich glaube so gegen 17.00 Uhr."
         sequence-21:
           s: 21
           from: "00:01:46,01"
@@ -113,44 +113,44 @@ de:
           s: 22
           from: "00:01:48,01"
           to: "00:01:55,07"
-          text: ~
+          text: "Dann wurden wir auch wieder gezählt, ob alle wieder zurückkamen."
         sequence-23:
           s: 23
           from: "00:01:55,07"
           to: "00:01:58,00"
-          text: ~
+          text: "Danach ging’s dann wieder auf die Baracke."
         sequence-24:
           s: 24
           from: "00:01:58,00"
           to: "00:02:04,18"
-          text: ~
+          text: "Das ging dann alles - da bist du dann immer gerannt, hast das Abendbrot bekommen."
         sequence-25:
           s: 25
           from: "00:02:04,18"
           to: "00:02:16,25"
-          text: ~
+          text: "Das waren manchmal so Eintopfgerichte, Peluschken, das waren solche großen Bohnen,"
         sequence-26:
           s: 26
           from: "00:02:16,25"
           to: "00:02:27,03"
-          text: ~
+          text: "die mancher ja gar nicht vertragen hat. Oder dann noch so Gemüse – all so was."
         sequence-27:
           s: 27
           from: "00:02:27,03"
           to: "00:02:37,01"
-          text: ~
+          text: "Und das Schlimme war, wenn sie wieder während der Zeit, wo das Essen ausgeteilt wurde, Appell hatten;"
         sequence-28:
           s: 28
           from: "00:02:37,01"
           to: "00:02:41,05"
-          text: ~
+          text: "Zählappell – musstest du raus. Dann ist das Essen kalt geworden,"
         sequence-29:
           s: 29
           from: "00:02:41,05"
           to: "00:02:47,28"
-          text: ~
+          text: "und das Essen hat schon so nicht geschmeckt! Und nun das kalte Essen."
         sequence-30:
           s: 30
           from: "00:02:47,28"
           to: "00:02:53,00"
-          text: ~
+          text: "Ja, das musstest Du essen, damit man etwas wieder zu sich nimmt."
