@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:00,21"
           to: "00:00:03,24"
-          text: ~
+          text: "I preparativi che riuscimmo a fare"
         sequence-2:
           s: 2
           from: "00:00:03,24"
           to: "00:00:09,12"
-          text: ~
+          text: "prima che il fascismo tedesco marciasse nei territori tedeschi della Cecoslovacchia"
         sequence-3:
           s: 3
           from: "00:00:09,12"
