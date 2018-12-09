@@ -18,12 +18,16 @@ de:
           s: 3
           from: "00:00:13,12"
           to: "00:00:20,19"
-          text: ~
+          text: |-
+              Das war alles, was man bis zum Abend bekam.
+              Am Abend bekamen wir nur etwas eklige Brühe, aber kein Brot mehr.
         sequence-4:
           s: 4
           from: "00:00:20,19"
           to: "00:00:29,00"
-          text: ~
+          text: |-
+              Das Stück Brot war für Gold für mich:
+              ich aß es Stückchen für Stückchen um es aufzusparen.
         sequence-5:
           s: 5
           from: "00:00:29,00"
