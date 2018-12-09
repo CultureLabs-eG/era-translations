@@ -13,7 +13,7 @@ de:
           s: 2
           from: "00:00:03,28"
           to: "00:00:09,11"
-          text: "“Aurora, wir brauchen hier jemanden, der die ganze Zeit im Dienst bleibt”."
+          text: "“Aurora, wir brauchen hier jemanden, der die ganze Zeit abrufbereit ist”."
         sequence-3:
           s: 3
           from: "00:00:09,11"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:29,11"
           to: "00:00:47,22"
-          text: "Und dann entschied ich mich und sagte, es ist in Ordnung, ich werden es lernen. Ich machte einen Schreibmaschinenkurs, wir bekamen eine Schreibmaschine und dann begann mein viel beschäftigtes Leben."
+          text: "So entschied ich mich und sagte, in Ordnung, ich werden lernen. Ich machte einen Schreibmaschinenkurs, wir bekamen eine Schreibmaschine und dann begann mein viel beschäftigtes Leben."
         sequence-10:
           s: 10
           from: "00:00:47,22"
@@ -58,22 +58,22 @@ de:
           s: 11
           from: "00:00:49,05"
           to: "00:00:55,26"
-          text: "Ich war eine Staffetta, ich war eine Sekretärin, ich tat alles, was getan werden musste."
+          text: "Ich war eine Staffette (Kurierin), ich war Sekretärin, ich tat alles, was getan werden musste."
         sequence-12:
           s: 12
           from: "00:00:55,26"
           to: "00:01:01,02"
-          text: ~
+          text: "Anfangs fuhr ich zweimal in der Woche nach Bologna,"
         sequence-13:
           s: 13
           from: "00:01:01,02"
           to: "00:01:13,05"
-          text: ~
+          text: "um wenn nötig Waffen und Munition zu holen, aber meistens um neue Befehle aus dem zentralen Hauptquartier entgegenzunehmen,"
         sequence-14:
           s: 14
           from: "00:01:13,05"
           to: "00:01:19,12"
-          text: ~
+          text: "von dem wir abhängig waren."
         sequence-15:
           s: 15
           from: "00:01:19,12"
