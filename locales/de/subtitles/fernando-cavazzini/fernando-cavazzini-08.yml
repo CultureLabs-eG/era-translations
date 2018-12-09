@@ -258,37 +258,37 @@ de:
           s: 51
           from: "00:05:11,22"
           to: "00:05:21,04"
-          text: "In der darauf folgenden Nacht sind wir vorbei am Passone-Pass, der praktisch neben dem Monte Cusna liegt,"
+          text: "In der darauf folgenden Nacht sind wir vorbei am Passone-Pass, der neben dem Monte Cusna liegt,"
         sequence-52:
           s: 52
           from: "00:05:21,04"
           to: "00:05:32,02"
-          text: ~
+          text: "bis in das Gebiet der Berghütte Cesare Battisti, die bereits vollständig ausgebrannt war."
         sequence-53:
           s: 53
           from: "00:05:32,02"
           to: "00:05:36,04"
-          text: ~
+          text: "In dem Gebiet sind wir 12 Tage geblieben."
         sequence-54:
           s: 54
           from: "00:05:36,04"
           to: "00:05:39,28"
-          text: ~
+          text: "Es regnete oft und wir hatten nichts, um uns abzudecken."
         sequence-55:
           s: 55
           from: "00:05:39,28"
           to: "00:05:46,01"
-          text: ~
+          text: "Ich und ein anderer hatten das Glück, dass wir nach Ligonchio geschickt wurden,"
         sequence-56:
           s: 56
           from: "00:05:46,01"
           to: "00:05:51,05"
-          text: ~
+          text: "um Informationen über die Bewegungen der Deutschen einzuholen"
         sequence-57:
           s: 57
           from: "00:05:51,05"
           to: "00:05:55,09"
-          text: ~
+          text: "und zu versuchen ein paar Lebensmittel aufzutreiben und sie mit hoch zu bringen."
         sequence-58:
           s: 58
           from: "00:05:55,09"

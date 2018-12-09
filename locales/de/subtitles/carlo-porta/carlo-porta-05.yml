@@ -161,7 +161,9 @@ de:
           s: 30
           from: "00:03:15,11"
           to: "00:03:20,18"
-          text: ~
+          text: |-
+              Als wir die deutsche Grenze erreichten verriegelten die Deutschen die Waggons,
+              angeblich wegen der Partisanen.
         sequence-31:
           s: 31
           from: "00:03:20,18"
@@ -171,17 +173,19 @@ de:
           s: 32
           from: "00:03:21,12"
           to: "00:03:29,15"
-          text: ~
+          text: |-
+              Am Morgen – ich hatte eine kleines Buch mit einer Karte -
+              waren wir in Österreich.
         sequence-33:
           s: 33
           from: "00:03:29,15"
           to: "00:03:33,02"
-          text: ~
+          text: "Ich sagte den anderen, dass es überhaupt nicht gut aussah."
         sequence-34:
           s: 34
           from: "00:03:33,02"
           to: "00:03:41,25"
-          text: ~
+          text: "Ich landete in Neubrandenburg 200km nördlich von Berlin."
         sequence-35:
           s: 35
           from: "00:03:41,25"

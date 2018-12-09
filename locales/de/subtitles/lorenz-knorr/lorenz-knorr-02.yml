@@ -73,17 +73,17 @@ de:
           s: 14
           from: "00:01:09,23"
           to: "00:01:12,06"
-          text: ~
+          text: "was man heute Sudetenland nennt,"
         sequence-15:
           s: 15
           from: "00:01:12,06"
           to: "00:01:15,27"
-          text: ~
+          text: "vom Kampf der deutschen und der österreichischen Antifaschisten,"
         sequence-16:
           s: 16
           from: "00:01:15,27"
           to: "00:01:20,01"
-          text: ~
+          text: "die diese Erfahrungen und diese Vorbereitungszeiten nicht hatten."
         sequence-17:
           s: 17
           from: "00:01:20,01"
@@ -93,22 +93,22 @@ de:
           s: 18
           from: "00:01:20,28"
           to: "00:01:26,20"
-          text: ~
+          text: "Insofern war die Effektivität unseres Kampfes größer."
         sequence-19:
           s: 19
           from: "00:01:26,20"
           to: "00:01:30,11"
-          text: ~
+          text: "Es gab nämlich keine Parteiverpflichtungen zum Widerstand,"
         sequence-20:
           s: 20
           from: "00:01:30,11"
           to: "00:01:35,11"
-          text: ~
+          text: "sondern es war eine freiwillige Entscheidung. Ob man sich zur Wehr setzte,"
         sequence-21:
           s: 21
           from: "00:01:35,11"
           to: "00:01:43,07"
-          text: ~
+          text: "ob man das Risiko eingeht, jeden Tag mit einem Fuß im Leben und mit den anderen im Grab zu stehen."
         sequence-22:
           s: 22
           from: "00:01:43,07"
@@ -118,4 +118,4 @@ de:
           s: 23
           from: "00:01:44,04"
           to: "00:01:47,00"
-          text: ~
+          text: "Diese Entscheidung musste jeder selbst treffen."
