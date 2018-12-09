@@ -276,22 +276,28 @@ de:
           s: 49
           from: "00:05:37,08"
           to: "00:05:42,21"
-          text: ~
+          text: |-
+              Ich hörte später nichts mehr von ihnen
+              und vielleicht hätte ich es nicht tun sollen,
         sequence-50:
           s: 50
           from: "00:05:42,21"
           to: "00:05:48,17"
-          text: ~
+          text: |-
+              aber ich hatte Angst, dass sie meine Dokumente an die Wachen aushändigen würden.
+              Die Wachen dort waren brutal.
         sequence-51:
           s: 51
           from: "00:05:48,17"
           to: "00:05:54,23"
-          text: ~
+          text: "Sie kamen morgens rein und schrien „Aufstehn!“."
         sequence-52:
           s: 52
           from: "00:05:54,23"
           to: "00:06:02,15"
-          text: ~
+          text: |-
+              Anfangs wussten wir nicht, was wir tun sollten – 
+              vielleicht Kaffee holen! -
         sequence-53:
           s: 53
           from: "00:06:02,15"

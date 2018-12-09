@@ -8,17 +8,17 @@ de:
           s: 1
           from: "00:00:00,05"
           to: "00:00:02,05"
-          text: ~
+          text: "Der Faschismus war ein Thema,"
         sequence-2:
           s: 2
           from: "00:00:02,05"
           to: "00:00:06,15"
-          text: ~
+          text: "durch die Erfahrungen, die wir von den Immigranten aufnahmen."
         sequence-3:
           s: 3
           from: "00:00:06,15"
           to: "00:00:14,27"
-          text: ~
+          text: "Wir haben in unserer Jugendgruppe öfters Immigranten aus Österreich und Deutschland eingeladen, damit sie uns berichteten."
         sequence-4:
           s: 4
           from: "00:00:14,27"

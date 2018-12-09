@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,05"
           to: "00:00:02,05"
-          text: "Die Partei,"
+          text: ~
         sequence-2:
           s: 2
           from: "00:00:02,05"
