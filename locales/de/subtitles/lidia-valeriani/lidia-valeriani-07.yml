@@ -113,32 +113,32 @@ de:
           s: 22
           from: "00:02:11,27"
           to: "00:02:25,04"
-          text: "und sie hatten einige Sachen zusammengepackt, damit sie heil blieben, wenn sie kämen, um das Haus niederzubrennen."
+          text: "Sie hatten einige Sachen zusammengepackt, um sie zu retten, falls die Faschisten kämen, um das Haus niederzubrennen."
         sequence-23:
           s: 23
           from: "00:02:25,04"
           to: "00:02:27,25"
-          text: ~
+          text: "Dann verhafteten sie alle."
         sequence-24:
           s: 24
           from: "00:02:27,25"
           to: "00:02:36,13"
-          text: ~
+          text: "Meinen Vater fanden sie nicht, sie erwischten ihn erst 7 oder 8 Tage später und schickten ihn in ein Konzentrationslager in Deutschland."
         sequence-25:
           s: 25
           from: "00:02:36,13"
           to: "00:02:45,07"
-          text: ~
+          text: "Sie kamen auch zur Familie Aleotti und verhafteten den Jüngsten,"
         sequence-26:
           s: 26
           from: "00:02:45,07"
           to: "00:02:48,29"
-          text: ~
+          text: "der ein Freund von Chicco Catellani war,"
         sequence-27:
           s: 27
           from: "00:02:48,29"
           to: "00:02:55,26"
-          text: ~
+          text: "und den Ältesten – sie fanden nur diese beiden – und schickten auch sie nach Deutschland."
         sequence-28:
           s: 28
           from: "00:02:55,26"
@@ -148,7 +148,7 @@ de:
           s: 29
           from: "00:02:57,10"
           to: "00:03:02,04"
-          text: ~
+          text: "Der Jüngste war etwa 16-17 Jahre alt."
         sequence-30:
           s: 30
           from: "00:03:02,04"
@@ -158,4 +158,4 @@ de:
           s: 31
           from: "00:03:06,04"
           to: "00:03:17,13"
-          text: ~
+          text: "In jener Nacht konnten wir von Ghiardo aus das Feuer in Scampate sehen, denn sie brannten einfach alle Häuser nieder."
