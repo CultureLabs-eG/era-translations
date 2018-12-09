@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:20,02"
           to: "00:00:34,04"
-          text: "Wir bekamen dann einen halben Liter Suppe, die Tagesration Brot, ein bisschen Fett, Marmelade,"
+          text: "Wir bekamen einen halben Liter Suppe, und die Tagesration Brot, ein bisschen Fett, Marmelade,"
         sequence-8:
           s: 8
           from: "00:00:34,04"
@@ -133,24 +133,24 @@ de:
           s: 26
           from: "00:02:16,25"
           to: "00:02:27,03"
-          text: "die mancher ja gar nicht vertragen hat."
+          text: "die mancher ja gar nicht vertragen hat. Oder dann noch so Gemüse – all so was."
         sequence-27:
           s: 27
           from: "00:02:27,03"
           to: "00:02:37,01"
-          text: ~
+          text: "Und das Schlimme war, wenn sie wieder während der Zeit, wo das Essen ausgeteilt wurde, Appell hatten;"
         sequence-28:
           s: 28
           from: "00:02:37,01"
           to: "00:02:41,05"
-          text: ~
+          text: "Zählappell – musstest du raus. Dann ist das Essen kalt geworden,"
         sequence-29:
           s: 29
           from: "00:02:41,05"
           to: "00:02:47,28"
-          text: ~
+          text: "und das Essen hat schon so nicht geschmeckt! Und nun das kalte Essen."
         sequence-30:
           s: 30
           from: "00:02:47,28"
           to: "00:02:53,00"
-          text: ~
+          text: "Ja, das musstest Du essen, damit man etwas wieder zu sich nimmt."
