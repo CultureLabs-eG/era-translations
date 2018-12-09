@@ -48,12 +48,12 @@ de:
           s: 9
           from: "00:00:52,28"
           to: "00:01:01,11"
-          text: ~
+          text: "Am Morgen gingen wir an meinem Haus vorbei. Es war niemand da, weil sie sich alle in einem Viehstall trafen."
         sequence-10:
           s: 10
           from: "00:01:01,11"
           to: "00:01:12,22"
-          text: ~
+          text: "Ich nahm mein Fahrrad auf und ging nach San Bartolomeo zurück, weil ich es nicht wagte, zu bleiben, denn es könnte mich jemand verraten haben."
         sequence-11:
           s: 11
           from: "00:01:12,22"

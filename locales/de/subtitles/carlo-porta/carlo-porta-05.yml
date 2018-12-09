@@ -233,7 +233,9 @@ de:
           s: 42
           from: "00:04:41,25"
           to: "00:04:50,15"
-          text: ~
+          text: |-
+              Einer von ihnen war aus Cosenza, der andere aus Catanzaro.
+              Ich glaube sie sollten eigentlich im Sonderurlaub zurück nach Italien gehen.
         sequence-43:
           s: 43
           from: "00:04:50,15"
@@ -243,22 +245,26 @@ de:
           s: 44
           from: "00:04:52,03"
           to: "00:05:03,06"
-          text: ~
+          text: |-
+              Als sich alles änderte war ich leicht besorgt:
+              die zwei brauchten etwas zu trinken
         sequence-45:
           s: 45
           from: "00:05:03,06"
           to: "00:05:12,17"
-          text: ~
+          text: "und ich wusste, wie die Deutschen nicht gut auf Kommunisten zu sprechen waren."
         sequence-46:
           s: 46
           from: "00:05:12,17"
           to: "00:05:19,08"
-          text: ~
+          text: "Eines Nachts brauchten die Deutschen 30 Leute und kamen zu unserer Hütte."
         sequence-47:
           s: 47
           from: "00:05:19,08"
           to: "00:05:25,22"
-          text: ~
+          text: |-
+              Die zwei Offiziere hatten Recht auf Etagenbett bekommen
+              und schliefen in einer Ecke der Hütte.
         sequence-48:
           s: 48
           from: "00:05:25,22"

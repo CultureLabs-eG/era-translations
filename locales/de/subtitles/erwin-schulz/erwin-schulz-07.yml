@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:01:17,14"
           to: "00:01:22,16"
-          text: ~
+          text: "Da mußten wir Abstand waren zu anderen. Durften nicht sprechen."
         sequence-20:
           s: 20
           from: "00:01:22,16"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:23,21"
           to: "00:01:30,01"
-          text: ~
+          text: "Unterm Fenster ein Bett, das andere Bett war and der Wand hochgeklappt."
         sequence-22:
           s: 22
           from: "00:01:30,01"
@@ -118,12 +118,12 @@ de:
           s: 23
           from: "00:01:31,00"
           to: "00:01:37,29"
-          text: ~
+          text: "Und der dritte Mann der lag unten auf dem Fußboden auf Matratzen."
         sequence-24:
           s: 24
           from: "00:01:37,29"
           to: "00:01:48,11"
-          text: ~
+          text: "So lebten wir dort in der Zelle. Die Notdurft mußten wir in der Zelle verrichten."
         sequence-25:
           s: 25
           from: "00:01:48,11"
