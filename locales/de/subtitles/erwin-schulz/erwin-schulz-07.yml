@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:00:55,12"
           to: "00:01:05,02"
-          text: "In Einmannzellen waren drei Mann drin."
+          text: "In Einmannzellen waren drei Mann drin. Wie es in den großen Zellen war, weiß ich nicht."
         sequence-16:
           s: 16
           from: "00:01:05,02"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:01:05,17"
           to: "00:01:15,17"
-          text: ~
+          text: "Wir waren ja isoliert. Aus der Zelle kamen wir ja nur raus in der Freistunde - eine halbe Stunde."
         sequence-18:
           s: 18
           from: "00:01:15,17"

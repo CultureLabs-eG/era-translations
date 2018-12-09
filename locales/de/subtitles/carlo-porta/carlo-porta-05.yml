@@ -221,12 +221,14 @@ de:
           s: 40
           from: "00:04:26,05"
           to: "00:04:35,25"
-          text: ~
+          text: |-
+              Ich sollte nicht vergessen, dass ich zu der Zeit
+              noch in Begleitung von zwei Unteroffizieren war,
         sequence-41:
           s: 41
           from: "00:04:35,25"
           to: "00:04:41,25"
-          text: ~
+          text: "die meine Dokumente behalten hatten, als wir Albanien verließen."
         sequence-42:
           s: 42
           from: "00:04:41,25"
