@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:04,04"
           to: "00:00:15,26"
-          text: "nato nel 1921 a Eger, ora Cheb, nei territori tedeschi occupati in Cecoslovacchia."
+          text: "Cresciuto nel 1921 a Eger, ora Cheb, nei territori tedeschi occupati in Cecoslovacchia."
         sequence-3:
           s: 3
           from: "00:00:15,26"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:42,18"
           to: "00:00:53,06"
-          text: "Chi è cresciuto negli anni '20 e '30 del secolo passato, nei territori tedeschi occupati della Cecoslovacchia,"
+          text: "Chi è cresciuto negli anni '20 e '30 del secolo passato nei territori tedeschi occupati della Cecoslovacchia"
         sequence-12:
           s: 12
           from: "00:00:53,06"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:54,20"
           to: "00:00:59,01"
-          text: "all'interno della famiglia di un funzionario della classe lavoratrice,"
+          text: "nella famiglia di un funzionario della classe lavoratrice,"
         sequence-14:
           s: 14
           from: "00:00:59,01"
