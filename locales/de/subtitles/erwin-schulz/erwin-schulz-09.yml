@@ -103,7 +103,7 @@ de:
           s: 20
           from: "00:01:39,00"
           to: "00:01:46,01"
-          text: ~
+          text: "Nach dem Tag, abends, sind wir dann wieder eingerückt; ich glaube so gegen 17.00 Uhr."
         sequence-21:
           s: 21
           from: "00:01:46,01"
@@ -113,27 +113,27 @@ de:
           s: 22
           from: "00:01:48,01"
           to: "00:01:55,07"
-          text: ~
+          text: "Dann wurden wir auch wieder gezählt, ob alle wieder zurückkamen."
         sequence-23:
           s: 23
           from: "00:01:55,07"
           to: "00:01:58,00"
-          text: ~
+          text: "Danach ging’s dann wieder auf die Baracke."
         sequence-24:
           s: 24
           from: "00:01:58,00"
           to: "00:02:04,18"
-          text: ~
+          text: "Das ging dann alles - da bist du dann immer gerannt, hast das Abendbrot bekommen."
         sequence-25:
           s: 25
           from: "00:02:04,18"
           to: "00:02:16,25"
-          text: ~
+          text: "Das waren manchmal so Eintopfgerichte, Peluschken, das waren solche großen Bohnen,"
         sequence-26:
           s: 26
           from: "00:02:16,25"
           to: "00:02:27,03"
-          text: ~
+          text: "die mancher ja gar nicht vertragen hat."
         sequence-27:
           s: 27
           from: "00:02:27,03"

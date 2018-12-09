@@ -2,18 +2,20 @@ de:
   carlo-porta:
     chapter-7:
       c: 7
-      title: ~
+      title: "Die Kälte und die Arbeit"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:03,21"
-          text: ~
+          text: "Als wir dort ankamen, fragten uns die Franzosen:"
         sequence-2:
           s: 2
           from: "00:00:03,21"
           to: "00:00:09,09"
-          text: ~
+          text: |-
+              „Ihr kommt von draußen, was sagen die Leute?
+              Wie lange wird der Krieg noch dauern?“
         sequence-3:
           s: 3
           from: "00:00:09,09"

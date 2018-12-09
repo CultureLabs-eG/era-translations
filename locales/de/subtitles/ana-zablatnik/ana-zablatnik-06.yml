@@ -48,42 +48,42 @@ de:
           s: 9
           from: "00:00:56,18"
           to: "00:01:05,22"
-          text: ~
+          text: "dann waren da meine Brüder (drei Brüder) die haben müssen dann auch aufstehen, alle."
         sequence-10:
           s: 10
           from: "00:01:05,22"
           to: "00:01:12,05"
-          text: ~
+          text: "Und die haben müssen sich hinter den Tisch setzen, alle."
         sequence-11:
           s: 11
           from: "00:01:12,05"
           to: "00:01:17,18"
-          text: ~
+          text: "Und mich haben sie so zu der Tür hin, aber dass ich nicht hingeschaut hab auf die anderen."
         sequence-12:
           s: 12
           from: "00:01:17,18"
           to: "00:01:19,16"
-          text: ~
+          text: "Und dann wurden wir halt verhört."
         sequence-13:
           s: 13
           from: "00:01:19,16"
           to: "00:01:22,27"
-          text: ~
+          text: "Nacheinander, die Mutter ... alle nacheinander."
         sequence-14:
           s: 14
           from: "00:01:22,27"
           to: "00:01:26,19"
-          text: ~
+          text: "Zuletzt haben sie mich verhört."
         sequence-15:
           s: 15
           from: "00:01:26,19"
           to: "00:01:33,29"
-          text: ~
+          text: "Es war aber leider so, dass sie etwas gefunden haben, und ich hab müssen dann eingestehen, dass…"
         sequence-16:
           s: 16
           from: "00:01:33,29"
           to: "00:01:37,07"
-          text: ~
+          text: "nur, sonst wäre die Familie…"
         sequence-17:
           s: 17
           from: "00:01:37,07"
@@ -93,7 +93,7 @@ de:
           s: 18
           from: "00:01:40,15"
           to: "00:01:49,24"
-          text: ~
+          text: "so habe ich etwas eingestanden und mit dem war nachad beschlossene Sache nur, dass sie mich in der Früh dann weggeführt haben."
         sequence-19:
           s: 19
           from: "00:01:49,24"
@@ -108,12 +108,12 @@ de:
           s: 21
           from: "00:02:10,27"
           to: "00:02:12,18"
-          text: ~
+          text: "„Ja, was soll ich denn anzieh’n?“"
         sequence-22:
           s: 22
           from: "00:02:12,18"
           to: "00:02:21,04"
-          text: ~
+          text: "Da hat der gesagt: „Wirst eh nicht mehr lang warme Füß’ haben. Brauchst ja nix“. So, das war die Antwort."
         sequence-23:
           s: 23
           from: "00:02:21,04"
@@ -123,7 +123,7 @@ de:
           s: 24
           from: "00:02:24,10"
           to: "00:02:27,25"
-          text: ~
+          text: "Um 6.00 Uhr in der Früh sind wir dann von zu Hause los."
         sequence-25:
           s: 25
           from: "00:02:27,25"
