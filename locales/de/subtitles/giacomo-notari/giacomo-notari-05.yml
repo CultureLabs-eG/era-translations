@@ -8,12 +8,12 @@ de:
           s: 1
           from: "00:00:00,26"
           to: "00:00:04,24"
-          text: ~
+          text: "Eines Abends sind wir mit dem Kommandanten Carretti und einer großen Anzahl von Partisanen"
         sequence-2:
           s: 2
           from: "00:00:04,24"
           to: "00:00:12,05"
-          text: ~
+          text: "nach Acquabona gegangen, um einen deutschen Feldwebel gefangen zu nehmen..."
         sequence-3:
           s: 3
           from: "00:00:12,05"
