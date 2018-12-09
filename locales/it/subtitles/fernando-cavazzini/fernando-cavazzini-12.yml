@@ -253,12 +253,12 @@ it:
           s: 50
           from: "00:04:12,25"
           to: "00:04:22,11"
-          text: ~
+          text: "con fatica lì hanno lasciato migliaia di carri armati, cavalli… un po’ di tutto insomma, un bottino enorme."
         sequence-51:
           s: 51
           from: "00:04:22,11"
           to: "00:04:26,00"
-          text: ~
+          text: "I tedeschi nessuno è riuscito a passare, o pochi, il Po."
         sequence-52:
           s: 52
           from: "00:04:26,00"
@@ -268,29 +268,29 @@ it:
           s: 53
           from: "00:04:26,19"
           to: "00:04:31,24"
-          text: ~
+          text: "Per me è stata la mia università, la Resistenza."
         sequence-54:
           s: 54
           from: "00:04:31,24"
           to: "00:04:39,29"
-          text: ~
+          text: "Perché ho imparato che io non mi sono mai trovato a disagio in tutta la vita, mi son sempre sentito sicuro."
         sequence-55:
           s: 55
           from: "00:04:39,29"
           to: "00:04:46,21"
-          text: ~
+          text: "Perciò ho fatto la cooperativa che eran tutti contrari: Consorzio, Federcoop, ecc. M’han riso in faccia, m’han detto:"
         sequence-56:
           s: 56
           from: "00:04:46,21"
           to: "00:04:54,19"
-          text: ~
+          text: "“Ma cosa fai la cooperativa che è tutto in fallimento, tu non hai neanche esperienza, perciò anche se ci fossero le condizioni, tu non sei all’altezza di andare a reggere una cooperativa”."
         sequence-57:
           s: 57
           from: "00:04:54,19"
           to: "00:05:03,00"
-          text: ~
+          text: "Io ho detto: “Ma voi avete sbagliato tutto, io sono stato nella Resistenza, e la Resistenza ho imparato molto, è stata la mia università,"
         sequence-58:
           s: 58
           from: "00:05:03,00"
           to: "00:05:05,26"
-          text: ~
+          text: "abbiam fatto cose che voi non immaginate neanche”. La cooperativa l’ho fatta."

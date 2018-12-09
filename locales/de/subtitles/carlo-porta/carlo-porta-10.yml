@@ -162,33 +162,39 @@ de:
           from: "00:02:17,08"
           to: "00:02:28,13"
           text: |-
-              Wir wussten überhaupt nichts, ich hatte keine Neuigkeiten von meiner Familie,
-              also fragten wir beim Direktor der SARSA nach.
+              Wir wussten überhaupt nichts,
+              also befragten wir den Direktor der SARSA eine Weile.
         sequence-29:
           s: 29
           from: "00:02:28,13"
           to: "00:02:36,21"
-          text: ~
+          text: "Wir liefen nach Hause, das war damals immer noch recht gewöhnlich."
         sequence-30:
           s: 30
           from: "00:02:36,21"
           to: "00:02:48,08"
-          text: ~
+          text: |-
+              Als wir ankamen, wo heute das ACM ist,
+              war ich müde und blieb eine Weile stehen, um mich auszuruhen.
         sequence-31:
           s: 31
           from: "00:02:48,08"
           to: "00:02:54,26"
-          text: ~
+          text: |-
+              Eine Frau kam auf ihrem Fahrrad vorbei
+              und fragte mich, ob ich der Sohn von Herrn Porta sei.
         sequence-32:
           s: 32
           from: "00:02:54,26"
           to: "00:02:59,18"
-          text: ~
+          text: |-
+              Ich sagte ihr, dass ich es sei
+              und sie sagte: „Du bist spät dran!“.
         sequence-33:
           s: 33
           from: "00:02:59,18"
           to: "00:03:03,11"
-          text: ~
+          text: "„Nun, ich bin gerade angekommen“."
         sequence-34:
           s: 34
           from: "00:03:03,11"

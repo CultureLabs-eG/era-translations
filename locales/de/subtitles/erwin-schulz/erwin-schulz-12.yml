@@ -2,13 +2,13 @@ de:
   erwin-schulz:
     chapter-12:
       c: 12
-      title: ~
+      title: "Das Batallion 999"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,22"
           to: "00:00:08,12"
-          text: ~
+          text: "Der Sinn war: die Politischen, die jetzt wehrunwürdig waren, die lebten in Deutschland."
         sequence-2:
           s: 2
           from: "00:00:08,12"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:09,06"
           to: "00:00:15,12"
-          text: ~
+          text: "Und die Deutschen, die starben an allen möglichen Fronten."
         sequence-4:
           s: 4
           from: "00:00:15,12"
@@ -28,22 +28,22 @@ de:
           s: 5
           from: "00:00:17,07"
           to: "00:00:23,19"
-          text: ~
+          text: "Nun fehlte ja mit der Zeit Mannschaftspersonal."
         sequence-6:
           s: 6
           from: "00:00:23,19"
           to: "00:00:34,13"
-          text: ~
+          text: "Da war dann die Idee, die aufzubauen, als Himmelfahrtskommando, die man reinwirft."
         sequence-7:
           s: 7
           from: "00:00:34,13"
           to: "00:00:41,08"
-          text: ~
+          text: "Deshalb waren wir ja auch militärisch so ausgerüstet."
         sequence-8:
           s: 8
           from: "00:00:41,08"
           to: "00:00:47,20"
-          text: ~
+          text: "Wir konnten als selbständige Einheit Gegenstöße der Alliierten auffangen."
         sequence-9:
           s: 9
           from: "00:00:47,20"
