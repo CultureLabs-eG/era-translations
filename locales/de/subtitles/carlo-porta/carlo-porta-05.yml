@@ -269,7 +269,9 @@ de:
           s: 48
           from: "00:05:25,22"
           to: "00:05:37,08"
-          text: ~
+          text: |-
+              Wir schliefen auf Stroh auf dem Boden.
+              Ich schaffte es in die Gruppe zu kommen, die losging.
         sequence-49:
           s: 49
           from: "00:05:37,08"
