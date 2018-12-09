@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:00,01"
           to: "00:01:09,02"
-          text: "avrai a che fare fin da piccolo con problemi e lotte politiche in continua evoluzione."
+          text: "avrà a che fare fin da piccolo con problemi e lotte politiche in continua evoluzione."
         sequence-16:
           s: 16
           from: "00:01:09,02"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:10,16"
           to: "00:01:16,18"
-          text: "Mio padre era, prima della prima guerra mondiale, il più famoso leader a capo degli scioperi a Eger"
+          text: "Mio padre era, prima della prima guerra mondiale, il più famoso tra chi guidava gli scioperi a Eger"
         sequence-18:
           s: 18
           from: "00:01:16,18"
