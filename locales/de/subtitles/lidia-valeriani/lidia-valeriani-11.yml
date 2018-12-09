@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,20"
           to: "00:00:07,25"
-          text: ~
+          text: "Am 25. April (1945) in Modena, waren wir bereits befreit, denn wir hatten uns selbst am 23. oder am 22. befreit."
         sequence-2:
           s: 2
           from: "00:00:07,25"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:08,26"
           to: "00:00:13,08"
-          text: ~
+          text: "Und hier möchte ich eine Sache erwähnen, die ich nicht geschafft habe zu machen, da die Befreiung kurz darauf folgte."
         sequence-4:
           s: 4
           from: "00:00:13,08"
@@ -28,22 +28,22 @@ de:
           s: 5
           from: "00:00:17,10"
           to: "00:00:27,01"
-          text: ~
+          text: "Wir hatten die ganze Nacht damit verbracht, eine Karte zu entwerfen,"
         sequence-6:
           s: 6
           from: "00:00:27,01"
           to: "00:00:42,23"
-          text: ~
+          text: "auf der eingezeichnet war, von wo die Kampfgruppen in unserem Gebiet aufbrechen sollten, wo die verschiedenen GAPs waren."
         sequence-7:
           s: 7
           from: "00:00:42,23"
           to: "00:00:48,07"
-          text: ~
+          text: "Wir machten das für unsere GAPs, die SAPs machten dasselbe für ihre SAPs, wir bereiteten alles vor und sprachen uns ab."
         sequence-8:
           s: 8
           from: "00:00:48,07"
           to: "00:00:59,06"
-          text: ~
+          text: "Andere kamen aus den Bergen herunter, und auch sie hatten Orte zu befreien."
         sequence-9:
           s: 9
           from: "00:00:59,06"
@@ -53,12 +53,12 @@ de:
           s: 10
           from: "00:01:00,21"
           to: "00:01:06,04"
-          text: ~
+          text: "Wir verbrachten die ganze Nacht damit, diese Strategie vorzubereiten,"
         sequence-11:
           s: 11
           from: "00:01:06,04"
           to: "00:01:16,22"
-          text: ~
+          text: "um die Deutschen und die Faschisten, alle Bewaffneten, aus Modena zu vertreiben."
         sequence-12:
           s: 12
           from: "00:01:16,22"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:01:21,17"
           to: "00:01:24,11"
-          text: ~
+          text: "Ich sollte nach Paganine fahren"
         sequence-14:
           s: 14
           from: "00:01:24,11"
@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:01:25,17"
           to: "00:01:34,01"
-          text: ~
+          text: "und die Befehle überbringen, denn es waren immer Kuriere, Männer oder Frauen, die diese Aufgabe hatten."
         sequence-16:
           s: 16
           from: "00:01:34,01"
