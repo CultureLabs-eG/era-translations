@@ -319,17 +319,19 @@ de:
           s: 56
           from: "00:06:20,15"
           to: "00:06:27,02"
-          text: ~
+          text: "bei einem großen Fluss, der bombardiert worden war und wir begannen dort zu arbeiten."
         sequence-57:
           s: 57
           from: "00:06:27,02"
           to: "00:06:33,23"
-          text: ~
+          text: |-
+              Ich verlor den Kontakt zu den beiden Offizieren.
+              Das Lager war im Prinzip ein Durchgangslager
         sequence-58:
           s: 58
           from: "00:06:33,23"
           to: "00:06:42,10"
-          text: ~
+          text: "wo täglich 100-200 Personen mit dem Zug ankamen."
         sequence-59:
           s: 59
           from: "00:06:42,10"
@@ -339,12 +341,14 @@ de:
           s: 60
           from: "00:06:48,03"
           to: "00:06:52,05"
-          text: ~
+          text: "Ich war in vier verschiedenen deutschen Konzentrationslagern."
         sequence-61:
           s: 61
           from: "00:06:52,05"
           to: "00:07:02,20"
-          text: ~
+          text: |-
+              Das letzte, von dem wir schließlich befreit wurden,
+              hieß Wickede und war in Westfalen bei Dortmund.
         sequence-62:
           s: 62
           from: "00:07:02,20"
@@ -354,22 +358,22 @@ de:
           s: 63
           from: "00:07:04,14"
           to: "00:07:09,15"
-          text: ~
+          text: "Normalerweise gingen die Leute sofort schlafen."
         sequence-64:
           s: 64
           from: "00:07:09,15"
           to: "00:07:19,15"
-          text: ~
+          text: "Am längsten war ich in Hagen."
         sequence-65:
           s: 65
           from: "00:07:19,15"
           to: "00:07:32,00"
-          text: ~
+          text: "In Wickede musste ich um fünf Uhr morgens aufstehen, 2km zum Bahnhof laufen,"
         sequence-66:
           s: 66
           from: "00:07:32,00"
           to: "00:07:38,07"
-          text: ~
+          text: "70km mit dem Zug fahren und dann zur Arbeit laufen."
         sequence-67:
           s: 67
           from: "00:07:38,07"

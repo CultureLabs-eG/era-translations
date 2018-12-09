@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:01:36,15"
           to: "00:01:47,11"
-          text: ~
+          text: "und da begann ich mich am richtigen Partisanenkampf zu beteiligen."
         sequence-18:
           s: 18
           from: "00:01:47,11"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:01:47,27"
           to: "00:01:51,27"
-          text: ~
+          text: "Ich war wie eine Schwester für die Partisanen."
         sequence-20:
           s: 20
           from: "00:01:51,27"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:53,03"
           to: "00:02:01,29"
-          text: ~
+          text: "Sie liebten und respektierten mich."
         sequence-22:
           s: 22
           from: "00:02:01,29"
@@ -118,24 +118,24 @@ de:
           s: 23
           from: "00:02:03,23"
           to: "00:02:06,17"
-          text: ~
+          text: "Es war unglaublich."
         sequence-24:
           s: 24
           from: "00:02:06,17"
           to: "00:02:25,12"
-          text: ~
+          text: "Während des Aufenthalts bei einer Bauernfamilie in Saliceto San Giuliano, wo ich war für 5 oder 6 Monate war, fühlte ich mich wie zu Hause."
         sequence-25:
           s: 25
           from: "00:02:25,12"
           to: "00:02:28,23"
-          text: ~
+          text: "Sie wussten nicht einmal, woher ich kam."
         sequence-26:
           s: 26
           from: "00:02:28,23"
           to: "00:02:33,09"
-          text: ~
+          text: "Sie dachten, ich komme aus den Bergen bei Bologna."
         sequence-27:
           s: 27
           from: "00:02:33,09"
           to: "00:02:36,04"
-          text: ~
+          text: "Erst nach dem Krieg erfuhren sie, dass ich aus Reggio kam."

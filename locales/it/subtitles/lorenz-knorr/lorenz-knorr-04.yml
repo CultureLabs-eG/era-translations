@@ -2,28 +2,28 @@ it:
   lorenz-knorr:
     chapter-4:
       c: 4
-      title: ~
+      title: "Il fascismo nell'infanzia e nella gioventù"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,05"
           to: "00:00:02,05"
-          text: ~
+          text: "Il fascismo era un tema"
         sequence-2:
           s: 2
           from: "00:00:02,05"
           to: "00:00:06,15"
-          text: ~
+          text: "di cui prendemmo coscienza tramite gli immigranti."
         sequence-3:
           s: 3
           from: "00:00:06,15"
           to: "00:00:14,27"
-          text: ~
+          text: "Abbiamo invitato spesso immigranti dall'Austria e dalla Germania, nei nostri gruppi giovanili, perché ci potessero raccontare."
         sequence-4:
           s: 4
           from: "00:00:14,27"
           to: "00:00:19,24"
-          text: ~
+          text: "E sapevamo già da prima, prima che i grandi capitali e i generali"
         sequence-5:
           s: 5
           from: "00:00:19,24"
