@@ -72,17 +72,17 @@ de:
           s: 13
           from: "00:01:26,01"
           to: "00:01:34,22"
-          text: ~
+          text: "Eines Abends sahen wir vom Schiff aus eine große Feier in Durrës,"
         sequence-14:
           s: 14
           from: "00:01:34,22"
           to: "00:01:40,12"
-          text: ~
+          text: "Die Menschen umarmten sich und wir beschlossen von Bord zu gehen."
         sequence-15:
           s: 15
           from: "00:01:40,12"
           to: "00:01:48,10"
-          text: ~
+          text: "Es war der 8. September, Badoglio hatte soeben den Waffenstillstand erklärt."
         sequence-16:
           s: 16
           from: "00:01:48,10"
@@ -92,22 +92,22 @@ de:
           s: 17
           from: "00:01:53,10"
           to: "00:02:01,02"
-          text: ~
+          text: "Es waren auch fünfzig deutsche Soldaten in Durrës:"
         sequence-18:
           s: 18
           from: "00:02:01,02"
           to: "00:02:08,16"
-          text: ~
+          text: "Sie nahmen Ihre Uniform ab, feierten mit uns."
         sequence-19:
           s: 19
           from: "00:02:08,16"
           to: "00:02:14,00"
-          text: ~
+          text: "Acht Tage später verkleideten sie sich wieder als Deutsche."
         sequence-20:
           s: 20
           from: "00:02:14,00"
           to: "00:02:20,08"
-          text: ~
+          text: "Von diesem Tag an hatte niemand mehr eine Verbindung nach Rom."
         sequence-21:
           s: 21
           from: "00:02:20,08"

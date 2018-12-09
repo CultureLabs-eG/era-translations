@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:23,10"
           to: "00:03:33,25"
-          text: ~
+          text: "l'accento era sulle questioni di classe, ovvero la lotta per condizioni di vita migliori, sia materiali che culturali."
         sequence-42:
           s: 42
           from: "00:03:33,25"
@@ -218,12 +218,12 @@ it:
           s: 43
           from: "00:03:34,19"
           to: "00:03:42,28"
-          text: ~
+          text: "Questo naturalmente non finì nel 1933, ma più i nazisti,"
         sequence-44:
           s: 44
           from: "00:03:42,28"
           to: "00:03:48,16"
-          text: ~
+          text: "i sostenitori di Hitler nelle zone tedesche cecoslovacche, crescevano,"
         sequence-45:
           s: 45
           from: "00:03:48,16"
