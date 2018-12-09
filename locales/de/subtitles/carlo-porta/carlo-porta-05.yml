@@ -122,12 +122,12 @@ de:
           s: 23
           from: "00:02:34,05"
           to: "00:02:42,24"
-          text: ~
+          text: "Unsere Offiziere wie z.B. General Mondini aus Parma, der Kommandierende General meiner Division"
         sequence-24:
           s: 24
           from: "00:02:42,24"
           to: "00:02:48,02"
-          text: ~
+          text: "riefen eines Tages die Truppen zusammen and belügten uns absichtlich."
         sequence-25:
           s: 25
           from: "00:02:48,02"

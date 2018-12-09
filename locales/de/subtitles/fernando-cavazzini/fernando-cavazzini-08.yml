@@ -58,22 +58,22 @@ de:
           s: 11
           from: "00:01:03,10"
           to: "00:01:12,00"
-          text: ~
+          text: "Wir dagegen haben bei null angefangen und dann aber versucht, unsere militärischen Fähigkeiten zu verbessern."
         sequence-12:
           s: 12
           from: "00:01:12,00"
           to: "00:01:21,19"
-          text: ~
+          text: "Es war zum Beispiel so, dass wir für die Sprengung einer Brücke an der Straße SS 63 eineinhalb Stunden benötigten,"
         sequence-13:
           s: 13
           from: "00:01:21,19"
           to: "00:01:24,25"
-          text: ~
+          text: "weil sie aus Felsgestein war."
         sequence-14:
           s: 14
           from: "00:01:24,25"
           to: "00:01:30,26"
-          text: ~
+          text: "Wir haben unsere Methode geändert und es gelang uns, die Brücke in einer Viertelstunde zu sprengen."
         sequence-15:
           s: 15
           from: "00:01:30,26"
@@ -83,27 +83,27 @@ de:
           s: 16
           from: "00:01:33,00"
           to: "00:01:38,10"
-          text: ~
+          text: "Als die große Durchkämmungsaktion im Juli stattfand,"
         sequence-17:
           s: 17
           from: "00:01:38,10"
           to: "00:01:44,16"
-          text: ~
+          text: "waren wir zwei oder drei Minenexperten, nicht mehr,"
         sequence-18:
           s: 18
           from: "00:01:44,16"
           to: "00:01:51,08"
-          text: ~
+          text: "aber wir waren verstreut, weil der Kampf um vier Uhr morgens begonnen hatte"
         sequence-19:
           s: 19
           from: "00:01:51,08"
           to: "00:01:58,01"
-          text: ~
+          text: "und am Abend praktisch das ganze Partisanengebiet von Deutschen besetzt war."
         sequence-20:
           s: 20
           from: "00:01:58,01"
           to: "00:02:03,21"
-          text: ~
+          text: "Wir hielten uns in Carpineti auf und hatten Costabona erreicht,"
         sequence-21:
           s: 21
           from: "00:02:03,21"
