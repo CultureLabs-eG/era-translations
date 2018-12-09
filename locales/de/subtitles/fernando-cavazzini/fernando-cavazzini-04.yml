@@ -108,19 +108,19 @@ de:
           s: 21
           from: "00:01:49,21"
           to: "00:01:58,28"
-          text: "„Welchen Kampfnamen hättest du gern?“ „Mir ist jeder Name recht“. „Ist Toni ok für dich?“ „Klar, Toni ist gut“."
+          text: "„Welchen Kampfnamen hättest du gern?“ „Mir ist jeder Name recht“. „Ist Toni ok für dich?“ „Klar, Toni ist gut“. Und das war’s."
         sequence-22:
           s: 22
           from: "00:01:58,28"
           to: "00:02:03,17"
-          text: ~
+          text: "Viele Genossen wählten Kampfnamen wie Lupo (Wolf),"
         sequence-23:
           s: 23
           from: "00:02:03,17"
           to: "00:02:08,28"
-          text: ~
+          text: "Polvere (Pulver), andere nahmen der Namen ihrer Freundin an."
         sequence-24:
           s: 24
           from: "00:02:08,28"
           to: "00:02:14,28"
-          text: ~
+          text: "Ein Freund von mir hatte eine Freundin, Leda, und so nannte er sich Ledo."

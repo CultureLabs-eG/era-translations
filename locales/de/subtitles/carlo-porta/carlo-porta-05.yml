@@ -378,22 +378,26 @@ de:
           s: 67
           from: "00:07:38,07"
           to: "00:07:44,02"
-          text: ~
+          text: "Manchmal kam ich erst um neun Uhr abends zurück."
         sequence-68:
           s: 68
           from: "00:07:44,02"
           to: "00:07:49,07"
-          text: ~
+          text: "Es gab auch schreckliche Episoden, aber nicht so oft."
         sequence-69:
           s: 69
           from: "00:07:49,07"
           to: "00:07:59,06"
-          text: ~
+          text: |-
+              Sie würden uns ungefähr um 10:30 abends kontrollieren. 
+              Wir mussten uns im Flur aufstellen.
         sequence-70:
           s: 70
           from: "00:07:59,06"
           to: "00:08:10,03"
-          text: ~
+          text: |-
+              Einer von uns schlief in einer Ecke ein anderer war krank
+              und sie schickten uns raus um Übungen zu machen.
         sequence-71:
           s: 71
           from: "00:08:10,03"
