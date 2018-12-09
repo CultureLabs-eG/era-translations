@@ -93,17 +93,17 @@ de:
           s: 18
           from: "00:01:05,19"
           to: "00:01:09,12"
-          text: "man kann also sagen das dies nicht in guter Absicht geschah."
+          text: "das passierte also nicht in guter Absicht geschah."
         sequence-19:
           s: 19
           from: "00:01:09,12"
           to: "00:01:13,02"
-          text: ~
+          text: "Es war nicht so, dass diese Leute dem faschistischen Motto „Ich diene dem Faschismus“ gefolgt wären."
         sequence-20:
           s: 20
           from: "00:01:13,02"
           to: "00:01:19,00"
-          text: ~
+          text: "Wenn jemand im Sinne der Faschisten handelt um Menschen zu schaden, und wird dann auch noch dafür bezahlt, dann macht er sich doppelt schuldig."
         sequence-21:
           s: 21
           from: "00:01:19,00"
@@ -113,7 +113,7 @@ de:
           s: 22
           from: "00:01:19,27"
           to: "00:01:24,05"
-          text: ~
+          text: "Dieser aufwärts führende Pfad bog um eine Hecke herum."
         sequence-23:
           s: 23
           from: "00:01:24,05"
