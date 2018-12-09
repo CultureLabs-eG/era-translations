@@ -402,7 +402,9 @@ de:
           s: 71
           from: "00:08:10,03"
           to: "00:08:19,18"
-          text: ~
+          text: |-
+              Wir trugen Holzschuhe die man leicht verlor,
+              wenn man die drei Stufen hinab ging, die zu jeder Hütte führten.
         sequence-72:
           s: 72
           from: "00:08:19,18"
