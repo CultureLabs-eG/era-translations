@@ -108,17 +108,17 @@ de:
           s: 21
           from: "00:02:03,21"
           to: "00:02:07,22"
-          text: ~
+          text: "das ganze Dorf brannte."
         sequence-22:
           s: 22
           from: "00:02:07,22"
           to: "00:02:16,20"
-          text: ~
+          text: "Die Deutschen hatten das ganze Dorf angezündet und auch die Weizenernte auf den Feldern."
         sequence-23:
           s: 23
           from: "00:02:16,20"
           to: "00:02:19,21"
-          text: ~
+          text: "Das war ein wirklich trostloser Anblick."
         sequence-24:
           s: 24
           from: "00:02:19,21"

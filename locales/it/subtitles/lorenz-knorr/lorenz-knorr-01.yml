@@ -248,12 +248,12 @@ it:
           s: 49
           from: "00:04:08,29"
           to: "00:04:13,07"
-          text: "Per cui non era, come si crede spesso,"
+          text: "Per cui non era vero, come si crede spesso,"
         sequence-50:
           s: 50
           from: "00:04:13,07"
           to: "00:04:16,13"
-          text: ~
+          text: "che i tedeschi e i cecoslovacchi fossero uno contro l'altro."
         sequence-51:
           s: 51
           from: "00:04:16,13"
