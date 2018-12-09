@@ -105,32 +105,36 @@ de:
           s: 18
           from: "00:01:30,10"
           to: "00:01:38,01"
-          text: ~
+          text: |-
+              In Castelfranco jedoch sagte der Kontrolleur uns freundlich,
+              dass wir ein Ticket kaufen müssten.
         sequence-19:
           s: 19
           from: "00:01:38,01"
           to: "00:01:41,13"
-          text: ~
+          text: "Wir antworteten, dass wir überhaupt kein Geld hätten."
         sequence-20:
           s: 20
           from: "00:01:41,13"
           to: "00:01:47,20"
-          text: ~
+          text: "Er war einverstanden, uns nicht im Stich zu lassen,"
         sequence-21:
           s: 21
           from: "00:01:47,20"
           to: "00:01:53,04"
-          text: ~
+          text: "aber in Reggio müssten wir zusammen zum SARSA Büro gehen."
         sequence-22:
           s: 22
           from: "00:01:53,04"
           to: "00:01:56,03"
-          text: ~
+          text: "Als wir reingingen sagte er:"
         sequence-23:
           s: 23
           from: "00:01:56,03"
           to: "00:02:02,24"
-          text: ~
+          text: |-
+              „Chef, diese Männer haben den Fahrpreis nicht bezahlt,
+              weil sie behaupten, dass sie aus Deutschland kommen.“
         sequence-24:
           s: 24
           from: "00:02:02,24"

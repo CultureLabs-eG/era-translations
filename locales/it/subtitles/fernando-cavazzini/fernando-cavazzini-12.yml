@@ -53,57 +53,57 @@ it:
           s: 10
           from: "00:00:48,16"
           to: "00:00:53,16"
-          text: ~
+          text: "…e infatti la brigata è arrivata alle 8, e alle 10 siamo partiti."
         sequence-11:
           s: 11
           from: "00:00:53,16"
           to: "00:01:00,06"
-          text: ~
+          text: "Luigi ha dato l’ordine al sottoscritto di partire in testa alla brigata"
         sequence-12:
           s: 12
           from: "00:01:00,06"
           to: "00:01:06,09"
-          text: ~
+          text: "per poter guardare e andare molto lenti che non ci siano magari in giro delle mine o delle trappole…"
         sequence-13:
           s: 13
           from: "00:01:06,09"
           to: "00:01:10,23"
-          text: ~
+          text: "infatti siamo entrati pian piano e siamo arrivati a porta San Pietro."
         sequence-14:
           s: 14
           from: "00:01:10,23"
           to: "00:01:17,23"
-          text: ~
+          text: "Abbiamo attraversato la circonvallazione, che c’era in corso una colonna alleata a piedi"
         sequence-15:
           s: 15
           from: "00:01:17,23"
           to: "00:01:22,20"
-          text: ~
+          text: "che passava che masticavano…. il chewing-gum, noi non sapevamo cos’era il chewing-gum, masticavano"
         sequence-16:
           s: 16
           from: "00:01:22,20"
           to: "00:01:30,12"
-          text: ~
+          text: "e se inoltre non si sentivano a passare perché avevano le scarpe con il caucciù sotto, con la gomma, invece noi facevamo un casino tremendo."
         sequence-17:
           s: 17
           from: "00:01:30,12"
           to: "00:01:34,14"
-          text: ~
+          text: "E siamo entrati da San Pietro e avanti siamo arrivati fino in centro,"
         sequence-18:
           s: 18
           from: "00:01:34,14"
           to: "00:01:37,03"
-          text: ~
+          text: "poi abbiamo fatto delle postazioni."
         sequence-19:
           s: 19
           from: "00:01:37,03"
           to: "00:01:40,27"
-          text: ~
+          text: "Mi ricordo che sono andato a mangiare con la mia squadra e altri,"
         sequence-20:
           s: 20
           from: "00:01:40,27"
           to: "00:01:47,10"
-          text: ~
+          text: "lì in piazza Prampolini, andando verso il municipio, a destra, lì c’era il ristorante, abbiam mangiato lì… una minestrina."
         sequence-21:
           s: 21
           from: "00:01:47,10"
@@ -113,37 +113,37 @@ it:
           s: 22
           from: "00:01:47,18"
           to: "00:01:51,14"
-          text: ~
+          text: "Eravamo intossicati di formaggio,"
         sequence-23:
           s: 23
           from: "00:01:51,14"
           to: "00:01:59,16"
-          text: ~
+          text: "guarda che mangiavi per mesi formaggio e pane e pane e burro,"
         sequence-24:
           s: 24
           from: "00:01:59,16"
           to: "00:02:06,26"
-          text: ~
+          text: "ma io ero più fortunato perché ero sempre in giro, in particolare in collina, la bassa,"
         sequence-25:
           s: 25
           from: "00:02:06,26"
           to: "00:02:13,04"
-          text: ~
+          text: "e allora succedeva che noi andavamo a mangiare nelle famiglie, e allora il trattamento era tutta una cosa diversa, in poche parole."
         sequence-26:
           s: 26
           from: "00:02:13,04"
           to: "00:02:17,29"
-          text: ~
+          text: "Poi il mattino… durante la notte abbiamo fatto una postazione a Santo Stefano,"
         sequence-27:
           s: 27
           from: "00:02:17,29"
           to: "00:02:25,28"
-          text: ~
+          text: "e han fatto la base lì nel corridoio di Pecorari, che costruiva le biciclette, lo conoscevo, siamo andati lì."
         sequence-28:
           s: 28
           from: "00:02:25,28"
           to: "00:02:30,10"
-          text: ~
+          text: "Poi il mattino dopo ho detto: “Ragazzi mi devo assentare un paio d’ore"
         sequence-29:
           s: 29
           from: "00:02:30,10"
