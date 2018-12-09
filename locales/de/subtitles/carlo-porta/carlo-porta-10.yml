@@ -243,19 +243,21 @@ de:
           s: 42
           from: "00:03:47,26"
           to: "00:03:53,06"
-          text: ~
+          text: "Ich nahm wieder Kontakt zu meinen alten Bekannten auf und machte mich auf die Suche nach Arbeit."
         sequence-43:
           s: 43
           from: "00:03:53,06"
           to: "00:03:57,09"
-          text: ~
+          text: "Ich bekam viele Angebote, die ich nicht annahm,"
         sequence-44:
           s: 44
           from: "00:03:57,09"
           to: "00:04:02,04"
-          text: ~
+          text: "dann machte ich einfach mit meinem neuen Job bei Giglio weiter."
         sequence-45:
           s: 45
           from: "00:04:02,04"
           to: "00:04:09,26"
-          text: ~
+          text: |-
+              Latterie Cooperative Riunite (Vereinigte Molkereigenossenschaft).
+              Ich habe sechsunddreißig Jahre dort gearbeitet.
