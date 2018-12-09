@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:06,14"
           to: "00:01:13,02"
-          text: ~
+          text: "bisognava ovviamente difendersi. E l'abbiamo fatto, e"
         sequence-15:
           s: 15
           from: "00:01:13,02"
           to: "00:01:20,16"
-          text: ~
+          text: "c'erano sempre confronti verbali, prima di arrivare a picchiarci."
         sequence-16:
           s: 16
           from: "00:01:20,16"

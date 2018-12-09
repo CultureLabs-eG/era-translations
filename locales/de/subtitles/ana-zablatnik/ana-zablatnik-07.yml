@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:02:13,28"
           to: "00:02:18,29"
-          text: ~
+          text: "Man war nicht einmal ein Mensch – ich weiß nicht – nicht einmal eine Fliege."
         sequence-27:
           s: 27
           from: "00:02:18,29"
@@ -143,4 +143,4 @@ de:
           s: 28
           from: "00:02:20,15"
           to: "00:02:29,20"
-          text: ~
+          text: "Die lasst oft einmal, daß sie wegfliegt."
