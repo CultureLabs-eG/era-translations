@@ -168,27 +168,27 @@ de:
           s: 33
           from: "00:03:03,02"
           to: "00:03:08,27"
-          text: ~
+          text: "Ich bin zuerst seitlich zur Brücke hinunter gestiegen, dann bin ich unter die Brücke gegangen,"
         sequence-34:
           s: 34
           from: "00:03:08,27"
           to: "00:03:14,19"
-          text: ~
+          text: "aber die Brücke wurde bereits von den Deutschen bewacht."
         sequence-35:
           s: 35
           from: "00:03:14,19"
           to: "00:03:18,03"
-          text: ~
+          text: "Die Brücke war dadurch schwierig zu sprengen."
         sequence-36:
           s: 36
           from: "00:03:18,03"
           to: "00:03:23,11"
-          text: ~
+          text: "Aber dank all des Durcheinanders gelange ich darunter, bringe die Mine an,"
         sequence-37:
           s: 37
           from: "00:03:23,11"
           to: "00:03:29,01"
-          text: ~
+          text: "die Brücke war aus Eisen, aber vor der Brücke war ein Felsen etwa so hoch wie das Stockwerk eines Hauses."
         sequence-38:
           s: 38
           from: "00:03:29,01"
