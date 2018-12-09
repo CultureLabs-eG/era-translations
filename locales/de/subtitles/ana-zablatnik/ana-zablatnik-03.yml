@@ -2,7 +2,7 @@ de:
   ana-zablatnik:
     chapter-3:
       c: 3
-      title: ~
+      title: "Leben in Angst"
       subtitles:
         sequence-1:
           s: 1
@@ -23,12 +23,12 @@ de:
           s: 4
           from: "00:00:13,27"
           to: "00:00:16,22"
-          text: ~
+          text: "Und: ‚hoffentlich passiert das uns nicht’ – ja."
         sequence-5:
           s: 5
           from: "00:00:16,22"
           to: "00:00:20,10"
-          text: ~
+          text: "Ein jeder hat in der Angst gelebt, in dieser Zeit."
         sequence-6:
           s: 6
           from: "00:00:20,10"
@@ -38,32 +38,32 @@ de:
           s: 7
           from: "00:00:22,08"
           to: "00:00:25,17"
-          text: ~
+          text: "Bei uns daheim ja auch. Die haben ja nicht gewusst, was passiert."
         sequence-8:
           s: 8
           from: "00:00:25,17"
           to: "00:00:31,26"
-          text: ~
+          text: "Bei uns ist im '42er Jahre der Bruder ist gefallen, in Russland,"
         sequence-9:
           s: 9
           from: "00:00:31,26"
           to: "00:00:36,27"
-          text: ~
+          text: "'43 ist der zweite Bruder eingerückt, '44 haben sie mich eingesperrt,"
         sequence-10:
           s: 10
           from: "00:00:36,27"
           to: "00:00:41,28"
-          text: ~
+          text: "und im Jänner '45 haben sie noch einen Bruder eingezogen."
         sequence-11:
           s: 11
           from: "00:00:41,28"
           to: "00:00:46,11"
-          text: ~
+          text: "Und keiner hat gewusst wie’s ausgeht."
         sequence-12:
           s: 12
           from: "00:00:46,11"
           to: "00:00:49,20"
-          text: ~
+          text: "Es war ja für die Familien was Schreckliches auch – net?"
         sequence-13:
           s: 13
           from: "00:00:49,20"
@@ -73,9 +73,9 @@ de:
           s: 14
           from: "00:00:52,07"
           to: "00:00:59,09"
-          text: ~
+          text: "Und das hast müssen durchstehen und trotzdem an das Gute glauben kommt mir vor, auch."
         sequence-15:
           s: 15
           from: "00:00:59,09"
           to: "00:01:00,26"
-          text: ~
+          text: "Das hat auch dazu gehört."

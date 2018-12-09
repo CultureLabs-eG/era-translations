@@ -113,17 +113,17 @@ it:
           s: 22
           from: "00:01:40,16"
           to: "00:01:47,07"
-          text: ~
+          text: "Ma noi potevamo citare dal \"Mein Kampf\" che la conquista di nuove zone vitali nell'Est"
         sequence-23:
           s: 23
           from: "00:01:47,07"
           to: "00:01:51,05"
-          text: ~
+          text: "era un punto principale della lotta nazista."
         sequence-24:
           s: 24
           from: "00:01:51,05"
           to: "00:01:57,25"
-          text: ~
+          text: "Così quando ci confrontavamo con i nazisti, nelle aziende, nelle scuole, o dovunque"
         sequence-25:
           s: 25
           from: "00:01:57,25"

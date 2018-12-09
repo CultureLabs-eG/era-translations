@@ -138,7 +138,7 @@ de:
           s: 27
           from: "00:01:59,24"
           to: "00:02:07,12"
-          text: "Und dann mußten wir wieder antreten."
+          text: "Und dann mußten wir wieder antreten. \"Wir haben ja auch einen schönen Sportplatz und den wollen wir euch mal zeigen. Da könnt ihr dann auch Sport machen.\""
         sequence-28:
           s: 28
           from: "00:02:07,12"
@@ -148,7 +148,7 @@ de:
           s: 29
           from: "00:02:08,18"
           to: "00:02:12,17"
-          text: ~
+          text: "Und auf dem Sportplatz hat man uns dann so rumgejagt."
         sequence-30:
           s: 30
           from: "00:02:12,17"
