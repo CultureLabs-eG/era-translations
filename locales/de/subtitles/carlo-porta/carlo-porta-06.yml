@@ -8,12 +8,12 @@ de:
           s: 1
           from: "00:00:00,23"
           to: "00:00:08,04"
-          text: ~
+          text: "Sie gaben uns nur eines dieser großen dunklen Brote zu Essen."
         sequence-2:
           s: 2
           from: "00:00:08,04"
           to: "00:00:13,12"
-          text: ~
+          text: "Es war ein großer Laib aber man musste es in fünf Teile brechen."
         sequence-3:
           s: 3
           from: "00:00:13,12"
