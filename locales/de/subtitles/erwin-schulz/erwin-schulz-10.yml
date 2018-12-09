@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:11,25"
           to: "00:00:18,03"
-          text: ~
+          text: "Das war jetzt so in der Kriegszeit so üblich, dass viele eben nicht dann entlassen wurden."
         sequence-6:
           s: 6
           from: "00:00:18,03"
@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:19,00"
           to: "00:00:26,12"
-          text: ~
+          text: "Es ging dann über Hannover, dort war ich ein paar Tage, und dann nach Berlin."
         sequence-8:
           s: 8
           from: "00:00:26,12"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:27,08"
           to: "00:00:31,24"
-          text: ~
+          text: "Und bei der Gestapo – wieder neue Vernehmungen."
         sequence-10:
           s: 10
           from: "00:00:31,24"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:00:35,27"
           to: "00:00:43,02"
-          text: ~
+          text: "Und meine Schwester, die wusste ja nun, dass ich auch nach Berlin kam."
         sequence-12:
           s: 12
           from: "00:00:43,02"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:00:44,14"
           to: "00:00:51,10"
-          text: ~
+          text: "Die ist dann täglich hingegangen: „Wann lassen sie meinen Bruder frei?“"
         sequence-14:
           s: 14
           from: "00:00:51,10"
@@ -78,7 +78,7 @@ de:
           s: 15
           from: "00:00:53,25"
           to: "00:01:02,27"
-          text: ~
+          text: "Und nur – ich behaupte das auch: Wenn meine Schwester sich nicht so eingesetzt hätte, wäre ich auch nicht mehr rausgekommen."
         sequence-16:
           s: 16
           from: "00:01:02,27"

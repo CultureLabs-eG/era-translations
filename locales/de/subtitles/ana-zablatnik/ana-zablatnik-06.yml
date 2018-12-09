@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,29"
           to: "00:00:17,03"
-          text: "Am 05.05. abends sind sie um 11.00 Uhr gekommen – auf die Tür, haben sie geklopft, fest: „aufmachen, aufmachen!“ Und dann - der Vater fragt noch: „Was ist denn?“ – ja – „aufmachen!“"
+          text: "Am 05.05. abends sind sie um 11.00 Uhr gekommen – auf die Tür, haben sie geklopft, fest: „aufmachen, aufmachen!“"
         sequence-2:
           s: 2
           from: "00:00:17,03"
@@ -103,7 +103,7 @@ de:
           s: 20
           from: "00:02:03,21"
           to: "00:02:10,27"
-          text: ~
+          text: "Da sind so viele Sachen, dass man schwer darüber redet. Wo ich mich angezogen hab, in der Früh, da hab ich so einen Bewacher gefragt:"
         sequence-21:
           s: 21
           from: "00:02:10,27"
@@ -378,9 +378,9 @@ de:
           s: 75
           from: "00:07:25,24"
           to: "00:07:29,29"
-          text: ~
+          text: "Dort haben sie noch einen verschleppt oder umgebracht oder…"
         sequence-76:
           s: 76
           from: "00:07:29,29"
           to: "00:07:34,00"
-          text: ~
+          text: "Na, bei uns ist, Gott sei Dank, das nicht passiert."

@@ -63,12 +63,12 @@ it:
           s: 12
           from: "00:00:54,03"
           to: "00:01:02,25"
-          text: ~
+          text: "e siccome io ero piuttosto forte, sono andato là, agli eventi antifascisti, contro il parere dei miei genitori, già quando avevo 15 anni."
         sequence-13:
           s: 13
           from: "00:01:02,25"
           to: "00:01:06,14"
-          text: ~
+          text: "Quando i nazisti invadevano o tentavano di invadere gli eventi,"
         sequence-14:
           s: 14
           from: "00:01:06,14"

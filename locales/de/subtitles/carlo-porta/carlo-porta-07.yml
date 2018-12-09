@@ -87,17 +87,19 @@ de:
           s: 14
           from: "00:01:05,05"
           to: "00:01:10,21"
-          text: ~
+          text: "Aber danach gab es keine Kontrollen darüber, was wir tagsüber machten."
         sequence-15:
           s: 15
           from: "00:01:10,21"
           to: "00:01:13,24"
-          text: ~
+          text: "Wir konnten jedenfalls nirgends hin."
         sequence-16:
           s: 16
           from: "00:01:13,24"
           to: "00:01:20,23"
-          text: ~
+          text: |-
+              Man erwartete, dass wir bei der Arbeit sind,
+              auch wenn wir den ganzen Tags nichts tun würden.
         sequence-17:
           s: 17
           from: "00:01:20,23"
@@ -107,9 +109,9 @@ de:
           s: 18
           from: "00:01:22,24"
           to: "00:01:26,25"
-          text: ~
+          text: "Es war sehr kalt dort."
         sequence-19:
           s: 19
           from: "00:01:26,25"
           to: "00:01:30,18"
-          text: ~
+          text: "Es gab Frauen aus Russland und ein paar Männer."

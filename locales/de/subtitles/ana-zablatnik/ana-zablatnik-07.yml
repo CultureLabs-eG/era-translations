@@ -2,18 +2,18 @@ de:
   ana-zablatnik:
     chapter-7:
       c: 7
-      title: ~
+      title: "Im Gefängnis"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,24"
           to: "00:00:03,26"
-          text: ~
+          text: "Im Gefängnis war ich ja auch. Da war so ’ne Razzia,"
         sequence-2:
           s: 2
           from: "00:00:03,26"
           to: "00:00:12,03"
-          text: ~
+          text: "es hat geheißen – das war Ende Oktober – wir haben eine Verbindung."
         sequence-3:
           s: 3
           from: "00:00:12,03"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:13,28"
           to: "00:00:22,21"
-          text: ~
+          text: "Es war aber wirklich etwas. Einmal kommt eine, die was drin war im Gefängnis auch, die hat immer gesagt:"
         sequence-5:
           s: 5
           from: "00:00:22,21"
