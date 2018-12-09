@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,20"
           to: "00:00:07,25"
-          text: "Am 25. April (1945) in Modena, waren wir bereits befreit, denn wir hatten uns selbst am 23. oder am 22. befreit."
+          text: "Am 25. April waren wir in Modena frei, da wir uns bereits am 23. oder 22. befreit hatten."
         sequence-2:
           s: 2
           from: "00:00:07,25"

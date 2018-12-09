@@ -409,12 +409,12 @@ de:
           s: 72
           from: "00:08:19,18"
           to: "00:08:25,10"
-          text: ~
+          text: "Dann ließen sie uns stundenlang im Kreis gehen, manchmal im Regen."
         sequence-73:
           s: 73
           from: "00:08:25,10"
           to: "00:08:31,03"
-          text: ~
+          text: "Solche Episoden gab es nicht so oft, aber es gab sie bestimmt."
         sequence-74:
           s: 74
           from: "00:08:31,03"
@@ -424,22 +424,26 @@ de:
           s: 75
           from: "00:08:32,20"
           to: "00:08:39,25"
-          text: ~
+          text: |-
+              Ich wurde am 16. September festgenommen,
+              oder besser gesagt, wir wurden in einen Zug geladen
         sequence-76:
           s: 76
           from: "00:08:39,25"
           to: "00:08:44,17"
-          text: ~
+          text: "und ich kam erst zwei Jahre später nach Hause – am 14. September."
         sequence-77:
           s: 77
           from: "00:08:44,17"
           to: "00:08:52,05"
-          text: ~
+          text: "Wir waren in der Nähe des Ruhrgebiets, wo die meisten Waffenfabriken waren."
         sequence-78:
           s: 78
           from: "00:08:52,05"
           to: "00:09:04,20"
-          text: ~
+          text: |-
+              Auch die Panzerfabriken, die von den Amerikanern
+              mit speziellen Bomben angegriffen wurden.
         sequence-79:
           s: 79
           from: "00:09:04,20"

@@ -38,17 +38,17 @@ it:
           s: 7
           from: "00:00:24,13"
           to: "00:00:30,00"
-          text: ~
+          text: "E significa anche che siamo cresciuti non solo ne campo della lotta antifascista,"
         sequence-8:
           s: 8
           from: "00:00:30,00"
           to: "00:00:34,04"
-          text: ~
+          text: "ma anche in quello della lotta per la pace. Per noi era una cosa sola:"
         sequence-9:
           s: 9
           from: "00:00:34,04"
           to: "00:00:36,16"
-          text: ~
+          text: "la lotta antifascista e la lotta per la pace."
         sequence-10:
           s: 10
           from: "00:00:36,16"
