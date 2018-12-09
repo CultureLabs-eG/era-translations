@@ -13,12 +13,12 @@ de:
           s: 2
           from: "00:00:05,20"
           to: "00:00:15,07"
-          text: "Sie ware eine der Führungskräfte und seit Jahren in der Party, gemeinsam mit ihrem Vater, der in Frankreich war, etc."
+          text: "Sie ware eine der Führungskräfte und seit Jahren in der Partei, gemeinsam mit ihrem Vater, der in Frankreich war, etc."
         sequence-3:
           s: 3
           from: "00:00:15,07"
           to: "00:00:21,27"
-          text: "Dieser bekannte Zanti, der in der Zucchi Kaserne erschossen wurde."
+          text: "Der berühmte Zanti, der bei der Zucchi Kaserne erschossen wurde."
         sequence-4:
           s: 4
           from: "00:00:21,27"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:22,29"
           to: "00:00:36,07"
-          text: "Die Party gab ihr diese Aufgabe; sie war organisiert und hatte bereits Kontakte nach Modena,"
+          text: "Die Partei hat ihr diese Aufgabe übertragen; sie war organisiert und hatte bereits Kontakte nach Modena,"
         sequence-6:
           s: 6
           from: "00:00:36,07"
@@ -43,17 +43,17 @@ de:
           s: 8
           from: "00:00:49,05"
           to: "00:00:52,28"
-          text: "Wir gingen zu ihr und ich traf eine Absprache mit ihr."
+          text: "Wir gingen zu ihr und verabredeten uns."
         sequence-9:
           s: 9
           from: "00:00:52,28"
           to: "00:01:01,11"
-          text: "Am Morgen gingen wir an meinem Haus vorbei. Es war niemand da, weil sie sich alle in einem Viehstall trafen."
+          text: "Am Morgen gingen wir an meinem Haus vorbei. Es war niemand da, weil sie sich alle zu einer Versammlung in einem Viehstall trafen."
         sequence-10:
           s: 10
           from: "00:01:01,11"
           to: "00:01:12,22"
-          text: "Ich nahm mein Fahrrad auf und ging nach San Bartolomeo zurück, weil ich es nicht wagte, zu bleiben, denn es könnte mich jemand verraten haben."
+          text: "Ich nahm mein Fahrrad und fuhr nach San Bartolomeo zurück, weil ich es nicht wagte, zu bleiben, denn es könnte mich jemand verraten haben."
         sequence-11:
           s: 11
           from: "00:01:12,22"
@@ -123,7 +123,7 @@ de:
           s: 24
           from: "00:02:06,17"
           to: "00:02:25,12"
-          text: "Während des Aufenthalts bei einer Bauernfamilie in Saliceto San Giuliano, wo ich war für 5 oder 6 Monate war, fühlte ich mich wie zu Hause."
+          text: "Während des Aufenthalts bei einer Bauernfamilie in Saliceto San Giuliano, wo ich für 5 oder 6 Monate war, fühlte ich mich wie zu Hause."
         sequence-25:
           s: 25
           from: "00:02:25,12"
