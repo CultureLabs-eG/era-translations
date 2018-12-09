@@ -2,23 +2,23 @@ it:
   fernando-cavazzini:
     chapter-10:
       c: 10
-      title: ~
+      title: "Corso di sabotaggio per altri partigiani"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:04,20"
-          text: ~
+          text: "I miei collaboratori non erano preparati."
         sequence-2:
           s: 2
           from: "00:00:04,20"
           to: "00:00:11,02"
-          text: ~
+          text: "E’ capitata una volta che erano di guardia, è partita una raffica, in sbaglio,"
         sequence-3:
           s: 3
           from: "00:00:11,02"
           to: "00:00:14,04"
-          text: ~
+          text: "poi là sono scappati, e sono rimasto lì da solo."
         sequence-4:
           s: 4
           from: "00:00:14,04"

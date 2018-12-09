@@ -2,13 +2,13 @@ de:
   erwin-schulz:
     chapter-11:
       c: 11
-      title: ~
+      title: "Militärdienst, Mord eines Bibelschülers"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,27"
           to: "00:00:05,24"
-          text: ~
+          text: "Gemustert wurde ich ja schon in Aschendorfer Moor."
         sequence-2:
           s: 2
           from: "00:00:05,24"
@@ -18,12 +18,12 @@ de:
           s: 3
           from: "00:00:06,23"
           to: "00:00:16,22"
-          text: ~
+          text: "Und da haben wir einen Wehrausschließungsschein bekommen; waren also wehrunwürdig."
         sequence-4:
           s: 4
           from: "00:00:16,22"
           to: "00:00:24,12"
-          text: ~
+          text: "Zuchthäusler und Politische, die waren alle wehrunwürdig."
         sequence-5:
           s: 5
           from: "00:00:24,12"
@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:31,29"
           to: "00:00:38,28"
-          text: ~
+          text: "Und 41/42 wurden wir noch mal gemustert."
         sequence-7:
           s: 7
           from: "00:00:38,28"
@@ -43,7 +43,7 @@ de:
           s: 8
           from: "00:00:41,04"
           to: "00:00:50,28"
-          text: ~
+          text: "Und das hängt ja auch zusammen mit den ungeheuren Verlusten an der Ostfront."
         sequence-9:
           s: 9
           from: "00:00:50,28"
@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:00:52,08"
           to: "00:00:57,00"
-          text: ~
+          text: "Die brauchten ja jetzt Menschenmaterial."
         sequence-11:
           s: 11
           from: "00:00:57,00"

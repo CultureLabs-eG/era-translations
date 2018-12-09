@@ -93,17 +93,17 @@ it:
           s: 18
           from: "00:01:29,29"
           to: "00:01:34,15"
-          text: ~
+          text: "che i nazisti non si possono battere con le loro stesse armi,"
         sequence-19:
           s: 19
           from: "00:01:34,15"
           to: "00:01:40,04"
-          text: ~
+          text: "che non dovevamo riprendere la violenza dei nazisti, ma puntare sul chiarimento."
         sequence-20:
           s: 20
           from: "00:01:40,04"
           to: "00:01:43,11"
-          text: ~
+          text: "Altri, i nostri lavoratori metallurgici nelle aziende, dicevano:"
         sequence-21:
           s: 21
           from: "00:01:43,11"
