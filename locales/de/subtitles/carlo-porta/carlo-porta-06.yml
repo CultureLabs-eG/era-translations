@@ -85,7 +85,9 @@ de:
           s: 14
           from: "00:01:24,06"
           to: "00:01:32,20"
-          text: ~
+          text: |-
+              Mützen fielen in die Suppe.
+              Etwas, das die Menschen zum Durchdrehen brachte.
         sequence-15:
           s: 15
           from: "00:01:32,20"

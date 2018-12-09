@@ -118,9 +118,9 @@ it:
           s: 23
           from: "00:02:03,17"
           to: "00:02:08,28"
-          text: ~
+          text: "magari il nome della fidanzata alcuni."
         sequence-24:
           s: 24
           from: "00:02:08,28"
           to: "00:02:14,28"
-          text: ~
+          text: "Un mio amico aveva la fidanzata che si chiamava Leda, lui si chiamava Ledo come nome di battaglia."

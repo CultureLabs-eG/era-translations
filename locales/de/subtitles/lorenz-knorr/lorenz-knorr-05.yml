@@ -8,17 +8,17 @@ de:
           s: 1
           from: "00:00:00,15"
           to: "00:00:03,22"
-          text: ~
+          text: "Also natürlich, wir haben zu erst mit den jungen Leuten diskutiert,"
         sequence-2:
           s: 2
           from: "00:00:03,22"
           to: "00:00:08,20"
-          text: ~
+          text: "aber mehr und mehr wurden wir gezwungen auch mit den Erwachsenen zu diskutieren."
         sequence-3:
           s: 3
           from: "00:00:08,20"
           to: "00:00:16,21"
-          text: ~
+          text: "Es war ja nicht so, dass nur die Jugend sich mit dem Faschismus auseinander gesetzt hätte."
         sequence-4:
           s: 4
           from: "00:00:16,21"

@@ -2,18 +2,18 @@ it:
   lorenz-knorr:
     chapter-5:
       c: 5
-      title: ~
+      title: "La battaglia contro i nazisti e discussioni sulla violenza"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,15"
           to: "00:00:03,22"
-          text: ~
+          text: "Naturalmente abbiamo cominciato a discutere con i giovani,"
         sequence-2:
           s: 2
           from: "00:00:03,22"
           to: "00:00:08,20"
-          text: ~
+          text: "ma sempre di più ci trovammo costretti a discutere anche con gli adulti."
         sequence-3:
           s: 3
           from: "00:00:08,20"
