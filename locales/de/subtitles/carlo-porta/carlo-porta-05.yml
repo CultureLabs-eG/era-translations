@@ -132,22 +132,26 @@ de:
           s: 25
           from: "00:02:48,02"
           to: "00:02:53,20"
-          text: ~
+          text: "Ich glaube sie wussten von Anfang an, dass sie uns anlogen,"
         sequence-26:
           s: 26
           from: "00:02:53,20"
           to: "00:03:01,05"
-          text: ~
+          text: |-
+              aber sie sagten uns, dass sie eine Vereinbarung mit den Deutschen hatten:
+              sie würden uns nach Trieste bringen,
         sequence-27:
           s: 27
           from: "00:03:01,05"
           to: "00:03:05,11"
-          text: ~
+          text: "von wo aus jeder seines Weges gehen könne."
         sequence-28:
           s: 28
           from: "00:03:05,11"
           to: "00:03:14,14"
-          text: ~
+          text: |-
+              Ich war sehr skeptisch aber wir stiegen alle in den Zug.
+              In jedem Waggon waren 42 von uns.
         sequence-29:
           s: 29
           from: "00:03:14,14"
