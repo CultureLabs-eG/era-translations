@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:00:56,15"
           to: "00:00:59,11"
-          text: ~
+          text: "Wenigstens etwas - ja."
         sequence-11:
           s: 11
           from: "00:00:59,11"
@@ -63,29 +63,29 @@ de:
           s: 12
           from: "00:01:07,24"
           to: "00:01:11,25"
-          text: ~
+          text: "Da haben sie ja eh gesagt, damals als sie in Ludmannsdorf waren hat da einer gesagt:"
         sequence-13:
           s: 13
           from: "00:01:11,25"
           to: "00:01:17,22"
-          text: ~
+          text: "„Sperrt diese Frotzler ein, nachher haben wir a Ruhe in Ludmannsdorf.“"
         sequence-14:
           s: 14
           from: "00:01:17,22"
           to: "00:01:22,27"
-          text: ~
+          text: "Diese Fratzen - so wie mich - sollen sie einsperren, nachad haben wir a Ruhe in Ludmannsdorf."
         sequence-15:
           s: 15
           from: "00:01:22,27"
           to: "00:01:32,12"
-          text: ~
+          text: "Es haben ja viele was gedacht, oder vermutet, aber so richtig hat keiner von die Nazis halt gewusst."
         sequence-16:
           s: 16
           from: "00:01:32,12"
           to: "00:01:40,06"
-          text: ~
+          text: "Weil etwas muß ja sein. Sobald die Partisanen ins Dorf kommen und irgendeine Aktion machen,"
         sequence-17:
           s: 17
           from: "00:01:40,06"
           to: "00:01:46,02"
-          text: ~
+          text: "jemand hat müssen da den Weg ebenen, daß sie halt kommen haben können."

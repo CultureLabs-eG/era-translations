@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:08,20"
           to: "00:00:16,21"
-          text: ~
+          text: "Non è che solo i giovani discutessero di fascismo."
         sequence-4:
           s: 4
           from: "00:00:16,21"

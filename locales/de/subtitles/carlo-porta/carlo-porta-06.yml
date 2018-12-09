@@ -92,34 +92,40 @@ de:
           s: 15
           from: "00:01:32,20"
           to: "00:01:43,04"
-          text: ~
+          text: |-
+              Mein Korporal, Mario Palazzeschi, ein Junge aus Arezzo,
+              war unglaublich gesund. Viel gesünder als ich.
         sequence-16:
           s: 16
           from: "00:01:43,04"
           to: "00:01:49,04"
-          text: ~
+          text: |-
+              Eines Tages aber, begann er zu schluchzen
+              „Carlo, ich schaffe es nicht, ich schaffe es nicht…“
         sequence-17:
           s: 17
           from: "00:01:49,04"
           to: "00:01:52,11"
-          text: ~
+          text: "Innerhalb von drei Monaten war er tot."
         sequence-18:
           s: 18
           from: "00:01:52,11"
           to: "00:01:54,18"
-          text: ~
+          text: "Wissen Sie was ich immer gesagt habe?"
         sequence-19:
           s: 19
           from: "00:01:54,18"
           to: "00:02:02,11"
-          text: ~
+          text: "Herr Mussolini und Herr Hitler können froh sein, dass sie vor mir gestorben sind."
         sequence-20:
           s: 20
           from: "00:02:02,11"
           to: "00:02:10,24"
-          text: ~
+          text: |-
+              Stellen Sie sich vor, was sie sagen würden, wenn sie erführen,
+              dass ich immer noch da bin. Mit über achtzig Jahren!
         sequence-21:
           s: 21
           from: "00:02:10,24"
           to: "00:02:15,02"
-          text: ~
+          text: "Ich sage das nur um ein wenig zu lachen."

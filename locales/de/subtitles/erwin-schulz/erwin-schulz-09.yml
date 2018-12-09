@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:08,19"
           to: "00:00:15,12"
-          text: ~
+          text: "Betten machen, waschen, auf Toilette gehen, das war hinten in irgend so einer Baracke."
         sequence-5:
           s: 5
           from: "00:00:15,12"
@@ -33,17 +33,17 @@ de:
           s: 6
           from: "00:00:16,21"
           to: "00:00:20,02"
-          text: ~
+          text: "Da wurde dann nachher das Essen ausgeteilt."
         sequence-7:
           s: 7
           from: "00:00:20,02"
           to: "00:00:34,04"
-          text: ~
+          text: "Wir bekamen dann einen halben Liter Suppe, die Tagesration Brot, ein bisschen Fett, Marmelade,"
         sequence-8:
           s: 8
           from: "00:00:34,04"
           to: "00:00:38,11"
-          text: ~
+          text: "Schwarzbrot und Weißbrot, das war dann auch so gemischt."
         sequence-9:
           s: 9
           from: "00:00:38,11"
@@ -53,12 +53,12 @@ de:
           s: 10
           from: "00:00:39,07"
           to: "00:00:45,26"
-          text: ~
+          text: "Und dann war Zählappell – nicht - das ging alles sozusagen im Galopp."
         sequence-11:
           s: 11
           from: "00:00:45,26"
           to: "00:00:54,11"
-          text: ~
+          text: "Dann ging es raus zur Arbeit, dann mussten wir antreten."
         sequence-12:
           s: 12
           from: "00:00:54,11"
@@ -68,32 +68,32 @@ de:
           s: 13
           from: "00:00:56,25"
           to: "00:01:02,23"
-          text: ~
+          text: "Ich bin dann größtenteils zu dem Kuhlenkommando gekommen."
         sequence-14:
           s: 14
           from: "00:01:02,23"
           to: "00:01:13,03"
-          text: ~
+          text: "Da waren so zirka 500 Gefangene, und da wurde wieder gezählt."
         sequence-15:
           s: 15
           from: "00:01:13,03"
           to: "00:01:16,13"
-          text: ~
+          text: "Gezählt wurden wir am Tag X-Mal."
         sequence-16:
           s: 16
           from: "00:01:16,13"
           to: "00:01:26,01"
-          text: ~
+          text: "Wenn wir da waren, nachher im Moor, auf dem Gelände, wo wir arbeiteten,"
         sequence-17:
           s: 17
           from: "00:01:26,01"
           to: "00:01:31,10"
-          text: ~
+          text: "da wurden wir gezählt, und ringsum war dann die Postenkette."
         sequence-18:
           s: 18
           from: "00:01:31,10"
           to: "00:01:37,03"
-          text: ~
+          text: "Da und dort saß einer, damit die einen Überblick hatten."
         sequence-19:
           s: 19
           from: "00:01:37,03"
