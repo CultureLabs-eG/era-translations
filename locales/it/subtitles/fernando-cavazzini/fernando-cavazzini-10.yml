@@ -23,22 +23,22 @@ it:
           s: 4
           from: "00:00:14,04"
           to: "00:00:20,13"
-          text: ~
+          text: "E ho fatto: “No, adesso basta, io devo formare un gruppo di sabotatori al mio comando”."
         sequence-5:
           s: 5
           from: "00:00:20,13"
           to: "00:00:24,21"
-          text: ~
+          text: "E poi dopo ho chiesto al comando della 26° Brigata, con Luigi ho detto:"
         sequence-6:
           s: 6
           from: "00:00:24,21"
           to: "00:00:29,10"
-          text: ~
+          text: "“Guarda, io ho intenzione di fare questa cosa, fare una squadra di sabotatori,"
         sequence-7:
           s: 7
           from: "00:00:29,10"
           to: "00:00:32,00"
-          text: ~
+          text: "faccio io il corso alle dipendenze dirette della brigata”."
         sequence-8:
           s: 8
           from: "00:00:32,00"
@@ -48,24 +48,24 @@ it:
           s: 9
           from: "00:00:32,19"
           to: "00:00:38,02"
-          text: ~
+          text: "Il comando è stato molto d’accordo e io ho fatto questo corso a questi ragazzi,"
         sequence-10:
           s: 10
           from: "00:00:38,02"
           to: "00:00:46,20"
-          text: ~
+          text: "e poi siamo andati avanti perché appunto succedeva che magari si andava a fare un’azione e potevamo anche farne tre o quattro in una volta, con 12 uomini."
         sequence-11:
           s: 11
           from: "00:00:46,20"
           to: "00:00:51,11"
-          text: ~
+          text: "Inoltre rischiavamo meno perché purtroppo i morti venivano,"
         sequence-12:
           s: 12
           from: "00:00:51,11"
           to: "00:00:54,04"
-          text: ~
+          text: "mi fanno fuori me non ci rimane più nessuno."
         sequence-13:
           s: 13
           from: "00:00:54,04"
           to: "00:00:56,20"
-          text: ~
+          text: "Facciamo il corso e infatti ha ottenuto successo."
