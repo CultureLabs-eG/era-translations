@@ -2,13 +2,13 @@ it:
   fernando-cavazzini:
     chapter-2:
       c: 2
-      title: ~
+      title: "Toni inizia l’attivitá antifascista"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,28"
           to: "00:00:06,28"
-          text: ~
+          text: "Succedeva che la propaganda fascista diceva che i comunisti in Spagna"
         sequence-2:
           s: 2
           from: "00:00:06,28"
