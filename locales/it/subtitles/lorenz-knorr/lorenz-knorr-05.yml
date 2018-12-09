@@ -2,240 +2,240 @@ it:
   lorenz-knorr:
     chapter-5:
       c: 5
-      title: ~
+      title: "La battaglia contro i nazisti e discussioni sulla violenza"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,15"
           to: "00:00:03,22"
-          text: ~
+          text: "Naturalmente abbiamo cominciato a discutere con i giovani,"
         sequence-2:
           s: 2
           from: "00:00:03,22"
           to: "00:00:08,20"
-          text: ~
+          text: "ma sempre di più ci trovammo costretti a discutere anche con gli adulti."
         sequence-3:
           s: 3
           from: "00:00:08,20"
           to: "00:00:16,21"
-          text: ~
+          text: "Non è che solo i giovani discutessero di fascismo."
         sequence-4:
           s: 4
           from: "00:00:16,21"
           to: "00:00:24,06"
-          text: ~
+          text: "Sapevamo ben distinguere tra il fascismo italiano, il fascismo nero in Austria"
         sequence-5:
           s: 5
           from: "00:00:24,06"
           to: "00:00:26,16"
-          text: ~
+          text: "e il fascismo marrone tedesco."
         sequence-6:
           s: 6
           from: "00:00:26,16"
           to: "00:00:29,06"
-          text: ~
+          text: "È una differenza che bisognava sapere e di cui tener conto."
         sequence-7:
           s: 7
           from: "00:00:29,06"
           to: "00:00:34,10"
-          text: ~
+          text: "Ma in questo modo finivamo inevitabilmente in conflitti,"
         sequence-8:
           s: 8
           from: "00:00:34,10"
           to: "00:00:40,06"
-          text: ~
+          text: "perché fin dall'inizio ci furono, questo è un termine storico, \"battaglie da sala\"."
         sequence-9:
           s: 9
           from: "00:00:40,06"
           to: "00:00:46,15"
-          text: ~
+          text: "I nazisti tentavano per esempio di invadere gli eventi degli antifascisti e renderli impossibili"
         sequence-10:
           s: 10
           from: "00:00:46,15"
           to: "00:00:51,05"
-          text: ~
+          text: "e così anche gli antifascisti tentavano di rendere impossibili gli eventi dei nazisti."
         sequence-11:
           s: 11
           from: "00:00:51,05"
           to: "00:00:54,03"
-          text: ~
+          text: "Ovviamente si finiva per litigare"
         sequence-12:
           s: 12
           from: "00:00:54,03"
           to: "00:01:02,25"
-          text: ~
+          text: "e siccome io ero piuttosto forte, sono andato là, agli eventi antifascisti, contro il parere dei miei genitori, già quando avevo 15 anni."
         sequence-13:
           s: 13
           from: "00:01:02,25"
           to: "00:01:06,14"
-          text: ~
+          text: "Quando i nazisti invadevano o tentavano di invadere gli eventi,"
         sequence-14:
           s: 14
           from: "00:01:06,14"
           to: "00:01:13,02"
-          text: ~
+          text: "bisognava ovviamente difendersi. E l'abbiamo fatto, e"
         sequence-15:
           s: 15
           from: "00:01:13,02"
           to: "00:01:20,16"
-          text: ~
+          text: "c'erano sempre confronti verbali, prima di arrivare a picchiarci."
         sequence-16:
           s: 16
           from: "00:01:20,16"
           to: "00:01:26,06"
-          text: ~
+          text: "Funzionava così, e tra di noi c'erano anche diverse correnti."
         sequence-17:
           s: 17
           from: "00:01:26,06"
           to: "00:01:29,29"
-          text: ~
+          text: "Mio padre apparteneva alla corrente che diceva"
         sequence-18:
           s: 18
           from: "00:01:29,29"
           to: "00:01:34,15"
-          text: ~
+          text: "che i nazisti non si possono battere con le loro stesse armi,"
         sequence-19:
           s: 19
           from: "00:01:34,15"
           to: "00:01:40,04"
-          text: ~
+          text: "che non dovevamo riprendere la violenza dei nazisti, ma puntare sul chiarimento."
         sequence-20:
           s: 20
           from: "00:01:40,04"
           to: "00:01:43,11"
-          text: ~
+          text: "Altri, i nostri lavoratori metallurgici nelle aziende, dicevano:"
         sequence-21:
           s: 21
           from: "00:01:43,11"
           to: "00:01:47,11"
-          text: ~
+          text: "\"Ma è quello che viviamo ogni giorno, quelli capiscono solo la lingua della violenza."
         sequence-22:
           s: 22
           from: "00:01:47,11"
           to: "00:01:54,06"
-          text: ~
+          text: "Le nostre argomentazioni gli scivolano addosso come gocce di pioggia su una mantella per la pioggia."
         sequence-23:
           s: 23
           from: "00:01:54,06"
           to: "00:01:57,15"
-          text: ~
+          text: "L'unico modo per prevalere contro i nazisti è la violenza.\""
         sequence-24:
           s: 24
           from: "00:01:57,15"
           to: "00:02:00,00"
-          text: ~
+          text: "E all'interno della gioventù socialista abbiamo fatto entrambe le cose."
         sequence-25:
           s: 25
           from: "00:02:00,00"
           to: "00:02:06,10"
-          text: ~
+          text: "Abbiamo creato il nostro armamentario teorico, per poter discutere coi nazisti,"
         sequence-26:
           s: 26
           from: "00:02:06,10"
           to: "00:02:11,03"
-          text: ~
+          text: "e allo stesso tempo eravamo in grado di difenderci. Non ci mancava nulla."
         sequence-27:
           s: 27
           from: "00:02:11,03"
           to: "00:02:13,17"
-          text: ~
+          text: "Fino al 1936 abbiamo cantato:"
         sequence-28:
           s: 28
           from: "00:02:13,17"
           to: "00:02:20,16"
-          text: ~
+          text: "\"Mai, mai vogliamo indossare le armi! Mai, mai più vogliamo la guerra. Lascia quelli che stanno in alto da soli a combattersi tra di loro, noi non partecipiamo più.\""
         sequence-29:
           s: 29
           from: "00:02:20,16"
           to: "00:02:23,21"
-          text: ~
+          text: "Ma poi arrivarono i compagni più anziani e dissero, Hitler è alle porte"
         sequence-30:
           s: 30
           from: "00:02:23,21"
           to: "00:02:27,25"
-          text: ~
+          text: "con discussioni armate e voi non volete difendervi."
         sequence-31:
           s: 31
           from: "00:02:27,25"
           to: "00:02:33,23"
-          text: ~
+          text: "Ci fu una discussione gigantesca nell'associazione giovanile e decidemmo allora di imparare a difenderci."
         sequence-32:
           s: 32
           from: "00:02:33,23"
           to: "00:02:41,15"
-          text: ~
+          text: "Abbiamo imparatp a sparare e un nuovo tipo di sport da combattimento, che i nazisti non conoscevano nemmeno di nome."
         sequence-33:
           s: 33
           from: "00:02:41,15"
           to: "00:02:48,05"
-          text: ~
+          text: "Oggi niente di nuovo, ma allora era nuovissimo: lo Jiu-Jitsu, imparare a colpire con il lato della mano."
         sequence-34:
           s: 34
           from: "00:02:48,05"
           to: "00:02:52,04"
-          text: ~
+          text: "In questo modo avremmo vinto contro la maggior parte dei nazisti."
         sequence-35:
           s: 35
           from: "00:02:52,04"
           to: "00:03:00,01"
-          text: ~
+          text: "Quando ad esempio uno dei nostri centri giovanili veniva accerchiato da militanti nazisti e la loro gente,"
         sequence-36:
           s: 36
           from: "00:03:00,01"
           to: "00:03:03,09"
-          text: ~
+          text: "come avremmo potuto liberare i gruppi nei centri giovanili?"
         sequence-37:
           s: 37
           from: "00:03:03,09"
           to: "00:03:05,24"
-          text: ~
+          text: "Con mezzi di difesa? Non avrebbe funzionato."
         sequence-38:
           s: 38
           from: "00:03:05,24"
           to: "00:03:11,17"
-          text: ~
+          text: "Dovevamo intervenire, e solo quando i loro militanti erano stati sconfitti,"
         sequence-39:
           s: 39
           from: "00:03:11,17"
           to: "00:03:12,25"
-          text: ~
+          text: "solo allora gli altri si disperdevano"
         sequence-40:
           s: 40
           from: "00:03:12,25"
           to: "00:03:15,24"
-          text: ~
+          text: "e potevamo liberare la nostra gente dai centri giovanili."
         sequence-41:
           s: 41
           from: "00:03:15,24"
           to: "00:03:18,04"
-          text: ~
+          text: "Succedeva spesso,"
         sequence-42:
           s: 42
           from: "00:03:18,04"
           to: "00:03:27,27"
-          text: ~
+          text: "l'organizzazione adulta dei socialdemocratici, ovvero i socialisti, la \"Rote Wehr\", più tardi \"Republikanische Wehr\", era strettamente sulle difensive."
         sequence-43:
           s: 43
           from: "00:03:27,27"
           to: "00:03:33,11"
-          text: ~
+          text: "Andava bene, quando gli edifici pubblici dovevano essere difesi dagli attacchi dei nazisti."
         sequence-44:
           s: 44
           from: "00:03:33,11"
           to: "00:03:40,17"
-          text: ~
+          text: "Andava bene durante le dimostrazioni, con la \"rote Wehr\" davanti e in fondo, ma"
         sequence-45:
           s: 45
           from: "00:03:40,17"
           to: "00:03:49,26"
-          text: ~
+          text: "quando era un locale per eventi in un piccolo paesino ad essere circondato dai nazisti,"
         sequence-46:
           s: 46
           from: "00:03:49,26"
           to: "00:03:55,05"
-          text: ~
+          text: "alcuni di noi erano già dentro e la parte restante voleva entrare per partecipare all'evento e non poteva,"
         sequence-47:
           s: 47
           from: "00:03:55,05"
           to: "00:03:58,17"
-          text: ~
+          text: "beh allora veniva chiamata la nostra divisione di pionieri. Per allora abbiamo fatto in modo di disperdere il cerchio di gente intorno all'edificio con la nostra tattica di combattimento, e con il nostro nuovo metodo di lotta era possibile."

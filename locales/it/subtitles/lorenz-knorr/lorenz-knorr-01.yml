@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:04,04"
           to: "00:00:15,26"
-          text: "nato nel 1921 a Eger, ora Cheb, nei territori tedeschi occupati in Cecoslovacchia."
+          text: "Cresciuto nel 1921 a Eger, ora Cheb, nei territori tedeschi occupati in Cecoslovacchia."
         sequence-3:
           s: 3
           from: "00:00:15,26"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:42,18"
           to: "00:00:53,06"
-          text: "Chi è cresciuto negli anni '20 e '30 del secolo passato, nei territori tedeschi occupati della Cecoslovacchia,"
+          text: "Chi è cresciuto negli anni '20 e '30 del secolo passato nei territori tedeschi occupati della Cecoslovacchia"
         sequence-12:
           s: 12
           from: "00:00:53,06"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:54,20"
           to: "00:00:59,01"
-          text: "all'interno della famiglia di un funzionario della classe lavoratrice,"
+          text: "nella famiglia di un funzionario della classe lavoratrice,"
         sequence-14:
           s: 14
           from: "00:00:59,01"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:00,01"
           to: "00:01:09,02"
-          text: "avrai a che fare fin da piccolo con problemi e lotte politiche in continua evoluzione."
+          text: "avrà a che fare fin da piccolo con problemi e lotte politiche in continua evoluzione."
         sequence-16:
           s: 16
           from: "00:01:09,02"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:10,16"
           to: "00:01:16,18"
-          text: "Mio padre era, prima della prima guerra mondiale, il più famoso leader a capo degli scioperi a Eger"
+          text: "Mio padre era, prima della prima guerra mondiale, il più famoso tra chi guidava gli scioperi a Eger"
         sequence-18:
           s: 18
           from: "00:01:16,18"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:40,05"
           to: "00:01:47,20"
-          text: "e in particolare per il 1 maggio o in altri giorni di festa del movimento dei lavoratori."
+          text: "e in particolare ovviamente per il 1 maggio o in altri giorni di festa del movimento dei lavoratori."
         sequence-23:
           s: 23
           from: "00:01:47,20"
@@ -123,12 +123,12 @@ it:
           s: 24
           from: "00:01:49,05"
           to: "00:01:57,12"
-          text: "Le impressioni distintive e formative furono però nell'anno 1933,"
+          text: "Le esperienze formative che più hanno lasciato il segno furono però nell'anno 1933,"
         sequence-25:
           s: 25
           from: "00:01:57,12"
           to: "00:02:06,06"
-          text: "quando il capitale e lo stato maggiore tedeschi spostarono il potere nelle mani dei capi nazisti,"
+          text: "quando il corpus e lo stato maggiore tedeschi spostarono il potere nelle mani dei capi nazisti,"
         sequence-26:
           s: 26
           from: "00:02:06,06"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:19,03"
           to: "00:02:32,11"
-          text: "In base alla nostra comprensione delle cose, che vede l'umanità svilupparsi a partire da minori verso sempre più alte forme di convivenza,"
+          text: "Volendo comprendere lo sviluppo dell'umanità come un percorso da forme minori di vita comunitaria a forme sempre più alte di vita comunitaria,"
         sequence-30:
           s: 30
           from: "00:02:32,11"
@@ -158,12 +158,12 @@ it:
           s: 31
           from: "00:02:33,16"
           to: "00:02:36,25"
-          text: "questo era ovviamente un violento"
+          text: "questo era ovviamente un violento salto indietro."
         sequence-32:
           s: 32
           from: "00:02:36,25"
           to: "00:02:45,07"
-          text: ~
+          text: "Il movimento dei lavoratori tedesco era il più forte e quello dalle basi ideologiche più consolidate, all'interno della prima Internazionale"
         sequence-33:
           s: 33
           from: "00:02:45,07"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:02:46,03"
           to: "00:02:50,08"
-          text: ~
+          text: "e si poteva dire lo stesso del movimento dei lavoratori austriaco."
         sequence-35:
           s: 35
           from: "00:02:50,08"
@@ -183,12 +183,12 @@ it:
           s: 36
           from: "00:02:51,20"
           to: "00:02:59,04"
-          text: ~
+          text: "Attraverso gli immigranti siamo venuti a conoscenza non solo della pessima situazione degli antifascisti,"
         sequence-37:
           s: 37
           from: "00:02:59,04"
           to: "00:03:10,15"
-          text: ~
+          text: "ma anche degli effetti a livello internazionale del regresso della civilizzazione avvenuto nel 1933."
         sequence-38:
           s: 38
           from: "00:03:10,15"
@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:03:11,27"
           to: "00:03:22,08"
-          text: ~
+          text: "Fino ad allora, in Cecoslovacchia, per i partiti dei lavoratori, sia cecoslovacchi che tedeschi,"
         sequence-40:
           s: 40
           from: "00:03:22,08"
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:23,10"
           to: "00:03:33,25"
-          text: ~
+          text: "l'accento era sulle questioni di classe, ovvero la lotta per condizioni di vita migliori, sia materiali che culturali."
         sequence-42:
           s: 42
           from: "00:03:33,25"
@@ -218,17 +218,17 @@ it:
           s: 43
           from: "00:03:34,19"
           to: "00:03:42,28"
-          text: ~
+          text: "Questo naturalmente non finì nel 1933, ma più i nazisti,"
         sequence-44:
           s: 44
           from: "00:03:42,28"
           to: "00:03:48,16"
-          text: ~
+          text: "i sostenitori di Hitler nelle zone tedesche cecoslovacche, crescevano,"
         sequence-45:
           s: 45
           from: "00:03:48,16"
           to: "00:03:53,23"
-          text: ~
+          text: "più si arrivò a nuove ostilità politiche."
         sequence-46:
           s: 46
           from: "00:03:53,23"
@@ -238,24 +238,24 @@ it:
           s: 47
           from: "00:03:54,20"
           to: "00:04:04,02"
-          text: ~
+          text: "Da un lato, i sostenitori di Hitler nei territori tedeschi della Cecoslovacchia, sempre più aggressivi,"
         sequence-48:
           s: 48
           from: "00:04:04,02"
           to: "00:04:08,29"
-          text: ~
+          text: "e dall'altro lato gli antifascisti tedeschi e cecoslovacchi."
         sequence-49:
           s: 49
           from: "00:04:08,29"
           to: "00:04:13,07"
-          text: ~
+          text: "Per cui non era vero, come si crede spesso,"
         sequence-50:
           s: 50
           from: "00:04:13,07"
           to: "00:04:16,13"
-          text: ~
+          text: "che i tedeschi e i cecoslovacchi fossero uno contro l'altro."
         sequence-51:
           s: 51
           from: "00:04:16,13"
           to: "00:04:27,03"
-          text: ~
+          text: "La versione nazionalista dei fatti è un tentativo tardivo per sviare dai veri problemi che avevamo ai tempi."
