@@ -238,17 +238,17 @@ de:
           s: 47
           from: "00:04:29,23"
           to: "00:04:33,13"
-          text: ~
+          text: "Sie hatten (schwere) Maschinengewehre, gepanzerte Fahrzeuge."
         sequence-48:
           s: 48
           from: "00:04:33,13"
           to: "00:04:39,02"
-          text: ~
+          text: "Wir hatten die Brücke gesprengt, sodass sie mit den gepanzerten Fahrzeugen nicht rüber kamen."
         sequence-49:
           s: 49
           from: "00:04:39,02"
           to: "00:04:52,17"
-          text: ~
+          text: "Von der Energie her hätten wir uns verteidigen können, aber gegen schwere Waffen nicht, die hatten wir nicht."
         sequence-50:
           s: 50
           from: "00:04:52,17"
