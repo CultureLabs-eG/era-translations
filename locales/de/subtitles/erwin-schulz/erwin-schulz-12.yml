@@ -163,7 +163,7 @@ de:
           s: 32
           from: "00:03:17,08"
           to: "00:03:23,21"
-          text: ~
+          text: "Sie waren zusammen im Zuchthaus - haben sich jetzt wiedergetroffen nach vielen Jahren."
         sequence-33:
           s: 33
           from: "00:03:23,21"
@@ -173,7 +173,7 @@ de:
           s: 34
           from: "00:03:24,25"
           to: "00:03:43,20"
-          text: ~
+          text: "Nun wußte man ja nun nicht, ..."
         sequence-35:
           s: 35
           from: "00:03:43,20"

@@ -43,12 +43,12 @@ de:
           s: 8
           from: "00:00:35,11"
           to: "00:00:43,07"
-          text: ~
+          text: "Carretti hat gesagt, wir sollten uns Säcke um die Schuhe machen, um keinen Krach zu machen wenn wir uns über die Straße bewegten."
         sequence-9:
           s: 9
           from: "00:00:43,07"
           to: "00:00:50,03"
-          text: ~
+          text: "Das hat alles nichts gebracht, weil dermaßen viele Schäfer in den Dörfern waren, die Hunde besaßen."
         sequence-10:
           s: 10
           from: "00:00:50,03"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:00:50,29"
           to: "00:00:59,13"
-          text: ~
+          text: "Die Hunde bemerkten uns sofort und begannen zu bellen, obwohl wir nicht besonders viel Lärm machten."
         sequence-12:
           s: 12
           from: "00:00:59,13"
@@ -68,12 +68,12 @@ de:
           s: 13
           from: "00:01:00,17"
           to: "00:01:07,24"
-          text: ~
+          text: "Dieser Feldwebel kam mit einem Soldaten nach draußen, weil die Hunde ein solches Theater machten,"
         sequence-14:
           s: 14
           from: "00:01:07,24"
           to: "00:01:10,28"
-          text: ~
+          text: "um nachzusehen, was vor sich ging."
         sequence-15:
           s: 15
           from: "00:01:10,28"
@@ -83,12 +83,12 @@ de:
           s: 16
           from: "00:01:11,29"
           to: "00:01:15,23"
-          text: ~
+          text: "Wir hatten Mienen auf der Straße verteilt, weil wir uns dachten,"
         sequence-17:
           s: 17
           from: "00:01:15,23"
           to: "00:01:24,25"
-          text: ~
+          text: "dass wenn es zu einem Zusammenstoß mit den Soldaten des Ortes Nismozza kommen würde, diese dann die Mienen auslösen würden."
         sequence-18:
           s: 18
           from: "00:01:24,25"
@@ -98,14 +98,14 @@ de:
           s: 19
           from: "00:01:25,21"
           to: "00:01:33,27"
-          text: ~
+          text: "Während der Feldwebel also auf der Straße entlang spazierte, löste sich unser Problem von selbst... er trat auf eine Mine und flog in die Luft."
         sequence-20:
           s: 20
           from: "00:01:33,27"
           to: "00:01:41,06"
-          text: ~
+          text: "Wir hätten ihn lebend holen sollen, nur war er tot. Der Feldwebel und auch ein Soldat."
         sequence-21:
           s: 21
           from: "00:01:41,06"
           to: "00:01:45,05"
-          text: ~
+          text: "Dann mussten wir uns zurück ziehen."
