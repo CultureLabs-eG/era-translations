@@ -13,37 +13,41 @@ de:
           s: 2
           from: "00:00:02,23"
           to: "00:00:10,05"
-          text: ~
+          text: "Eines morgens fuhren wir los uns kamen zum Bodensee in der Schweiz."
         sequence-3:
           s: 3
           from: "00:00:10,05"
           to: "00:00:14,00"
-          text: ~
+          text: "Als wir ankamen, funktionierte der Zug nicht mehr."
         sequence-4:
           s: 4
           from: "00:00:14,00"
           to: "00:00:19,24"
-          text: ~
+          text: "Nach zwei Tagen, fanden wir einen anderen Zug,"
         sequence-5:
           s: 5
           from: "00:00:19,24"
           to: "00:00:23,04"
-          text: ~
+          text: "Es dauerte anderthalb Tage bis nach Como,"
         sequence-6:
           s: 6
           from: "00:00:23,04"
           to: "00:00:31,14"
-          text: ~
+          text: |-
+              denn alles war zerstört
+              und es gab nur ein funktionierendes Bahngleis.
         sequence-7:
           s: 7
           from: "00:00:31,14"
           to: "00:00:39,24"
-          text: ~
+          text: |-
+              Da es keine Möglichkeit gab, nach Mailand zu gelangen
+              mussten wir mehrere Tage in Como bleiben.
         sequence-8:
           s: 8
           from: "00:00:39,24"
           to: "00:00:41,12"
-          text: ~
+          text: "Als wir endlich Mailand erreichten,"
         sequence-9:
           s: 9
           from: "00:00:41,12"

@@ -8,22 +8,22 @@ it:
           s: 1
           from: "00:00:00,18"
           to: "00:00:04,15"
-          text: ~
+          text: "Andavamo da 15 a 28 anni."
         sequence-2:
           s: 2
           from: "00:00:04,15"
           to: "00:00:09,16"
-          text: ~
+          text: "Un ragazzo di …, si chiamava Francia, aveva 15 anni, non aveva compiuto i 15 anni."
         sequence-3:
           s: 3
           from: "00:00:09,16"
           to: "00:00:15,24"
-          text: ~
+          text: "Un altro di… che abita a Guastalla, c’è ancora, ne aveva 17,"
         sequence-4:
           s: 4
           from: "00:00:15,24"
           to: "00:00:22,03"
-          text: ~
+          text: "gli altri avevano intorno… 20 anni, 21 anni. Gli altri circa lì insomma, 20, 22, 23."
         sequence-5:
           s: 5
           from: "00:00:22,03"
@@ -33,37 +33,37 @@ it:
           s: 6
           from: "00:00:24,18"
           to: "00:00:33,17"
-          text: ~
+          text: "Ce n’era uno di 28 anni che lui aveva… era sposato con un bambino di un anno,"
         sequence-7:
           s: 7
           from: "00:00:33,17"
           to: "00:00:40,06"
-          text: ~
+          text: "e avevano arrestato sua moglie, e l’hanno torturata e violentata,"
         sequence-8:
           s: 8
           from: "00:00:40,06"
           to: "00:00:46,18"
-          text: ~
+          text: "e qui si può capire anche i fatti del dopoguerra, questo è il problema."
         sequence-9:
           s: 9
           from: "00:00:46,18"
           to: "00:00:54,07"
-          text: ~
+          text: "Tutte le barbarie che han fatto i tedeschi, i fascisti… qualcuno si è vendicato."
         sequence-10:
           s: 10
           from: "00:00:54,07"
           to: "00:01:02,07"
-          text: ~
+          text: "Io non sono mai stato d’accordo di fare delle rappresaglie ecc., anche da parte nostra, finita la guerra finito tutto e chiudiamo la partita."
         sequence-11:
           s: 11
           from: "00:01:02,07"
           to: "00:01:09,24"
-          text: ~
+          text: "Però mettiamoci nei panni anche di questi partigiani o anche civili che hanno subito queste angherie,"
         sequence-12:
           s: 12
           from: "00:01:09,24"
           to: "00:01:17,18"
-          text: ~
+          text: "fai fatica dopo, in quel momento, se incontri i carnefici, a farci una carezza."
         sequence-13:
           s: 13
           from: "00:01:17,18"
@@ -73,22 +73,22 @@ it:
           s: 14
           from: "00:01:20,27"
           to: "00:01:25,25"
-          text: ~
+          text: "Prima di parlare del dopoguerra dobbiamo capire cos’è successo durante la guerra,"
         sequence-15:
           s: 15
           from: "00:01:25,25"
           to: "00:01:32,08"
-          text: ~
+          text: "di queste barbarie… che per esempio ci hanno guastato anche noi, questo è il problema."
         sequence-16:
           s: 16
           from: "00:01:32,08"
           to: "00:01:39,26"
-          text: ~
+          text: "Cioè questi eccidi, queste violenze, ecc., anche per noi è stata una cosa tremenda."
         sequence-17:
           s: 17
           from: "00:01:39,26"
           to: "00:01:43,16"
-          text: ~
+          text: "Io però che ero nell’Azione Cattolica,"
         sequence-18:
           s: 18
           from: "00:01:43,16"

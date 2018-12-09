@@ -8,32 +8,32 @@ de:
           s: 1
           from: "00:00:03,04"
           to: "00:00:06,16"
-          text: ~
+          text: "Mein späterer Mann, der war auch ein Deserteur,"
         sequence-2:
           s: 2
           from: "00:00:06,16"
           to: "00:00:13,16"
-          text: ~
+          text: "der ist nachad auf Urlaub gegangen. Im Juli 44 war er zu Hause."
         sequence-3:
           s: 3
           from: "00:00:13,16"
           to: "00:00:21,22"
-          text: ~
+          text: "Und statt zurück hat er sich dann abgemeldet, nach Klagenfurt gefahren"
         sequence-4:
           s: 4
           from: "00:00:21,22"
           to: "00:00:31,19"
-          text: ~
+          text: "und von dort nicht zum Zug, sondern wieder - in der Nacht hat er sich wohl versteckt, bei einem Nachbar,"
         sequence-5:
           s: 5
           from: "00:00:31,19"
           to: "00:00:37,23"
-          text: ~
+          text: "wo schon einer, der auch zu Hause geblieben ist, von der Wehrmacht."
         sequence-6:
           s: 6
           from: "00:00:37,23"
           to: "00:00:44,09"
-          text: ~
+          text: "Dort haben sie ihm dann einen Bunker gemacht und dort drinnen waren sie bis Jänner '45."
         sequence-7:
           s: 7
           from: "00:00:44,09"
@@ -43,4 +43,4 @@ de:
           s: 8
           from: "00:00:46,05"
           to: "00:00:51,00"
-          text: ~
+          text: "Das war eigentlich auch noch ein Widerständler, doch - ja."

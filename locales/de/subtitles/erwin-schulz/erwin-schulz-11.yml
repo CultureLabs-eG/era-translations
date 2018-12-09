@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:31,29"
           to: "00:00:38,28"
-          text: "Und 41/42 wurden wir noch mal gemustert."
+          text: "Und 41/42 wurden wir noch mal gemustert,"
         sequence-7:
           s: 7
           from: "00:00:38,28"
@@ -178,7 +178,7 @@ de:
           s: 35
           from: "00:03:01,02"
           to: "00:03:09,10"
-          text: "Wir sind ja da dann nach dem Heuberg gefahren. Das ist so in Württemberg, wo das Ausbildungslager ist."
+          text: "Wir sind ja da dann nach dem Heuberg gefahren. Das ist unten in Württemberg, wo das Ausbildungslager ist."
         sequence-36:
           s: 36
           from: "00:03:09,10"
@@ -238,9 +238,9 @@ de:
           s: 47
           from: "00:04:11,14"
           to: "00:04:18,19"
-          text: ~
+          text: "„So geht’s euch auch!“ sagte unser Kompaniechef oder Kompanieführer,"
         sequence-48:
           s: 48
           from: "00:04:18,19"
           to: "00:04:28,00"
-          text: ~
+          text: "„wenn ihr nicht das macht, was angeordnet wird.“"
