@@ -2,13 +2,13 @@ de:
   carlo-porta:
     chapter-10:
       c: 10
-      title: ~
+      title: "Die schwierige Rückkehr"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,10"
           to: "00:00:02,23"
-          text: ~
+          text: "Ich kam mit dem Zug zurück nach Hause."
         sequence-2:
           s: 2
           from: "00:00:02,23"

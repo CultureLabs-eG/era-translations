@@ -178,7 +178,7 @@ de:
           s: 35
           from: "00:03:01,02"
           to: "00:03:09,10"
-          text: ~
+          text: "Wir sind ja da dann nach dem Heuberg gefahren. Das ist so in Württemberg, wo das Ausbildungslager ist."
         sequence-36:
           s: 36
           from: "00:03:09,10"
@@ -188,7 +188,7 @@ de:
           s: 37
           from: "00:03:17,10"
           to: "00:03:25,20"
-          text: ~
+          text: "Hat man Kontakt gehabt. Und da vielleicht so was, das man so nie vergessen kann:"
         sequence-38:
           s: 38
           from: "00:03:25,20"
@@ -198,7 +198,7 @@ de:
           s: 39
           from: "00:03:28,02"
           to: "00:03:39,10"
-          text: ~
+          text: "Der Manschaftsberater war auch ein „Bibelforscher“."
         sequence-40:
           s: 40
           from: "00:03:39,10"
@@ -208,7 +208,7 @@ de:
           s: 41
           from: "00:03:40,11"
           to: "00:03:44,06"
-          text: ~
+          text: "Der lehnte ja ab, die Waffe zu übernehmen."
         sequence-42:
           s: 42
           from: "00:03:44,06"
@@ -218,17 +218,17 @@ de:
           s: 43
           from: "00:03:45,29"
           to: "00:03:55,14"
-          text: ~
+          text: "Heute Abend sitzt man mit ihm noch zusammen, nachts wird er zum Tode verurteilt."
         sequence-44:
           s: 44
           from: "00:03:55,14"
           to: "00:04:00,06"
-          text: ~
+          text: "Am anderen Tag muß die Kompanie antreten"
         sequence-45:
           s: 45
           from: "00:04:00,06"
           to: "00:04:10,02"
-          text: ~
+          text: "und dann mussten wir zusehen, wie der am Marterpfahl ermordet wurde."
         sequence-46:
           s: 46
           from: "00:04:10,02"
