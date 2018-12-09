@@ -38,7 +38,7 @@ en:
           s: 7
           from: "00:00:19,00"
           to: "00:00:26,12"
-          text: "It went via Hanover and then to Berlin."
+          text: "It went via Hannover and then to Berlin."
         sequence-8:
           s: 8
           from: "00:00:26,12"
@@ -143,7 +143,7 @@ en:
           s: 28
           from: "00:02:03,02"
           to: "00:02:11,04"
-          text: "butter, one of them must have slaughtered a chicken…"
+          text: "butter, one of them must have slaughtered a chicken"
         sequence-29:
           s: 29
           from: "00:02:11,04"
