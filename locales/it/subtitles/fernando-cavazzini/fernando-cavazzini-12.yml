@@ -148,32 +148,32 @@ it:
           s: 29
           from: "00:02:30,10"
           to: "00:02:35,12"
-          text: ~
+          text: "che vado al comando – ho raccontato una balla – Voi state lì”."
         sequence-30:
           s: 30
           from: "00:02:35,12"
           to: "00:02:41,09"
-          text: ~
+          text: "Sono andato da un mio zio che abitava proprio poco distante, mi son fatto dare una bicicletta e sono andato a casa."
         sequence-31:
           s: 31
           from: "00:02:41,09"
           to: "00:02:49,18"
-          text: ~
+          text: "Ma casa, a Cella, lì dove abitavo io, alla Via Emilia, l’ha saputo prima, che c’era stata la Liberazione…"
         sequence-32:
           s: 32
           from: "00:02:49,18"
           to: "00:02:57,24"
-          text: ~
+          text: "Io sono arrivato a casa che saran state, non so, le 9.30, le 10… era poco che l’avevano saputo che c’era la Liberazione."
         sequence-33:
           s: 33
           from: "00:02:57,24"
           to: "00:03:01,20"
-          text: ~
+          text: "Io sono stato uno dei primi partigiani a farmi vivo, in maniera che tutti…"
         sequence-34:
           s: 34
           from: "00:03:01,20"
           to: "00:03:03,24"
-          text: ~
+          text: "è stato un disastro…"
         sequence-35:
           s: 35
           from: "00:03:03,24"
@@ -183,42 +183,42 @@ it:
           s: 36
           from: "00:03:04,09"
           to: "00:03:09,14"
-          text: ~
+          text: "Mi baciavano, abbracciavano… io che sono molto emotivo piangevo, e non riuscivo a trattenermi dal pianto."
         sequence-37:
           s: 37
           from: "00:03:09,14"
           to: "00:03:16,01"
-          text: ~
+          text: "Mio padre: “Lasciatelo stare, non è morto in montagna, lo fate morire qui?”."
         sequence-38:
           s: 38
           from: "00:03:16,01"
           to: "00:03:18,06"
-          text: ~
+          text: "Dopo sono andato dov’era il pozzo lì,"
         sequence-39:
           s: 39
           from: "00:03:18,06"
           to: "00:03:25,03"
-          text: ~
+          text: "mi sono bagnato con dell’acqua fresca e mi sono messo a posto, poi sono tornato a Reggio"
         sequence-40:
           s: 40
           from: "00:03:25,03"
           to: "00:03:33,06"
-          text: ~
+          text: "che c’era, a Cella tutte le ragazze giovani, in colonna, a piedi, che sono andate a Reggio per entrare in città."
         sequence-41:
           s: 41
           from: "00:03:33,06"
           to: "00:03:42,08"
-          text: ~
+          text: "Poi man mano che arrivavano a Reggio, perché passavano già gli alleati, ecc… a Reggio tutte da Pieve Modolena, Cavazzoli, via…"
         sequence-42:
           s: 42
           from: "00:03:42,08"
           to: "00:03:44,15"
-          text: ~
+          text: "hanno fatto una colonna che non finiva più…"
         sequence-43:
           s: 43
           from: "00:03:44,15"
           to: "00:03:51,19"
-          text: ~
+          text: "poi sono arrivate a Santo Stefano, l’ordine era di non entrare in città perché c’erano i franchi tiratori che sparavano avanti e indietro così."
         sequence-44:
           s: 44
           from: "00:03:51,19"
@@ -228,27 +228,27 @@ it:
           s: 45
           from: "00:03:52,05"
           to: "00:03:54,05"
-          text: ~
+          text: "Quando c’è stata poi la Liberazione,"
         sequence-46:
           s: 46
           from: "00:03:54,05"
           to: "00:03:59,28"
-          text: ~
+          text: "i tedeschi, sulla Via Emilia, i partigiani c’han spostato la segnaletica,"
         sequence-47:
           s: 47
           from: "00:03:59,28"
           to: "00:04:04,06"
-          text: ~
+          text: "anziché segnare Milano, li han fatti andare nella bassa."
         sequence-48:
           s: 48
           from: "00:04:04,06"
           to: "00:04:07,11"
-          text: ~
+          text: "Nella bassa si son trovati con tutti i ponti saltati"
         sequence-49:
           s: 49
           from: "00:04:07,11"
           to: "00:04:12,25"
-          text: ~
+          text: "ed è stato un casino per loro, finché sono arrivati a Boretto,"
         sequence-50:
           s: 50
           from: "00:04:12,25"

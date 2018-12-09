@@ -139,17 +139,19 @@ de:
           s: 24
           from: "00:02:02,24"
           to: "00:02:09,22"
-          text: ~
+          text: |-
+              Die Antwort war: „Du bist wirklich ein Idiot, ich habe dir gesagt,
+              dass sie jedes Recht haben, zurück nach Hause zu kehren!“
         sequence-25:
           s: 25
           from: "00:02:09,22"
           to: "00:02:11,21"
-          text: ~
+          text: "Er wurde wirklich beschimpft."
         sequence-26:
           s: 26
           from: "00:02:11,21"
           to: "00:02:16,15"
-          text: ~
+          text: "Von hier aus gingen wir zu Fuß weiter mit zwei anderen aus Correggio."
         sequence-27:
           s: 27
           from: "00:02:16,15"
@@ -159,7 +161,9 @@ de:
           s: 28
           from: "00:02:17,08"
           to: "00:02:28,13"
-          text: ~
+          text: |-
+              Wir wussten überhaupt nichts, ich hatte keine Neuigkeiten von meiner Familie,
+              also fragten wir beim Direktor der SARSA nach.
         sequence-29:
           s: 29
           from: "00:02:28,13"
