@@ -178,12 +178,12 @@ de:
           s: 35
           from: "00:02:14,03"
           to: "00:02:16,04"
-          text: ~
+          text: "Er trank einen ganzen Krug Milch aus."
         sequence-36:
           s: 36
           from: "00:02:16,04"
           to: "00:02:21,05"
-          text: ~
+          text: "Der Krug stand auf dem Tisch und war eigentlich für den Käse gedacht. Es hatte sich eine kleine Menschenansammlung gebildet."
         sequence-37:
           s: 37
           from: "00:02:21,05"
@@ -193,12 +193,12 @@ de:
           s: 38
           from: "00:02:25,15"
           to: "00:02:33,27"
-          text: ~
+          text: "Mein Vater schaute ihn bewundernd an, denn er war selbst auch mal Gefangener. Aber es fiel kein böses Wort in gegen ihn..."
         sequence-39:
           s: 39
           from: "00:02:33,27"
           to: "00:02:38,12"
-          text: ~
+          text: "Der Gefangene war in meinem Alter, vielleicht ein wenig älter."
         sequence-40:
           s: 40
           from: "00:02:38,12"
@@ -208,7 +208,7 @@ de:
           s: 41
           from: "00:02:39,18"
           to: "00:02:41,24"
-          text: ~
+          text: "Später habe ich ihn nach Ligonchio gebracht."
         sequence-42:
           s: 42
           from: "00:02:41,24"
@@ -218,7 +218,7 @@ de:
           s: 43
           from: "00:02:43,03"
           to: "00:02:49,11"
-          text: ~
+          text: "Irgendwann erzählte mir jemand aus Busana, dass er ihn und zwei weitere Deutsche, die bereits dort waren,"
         sequence-44:
           s: 44
           from: "00:02:49,11"
