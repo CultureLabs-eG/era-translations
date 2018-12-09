@@ -248,9 +248,9 @@ it:
           s: 49
           from: "00:04:23,23"
           to: "00:04:29,00"
-          text: ~
+          text: "A notare che l’8 settembre, i tedeschi hanno praticamente arrestato"
         sequence-50:
           s: 50
           from: "00:04:29,00"
           to: "00:04:35,10"
-          text: ~
+          text: "oltre 600.000 soldati e mandato in Germania, in poche parole."

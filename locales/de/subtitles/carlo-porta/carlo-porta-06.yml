@@ -49,22 +49,26 @@ de:
           s: 8
           from: "00:00:50,07"
           to: "00:00:54,04"
-          text: "Dort habe ich über Margarine,"
+          text: "Dort habe ich Margarine kennengelernt,"
         sequence-9:
           s: 9
           from: "00:00:54,04"
           to: "00:01:03,27"
-          text: ~
+          text: |-
+              Mangold, Rüben und solche Dinge, alles gehackt,
+              gekocht und mit etwas Margarine verfeinert.
         sequence-10:
           s: 10
           from: "00:01:03,27"
           to: "00:01:07,25"
-          text: ~
+          text: "Wer zuletzt kam, aß es kalt."
         sequence-11:
           s: 11
           from: "00:01:07,25"
           to: "00:01:14,20"
-          text: ~
+          text: |-
+              Das war bei mir oft der Fall,
+              weil ich mich nicht immer mit allen anderen anstellen wollte.
         sequence-12:
           s: 12
           from: "00:01:14,20"

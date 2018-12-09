@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:11,24"
           to: "00:00:23,12"
-          text: ~
+          text: "Schon bei der Besetzung von Jugoslawien haben sie dann (eigentlich) unsere Pfarrer überstellt in deutsche Pfarreien."
         sequence-4:
           s: 4
           from: "00:00:23,12"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:24,09"
           to: "00:00:29,22"
-          text: ~
+          text: "Dann haben wir auf einmal in der Kirche nicht mehr dürfen slowenisch singen"
         sequence-6:
           s: 6
           from: "00:00:29,22"
@@ -38,27 +38,27 @@ de:
           s: 7
           from: "00:00:30,25"
           to: "00:00:38,09"
-          text: ~
+          text: "Dann, bei uns war ein Gasthaus, da haben wir halt müssen über jede Tür hinauf ein Plakat aufhängen:"
         sequence-8:
           s: 8
           from: "00:00:38,09"
           to: "00:00:40,14"
-          text: ~
+          text: "„Kärntner, sprich Deutsch!“"
         sequence-9:
           s: 9
           from: "00:00:40,14"
           to: "00:00:46,12"
-          text: ~
+          text: "Da hast müssen immer aufpassen, wer im Gasthaus war - es waren immer wieder Spitzel dabei -"
         sequence-10:
           s: 10
           from: "00:00:46,12"
           to: "00:00:49,20"
-          text: ~
+          text: "ob man slowenisch red’ oder nur deutsch."
         sequence-11:
           s: 11
           from: "00:00:49,20"
           to: "00:00:57,19"
-          text: ~
+          text: "Freilich, wenn man gewusst hat, jetzt ist niemand da, hast’ slowenisch gered’. Sonst war es aber verboten."
         sequence-12:
           s: 12
           from: "00:00:57,19"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:00:59,07"
           to: "00:01:08,07"
-          text: ~
+          text: "Und na, dann im 42er Jahr, da haben sie 5 Familien von Ludmannsdorf ausgesiedelt."
         sequence-14:
           s: 14
           from: "00:01:08,07"
@@ -78,12 +78,12 @@ de:
           s: 15
           from: "00:01:09,17"
           to: "00:01:13,09"
-          text: ~
+          text: "Wir waren auch auf der Liste, unsere Familie und noch mehr."
         sequence-16:
           s: 16
           from: "00:01:13,09"
           to: "00:01:20,15"
-          text: ~
+          text: "Angeblich sollten 16 Familien aus der Gemeinde ausgesiedelt werden."
         sequence-17:
           s: 17
           from: "00:01:20,15"
