@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,28"
           to: "00:00:06,28"
-          text: "Succedeva che la propaganda fascista diceva che i comunisti in Spagna"
+          text: "Succedeva che la propaganda fascista diceva che i comunisti in Spagna hanno sventrato delle suore"
         sequence-2:
           s: 2
           from: "00:00:06,28"
@@ -208,42 +208,42 @@ it:
           s: 41
           from: "00:03:30,10"
           to: "00:03:39,26"
-          text: ~
+          text: "Beh io, siccome avevo l’esonero dal militare, e poi ho continuato a lavorare alle Reggiane fino a dicembre"
         sequence-42:
           s: 42
           from: "00:03:39,26"
           to: "00:03:44,09"
-          text: ~
+          text: "quando mi è arrivata un’altra cartolina per ripartire e l’esonero me l’hanno ritirato,"
         sequence-43:
           s: 43
           from: "00:03:44,09"
           to: "00:03:51,15"
-          text: ~
+          text: "però so che i tedeschi sono andati subito ad occupare i punti nevralgici della città,"
         sequence-44:
           s: 44
           from: "00:03:51,15"
           to: "00:03:57,04"
-          text: ~
+          text: "il municipio, lì alla caserma Zucchi, alla Cialdini dove c’è la questura adesso,"
         sequence-45:
           s: 45
           from: "00:03:57,04"
           to: "00:04:02,06"
-          text: ~
+          text: "e poi hanno fatto dei saccheggi anche i tedeschi,"
         sequence-46:
           s: 46
           from: "00:04:02,06"
           to: "00:04:09,23"
-          text: ~
+          text: "mi ricordo che insomma, che mia moglie abitava a Coviolo, alla Roncina,"
         sequence-47:
           s: 47
           from: "00:04:09,23"
           to: "00:04:11,21"
-          text: ~
+          text: "e c’erano dei tedeschi proprio nel suo cortile,"
         sequence-48:
           s: 48
           from: "00:04:11,21"
           to: "00:04:23,23"
-          text: ~
+          text: "sono arrivati là con delle galline, i conigli, ecc., e ridevano quando hanno arrestati i soldati che si sono arresi, ecc."
         sequence-49:
           s: 49
           from: "00:04:23,23"

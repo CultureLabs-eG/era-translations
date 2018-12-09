@@ -32,22 +32,24 @@ de:
           s: 5
           from: "00:00:29,00"
           to: "00:00:38,15"
-          text: ~
+          text: |-
+              Wir hatten schrecklichen Hunger und im Winter,
+              als wir zurück nach Hagen gingen, gab es eine Eiseskälte.
         sequence-6:
           s: 6
           from: "00:00:38,15"
           to: "00:00:46,15"
-          text: ~
+          text: "Wir verbrachten den ganzen Tag in der Nähe eines Flusses und die Luft war unerträglich."
         sequence-7:
           s: 7
           from: "00:00:46,15"
           to: "00:00:50,07"
-          text: ~
+          text: "Zum Mittagessen gaben sie uns eine Plörre."
         sequence-8:
           s: 8
           from: "00:00:50,07"
           to: "00:00:54,04"
-          text: ~
+          text: "Dort habe ich über Margarine,"
         sequence-9:
           s: 9
           from: "00:00:54,04"
