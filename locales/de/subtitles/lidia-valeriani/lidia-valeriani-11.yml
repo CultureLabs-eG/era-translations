@@ -83,17 +83,17 @@ de:
           s: 16
           from: "00:01:34,01"
           to: "00:01:43,28"
-          text: ~
+          text: "Es gab keine andere Möglichkeit. Manche hatten vielleicht ein Telefon, wir aber nicht."
         sequence-17:
           s: 17
           from: "00:01:43,28"
           to: "00:01:51,12"
-          text: ~
+          text: "Also brach ich mit meinen Befehlen auf."
         sequence-18:
           s: 18
           from: "00:01:51,12"
           to: "00:02:01,26"
-          text: ~
+          text: "Ich musste das tun, denn wir konnten bereits die Kanonen hören, in Bologna zum Beispiel, man konnte Bomben hören,"
         sequence-19:
           s: 19
           from: "00:02:01,26"
@@ -103,22 +103,22 @@ de:
           s: 20
           from: "00:02:06,26"
           to: "00:02:18,17"
-          text: ~
+          text: "und dann bombardierten sie auch Gebiete in unserer Nähe."
         sequence-21:
           s: 21
           from: "00:02:18,17"
           to: "00:02:22,12"
-          text: ~
+          text: "In Modena wurde nicht bombardiert, da wir es ihnen gesagt hatten,"
         sequence-22:
           s: 22
           from: "00:02:22,12"
           to: "00:02:29,06"
-          text: ~
+          text: "aber sie bombardierten Reggio und Cavriago, wo sich deutsche Kommandos befanden."
         sequence-23:
           s: 23
           from: "00:02:29,06"
           to: "00:02:35,20"
-          text: ~
+          text: "Also brach ich auf, die Morane-Straße hinunter nach Paganine,"
         sequence-24:
           s: 24
           from: "00:02:35,20"
@@ -128,7 +128,7 @@ de:
           s: 25
           from: "00:02:42,23"
           to: "00:02:46,19"
-          text: ~
+          text: "einem Dorf Richtung Bologna, in Richtung der Berge kurz gesagt."
         sequence-26:
           s: 26
           from: "00:02:46,19"
@@ -138,7 +138,7 @@ de:
           s: 27
           from: "00:02:47,29"
           to: "00:02:54,09"
-          text: ~
+          text: "Als ich dort ankam, fuhr ich noch einen Kilometer weiter und traf schon auf die Deutschen, die sich auf dem Rückzug befanden."
         sequence-28:
           s: 28
           from: "00:02:54,09"
@@ -148,12 +148,12 @@ de:
           s: 29
           from: "00:02:55,23"
           to: "00:03:02,24"
-          text: ~
+          text: "Kühe, Wägen, Pferde, Fahrräder, sie hatten von allem etwas."
         sequence-30:
           s: 30
           from: "00:03:02,24"
           to: "00:03:08,18"
-          text: ~
+          text: "Sie hielten mich an, und ich konnte nicht weiterfahren."
         sequence-31:
           s: 31
           from: "00:03:08,18"
