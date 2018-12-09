@@ -302,17 +302,19 @@ de:
           s: 53
           from: "00:06:02,15"
           to: "00:06:07,20"
-          text: ~
+          text: "dann kamen vier oder fünf rein und verhielten sich grob."
         sequence-54:
           s: 54
           from: "00:06:07,20"
           to: "00:06:13,19"
-          text: ~
+          text: |-
+              Wir verstanden dass wir aufstehen sollten,
+              auch wenn wir das Wort nicht kannten.
         sequence-55:
           s: 55
           from: "00:06:13,19"
           to: "00:06:20,15"
-          text: ~
+          text: "Sie waren richtig gemein. Ich ging also zu diesem anderen Lager"
         sequence-56:
           s: 56
           from: "00:06:20,15"

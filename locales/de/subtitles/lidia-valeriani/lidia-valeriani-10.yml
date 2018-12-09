@@ -73,12 +73,12 @@ de:
           s: 14
           from: "00:01:22,29"
           to: "00:01:26,17"
-          text: ~
+          text: "Sie brachte mich zu Alfeo Corassoli,"
         sequence-15:
           s: 15
           from: "00:01:26,17"
           to: "00:01:34,17"
-          text: ~
+          text: "wo ich den bekannten Rechtsanwalt Poppi traf,"
         sequence-16:
           s: 16
           from: "00:01:34,17"
