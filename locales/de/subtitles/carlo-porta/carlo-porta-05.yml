@@ -30,22 +30,24 @@ de:
           s: 5
           from: "00:00:22,02"
           to: "00:00:27,19"
-          text: ~
+          text: "Ich wollte nicht gehen also sprach ich mit meinem Oberstleutnant."
         sequence-6:
           s: 6
           from: "00:00:27,19"
           to: "00:00:38,24"
-          text: ~
+          text: |-
+              Ich erklärte ihm, dass ich wusste, dass ich kein Recht hatte, eine Waffe zu tragen,
+              denn ich hatte alle Rechte verloren als ich verhaftet wurde.
         sequence-7:
           s: 7
           from: "00:00:38,24"
           to: "00:00:47,19"
-          text: ~
+          text: "Er antwortete, dass er in Albanien mit den Schwarzhemden gekämpft hatte, obwohl er in der Armee war,"
         sequence-8:
           s: 8
           from: "00:00:47,19"
           to: "00:00:52,11"
-          text: ~
+          text: "und wenn er gehen könne, müsste ich definitiv auch gehen."
         sequence-9:
           s: 9
           from: "00:00:52,11"

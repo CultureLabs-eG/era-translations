@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:02:36,25"
           to: "00:02:45,07"
-          text: ~
+          text: "Il movimento dei lavoratori tedesco era il più forte e quello dalle basi ideologiche più consolidate, all'interno della prima Internazionale"
         sequence-33:
           s: 33
           from: "00:02:45,07"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:02:46,03"
           to: "00:02:50,08"
-          text: ~
+          text: "e si poteva dire lo stesso del movimento dei lavoratori austriaco."
         sequence-35:
           s: 35
           from: "00:02:50,08"
