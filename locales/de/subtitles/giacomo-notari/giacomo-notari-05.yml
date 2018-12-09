@@ -2,18 +2,18 @@ de:
   giacomo-notari:
     chapter-5:
       c: 5
-      title: ~
+      title: "Versuchte Gefangennahme eines deutschen Feldwebels"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,26"
           to: "00:00:04,24"
-          text: ~
+          text: "Eines Abends sind wir mit dem Kommandanten Carretti und einer großen Anzahl von Partisanen"
         sequence-2:
           s: 2
           from: "00:00:04,24"
           to: "00:00:12,05"
-          text: ~
+          text: "nach Acquabona gegangen, um einen deutschen Feldwebel gefangen zu nehmen..."
         sequence-3:
           s: 3
           from: "00:00:12,05"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:13,15"
           to: "00:00:24,06"
-          text: ~
+          text: "Dieser Feldwebel ließ den Bauern die Milch wegnehmen und schickte diese an das Kommando in Busana, zur Kolonie..."
         sequence-5:
           s: 5
           from: "00:00:24,06"
@@ -33,7 +33,7 @@ de:
           s: 6
           from: "00:00:25,05"
           to: "00:00:33,22"
-          text: ~
+          text: "dabei waren die Orte voll mit Menschen. Die Bevölkerung hatte uns darüber informiert und darum gebeten ihn gefangen zu nehmen."
         sequence-7:
           s: 7
           from: "00:00:33,22"
