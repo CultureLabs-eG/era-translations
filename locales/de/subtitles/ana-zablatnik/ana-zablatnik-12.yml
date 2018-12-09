@@ -2,13 +2,13 @@ de:
   ana-zablatnik:
     chapter-12:
       c: 12
-      title: ~
+      title: "Der Horror den ihr Mann sah"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,04"
           to: "00:00:04,01"
-          text: ~
+          text: "Ja, es ist schwer, jetzt über das zu reden, eigentlich."
         sequence-2:
           s: 2
           from: "00:00:04,01"
@@ -18,22 +18,22 @@ de:
           s: 3
           from: "00:00:05,15"
           to: "00:00:08,21"
-          text: ~
+          text: "Und sich an alles erinnern, das sind ja so viele Sachen."
         sequence-4:
           s: 4
           from: "00:00:08,21"
           to: "00:00:12,06"
-          text: ~
+          text: "Es ist ja nicht so einfach gewesen in der Nacht umeinander laufen."
         sequence-5:
           s: 5
           from: "00:00:12,06"
           to: "00:00:14,04"
-          text: ~
+          text: "Du hast ja immer müssen aufpassen."
         sequence-6:
           s: 6
           from: "00:00:14,04"
           to: "00:00:22,29"
-          text: ~
+          text: "Immer nur schön denken, daß ja nicht wer dich sieht. Und das du ja das hinbringst usw."
         sequence-7:
           s: 7
           from: "00:00:22,29"
@@ -43,7 +43,7 @@ de:
           s: 8
           from: "00:00:24,14"
           to: "00:00:32,15"
-          text: ~
+          text: "Oder die Buben, die was daheim geblieben sind; die waren ständig in Angst standrechtlich werden sie erschossen."
         sequence-9:
           s: 9
           from: "00:00:32,15"
@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:00:38,15"
           to: "00:00:48,24"
-          text: ~
+          text: "Die was daheim geblieben sind, die Wehrmachtsangehörigen, die werden standrechtlich erschossen. Das hat ein jeder gewusst."
         sequence-11:
           s: 11
           from: "00:00:48,24"
@@ -63,27 +63,27 @@ de:
           s: 12
           from: "00:00:52,12"
           to: "00:00:56,07"
-          text: ~
+          text: "Aber ein jeder hat gesagt, zu mir der Micha, hat er gesagt, was der gesehen hat!"
         sequence-13:
           s: 13
           from: "00:00:56,07"
           to: "00:01:08,02"
-          text: ~
+          text: "Das erste war, wo sie in Berlin einen Zug gebracht haben. Wo sie russische Gefangene nach Deutschland geliefert haben."
         sequence-14:
           s: 14
           from: "00:01:08,02"
           to: "00:01:14,25"
-          text: ~
+          text: "Und da haben sie zuerst geschrieen wie die Wilden,"
         sequence-15:
           s: 15
           from: "00:01:14,25"
           to: "00:01:17,14"
-          text: ~
+          text: "die Leut’ drinnen - freilich ohne Wasser, ohne allem."
         sequence-16:
           s: 16
           from: "00:01:17,14"
           to: "00:01:25,20"
-          text: ~
+          text: "Und da haben einige Steine rein geschmissen. So wie man oft einmal im Film sieht, dass war wirklich so."
         sequence-17:
           s: 17
           from: "00:01:25,20"
@@ -93,17 +93,17 @@ de:
           s: 18
           from: "00:01:28,04"
           to: "00:01:32,27"
-          text: ~
+          text: "Und dann - einige haben dann gesagt: Macht die Tür auf“, dass sie eine Luft kriegen, eine richtige."
         sequence-19:
           s: 19
           from: "00:01:32,27"
           to: "00:01:43,23"
-          text: ~
+          text: "Hat er (Micha) gesagt: ‚Angebissene, angefressene haben sie herausgeholt."
         sequence-20:
           s: 20
           from: "00:01:43,23"
           to: "00:01:48,25"
-          text: ~
+          text: "Weil die was gelebt haben, die Toten haben sie gegessen."
         sequence-21:
           s: 21
           from: "00:01:48,25"
@@ -113,9 +113,9 @@ de:
           s: 22
           from: "00:01:50,10"
           to: "00:01:52,03"
-          text: ~
+          text: "Weil sie nichts gehabt haben.’"
         sequence-23:
           s: 23
           from: "00:01:52,03"
           to: "00:01:58,20"
-          text: ~
+          text: "Und das hat mein Mann gesehen und hat dann gesagt: „Nein, für dieses Verbrechen gehe ich nicht mehr zurück.“"
