@@ -2,13 +2,13 @@ de:
   ana-zablatnik:
     chapter-4:
       c: 4
-      title: ~
+      title: "Erste Partisanenaktion im Dorf"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,25"
           to: "00:00:07,08"
-          text: ~
+          text: "Diese Partisanengruppe, das waren ca. 20 Partisanen, und die haben dann…"
         sequence-2:
           s: 2
           from: "00:00:07,08"
@@ -18,12 +18,12 @@ de:
           s: 3
           from: "00:00:12,17"
           to: "00:00:19,24"
-          text: ~
+          text: "Auch bei uns sind ein paar gewesen. Dann haben sie die Gendarmerie, den Posten, aufgesucht,"
         sequence-4:
           s: 4
           from: "00:00:19,24"
           to: "00:00:26,18"
-          text: ~
+          text: "dann die Gemeinde und überall Sachen geholt, was halt für sie… "
         sequence-5:
           s: 5
           from: "00:00:26,18"
