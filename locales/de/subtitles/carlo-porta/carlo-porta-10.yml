@@ -199,42 +199,46 @@ de:
           s: 34
           from: "00:03:03,11"
           to: "00:03:12,15"
-          text: ~
+          text: |-
+              Sie bot an, meinen Eltern Bescheid zu sagen, um mich zu begrüßen, aber bevor sie ging,
+              fragte ich sie wie die Situation sei, da sie meine Familie kannte.
         sequence-35:
           s: 35
           from: "00:03:12,15"
           to: "00:03:15,17"
-          text: ~
+          text: "„Alle sind am Leben“, sagte sie,"
         sequence-36:
           s: 36
           from: "00:03:15,17"
           to: "00:03:19,17"
-          text: ~
+          text: "„und dein Bruder ist gerade aus der Schweiz zurück“."
         sequence-37:
           s: 37
           from: "00:03:19,17"
           to: "00:03:23,23"
-          text: ~
+          text: "Dann ging sie zu meinen Eltern, um ihnen die gute Nachricht zu überbringen."
         sequence-38:
           s: 38
           from: "00:03:23,23"
           to: "00:03:30,24"
-          text: ~
+          text: "Ich werde nie vergessen, wie meine Mutter unter Tränen auf mich zugerannt kam."
         sequence-39:
           s: 39
           from: "00:03:30,24"
           to: "00:03:36,07"
-          text: ~
+          text: "Sie hielt es nicht mehr aus, genau wie ich und es war das erste Mal dass ich weinte."
         sequence-40:
           s: 40
           from: "00:03:36,07"
           to: "00:03:44,19"
-          text: ~
+          text: |-
+              Normalerweise weine ich immer, wenn ich diese Geschichte erzähle.
+              Heute habe ich Glück, heute morgen habe ich es geschafft nicht zu weinen.
         sequence-41:
           s: 41
           from: "00:03:44,19"
           to: "00:03:47,26"
-          text: ~
+          text: "Und das ist das Ende der Geschichte."
         sequence-42:
           s: 42
           from: "00:03:47,26"
