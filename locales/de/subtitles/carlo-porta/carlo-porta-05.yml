@@ -190,27 +190,33 @@ de:
           s: 35
           from: "00:03:41,25"
           to: "00:03:54,13"
-          text: ~
+          text: |-
+              Ich war dankbar, dass vor drei, vier Jahren das Lager besuchen konnte,
+              in dem ich 60 Jahre zuvor inhaftiert war.
         sequence-36:
           s: 36
           from: "00:03:54,13"
           to: "00:04:01,01"
-          text: ~
+          text: "Wir blieben eine Weile dort. Es gab ständig Luftangriffe."
         sequence-37:
           s: 37
           from: "00:04:01,01"
           to: "00:04:09,13"
-          text: ~
+          text: "Die Deutschen, die für das Lager verantwortlich waren wohnten in den ersten beiden Hütten."
         sequence-38:
           s: 38
           from: "00:04:09,13"
           to: "00:04:18,20"
-          text: ~
+          text: |-
+              Dann gab es zwei Hütten für weibliche Gefangene –
+              Russische Frauen, die mit kleinen Schaufeln an den Bahngleisen arbeiteten –
         sequence-39:
           s: 39
           from: "00:04:18,20"
           to: "00:04:26,05"
-          text: ~
+          text: |-
+              dann die Franzosen and schließlich wir.
+              Ich weiß nicht wie viele Tausend Gefangen in dem Lager waren.
         sequence-40:
           s: 40
           from: "00:04:26,05"

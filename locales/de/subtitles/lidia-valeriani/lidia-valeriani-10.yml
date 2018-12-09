@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:15,07"
           to: "00:00:21,27"
-          text: ~
+          text: "Dieser bekannte Zanti, der in der Zucchi Kaserne erschossen wurde."
         sequence-4:
           s: 4
           from: "00:00:21,27"
@@ -28,12 +28,12 @@ de:
           s: 5
           from: "00:00:22,29"
           to: "00:00:36,07"
-          text: ~
+          text: "Die Party gab ihr diese Aufgabe; sie war organisiert und hatte bereits Kontakte nach Modena,"
         sequence-6:
           s: 6
           from: "00:00:36,07"
           to: "00:00:47,07"
-          text: ~
+          text: "und sie verteilte Waffen, zusammen mit ihrer Schwägerin Iside Viani."
         sequence-7:
           s: 7
           from: "00:00:47,07"
@@ -43,7 +43,7 @@ de:
           s: 8
           from: "00:00:49,05"
           to: "00:00:52,28"
-          text: ~
+          text: "Wir gingen zu ihr und ich traf eine Absprache mit ihr."
         sequence-9:
           s: 9
           from: "00:00:52,28"

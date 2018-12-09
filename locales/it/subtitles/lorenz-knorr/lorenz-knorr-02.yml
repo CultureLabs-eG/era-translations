@@ -53,12 +53,12 @@ it:
           s: 10
           from: "00:00:43,04"
           to: "00:00:54,24"
-          text: ~
+          text: "Quindi abbiamo avuto, a partire dal Marzo 1938 fino agli accorti di Monaco del 29 settembre 1938"
         sequence-11:
           s: 11
           from: "00:00:54,24"
           to: "00:01:02,03"
-          text: ~
+          text: "abbastanza opportunità di prepararci al lavoro illegale e alla lotta antifascista."
         sequence-12:
           s: 12
           from: "00:01:02,03"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:03,06"
           to: "00:01:09,23"
-          text: ~
+          text: "Fece la differenza nella lotta antifascista nei territori tedeschi della Cecoslovacchia,"
         sequence-14:
           s: 14
           from: "00:01:09,23"
