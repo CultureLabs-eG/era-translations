@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:01:21,11"
           to: "00:01:27,01"
-          text: ~
+          text: "Es gab das Oberkommando dann noch die ganzen anderen Kommandos, bis hinunter zu den Brigaden."
         sequence-17:
           s: 17
           from: "00:01:27,01"
@@ -93,7 +93,7 @@ de:
           s: 18
           from: "00:01:28,21"
           to: "00:01:38,06"
-          text: ~
+          text: "Ich arbeitete pausenlos, nahm an Aktionen teil, wenn ich gebraucht wurde,"
         sequence-19:
           s: 19
           from: "00:01:38,06"
@@ -103,7 +103,7 @@ de:
           s: 20
           from: "00:01:39,20"
           to: "00:01:51,17"
-          text: ~
+          text: "Beschattung und andere Aktivitäten für unsere Brigade."
         sequence-21:
           s: 21
           from: "00:01:51,17"
@@ -113,12 +113,12 @@ de:
           s: 22
           from: "00:01:52,24"
           to: "00:02:11,02"
-          text: ~
+          text: "Wir hatten Orte, wo wir hingingen, wir nannten sie „recapiti“ (Adressen), wo wir Dinge für alle hinbrachten:"
         sequence-23:
           s: 23
           from: "00:02:11,02"
           to: "00:02:19,22"
-          text: ~
+          text: "in Carpi, in Fossoli, in der Po-Ebene, wo wir überall Partisanen hatten."
         sequence-24:
           s: 24
           from: "00:02:19,22"
@@ -128,17 +128,17 @@ de:
           s: 25
           from: "00:02:21,04"
           to: "00:02:30,26"
-          text: ~
+          text: "Ich brachte die Sachen dorthin, und die Kuriere überstellten sie weiter zu ihren „recapiti“."
         sequence-26:
           s: 26
           from: "00:02:30,26"
           to: "00:02:34,06"
-          text: ~
+          text: "Es gab da übrigens viele Kuriere."
         sequence-27:
           s: 27
           from: "00:02:34,06"
           to: "00:02:41,21"
-          text: ~
+          text: "Im lokalen Kommando war ich Sekretärin, aber ich hatte auch zwei Kurierinnen."
         sequence-28:
           s: 28
           from: "00:02:41,21"
@@ -148,12 +148,12 @@ de:
           s: 29
           from: "00:02:43,28"
           to: "00:02:50,01"
-          text: ~
+          text: "Die eine war Carmen (Kampfname) und die andere Vera, sie kam aus Jugoslawien."
         sequence-30:
           s: 30
           from: "00:02:50,01"
           to: "00:02:54,14"
-          text: ~
+          text: "Sie waren dem Hauptquartier der Brigade zugeordnet."
         sequence-31:
           s: 31
           from: "00:02:54,14"
@@ -163,7 +163,7 @@ de:
           s: 32
           from: "00:02:55,09"
           to: "00:02:58,26"
-          text: ~
+          text: "Das war der Partisanenkampf."
         sequence-33:
           s: 33
           from: "00:02:58,26"
