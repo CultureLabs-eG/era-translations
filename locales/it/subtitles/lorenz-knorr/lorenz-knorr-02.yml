@@ -68,22 +68,22 @@ it:
           s: 13
           from: "00:01:03,06"
           to: "00:01:09,23"
-          text: "Fece la differenza nella lotta antifascista nei territori tedeschi della Cecoslovacchia,"
+          text: "Questa fu la differenza tra la lotta antifascista nei territori tedeschi della Cecoslovacchia,"
         sequence-14:
           s: 14
           from: "00:01:09,23"
           to: "00:01:12,06"
-          text: ~
+          text: "oggi chiamati Sudeti,"
         sequence-15:
           s: 15
           from: "00:01:12,06"
           to: "00:01:15,27"
-          text: ~
+          text: "e la lotta degli antifascisti tedeschi e austriaci,"
         sequence-16:
           s: 16
           from: "00:01:15,27"
           to: "00:01:20,01"
-          text: ~
+          text: "che non avevano avuto una tale esperienza, né tempo per prepararsi."
         sequence-17:
           s: 17
           from: "00:01:20,01"
@@ -93,12 +93,12 @@ it:
           s: 18
           from: "00:01:20,28"
           to: "00:01:26,20"
-          text: ~
+          text: "Per questo l'efficacia della nostra lotta fu maggiore."
         sequence-19:
           s: 19
           from: "00:01:26,20"
           to: "00:01:30,11"
-          text: ~
+          text: "Non c'erano obblighi di partito alla resistenza,"
         sequence-20:
           s: 20
           from: "00:01:30,11"
