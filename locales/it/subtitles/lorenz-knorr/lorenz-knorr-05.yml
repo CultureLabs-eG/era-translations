@@ -43,22 +43,22 @@ it:
           s: 8
           from: "00:00:34,10"
           to: "00:00:40,06"
-          text: ~
+          text: "perché fin dall'inizio ci furono, questo è un termine storico, \"battaglie da sala\"."
         sequence-9:
           s: 9
           from: "00:00:40,06"
           to: "00:00:46,15"
-          text: ~
+          text: "I nazisti tentavano per esempio di invadere gli eventi degli antifascisti e renderli impossibili"
         sequence-10:
           s: 10
           from: "00:00:46,15"
           to: "00:00:51,05"
-          text: ~
+          text: "e così anche gli antifascisti tentavano di rendere impossibili gli eventi dei nazisti."
         sequence-11:
           s: 11
           from: "00:00:51,05"
           to: "00:00:54,03"
-          text: ~
+          text: "Ovviamente si finiva per litigare"
         sequence-12:
           s: 12
           from: "00:00:54,03"

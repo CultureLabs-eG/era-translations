@@ -47,23 +47,27 @@ de:
           from: "00:00:33,08"
           to: "00:00:38,25"
           text: |-
-              Manchmal waren sie schwanger,
+              Manchmal waren sie sogar schwanger,
               und glauben Sie mir das ist harte Arbeit.
         sequence-8:
           s: 8
           from: "00:00:38,25"
           to: "00:00:43,03"
-          text: "Abends zählten sie nicht,"
+          text: "Abends wurde nicht gezählt,"
         sequence-9:
           s: 9
           from: "00:00:43,03"
           to: "00:00:49,14"
-          text: ~
+          text: |-
+              wer zurück kam und wer nicht.
+              Es wäre ihnen egal, wenn zehn von uns am Tage gestorben wären.
         sequence-10:
           s: 10
           from: "00:00:49,14"
           to: "00:00:56,13"
-          text: ~
+          text: |-
+              Es war ihnen egal, wie wir arbeiteten,
+              aber wir mussten jeden Tag auf der Arbeit sein.
         sequence-11:
           s: 11
           from: "00:00:56,13"
@@ -73,12 +77,12 @@ de:
           s: 12
           from: "00:00:57,05"
           to: "00:01:01,21"
-          text: ~
+          text: "Nach dem Wecken morgens um 5 Uhr"
         sequence-13:
           s: 13
           from: "00:01:01,21"
           to: "00:01:05,05"
-          text: ~
+          text: "mussten wir aufstehen und mit den anderen das Lager verlassen."
         sequence-14:
           s: 14
           from: "00:01:05,05"

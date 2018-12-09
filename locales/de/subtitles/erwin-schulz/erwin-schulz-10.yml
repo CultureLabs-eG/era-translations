@@ -2,13 +2,13 @@ de:
   erwin-schulz:
     chapter-10:
       c: 10
-      title: ~
+      title: "Gestapo Verhör, Entlassung, Unterstützung"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:07,01"
-          text: ~
+          text: "1940, im Januar, kam ich auf Transport."
         sequence-2:
           s: 2
           from: "00:00:07,01"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:09,09"
           to: "00:00:10,17"
-          text: ~
+          text: "Entlassen wurde ich ja nicht."
         sequence-4:
           s: 4
           from: "00:00:10,17"
