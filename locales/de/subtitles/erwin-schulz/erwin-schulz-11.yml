@@ -123,7 +123,7 @@ de:
           s: 24
           from: "00:01:56,16"
           to: "00:02:02,09"
-          text: ~
+          text: "Aber die Einberufung ..."
         sequence-25:
           s: 25
           from: "00:02:02,09"
@@ -133,12 +133,12 @@ de:
           s: 26
           from: "00:02:10,04"
           to: "00:02:17,05"
-          text: ~
+          text: "wir mussten uns melden, ich glaube, das war auch hier in Kreuzberg irgendwo."
         sequence-27:
           s: 27
           from: "00:02:17,05"
           to: "00:02:25,15"
-          text: ~
+          text: "Und da wurde ich und noch so’n anderer zurückgestellt."
         sequence-28:
           s: 28
           from: "00:02:25,15"
@@ -148,12 +148,12 @@ de:
           s: 29
           from: "00:02:26,29"
           to: "00:02:34,15"
-          text: ~
+          text: "Und haben da den Auftrag bekommen: morgen oder übermorgen sollten wir mit der Bahn nach Heuberg kommen."
         sequence-30:
           s: 30
           from: "00:02:34,15"
           to: "00:02:42,08"
-          text: ~
+          text: "Die anderen, wir waren eben zwei Überfällige, Überzählige – nicht - die da den Tag wegkamen."
         sequence-31:
           s: 31
           from: "00:02:42,08"
@@ -163,7 +163,7 @@ de:
           s: 32
           from: "00:02:44,08"
           to: "00:02:51,22"
-          text: ~
+          text: "Und da habe ich dann auch dessen Frau kennen gelernt – von Otto Linke."
         sequence-33:
           s: 33
           from: "00:02:51,22"
@@ -173,7 +173,7 @@ de:
           s: 34
           from: "00:02:53,20"
           to: "00:03:01,02"
-          text: ~
+          text: "Der war früher auch in der SAP (Sozialistische Arbeiterpartei), und da hatte ich dann schnell Kontakt gehabt zu einem."
         sequence-35:
           s: 35
           from: "00:03:01,02"
