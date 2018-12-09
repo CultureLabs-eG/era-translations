@@ -8,32 +8,32 @@ de:
           s: 1
           from: "00:00:00,18"
           to: "00:00:04,00"
-          text: ~
+          text: "Mi chiamo Cavazzini Fernando, partigiano Toni."
         sequence-2:
           s: 2
           from: "00:00:04,00"
           to: "00:00:08,26"
-          text: ~
+          text: "Sono nato a Reggio Emilia, nella frazione di Villa Cella, il 23 settembre del 1923."
         sequence-3:
           s: 3
           from: "00:00:08,26"
           to: "00:00:16,02"
-          text: ~
+          text: "Il mio papà faceva il calzolaio, come suo papà, cioè mio nonno, anche lui, una stirpe di calzolai."
         sequence-4:
           s: 4
           from: "00:00:16,02"
           to: "00:00:21,23"
-          text: ~
+          text: "Mia madre era casalinga e faceva un po’ delle giornate da... come bracciante."
         sequence-5:
           s: 5
           from: "00:00:21,23"
           to: "00:00:25,18"
-          text: ~
+          text: "Poi avevo un fratello maggiore, era del ’15,"
         sequence-6:
           s: 6
           from: "00:00:25,18"
           to: "00:00:27,18"
-          text: ~
+          text: "che faceva anche lui il calzolaio,"
         sequence-7:
           s: 7
           from: "00:00:27,18"
