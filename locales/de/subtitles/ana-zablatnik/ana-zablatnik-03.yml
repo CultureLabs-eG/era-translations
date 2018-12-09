@@ -8,12 +8,12 @@ de:
           s: 1
           from: "00:00:04,28"
           to: "00:00:07,12"
-          text: ~
+          text: "Eine Angst haben sie aber auch ausgestanden – freilich."
         sequence-2:
           s: 2
           from: "00:00:07,12"
           to: "00:00:11,23"
-          text: ~
+          text: "Dort haben sie ja einen erwischt oder den anderen, oder haben sie erfahren…"
         sequence-3:
           s: 3
           from: "00:00:11,23"

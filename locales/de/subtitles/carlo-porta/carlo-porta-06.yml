@@ -73,12 +73,14 @@ de:
           s: 12
           from: "00:01:14,20"
           to: "00:01:19,00"
-          text: ~
+          text: "Manchmal erlaubten sie uns aus der Reihe zu tanzen."
         sequence-13:
           s: 13
           from: "00:01:19,00"
           to: "00:01:24,06"
-          text: ~
+          text: |-
+              Die Deutschen schienen es zu genießen
+              uns beim drängeln und streiten zu zu sehen.
         sequence-14:
           s: 14
           from: "00:01:24,06"

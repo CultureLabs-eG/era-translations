@@ -88,14 +88,14 @@ de:
           s: 17
           from: "00:01:20,15"
           to: "00:01:22,29"
-          text: ~
+          text: "Das wurde dann auch eingestellt."
         sequence-18:
           s: 18
           from: "00:01:22,29"
           to: "00:01:32,05"
-          text: ~
+          text: "Ich weiß nicht – angeblich (haben wir gehört) es waren so viele, sie haben nicht gewusst, wohin mit die Leut’."
         sequence-19:
           s: 19
           from: "00:01:32,05"
           to: "00:01:35,00"
-          text: ~
+          text: "Zuerst – und na, dann haben sie es halt eingestellt."
