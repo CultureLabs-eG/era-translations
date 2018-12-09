@@ -2,13 +2,13 @@ de:
   erwin-schulz:
     chapter-7:
       c: 7
-      title: ~
+      title: "Gefängnis Luckau, Arbeit, Inhaftierung "
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,10"
           to: "00:00:08,27"
-          text: ~
+          text: "Ich glaube wir sind auch in Ketten durch Luckau, vom Bahnhof, gelaufen."
         sequence-2:
           s: 2
           from: "00:00:08,27"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:10,11"
           to: "00:00:14,09"
-          text: ~
+          text: "und hinter uns schlossen sich die Tore."
         sequence-4:
           s: 4
           from: "00:00:14,09"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:15,06"
           to: "00:00:25,11"
-          text: ~
+          text: "Wir wurden dort eingekleidet, bekamen die Zuchthauskleidung. Unsere Privatsachen wurden uns alle abgenommen."
         sequence-6:
           s: 6
           from: "00:00:25,11"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:32,23"
           to: "00:00:38,23"
-          text: ~
+          text: "so zwei mal vier Meter, mit drei Mann."
         sequence-10:
           s: 10
           from: "00:00:38,23"

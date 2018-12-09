@@ -213,27 +213,27 @@ de:
           s: 42
           from: "00:04:00,27"
           to: "00:04:05,22"
-          text: ~
+          text: "Es wurde eine heftige Schießerei zwischen den Deutschen und unseren Leuten."
         sequence-43:
           s: 43
           from: "00:04:05,22"
           to: "00:04:09,25"
-          text: ~
+          text: "Ich habe mich langsam zurückgezogen, unverletzt, kurz gesagt."
         sequence-44:
           s: 44
           from: "00:04:09,25"
           to: "00:04:19,28"
-          text: ~
+          text: "Am Morgen danach haben die Deutschen zweimal versucht, Costabona zu erreichen,"
         sequence-45:
           s: 45
           from: "00:04:19,28"
           to: "00:04:22,22"
-          text: ~
+          text: "wir haben sie zurück geschlagen,"
         sequence-46:
           s: 46
           from: "00:04:22,22"
           to: "00:04:29,23"
-          text: ~
+          text: "weil da Bäume standen, Eichen. Wie hatten unsere Maschinengewehre in Stellung gebracht, zweimal haben wir zum Rückzug gezwungen."
         sequence-47:
           s: 47
           from: "00:04:29,23"
