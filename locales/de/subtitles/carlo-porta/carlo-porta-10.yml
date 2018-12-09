@@ -52,47 +52,55 @@ de:
           s: 9
           from: "00:00:41,12"
           to: "00:00:47,08"
-          text: ~
+          text: "sagte man uns, dass der Anschluss nach Emilia Romagna bereits abgefahren sei."
         sequence-10:
           s: 10
           from: "00:00:47,08"
           to: "00:00:51,27"
-          text: ~
+          text: "Sie nutzten alte Lastwagen, was auch immer übrig war,"
         sequence-11:
           s: 11
           from: "00:00:51,27"
           to: "00:00:55,15"
-          text: ~
+          text: "denn die Zugbrücke in Piacenza war bombardiert worden."
         sequence-12:
           s: 12
           from: "00:00:55,15"
           to: "00:01:06,06"
-          text: ~
+          text: |-
+              Wir blieben zwei Tage dort, bis uns jemand empfahl mit dem Zug
+              nach Padova und dann nach Ponte Lagoscuro zu fahren,
         sequence-13:
           s: 13
           from: "00:01:06,06"
           to: "00:01:09,02"
-          text: ~
+          text: "denn die Züge könnten dort den Po überqueren."
         sequence-14:
           s: 14
           from: "00:01:09,02"
           to: "00:01:15,15"
-          text: ~
+          text: |-
+              Das taten wir, wir fuhren nach Padova dann nach Ferrara
+              und schafften es schließlich nach Bologna.
         sequence-15:
           s: 15
           from: "00:01:15,15"
           to: "00:01:19,12"
-          text: ~
+          text: "In Bologna sollten wir zwei Tage in einer Kaserne bleiben,"
         sequence-16:
           s: 16
           from: "00:01:19,12"
           to: "00:01:25,00"
-          text: ~
+          text: |-
+              aber ich ging mit zwei oder drei Kameraden raus
+              und wir schafften es den SARSA bus zu finden.
         sequence-17:
           s: 17
           from: "00:01:25,00"
           to: "00:01:30,10"
-          text: ~
+          text: |-
+              Wir fragten den Fahrer, ob er in Richtung Reggio unterwegs sei
+              und ob wir einsteigen könnten, und er stimmte glücklich zu.
         sequence-18:
           s: 18
           from: "00:01:30,10"

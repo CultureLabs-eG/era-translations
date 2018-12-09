@@ -123,22 +123,22 @@ it:
           s: 24
           from: "00:01:57,15"
           to: "00:02:00,00"
-          text: ~
+          text: "E all'interno della gioventù socialista abbiamo fatto entrambe le cose."
         sequence-25:
           s: 25
           from: "00:02:00,00"
           to: "00:02:06,10"
-          text: ~
+          text: "Abbiamo creato il nostro armamentario teorico, per poter discutere coi nazisti,"
         sequence-26:
           s: 26
           from: "00:02:06,10"
           to: "00:02:11,03"
-          text: ~
+          text: "e allo stesso tempo eravamo in grado di difenderci. Non ci mancava nulla."
         sequence-27:
           s: 27
           from: "00:02:11,03"
           to: "00:02:13,17"
-          text: ~
+          text: "Fino al 1936 abbiamo cantato:"
         sequence-28:
           s: 28
           from: "00:02:13,17"

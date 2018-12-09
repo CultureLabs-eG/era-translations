@@ -2,48 +2,48 @@ it:
   fernando-cavazzini:
     chapter-12:
       c: 12
-      title: ~
+      title: "La Liberazione di Reggio Emilia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,24"
           to: "00:00:06,04"
-          text: ~
+          text: "Dopo che abbiamo fatto saltare i ponti dovevi andar giù, con la tua squadra a Reggio,"
         sequence-2:
           s: 2
           from: "00:00:06,04"
           to: "00:00:12,27"
-          text: ~
+          text: "e al Buco del Signore per sentire le situazioni che c’erano."
         sequence-3:
           s: 3
           from: "00:00:12,27"
           to: "00:00:19,17"
-          text: ~
+          text: "Poi alle 8 arriverà la 26° Brigata per l’entrata in città."
         sequence-4:
           s: 4
           from: "00:00:19,17"
           to: "00:00:23,19"
-          text: ~
+          text: "Perciò il mio compito era far saltare i ponti per fermare i tedeschi."
         sequence-5:
           s: 5
           from: "00:00:23,19"
           to: "00:00:30,22"
-          text: ~
+          text: "E secondo, il giorno del 24 partire e arrivare al Buco del Signore."
         sequence-6:
           s: 6
           from: "00:00:30,22"
           to: "00:00:34,02"
-          text: ~
+          text: "Abbiam fatto saltare i ponti,"
         sequence-7:
           s: 7
           from: "00:00:34,02"
           to: "00:00:38,27"
-          text: ~
+          text: "e alla sera alle 5 ero al Buco del Signore con tutta la mia squadra."
         sequence-8:
           s: 8
           from: "00:00:38,27"
           to: "00:00:46,14"
-          text: ~
+          text: "E’ stato… ho lasciato la montagna, una famiglia che era molto brava…piangevamo tutti, perché ci staccavamo insomma…"
         sequence-9:
           s: 9
           from: "00:00:46,14"

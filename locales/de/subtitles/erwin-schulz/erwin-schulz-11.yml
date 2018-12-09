@@ -198,7 +198,7 @@ de:
           s: 39
           from: "00:03:28,02"
           to: "00:03:39,10"
-          text: "Der Manschaftsberater war auch ein „Bibelforscher“."
+          text: "In der Manschaftsbaracke war auch ein „Bibelforscher“."
         sequence-40:
           s: 40
           from: "00:03:39,10"
@@ -243,4 +243,4 @@ de:
           s: 48
           from: "00:04:18,19"
           to: "00:04:28,00"
-          text: "„wenn ihr nicht das macht, was angeordnet wird.“"
+          text: "„wenn ihr nicht das macht, was angeordnet wird.“ Das war so gleich der erste Eindruck."
