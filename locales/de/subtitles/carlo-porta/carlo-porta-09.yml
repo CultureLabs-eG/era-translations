@@ -8,32 +8,34 @@ de:
           s: 1
           from: "00:00:00,16"
           to: "00:00:03,25"
-          text: ~
+          text: "Zu diesem Zeitpunkt war ich entschlossen, nach Hause zurückzukehren,"
         sequence-2:
           s: 2
           from: "00:00:03,25"
           to: "00:00:07,20"
-          text: ~
+          text: "ich ertrug den Gedanken nicht, hier zu enden."
         sequence-3:
           s: 3
           from: "00:00:07,20"
           to: "00:00:10,23"
-          text: ~
+          text: "Ich aß genau so schlecht wie die anderen,"
         sequence-4:
           s: 4
           from: "00:00:10,23"
           to: "00:00:17,08"
-          text: ~
+          text: "obwohl mein Arzt mir später sagte, dass diese zwei Jahre in Deutschland"
         sequence-5:
           s: 5
           from: "00:00:17,08"
           to: "00:00:22,28"
-          text: ~
+          text: "gut für meine Gesundheit waren und mir halfen am Leben zu bleiben."
         sequence-6:
           s: 6
           from: "00:00:22,28"
           to: "00:00:36,00"
-          text: ~
+          text: |-
+              Ich habe nicht viel gemacht, aber ich hatte nie Angst,
+              es nicht eines Tages nach Hause zu schaffen.
         sequence-7:
           s: 7
           from: "00:00:36,00"
