@@ -163,17 +163,17 @@ de:
           s: 32
           from: "00:02:20,21"
           to: "00:02:28,15"
-          text: ~
+          text: "und misshandelt wurden wir auch, mit Kolbenschlägen von der SA-Bewachung."
         sequence-33:
           s: 33
           from: "00:02:28,15"
           to: "00:02:33,18"
-          text: ~
+          text: "Wir mussten nachher über eine Eskaladierwand – die ist 2 Meter hoch."
         sequence-34:
           s: 34
           from: "00:02:33,18"
           to: "00:02:36,10"
-          text: ~
+          text: "Einige kamen nicht ’rüber,"
         sequence-35:
           s: 35
           from: "00:02:36,10"
@@ -183,12 +183,12 @@ de:
           s: 36
           from: "00:02:37,07"
           to: "00:02:44,25"
-          text: ~
+          text: "da waren ja auch Ältere bei, die auch schon jahrelang eingesperrt waren."
         sequence-37:
           s: 37
           from: "00:02:44,25"
           to: "00:02:48,08"
-          text: ~
+          text: "Die hatten ja keine Luft mehr bekommen."
         sequence-38:
           s: 38
           from: "00:02:48,08"
@@ -198,4 +198,4 @@ de:
           s: 39
           from: "00:02:49,00"
           to: "00:02:53,15"
-          text: ~
+          text: "Na ja, dann: „Freiwillige vor“, wir sind drüber, wir Jüngeren."
