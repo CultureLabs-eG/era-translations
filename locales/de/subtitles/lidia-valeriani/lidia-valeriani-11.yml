@@ -2,13 +2,13 @@ de:
   lidia-valeriani:
     chapter-11:
       c: 11
-      title: ~
+      title: "Die Befreiung"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,20"
           to: "00:00:07,25"
-          text: ~
+          text: "Am 25. April waren wir in Modena frei, da wir uns bereits am 23. oder 22. befreit hatten."
         sequence-2:
           s: 2
           from: "00:00:07,25"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:08,26"
           to: "00:00:13,08"
-          text: ~
+          text: "Und hier möchte ich eine Sache erwähnen, die ich nicht geschafft habe zu machen, da die Befreiung kurz darauf folgte."
         sequence-4:
           s: 4
           from: "00:00:13,08"
@@ -28,22 +28,22 @@ de:
           s: 5
           from: "00:00:17,10"
           to: "00:00:27,01"
-          text: ~
+          text: "Wir hatten die ganze Nacht damit verbracht, eine Karte zu entwerfen,"
         sequence-6:
           s: 6
           from: "00:00:27,01"
           to: "00:00:42,23"
-          text: ~
+          text: "auf der eingezeichnet war, von wo die Kampfgruppen in unserem Gebiet aufbrechen sollten, wo die verschiedenen GAPs waren."
         sequence-7:
           s: 7
           from: "00:00:42,23"
           to: "00:00:48,07"
-          text: ~
+          text: "Wir machten das für unsere GAPs, die SAPs machten dasselbe für ihre SAPs, wir bereiteten alles vor und sprachen uns ab."
         sequence-8:
           s: 8
           from: "00:00:48,07"
           to: "00:00:59,06"
-          text: ~
+          text: "Andere kamen aus den Bergen herunter, und auch sie hatten Orte zu befreien."
         sequence-9:
           s: 9
           from: "00:00:59,06"
@@ -53,12 +53,12 @@ de:
           s: 10
           from: "00:01:00,21"
           to: "00:01:06,04"
-          text: ~
+          text: "Wir verbrachten die ganze Nacht damit, diese Strategie vorzubereiten,"
         sequence-11:
           s: 11
           from: "00:01:06,04"
           to: "00:01:16,22"
-          text: ~
+          text: "um die Deutschen und die Faschisten, alle Bewaffneten, aus Modena zu vertreiben."
         sequence-12:
           s: 12
           from: "00:01:16,22"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:01:21,17"
           to: "00:01:24,11"
-          text: ~
+          text: "Ich sollte nach Paganine fahren"
         sequence-14:
           s: 14
           from: "00:01:24,11"
@@ -78,22 +78,22 @@ de:
           s: 15
           from: "00:01:25,17"
           to: "00:01:34,01"
-          text: ~
+          text: "und die Befehle überbringen, denn es waren immer Kuriere, Männer oder Frauen, die diese Aufgabe hatten."
         sequence-16:
           s: 16
           from: "00:01:34,01"
           to: "00:01:43,28"
-          text: ~
+          text: "Es gab keine andere Möglichkeit. Manche hatten vielleicht ein Telefon, wir aber nicht."
         sequence-17:
           s: 17
           from: "00:01:43,28"
           to: "00:01:51,12"
-          text: ~
+          text: "Also brach ich mit meinen Befehlen auf."
         sequence-18:
           s: 18
           from: "00:01:51,12"
           to: "00:02:01,26"
-          text: ~
+          text: "Ich musste das tun, denn wir konnten bereits die Kanonen hören, in Bologna zum Beispiel, man konnte Bomben hören,"
         sequence-19:
           s: 19
           from: "00:02:01,26"
@@ -103,22 +103,22 @@ de:
           s: 20
           from: "00:02:06,26"
           to: "00:02:18,17"
-          text: ~
+          text: "und dann bombardierten sie auch Gebiete in unserer Nähe."
         sequence-21:
           s: 21
           from: "00:02:18,17"
           to: "00:02:22,12"
-          text: ~
+          text: "In Modena wurde nicht bombardiert, da wir es ihnen gesagt hatten,"
         sequence-22:
           s: 22
           from: "00:02:22,12"
           to: "00:02:29,06"
-          text: ~
+          text: "aber sie bombardierten Reggio und Cavriago, wo sich deutsche Kommandos befanden."
         sequence-23:
           s: 23
           from: "00:02:29,06"
           to: "00:02:35,20"
-          text: ~
+          text: "Also brach ich auf, die Morane-Straße hinunter nach Paganine,"
         sequence-24:
           s: 24
           from: "00:02:35,20"
@@ -128,7 +128,7 @@ de:
           s: 25
           from: "00:02:42,23"
           to: "00:02:46,19"
-          text: ~
+          text: "einem Dorf Richtung Bologna, in Richtung der Berge kurz gesagt."
         sequence-26:
           s: 26
           from: "00:02:46,19"
@@ -138,7 +138,7 @@ de:
           s: 27
           from: "00:02:47,29"
           to: "00:02:54,09"
-          text: ~
+          text: "Als ich dort ankam, fuhr ich noch einen Kilometer weiter und traf schon auf die Deutschen, die sich auf dem Rückzug befanden."
         sequence-28:
           s: 28
           from: "00:02:54,09"
@@ -148,22 +148,22 @@ de:
           s: 29
           from: "00:02:55,23"
           to: "00:03:02,24"
-          text: ~
+          text: "Kühe, Wägen, Pferde, Fahrräder, sie hatten von allem etwas."
         sequence-30:
           s: 30
           from: "00:03:02,24"
           to: "00:03:08,18"
-          text: ~
+          text: "Sie hielten mich an, und ich konnte nicht weiterfahren."
         sequence-31:
           s: 31
           from: "00:03:08,18"
           to: "00:03:17,10"
-          text: ~
+          text: "„Ich muss weiter“, sagte ich zu ihnen. Wir fanden immer eine Ausrede, ein kranker Bruder oder dass wir zurück nach Hause müssten."
         sequence-32:
           s: 32
           from: "00:03:17,10"
           to: "00:03:23,21"
-          text: ~
+          text: "Aber es war unmöglich. Sie wollten mir mein Fahrrad wegnehmen und zwangen mich umzukehren."
         sequence-33:
           s: 33
           from: "00:03:23,21"
@@ -173,19 +173,19 @@ de:
           s: 34
           from: "00:03:24,13"
           to: "00:03:30,05"
-          text: ~
+          text: "Ich musste auf den Zeitpunkt warten, an dem wir uns mit den anderen Genossen treffen wollten,"
         sequence-35:
           s: 35
           from: "00:03:30,05"
           to: "00:03:36,25"
-          text: ~
+          text: "wo wir uns alle versammelten, all jene die ausgeschickt worden waren, um die Befehle zu übergeben."
         sequence-36:
           s: 36
           from: "00:03:36,25"
           to: "00:03:42,26"
-          text: ~
+          text: "Wir trafen uns dort und halfen denen, die die Stadt verteidigen mussten und jenen, die gerade ankamen."
         sequence-37:
           s: 37
           from: "00:03:42,26"
           to: "00:03:48,22"
-          text: ~
+          text: "Das war die einzige Mission, die ich nicht erfüllen konnte."

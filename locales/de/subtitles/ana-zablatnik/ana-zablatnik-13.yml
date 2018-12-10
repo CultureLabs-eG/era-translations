@@ -2,18 +2,18 @@ de:
   ana-zablatnik:
     chapter-13:
       c: 13
-      title: ~
+      title: Fazit
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,09"
           to: "00:00:11,15"
-          text: ~
+          text: "Ich weiß nicht, ob die Jugend sich jetzt in diese Situation kann einleben. Wie wir damals…"
         sequence-2:
           s: 2
           from: "00:00:11,15"
           to: "00:00:21,22"
-          text: ~
+          text: "Es war schon 5 Jahre Krieg, immer mehr sind gefallen, immer ärger war’s."
         sequence-3:
           s: 3
           from: "00:00:21,22"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:23,09"
           to: "00:00:25,29"
-          text: ~
+          text: "Eigentlich war keine richtige Zukunft für uns."
         sequence-5:
           s: 5
           from: "00:00:25,29"
@@ -33,9 +33,9 @@ de:
           s: 6
           from: "00:00:27,14"
           to: "00:00:36,19"
-          text: ~
+          text: "Und durch das, kommt mir vor, ist man noch eher gestärkt in diesen Widerstand nachad gegangen und"
         sequence-7:
           s: 7
           from: "00:00:36,19"
           to: "00:00:40,10"
-          text: ~
+          text: "hat geholfen, wo halt Not war."

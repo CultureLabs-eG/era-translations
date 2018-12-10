@@ -2,23 +2,23 @@ it:
   fernando-cavazzini:
     chapter-2:
       c: 2
-      title: ~
+      title: "Toni inizia l’attivitá antifascista"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,28"
           to: "00:00:06,28"
-          text: ~
+          text: "Succedeva che la propaganda fascista diceva che i comunisti in Spagna hanno sventrato delle suore"
         sequence-2:
           s: 2
           from: "00:00:06,28"
           to: "00:00:19,19"
-          text: ~
+          text: "e violentate e tutte queste cose perciò quando si parlava del comunismo per me, non è che mi fossero stati simpatici, in poche parole."
         sequence-3:
           s: 3
           from: "00:00:19,19"
           to: "00:00:21,18"
-          text: ~
+          text: "Poi che cosa è successo?"
         sequence-4:
           s: 4
           from: "00:00:21,18"
@@ -28,12 +28,12 @@ it:
           s: 5
           from: "00:00:22,21"
           to: "00:00:30,10"
-          text: ~
+          text: "Quando eravamo verso il 1943 che la guerra cominciava,"
         sequence-6:
           s: 6
           from: "00:00:30,10"
           to: "00:00:37,11"
-          text: ~
+          text: "si cominciava già a parlare con la ritirata dall’Unione Sovietica, con la ritirata in Nord Africa, i bombardamenti ecc."
         sequence-7:
           s: 7
           from: "00:00:37,11"
@@ -43,37 +43,37 @@ it:
           s: 8
           from: "00:00:39,23"
           to: "00:00:45,09"
-          text: ~
+          text: "Poi si era praticamente nella primavera del ’43, che sono cominciati gli scioperi alle Reggiane,"
         sequence-9:
           s: 9
           from: "00:00:45,09"
           to: "00:00:50,17"
-          text: ~
+          text: "ma non nel mio reparto, nell’attrezzeria, che sono stati arrestati dei miei amici anche."
         sequence-10:
           s: 10
           from: "00:00:50,17"
           to: "00:00:55,13"
-          text: ~
+          text: "Di lì ho cominciato a riflettere, proprio ho fatto un esame di coscienza: ma cosa ho fatto io?"
         sequence-11:
           s: 11
           from: "00:00:55,13"
           to: "00:01:02,07"
-          text: ~
+          text: "Sta lì a lavorare giorno e notte per aumentare la produzione per fare la guerra,"
         sequence-12:
           s: 12
           from: "00:01:02,07"
           to: "00:01:06,17"
-          text: ~
+          text: "e la guerra serve per uccidere la gente."
         sequence-13:
           s: 13
           from: "00:01:06,17"
           to: "00:01:10,01"
-          text: ~
+          text: "Mi ero proprio… stato sconvolto."
         sequence-14:
           s: 14
           from: "00:01:10,01"
           to: "00:01:13,11"
-          text: ~
+          text: "Dal quel momento ho cercato"
         sequence-15:
           s: 15
           from: "00:01:13,11"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:14,16"
           to: "00:01:19,15"
-          text: ~
+          text: "di prendere contatto con gli antifascisti… ma non c’era niente da fare."
         sequence-17:
           s: 17
           from: "00:01:19,15"
@@ -93,47 +93,47 @@ it:
           s: 18
           from: "00:01:21,02"
           to: "00:01:31,29"
-          text: ~
+          text: "Tant’è vero che ero andato a Sassuolo che c’era un amico che era malato, che sapevo che era un antifascista,"
         sequence-19:
           s: 19
           from: "00:01:31,29"
           to: "00:01:38,18"
-          text: ~
+          text: "ma eravamo gia nell’estate del ’43, che pensavo che mi desse una mano per entrare nel movimento."
         sequence-20:
           s: 20
           from: "00:01:38,18"
           to: "00:01:44,04"
-          text: ~
+          text: "Dice: “No, io sono un antifascista però non è che sia organizzato”."
         sequence-21:
           s: 21
           from: "00:01:44,04"
           to: "00:01:47,12"
-          text: ~
+          text: "Poi c’era un altro compagno del mio reparto,"
         sequence-22:
           s: 22
           from: "00:01:47,12"
           to: "00:01:53,05"
-          text: ~
+          text: "un certo Grassi Armando di Gattaglio, che era abbastanza amico e ho detto:"
         sequence-23:
           s: 23
           from: "00:01:53,05"
           to: "00:01:58,15"
-          text: ~
+          text: "“Io voglio entrare nel… insomma, nel movimento”, così. E l’ho convinto."
         sequence-24:
           s: 24
           from: "00:01:58,15"
           to: "00:02:02,09"
-          text: ~
+          text: "Mi ha messo in contatto con un certo Corradini."
         sequence-25:
           s: 25
           from: "00:02:02,09"
           to: "00:02:07,21"
-          text: ~
+          text: "L’ho saputo poi dopo la guerra che si chiamava Corradini, che era uno di Cavazzoli."
         sequence-26:
           s: 26
           from: "00:02:07,21"
           to: "00:02:13,29"
-          text: ~
+          text: "E lì ho cominciato praticamente a fare qualcosa nella clandestinità."
         sequence-27:
           s: 27
           from: "00:02:13,29"
@@ -143,17 +143,17 @@ it:
           s: 28
           from: "00:02:14,24"
           to: "00:02:19,25"
-          text: ~
+          text: "Lì subito sono stato… ho fatto poco."
         sequence-29:
           s: 29
           from: "00:02:19,25"
           to: "00:02:27,06"
-          text: ~
+          text: "Ho cominciato invece dopo la caduta di Mussolini, l’8 settembre."
         sequence-30:
           s: 30
           from: "00:02:27,06"
           to: "00:02:32,19"
-          text: ~
+          text: "Dopo lì veramente si cominciava ad andare a cercare delle armi,"
         sequence-31:
           s: 31
           from: "00:02:32,19"
@@ -163,42 +163,42 @@ it:
           s: 32
           from: "00:02:35,09"
           to: "00:02:40,16"
-          text: ~
+          text: "tant’è vero che con l’8 settembre io abitavo a 500 metri della ferrovia,"
         sequence-33:
           s: 33
           from: "00:02:40,16"
           to: "00:02:48,00"
-          text: ~
+          text: "noi andavamo con quasi tutta l’Azione Cattolica, andavamo sulla ferrovia"
         sequence-34:
           s: 34
           from: "00:02:48,00"
           to: "00:02:53,07"
-          text: ~
+          text: "a fare rallentare i treni che arrivassero a Reggio, dove c’erano dei militari…"
         sequence-35:
           s: 35
           from: "00:02:53,07"
           to: "00:02:57,20"
-          text: ~
+          text: "allora i militari scendevano dal treno e poi il treno riprendeva."
         sequence-36:
           s: 36
           from: "00:02:57,20"
           to: "00:03:05,06"
-          text: ~
+          text: "Li portavamo in canonica. Alcuni li abbiamo vestiti con i vestiti borghesi, alcuni abbiamo vestiti da prete,"
         sequence-37:
           s: 37
           from: "00:03:05,06"
           to: "00:03:11,10"
-          text: ~
+          text: "io vestito da chierico perché avevo allora già 19 anni, però ne dimostravo di meno."
         sequence-38:
           s: 38
           from: "00:03:11,10"
           to: "00:03:18,28"
-          text: ~
+          text: "Li portavo, mi ricordo, un certo Catellani che lavorava alle Reggiane anche lui"
         sequence-39:
           s: 39
           from: "00:03:18,28"
           to: "00:03:28,19"
-          text: ~
+          text: "l’ho portato fino a casa a Sesso, ma anche altri fino a Rivalta, quelle zone lì, poi dopo magari andavano da soli."
         sequence-40:
           s: 40
           from: "00:03:28,19"
@@ -208,49 +208,49 @@ it:
           s: 41
           from: "00:03:30,10"
           to: "00:03:39,26"
-          text: ~
+          text: "Beh io, siccome avevo l’esonero dal militare, e poi ho continuato a lavorare alle Reggiane fino a dicembre"
         sequence-42:
           s: 42
           from: "00:03:39,26"
           to: "00:03:44,09"
-          text: ~
+          text: "quando mi è arrivata un’altra cartolina per ripartire e l’esonero me l’hanno ritirato,"
         sequence-43:
           s: 43
           from: "00:03:44,09"
           to: "00:03:51,15"
-          text: ~
+          text: "però so che i tedeschi sono andati subito ad occupare i punti nevralgici della città,"
         sequence-44:
           s: 44
           from: "00:03:51,15"
           to: "00:03:57,04"
-          text: ~
+          text: "il municipio, lì alla caserma Zucchi, alla Cialdini dove c’è la questura adesso,"
         sequence-45:
           s: 45
           from: "00:03:57,04"
           to: "00:04:02,06"
-          text: ~
+          text: "e poi hanno fatto dei saccheggi anche i tedeschi,"
         sequence-46:
           s: 46
           from: "00:04:02,06"
           to: "00:04:09,23"
-          text: ~
+          text: "mi ricordo che insomma, che mia moglie abitava a Coviolo, alla Roncina,"
         sequence-47:
           s: 47
           from: "00:04:09,23"
           to: "00:04:11,21"
-          text: ~
+          text: "e c’erano dei tedeschi proprio nel suo cortile,"
         sequence-48:
           s: 48
           from: "00:04:11,21"
           to: "00:04:23,23"
-          text: ~
+          text: "sono arrivati là con delle galline, i conigli, ecc., e ridevano quando hanno arrestati i soldati che si sono arresi, ecc."
         sequence-49:
           s: 49
           from: "00:04:23,23"
           to: "00:04:29,00"
-          text: ~
+          text: "A notare che l’8 settembre, i tedeschi hanno praticamente arrestato"
         sequence-50:
           s: 50
           from: "00:04:29,00"
           to: "00:04:35,10"
-          text: ~
+          text: "oltre 600.000 soldati e mandato in Germania, in poche parole."

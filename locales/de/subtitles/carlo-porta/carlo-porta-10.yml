@@ -2,138 +2,156 @@ de:
   carlo-porta:
     chapter-10:
       c: 10
-      title: ~
+      title: "Die schwierige Rückkehr"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,10"
           to: "00:00:02,23"
-          text: ~
+          text: "Ich kam mit dem Zug zurück nach Hause."
         sequence-2:
           s: 2
           from: "00:00:02,23"
           to: "00:00:10,05"
-          text: ~
+          text: "Eines morgens fuhren wir los uns kamen zum Bodensee in der Schweiz."
         sequence-3:
           s: 3
           from: "00:00:10,05"
           to: "00:00:14,00"
-          text: ~
+          text: "Als wir ankamen, funktionierte der Zug nicht mehr."
         sequence-4:
           s: 4
           from: "00:00:14,00"
           to: "00:00:19,24"
-          text: ~
+          text: "Nach zwei Tagen, fanden wir einen anderen Zug,"
         sequence-5:
           s: 5
           from: "00:00:19,24"
           to: "00:00:23,04"
-          text: ~
+          text: "Es dauerte anderthalb Tage bis nach Como,"
         sequence-6:
           s: 6
           from: "00:00:23,04"
           to: "00:00:31,14"
-          text: ~
+          text: |-
+              denn alles war zerstört
+              und es gab nur ein funktionierendes Bahngleis.
         sequence-7:
           s: 7
           from: "00:00:31,14"
           to: "00:00:39,24"
-          text: ~
+          text: |-
+              Da es keine Möglichkeit gab, nach Mailand zu gelangen
+              mussten wir mehrere Tage in Como bleiben.
         sequence-8:
           s: 8
           from: "00:00:39,24"
           to: "00:00:41,12"
-          text: ~
+          text: "Als wir endlich Mailand erreichten,"
         sequence-9:
           s: 9
           from: "00:00:41,12"
           to: "00:00:47,08"
-          text: ~
+          text: "sagte man uns, dass der Anschluss nach Emilia Romagna bereits abgefahren sei."
         sequence-10:
           s: 10
           from: "00:00:47,08"
           to: "00:00:51,27"
-          text: ~
+          text: "Sie nutzten alte Lastwagen, was auch immer übrig war,"
         sequence-11:
           s: 11
           from: "00:00:51,27"
           to: "00:00:55,15"
-          text: ~
+          text: "denn die Zugbrücke in Piacenza war bombardiert worden."
         sequence-12:
           s: 12
           from: "00:00:55,15"
           to: "00:01:06,06"
-          text: ~
+          text: |-
+              Wir blieben zwei Tage dort, bis uns jemand empfahl mit dem Zug
+              nach Padova und dann nach Ponte Lagoscuro zu fahren,
         sequence-13:
           s: 13
           from: "00:01:06,06"
           to: "00:01:09,02"
-          text: ~
+          text: "denn die Züge könnten dort den Po überqueren."
         sequence-14:
           s: 14
           from: "00:01:09,02"
           to: "00:01:15,15"
-          text: ~
+          text: |-
+              Das taten wir, wir fuhren nach Padova dann nach Ferrara
+              und schafften es schließlich nach Bologna.
         sequence-15:
           s: 15
           from: "00:01:15,15"
           to: "00:01:19,12"
-          text: ~
+          text: "In Bologna sollten wir zwei Tage in einer Kaserne bleiben,"
         sequence-16:
           s: 16
           from: "00:01:19,12"
           to: "00:01:25,00"
-          text: ~
+          text: |-
+              aber ich ging mit zwei oder drei Kameraden raus
+              und wir schafften es den SARSA bus zu finden.
         sequence-17:
           s: 17
           from: "00:01:25,00"
           to: "00:01:30,10"
-          text: ~
+          text: |-
+              Wir fragten den Fahrer, ob er in Richtung Reggio unterwegs sei
+              und ob wir einsteigen könnten, und er stimmte glücklich zu.
         sequence-18:
           s: 18
           from: "00:01:30,10"
           to: "00:01:38,01"
-          text: ~
+          text: |-
+              In Castelfranco jedoch sagte der Kontrolleur uns freundlich,
+              dass wir ein Ticket kaufen müssten.
         sequence-19:
           s: 19
           from: "00:01:38,01"
           to: "00:01:41,13"
-          text: ~
+          text: "Wir antworteten, dass wir überhaupt kein Geld hätten."
         sequence-20:
           s: 20
           from: "00:01:41,13"
           to: "00:01:47,20"
-          text: ~
+          text: "Er war einverstanden, uns nicht im Stich zu lassen,"
         sequence-21:
           s: 21
           from: "00:01:47,20"
           to: "00:01:53,04"
-          text: ~
+          text: "aber in Reggio müssten wir zusammen zum SARSA Büro gehen."
         sequence-22:
           s: 22
           from: "00:01:53,04"
           to: "00:01:56,03"
-          text: ~
+          text: "Als wir reingingen sagte er:"
         sequence-23:
           s: 23
           from: "00:01:56,03"
           to: "00:02:02,24"
-          text: ~
+          text: |-
+              „Chef, diese Männer haben den Fahrpreis nicht bezahlt,
+              weil sie behaupten, dass sie aus Deutschland kommen.“
         sequence-24:
           s: 24
           from: "00:02:02,24"
           to: "00:02:09,22"
-          text: ~
+          text: |-
+              Die Antwort war: „Du bist wirklich ein Idiot, ich habe dir gesagt,
+              dass sie jedes Recht haben, zurück nach Hause zu kehren!“
         sequence-25:
           s: 25
           from: "00:02:09,22"
           to: "00:02:11,21"
-          text: ~
+          text: "Er wurde wirklich beschimpft."
         sequence-26:
           s: 26
           from: "00:02:11,21"
           to: "00:02:16,15"
-          text: ~
+          text: "Von hier aus gingen wir zu Fuß weiter mit zwei anderen aus Correggio."
         sequence-27:
           s: 27
           from: "00:02:16,15"
@@ -143,89 +161,103 @@ de:
           s: 28
           from: "00:02:17,08"
           to: "00:02:28,13"
-          text: ~
+          text: |-
+              Wir wussten überhaupt nichts,
+              also befragten wir den Direktor der SARSA eine Weile.
         sequence-29:
           s: 29
           from: "00:02:28,13"
           to: "00:02:36,21"
-          text: ~
+          text: "Wir liefen nach Hause, das war damals immer noch recht gewöhnlich."
         sequence-30:
           s: 30
           from: "00:02:36,21"
           to: "00:02:48,08"
-          text: ~
+          text: |-
+              Als wir ankamen, wo heute das ACM ist,
+              war ich müde und blieb eine Weile stehen, um mich auszuruhen.
         sequence-31:
           s: 31
           from: "00:02:48,08"
           to: "00:02:54,26"
-          text: ~
+          text: |-
+              Eine Frau kam auf ihrem Fahrrad vorbei
+              und fragte mich, ob ich der Sohn von Herrn Porta sei.
         sequence-32:
           s: 32
           from: "00:02:54,26"
           to: "00:02:59,18"
-          text: ~
+          text: |-
+              Ich sagte ihr, dass ich es sei
+              und sie sagte: „Du bist spät dran!“.
         sequence-33:
           s: 33
           from: "00:02:59,18"
           to: "00:03:03,11"
-          text: ~
+          text: "„Nun, ich bin gerade angekommen“."
         sequence-34:
           s: 34
           from: "00:03:03,11"
           to: "00:03:12,15"
-          text: ~
+          text: |-
+              Sie bot an, meinen Eltern Bescheid zu sagen, um mich zu begrüßen, aber bevor sie ging,
+              fragte ich sie wie die Situation sei, da sie meine Familie kannte.
         sequence-35:
           s: 35
           from: "00:03:12,15"
           to: "00:03:15,17"
-          text: ~
+          text: "„Alle sind am Leben“, sagte sie,"
         sequence-36:
           s: 36
           from: "00:03:15,17"
           to: "00:03:19,17"
-          text: ~
+          text: "„und dein Bruder ist gerade aus der Schweiz zurück“."
         sequence-37:
           s: 37
           from: "00:03:19,17"
           to: "00:03:23,23"
-          text: ~
+          text: "Dann ging sie zu meinen Eltern, um ihnen die gute Nachricht zu überbringen."
         sequence-38:
           s: 38
           from: "00:03:23,23"
           to: "00:03:30,24"
-          text: ~
+          text: "Ich werde nie vergessen, wie meine Mutter unter Tränen auf mich zugerannt kam."
         sequence-39:
           s: 39
           from: "00:03:30,24"
           to: "00:03:36,07"
-          text: ~
+          text: "Sie hielt es nicht mehr aus, genau wie ich und es war das erste Mal dass ich weinte."
         sequence-40:
           s: 40
           from: "00:03:36,07"
           to: "00:03:44,19"
-          text: ~
+          text: |-
+              Normalerweise weine ich immer, wenn ich diese Geschichte erzähle.
+              Heute habe ich Glück, heute morgen habe ich es geschafft nicht zu weinen.
         sequence-41:
           s: 41
           from: "00:03:44,19"
           to: "00:03:47,26"
-          text: ~
+          text: "Und das ist das Ende der Geschichte."
         sequence-42:
           s: 42
           from: "00:03:47,26"
           to: "00:03:53,06"
-          text: ~
+          text: "Ich nahm wieder Kontakt zu meinen alten Bekannten auf und machte mich auf die Suche nach Arbeit."
         sequence-43:
           s: 43
           from: "00:03:53,06"
           to: "00:03:57,09"
-          text: ~
+          text: "Ich bekam viele Angebote, die ich nicht annahm,"
         sequence-44:
           s: 44
           from: "00:03:57,09"
           to: "00:04:02,04"
-          text: ~
+          text: "dann machte ich einfach mit meinem neuen Job bei Giglio weiter."
         sequence-45:
           s: 45
           from: "00:04:02,04"
           to: "00:04:09,26"
-          text: ~
+          text: |-
+              Latterie Cooperative Riunite (Vereinigte Molkereigenossenschaft).
+              Ich habe sechsunddreißig Jahre dort gearbeitet.

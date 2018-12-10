@@ -2,23 +2,25 @@ de:
   carlo-porta:
     chapter-5:
       c: 5
-      title: ~
+      title: "Deportation nach Deutschland"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,26"
           to: "00:00:05,13"
-          text: ~
+          text: "Als ich zurück nach Hause kam ging ich dort arbeiten,"
         sequence-2:
           s: 2
           from: "00:00:05,13"
           to: "00:00:13,14"
-          text: ~
+          text: |-
+              aber nach drei Monaten wurde ich wieder zum Militär einberufen,
+              denn ich war Soldat als ich verhaftet wurde.
         sequence-3:
           s: 3
           from: "00:00:13,14"
           to: "00:00:20,17"
-          text: ~
+          text: "In Bari machte ich die Grundausbildung zum zweiten Mal dann wurde ich nach Albanien geschickt."
         sequence-4:
           s: 4
           from: "00:00:20,17"
@@ -28,57 +30,59 @@ de:
           s: 5
           from: "00:00:22,02"
           to: "00:00:27,19"
-          text: ~
+          text: "Ich wollte nicht gehen also sprach ich mit meinem Oberstleutnant."
         sequence-6:
           s: 6
           from: "00:00:27,19"
           to: "00:00:38,24"
-          text: ~
+          text: |-
+              Ich erklärte ihm, dass ich wusste, dass ich kein Recht hatte, eine Waffe zu tragen,
+              denn ich hatte alle Rechte verloren als ich verhaftet wurde.
         sequence-7:
           s: 7
           from: "00:00:38,24"
           to: "00:00:47,19"
-          text: ~
+          text: "Er antwortete, dass er in Albanien mit den Schwarzhemden gekämpft hatte, obwohl er in der Armee war,"
         sequence-8:
           s: 8
           from: "00:00:47,19"
           to: "00:00:52,11"
-          text: ~
+          text: "und wenn er gehen könne, müsste ich definitiv auch gehen."
         sequence-9:
           s: 9
           from: "00:00:52,11"
           to: "00:00:58,03"
-          text: ~
+          text: "Nach vier oder fünf Monaten in Durrës in Albanien,"
         sequence-10:
           s: 10
           from: "00:00:58,03"
           to: "00:01:07,24"
-          text: ~
+          text: "bekam ich einen Brief vom Ministerium, mit der Anweisung sofort zurück nach Italien zu kommen, denn ich sollte nicht dort sein. "
         sequence-11:
           s: 11
           from: "00:01:07,24"
           to: "00:01:16,15"
-          text: ~
+          text: "Man brachte mich zum Hafen und auf ein Schiff namens Disentine."
         sequence-12:
           s: 12
           from: "00:01:16,15"
           to: "00:01:26,01"
-          text: ~
+          text: "Wir verbrachten dort drei Tage ohne abzulegen, angeblich wegen Britischer U-Boote."
         sequence-13:
           s: 13
           from: "00:01:26,01"
           to: "00:01:34,22"
-          text: ~
+          text: "Eines Abends sahen wir vom Schiff aus eine große Feier in Durrës,"
         sequence-14:
           s: 14
           from: "00:01:34,22"
           to: "00:01:40,12"
-          text: ~
+          text: "Die Menschen umarmten sich und wir beschlossen von Bord zu gehen."
         sequence-15:
           s: 15
           from: "00:01:40,12"
           to: "00:01:48,10"
-          text: ~
+          text: "Es war der 8. September, Badoglio hatte soeben den Waffenstillstand erklärt."
         sequence-16:
           s: 16
           from: "00:01:48,10"
@@ -88,62 +92,66 @@ de:
           s: 17
           from: "00:01:53,10"
           to: "00:02:01,02"
-          text: ~
+          text: "Es waren auch fünfzig deutsche Soldaten in Durrës:"
         sequence-18:
           s: 18
           from: "00:02:01,02"
           to: "00:02:08,16"
-          text: ~
+          text: "Sie nahmen Ihre Uniform ab, feierten mit uns."
         sequence-19:
           s: 19
           from: "00:02:08,16"
           to: "00:02:14,00"
-          text: ~
+          text: "Acht Tage später verkleideten sie sich wieder als Deutsche."
         sequence-20:
           s: 20
           from: "00:02:14,00"
           to: "00:02:20,08"
-          text: ~
+          text: "Von diesem Tag an hatte niemand mehr eine Verbindung nach Rom."
         sequence-21:
           s: 21
           from: "00:02:20,08"
           to: "00:02:31,09"
-          text: ~
+          text: "Sogar die Militärverwaltung konnte nicht mehr mit Rom sprechen. Niemand antwortete."
         sequence-22:
           s: 22
           from: "00:02:31,09"
           to: "00:02:34,05"
-          text: ~
+          text: "Vielleicht war es besser so."
         sequence-23:
           s: 23
           from: "00:02:34,05"
           to: "00:02:42,24"
-          text: ~
+          text: "Unsere Offiziere wie z.B. General Mondini aus Parma, der Kommandierende General meiner Division"
         sequence-24:
           s: 24
           from: "00:02:42,24"
           to: "00:02:48,02"
-          text: ~
+          text: "riefen eines Tages die Truppen zusammen and belügten uns absichtlich."
         sequence-25:
           s: 25
           from: "00:02:48,02"
           to: "00:02:53,20"
-          text: ~
+          text: "Ich glaube sie wussten von Anfang an, dass sie uns anlogen,"
         sequence-26:
           s: 26
           from: "00:02:53,20"
           to: "00:03:01,05"
-          text: ~
+          text: |-
+              aber sie sagten uns, dass sie eine Vereinbarung mit den Deutschen hatten:
+              sie würden uns nach Trieste bringen,
         sequence-27:
           s: 27
           from: "00:03:01,05"
           to: "00:03:05,11"
-          text: ~
+          text: "von wo aus jeder seines Weges gehen könne."
         sequence-28:
           s: 28
           from: "00:03:05,11"
           to: "00:03:14,14"
-          text: ~
+          text: |-
+              Ich war sehr skeptisch aber wir stiegen alle in den Zug.
+              In jedem Waggon waren 42 von uns.
         sequence-29:
           s: 29
           from: "00:03:14,14"
@@ -153,7 +161,9 @@ de:
           s: 30
           from: "00:03:15,11"
           to: "00:03:20,18"
-          text: ~
+          text: |-
+              Als wir die deutsche Grenze erreichten verriegelten die Deutschen die Waggons,
+              angeblich wegen der Partisanen.
         sequence-31:
           s: 31
           from: "00:03:20,18"
@@ -163,57 +173,69 @@ de:
           s: 32
           from: "00:03:21,12"
           to: "00:03:29,15"
-          text: ~
+          text: |-
+              Am Morgen – ich hatte eine kleines Buch mit einer Karte -
+              waren wir in Österreich.
         sequence-33:
           s: 33
           from: "00:03:29,15"
           to: "00:03:33,02"
-          text: ~
+          text: "Ich sagte den anderen, dass es überhaupt nicht gut aussah."
         sequence-34:
           s: 34
           from: "00:03:33,02"
           to: "00:03:41,25"
-          text: ~
+          text: "Ich landete in Neubrandenburg 200km nördlich von Berlin."
         sequence-35:
           s: 35
           from: "00:03:41,25"
           to: "00:03:54,13"
-          text: ~
+          text: |-
+              Ich war dankbar, dass vor drei, vier Jahren das Lager besuchen konnte,
+              in dem ich 60 Jahre zuvor inhaftiert war.
         sequence-36:
           s: 36
           from: "00:03:54,13"
           to: "00:04:01,01"
-          text: ~
+          text: "Wir blieben eine Weile dort. Es gab ständig Luftangriffe."
         sequence-37:
           s: 37
           from: "00:04:01,01"
           to: "00:04:09,13"
-          text: ~
+          text: "Die Deutschen, die für das Lager verantwortlich waren wohnten in den ersten beiden Hütten."
         sequence-38:
           s: 38
           from: "00:04:09,13"
           to: "00:04:18,20"
-          text: ~
+          text: |-
+              Dann gab es zwei Hütten für weibliche Gefangene –
+              Russische Frauen, die mit kleinen Schaufeln an den Bahngleisen arbeiteten –
         sequence-39:
           s: 39
           from: "00:04:18,20"
           to: "00:04:26,05"
-          text: ~
+          text: |-
+              dann die Franzosen and schließlich wir.
+              Ich weiß nicht wie viele Tausend Gefangen in dem Lager waren.
         sequence-40:
           s: 40
           from: "00:04:26,05"
           to: "00:04:35,25"
-          text: ~
+          text: |-
+              Ich sollte nicht vergessen, dass ich zu der Zeit
+              noch in Begleitung von zwei Unteroffizieren war,
         sequence-41:
           s: 41
           from: "00:04:35,25"
           to: "00:04:41,25"
-          text: ~
+          text: "die meine Dokumente behalten hatten, als wir Albanien verließen."
         sequence-42:
           s: 42
           from: "00:04:41,25"
           to: "00:04:50,15"
-          text: ~
+          text: |-
+              Einer von ihnen war aus Cosenza, der andere aus Catanzaro.
+              Ich glaube sie sollten eigentlich im Sonderurlaub zurück nach Italien gehen.
         sequence-43:
           s: 43
           from: "00:04:50,15"
@@ -223,77 +245,93 @@ de:
           s: 44
           from: "00:04:52,03"
           to: "00:05:03,06"
-          text: ~
+          text: |-
+              Als sich alles änderte war ich leicht besorgt:
+              die zwei brauchten etwas zu trinken
         sequence-45:
           s: 45
           from: "00:05:03,06"
           to: "00:05:12,17"
-          text: ~
+          text: "und ich wusste, wie die Deutschen nicht gut auf Kommunisten zu sprechen waren."
         sequence-46:
           s: 46
           from: "00:05:12,17"
           to: "00:05:19,08"
-          text: ~
+          text: "Eines Nachts brauchten die Deutschen 30 Leute und kamen zu unserer Hütte."
         sequence-47:
           s: 47
           from: "00:05:19,08"
           to: "00:05:25,22"
-          text: ~
+          text: |-
+              Die zwei Offiziere hatten Recht auf Etagenbett bekommen
+              und schliefen in einer Ecke der Hütte.
         sequence-48:
           s: 48
           from: "00:05:25,22"
           to: "00:05:37,08"
-          text: ~
+          text: |-
+              Wir schliefen auf Stroh auf dem Boden.
+              Ich schaffte es in die Gruppe zu kommen, die losging.
         sequence-49:
           s: 49
           from: "00:05:37,08"
           to: "00:05:42,21"
-          text: ~
+          text: |-
+              Ich hörte später nichts mehr von ihnen
+              und vielleicht hätte ich es nicht tun sollen,
         sequence-50:
           s: 50
           from: "00:05:42,21"
           to: "00:05:48,17"
-          text: ~
+          text: |-
+              aber ich hatte Angst, dass sie meine Dokumente an die Wachen aushändigen würden.
+              Die Wachen dort waren brutal.
         sequence-51:
           s: 51
           from: "00:05:48,17"
           to: "00:05:54,23"
-          text: ~
+          text: "Sie kamen morgens rein und schrien „Aufstehn!“."
         sequence-52:
           s: 52
           from: "00:05:54,23"
           to: "00:06:02,15"
-          text: ~
+          text: |-
+              Anfangs wussten wir nicht, was wir tun sollten – 
+              vielleicht Kaffee holen! -
         sequence-53:
           s: 53
           from: "00:06:02,15"
           to: "00:06:07,20"
-          text: ~
+          text: "dann kamen vier oder fünf rein und verhielten sich grob."
         sequence-54:
           s: 54
           from: "00:06:07,20"
           to: "00:06:13,19"
-          text: ~
+          text: |-
+              Wir verstanden dass wir aufstehen sollten,
+              auch wenn wir das Wort nicht kannten.
         sequence-55:
           s: 55
           from: "00:06:13,19"
           to: "00:06:20,15"
-          text: ~
+          text: "Sie waren richtig gemein. Ich ging also zu diesem anderen Lager"
         sequence-56:
           s: 56
           from: "00:06:20,15"
           to: "00:06:27,02"
-          text: ~
+          text: "bei einem großen Fluss, der bombardiert worden war und wir begannen dort zu arbeiten."
         sequence-57:
           s: 57
           from: "00:06:27,02"
           to: "00:06:33,23"
-          text: ~
+          text: |-
+              Ich verlor den Kontakt zu den beiden Offizieren.
+              Das Lager war im Prinzip ein Durchgangslager
         sequence-58:
           s: 58
           from: "00:06:33,23"
           to: "00:06:42,10"
-          text: ~
+          text: "wo täglich 100-200 Personen mit dem Zug ankamen."
         sequence-59:
           s: 59
           from: "00:06:42,10"
@@ -303,12 +341,14 @@ de:
           s: 60
           from: "00:06:48,03"
           to: "00:06:52,05"
-          text: ~
+          text: "Ich war in vier verschiedenen deutschen Konzentrationslagern."
         sequence-61:
           s: 61
           from: "00:06:52,05"
           to: "00:07:02,20"
-          text: ~
+          text: |-
+              Das letzte, von dem wir schließlich befreit wurden,
+              hieß Wickede und war in Westfalen bei Dortmund.
         sequence-62:
           s: 62
           from: "00:07:02,20"
@@ -318,57 +358,63 @@ de:
           s: 63
           from: "00:07:04,14"
           to: "00:07:09,15"
-          text: ~
+          text: "Normalerweise gingen die Leute sofort schlafen."
         sequence-64:
           s: 64
           from: "00:07:09,15"
           to: "00:07:19,15"
-          text: ~
+          text: "Am längsten war ich in Hagen."
         sequence-65:
           s: 65
           from: "00:07:19,15"
           to: "00:07:32,00"
-          text: ~
+          text: "In Wickede musste ich um fünf Uhr morgens aufstehen, 2km zum Bahnhof laufen,"
         sequence-66:
           s: 66
           from: "00:07:32,00"
           to: "00:07:38,07"
-          text: ~
+          text: "70km mit dem Zug fahren und dann zur Arbeit laufen."
         sequence-67:
           s: 67
           from: "00:07:38,07"
           to: "00:07:44,02"
-          text: ~
+          text: "Manchmal kam ich erst um neun Uhr abends zurück."
         sequence-68:
           s: 68
           from: "00:07:44,02"
           to: "00:07:49,07"
-          text: ~
+          text: "Es gab auch schreckliche Episoden, aber nicht so oft."
         sequence-69:
           s: 69
           from: "00:07:49,07"
           to: "00:07:59,06"
-          text: ~
+          text: |-
+              Sie würden uns ungefähr um 10:30 abends kontrollieren. 
+              Wir mussten uns im Flur aufstellen.
         sequence-70:
           s: 70
           from: "00:07:59,06"
           to: "00:08:10,03"
-          text: ~
+          text: |-
+              Einer von uns schlief in einer Ecke ein anderer war krank
+              und sie schickten uns raus um Übungen zu machen.
         sequence-71:
           s: 71
           from: "00:08:10,03"
           to: "00:08:19,18"
-          text: ~
+          text: |-
+              Wir trugen Holzschuhe die man leicht verlor,
+              wenn man die drei Stufen hinab ging, die zu jeder Hütte führten.
         sequence-72:
           s: 72
           from: "00:08:19,18"
           to: "00:08:25,10"
-          text: ~
+          text: "Dann ließen sie uns stundenlang im Kreis gehen, manchmal im Regen."
         sequence-73:
           s: 73
           from: "00:08:25,10"
           to: "00:08:31,03"
-          text: ~
+          text: "Solche Episoden gab es nicht so oft, aber es gab sie bestimmt."
         sequence-74:
           s: 74
           from: "00:08:31,03"
@@ -378,34 +424,38 @@ de:
           s: 75
           from: "00:08:32,20"
           to: "00:08:39,25"
-          text: ~
+          text: |-
+              Ich wurde am 16. September festgenommen,
+              oder besser gesagt, wir wurden in einen Zug geladen
         sequence-76:
           s: 76
           from: "00:08:39,25"
           to: "00:08:44,17"
-          text: ~
+          text: "und ich kam erst zwei Jahre später nach Hause – am 14. September."
         sequence-77:
           s: 77
           from: "00:08:44,17"
           to: "00:08:52,05"
-          text: ~
+          text: "Wir waren in der Nähe des Ruhrgebiets, wo die meisten Waffenfabriken waren."
         sequence-78:
           s: 78
           from: "00:08:52,05"
           to: "00:09:04,20"
-          text: ~
+          text: |-
+              Auch die Panzerfabriken, die von den Amerikanern
+              mit speziellen Bomben angegriffen wurden.
         sequence-79:
           s: 79
           from: "00:09:04,20"
           to: "00:09:09,17"
-          text: ~
+          text: "Wir wurden jede Nacht bombardiert, ich dachte gar nicht mehr daran weg zu rennen,"
         sequence-80:
           s: 80
           from: "00:09:09,17"
           to: "00:09:14,24"
-          text: ~
+          text: "denn das hieße eben unter diesen Bomben zu rennen."
         sequence-81:
           s: 81
           from: "00:09:14,24"
           to: "00:09:17,03"
-          text: ~
+          text: "Das war es, was wir durchmachten."

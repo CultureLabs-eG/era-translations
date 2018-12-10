@@ -2,48 +2,48 @@ it:
   fernando-cavazzini:
     chapter-12:
       c: 12
-      title: ~
+      title: "La Liberazione di Reggio Emilia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,24"
           to: "00:00:06,04"
-          text: ~
+          text: "Dopo che abbiamo fatto saltare i ponti dovevi andar giù, con la tua squadra a Reggio,"
         sequence-2:
           s: 2
           from: "00:00:06,04"
           to: "00:00:12,27"
-          text: ~
+          text: "e al Buco del Signore per sentire le situazioni che c’erano."
         sequence-3:
           s: 3
           from: "00:00:12,27"
           to: "00:00:19,17"
-          text: ~
+          text: "Poi alle 8 arriverà la 26° Brigata per l’entrata in città."
         sequence-4:
           s: 4
           from: "00:00:19,17"
           to: "00:00:23,19"
-          text: ~
+          text: "Perciò il mio compito era far saltare i ponti per fermare i tedeschi."
         sequence-5:
           s: 5
           from: "00:00:23,19"
           to: "00:00:30,22"
-          text: ~
+          text: "E secondo, il giorno del 24 partire e arrivare al Buco del Signore."
         sequence-6:
           s: 6
           from: "00:00:30,22"
           to: "00:00:34,02"
-          text: ~
+          text: "Abbiam fatto saltare i ponti,"
         sequence-7:
           s: 7
           from: "00:00:34,02"
           to: "00:00:38,27"
-          text: ~
+          text: "e alla sera alle 5 ero al Buco del Signore con tutta la mia squadra."
         sequence-8:
           s: 8
           from: "00:00:38,27"
           to: "00:00:46,14"
-          text: ~
+          text: "E’ stato… ho lasciato la montagna, una famiglia che era molto brava…piangevamo tutti, perché ci staccavamo insomma…"
         sequence-9:
           s: 9
           from: "00:00:46,14"
@@ -53,57 +53,57 @@ it:
           s: 10
           from: "00:00:48,16"
           to: "00:00:53,16"
-          text: ~
+          text: "…e infatti la brigata è arrivata alle 8, e alle 10 siamo partiti."
         sequence-11:
           s: 11
           from: "00:00:53,16"
           to: "00:01:00,06"
-          text: ~
+          text: "Luigi ha dato l’ordine al sottoscritto di partire in testa alla brigata"
         sequence-12:
           s: 12
           from: "00:01:00,06"
           to: "00:01:06,09"
-          text: ~
+          text: "per poter guardare e andare molto lenti che non ci siano magari in giro delle mine o delle trappole…"
         sequence-13:
           s: 13
           from: "00:01:06,09"
           to: "00:01:10,23"
-          text: ~
+          text: "infatti siamo entrati pian piano e siamo arrivati a porta San Pietro."
         sequence-14:
           s: 14
           from: "00:01:10,23"
           to: "00:01:17,23"
-          text: ~
+          text: "Abbiamo attraversato la circonvallazione, che c’era in corso una colonna alleata a piedi"
         sequence-15:
           s: 15
           from: "00:01:17,23"
           to: "00:01:22,20"
-          text: ~
+          text: "che passava che masticavano…. il chewing-gum, noi non sapevamo cos’era il chewing-gum, masticavano"
         sequence-16:
           s: 16
           from: "00:01:22,20"
           to: "00:01:30,12"
-          text: ~
+          text: "e se inoltre non si sentivano a passare perché avevano le scarpe con il caucciù sotto, con la gomma, invece noi facevamo un casino tremendo."
         sequence-17:
           s: 17
           from: "00:01:30,12"
           to: "00:01:34,14"
-          text: ~
+          text: "E siamo entrati da San Pietro e avanti siamo arrivati fino in centro,"
         sequence-18:
           s: 18
           from: "00:01:34,14"
           to: "00:01:37,03"
-          text: ~
+          text: "poi abbiamo fatto delle postazioni."
         sequence-19:
           s: 19
           from: "00:01:37,03"
           to: "00:01:40,27"
-          text: ~
+          text: "Mi ricordo che sono andato a mangiare con la mia squadra e altri,"
         sequence-20:
           s: 20
           from: "00:01:40,27"
           to: "00:01:47,10"
-          text: ~
+          text: "lì in piazza Prampolini, andando verso il municipio, a destra, lì c’era il ristorante, abbiam mangiato lì… una minestrina."
         sequence-21:
           s: 21
           from: "00:01:47,10"
@@ -113,67 +113,67 @@ it:
           s: 22
           from: "00:01:47,18"
           to: "00:01:51,14"
-          text: ~
+          text: "Eravamo intossicati di formaggio,"
         sequence-23:
           s: 23
           from: "00:01:51,14"
           to: "00:01:59,16"
-          text: ~
+          text: "guarda che mangiavi per mesi formaggio e pane e pane e burro,"
         sequence-24:
           s: 24
           from: "00:01:59,16"
           to: "00:02:06,26"
-          text: ~
+          text: "ma io ero più fortunato perché ero sempre in giro, in particolare in collina, la bassa,"
         sequence-25:
           s: 25
           from: "00:02:06,26"
           to: "00:02:13,04"
-          text: ~
+          text: "e allora succedeva che noi andavamo a mangiare nelle famiglie, e allora il trattamento era tutta una cosa diversa, in poche parole."
         sequence-26:
           s: 26
           from: "00:02:13,04"
           to: "00:02:17,29"
-          text: ~
+          text: "Poi il mattino… durante la notte abbiamo fatto una postazione a Santo Stefano,"
         sequence-27:
           s: 27
           from: "00:02:17,29"
           to: "00:02:25,28"
-          text: ~
+          text: "e han fatto la base lì nel corridoio di Pecorari, che costruiva le biciclette, lo conoscevo, siamo andati lì."
         sequence-28:
           s: 28
           from: "00:02:25,28"
           to: "00:02:30,10"
-          text: ~
+          text: "Poi il mattino dopo ho detto: “Ragazzi mi devo assentare un paio d’ore"
         sequence-29:
           s: 29
           from: "00:02:30,10"
           to: "00:02:35,12"
-          text: ~
+          text: "che vado al comando – ho raccontato una balla – Voi state lì”."
         sequence-30:
           s: 30
           from: "00:02:35,12"
           to: "00:02:41,09"
-          text: ~
+          text: "Sono andato da un mio zio che abitava proprio poco distante, mi son fatto dare una bicicletta e sono andato a casa."
         sequence-31:
           s: 31
           from: "00:02:41,09"
           to: "00:02:49,18"
-          text: ~
+          text: "Ma casa, a Cella, lì dove abitavo io, alla Via Emilia, l’ha saputo prima, che c’era stata la Liberazione…"
         sequence-32:
           s: 32
           from: "00:02:49,18"
           to: "00:02:57,24"
-          text: ~
+          text: "Io sono arrivato a casa che saran state, non so, le 9.30, le 10… era poco che l’avevano saputo che c’era la Liberazione."
         sequence-33:
           s: 33
           from: "00:02:57,24"
           to: "00:03:01,20"
-          text: ~
+          text: "Io sono stato uno dei primi partigiani a farmi vivo, in maniera che tutti…"
         sequence-34:
           s: 34
           from: "00:03:01,20"
           to: "00:03:03,24"
-          text: ~
+          text: "è stato un disastro…"
         sequence-35:
           s: 35
           from: "00:03:03,24"
@@ -183,42 +183,42 @@ it:
           s: 36
           from: "00:03:04,09"
           to: "00:03:09,14"
-          text: ~
+          text: "Mi baciavano, abbracciavano… io che sono molto emotivo piangevo, e non riuscivo a trattenermi dal pianto."
         sequence-37:
           s: 37
           from: "00:03:09,14"
           to: "00:03:16,01"
-          text: ~
+          text: "Mio padre: “Lasciatelo stare, non è morto in montagna, lo fate morire qui?”."
         sequence-38:
           s: 38
           from: "00:03:16,01"
           to: "00:03:18,06"
-          text: ~
+          text: "Dopo sono andato dov’era il pozzo lì,"
         sequence-39:
           s: 39
           from: "00:03:18,06"
           to: "00:03:25,03"
-          text: ~
+          text: "mi sono bagnato con dell’acqua fresca e mi sono messo a posto, poi sono tornato a Reggio"
         sequence-40:
           s: 40
           from: "00:03:25,03"
           to: "00:03:33,06"
-          text: ~
+          text: "che c’era, a Cella tutte le ragazze giovani, in colonna, a piedi, che sono andate a Reggio per entrare in città."
         sequence-41:
           s: 41
           from: "00:03:33,06"
           to: "00:03:42,08"
-          text: ~
+          text: "Poi man mano che arrivavano a Reggio, perché passavano già gli alleati, ecc… a Reggio tutte da Pieve Modolena, Cavazzoli, via…"
         sequence-42:
           s: 42
           from: "00:03:42,08"
           to: "00:03:44,15"
-          text: ~
+          text: "hanno fatto una colonna che non finiva più…"
         sequence-43:
           s: 43
           from: "00:03:44,15"
           to: "00:03:51,19"
-          text: ~
+          text: "poi sono arrivate a Santo Stefano, l’ordine era di non entrare in città perché c’erano i franchi tiratori che sparavano avanti e indietro così."
         sequence-44:
           s: 44
           from: "00:03:51,19"
@@ -228,37 +228,37 @@ it:
           s: 45
           from: "00:03:52,05"
           to: "00:03:54,05"
-          text: ~
+          text: "Quando c’è stata poi la Liberazione,"
         sequence-46:
           s: 46
           from: "00:03:54,05"
           to: "00:03:59,28"
-          text: ~
+          text: "i tedeschi, sulla Via Emilia, i partigiani c’han spostato la segnaletica,"
         sequence-47:
           s: 47
           from: "00:03:59,28"
           to: "00:04:04,06"
-          text: ~
+          text: "anziché segnare Milano, li han fatti andare nella bassa."
         sequence-48:
           s: 48
           from: "00:04:04,06"
           to: "00:04:07,11"
-          text: ~
+          text: "Nella bassa si son trovati con tutti i ponti saltati"
         sequence-49:
           s: 49
           from: "00:04:07,11"
           to: "00:04:12,25"
-          text: ~
+          text: "ed è stato un casino per loro, finché sono arrivati a Boretto,"
         sequence-50:
           s: 50
           from: "00:04:12,25"
           to: "00:04:22,11"
-          text: ~
+          text: "con fatica lì hanno lasciato migliaia di carri armati, cavalli… un po’ di tutto insomma, un bottino enorme."
         sequence-51:
           s: 51
           from: "00:04:22,11"
           to: "00:04:26,00"
-          text: ~
+          text: "I tedeschi nessuno è riuscito a passare, o pochi, il Po."
         sequence-52:
           s: 52
           from: "00:04:26,00"
@@ -268,29 +268,29 @@ it:
           s: 53
           from: "00:04:26,19"
           to: "00:04:31,24"
-          text: ~
+          text: "Per me è stata la mia università, la Resistenza."
         sequence-54:
           s: 54
           from: "00:04:31,24"
           to: "00:04:39,29"
-          text: ~
+          text: "Perché ho imparato che io non mi sono mai trovato a disagio in tutta la vita, mi son sempre sentito sicuro."
         sequence-55:
           s: 55
           from: "00:04:39,29"
           to: "00:04:46,21"
-          text: ~
+          text: "Perciò ho fatto la cooperativa che eran tutti contrari: Consorzio, Federcoop, ecc. M’han riso in faccia, m’han detto:"
         sequence-56:
           s: 56
           from: "00:04:46,21"
           to: "00:04:54,19"
-          text: ~
+          text: "“Ma cosa fai la cooperativa che è tutto in fallimento, tu non hai neanche esperienza, perciò anche se ci fossero le condizioni, tu non sei all’altezza di andare a reggere una cooperativa”."
         sequence-57:
           s: 57
           from: "00:04:54,19"
           to: "00:05:03,00"
-          text: ~
+          text: "Io ho detto: “Ma voi avete sbagliato tutto, io sono stato nella Resistenza, e la Resistenza ho imparato molto, è stata la mia università,"
         sequence-58:
           s: 58
           from: "00:05:03,00"
           to: "00:05:05,26"
-          text: ~
+          text: "abbiam fatto cose che voi non immaginate neanche”. La cooperativa l’ho fatta."

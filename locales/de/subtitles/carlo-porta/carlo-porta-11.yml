@@ -2,30 +2,34 @@ de:
   carlo-porta:
     chapter-11:
       c: 11
-      title: ~
+      title: Anppia
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:05,20"
-          text: ~
+          text: "ANPPIA ist eine 1948 gegründete Organisation,"
         sequence-2:
           s: 2
           from: "00:00:05,20"
           to: "00:00:15,26"
-          text: ~
+          text: |-
+              in Reggio Emilia, die immer noch Dokumente
+              über mehr als 2000 Antifaschisten hält.
         sequence-3:
           s: 3
           from: "00:00:15,26"
           to: "00:00:20,23"
-          text: ~
+          text: "Es ist eine Mission, auf die wir wirklich stolz sind."
         sequence-4:
           s: 4
           from: "00:00:20,23"
           to: "00:00:29,26"
-          text: ~
+          text: |-
+              ANNPIA ist der Verband der
+              Verfolgten italienischen politischen Antifaschisten.
         sequence-5:
           s: 5
           from: "00:00:29,26"
           to: "00:00:35,16"
-          text: ~
+          text: "und immer wenn wir können, arbeiten wir daran, allen von unseren Geschichten zu erzählen."

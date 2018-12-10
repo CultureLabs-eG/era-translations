@@ -2,28 +2,28 @@ it:
   fernando-cavazzini:
     chapter-8:
       c: 8
-      title: ~
+      title: "Sabotaggio; Rastrellamento luglio 1944"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,12"
           to: "00:00:04,07"
-          text: ~
+          text: "Io ho fatto un corso per sabotatori. Eravamo circa in 5, mi sembra,"
         sequence-2:
           s: 2
           from: "00:00:04,07"
           to: "00:00:11,19"
-          text: ~
+          text: "perché poi gli alleati continuavano a mandare giù degli esplosivi e nessuno sapeva usarlo."
         sequence-3:
           s: 3
           from: "00:00:11,19"
           to: "00:00:16,22"
-          text: ~
+          text: "Se non che dopo è successo che hanno lanciato un sabotatore, uno che ci ha istruito, e così."
         sequence-4:
           s: 4
           from: "00:00:16,22"
           to: "00:00:22,18"
-          text: ~
+          text: "Cioè il nostro compito era quello di far saltare dei ponti, delle ferrovie e compagnia bella."
         sequence-5:
           s: 5
           from: "00:00:22,18"
@@ -33,47 +33,47 @@ it:
           s: 6
           from: "00:00:33,19"
           to: "00:00:36,26"
-          text: ~
+          text: "Lui ci ha insegnato come usare gli esplosivi,"
         sequence-7:
           s: 7
           from: "00:00:36,26"
           to: "00:00:47,02"
-          text: ~
+          text: "le mine come farle, come si fa per far saltare la ferrovia, come si fa per far saltare le strade, per far saltare una colonna militare, tutte queste cose."
         sequence-8:
           s: 8
           from: "00:00:47,02"
           to: "00:00:53,19"
-          text: ~
+          text: "Che poi dopo con la pratica noi altri abbiamo anche superato il nostro istruttore in poche parole,"
         sequence-9:
           s: 9
           from: "00:00:53,19"
           to: "00:00:57,24"
-          text: ~
+          text: "perché questi istruttori secondo me li formavano così alla garibaldina,"
         sequence-10:
           s: 10
           from: "00:00:57,24"
           to: "00:01:03,10"
-          text: ~
+          text: "gli insegnavano le cose principali poi li lanciavano nelle zone partigiane."
         sequence-11:
           s: 11
           from: "00:01:03,10"
           to: "00:01:12,00"
-          text: ~
+          text: "Invece noi siamo partiti da zero e poi dopo cercavamo anche di migliorare la nostra preparazione militare."
         sequence-12:
           s: 12
           from: "00:01:12,00"
           to: "00:01:21,19"
-          text: ~
+          text: "Tant’è vero che per esempio un ponte sulla Statale 63 ci impiegavamo anche un’ora e mezza prima di farlo saltare"
         sequence-13:
           s: 13
           from: "00:01:21,19"
           to: "00:01:24,25"
-          text: ~
+          text: "perché erano tutti sassi ecc."
         sequence-14:
           s: 14
           from: "00:01:24,25"
           to: "00:01:30,26"
-          text: ~
+          text: "Dopo noi riuscivamo, cambiando sistema, in un quarto d’ora facevamo saltare il ponte."
         sequence-15:
           s: 15
           from: "00:01:30,26"
@@ -83,219 +83,219 @@ it:
           s: 16
           from: "00:01:33,00"
           to: "00:01:38,10"
-          text: ~
+          text: "Quando c’è stato il grande rastrellamento di luglio,"
         sequence-17:
           s: 17
           from: "00:01:38,10"
           to: "00:01:44,16"
-          text: ~
+          text: "lì succedeva che minatori c’eravamo in due o in tre, non di più,"
         sequence-18:
           s: 18
           from: "00:01:44,16"
           to: "00:01:51,08"
-          text: ~
+          text: "ma eravamo un po’ sparsi perché la battaglia è cominciata alle 4 del mattino,"
         sequence-19:
           s: 19
           from: "00:01:51,08"
           to: "00:01:58,01"
-          text: ~
+          text: "praticamente alla sera ormai tutta la zona partigiana era occupata dai tedeschi."
         sequence-20:
           s: 20
           from: "00:01:58,01"
           to: "00:02:03,21"
-          text: ~
+          text: "E noi eravamo a Carpineti e avevamo raggiunto Costabona,"
         sequence-21:
           s: 21
           from: "00:02:03,21"
           to: "00:02:07,22"
-          text: ~
+          text: "e lì c’era il paese che bruciava,"
         sequence-22:
           s: 22
           from: "00:02:07,22"
           to: "00:02:16,20"
-          text: ~
+          text: "i tedeschi avevano bruciato tutto il paese e bruciato anche i raccolti, il grano sui campi, hanno bruciato anche quello lì…"
         sequence-23:
           s: 23
           from: "00:02:16,20"
           to: "00:02:19,21"
-          text: ~
+          text: "era una cosa desolante, proprio."
         sequence-24:
           s: 24
           from: "00:02:19,21"
           to: "00:02:25,06"
-          text: ~
+          text: "E noi che eravamo ancora intatti, eravamo una trentina lì del distaccamento Bedeschi,"
         sequence-25:
           s: 25
           from: "00:02:25,06"
           to: "00:02:33,16"
-          text: ~
+          text: "poi c’era un distaccamento modenese che era uno di quelli che collaboravano con noi nei primi tempi."
         sequence-26:
           s: 26
           from: "00:02:33,16"
           to: "00:02:35,22"
-          text: ~
+          text: "Ci siamo uniti lì a Costabona,"
         sequence-27:
           s: 27
           from: "00:02:35,22"
           to: "00:02:38,25"
-          text: ~
+          text: "decisi di affrontare i tedeschi,"
         sequence-28:
           s: 28
           from: "00:02:38,25"
           to: "00:02:45,07"
-          text: ~
+          text: "che oramai (guardavo anche la piantina l’altro giorno) i tedeschi avevano occupato tutta la zona."
         sequence-29:
           s: 29
           from: "00:02:45,07"
           to: "00:02:50,00"
-          text: ~
+          text: "Però anche per noi era dura sganciarsi durante la notte."
         sequence-30:
           s: 30
           from: "00:02:50,00"
           to: "00:02:54,26"
-          text: ~
+          text: "“Stiamo qui, domani facciamo resistenza”."
         sequence-31:
           s: 31
           from: "00:02:54,26"
           to: "00:02:57,05"
-          text: ~
+          text: "Avevamo anche un mortaio, ecc."
         sequence-32:
           s: 32
           from: "00:02:57,05"
           to: "00:03:03,02"
-          text: ~
+          text: "e infatti… Però prima di fare… dobbiamo far saltare il ponte del Secchiello."
         sequence-33:
           s: 33
           from: "00:03:03,02"
           to: "00:03:08,27"
-          text: ~
+          text: "Sono andato giù io da una parte, prima, per protezione, e poi sono andato sotto il ponte,"
         sequence-34:
           s: 34
           from: "00:03:08,27"
           to: "00:03:14,19"
-          text: ~
+          text: "ma quel ponte lì era già controllato dai tedeschi. I tedeschi erano già sul Secchiello..."
         sequence-35:
           s: 35
           from: "00:03:14,19"
           to: "00:03:18,03"
-          text: ~
+          text: "che era anche difficile da far saltare…"
         sequence-36:
           s: 36
           from: "00:03:18,03"
           to: "00:03:23,11"
-          text: ~
+          text: "però dato tutto questo casino che c’era vado sotto, metto le mine,"
         sequence-37:
           s: 37
           from: "00:03:23,11"
           to: "00:03:29,01"
-          text: ~
+          text: "il ponte era in ferro però prima del ponte c’era un sasso che era alto quasi come questo piano…"
         sequence-38:
           s: 38
           from: "00:03:29,01"
           to: "00:03:34,27"
-          text: ~
+          text: "io accendo la miccia, faccio un salto ed è un attimo…"
         sequence-39:
           s: 39
           from: "00:03:34,27"
           to: "00:03:44,06"
-          text: ~
+          text: "ma i tedeschi, quando ho acceso la miccia, si vede che han sentito un po’ di movimento han lanciato dei razzi, dei bengala,"
         sequence-40:
           s: 40
           from: "00:03:44,06"
           to: "00:03:51,08"
-          text: ~
+          text: "ma io ho fatto il salto subito, quando i bengala sono andati su, e mi sono messo dietro il sasso."
         sequence-41:
           s: 41
           from: "00:03:51,08"
           to: "00:04:00,27"
-          text: ~
+          text: "I nostri sapevano già che loro, quando i tedeschi sparavano, dovevano sparare anche loro per darmi la possibilità della ritirata, in poche parole."
         sequence-42:
           s: 42
           from: "00:04:00,27"
           to: "00:04:05,22"
-          text: ~
+          text: "Infatti c’è stata una sparatoria notevole, fra i tedeschi e i nostri."
         sequence-43:
           s: 43
           from: "00:04:05,22"
           to: "00:04:09,25"
-          text: ~
+          text: "Io pian piano mi sono ritirato, incolume in poche parole…"
         sequence-44:
           s: 44
           from: "00:04:09,25"
           to: "00:04:19,28"
-          text: ~
+          text: "E poi il mattino dopo i tedeschi hanno cercato per due volte di raggiungere Costabona,"
         sequence-45:
           s: 45
           from: "00:04:19,28"
           to: "00:04:22,22"
-          text: ~
+          text: "noi li abbiamo sempre respinti,"
         sequence-46:
           s: 46
           from: "00:04:22,22"
           to: "00:04:29,23"
-          text: ~
+          text: "siccome c’erano degli alberi, delle piante, delle querce, coi mitra, eravamo appostati, due volte li abbiamo respinti."
         sequence-47:
           s: 47
           from: "00:04:29,23"
           to: "00:04:33,13"
-          text: ~
+          text: "E loro avevano le mitragliatrici, c’erano le autoblinde."
         sequence-48:
           s: 48
           from: "00:04:33,13"
           to: "00:04:39,02"
-          text: ~
+          text: "Il ponte l’abbiam fatto saltare per evitare che passassero con le autoblinde, con i mezzi pesanti…"
         sequence-49:
           s: 49
           from: "00:04:39,02"
           to: "00:04:52,17"
-          text: ~
+          text: "con le energie potevamo difenderci, ma di fronte alle armi pesanti no, che non ne avevamo. E lì è successo che abbiam fatto saltare il ponte e al mattino abbiam fatto la resistenza."
         sequence-50:
           s: 50
           from: "00:04:52,17"
           to: "00:05:11,22"
-          text: ~
+          text: "Poi alla sera ci siamo sganciati, pian piano ci siamo portati quella notte lì sopra Civago, presso la segheria, in quel bosco lì, la segheria di Civago. E lì ci siamo stati tutto il giorno… siamo arrivati prima dell’alba e tutto il giorno successivo."
         sequence-51:
           s: 51
           from: "00:05:11,22"
           to: "00:05:21,04"
-          text: ~
+          text: "Poi alla notte successiva siamo passati dal Passone, che il Passone è di fianco al Cusna"
         sequence-52:
           s: 52
           from: "00:05:21,04"
           to: "00:05:32,02"
-          text: ~
+          text: "e siamo andati praticamente nella zona dove c’è il rifugio Cesare Battisti, che era già stato bruciato praticamente."
         sequence-53:
           s: 53
           from: "00:05:32,02"
           to: "00:05:36,04"
-          text: ~
+          text: "E siamo stati in zona per 12 giorni,"
         sequence-54:
           s: 54
           from: "00:05:36,04"
           to: "00:05:39,28"
-          text: ~
+          text: "e pioveva spesso, e non avevamo niente da coprirci."
         sequence-55:
           s: 55
           from: "00:05:39,28"
           to: "00:05:46,01"
-          text: ~
+          text: "Io sono stato fortunato che io e un altro ci han dato la disposizione di andare a Ligonchio"
         sequence-56:
           s: 56
           from: "00:05:46,01"
           to: "00:05:51,05"
-          text: ~
+          text: "per prendere informazioni dei movimenti tedeschi, tutte quelle cose lì,"
         sequence-57:
           s: 57
           from: "00:05:51,05"
           to: "00:05:55,09"
-          text: ~
+          text: "e a cercare di raccogliere un po’ dei viveri da portare su."
         sequence-58:
           s: 58
           from: "00:05:55,09"
           to: "00:06:04,08"
-          text: ~
+          text: "Io la notte andavo su, tutte le notti con del pane, del formaggio, quello che potevo trovare, in più davo le notizie."
         sequence-59:
           s: 59
           from: "00:06:04,08"
           to: "00:06:08,00"
-          text: ~
+          text: "Finché dopo un po’ di giorni i tedeschi sono andati via e ho detto: “La zona è libera”."
