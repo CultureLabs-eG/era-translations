@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:47,14"
           to: "00:01:00,02"
-          text: ~
+          text: "con l'inverno della fame, in cui le condizioni alimentari per la popolazione peggiorarono."
         sequence-12:
           s: 12
           from: "00:01:00,02"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:01,14"
           to: "00:01:05,19"
-          text: ~
+          text: "Iniziai la scuola nel 1919."
         sequence-14:
           s: 14
           from: "00:01:05,19"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:07,06"
           to: "00:01:13,05"
-          text: ~
+          text: "Non era molto distante da casa nostra."
         sequence-16:
           s: 16
           from: "00:01:13,05"
@@ -118,12 +118,12 @@ it:
           s: 23
           from: "00:01:53,03"
           to: "00:02:01,09"
-          text: ~
+          text: "e che vennero inseriti nel sistema scolastico, come per esempio"
         sequence-24:
           s: 24
           from: "00:02:01,09"
           to: "00:02:10,09"
-          text: ~
+          text: "insegnanti di ginnastica o religione che non possedevano competenze educative."
         sequence-25:
           s: 25
           from: "00:02:10,09"
@@ -133,22 +133,22 @@ it:
           s: 26
           from: "00:02:23,05"
           to: "00:02:37,03"
-          text: ~
+          text: "All'inizio dell'ora ci dava subito due o tre bacchettate. Era tipico di quando arrivava."
         sequence-27:
           s: 27
           from: "00:02:37,03"
           to: "00:02:51,20"
-          text: ~
+          text: "Inoltre ero denutrito, perciò ricevevo l'aiuto dei quaccheri."
         sequence-28:
           s: 28
           from: "00:02:51,20"
           to: "00:03:00,06"
-          text: ~
+          text: "Erano degli americani che facevano parte dell'organizzazione dei quaccheri"
         sequence-29:
           s: 29
           from: "00:03:00,06"
           to: "00:03:05,08"
-          text: ~
+          text: "e ricevevo mezzo litro di zuppa di latte e un panino."
         sequence-30:
           s: 30
           from: "00:03:05,08"
@@ -158,4 +158,4 @@ it:
           s: 31
           from: "00:03:06,04"
           to: "00:03:30,00"
-          text: ~
+          text: "Dobbiamo ricordare che era il 1920/21. La guerra era finita ma c'erano ancora molti problemi."
