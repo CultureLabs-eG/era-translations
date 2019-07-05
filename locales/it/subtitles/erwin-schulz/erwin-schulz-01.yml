@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:04,05"
           to: "00:00:13,08"
-          text: "Sono nato il 13 ottobre 1912 a (Berlino) Tempelhof."
+          text: "Sono nato il 13 ottobre 1912 a Tempelhof (Berlino)."
         sequence-4:
           s: 4
           from: "00:00:13,08"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:14,13"
           to: "00:00:25,01"
-          text: ~
+          text: "Il periodo di guerra non fu facile per mia madre."
         sequence-6:
           s: 6
           from: "00:00:25,01"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:26,06"
           to: "00:00:30,29"
-          text: ~
+          text: "Nel 1915 nacque mia sorella."
         sequence-8:
           s: 8
           from: "00:00:30,29"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:32,29"
           to: "00:00:46,05"
-          text: ~
+          text: "E tutto si aggravò nel 1917 (mio padre venne arruolato nell'esercito come soldato)"
         sequence-10:
           s: 10
           from: "00:00:46,05"
