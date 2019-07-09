@@ -2,7 +2,7 @@ it:
   erwin-schulz:
     chapter-1:
       c: 1
-      title: ~
+      title: "Introduzione, scuola e sottoalimentazione"
       subtitles:
         sequence-1:
           s: 1
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:14,16"
           to: "00:01:26,26"
-          text: ~
+          text: "La figura dell'educatore si sviluppò in seguito."
         sequence-18:
           s: 18
           from: "00:01:26,26"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:28,28"
           to: "00:01:39,14"
-          text: ~
+          text: "Dei miei insegnanti nessuno era un educatore."
         sequence-20:
           s: 20
           from: "00:01:39,14"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:40,28"
           to: "00:01:51,23"
-          text: ~
+          text: "Alcuni insegnanti furono smobilitati dall'armata imperiale"
         sequence-22:
           s: 22
           from: "00:01:51,23"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:01:53,03"
           to: "00:02:01,09"
-          text: "e che vennero inseriti nel sistema scolastico, come per esempio"
+          text: "e vennero inseriti nel sistema scolastico, come per esempio"
         sequence-24:
           s: 24
           from: "00:02:01,09"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:10,09"
           to: "00:02:23,05"
-          text: ~
+          text: "Mi ricordo l'insegnante di allora; era un vero prepotente."
         sequence-26:
           s: 26
           from: "00:02:23,05"
@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:02:37,03"
           to: "00:02:51,20"
-          text: "Inoltre ero denutrito, perciò ricevevo l'aiuto dei quaccheri."
+          text: "Inoltre ero denutrito, perciò ricevevo l'aiuto dei Quaccheri."
         sequence-28:
           s: 28
           from: "00:02:51,20"
           to: "00:03:00,06"
-          text: "Erano degli americani che facevano parte dell'organizzazione dei quaccheri"
+          text: "Erano degli americani che facevano parte della Società degli Amici"
         sequence-29:
           s: 29
           from: "00:03:00,06"
