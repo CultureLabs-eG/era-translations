@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-3:
       c: 3
-      title: ~
+      title: "Fichte: gruppo sportivo dei lavoratori."
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:09,21"
-          text: ~
+          text: "Nel 1922 entrai nell'associazione sportiva dei lavoratori \"Fichte\""
         sequence-2:
           s: 2
           from: "00:00:09,21"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:11,22"
           to: "00:00:20,18"
-          text: ~
+          text: "e negli anni successivi ci allenavamo due volte alla settimana."
         sequence-4:
           s: 4
           from: "00:00:20,18"
           to: "00:00:28,00"
-          text: ~
+          text: "Abbiamo avuto una certa influenza."
         sequence-5:
           s: 5
           from: "00:00:28,00"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:29,05"
           to: "00:00:37,17"
-          text: ~
+          text: "Mia sorella faceva parte della Fichte e perciò ci sono entrato anche io."
         sequence-7:
           s: 7
           from: "00:00:37,17"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:38,12"
           to: "00:00:43,03"
-          text: ~
+          text: "Ero l'unico della mia classe."
         sequence-9:
           s: 9
           from: "00:00:43,03"
           to: "00:00:49,23"
-          text: ~
+          text: "La maggior parte erano insegnanti reazionari"
         sequence-10:
           s: 10
           from: "00:00:49,23"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:50,18"
           to: "00:00:55,17"
-          text: ~
+          text: "che non avevano in mente niente."
         sequence-12:
           s: 12
           from: "00:00:55,17"
@@ -68,27 +68,27 @@ it:
           s: 13
           from: "00:00:56,26"
           to: "00:01:11,21"
-          text: ~
+          text: "Mi sentivo bene alla Fichte. Era bello stare insieme ad altri della mia età e giocare con loro."
         sequence-14:
           s: 14
           from: "00:01:11,21"
           to: "00:01:19,23"
-          text: ~
+          text: "La domenica a volte facevamo delle gite vicino a Berlino."
         sequence-15:
           s: 15
           from: "00:01:19,23"
           to: "00:01:33,04"
-          text: ~
+          text: "Ci sentivamo al sicuro tra coetanei e sotto la guida dei più grandi."
         sequence-16:
           s: 16
           from: "00:01:33,04"
           to: "00:01:39,13"
-          text: ~
+          text: "Durante le passeggiate ci facevano notare tante cose"
         sequence-17:
           s: 17
           from: "00:01:39,13"
           to: "00:01:48,27"
-          text: ~
+          text: "che ci colpivano particolarmente."
         sequence-18:
           s: 18
           from: "00:01:48,27"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:49,25"
           to: "00:02:01,04"
-          text: ~
+          text: "Il movimento sportivo dei lavoratori era già stato fondato un secolo prima,"
         sequence-20:
           s: 20
           from: "00:02:01,04"

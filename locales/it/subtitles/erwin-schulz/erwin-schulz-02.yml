@@ -2,7 +2,7 @@ it:
   erwin-schulz:
     chapter-2:
       c: 2
-      title: ~
+      title: "Apprendistato, inflazione."
       subtitles:
         sequence-1:
           s: 1
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:20,05"
           to: "00:02:28,24"
-          text: ~
+          text: "Al tempo"
         sequence-26:
           s: 26
           from: "00:02:28,24"
@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:02:30,03"
           to: "00:02:33,24"
-          text: ~
+          text: "gli studenti del liceo erano più grandi"
         sequence-28:
           s: 28
           from: "00:02:33,24"
           to: "00:02:42,20"
-          text: ~
+          text: "e un quattordicenne e un diciottenne avevano tipi di forza diversi."
         sequence-29:
           s: 29
           from: "00:02:42,20"
@@ -153,37 +153,37 @@ it:
           s: 30
           from: "00:02:43,29"
           to: "00:02:47,08"
-          text: ~
+          text: "Io volevo fare il tipografo."
         sequence-31:
           s: 31
           from: "00:02:47,08"
           to: "00:02:50,26"
-          text: ~
+          text: "Anche mio zio mi cercò un posto, ma venni rifiutato."
         sequence-32:
           s: 32
           from: "00:02:50,26"
           to: "00:02:57,02"
-          text: ~
+          text: "Allora l'altro zio mi disse: \"Allora sarai un muratore\", ma niente."
         sequence-33:
           s: 33
           from: "00:02:57,02"
           to: "00:03:06,17"
-          text: ~
+          text: "Mio padre era un fabbro, ma ancora niente. Tutti gli sforzi non erano serviti."
         sequence-34:
           s: 34
           from: "00:03:06,17"
           to: "00:03:23,03"
-          text: ~
+          text: "Poi iniziai a lavorare nell'azienda \"Jonas\" come giovane dipendente."
         sequence-35:
           s: 35
           from: "00:03:23,03"
           to: "00:03:25,16"
-          text: ~
+          text: "Al tempo ero un bravo fattorino. Era il 1927."
         sequence-36:
           s: 36
           from: "00:03:25,16"
           to: "00:03:33,19"
-          text: ~
+          text: "Nello stesso anno entrai nel sindacato, associazione dei lavoratori,"
         sequence-37:
           s: 37
           from: "00:03:33,19"
@@ -193,9 +193,9 @@ it:
           s: 38
           from: "00:03:34,11"
           to: "00:03:50,27"
-          text: ~
+          text: "e la sede era nello stesso edificio. Successivamente"
         sequence-39:
           s: 39
           from: "00:03:50,27"
           to: "00:03:57,00"
-          text: ~
+          text: "il lavoro nel sindacato portò al mio licenziamento dalla fabbrica."
