@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,12"
           to: "00:00:17,27"
-          text: "Una cosa che stimolò particolarmente la mia mentalità fu la pubblicazione"
+          text: "Una cosa che mi stimolò particolarmente, fu la pubblicazione"
         sequence-2:
           s: 2
           from: "00:00:17,27"

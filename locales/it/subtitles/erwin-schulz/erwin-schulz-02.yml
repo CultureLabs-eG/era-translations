@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:02:50,26"
           to: "00:02:57,02"
-          text: "Allora l'altro zio mi disse: \"Allora sarai un muratore\", ma niente."
+          text: "Poi l'altro zio mi disse: \"Allora sarai un muratore\", ma niente."
         sequence-33:
           s: 33
           from: "00:02:57,02"

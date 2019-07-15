@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,16"
           to: "00:00:06,17"
-          text: ~
+          text: "Ci eravamo già preparati a essere banditi."
         sequence-2:
           s: 2
           from: "00:00:06,17"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:07,17"
           to: "00:00:17,23"
-          text: ~
+          text: "Avremmo trovato un altro modo per continuare l'attività."
         sequence-4:
           s: 4
           from: "00:00:17,23"
@@ -28,17 +28,17 @@ it:
           s: 5
           from: "00:00:20,09"
           to: "00:00:28,28"
-          text: ~
+          text: "Per questo i membri (non tutti) si divisero in gruppi da cinque"
         sequence-6:
           s: 6
           from: "00:00:28,28"
           to: "00:00:36,14"
-          text: ~
+          text: "e uno guidava più gruppi da cinque, che poi diventarono gruppi da tre."
         sequence-7:
           s: 7
           from: "00:00:36,14"
           to: "00:00:43,18"
-          text: ~
+          text: "Così era più facile da ritracciare e per i raduni"
         sequence-8:
           s: 8
           from: "00:00:43,18"
