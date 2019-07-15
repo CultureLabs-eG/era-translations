@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,16"
           to: "00:00:10,29"
-          text: ~
+          text: "Allora i comunisti avevano lanciato lo slogan:"
         sequence-2:
           s: 2
           from: "00:00:10,29"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:11,23"
           to: "00:00:20,23"
-          text: ~
+          text: "\"Chi vota Hindenburg vota Hitler e chi vota Hitler, vota per la guerra.\""
         sequence-4:
           s: 4
           from: "00:00:20,23"
@@ -28,12 +28,12 @@ it:
           s: 5
           from: "00:00:21,16"
           to: "00:00:30,17"
-          text: ~
+          text: "La Grande Depressione incise sulla Germania."
         sequence-6:
           s: 6
           from: "00:00:30,17"
           to: "00:00:34,12"
-          text: ~
+          text: "Avevamo più di 6 milioni di disoccupati."
         sequence-7:
           s: 7
           from: "00:00:34,12"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:35,05"
           to: "00:00:52,01"
-          text: ~
+          text: "Nelle aziende si leggeva il cartello: \"Non assumiamo nessuno!\" Adesso non si fanno più quei cartelli."
         sequence-9:
           s: 9
           from: "00:00:52,01"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:54,05"
           to: "00:01:01,12"
-          text: ~
+          text: "La situazione di inquietudine e soprattutto la disoccupazione giovanile"
         sequence-11:
           s: 11
           from: "00:01:01,12"
@@ -63,12 +63,12 @@ it:
           s: 12
           from: "00:01:02,11"
           to: "00:01:08,10"
-          text: ~
+          text: "portarono al fenomeno della radicalizzazione."
         sequence-13:
           s: 13
           from: "00:01:08,10"
           to: "00:01:13,16"
-          text: ~
+          text: "Al tempo ci furono anche molti omicidi."
         sequence-14:
           s: 14
           from: "00:01:13,16"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:14,16"
           to: "00:01:18,18"
-          text: ~
+          text: "Gli oppositori politici vennero assassinati."
         sequence-16:
           s: 16
           from: "00:01:18,18"
