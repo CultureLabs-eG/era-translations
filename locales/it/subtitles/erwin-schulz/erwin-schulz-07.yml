@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-7:
       c: 7
-      title: ~
+      title: "Prigione di Luckau, lavoro, carcerazione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,10"
           to: "00:00:08,27"
-          text: ~
+          text: "Se ben ricordo, dalla stazione abbiamo raggiunto Luckau in catene."
         sequence-2:
           s: 2
           from: "00:00:08,27"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:10,11"
           to: "00:00:14,09"
-          text: ~
+          text: "Il cancello si chiuse dietro di noi."
         sequence-4:
           s: 4
           from: "00:00:14,09"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:15,06"
           to: "00:00:25,11"
-          text: ~
+          text: "Là ci vestirono, ci diedero gli abiti carcerari e presero tutte le nostre cose."
         sequence-6:
           s: 6
           from: "00:00:25,11"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:27,21"
           to: "00:00:31,00"
-          text: ~
+          text: "Poi ci misero in celle"
         sequence-8:
           s: 8
           from: "00:00:31,00"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:32,23"
           to: "00:00:38,23"
-          text: ~
+          text: "grandi 2x3 metri con altri tre uomini."
         sequence-10:
           s: 10
           from: "00:00:38,23"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:40,04"
           to: "00:00:49,15"
-          text: ~
+          text: "E qui saremmo dovuti vivere per alcuni mesi, anni."
         sequence-12:
           s: 12
           from: "00:00:49,15"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:50,11"
           to: "00:00:54,15"
-          text: ~
+          text: "La prigione di Luckau era sovraffollata."
         sequence-14:
           s: 14
           from: "00:00:54,15"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:00:55,12"
           to: "00:01:05,02"
-          text: ~
+          text: "In una cella da una persona, c'erano tre uomini. Nelle celle più grandi non so come fosse."
         sequence-16:
           s: 16
           from: "00:01:05,02"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:05,17"
           to: "00:01:15,17"
-          text: ~
+          text: "Eravamo isolati. Potevano uscire dalla cella solo mezz'ora durante l'ora libera."
         sequence-18:
           s: 18
           from: "00:01:15,17"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:17,14"
           to: "00:01:22,16"
-          text: ~
+          text: "Dovevamo rimanere distanti tra noi e non potevamo parlare."
         sequence-20:
           s: 20
           from: "00:01:22,16"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:23,21"
           to: "00:01:30,01"
-          text: ~
+          text: "Un letto stava sotto la finestra, l'altro era attaccato al muro e"
         sequence-22:
           s: 22
           from: "00:01:30,01"
@@ -118,12 +118,12 @@ it:
           s: 23
           from: "00:01:31,00"
           to: "00:01:37,29"
-          text: ~
+          text: "e il terzo era un materasso steso a terra."
         sequence-24:
           s: 24
           from: "00:01:37,29"
           to: "00:01:48,11"
-          text: ~
+          text: "Si viveva così nelle celle. I bisogni andavano fatti lì dentro."
         sequence-25:
           s: 25
           from: "00:01:48,11"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:01:49,05"
           to: "00:01:52,09"
-          text: ~
+          text: "All'inizio non avevamo un lavoro,"
         sequence-27:
           s: 27
           from: "00:01:52,09"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:01:53,00"
           to: "00:02:05,03"
-          text: ~
+          text: "poi ce ne diedero uno: dovevamo slacciare e disfare la juta"
         sequence-29:
           s: 29
           from: "00:02:05,03"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:02:07,29"
           to: "00:02:29,19"
-          text: ~
+          text: "che la trebbiatrice aveva automaticamente unito. La cella era sempre sporca."
         sequence-31:
           s: 31
           from: "00:02:29,19"
@@ -163,12 +163,12 @@ it:
           s: 32
           from: "00:02:30,28"
           to: "00:02:44,20"
-          text: ~
+          text: "La sera si facevano lasciare i vestiti e le scarpe fuori dalla cella."
         sequence-33:
           s: 33
           from: "00:02:44,20"
           to: "00:02:48,00"
-          text: ~
+          text: "Avevano paura che scappassimo."
         sequence-34:
           s: 34
           from: "00:02:48,00"
@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:02:48,27"
           to: "00:02:51,08"
-          text: ~
+          text: "Ricevevo lettere da mia sorella."
         sequence-36:
           s: 36
           from: "00:02:51,08"
@@ -188,12 +188,12 @@ it:
           s: 37
           from: "00:02:51,27"
           to: "00:03:03,22"
-          text: ~
+          text: "Mi salutava da parte dei miei genitori e parlava spesso di argomenti scientifici"
         sequence-38:
           s: 38
           from: "00:03:03,22"
           to: "00:03:09,01"
-          text: ~
+          text: "che creavano una discussione tra noi tre in cella."
         sequence-39:
           s: 39
           from: "00:03:09,01"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:03:10,10"
           to: "00:03:13,29"
-          text: ~
+          text: "Anche gli altri due erano lì per il \"caso sport\"."
         sequence-41:
           s: 41
           from: "00:03:13,29"

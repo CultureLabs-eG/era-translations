@@ -2,7 +2,7 @@ it:
   erwin-schulz:
     chapter-6:
       c: 6
-      title: ~
+      title: "Divieto di \"Fichte\", Illegalità"
       subtitles:
         sequence-1:
           s: 1
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:17,24"
           to: "00:02:27,21"
-          text: ~
+          text: "Era così strano che molti sindacalisti pensarono si trattasse di un inganno…"
         sequence-26:
           s: 26
           from: "00:02:27,21"
@@ -163,14 +163,14 @@ it:
           s: 32
           from: "00:03:07,21"
           to: "00:03:15,24"
-          text: ~
+          text: "I soldi che avevamo raccolto, li usammo per la \"Rote Hilfe\" (organizzazione a sostegno politico)"
         sequence-33:
           s: 33
           from: "00:03:15,24"
           to: "00:03:21,27"
-          text: ~
+          text: "In questo modo potevamo finanziare diverse cose."
         sequence-34:
           s: 34
           from: "00:03:21,27"
           to: "00:03:30,07"
-          text: ~
+          text: "Persino alcuni delle SA che stavano tornando dal Mar Baltico, ci hanno dato dei soldi."
