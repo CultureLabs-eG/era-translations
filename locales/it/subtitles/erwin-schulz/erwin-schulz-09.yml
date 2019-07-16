@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-9:
       c: 9
-      title: ~
+      title: "Una giornata a Börgermoor"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,15"
           to: "00:00:03,21"
-          text: ~
+          text: "Ci svegliavano alle 6 circa."
         sequence-2:
           s: 2
           from: "00:00:03,21"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:04,14"
           to: "00:00:08,19"
-          text: ~
+          text: "Poi dovevamo sbrigarci:"
         sequence-4:
           s: 4
           from: "00:00:08,19"

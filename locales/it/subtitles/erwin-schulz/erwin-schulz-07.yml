@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:40,04"
           to: "00:00:49,15"
-          text: "E qui saremmo dovuti vivere per alcuni mesi, anni."
+          text: "Qui saremmo dovuti vivere per alcuni mesi, anni."
         sequence-12:
           s: 12
           from: "00:00:49,15"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:05,17"
           to: "00:01:15,17"
-          text: "Eravamo isolati. Potevano uscire dalla cella solo mezz'ora durante l'ora libera."
+          text: "Eravamo isolati. Potevamo uscire dalla cella solo mezz'ora durante l'ora libera."
         sequence-18:
           s: 18
           from: "00:01:15,17"
@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:02:30,28"
           to: "00:02:44,20"
-          text: "La sera si facevano lasciare i vestiti e le scarpe fuori dalla cella."
+          text: "La sera ci facevano lasciare i vestiti e le scarpe fuori dalla cella."
         sequence-33:
           s: 33
           from: "00:02:44,20"
@@ -213,19 +213,19 @@ it:
           s: 42
           from: "00:03:15,25"
           to: "00:03:26,05"
-          text: ~
+          text: "Poi mi diedero il permesso di imparare la stenografia."
         sequence-43:
           s: 43
           from: "00:03:26,05"
           to: "00:03:31,01"
-          text: ~
+          text: "Per esercitarci avevamo solo una lavagnetta."
         sequence-44:
           s: 44
           from: "00:03:31,01"
           to: "00:03:35,12"
-          text: ~
+          text: "La stenografia su lavagnetta era ovviamente un'illusione,"
         sequence-45:
           s: 45
           from: "00:03:35,12"
           to: "00:03:38,00"
-          text: ~
+          text: "però qualcosa ho imparato."
