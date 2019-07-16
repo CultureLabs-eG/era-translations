@@ -2,7 +2,7 @@ it:
   erwin-schulz:
     chapter-11:
       c: 11
-      title: "Servizio militare, assassinio di uno studente"
+      title: "Servizio militare, uccisione di un biblista"
       subtitles:
         sequence-1:
           s: 1
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:40,11"
           to: "00:03:44,06"
-          text: ~
+          text: "Si rifiutava di usare le armi."
         sequence-42:
           s: 42
           from: "00:03:44,06"
@@ -218,17 +218,17 @@ it:
           s: 43
           from: "00:03:45,29"
           to: "00:03:55,14"
-          text: ~
+          text: "Una sera che ci eravamo seduti vicini, venne condannato a morte."
         sequence-44:
           s: 44
           from: "00:03:55,14"
           to: "00:04:00,06"
-          text: ~
+          text: "Il giorno successivo la compagnia doveva raccogliersi"
         sequence-45:
           s: 45
           from: "00:04:00,06"
           to: "00:04:10,02"
-          text: ~
+          text: "e stare a vedere come veniva ucciso nel palo della tortura."
         sequence-46:
           s: 46
           from: "00:04:10,02"
@@ -238,9 +238,9 @@ it:
           s: 47
           from: "00:04:11,14"
           to: "00:04:18,19"
-          text: ~
+          text: "\"Succederà anche a voi!\" disse il capo della compagnia."
         sequence-48:
           s: 48
           from: "00:04:18,19"
           to: "00:04:28,00"
-          text: ~
+          text: "\"se non fate quello che vi viene detto.\""
