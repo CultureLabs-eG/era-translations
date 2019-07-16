@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:08,19"
           to: "00:00:15,12"
-          text: ~
+          text: "fare i letti, lavare e andare in bagno, che era dentro una baracca."
         sequence-5:
           s: 5
           from: "00:00:15,12"
@@ -33,17 +33,17 @@ it:
           s: 6
           from: "00:00:16,21"
           to: "00:00:20,02"
-          text: ~
+          text: "Poi veniva distribuito il cibo."
         sequence-7:
           s: 7
           from: "00:00:20,02"
           to: "00:00:34,04"
-          text: ~
+          text: "Ci davano mezzo litro di zuppa, la razione giornaliera di pane, un po' di grasso e marmellata."
         sequence-8:
           s: 8
           from: "00:00:34,04"
           to: "00:00:38,11"
-          text: ~
+          text: "Pane nero e bianco erano mischiati."
         sequence-9:
           s: 9
           from: "00:00:38,11"
@@ -53,12 +53,12 @@ it:
           s: 10
           from: "00:00:39,07"
           to: "00:00:45,26"
-          text: ~
+          text: "Poi c'era l'appello; tutto si svolgeva in tempi record."
         sequence-11:
           s: 11
           from: "00:00:45,26"
           to: "00:00:54,11"
-          text: ~
+          text: "Poi iniziava il lavoro fuori e ci adunavano."
         sequence-12:
           s: 12
           from: "00:00:54,11"
@@ -73,27 +73,27 @@ it:
           s: 14
           from: "00:01:02,23"
           to: "00:01:13,03"
-          text: ~
+          text: "Eravamo circa 500 prigionieri. Poi si contava di nuovo."
         sequence-15:
           s: 15
           from: "00:01:13,03"
           to: "00:01:16,13"
-          text: ~
+          text: "Ci contavano moltissime volte al giorno."
         sequence-16:
           s: 16
           from: "00:01:16,13"
           to: "00:01:26,01"
-          text: ~
+          text: "Quando eravamo nella brughiera a lavorare"
         sequence-17:
           s: 17
           from: "00:01:26,01"
           to: "00:01:31,10"
-          text: ~
+          text: "ci contavano e tutt'intorno c'era la linea delle sentinelle."
         sequence-18:
           s: 18
           from: "00:01:31,10"
           to: "00:01:37,03"
-          text: ~
+          text: "Erano seduti sparsi, per poter tenere tutti sott'occhio."
         sequence-19:
           s: 19
           from: "00:01:37,03"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:39,00"
           to: "00:01:46,01"
-          text: ~
+          text: "Alla sera rientravamo, penso attorno alle 17."
         sequence-21:
           s: 21
           from: "00:01:46,01"
@@ -113,44 +113,44 @@ it:
           s: 22
           from: "00:01:48,01"
           to: "00:01:55,07"
-          text: ~
+          text: "Ci contavano di nuovo, per vedere c'eravano tutti."
         sequence-23:
           s: 23
           from: "00:01:55,07"
           to: "00:01:58,00"
-          text: ~
+          text: "Poi si andava alla baracca."
         sequence-24:
           s: 24
           from: "00:01:58,00"
           to: "00:02:04,18"
-          text: ~
+          text: "Bisognava sempre correre per prendere la cena."
         sequence-25:
           s: 25
           from: "00:02:04,18"
           to: "00:02:16,25"
-          text: ~
+          text: "A volte facevano lo stufato, i \"Peluschken\", che erano fagioli grandi"
         sequence-26:
           s: 26
           from: "00:02:16,25"
           to: "00:02:27,03"
-          text: ~
+          text: "che alcuni non tolleravano. Oppure c'era la verdura."
         sequence-27:
           s: 27
           from: "00:02:27,03"
           to: "00:02:37,01"
-          text: ~
+          text: "Il peggio era quando facevano l'appello durante il razionamento."
         sequence-28:
           s: 28
           from: "00:02:37,01"
           to: "00:02:41,05"
-          text: ~
+          text: "Con l'appello dovevamo uscire e il cibo si raffreddava."
         sequence-29:
           s: 29
           from: "00:02:41,05"
           to: "00:02:47,28"
-          text: ~
+          text: "Già non aveva un buon sapore, poi era anche freddo."
         sequence-30:
           s: 30
           from: "00:02:47,28"
           to: "00:02:53,00"
-          text: ~
+          text: "Ma dovevi mangiarlo per poter mettere qualcosa in pancia."
