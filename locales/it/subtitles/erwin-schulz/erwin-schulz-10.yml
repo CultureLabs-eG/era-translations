@@ -2,7 +2,7 @@ it:
   erwin-schulz:
     chapter-10:
       c: 10
-      title: ~
+      title: "Interrogatorio della Gestapo, Rilascio, Supporto"
       subtitles:
         sequence-1:
           s: 1
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:01:41,23"
           to: "00:01:48,03"
-          text: ~
+          text: "Ancora una cosa: C'erano biglietti per tutto."
         sequence-26:
           s: 26
           from: "00:01:48,03"
           to: "00:02:01,25"
-          text: ~
+          text: "Quando mi rilasciarono, gli amici e i compagni con cui avevo lavorato, avevano raccolto:"
         sequence-27:
           s: 27
           from: "00:02:01,25"
@@ -143,14 +143,14 @@ it:
           s: 28
           from: "00:02:03,02"
           to: "00:02:11,04"
-          text: ~
+          text: "burro, uno aveva sgozzato un pollo."
         sequence-29:
           s: 29
           from: "00:02:11,04"
           to: "00:02:30,11"
-          text: ~
+          text: "Si veniva subito aiutati. Dopo la detenzione si riceveva un'accoglienza dignitosa."
         sequence-30:
           s: 30
           from: "00:02:30,11"
           to: "00:02:39,00"
-          text: ~
+          text: "Non si poteva festeggiare alcuna festa, ma si riceveva del sostegno."
