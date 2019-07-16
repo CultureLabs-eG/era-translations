@@ -148,17 +148,17 @@ it:
           s: 29
           from: "00:02:46,01"
           to: "00:03:00,28"
-          text: "Poi tornando, abbiamo bevuto e cantato al Samnitzsee."
+          text: "Poi tornando, abbiamo bevuto e cantato da qualche parte al Samnitzsee."
         sequence-30:
           s: 30
           from: "00:03:00,28"
           to: "00:03:04,00"
-          text: ~
+          text: "La gente si stava divertendo"
         sequence-31:
           s: 31
           from: "00:03:04,00"
           to: "00:03:07,21"
-          text: ~
+          text: "e qualcuno mi disse: \"Io vado a racimolare qualche spicciolo.\""
         sequence-32:
           s: 32
           from: "00:03:07,21"
