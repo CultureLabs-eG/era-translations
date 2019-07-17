@@ -158,12 +158,12 @@ it:
           s: 31
           from: "00:03:12,26"
           to: "00:03:17,08"
-          text: ~
+          text: "Alcuni si conoscevano."
         sequence-32:
           s: 32
           from: "00:03:17,08"
           to: "00:03:23,21"
-          text: ~
+          text: "Erano stati in galera insieme o ora si ritrovavano dopo tanti anni."
         sequence-33:
           s: 33
           from: "00:03:23,21"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:03:24,25"
           to: "00:03:43,20"
-          text: ~
+          text: "Non si sapeva come pensassero quelle persone che erano state incarcerate nel '34,35 o 36 e ora era il 1940,1942."
         sequence-35:
           s: 35
           from: "00:03:43,20"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:03:46,20"
           to: "00:03:53,09"
-          text: ~
+          text: "Avevano contatti con i politici, lo avevamo capito."
         sequence-37:
           s: 37
           from: "00:03:53,09"
@@ -193,12 +193,12 @@ it:
           s: 38
           from: "00:03:54,05"
           to: "00:03:56,17"
-          text: ~
+          text: "Eravamo tutti politici"
         sequence-39:
           s: 39
           from: "00:03:56,17"
           to: "00:04:03,26"
-          text: ~
+          text: "E ci eravamo impegnati a tenere tutti gli altri fuori."
         sequence-40:
           s: 40
           from: "00:04:03,26"
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:04:05,19"
           to: "00:04:08,07"
-          text: ~
+          text: "Era una cosa molto importante."
         sequence-42:
           s: 42
           from: "00:04:08,07"

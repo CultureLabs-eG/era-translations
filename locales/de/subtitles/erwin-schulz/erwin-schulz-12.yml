@@ -158,7 +158,7 @@ de:
           s: 31
           from: "00:03:12,26"
           to: "00:03:17,08"
-          text: "Wir waren alle Politische. Das hatten wir dann schon so’n bisschen arrangiert – nicht – das da kein anderer dazu kam. Das spielte dann ja auch da ’ne Rolle."
+          text: "Manche kannten sich."
         sequence-32:
           s: 32
           from: "00:03:17,08"
@@ -173,7 +173,7 @@ de:
           s: 34
           from: "00:03:24,25"
           to: "00:03:43,20"
-          text: "Nun wußte man ja nun nicht, ..."
+          text: "Nun wußte man ja nun nicht, einer der 34 35 36 eingesperrt war, wie denkt er. Es war 40, 42"
         sequence-35:
           s: 35
           from: "00:03:43,20"
@@ -183,7 +183,7 @@ de:
           s: 36
           from: "00:03:46,20"
           to: "00:03:53,09"
-          text: ~
+          text: "Man hat mit der Zeit Kontakte zu den Politischen. Man märkte das schon."
         sequence-37:
           s: 37
           from: "00:03:53,09"
@@ -193,12 +193,12 @@ de:
           s: 38
           from: "00:03:54,05"
           to: "00:03:56,17"
-          text: ~
+          text: "Wir waren alle Politische."
         sequence-39:
           s: 39
           from: "00:03:56,17"
           to: "00:04:03,26"
-          text: ~
+          text: "Das hatten wir dann schon so’n bisschen arrangiert – nicht – das da kein anderer dazu kam."
         sequence-40:
           s: 40
           from: "00:04:03,26"
@@ -208,7 +208,7 @@ de:
           s: 41
           from: "00:04:05,19"
           to: "00:04:08,07"
-          text: ~
+          text: "Das spielte dann ja auch da ’ne Rolle."
         sequence-42:
           s: 42
           from: "00:04:08,07"

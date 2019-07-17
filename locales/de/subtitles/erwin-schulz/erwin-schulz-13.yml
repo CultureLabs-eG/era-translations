@@ -253,27 +253,27 @@ de:
           s: 50
           from: "00:05:39,17"
           to: "00:05:43,26"
-          text: ~
+          text: "Ich sagte: „Das ist doch alles Quatsch. Da haben die doch gar keine Zeit mehr für.“"
         sequence-51:
           s: 51
           from: "00:05:43,26"
           to: "00:05:50,29"
-          text: ~
+          text: "Aber deshalb bin ich dann eben bei dem Otto Linke – mit dem in Gefangenschaft gegangen."
         sequence-52:
           s: 52
           from: "00:05:50,29"
           to: "00:05:55,00"
-          text: ~
+          text: "Und zwar, glaube ich, am 30. April."
         sequence-53:
           s: 53
           from: "00:05:55,00"
           to: "00:06:01,14"
-          text: ~
+          text: "Ich sage: „Otto, ab 1. Mai bleiben wir in den Bergen, als freie Menschen.“"
         sequence-54:
           s: 54
           from: "00:06:01,14"
           to: "00:06:10,01"
-          text: ~
+          text: "Und dann am 02. Mai wir sind dann in Gefangenschaft gegangen wurden wir von Marokkanern gefangen genommen."
         sequence-55:
           s: 55
           from: "00:06:10,01"
@@ -283,9 +283,9 @@ de:
           s: 56
           from: "00:06:10,25"
           to: "00:06:16,14"
-          text: ~
+          text: "Jedenfalls wurden wir dann da den Franzosen übergeben"
         sequence-57:
           s: 57
           from: "00:06:16,14"
           to: "00:06:27,20"
-          text: ~
+          text: "und dann kamen wir nachher zu den Engländern, und dann später zu den Amerikanern"
