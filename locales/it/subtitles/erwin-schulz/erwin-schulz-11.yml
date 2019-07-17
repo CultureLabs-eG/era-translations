@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:23,27"
           to: "00:01:28,26"
-          text: "Io gli ho portato una fune e abbiamo iniziato questo viaggio:"
+          text: "Io gli portai una fune e inziammo questo viaggio:"
         sequence-17:
           s: 17
           from: "00:01:28,26"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:02:17,05"
           to: "00:02:25,15"
-          text: "Quindi spostarono me e un altro uomo."
+          text: "Quindi chiamarono me e un altro uomo."
         sequence-28:
           s: 28
           from: "00:02:25,15"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:02:34,15"
           to: "00:02:42,08"
-          text: "Eravamo due in sovrannumero e in ritardo e ce ne andammo quel giorno."
+          text: "Eravamo due in sovrannumero e in ritardo e partimmo quel giorno."
         sequence-31:
           s: 31
           from: "00:02:42,08"
@@ -188,7 +188,7 @@ it:
           s: 37
           from: "00:03:17,10"
           to: "00:03:25,20"
-          text: "Entrammo in contatto. Ma una cosa che proprio non riesco a dimenticare"
+          text: "Entrammo in contatto. Ma una cosa che proprio non riesco a dimenticare fu"
         sequence-38:
           s: 38
           from: "00:03:25,20"
@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:03:28,02"
           to: "00:03:39,10"
-          text: "Nella nostra baracca di soldati c'era una biblista."
+          text: "quel biblista che stava nella nostra baracca di soldati."
         sequence-40:
           s: 40
           from: "00:03:39,10"

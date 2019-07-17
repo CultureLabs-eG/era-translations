@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,22"
           to: "00:00:08,12"
-          text: ~
+          text: "I politici che non erano degni di stare nell'esercito, vivevano in Germania."
         sequence-2:
           s: 2
           from: "00:00:08,12"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:09,06"
           to: "00:00:15,12"
-          text: ~
+          text: "E i tedeschi stavano morendo su tutti i fronti."
         sequence-4:
           s: 4
           from: "00:00:15,12"
@@ -28,32 +28,32 @@ it:
           s: 5
           from: "00:00:17,07"
           to: "00:00:23,19"
-          text: ~
+          text: "Iniziava a mancare il personale"
         sequence-6:
           s: 6
           from: "00:00:23,19"
           to: "00:00:34,13"
-          text: ~
+          text: "e l'idea era di buttarsi in una missione suicida,"
         sequence-7:
           s: 7
           from: "00:00:34,13"
           to: "00:00:41,08"
-          text: ~
+          text: "perciò eravamo armati come unità autonome"
         sequence-8:
           s: 8
           from: "00:00:41,08"
           to: "00:00:47,20"
-          text: ~
+          text: "per poter intercettare le risposte degli alleati."
         sequence-9:
           s: 9
           from: "00:00:47,20"
           to: "00:00:55,20"
-          text: ~
+          text: "E se fossimo tornati indietro, ci avrebbero sparato da dietro."
         sequence-10:
           s: 10
           from: "00:00:55,20"
           to: "00:01:08,15"
-          text: ~
+          text: "Si trattava veramente di missioni suicida."
         sequence-11:
           s: 11
           from: "00:01:08,15"
@@ -63,27 +63,27 @@ it:
           s: 12
           from: "00:01:10,15"
           to: "00:01:16,19"
-          text: ~
+          text: "Era l'idea di fondo per le grandi unità e divisioni."
         sequence-13:
           s: 13
           from: "00:01:16,19"
           to: "00:01:24,15"
-          text: ~
+          text: "E questo è come avvenivano le missioni."
         sequence-14:
           s: 14
           from: "00:01:24,15"
           to: "00:01:28,27"
-          text: ~
+          text: "La nostra si svolse in un pendio:"
         sequence-15:
           s: 15
           from: "00:01:28,27"
           to: "00:01:38,27"
-          text: ~
+          text: "dopo il primo colpo, gli Americani ci avevano annientati."
         sequence-16:
           s: 16
           from: "00:01:38,27"
           to: "00:01:40,21"
-          text: ~
+          text: "Nesssuno era sopravvissuto."
         sequence-17:
           s: 17
           from: "00:01:40,21"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:41,19"
           to: "00:01:51,00"
-          text: ~
+          text: "Lo stesso avvenne in altre operazioni militari su altri fronti,"
         sequence-19:
           s: 19
           from: "00:01:51,00"
@@ -103,12 +103,12 @@ it:
           s: 20
           from: "00:01:57,22"
           to: "00:02:01,27"
-          text: ~
+          text: "C'è una letteratura intera che ne parla."
         sequence-21:
           s: 21
           from: "00:02:01,27"
           to: "00:02:11,27"
-          text: ~
+          text: "Il principio era annientare i politici. Non dovevano sopravvivere in guerra."
         sequence-22:
           s: 22
           from: "00:02:11,27"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:15,21"
           to: "00:02:19,14"
-          text: ~
+          text: "Le compagnie erano composte così:"
         sequence-24:
           s: 24
           from: "00:02:19,14"
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:02:20,24"
           to: "00:02:30,18"
-          text: ~
+          text: "un terzo erano politici, un terzo criminali, un terzo ufficiali e sottoufficiali"
         sequence-26:
           s: 26
           from: "00:02:30,18"
           to: "00:02:38,27"
-          text: ~
+          text: "e caporali, che erano praticamente tutti nazisti. Questa era la composizione."
         sequence-27:
           s: 27
           from: "00:02:38,27"
@@ -143,12 +143,12 @@ it:
           s: 28
           from: "00:02:41,18"
           to: "00:02:57,20"
-          text: ~
+          text: "I politici dovevano stare molto attenti:"
         sequence-29:
           s: 29
           from: "00:02:57,20"
           to: "00:03:07,29"
-          text: ~
+          text: "bastava un'espressione o un pensiero e ti sparavano."
         sequence-30:
           s: 30
           from: "00:03:07,29"
