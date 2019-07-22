@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-13:
       c: 13
-      title: ~
+      title: "Italia, Tunisia, cattura"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,15"
           to: "00:00:03,14"
-          text: ~
+          text: "Arrivammo a Napoli."
         sequence-2:
           s: 2
           from: "00:00:03,14"
@@ -18,27 +18,27 @@ it:
           s: 3
           from: "00:00:04,26"
           to: "00:00:18,27"
-          text: ~
+          text: "Lì c'era una nave, dichiarata come ospedaliera (con il disegno di una croce rossa)"
         sequence-4:
           s: 4
           from: "00:00:18,27"
           to: "00:00:23,01"
-          text: ~
+          text: "che aveva trasportato munizioni."
         sequence-5:
           s: 5
           from: "00:00:23,01"
           to: "00:00:34,22"
-          text: ~
+          text: "La notizia giunse ai partigiani e la nave venne bombardata."
         sequence-6:
           s: 6
           from: "00:00:34,22"
           to: "00:00:38,24"
-          text: ~
+          text: "Dovevamo portare i feriti all'ospedale."
         sequence-7:
           s: 7
           from: "00:00:38,24"
           to: "00:00:54,07"
-          text: ~
+          text: "Questo succedeva spesso: navi dichiarate come ospedaliere che trasportavano munizioni."
         sequence-8:
           s: 8
           from: "00:00:54,07"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:55,04"
           to: "00:01:07,04"
-          text: ~
+          text: "Da Napoli siamo arrivati in Tunisia con lo Ju 52."
         sequence-10:
           s: 10
           from: "00:01:07,04"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:01:08,04"
           to: "00:01:18,07"
-          text: ~
+          text: "Volava sempre a livello del mare, non si alzava mai."
         sequence-12:
           s: 12
           from: "00:01:18,07"
@@ -68,32 +68,32 @@ it:
           s: 13
           from: "00:01:19,17"
           to: "00:01:27,28"
-          text: ~
+          text: "Alcuni aerei della compagnia, che avevano volato prima di noi, erano stati abbattuti."
         sequence-14:
           s: 14
           from: "00:01:27,28"
           to: "00:01:32,14"
-          text: ~
+          text: "Annegarono tutti miseramente in mare."
         sequence-15:
           s: 15
           from: "00:01:32,14"
           to: "00:01:35,10"
-          text: ~
+          text: "Non potevamo salvarli."
         sequence-16:
           s: 16
           from: "00:01:35,10"
           to: "00:01:47,24"
-          text: ~
+          text: "Siamo stati molto fortunati. Quando poi arrivammo in Tunisia all'aeroporto ci dissero: \"Cosa volete ancora?\""
         sequence-17:
           s: 17
           from: "00:01:47,24"
           to: "00:01:53,23"
-          text: ~
+          text: "Molti soldati ritornarono indietro."
         sequence-18:
           s: 18
           from: "00:01:53,23"
           to: "00:02:00,05"
-          text: ~
+          text: "Le unità principali con anche il generale Rommel erano lì."
         sequence-19:
           s: 19
           from: "00:02:00,05"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:02:02,28"
           to: "00:02:11,01"
-          text: ~
+          text: "Ed era Marzo. I primi di Aprile l'esercito di Rommel si stava ritirando."
         sequence-21:
           s: 21
           from: "00:02:11,01"
@@ -113,27 +113,27 @@ it:
           s: 22
           from: "00:02:13,02"
           to: "00:02:21,11"
-          text: ~
+          text: "Anche a noi si abbassò il morale."
         sequence-23:
           s: 23
           from: "00:02:21,11"
           to: "00:02:31,14"
-          text: ~
+          text: "Il nostro generale, nazista ostinato, disse:"
         sequence-24:
           s: 24
           from: "00:02:31,14"
           to: "00:02:37,03"
-          text: ~
+          text: "\"Non pensate che sia come nel 1918!"
         sequence-25:
           s: 25
           from: "00:02:37,03"
           to: "00:02:43,08"
-          text: ~
+          text: "Chiunque esce dalla linea, verrà fatto fuori.\""
         sequence-26:
           s: 26
           from: "00:02:43,08"
           to: "00:02:53,00"
-          text: ~
+          text: "Così tentò di ottenere il controllo."
         sequence-27:
           s: 27
           from: "00:02:53,00"
@@ -143,42 +143,42 @@ it:
           s: 28
           from: "00:02:54,04"
           to: "00:03:00,11"
-          text: ~
+          text: "In Tunisia stavamo nelle caserme."
         sequence-29:
           s: 29
           from: "00:03:00,11"
           to: "00:03:06,09"
-          text: ~
+          text: "Dovevamo fare le sentinelle."
         sequence-30:
           s: 30
           from: "00:03:06,09"
           to: "00:03:12,06"
-          text: ~
+          text: "Assegnarono il compito a quelli trasferiti per motivi disciplinari e quindi anche a noi."
         sequence-31:
           s: 31
           from: "00:03:12,06"
           to: "00:03:17,07"
-          text: ~
+          text: "A Qayrawan il fronte si bloccò."
         sequence-32:
           s: 32
           from: "00:03:17,07"
           to: "00:03:25,07"
-          text: ~
+          text: "Pensammo: \"Se gli americani vengono più avanti, gli consegneremo le nostre caserme."
         sequence-33:
           s: 33
           from: "00:03:25,07"
           to: "00:03:28,28"
-          text: ~
+          text: "Così potremo impedire la resistenza.\""
         sequence-34:
           s: 34
           from: "00:03:28,28"
           to: "00:03:31,24"
-          text: ~
+          text: "Ma non successe niente."
         sequence-35:
           s: 35
           from: "00:03:31,24"
           to: "00:03:39,23"
-          text: ~
+          text: "Poi ci spostarono nelle montagne."
         sequence-36:
           s: 36
           from: "00:03:39,23"
@@ -188,17 +188,17 @@ it:
           s: 37
           from: "00:03:45,05"
           to: "00:03:51,22"
-          text: ~
+          text: "I lanciabombe erano nascosti e sparavano."
         sequence-38:
           s: 38
           from: "00:03:51,22"
           to: "00:04:02,14"
-          text: ~
+          text: "Ci spostarono in un altopiano, dove gli americani potevano vederci e spararci."
         sequence-39:
           s: 39
           from: "00:04:02,14"
           to: "00:04:08,13"
-          text: ~
+          text: "Si trattava di una missione suicida."
         sequence-40:
           s: 40
           from: "00:04:08,13"
