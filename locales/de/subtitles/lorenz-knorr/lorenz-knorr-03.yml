@@ -8,12 +8,12 @@ de:
           s: 1
           from: "00:00:00,21"
           to: "00:00:05,04"
-          text: ~
+          text: "Die Partei, der meine Eltern als Funktionäre angehörten"
         sequence-2:
           s: 2
           from: "00:00:05,04"
           to: "00:00:09,18"
-          text: ~
+          text: "hieß Deutsche Sozialdemokratische Arbeiterpartei in der Tschechoslowakei."
         sequence-3:
           s: 3
           from: "00:00:09,18"
@@ -23,22 +23,22 @@ de:
           s: 4
           from: "00:00:10,14"
           to: "00:00:15,28"
-          text: ~
+          text: "Aber der Name täuschte, es war eine sozialistische, eine austromarxistische Partei."
         sequence-5:
           s: 5
           from: "00:00:15,28"
           to: "00:00:22,28"
-          text: ~
+          text: "Denn unsere Partei gehörte nicht zur ersten Internationalen sondern zur 2 ½ten  Internationalen,"
         sequence-6:
           s: 6
           from: "00:00:22,28"
           to: "00:00:26,18"
-          text: ~
+          text: "zur Wiener Internationalen, mit dem Slogan:"
         sequence-7:
           s: 7
           from: "00:00:26,18"
           to: "00:00:33,27"
-          text: ~
+          text: "Keinen sozialdemokratischen Opportunismus und keinen bolschewistischen Dogmatismus."
         sequence-8:
           s: 8
           from: "00:00:33,27"
@@ -48,17 +48,17 @@ de:
           s: 9
           from: "00:00:34,23"
           to: "00:00:37,12"
-          text: ~
+          text: "Mit dieser Linie arbeiteten wir,"
         sequence-10:
           s: 10
           from: "00:00:37,12"
           to: "00:00:42,13"
-          text: ~
+          text: "aber es gab natürlich auch in dieser Partei und in dem Jugendverband, der Teil der Partei war,"
         sequence-11:
           s: 11
           from: "00:00:42,13"
           to: "00:00:44,12"
-          text: ~
+          text: "unterschiedliche Positionen."
         sequence-12:
           s: 12
           from: "00:00:44,12"
@@ -68,17 +68,17 @@ de:
           s: 13
           from: "00:00:45,00"
           to: "00:00:53,13"
-          text: ~
+          text: "Das zeigt sich insbesondere 1936, als die Volksfrontpolitik relevant wurde,"
         sequence-14:
           s: 14
           from: "00:00:53,13"
           to: "00:00:57,00"
-          text: ~
+          text: "aber die Volksfrontpolitik setzte voraus,"
         sequence-15:
           s: 15
           from: "00:00:57,00"
           to: "00:01:00,01"
-          text: ~
+          text: "dass man mit Kommunisten eng zusammen arbeitete."
         sequence-16:
           s: 16
           from: "00:01:00,01"
@@ -88,7 +88,7 @@ de:
           s: 17
           from: "00:01:00,28"
           to: "00:01:03,00"
-          text: ~
+          text: "Die ideologischen Unterschiede waren bekannt."
         sequence-18:
           s: 18
           from: "00:01:03,00"
@@ -98,7 +98,7 @@ de:
           s: 19
           from: "00:01:03,28"
           to: "00:01:05,02"
-          text: ~
+          text: "Darum ging es nicht. Wir hatten einen gemeinsamen Gegner, das war der Faschismus"
         sequence-20:
           s: 20
           from: "00:01:05,02"
@@ -108,32 +108,32 @@ de:
           s: 21
           from: "00:01:08,14"
           to: "00:01:14,13"
-          text: ~
+          text: "und der musste gemeinsam bekämpft werden, im Rahmen der Volksfrontpolitik."
         sequence-22:
           s: 22
           from: "00:01:14,13"
           to: "00:01:24,16"
-          text: ~
+          text: "Wir hatten in Frankreich durch Léon Blum das Beispiel eines Volksfrontsozialisten, Kommunisten und die radikal Sozialisten."
         sequence-23:
           s: 23
           from: "00:01:24,16"
           to: "00:01:31,28"
-          text: ~
+          text: "Das waren die bürgerlichen Liberalen, die zusammen gegen den Faschismus kämpfen wollten und so war es auch bei uns."
         sequence-24:
           s: 24
           from: "00:01:31,28"
           to: "00:01:36,05"
-          text: ~
+          text: "Das an der Basis, kein Mensch mehr fragte wo kommst du denn her?"
         sequence-25:
           s: 25
           from: "00:01:36,05"
           to: "00:01:42,00"
-          text: ~
+          text: "Von der KJ, von der Kommunistischen Jugend, oder von der bündischen Jugend?"
         sequence-26:
           s: 26
           from: "00:01:42,00"
           to: "00:01:46,27"
-          text: ~
+          text: "Die Frage war: „Was kannst du tun gegen den Faschismus?“"
         sequence-27:
           s: 27
           from: "00:01:46,27"
@@ -143,22 +143,22 @@ de:
           s: 28
           from: "00:01:48,03"
           to: "00:01:53,02"
-          text: ~
+          text: "Weil wir dem Beispiel von Frankreich folgten."
         sequence-29:
           s: 29
           from: "00:01:53,02"
           to: "00:01:59,17"
-          text: ~
+          text: "Weil wir den Aufruf deutscher Intellektueller von Paris folgten."
         sequence-30:
           s: 30
           from: "00:01:59,17"
           to: "00:02:05,09"
-          text: ~
+          text: "Mussten jetzt alle trennenden Unterschiede auf der Linken zurück gestellt werden,"
         sequence-31:
           s: 31
           from: "00:02:05,09"
           to: "00:02:10,11"
-          text: ~
+          text: "um Kraft zu bündeln gegen den faschistischen Angriff, der damals ja überall rollte."
         sequence-32:
           s: ~
           from: ~

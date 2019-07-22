@@ -203,27 +203,27 @@ it:
           s: 40
           from: "00:04:08,13"
           to: "00:04:20,17"
-          text: ~
+          text: "Se avessimo sparato un colpo, ci avrebbero subito bombardato e non saremmo sopravvissuti."
         sequence-41:
           s: 41
           from: "00:04:20,17"
           to: "00:04:29,26"
-          text: ~
+          text: "A circa 20 metri avevamo piazzato il lanciabombe e qualcuno disse:"
         sequence-42:
           s: 42
           from: "00:04:29,26"
           to: "00:04:39,08"
-          text: ~
+          text: "\"Costruiamo qualcosa che possa proteggerci dai bombardamenti.\""
         sequence-43:
           s: 43
           from: "00:04:39,08"
           to: "00:04:45,20"
-          text: ~
+          text: "Sparammo un colpo e subito il nostro lanciabombe si distrusse."
         sequence-44:
           s: 44
           from: "00:04:45,20"
           to: "00:04:51,20"
-          text: ~
+          text: "Ci volevano annientare. Era una missione suicida."
         sequence-45:
           s: 45
           from: "00:04:51,20"
@@ -233,47 +233,47 @@ it:
           s: 46
           from: "00:04:53,02"
           to: "00:05:06,28"
-          text: ~
+          text: "Poi tornammo indietro e parlai con alcuni degli altri:"
         sequence-47:
           s: 47
           from: "00:05:06,28"
           to: "00:05:10,14"
-          text: ~
+          text: "\"Dobbiamo scappare subito.\""
         sequence-48:
           s: 48
           from: "00:05:10,14"
           to: "00:05:32,12"
-          text: ~
+          text: "Era fine Aprile e il 10 Maggio si arresero. Ma avevamo ancora dei dubbi:"
         sequence-49:
           s: 49
           from: "00:05:32,12"
           to: "00:05:39,17"
-          text: ~
+          text: "\"Informeranno la Germania che lei ha disertato.\""
         sequence-50:
           s: 50
           from: "00:05:39,17"
           to: "00:05:43,26"
-          text: ~
+          text: "Io dicevo: \"Tutte scemenze. Non avranno tempo per farlo.\""
         sequence-51:
           s: 51
           from: "00:05:43,26"
           to: "00:05:50,29"
-          text: ~
+          text: "Ma rimasi con Otto Linke e insieme ci misero in prigione."
         sequence-52:
           s: 52
           from: "00:05:50,29"
           to: "00:05:55,00"
-          text: ~
+          text: "Penso fosse il 30 Aprile."
         sequence-53:
           s: 53
           from: "00:05:55,00"
           to: "00:06:01,14"
-          text: ~
+          text: "Dissi: \"Otto, dal primo Maggio staremo nelle montagne come uomini liberi.\""
         sequence-54:
           s: 54
           from: "00:06:01,14"
           to: "00:06:10,01"
-          text: ~
+          text: "E il 2 Maggio fummo presi dai marocchini che ci imprigionarono."
         sequence-55:
           s: 55
           from: "00:06:10,01"
@@ -283,9 +283,9 @@ it:
           s: 56
           from: "00:06:10,25"
           to: "00:06:16,14"
-          text: ~
+          text: "Poi passammo ai francesi"
         sequence-57:
           s: 57
           from: "00:06:16,14"
           to: "00:06:27,20"
-          text: ~
+          text: "per poi arrivare agli inglesi e infine agli americani."
