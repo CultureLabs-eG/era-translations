@@ -8,22 +8,22 @@ de:
           s: 1
           from: "00:00:00,20"
           to: "00:00:17,06"
-          text: ~
+          text: "Ja, ich bin abgestellt wurden nach Afrika. Hatte dort in einer Motorradschützen- Patrouille zu kämpfen,"
         sequence-2:
           s: 2
           from: "00:00:17,06"
           to: "00:00:23,27"
-          text: ~
+          text: "wobei ich dazu sagen muss, wir haben vorher abgesprochen wenn wir Soldat werden,"
         sequence-3:
           s: 3
           from: "00:00:23,27"
           to: "00:00:28,01"
-          text: ~
+          text: "wir schießen nie auf jemanden der uns als Feind bezeichnet wird."
         sequence-4:
           s: 4
           from: "00:00:28,01"
           to: "00:00:32,12"
-          text: ~
+          text: "Wir schießen in die Luft, wir erschießen niemanden, außer in Notwehr, das ist etwas ganz anderes."
         sequence-5:
           s: 5
           from: "00:00:32,12"
@@ -33,27 +33,27 @@ de:
           s: 6
           from: "00:00:34,20"
           to: "00:00:36,15"
-          text: ~
+          text: "Ich habe dort illegal weiter gearbeitet,"
         sequence-7:
           s: 7
           from: "00:00:36,15"
           to: "00:00:45,05"
-          text: ~
+          text: "z.B. bin ich in Tripolis im Lazarett angesprochen worden von einer Antifa-Sani-Gruppe"
         sequence-8:
           s: 8
           from: "00:00:45,05"
           to: "00:00:47,29"
-          text: ~
+          text: "und von einer Antifafunker- Gruppe,"
         sequence-9:
           s: 9
           from: "00:00:47,29"
           to: "00:01:00,03"
-          text: ~
+          text: "ob ich nicht Zündschnüre besorgen könnte. In Bengasi wären Genossen die wären also bereit eine Sprengung durchzuführen."
         sequence-10:
           s: 10
           from: "00:01:00,03"
           to: "00:01:03,07"
-          text: ~
+          text: "Sprengstoff hätten sie genug, aber keine Zündschnüre."
         sequence-11:
           s: 11
           from: "00:01:03,07"
@@ -63,47 +63,47 @@ de:
           s: 12
           from: "00:01:04,17"
           to: "00:01:10,20"
-          text: ~
+          text: "Das musste ich dann so organisieren, dass ich mit zwei verlässlichen Leuten die Wache übernahm."
         sequence-13:
           s: 13
           from: "00:01:10,20"
           to: "00:01:19,22"
-          text: ~
+          text: "Da wurden ja Lazarettsoldaten abgestellt, also gelesene Soldaten, weil nicht genügend vorhanden waren und da haben wir dann halt Zündschnüre besorgt."
         sequence-14:
           s: 14
           from: "00:01:19,22"
           to: "00:01:30,02"
-          text: ~
+          text: "Ein paar Tage später flog dann in Bengasi, vom größten Munitionslager, dass die Rommel-Armee in Afrika unterhält, flog ein Viertel in die Luft."
         sequence-15:
           s: 15
           from: "00:01:30,02"
           to: "00:01:33,01"
-          text: ~
+          text: "Da tauchte dann für uns ein schwieriges Problem auf."
         sequence-16:
           s: 16
           from: "00:01:33,01"
           to: "00:01:38,21"
-          text: ~
+          text: "Da wurden dann also sechs Araber und ein deutscher Soldat erschossen,"
         sequence-17:
           s: 17
           from: "00:01:38,21"
           to: "00:01:43,07"
-          text: ~
+          text: "die überhaupt nicht daran beteiligt waren und da stellte sich für uns die Frage:"
         sequence-18:
           s: 18
           from: "00:01:43,07"
           to: "00:01:49,26"
-          text: ~
+          text: "\"Du bist daran schuld, dass Unschuldige von der Wehrmacht erschossen wurden!\""
         sequence-19:
           s: 19
           from: "00:01:49,26"
           to: "00:01:54,29"
-          text: ~
+          text: "Da war natürlich abzuwägen, wo ist die Schuld größer?"
         sequence-20:
           s: 20
           from: "00:01:54,29"
           to: "00:01:59,01"
-          text: ~
+          text: "Wenn du nichts gegen dieses Verbrecherregime unternimmst,"
         sequence-21:
           s: 21
           from: "00:01:59,01"
@@ -113,17 +113,17 @@ de:
           s: 22
           from: "00:02:00,10"
           to: "00:02:05,09"
-          text: ~
+          text: "wenn du schweigend alles mit machst, welche Schuld lädst du dann auf dich?"
         sequence-23:
           s: 23
           from: "00:02:05,09"
           to: "00:02:10,29"
-          text: ~
+          text: "Wenn die vielen Toten die der Krieg kostet oder musst du nicht auf dein Gewissen nehmen,"
         sequence-24:
           s: 24
           from: "00:02:10,29"
           to: "00:02:15,13"
-          text: ~
+          text: "dass im Kampf gegen den Faschismus auch Unschuldige ihr Leben verlieren?"
         sequence-25:
           s: 25
           from: "00:02:15,13"
@@ -133,17 +133,17 @@ de:
           s: 26
           from: "00:02:16,18"
           to: "00:02:22,19"
-          text: ~
+          text: "Das ist im zivilen Leben schon eine Frage, unter Kriegsbedingungen war das ebenso,"
         sequence-27:
           s: 27
           from: "00:02:22,19"
           to: "00:02:27,23"
-          text: ~
+          text: "dass wir sagten der Kampf gegen das faschistische Regime geht allen anderen Dingen vor."
         sequence-28:
           s: 28
           from: "00:02:27,23"
           to: "00:02:31,12"
-          text: ~
+          text: "Eine höchst schwierige ethische Entscheidung."
         sequence-29:
           s: 29
           from: "00:02:31,12"
@@ -153,27 +153,27 @@ de:
           s: 30
           from: "00:02:32,21"
           to: "00:02:39,18"
-          text: ~
+          text: "Also, die Frage der Desertation wurde natürlich diskutiert, unter allen Leuten die als Antifaschisten tätig waren."
         sequence-31:
           s: 31
           from: "00:02:39,18"
           to: "00:02:44,00"
-          text: ~
+          text: "Nur in Afrika gab es keine Front, die man wechseln konnte."
         sequence-32:
           s: 32
           from: "00:02:44,00"
           to: "00:02:46,10"
-          text: ~
+          text: "In Afrika war Bewegungskrieg."
         sequence-33:
           s: 33
           from: "00:02:46,10"
           to: "00:02:54,06"
-          text: ~
+          text: "Da konnte man die Fronten nur wechseln, wenn bei einer Einheit die von den Tommies, von den Engländer eingeschlossen wurde."
         sequence-34:
           s: 34
           from: "00:02:54,06"
           to: "00:03:02,28"
-          text: ~
+          text: "Da war es möglich zu sagen, ich möchte übergehen usw., ich sage, seile mich ab dann war man die Gefangenschaft los, das ging also auch."
         sequence-35:
           s: 35
           from: "00:03:02,28"
@@ -183,34 +183,34 @@ de:
           s: 36
           from: "00:03:03,29"
           to: "00:03:07,13"
-          text: ~
+          text: "Als ich dann nach Polen und nach Russland kam ging das nicht,"
         sequence-37:
           s: 37
           from: "00:03:07,13"
           to: "00:03:10,29"
-          text: ~
+          text: "denn als Funker war man viel zu weit weg von der Front."
         sequence-38:
           s: 38
           from: "00:03:10,29"
           to: "00:03:20,16"
-          text: ~
+          text: "Als Funker ist man ja, wenn man nicht Heeresfunker ist, wenn man nicht in Frontnähe ist, sondern man ist relativ weit hinten wo die Generalstäbe sitzen"
         sequence-39:
           s: 39
           from: "00:03:20,16"
           to: "00:03:24,07"
-          text: ~
+          text: "und die sitzen ja 50 Km/h bis 60 Km/h hinter der Front, wenn es nicht ein Diversionsstab ist."
         sequence-40:
           s: 40
           from: "00:03:24,07"
           to: "00:03:31,00"
-          text: ~
+          text: "Aber ich war ja meistens bei der Armee, Armeekorps, also bei diesen hohen Stellen."
         sequence-41:
           s: 41
           from: "00:03:31,00"
           to: "00:03:38,08"
-          text: ~
+          text: "Wir waren weg von der Front, also da ging das nicht, aber die Möglichkeit war wahrzunehmen."
         sequence-42:
           s: 42
           from: "00:03:38,08"
           to: "00:03:42,11"
-          text: ~
+          text: "Das hätte ich gemacht, viele andere auch wenn die Möglichkeit gegeben wäre"

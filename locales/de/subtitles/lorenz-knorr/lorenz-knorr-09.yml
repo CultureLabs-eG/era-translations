@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:21,21"
           to: "00:00:28,02"
-          text: ~
+          text: "Das war eine Geheimschrift, die von der Gestapo bis zum Schluss nicht entschlüsselt wurde."
         sequence-6:
           s: 6
           from: "00:00:28,02"
@@ -38,17 +38,17 @@ de:
           s: 7
           from: "00:00:29,02"
           to: "00:00:34,25"
-          text: ~
+          text: "Ein sehr raffiniertes System, das sogenannte „Zwei-Kastensystem“."
         sequence-8:
           s: 8
           from: "00:00:34,25"
           to: "00:00:48,23"
-          text: ~
+          text: "Das allgemein bekannt ist, aber da konnte man immer noch sehen das es eine Geheimschrift ist. Wenn so etwas entdeckt wurde, brauchte man natürlich nur den Absender und den Empfänger zu erpressen um mehr heraus zu bekommen,"
         sequence-9:
           s: 9
           from: "00:00:48,23"
           to: "00:00:53,23"
-          text: ~
+          text: "deshalb musste also der Code noch mal verdeckt werden, das war meine Idee."
         sequence-10:
           s: 10
           from: "00:00:53,23"
@@ -58,12 +58,12 @@ de:
           s: 11
           from: "00:00:54,19"
           to: "00:00:59,06"
-          text: ~
+          text: "Wir haben dann verabredet, dass wir den wöchentlichen Artikel,"
         sequence-12:
           s: 12
           from: "00:00:59,06"
           to: "00:01:05,04"
-          text: ~
+          text: "den Goebbels entweder im Völkischen Beobachter oder im Reich schrieb zur Tarnung benutzen."
         sequence-13:
           s: 13
           from: "00:01:05,04"
@@ -73,32 +73,32 @@ de:
           s: 14
           from: "00:01:06,17"
           to: "00:01:10,01"
-          text: ~
+          text: "Da wurde dann rot unterstrichen und im Begleitschreiben geschrieben"
         sequence-15:
           s: 15
           from: "00:01:10,01"
           to: "00:01:16,05"
-          text: ~
+          text: "der Satz von Göbels ist wichtig, der Satz musst du mit anderen diskutieren,"
         sequence-16:
           s: 16
           from: "00:01:16,05"
           to: "00:01:22,19"
-          text: ~
+          text: "das musst du beachten usw. es hatte nur die Funktion abzulenken. Da dieser Artikel die Geheimschrift trug,"
         sequence-17:
           s: 17
           from: "00:01:22,19"
           to: "00:01:31,23"
-          text: ~
+          text: "nämlich in der Art und Weise das der verschlüsselte Text von rückwärts an mit der Nadel eingestochen wurde an bestimmten Buchstaben."
         sequence-18:
           s: 18
           from: "00:01:31,23"
           to: "00:01:41,03"
-          text: ~
+          text: "Die Buchstaben musste man herausfiltern, indem man das Papier an Licht hält und dann wurde erst entschlüsselt."
         sequence-19:
           s: 19
           from: "00:01:41,03"
           to: "00:01:45,23"
-          text: ~
+          text: "Es war nicht mehr zuerkennen, dass wir uns mit einer Geheimschrift verständigen"
         sequence-20:
           s: 20
           from: "00:01:45,23"
@@ -108,12 +108,12 @@ de:
           s: 21
           from: "00:01:46,28"
           to: "00:01:51,07"
-          text: ~
+          text: "und dann kam noch etwas wichtiges hinzu als der Krieg begann."
         sequence-22:
           s: 22
           from: "00:01:51,07"
           to: "00:01:53,20"
-          text: ~
+          text: "Mit dem Überfall auf Polen"
         sequence-23:
           s: 23
           from: "00:01:53,20"
@@ -123,17 +123,17 @@ de:
           s: 24
           from: "00:01:54,11"
           to: "00:01:59,00"
-          text: ~
+          text: "hat die Wehmacht und die Luftwaffe (‚Blitzmädchen’) gesucht,"
         sequence-25:
           s: 25
           from: "00:01:59,00"
           to: "00:02:05,22"
-          text: ~
+          text: "die also in den besetzten Gebieten als Telefonistinnen oder Funkerinnen helfen konnten."
         sequence-26:
           s: 26
           from: "00:02:05,22"
           to: "00:02:12,25"
-          text: ~
+          text: "Da haben sich von unseren Genossinnen acht, die nicht zum harten Kern gehörten, freiwillig gemeldet."
         sequence-27:
           s: 27
           from: "00:02:12,25"
@@ -143,12 +143,12 @@ de:
           s: 28
           from: "00:02:13,19"
           to: "00:02:21,01"
-          text: ~
+          text: "Wir haben gesagt, das ist eine gute Sache, die müssen in unsere Geheimschrift eingeweiht werden, die vorher nur der harte Kern kannte."
         sequence-29:
           s: 29
           from: "00:02:21,01"
           to: "00:02:29,00"
-          text: ~
+          text: ". Wir müssen die Verbindung aufrechterhalten und die müssen, wo sie auch sind, mit den dortigen Partisanen Verbindung aufnehmen."
         sequence-30:
           s: 30
           from: "00:02:29,00"
@@ -158,7 +158,7 @@ de:
           s: 31
           from: "00:02:29,29"
           to: "00:02:36,12"
-          text: ~
+          text: "Als ich nach der schweren Verwundung in der Strafkompanie in Afrika umgeschult wurde zum Funker,"
         sequence-32:
           s: 32
           from: "00:02:36,12"
@@ -168,22 +168,22 @@ de:
           s: 33
           from: "00:02:37,18"
           to: "00:02:41,28"
-          text: ~
+          text: "gab es natürlich eine doppelte Möglichkeit sich schnell zu verständigen."
         sequence-34:
           s: 34
           from: "00:02:41,28"
           to: "00:02:47,28"
-          text: ~
+          text: "Jeder Funker hatte die Möglichkeit wenn irgendwo anders auch noch ein Funker war sich per Funk zu verständigen."
         sequence-35:
           s: 35
           from: "00:02:47,28"
           to: "00:02:54,27"
-          text: ~
+          text: "Man musste nur aufpassen, weil die Gestapo und die SS ja alles abhörte,"
         sequence-36:
           s: 36
           from: "00:02:54,27"
           to: "00:03:01,05"
-          text: ~
+          text: "aber es ging, so das man sich auch noch mit Funk verständigen konnte."
         sequence-37:
           s: 37
           from: "00:03:01,05"
@@ -193,12 +193,12 @@ de:
           s: 38
           from: "00:03:02,12"
           to: "00:03:07,20"
-          text: ~
+          text: "Ich hatte zum Beispiel, es gibt wenige die so was erreicht haben,"
         sequence-39:
           s: 39
           from: "00:03:07,20"
           to: "00:03:14,15"
-          text: ~
+          text: "von 1941 bis 1945 Verbindung zu meinem exilierten Parteivorstand in London."
         sequence-40:
           s: 40
           from: "00:03:14,15"
@@ -208,129 +208,129 @@ de:
           s: 41
           from: "00:03:16,05"
           to: "00:03:19,26"
-          text: ~
+          text: "Es ging eine verschlüsselte Post nach Bergen in Norwegen,"
         sequence-42:
           s: 42
           from: "00:03:19,26"
           to: "00:03:25,16"
-          text: ~
+          text: "dort saß eine Genossin von uns als ‚Blitzmädchen’, die hat die Verbindung zu den Partisanen."
         sequence-43:
           s: 43
           from: "00:03:25,16"
           to: "00:03:27,28"
-          text: ~
+          text: "Die brachten die Post nach Schweden."
         sequence-44:
           s: 44
           from: "00:03:27,28"
           to: "00:03:32,10"
-          text: ~
+          text: "In Stockholm saß der Generalsekretär meiner damaligen Partei"
         sequence-45:
           s: 45
           from: "00:03:32,10"
           to: "00:03:36,20"
-          text: ~
+          text: "und der hat per Flugzeug von Stockholm nach London die Verbindung hergestellt."
         sequence-46:
           s: 46
           from: "00:03:36,20"
           to: "00:03:39,29"
-          text: ~
+          text: "Bis es zurück kam, die Anfrage:"
         sequence-47:
           s: 47
           from: "00:03:39,29"
           to: "00:03:42,01"
-          text: ~
+          text: "Wie ist die Stimmung in der Bevölkerung?,"
         sequence-48:
           s: 48
           from: "00:03:42,01"
           to: "00:03:45,10"
-          text: ~
+          text: "wo sind Plätze wo Fallschirmjäger abspringen"
         sequence-49:
           s: 49
           from: "00:03:45,10"
           to: "00:03:54,20"
-          text: ~
+          text: "können wo zugleich ein soziales Umfeld ist?, dass sie dann auch sicher wohnen und operieren können, das musste ja alles da sein. Genügt ja nicht wenn sie nur abspringen."
         sequence-50:
           s: 50
           from: "00:03:54,20"
           to: "00:03:57,27"
-          text: ~
+          text: "Solche Fragen kamen und die wurden beantwortet."
         sequence-51:
           s: 51
           from: "00:03:57,27"
           to: "00:04:04,24"
-          text: ~
+          text: "Später ging das noch viel schneller, weil eine Genossin,"
         sequence-52:
           s: 52
           from: "00:04:04,24"
           to: "00:04:10,14"
-          text: ~
+          text: "die mit ihrem Eltern nach London emigriert wurde eine neue Identität bekam,"
         sequence-53:
           s: 53
           from: "00:04:10,14"
           to: "00:04:18,20"
-          text: ~
+          text: "eingeschleust wurde nach Dänemark und dort hat sie einen dänischen Wiederstandskämpfer geheiratet, dies war also doppelt abgesichert."
         sequence-54:
           s: 54
           from: "00:04:18,20"
           to: "00:04:25,17"
-          text: ~
+          text: "Die hat sich bei der deutschen Kommandantur beworben und das sie Jüdisch sprach wusste niemand."
         sequence-55:
           s: 55
           from: "00:04:25,17"
           to: "00:04:30,28"
-          text: ~
+          text: "Sie sprach außerdem Deutsch, Französisch, Englisch und dann hat sie noch Dänisch gelernt"
         sequence-56:
           s: 56
           from: "00:04:30,28"
           to: "00:04:33,24"
-          text: ~
+          text: "und hat sich dann bei der Kommandantur beworben."
         sequence-57:
           s: 57
           from: "00:04:33,24"
           to: "00:04:38,06"
-          text: ~
+          text: "Da sie perfekt in Schreibmaschine und Steno war wurde sie sofort eingestellt"
         sequence-58:
           s: 58
           from: "00:04:38,06"
           to: "00:04:43,00"
-          text: ~
+          text: "und wegen ihrer Tüchtigkeit und ihrem  Sprachgewand dauerte das nicht lange"
         sequence-59:
           s: 59
           from: "00:04:43,00"
           to: "00:04:48,24"
-          text: ~
+          text: "dann saß sie im Vorzimmer des kommandierenden Generals, des deutschen kommandierenden Generals."
         sequence-60:
           s: 60
           from: "00:04:48,24"
           to: "00:04:51,12"
-          text: ~
+          text: "Hatte also Zugang zu all den Akten,"
         sequence-61:
           s: 61
           from: "00:04:51,12"
           to: "00:04:58,08"
-          text: ~
+          text: "all das was zum General ging oder vom ihn ging auch wenn es vom Führer kam, ging durch ihre Hände."
         sequence-62:
           s: 62
           from: "00:04:58,08"
           to: "00:05:00,24"
-          text: ~
+          text: "Das war natürlich eine Quelle"
         sequence-63:
           s: 63
           from: "00:05:00,24"
           to: "00:05:05,22"
-          text: ~
+          text: "und die hatte direkte Verbindung nach London, so dass also der Weg kürzer war,"
         sequence-64:
           s: 64
           from: "00:05:05,22"
           to: "00:05:14,13"
-          text: ~
+          text: "so dass die Verbindung von und nach London in kürzerer Zeit funktionierte."
         sequence-65:
           s: 65
           from: "00:05:14,13"
           to: "00:05:19,24"
-          text: ~
+          text: "Dann dauerte es nicht mehr sechs Wochen, sondern dann waren es vierzehn Tagen oder drei Wochen"
         sequence-66:
           s: 66
           from: "00:05:19,24"
           to: "00:05:24,01"
-          text: ~
+          text: "bis die Nachricht hin und her ging. Verschlüsselt natürlich."
