@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:18,27"
           to: "00:00:23,01"
-          text: "che aveva trasportato munizioni."
+          text: "che trasportava munizioni."
         sequence-5:
           s: 5
           from: "00:00:23,01"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:55,04"
           to: "00:01:07,04"
-          text: "Da Napoli siamo arrivati in Tunisia con lo Ju 52."
+          text: "Da Napoli arrivammo in Tunisia con lo Ju 52."
         sequence-10:
           s: 10
           from: "00:01:07,04"
@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:03:17,07"
           to: "00:03:25,07"
-          text: "Pensammo: \"Se gli americani vengono più avanti, gli consegneremo le nostre caserme."
+          text: "Pensammo: \"Se gli americani vengono più avanti, consegneremo loro le nostre caserme."
         sequence-33:
           s: 33
           from: "00:03:25,07"

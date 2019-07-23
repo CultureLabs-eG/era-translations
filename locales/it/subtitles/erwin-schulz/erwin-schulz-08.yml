@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:34,09"
           to: "00:00:38,05"
-          text: "Così siamo arrivati a \"Börgermoor\"."
+          text: "Così arrivammo a \"Börgermoor\"."
         sequence-10:
           s: 10
           from: "00:00:38,05"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:39,02"
           to: "00:00:46,25"
-          text: "Per andare là hanno usato una ferrovia a scartamento ridotto."
+          text: "Per andare là usarono una ferrovia a scartamento ridotto."
         sequence-12:
           s: 12
           from: "00:00:46,25"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:47,29"
           to: "00:00:50,24"
-          text: "Là ci hanno rivestito"
+          text: "Là ci rivestirono"
         sequence-14:
           s: 14
           from: "00:00:50,24"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:01:32,18"
           to: "00:01:42,13"
-          text: "Poi ci hanno tolto le scarpe di cuoio e ci hanno dato quelle di legno, come quelle olandesi"
+          text: "Poi ci tolsero le scarpe di cuoio e ci diedero quelle di legno, come quelle olandesi"
         sequence-24:
           s: 24
           from: "00:01:42,13"
@@ -198,4 +198,4 @@ it:
           s: 39
           from: "00:02:49,00"
           to: "00:02:53,15"
-          text: "\"Volontari, fatevi avanti\" e noi giovani procedemmo."
+          text: "\"Volontari, fatevi avanti\". Noi giovani procedemmo."

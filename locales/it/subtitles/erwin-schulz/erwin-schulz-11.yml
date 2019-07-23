@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,27"
           to: "00:00:05,24"
-          text: "Ero già stato chiamato alla raccolta a Aschendorfer Moor"
+          text: "Ero già stato chiamato alla raccolta ad Aschendorfer Moor"
         sequence-2:
           s: 2
           from: "00:00:05,24"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:16,22"
           to: "00:00:24,12"
-          text: "Politici e detenuti non erano degni."
+          text: "Prigionieri politici e detenuti non erano degni."
         sequence-5:
           s: 5
           from: "00:00:24,12"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:31,29"
           to: "00:00:38,28"
-          text: "Nel 1941/42 ci chiamarono nuovamente,"
+          text: "Nel 1941/42 ci chiamarono nuovamente."
         sequence-7:
           s: 7
           from: "00:00:38,28"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:41,04"
           to: "00:00:50,28"
-          text: "dato il numero spropositato di vittime nel fronte orientale."
+          text: "Dato il numero spropositato di vittime nel fronte orientale"
         sequence-9:
           s: 9
           from: "00:00:50,28"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:52,08"
           to: "00:00:57,00"
-          text: "Avevano bisogno di persone"
+          text: "avevano bisogno di persone"
         sequence-11:
           s: 11
           from: "00:00:57,00"

@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:20,24"
           to: "00:02:30,18"
-          text: "un terzo erano politici, un terzo criminali, un terzo ufficiali, sottoufficiali"
+          text: "un terzo erano prigionieri politici, un terzo criminali, un terzo ufficiali, sottufficiali"
         sequence-26:
           s: 26
           from: "00:02:30,18"
@@ -193,7 +193,7 @@ it:
           s: 38
           from: "00:03:54,05"
           to: "00:03:56,17"
-          text: "Eravamo tutti politici"
+          text: "Eravamo tutti prigionieri politici"
         sequence-39:
           s: 39
           from: "00:03:56,17"

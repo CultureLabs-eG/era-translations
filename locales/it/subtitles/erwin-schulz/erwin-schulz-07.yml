@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:23,21"
           to: "00:01:30,01"
-          text: "Un letto stava sotto la finestra, l'altro era attaccato al muro e"
+          text: "Un letto stava sotto la finestra, l'altro era attaccato al muro"
         sequence-22:
           s: 22
           from: "00:01:30,01"

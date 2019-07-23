@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:20,05"
           to: "00:02:28,24"
-          text: "Al tempo"
+          text: Allora
         sequence-26:
           s: 26
           from: "00:02:28,24"
