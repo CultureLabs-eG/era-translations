@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,18"
           to: "00:00:09,24"
-          text: ~
+          text: "Abbiamo portato la nostra conoscenza fino ai paesini più piccoli."
         sequence-2:
           s: 2
           from: "00:00:09,24"
@@ -68,19 +68,19 @@ it:
           s: 13
           from: "00:01:08,02"
           to: "00:01:14,00"
-          text: ~
+          text: "Sapevamo che l'uomo era fatto anche di emozioni ed forze motrici"
         sequence-14:
           s: 14
           from: "00:01:14,00"
           to: "00:01:17,26"
-          text: ~
+          text: "e con l'attività culturale dei nostri gruppi Agitprop,"
         sequence-15:
           s: 15
           from: "00:01:17,26"
           to: "00:01:23,18"
-          text: ~
+          text: "non ci rivolgevamo solo alla testa, ma all'uomo nel suo intero."
         sequence-16:
           s: 16
           from: "00:01:23,18"
           to: "00:01:27,24"
-          text: ~
+          text: "E ciò ha avuto il suo effetto."
