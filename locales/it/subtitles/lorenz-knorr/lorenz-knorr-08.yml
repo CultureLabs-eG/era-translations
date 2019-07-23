@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:01,11"
           to: "00:00:11,06"
-          text: ~
+          text: "Dopo l'accordo di Monaco a disposizione avevamo 36 divisioni, che entrarono in Cecoslovacchia da tutti i lati."
         sequence-2:
           s: 2
           from: "00:00:11,06"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:13,12"
           to: "00:00:19,18"
-          text: ~
+          text: "Boemia e Moravia erano circondate a nord, ovest e sud dalla Großdeutschland."
         sequence-4:
           s: 4
           from: "00:00:19,18"
@@ -28,27 +28,27 @@ it:
           s: 5
           from: "00:00:21,07"
           to: "00:00:28,14"
-          text: ~
+          text: "Allora succedeva così: all'inizio si lavorava da civile"
         sequence-6:
           s: 6
           from: "00:00:28,14"
           to: "00:00:33,12"
-          text: ~
+          text: "poi, con l'inizio della guerra nel '39, cominciarono i reclutamenti."
         sequence-7:
           s: 7
           from: "00:00:33,12"
           to: "00:00:40,26"
-          text: ~
+          text: "Venni arruolato a fine anni '40, così da poter lavorare illegalmente due anni come civile."
         sequence-8:
           s: 8
           from: "00:00:40,26"
           to: "00:00:45,14"
-          text: ~
+          text: "Solo quando ci arruolammo (l'alternativa era il campo di concentramento),"
         sequence-9:
           s: 9
           from: "00:00:45,14"
           to: "00:00:52,12"
-          text: ~
+          text: "iniziò il nostro lavoro alla Wehrmacht e il tentativo di creare gruppi antifascisti."
         sequence-10:
           s: 10
           from: "00:00:52,12"
@@ -58,22 +58,22 @@ it:
           s: 11
           from: "00:00:53,25"
           to: "00:01:02,17"
-          text: ~
+          text: "Dopo due anni di operazioni illegali, entrammo nella Wehrmacht. L'alternativa erano i campi di concentramento."
         sequence-12:
           s: 12
           from: "00:01:02,17"
           to: "00:01:13,00"
-          text: ~
+          text: "Ci consultammo sul da farsi; se rifiutare l'ordine di arruolarsi,"
         sequence-13:
           s: 13
           from: "00:01:13,00"
           to: "00:01:20,02"
-          text: ~
+          text: "ma avrebbe significato tortura e campi. Diciamo che come soldato si aveva più libertà d'azione."
         sequence-14:
           s: 14
           from: "00:01:20,02"
           to: "00:01:22,00"
-          text: ~
+          text: "Questa fu la nostra decisione."
         sequence-15:
           s: 15
           from: "00:01:22,00"
