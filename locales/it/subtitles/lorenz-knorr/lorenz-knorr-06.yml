@@ -18,52 +18,52 @@ it:
           s: 3
           from: "00:00:10,17"
           to: "00:00:12,25"
-          text: ~
+          text: "Il movimento operaio era forte nelle città."
         sequence-4:
           s: 4
           from: "00:00:12,25"
           to: "00:00:19,17"
-          text: ~
+          text: "Nei borghi coinvolgeva per lo più la popolazione rurale e alcuni artigiani."
         sequence-5:
           s: 5
           from: "00:00:19,17"
           to: "00:00:22,14"
-          text: ~
+          text: "Per ottenere una certa influenza anche qui,"
         sequence-6:
           s: 6
           from: "00:00:22,14"
           to: "00:00:31,26"
-          text: ~
+          text: "noi giovani socialisti abbiamo raggiunto questi paesini in bici e abbiamo organizzato eventi, cercando di coinvolgere le persone."
         sequence-7:
           s: 7
           from: "00:00:31,26"
           to: "00:00:40,25"
-          text: ~
+          text: "Durante gli eventi culturali abbiamo tenevamo discorsi, per cercare di chiarire cosa volesse dire fascismo,"
         sequence-8:
           s: 8
           from: "00:00:40,25"
           to: "00:00:45,12"
-          text: ~
+          text: "cosa significasse sostenere Hitler e, nel nostro caso, Hänlein."
         sequence-9:
           s: 9
           from: "00:00:45,12"
           to: "00:00:50,07"
-          text: ~
+          text: "Era un lavoro di delucidazione. Avevamo anche i nostri gruppi Agitprop,"
         sequence-10:
           s: 10
           from: "00:00:50,07"
           to: "00:00:56,21"
-          text: ~
+          text: "che erano stati educati ad ottenere le cose attraverso la cultura"
         sequence-11:
           s: 11
           from: "00:00:56,21"
           to: "00:01:00,05"
-          text: ~
+          text: "quando i discorsi non bastavano."
         sequence-12:
           s: 12
           from: "00:01:00,05"
           to: "00:01:08,02"
-          text: ~
+          text: "Eravamo consapevoli che non si trattava solo di rivolgersi all'intelletto delle persone."
         sequence-13:
           s: 13
           from: "00:01:08,02"
