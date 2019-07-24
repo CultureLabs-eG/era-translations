@@ -2,7 +2,7 @@ it:
   lorenz-knorr:
     chapter-8:
       c: 8
-      title: ~
+      title: "Resistenza alla Wehrmacht tedesca."
       subtitles:
         sequence-1:
           s: 1
@@ -213,24 +213,24 @@ it:
           s: 42
           from: "00:03:44,11"
           to: "00:03:52,11"
-          text: "Per esempio gettammo sabbia sulle aziende. Sapevamo che uno solo non poteva ottenere molto,"
+          text: "Quindi gli mettemmo i bastoni tra le ruote. Sapevamo che uno solo non poteva ottenere molto,"
         sequence-43:
           s: 43
           from: "00:03:52,11"
           to: "00:03:55,24"
-          text: ~
+          text: "ma quando azioni come queste continuano a ripetersi,"
         sequence-44:
           s: 44
           from: "00:03:55,24"
           to: "00:04:03,06"
-          text: ~
+          text: "non si tratta solo di calmare la propria coscienza: io ero contrario e ho fatto qualcosa contro di loro."
         sequence-45:
           s: 45
           from: "00:04:03,06"
           to: "00:04:06,03"
-          text: ~
+          text: "Si tratta anche di mostrare l'altra parte:"
         sequence-46:
           s: 46
           from: "00:04:06,03"
           to: "00:04:10,15"
-          text: ~
+          text: "\"Non potete fare quello che volete. Noi vi teniamo d'occhio!\""
