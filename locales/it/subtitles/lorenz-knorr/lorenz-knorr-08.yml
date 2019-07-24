@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:01,11"
           to: "00:00:11,06"
-          text: "Dopo l'accordo di Monaco a disposizione avevamo 36 divisioni, che entrarono in Cecoslovacchia da tutti i lati."
+          text: "Dopo l'accordo di Monaco avevamo a disposizione 36 divisioni, che entrarono in Cecoslovacchia da tutti i lati."
         sequence-2:
           s: 2
           from: "00:00:11,06"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:13,00"
           to: "00:01:20,02"
-          text: "ma avrebbe significato tortura e campi. Diciamo che come soldato si aveva più libertà d'azione."
+          text: "ma avrebbe significato tortura e campi. Come soldati avremmo avuto più libertà d'azione."
         sequence-14:
           s: 14
           from: "00:01:20,02"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:22,00"
           to: "00:01:36,01"
-          text: ~
+          text: "Da recluta, partecipai come soldato alla lotta antifascista. Ero a Bayreuth, dove c'era un gruppo illegale."
         sequence-16:
           s: 16
           from: "00:01:36,01"
