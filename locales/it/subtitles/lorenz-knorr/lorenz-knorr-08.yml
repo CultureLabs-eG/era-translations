@@ -88,42 +88,42 @@ it:
           s: 17
           from: "00:01:37,00"
           to: "00:01:43,09"
-          text: ~
+          text: "Un commesso viaggiatore antifascista, che faceva sempre avanti e indietro per il confine,"
         sequence-18:
           s: 18
           from: "00:01:43,09"
           to: "00:01:46,23"
-          text: ~
+          text: "mi mise in contatto con il gruppo antifascista."
         sequence-19:
           s: 19
           from: "00:01:46,23"
           to: "00:01:50,21"
-          text: ~
+          text: "Per loro ero uno sconosciuto. Volevano una prova"
         sequence-20:
           s: 20
           from: "00:01:50,21"
           to: "00:01:53,22"
-          text: ~
+          text: "di quanto fossi affidabile e di cosa sapessi fare."
         sequence-21:
           s: 21
           from: "00:01:53,22"
           to: "00:01:59,02"
-          text: ~
+          text: "Mi dissero che avevano bisogno di munizioni: \"Puoi procurarci una cassa di granate?"
         sequence-22:
           s: 22
           from: "00:01:59,02"
           to: "00:02:06,01"
-          text: ~
+          text: "Abbiamo l'esplosivo, non abbastanza, ma il resto c'è!\""
         sequence-23:
           s: 23
           from: "00:02:06,01"
           to: "00:02:09,01"
-          text: ~
+          text: "Fu molto difficile,"
         sequence-24:
           s: 24
           from: "00:02:09,01"
           to: "00:02:17,20"
-          text: ~
+          text: "ma durante un trasporto misi in disparte una cassa di granate, rischiando la mia vita. Poi li informai."
         sequence-25:
           s: 25
           from: "00:02:17,20"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:18,19"
           to: "00:02:27,04"
-          text: ~
+          text: "Tre giorni dopo a Bayreuth, l'ufficio distrettuale di leva saltò in aria con tutto lo schedario."
         sequence-27:
           s: 27
           from: "00:02:27,04"
@@ -143,17 +143,17 @@ it:
           s: 28
           from: "00:02:28,14"
           to: "00:02:33,29"
-          text: ~
+          text: "Nella fabbrica d'armi, la macchina più importante fu distrutta. La parte più difficile:"
         sequence-29:
           s: 29
           from: "00:02:33,29"
           to: "00:02:38,04"
-          text: ~
+          text: "nell'aerodromo, facemmo esplodere due macchine su tre."
         sequence-30:
           s: 30
           from: "00:02:38,04"
           to: "00:02:44,08"
-          text: ~
+          text: "Non io, ma gli antifascisti di Bayreuth. Io però li aiutai come recluta."
         sequence-31:
           s: 31
           from: "00:02:44,08"
@@ -163,12 +163,12 @@ it:
           s: 32
           from: "00:02:45,15"
           to: "00:02:50,10"
-          text: ~
+          text: "La questione era: cosa si poteva fare da soldati in un territorio sconosciuto?"
         sequence-33:
           s: 33
           from: "00:02:50,10"
           to: "00:02:58,10"
-          text: ~
+          text: "Cercammo sempre di creare gruppi antifascisti,"
         sequence-34:
           s: 34
           from: "00:02:58,10"
@@ -178,42 +178,42 @@ it:
           s: 35
           from: "00:02:59,10"
           to: "00:03:05,09"
-          text: ~
+          text: "ma non era facile scoprire chi la pensava come noi."
         sequence-36:
           s: 36
           from: "00:03:05,09"
           to: "00:03:08,16"
-          text: ~
+          text: "Dovevamo fare attenzione ad alcune domande."
         sequence-37:
           s: 37
           from: "00:03:08,16"
           to: "00:03:14,10"
-          text: ~
+          text: "A volte si facevano delle battute e dal modo in cui reagivano"
         sequence-38:
           s: 38
           from: "00:03:14,10"
           to: "00:03:22,29"
-          text: ~
+          text: "si capiva chi era un oppositore del fascismo o chi si indignava davanti a quelle battute contro i nazisti."
         sequence-39:
           s: 39
           from: "00:03:22,29"
           to: "00:03:33,06"
-          text: ~
+          text: "Nel tempo in cui fui soldato, ci fu sempre e ovunque un gruppo antifascista all'interno dell'unità."
         sequence-40:
           s: 40
           from: "00:03:33,06"
           to: "00:03:38,19"
-          text: ~
+          text: "Fu ancora meglio dopo la mia grave ferita."
         sequence-41:
           s: 41
           from: "00:03:38,19"
           to: "00:03:44,11"
-          text: ~
+          text: "Come piccolo gruppo cercammo di fare il possibile."
         sequence-42:
           s: 42
           from: "00:03:44,11"
           to: "00:03:52,11"
-          text: ~
+          text: "Per esempio gettammo sabbia sulle aziende. Sapevamo che uno solo non poteva ottenere molto,"
         sequence-43:
           s: 43
           from: "00:03:52,11"
