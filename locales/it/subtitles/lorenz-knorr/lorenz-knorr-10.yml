@@ -2,28 +2,28 @@ it:
   lorenz-knorr:
     chapter-10:
       c: 10
-      title: ~
+      title: "Soldato in Africa"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,20"
           to: "00:00:17,06"
-          text: ~
+          text: "Mi spostarono in Africa. Là dovevo combattere contro una pattuglia di motociclette."
         sequence-2:
           s: 2
           from: "00:00:17,06"
           to: "00:00:23,27"
-          text: ~
+          text: "Anche se devo dire che avevamo promesso che da soldati"
         sequence-3:
           s: 3
           from: "00:00:23,27"
           to: "00:00:28,01"
-          text: ~
+          text: "non avremmo mai sparato ad uno identificato da loro come nemico."
         sequence-4:
           s: 4
           from: "00:00:28,01"
           to: "00:00:32,12"
-          text: ~
+          text: "Sparammo in aria e non mai colpimmo nessuno, se non in caso di legittima difesa."
         sequence-5:
           s: 5
           from: "00:00:32,12"
@@ -33,27 +33,27 @@ it:
           s: 6
           from: "00:00:34,20"
           to: "00:00:36,15"
-          text: ~
+          text: "Là continuai a lavorare illegalmente."
         sequence-7:
           s: 7
           from: "00:00:36,15"
           to: "00:00:45,05"
-          text: ~
+          text: "Per esempio all'ospedale di Tripoli mi si avvicinarono un gruppo di medici antifascisti"
         sequence-8:
           s: 8
           from: "00:00:45,05"
           to: "00:00:47,29"
-          text: ~
+          text: "e un gruppo antifascista di radiotelegrafisti."
         sequence-9:
           s: 9
           from: "00:00:47,29"
           to: "00:01:00,03"
-          text: ~
+          text: "Mi chiesero se potevo procurargli delle micce, perché a Bengasi erano pronti per un'esplosione."
         sequence-10:
           s: 10
           from: "00:01:00,03"
           to: "00:01:03,07"
-          text: ~
+          text: "Di esplosivo ne avevano abbastanza, ma mancavano le micce."
         sequence-11:
           s: 11
           from: "00:01:03,07"
@@ -63,47 +63,47 @@ it:
           s: 12
           from: "00:01:04,17"
           to: "00:01:10,20"
-          text: ~
+          text: "Quindi mi organizzai assieme a due persone fidate."
         sequence-13:
           s: 13
           from: "00:01:10,20"
           to: "00:01:19,22"
-          text: ~
+          text: "Si aggregarono i soldati convalescenti dell'ospedale e così ci siamo procurati le micce."
         sequence-14:
           s: 14
           from: "00:01:19,22"
           to: "00:01:30,02"
-          text: ~
+          text: "Qualche giorno dopo, a Bengasi, un quarto del più grande deposito di munizioni dell'esercito di Rommel in Africa, saltò in aria."
         sequence-15:
           s: 15
           from: "00:01:30,02"
           to: "00:01:33,01"
-          text: ~
+          text: "Poi emerse un nuovo problema."
         sequence-16:
           s: 16
           from: "00:01:33,01"
           to: "00:01:38,21"
-          text: ~
+          text: "Erano stati uccisi sei arabi e un soldato tedesco"
         sequence-17:
           s: 17
           from: "00:01:38,21"
           to: "00:01:43,07"
-          text: ~
+          text: "che non avevano partecipato affatto, perciò sorse la questione:"
         sequence-18:
           s: 18
           from: "00:01:43,07"
           to: "00:01:49,26"
-          text: ~
+          text: "\"Sei colpevole per la morte di quegli innocenti uccisi dalla Wehrmacht!\""
         sequence-19:
           s: 19
           from: "00:01:49,26"
           to: "00:01:54,29"
-          text: ~
+          text: "Poi però c'era da considerare: di chi era la colpa più grande?"
         sequence-20:
           s: 20
           from: "00:01:54,29"
           to: "00:01:59,01"
-          text: ~
+          text: "Se non fai niente contro questo regime di criminali,"
         sequence-21:
           s: 21
           from: "00:01:59,01"
@@ -113,17 +113,17 @@ it:
           s: 22
           from: "00:02:00,10"
           to: "00:02:05,09"
-          text: ~
+          text: "se subisci rimanendo in silenzio, che colpa si addossa su di te poi?"
         sequence-23:
           s: 23
           from: "00:02:05,09"
           to: "00:02:10,29"
-          text: ~
+          text: "La guerra causa così tante morti.. Non dovresti considerare"
         sequence-24:
           s: 24
           from: "00:02:10,29"
           to: "00:02:15,13"
-          text: ~
+          text: "che nella lotta contro il fascismo possano morire anche persone innocenti?"
         sequence-25:
           s: 25
           from: "00:02:15,13"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:02:16,18"
           to: "00:02:22,19"
-          text: ~
+          text: "Questa è una questione importante nella vita civile ed è lo stesso durante la guerra."
         sequence-27:
           s: 27
           from: "00:02:22,19"
           to: "00:02:27,23"
-          text: ~
+          text: "La lotta contro il regime fascista viene prima di tutto."
         sequence-28:
           s: 28
           from: "00:02:27,23"
