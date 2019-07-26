@@ -2,18 +2,18 @@ it:
   lorenz-knorr:
     chapter-13:
       c: 13
-      title: ~
+      title: "Fine della guerra"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,20"
           to: "00:00:05,08"
-          text: ~
+          text: "Alla fine della guerra mi ferirono di nuovo gravemente."
         sequence-2:
           s: 2
           from: "00:00:05,08"
           to: "00:00:13,20"
-          text: ~
+          text: "Per poco tempo fui seppellito da una bomba aerea britannica e rimasi incosciente per due giorni."
         sequence-3:
           s: 3
           from: "00:00:13,20"
