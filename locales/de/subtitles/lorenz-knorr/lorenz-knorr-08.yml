@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:01,11"
           to: "00:00:11,06"
-          text: ~
+          text: "Wir hatten nachdem Münchener Abkommen die 36 bereitgestellten Divisionen, die in die Tschechoslowakei einmarschierten von allen Seiten."
         sequence-2:
           s: 2
           from: "00:00:11,06"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:13,12"
           to: "00:00:19,18"
-          text: ~
+          text: "Böhmen und Mähren waren im Norden, Westen und im Süden von Großdeutschland eingekreist."
         sequence-4:
           s: 4
           from: "00:00:19,18"
@@ -28,27 +28,27 @@ de:
           s: 5
           from: "00:00:21,07"
           to: "00:00:28,14"
-          text: ~
+          text: "Zu dieser Zeit war dann so, dass man erst mal als Zivilist arbeitete"
         sequence-6:
           s: 6
           from: "00:00:28,14"
           to: "00:00:33,12"
-          text: ~
+          text: "und erst als dann, ’39 der Krieg begann, begann dann die Einberufungen."
         sequence-7:
           s: 7
           from: "00:00:33,12"
           to: "00:00:40,26"
-          text: ~
+          text: "Ich wurde aber erst Ende 40 einberufen, so dass wir zwei Jahre Zeit hatten für die illegale Arbeit als Zivilisten."
         sequence-8:
           s: 8
           from: "00:00:40,26"
           to: "00:00:45,14"
-          text: ~
+          text: "Erst dann, als wir zur Wehrmacht mussten, Alternative KZ,"
         sequence-9:
           s: 9
           from: "00:00:45,14"
           to: "00:00:52,12"
-          text: ~
+          text: "begann also die Arbeit in der Wehrmacht und der Versuch Antifa – Zellen zu bilden. Wo man auch jeweils stand."
         sequence-10:
           s: 10
           from: "00:00:52,12"
@@ -58,27 +58,27 @@ de:
           s: 11
           from: "00:00:53,25"
           to: "00:01:02,17"
-          text: ~
+          text: "Ich bin nachdem wir fast zwei Jahre illegal gearbeitet haben, wie viel ja andere von uns, zur Wehrmacht eingezogen wurden, oder die Alternative wäre KZ gewesen."
         sequence-12:
           s: 12
           from: "00:01:02,17"
           to: "00:01:13,00"
-          text: ~
+          text: "Wir haben beraten, was machen wir, weigern wir uns den Einberufungsbefehl anzunehmen,"
         sequence-13:
           s: 13
           from: "00:01:13,00"
           to: "00:01:20,02"
-          text: ~
+          text: "dann bedeutet das Folter und KZ oder aber sagen wir als Soldat hast du mehr Spielraum."
         sequence-14:
           s: 14
           from: "00:01:20,02"
           to: "00:01:22,00"
-          text: ~
+          text: "Das war unsere gemeinsame Entscheidung."
         sequence-15:
           s: 15
           from: "00:01:22,00"
           to: "00:01:36,01"
-          text: ~
+          text: "Ich habe also schon als Rekrut eine Bewährungsprobe abzulegen gehabt, als Soldat im antifaschistischen Kampf. Meine Rekrutenzeit war in Bayreuth und dort gab es eine illegale Gruppe."
         sequence-16:
           s: 16
           from: "00:01:36,01"
@@ -88,42 +88,42 @@ de:
           s: 17
           from: "00:01:37,00"
           to: "00:01:43,09"
-          text: ~
+          text: "Ein Handlungsreisender, ein Antifaschist, der zwischen den Grenzen hin und her pendelte,"
         sequence-18:
           s: 18
           from: "00:01:43,09"
           to: "00:01:46,23"
-          text: ~
+          text: "der hat mich dort in Verbindung gebracht mit der Antifa-Gruppe."
         sequence-19:
           s: 19
           from: "00:01:46,23"
           to: "00:01:50,21"
-          text: ~
+          text: "Für die war ich ein Fremder, die wollten einen Beweiß haben,"
         sequence-20:
           s: 20
           from: "00:01:50,21"
           to: "00:01:53,22"
-          text: ~
+          text: "wie verlässlich ist der Mann und was kann er."
         sequence-21:
           s: 21
           from: "00:01:53,22"
           to: "00:01:59,02"
-          text: ~
+          text: "Sie haben gesagt, wir brauchen Munition: „Kannst du uns eine Kiste Handgranaten besorgen?"
         sequence-22:
           s: 22
           from: "00:01:59,02"
           to: "00:02:06,01"
-          text: ~
+          text: "Wir haben Sprengstoff, in nicht genügend Maß aber alles andere ist da!“"
         sequence-23:
           s: 23
           from: "00:02:06,01"
           to: "00:02:09,01"
-          text: ~
+          text: "Es war eine sehr schwierige Sache,"
         sequence-24:
           s: 24
           from: "00:02:09,01"
           to: "00:02:17,20"
-          text: ~
+          text: "aber ich habe unter Einsatz meines Lebens eine Kiste Handgranaten bei einem Transport auf die Seite geschafft und sie benachrichtig."
         sequence-25:
           s: 25
           from: "00:02:17,20"
@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:02:18,19"
           to: "00:02:27,04"
-          text: ~
+          text: "Drei Tage später flog in Bayreuth das Wehrkreisersatzamt in die Luft mit der gesamten Kartei."
         sequence-27:
           s: 27
           from: "00:02:27,04"
@@ -143,17 +143,17 @@ de:
           s: 28
           from: "00:02:28,14"
           to: "00:02:33,29"
-          text: ~
+          text: "Im Rüstungsbetrieb flog die wichtigste Maschine in die Luft und das schwierigste:"
         sequence-29:
           s: 29
           from: "00:02:33,29"
           to: "00:02:38,04"
-          text: ~
+          text: "auf dem Flugplatz, haben wir von drei Maschinen zwei in die Luft gesprengt."
         sequence-30:
           s: 30
           from: "00:02:38,04"
           to: "00:02:44,08"
-          text: ~
+          text: "Nicht ich, die Bayreuther Antifaschisten, aber ich habe mitgeholfen schon als Rekrut."
         sequence-31:
           s: 31
           from: "00:02:44,08"
@@ -163,12 +163,12 @@ de:
           s: 32
           from: "00:02:45,15"
           to: "00:02:50,10"
-          text: ~
+          text: "Die Frage was kann man als Soldat tun, in einer fremden Umgebung."
         sequence-33:
           s: 33
           from: "00:02:50,10"
           to: "00:02:58,10"
-          text: ~
+          text: "Wir haben immer versucht Antifa-Zellen zu bilden und wenn es ein Mann war oder zwei"
         sequence-34:
           s: 34
           from: "00:02:58,10"
@@ -178,59 +178,59 @@ de:
           s: 35
           from: "00:02:59,10"
           to: "00:03:05,09"
-          text: ~
+          text: "war es nicht leicht heraus zubekommen, wo ist jemand der genauso denkt wie du."
         sequence-36:
           s: 36
           from: "00:03:05,09"
           to: "00:03:08,16"
-          text: ~
+          text: "Man musste ja bei solchen Fragen sehr vorsichtig vorgehen."
         sequence-37:
           s: 37
           from: "00:03:08,16"
           to: "00:03:14,10"
-          text: ~
+          text: "Manchmal hat einer einen Witz erzählt und man hat an der Art der Reaktion gemerkt,"
         sequence-38:
           s: 38
           from: "00:03:14,10"
           to: "00:03:22,29"
-          text: ~
+          text: "ist er ein Gegner des Faschismus oder ist er jetzt empört, wenn ein Witz gegen die Nazis erzählt wird, also das waren oft Testfälle"
         sequence-39:
           s: 39
           from: "00:03:22,29"
           to: "00:03:33,06"
-          text: ~
+          text: "Wo ich auch war, ich habe immer und überall in absehbarer Zeit eine Zelle in der Einheit gehabt, in der ich als Soldat gewesen bin."
         sequence-40:
           s: 40
           from: "00:03:33,06"
           to: "00:03:38,19"
-          text: ~
+          text: "Das ging nachher, nach der schweren Verwundung noch viel besser"
         sequence-41:
           s: 41
           from: "00:03:38,19"
           to: "00:03:44,11"
-          text: ~
+          text: "und wir haben dann versucht als kleine Gruppe das uns mögliche zu tun,"
         sequence-42:
           s: 42
           from: "00:03:44,11"
           to: "00:03:52,11"
-          text: ~
+          text: "also ein bisschen Sand ins Getriebe zu streuen. Wohlwissend das der einzelne nicht viel erreichen kann,"
         sequence-43:
           s: 43
           from: "00:03:52,11"
           to: "00:03:55,24"
-          text: ~
+          text: "aber wenn so etwas in Fülle passiert,"
         sequence-44:
           s: 44
           from: "00:03:55,24"
           to: "00:04:03,06"
-          text: ~
+          text: "das man sehr wohl nicht nur sein Gewissen beruhigen kann, ich war dagegen, ich habe etwas dagegen gemacht,"
         sequence-45:
           s: 45
           from: "00:04:03,06"
           to: "00:04:06,03"
-          text: ~
+          text: "sondern auch das man der anderen Seite zeigen konnte:"
         sequence-46:
           s: 46
           from: "00:04:06,03"
           to: "00:04:10,15"
-          text: ~
+          text: "\"Ihr könnt nicht machen was ihr wollt. Wir sind da und wir passen auf!\""

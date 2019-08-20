@@ -2,18 +2,18 @@ it:
   erwin-schulz:
     chapter-4:
       c: 4
-      title: ~
+      title: "Formazione politica"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,12"
           to: "00:00:17,27"
-          text: ~
+          text: "Una cosa che mi stimolò particolarmente, fu la pubblicazione"
         sequence-2:
           s: 2
           from: "00:00:17,27"
           to: "00:00:25,15"
-          text: ~
+          text: "del libro \"Niente di nuovo sul fronte occidentale\" di Remarque nel 1929."
         sequence-3:
           s: 3
           from: "00:00:25,15"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:26,09"
           to: "00:00:38,00"
-          text: ~
+          text: "Il libro fu letto dai giovani del sindacato,"
         sequence-5:
           s: 5
           from: "00:00:38,00"
           to: "00:00:50,13"
-          text: ~
+          text: "da quelli della SAJ (giovani lavoratori socialisti), dai giovani comunisti e dai lavoratori sportivi."
         sequence-6:
           s: 6
           from: "00:00:50,13"
@@ -38,27 +38,27 @@ it:
           s: 7
           from: "00:00:52,06"
           to: "00:01:05,21"
-          text: ~
+          text: "I più anziani, che avevano partecipato alla prima guerra mondiale, dovevano riportare le loro esperienze nelle serate del centro giovani."
         sequence-8:
           s: 8
           from: "00:01:05,21"
           to: "00:01:09,11"
-          text: ~
+          text: "\"Com'era a Verdun o in altre parti?\""
         sequence-9:
           s: 9
           from: "00:01:09,11"
           to: "00:01:33,29"
-          text: ~
+          text: "Esperienze reali che resero i giovani oppositori della guerra."
         sequence-10:
           s: 10
           from: "00:01:33,29"
           to: "00:01:44,22"
-          text: ~
+          text: "Le SA provarono a nascondere il film e ci riuscirono."
         sequence-11:
           s: 11
           from: "00:01:44,22"
           to: "00:01:58,04"
-          text: ~
+          text: "Questo rafforzò la lotta contro il pericolo fascista, che si sviluppò negli anni."
         sequence-12:
           s: 12
           from: "00:01:58,04"
@@ -68,4 +68,4 @@ it:
           s: 13
           from: "00:02:00,13"
           to: "00:02:04,11"
-          text: ~
+          text: "Fu una cosa che mi accompagnò sempre nella vita, nella lotta contro la guerra e il fascismo."

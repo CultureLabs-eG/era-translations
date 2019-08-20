@@ -8,39 +8,39 @@ de:
           s: 1
           from: "00:00:00,20"
           to: "00:00:05,08"
-          text: ~
+          text: "Ich wurde am Schluss des Krieges noch mal schwer verwundet."
         sequence-2:
           s: 2
           from: "00:00:05,08"
           to: "00:00:13,20"
-          text: ~
+          text: "Ich war kurze Zeit verschüttet, durch eine britische Fliegerbombe und war dann zwei Tage bewusstlos."
         sequence-3:
           s: 3
           from: "00:00:13,20"
           to: "00:00:22,04"
-          text: ~
+          text: "Den 8. Mai erlebte ich in einem Behelfslazarett in britischer Gefangenschaft."
         sequence-4:
           s: 4
           from: "00:00:22,04"
           to: "00:00:34,16"
-          text: ~
+          text: "Da gab es also nur wenige, die sich freuten wie ich, sondern manchen war es gleichgültig, bestenfalls der Krieg ist zu Ende. Aber was kommt jetzt auf uns zu?"
         sequence-5:
           s: 5
           from: "00:00:34,16"
           to: "00:00:44,11"
-          text: ~
+          text: "Manche, vor allem junge Offiziere, die mit mir im Lazarett lagen, die waren natürlich ausgesprochen feindlich demgegenüber gestellt."
         sequence-6:
           s: 6
           from: "00:00:44,11"
           to: "00:00:48,23"
-          text: ~
+          text: "So ungefähr: „Jetzt muss es weiter gehen, wir müssen weiter kämpfen!“"
         sequence-7:
           s: 7
           from: "00:00:48,23"
           to: "00:00:54,02"
-          text: ~
+          text: "Da haben dann auch einige von Ihnen, im sogenannten Wehrwolf eine Rolle gespielt,"
         sequence-8:
           s: 8
           from: "00:00:54,02"
           to: "00:00:59,13"
-          text: ~
+          text: "also als Leiter von jungen Leuten die sich gegen die Besatzer zur Wehr setzten. Aber das währte nicht sehr lange, das brach sehr bald zusammen."

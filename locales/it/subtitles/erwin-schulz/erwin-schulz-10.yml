@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-10:
       c: 10
-      title: ~
+      title: "Interrogatorio della Gestapo, Rilascio, Supporto"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:07,01"
-          text: ~
+          text: "Nel Gennaio 1940 fui spostato."
         sequence-2:
           s: 2
           from: "00:00:07,01"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:09,09"
           to: "00:00:10,17"
-          text: ~
+          text: "Non venni liberato."
         sequence-4:
           s: 4
           from: "00:00:10,17"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:11,25"
           to: "00:00:18,03"
-          text: ~
+          text: "Durante la guerra era normale che molti non venissero liberati."
         sequence-6:
           s: 6
           from: "00:00:18,03"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:19,00"
           to: "00:00:26,12"
-          text: ~
+          text: "Mi portarono ad Hannover per un paio di giorni e poi a Berlino."
         sequence-8:
           s: 8
           from: "00:00:26,12"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:27,08"
           to: "00:00:31,24"
-          text: ~
+          text: "Con la Gestapo ci furono nuovi interrogatori."
         sequence-10:
           s: 10
           from: "00:00:31,24"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:35,27"
           to: "00:00:43,02"
-          text: ~
+          text: "Mia sorella sapeva che mi avevano spostato a Berlino"
         sequence-12:
           s: 12
           from: "00:00:43,02"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:44,14"
           to: "00:00:51,10"
-          text: ~
+          text: "e tutti i giorni andava là e chiedeva: \"Quando rilasciate mio fratello?\""
         sequence-14:
           s: 14
           from: "00:00:51,10"
@@ -78,12 +78,12 @@ it:
           s: 15
           from: "00:00:53,25"
           to: "00:01:02,27"
-          text: ~
+          text: "E vi dico: se non si fosse impegnata così tanto,"
         sequence-16:
           s: 16
           from: "00:01:02,27"
           to: "00:01:05,22"
-          text: ~
+          text: "non sarei mai uscito da quel posto."
         sequence-17:
           s: 17
           from: "00:01:05,22"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:09,19"
           to: "00:01:18,17"
-          text: ~
+          text: "Per cinque anni fui sotto sorveglianza, come stabiliva il verdetto."
         sequence-19:
           s: 19
           from: "00:01:18,17"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:19,28"
           to: "00:01:27,00"
-          text: ~
+          text: "Avrebbero potuto riarrestarmi in un qualsiasi momento, perché non potevo uscire dalla Germania."
         sequence-21:
           s: 21
           from: "00:01:27,00"
@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:01:27,15"
           to: "00:01:37,05"
-          text: ~
+          text: "Un amico mi procurò un lavoro. Insieme abbiamo lavorato illegalmente."
         sequence-23:
           s: 23
           from: "00:01:37,05"
           to: "00:01:39,03"
-          text: ~
+          text: "Era del gruppo musicale."
         sequence-24:
           s: 24
           from: "00:01:39,03"
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:01:41,23"
           to: "00:01:48,03"
-          text: ~
+          text: "Ancora una cosa: C'erano biglietti per tutto."
         sequence-26:
           s: 26
           from: "00:01:48,03"
           to: "00:02:01,25"
-          text: ~
+          text: "Quando mi rilasciarono, gli amici e i compagni con cui avevo lavorato, avevano raccolto:"
         sequence-27:
           s: 27
           from: "00:02:01,25"
@@ -143,14 +143,14 @@ it:
           s: 28
           from: "00:02:03,02"
           to: "00:02:11,04"
-          text: ~
+          text: "burro, uno aveva sgozzato un pollo."
         sequence-29:
           s: 29
           from: "00:02:11,04"
           to: "00:02:30,11"
-          text: ~
+          text: "Si veniva subito aiutati. Dopo la detenzione si riceveva un'accoglienza dignitosa."
         sequence-30:
           s: 30
           from: "00:02:30,11"
           to: "00:02:39,00"
-          text: ~
+          text: "Non si poteva festeggiare alcuna festa, ma si riceveva del sostegno."

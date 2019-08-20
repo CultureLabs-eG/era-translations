@@ -2,23 +2,23 @@ it:
   lorenz-knorr:
     chapter-9:
       c: 9
-      title: ~
+      title: "Utilizzo di codici"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,09"
           to: "00:00:06,11"
-          text: ~
+          text: "Già nell'estate del 1938, quindi prima dell'arrivo dei nazisti, avevamo concordato che"
         sequence-2:
           s: 2
           from: "00:00:06,11"
           to: "00:00:10,13"
-          text: ~
+          text: "non solo avremmo mantenuto i contatti,"
         sequence-3:
           s: 3
           from: "00:00:10,13"
           to: "00:00:20,12"
-          text: ~
+          text: "ma avremmo elaborato una scrittura cifrata. Un codice sicuro con cui poter scambiare anche messaggi politici."
         sequence-4:
           s: 4
           from: "00:00:20,12"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:21,21"
           to: "00:00:28,02"
-          text: ~
+          text: "Era un codice segreto, che fino alla fine non venne decodificato dalla Gestapo."
         sequence-6:
           s: 6
           from: "00:00:28,02"
@@ -38,17 +38,17 @@ it:
           s: 7
           from: "00:00:29,02"
           to: "00:00:34,25"
-          text: ~
+          text: "Un sistema molto raffinato, chiamato \"Sistema a due caste\"."
         sequence-8:
           s: 8
           from: "00:00:34,25"
           to: "00:00:48,23"
-          text: ~
+          text: "Quando il codice veniva scoperto, bisognava ricattare il mittente e il destinatario, per ottenere più informazioni."
         sequence-9:
           s: 9
           from: "00:00:48,23"
           to: "00:00:53,23"
-          text: ~
+          text: "Così dovevamo di nuovo nascondere il codice; fu una mia idea."
         sequence-10:
           s: 10
           from: "00:00:53,23"
@@ -58,12 +58,12 @@ it:
           s: 11
           from: "00:00:54,19"
           to: "00:00:59,06"
-          text: ~
+          text: "Poi, per mimetizzarci, stabilimmo di usare l'articolo settimanale"
         sequence-12:
           s: 12
           from: "00:00:59,06"
           to: "00:01:05,04"
-          text: ~
+          text: "che Goebbels scriveva nel \"Völkischen Beobachter\" o nel \"Reich\"."
         sequence-13:
           s: 13
           from: "00:01:05,04"
@@ -73,32 +73,32 @@ it:
           s: 14
           from: "00:01:06,17"
           to: "00:01:10,01"
-          text: ~
+          text: "Lo sottolineavamo in rosso e nella lettera accompagnatoria scrivevamo:"
         sequence-15:
           s: 15
           from: "00:01:10,01"
           to: "00:01:16,05"
-          text: ~
+          text: "questa frase di Goebbels è importante, devi discuterne con altri, devi prestarle attenzione e così via."
         sequence-16:
           s: 16
           from: "00:01:16,05"
           to: "00:01:22,19"
-          text: ~
+          text: "Questo aveva solo la funzione di distrarre, perché l'articolo conteneva la scrittura cifrata."
         sequence-17:
           s: 17
           from: "00:01:22,19"
           to: "00:01:31,23"
-          text: ~
+          text: "Con un ago si pungevano alcune lettere sul retro del testo criptato."
         sequence-18:
           s: 18
           from: "00:01:31,23"
           to: "00:01:41,03"
-          text: ~
+          text: "Le lettere dovevano essere filtrate, tenendo il foglio sotto la luce. Così il testo veniva decodificato."
         sequence-19:
           s: 19
           from: "00:01:41,03"
           to: "00:01:45,23"
-          text: ~
+          text: "Nessuno notò che stavamo usando un codice segreto."
         sequence-20:
           s: 20
           from: "00:01:45,23"
@@ -108,12 +108,12 @@ it:
           s: 21
           from: "00:01:46,28"
           to: "00:01:51,07"
-          text: ~
+          text: "Quando poi la guerra iniziò ci fu un altro evento importante:"
         sequence-22:
           s: 22
           from: "00:01:51,07"
           to: "00:01:53,20"
-          text: ~
+          text: "con l'attacco alla Polonia,"
         sequence-23:
           s: 23
           from: "00:01:53,20"
@@ -123,17 +123,17 @@ it:
           s: 24
           from: "00:01:54,11"
           to: "00:01:59,00"
-          text: ~
+          text: "la Wehrmacht e la Luftwaffe cercavano aiuto militare femminile (Blitzmädchen)"
         sequence-25:
           s: 25
           from: "00:01:59,00"
           to: "00:02:05,22"
-          text: ~
+          text: "che potessero aiutarli come operatrici radio o centraliniste nei territori occupati."
         sequence-26:
           s: 26
           from: "00:02:05,22"
           to: "00:02:12,25"
-          text: ~
+          text: "Così 8 delle nostre compagne, che non appartenevano allo zoccolo duro, si offrirono volontarie."
         sequence-27:
           s: 27
           from: "00:02:12,25"
@@ -143,12 +143,12 @@ it:
           s: 28
           from: "00:02:13,19"
           to: "00:02:21,01"
-          text: ~
+          text: "Quindi dovevano essere messe al corrente del nostro codice, che prima conosceva solo lo zoccolo duro."
         sequence-29:
           s: 29
           from: "00:02:21,01"
           to: "00:02:29,00"
-          text: ~
+          text: "Noi dovevamo mantenere la connessione e loro dovevano entrare in contatto con i partigiani del posto."
         sequence-30:
           s: 30
           from: "00:02:29,00"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:02:29,29"
           to: "00:02:36,12"
-          text: ~
+          text: "Dopo che fui ferito gravemente in Africa nella Strafkompanie in Africa, mi spostarono a operatore radio."
         sequence-32:
           s: 32
           from: "00:02:36,12"
@@ -168,22 +168,22 @@ it:
           s: 33
           from: "00:02:37,18"
           to: "00:02:41,28"
-          text: ~
+          text: "così avevamo la possibilità di comunicare più velocemente."
         sequence-34:
           s: 34
           from: "00:02:41,28"
           to: "00:02:47,28"
-          text: ~
+          text: "Ogni radiotelegrafista poteva parlare, tramite radio, con qualsiasi altro operatore."
         sequence-35:
           s: 35
           from: "00:02:47,28"
           to: "00:02:54,27"
-          text: ~
+          text: "Dovevamo solo stare attenti, perché la Gestapo e le SS intercettavano tutto."
         sequence-36:
           s: 36
           from: "00:02:54,27"
           to: "00:03:01,05"
-          text: ~
+          text: "ma funzionò, così usammo anche la comunicazione via radio."
         sequence-37:
           s: 37
           from: "00:03:01,05"
@@ -193,12 +193,12 @@ it:
           s: 38
           from: "00:03:02,12"
           to: "00:03:07,20"
-          text: ~
+          text: "Non tutti riuscirono a farlo, ma io ci riuscii:"
         sequence-39:
           s: 39
           from: "00:03:07,20"
           to: "00:03:14,15"
-          text: ~
+          text: "Dal '41 al '45 comunicai con i membri del partito in esilio a Londra."
         sequence-40:
           s: 40
           from: "00:03:14,15"
@@ -208,129 +208,129 @@ it:
           s: 41
           from: "00:03:16,05"
           to: "00:03:19,26"
-          text: ~
+          text: "La posta codificata arrivò a Bergen in Norvegia."
         sequence-42:
           s: 42
           from: "00:03:19,26"
           to: "00:03:25,16"
-          text: ~
+          text: "Là c'era una nostra compagna (una Blitzmädchen), che era in contatto con i partigiani."
         sequence-43:
           s: 43
           from: "00:03:25,16"
           to: "00:03:27,28"
-          text: ~
+          text: "Loro portavano la posta in Svezia."
         sequence-44:
           s: 44
           from: "00:03:27,28"
           to: "00:03:32,10"
-          text: ~
+          text: "A Stoccolma c'era l'allora segretario del partito"
         sequence-45:
           s: 45
           from: "00:03:32,10"
           to: "00:03:36,20"
-          text: ~
+          text: "che aveva creato la connessione aerea tra Londra e Stoccolma."
         sequence-46:
           s: 46
           from: "00:03:36,20"
           to: "00:03:39,29"
-          text: ~
+          text: "Finché non arrivava la domanda:"
         sequence-47:
           s: 47
           from: "00:03:39,29"
           to: "00:03:42,01"
-          text: ~
+          text: "Com'è il morale della popolazione?"
         sequence-48:
           s: 48
           from: "00:03:42,01"
           to: "00:03:45,10"
-          text: ~
+          text: "Dove sono i posti per far atterrare i paracadutisti?"
         sequence-49:
           s: 49
           from: "00:03:45,10"
           to: "00:03:54,20"
-          text: ~
+          text: "Dove trovare un ambiente in cui possano vivere e operare in modo sicuro? Non bastava solo lanciarsi col paracadute."
         sequence-50:
           s: 50
           from: "00:03:54,20"
           to: "00:03:57,27"
-          text: ~
+          text: "Arrivavano queste domande e noi rispondevamo."
         sequence-51:
           s: 51
           from: "00:03:57,27"
           to: "00:04:04,24"
-          text: ~
+          text: "Più tardi diventò tutto più veloce, perché a una compagna,"
         sequence-52:
           s: 52
           from: "00:04:04,24"
           to: "00:04:10,14"
-          text: ~
+          text: "che era emigrata a Londra con i genitori, venne data una nuova identità."
         sequence-53:
           s: 53
           from: "00:04:10,14"
           to: "00:04:18,20"
-          text: ~
+          text: "Fu fatta entrare clandestinamente in Danimarca e là sposò un combattente della resistenza."
         sequence-54:
           s: 54
           from: "00:04:18,20"
           to: "00:04:25,17"
-          text: ~
+          text: "Fece domanda presso il posto di comando tedesco. Nessuno sapeva che parlasse ebraico."
         sequence-55:
           s: 55
           from: "00:04:25,17"
           to: "00:04:30,28"
-          text: ~
+          text: "Inoltre parlava tedesco, francese, inglese e danese."
         sequence-56:
           s: 56
           from: "00:04:30,28"
           to: "00:04:33,24"
-          text: ~
+          text: "Presentò domanda presso il posto di comando."
         sequence-57:
           s: 57
           from: "00:04:33,24"
           to: "00:04:38,06"
-          text: ~
+          text: "Dato che era bravissima con la macchina da scrivere e con la stenografia, venne subito assunta."
         sequence-58:
           s: 58
           from: "00:04:38,06"
           to: "00:04:43,00"
-          text: ~
+          text: "Grazie alla sua bravura ed eloquenza non ci volle molto"
         sequence-59:
           s: 59
           from: "00:04:43,00"
           to: "00:04:48,24"
-          text: ~
+          text: "prima che si sedesse nell'ufficio esterno del generale tedesco al comando."
         sequence-60:
           s: 60
           from: "00:04:48,24"
           to: "00:04:51,12"
-          text: ~
+          text: "Così aveva accesso a tutti gli atti."
         sequence-61:
           s: 61
           from: "00:04:51,12"
           to: "00:04:58,08"
-          text: ~
+          text: "Tutto quello che riguardava il generale e tutto quello che veniva dal Führer passava per le sue mani."
         sequence-62:
           s: 62
           from: "00:04:58,08"
           to: "00:05:00,24"
-          text: ~
+          text: "Ovviamente era una fonte"
         sequence-63:
           s: 63
           from: "00:05:00,24"
           to: "00:05:05,22"
-          text: ~
+          text: "e aveva diretto contatto con Londra. Così il percorso diventava più corto"
         sequence-64:
           s: 64
           from: "00:05:05,22"
           to: "00:05:14,13"
-          text: ~
+          text: "perché i contatti per e da Londra erano diventati più veloci."
         sequence-65:
           s: 65
           from: "00:05:14,13"
           to: "00:05:19,24"
-          text: ~
+          text: "Non ci volevano più sei settimane, ma circa due o tre"
         sequence-66:
           s: 66
           from: "00:05:19,24"
           to: "00:05:24,01"
-          text: ~
+          text: "perché il messaggio arrivasse e tornasse. Ovviamente cifrato."

@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-2:
       c: 2
-      title: ~
+      title: "Apprendistato, inflazione."
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,21"
           to: "00:00:05,13"
-          text: ~
+          text: "Non ricordo quando tornò a casa mio padre."
         sequence-2:
           s: 2
           from: "00:00:05,13"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:07,02"
           to: "00:00:16,09"
-          text: ~
+          text: "Quando i soldati demobilitati arrivavano a Tempelhof,"
         sequence-4:
           s: 4
           from: "00:00:16,09"
           to: "00:00:22,15"
-          text: ~
+          text: "correvo sempre a vederli, ma mio padre non c'era mai."
         sequence-5:
           s: 5
           from: "00:00:22,15"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:23,27"
           to: "00:00:33,27"
-          text: ~
+          text: "Un altro evento che accadde nel 1923 fu l'inflazione."
         sequence-7:
           s: 7
           from: "00:00:33,27"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:35,05"
           to: "00:00:43,23"
-          text: ~
+          text: "Mia sorella stava davanti al fornaio e io dal macellaio."
         sequence-9:
           s: 9
           from: "00:00:43,23"
@@ -53,17 +53,17 @@ it:
           s: 10
           from: "00:00:44,27"
           to: "00:00:55,23"
-          text: ~
+          text: "Aspettavamo finché non arrivava mio padre con uno zaino pieno di soldi."
         sequence-11:
           s: 11
           from: "00:00:55,23"
           to: "00:01:08,25"
-          text: ~
+          text: "Ce ne dava un sacchettino, con cui pagavamo il pane, 250 grammi di salsiccia e mezzo chilo di carne."
         sequence-12:
           s: 12
           from: "00:01:08,25"
           to: "00:01:14,27"
-          text: ~
+          text: "Il giorno seguente quel denaro non aveva già più valore"
         sequence-13:
           s: 13
           from: "00:01:14,27"
@@ -73,22 +73,22 @@ it:
           s: 14
           from: "00:01:15,24"
           to: "00:01:25,14"
-          text: ~
+          text: "e molte persone si impoverirono."
         sequence-15:
           s: 15
           from: "00:01:25,14"
           to: "00:01:32,18"
-          text: ~
+          text: "Molti avevano dovuto pagare il prestito di guerra"
         sequence-16:
           s: 16
           from: "00:01:32,18"
           to: "00:01:37,08"
-          text: ~
+          text: "che si annullò, perdendo valore."
         sequence-17:
           s: 17
           from: "00:01:37,08"
           to: "00:01:42,15"
-          text: ~
+          text: "Perciò quelli che non possedevano beni materiali persero tutto."
         sequence-18:
           s: 18
           from: "00:01:42,15"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:43,22"
           to: "00:01:58,07"
-          text: ~
+          text: "Nel 1927 lasciai la scuola, non ricordo bene in che classe fossi."
         sequence-20:
           s: 20
           from: "00:01:58,07"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:02:03,14"
           to: "00:02:09,06"
-          text: ~
+          text: "Iniziai a cercare un posto di apprendista."
         sequence-22:
           s: 22
           from: "00:02:09,06"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:10,17"
           to: "00:02:19,05"
-          text: ~
+          text: "Non trovai niente, nonostante avessi una bella pagella."
         sequence-24:
           s: 24
           from: "00:02:19,05"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:20,05"
           to: "00:02:28,24"
-          text: ~
+          text: Allora
         sequence-26:
           s: 26
           from: "00:02:28,24"
@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:02:30,03"
           to: "00:02:33,24"
-          text: ~
+          text: "gli studenti del liceo erano più grandi"
         sequence-28:
           s: 28
           from: "00:02:33,24"
           to: "00:02:42,20"
-          text: ~
+          text: "e un quattordicenne e un diciottenne avevano tipi di forza diversi."
         sequence-29:
           s: 29
           from: "00:02:42,20"
@@ -153,37 +153,37 @@ it:
           s: 30
           from: "00:02:43,29"
           to: "00:02:47,08"
-          text: ~
+          text: "Io volevo fare il tipografo."
         sequence-31:
           s: 31
           from: "00:02:47,08"
           to: "00:02:50,26"
-          text: ~
+          text: "Anche mio zio mi cercò un posto, ma venni rifiutato."
         sequence-32:
           s: 32
           from: "00:02:50,26"
           to: "00:02:57,02"
-          text: ~
+          text: "Poi l'altro zio mi disse: \"Allora sarai un muratore\", ma niente."
         sequence-33:
           s: 33
           from: "00:02:57,02"
           to: "00:03:06,17"
-          text: ~
+          text: "Mio padre era un fabbro, ma ancora niente. Tutti gli sforzi non erano serviti."
         sequence-34:
           s: 34
           from: "00:03:06,17"
           to: "00:03:23,03"
-          text: ~
+          text: "Poi iniziai a lavorare nell'azienda \"Jonas\" come giovane dipendente."
         sequence-35:
           s: 35
           from: "00:03:23,03"
           to: "00:03:25,16"
-          text: ~
+          text: "Al tempo ero un bravo fattorino. Era il 1927."
         sequence-36:
           s: 36
           from: "00:03:25,16"
           to: "00:03:33,19"
-          text: ~
+          text: "Nello stesso anno entrai nel sindacato, associazione dei lavoratori,"
         sequence-37:
           s: 37
           from: "00:03:33,19"
@@ -193,9 +193,9 @@ it:
           s: 38
           from: "00:03:34,11"
           to: "00:03:50,27"
-          text: ~
+          text: "e la sede era nello stesso edificio. Successivamente"
         sequence-39:
           s: 39
           from: "00:03:50,27"
           to: "00:03:57,00"
-          text: ~
+          text: "il lavoro nel sindacato portò al mio licenziamento dalla fabbrica."

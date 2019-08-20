@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-11:
       c: 11
-      title: ~
+      title: "Servizio militare, uccisione di un biblista"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,27"
           to: "00:00:05,24"
-          text: ~
+          text: "Ero già stato chiamato alla raccolta ad Aschendorfer Moor"
         sequence-2:
           s: 2
           from: "00:00:05,24"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:06,23"
           to: "00:00:16,22"
-          text: ~
+          text: "in cui ci avevano dato un certificato di esonero dall'esercito. Non potevamo parteciparvi."
         sequence-4:
           s: 4
           from: "00:00:16,22"
           to: "00:00:24,12"
-          text: ~
+          text: "Prigionieri politici e detenuti non erano degni."
         sequence-5:
           s: 5
           from: "00:00:24,12"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:31,29"
           to: "00:00:38,28"
-          text: ~
+          text: "Nel 1941/42 ci chiamarono nuovamente."
         sequence-7:
           s: 7
           from: "00:00:38,28"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:41,04"
           to: "00:00:50,28"
-          text: ~
+          text: "Dato il numero spropositato di vittime nel fronte orientale"
         sequence-9:
           s: 9
           from: "00:00:50,28"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:52,08"
           to: "00:00:57,00"
-          text: ~
+          text: "avevano bisogno di persone"
         sequence-11:
           s: 11
           from: "00:00:57,00"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:00:58,24"
           to: "00:01:08,01"
-          text: ~
+          text: "e dato che si trattata di un decreto del Führer, ci arruolarono."
         sequence-13:
           s: 13
           from: "00:01:08,01"
@@ -73,17 +73,17 @@ it:
           s: 14
           from: "00:01:09,22"
           to: "00:01:16,17"
-          text: ~
+          text: "Un collega che lavorava con me, Erwin,"
         sequence-15:
           s: 15
           from: "00:01:16,17"
           to: "00:01:23,27"
-          text: ~
+          text: "aveva costruito un rampone. Era un utensilista e sapeva fare queste cose."
         sequence-16:
           s: 16
           from: "00:01:23,27"
           to: "00:01:28,26"
-          text: ~
+          text: "Io gli portai una fune e inziammo questo viaggio:"
         sequence-17:
           s: 17
           from: "00:01:28,26"
@@ -93,12 +93,12 @@ it:
           s: 18
           from: "00:01:31,06"
           to: "00:01:37,00"
-          text: ~
+          text: "è stata una bellissima esperienza. Molti mi dicevano:"
         sequence-19:
           s: 19
           from: "00:01:37,00"
           to: "00:01:42,14"
-          text: ~
+          text: "\"Erwin, fallo appena la guerra finisce.\" E io rispondevo: \"Ciò che si ha, si ha.\""
         sequence-20:
           s: 20
           from: "00:01:42,14"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:43,17"
           to: "00:01:50,15"
-          text: ~
+          text: "Non avrei mai più avuto la possibilità di fare questo giro in montagna sul Großglockner."
         sequence-22:
           s: 22
           from: "00:01:50,15"
@@ -118,12 +118,12 @@ it:
           s: 23
           from: "00:01:52,21"
           to: "00:01:56,16"
-          text: ~
+          text: "Ma non voglio continuare a parlarne..."
         sequence-24:
           s: 24
           from: "00:01:56,16"
           to: "00:02:02,09"
-          text: ~
+          text: "Ma la convocazione..."
         sequence-25:
           s: 25
           from: "00:02:02,09"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:02:10,04"
           to: "00:02:17,05"
-          text: ~
+          text: "Dovevamo comunicarla qui a Kreuzberg penso."
         sequence-27:
           s: 27
           from: "00:02:17,05"
           to: "00:02:25,15"
-          text: ~
+          text: "Quindi chiamarono me e un altro uomo."
         sequence-28:
           s: 28
           from: "00:02:25,15"
@@ -148,12 +148,12 @@ it:
           s: 29
           from: "00:02:26,29"
           to: "00:02:34,15"
-          text: ~
+          text: "E lì abbiamo ricevuto l'incarico: entro due giorni, saremmo dovuti partire in treno per Heuberg."
         sequence-30:
           s: 30
           from: "00:02:34,15"
           to: "00:02:42,08"
-          text: ~
+          text: "Eravamo due in sovrannumero e in ritardo e partimmo quel giorno."
         sequence-31:
           s: 31
           from: "00:02:42,08"
@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:02:44,08"
           to: "00:02:51,22"
-          text: ~
+          text: "Lì conobbi la moglie di Otto Linke."
         sequence-33:
           s: 33
           from: "00:02:51,22"
@@ -173,12 +173,12 @@ it:
           s: 34
           from: "00:02:53,20"
           to: "00:03:01,02"
-          text: ~
+          text: "che era del SAP (Partito Socialista dei Lavoratori), ed entrammo subito in contatto."
         sequence-35:
           s: 35
           from: "00:03:01,02"
           to: "00:03:09,10"
-          text: ~
+          text: "Quindi andammo a Heuberg,il campo di addestramento a Württemberg."
         sequence-36:
           s: 36
           from: "00:03:09,10"
@@ -188,7 +188,7 @@ it:
           s: 37
           from: "00:03:17,10"
           to: "00:03:25,20"
-          text: ~
+          text: "Entrammo in contatto. Ma una cosa che proprio non riesco a dimenticare fu"
         sequence-38:
           s: 38
           from: "00:03:25,20"
@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:03:28,02"
           to: "00:03:39,10"
-          text: ~
+          text: "quel biblista che stava nella nostra baracca di soldati."
         sequence-40:
           s: 40
           from: "00:03:39,10"
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:40,11"
           to: "00:03:44,06"
-          text: ~
+          text: "Si rifiutava di usare le armi."
         sequence-42:
           s: 42
           from: "00:03:44,06"
@@ -218,17 +218,17 @@ it:
           s: 43
           from: "00:03:45,29"
           to: "00:03:55,14"
-          text: ~
+          text: "Una sera che ci eravamo seduti vicini, venne condannato a morte."
         sequence-44:
           s: 44
           from: "00:03:55,14"
           to: "00:04:00,06"
-          text: ~
+          text: "Il giorno successivo la compagnia doveva raccogliersi"
         sequence-45:
           s: 45
           from: "00:04:00,06"
           to: "00:04:10,02"
-          text: ~
+          text: "e stare a vedere come veniva ucciso nel palo della tortura."
         sequence-46:
           s: 46
           from: "00:04:10,02"
@@ -238,9 +238,9 @@ it:
           s: 47
           from: "00:04:11,14"
           to: "00:04:18,19"
-          text: ~
+          text: "\"Succederà anche a voi!\" disse il capo della compagnia."
         sequence-48:
           s: 48
           from: "00:04:18,19"
           to: "00:04:28,00"
-          text: ~
+          text: "\"se non fate quello che vi viene detto.\""

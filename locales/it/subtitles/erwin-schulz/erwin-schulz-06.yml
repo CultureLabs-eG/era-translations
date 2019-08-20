@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-6:
       c: 6
-      title: ~
+      title: "Divieto di \"Fichte\", Illegalità"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:06,17"
-          text: ~
+          text: "Ci eravamo già preparati a essere banditi."
         sequence-2:
           s: 2
           from: "00:00:06,17"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:07,17"
           to: "00:00:17,23"
-          text: ~
+          text: "Avremmo trovato un altro modo per continuare l'attività."
         sequence-4:
           s: 4
           from: "00:00:17,23"
@@ -28,27 +28,27 @@ it:
           s: 5
           from: "00:00:20,09"
           to: "00:00:28,28"
-          text: ~
+          text: "Per questo i membri (non tutti) si divisero in gruppi da cinque"
         sequence-6:
           s: 6
           from: "00:00:28,28"
           to: "00:00:36,14"
-          text: ~
+          text: "e uno guidava più gruppi da cinque, che poi diventarono gruppi da tre."
         sequence-7:
           s: 7
           from: "00:00:36,14"
           to: "00:00:43,18"
-          text: ~
+          text: "Così era più facile tenerli sotto controllo e per i raduni:"
         sequence-8:
           s: 8
           from: "00:00:43,18"
           to: "00:00:54,00"
-          text: ~
+          text: "non si sapeva mai quanti lavorassero illegalmente."
         sequence-9:
           s: 9
           from: "00:00:54,00"
           to: "00:01:01,01"
-          text: ~
+          text: "Fichte era stato bandito quindi le nostre azioni erano diventate illegali."
         sequence-10:
           s: 10
           from: "00:01:01,01"
@@ -58,12 +58,12 @@ it:
           s: 11
           from: "00:01:02,07"
           to: "00:01:14,17"
-          text: ~
+          text: "Organizzammo la gestione di Fichte a Tempelhof, nel nostro appartamento"
         sequence-12:
           s: 12
           from: "00:01:14,17"
           to: "00:01:17,08"
-          text: ~
+          text: "circondati dalla musica."
         sequence-13:
           s: 13
           from: "00:01:17,08"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:18,04"
           to: "00:01:23,08"
-          text: ~
+          text: "Mia sorella suonava il violino e noi il mandolino."
         sequence-15:
           s: 15
           from: "00:01:23,08"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:24,01"
           to: "00:01:29,22"
-          text: ~
+          text: "In casa erano di buon umore: \"Oh, i musicanti sono tornati.\""
         sequence-17:
           s: 17
           from: "00:01:29,22"
           to: "00:01:46,14"
-          text: ~
+          text: "E lì ci occupammo dei volantini, organizzammo il lavoro, le riunioni e tutti i problemi che ne seguivano."
         sequence-18:
           s: 18
           from: "00:01:46,14"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:47,03"
           to: "00:01:49,17"
-          text: ~
+          text: "Ancora una cosa:"
         sequence-20:
           s: 20
           from: "00:01:49,17"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:52,08"
           to: "00:02:00,26"
-          text: ~
+          text: "Prima del primo Maggio 1933, la direzione del sindacato,"
         sequence-22:
           s: 22
           from: "00:02:00,26"
@@ -118,17 +118,17 @@ it:
           s: 23
           from: "00:02:04,10"
           to: "00:02:08,25"
-          text: ~
+          text: "ovvero la Confederazione dei sindacati tedeschi,"
         sequence-24:
           s: 24
           from: "00:02:08,25"
           to: "00:02:17,24"
-          text: ~
+          text: "comunicò agli operai di andare il primo Maggio al Tempelhof Feld."
         sequence-25:
           s: 25
           from: "00:02:17,24"
           to: "00:02:27,21"
-          text: ~
+          text: "Era così strano che molti sindacalisti pensarono si trattasse di un inganno…"
         sequence-26:
           s: 26
           from: "00:02:27,21"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:02:29,28"
           to: "00:02:41,21"
-          text: ~
+          text: "Il 30 Aprile andammo là con le bici e passammo là il giorno di festa."
         sequence-28:
           s: 28
           from: "00:02:41,21"
@@ -148,29 +148,29 @@ it:
           s: 29
           from: "00:02:46,01"
           to: "00:03:00,28"
-          text: ~
+          text: "Poi tornando, bevemmo e cantammo da qualche parte al Samnitzsee."
         sequence-30:
           s: 30
           from: "00:03:00,28"
           to: "00:03:04,00"
-          text: ~
+          text: "La gente si stava divertendo"
         sequence-31:
           s: 31
           from: "00:03:04,00"
           to: "00:03:07,21"
-          text: ~
+          text: "e qualcuno mi disse: \"Io vado a racimolare qualche spicciolo.\""
         sequence-32:
           s: 32
           from: "00:03:07,21"
           to: "00:03:15,24"
-          text: ~
+          text: "I soldi che avevamo raccolto, li usammo per la \"Rote Hilfe\" (organizzazione a sostegno politico)"
         sequence-33:
           s: 33
           from: "00:03:15,24"
           to: "00:03:21,27"
-          text: ~
+          text: "In questo modo potevamo finanziare diverse cose."
         sequence-34:
           s: 34
           from: "00:03:21,27"
           to: "00:03:30,07"
-          text: ~
+          text: "Persino alcuni delle SA che stavano tornando dal Mar Baltico, ci diedero dei soldi."

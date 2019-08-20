@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,15"
           to: "00:00:03,14"
-          text: ~
+          text: "Wir kamen dann nach Neapel."
         sequence-2:
           s: 2
           from: "00:00:03,14"
@@ -18,27 +18,27 @@ de:
           s: 3
           from: "00:00:04,26"
           to: "00:00:18,27"
-          text: ~
+          text: "Dort ist dann ein Schiff, das als Lazarettschiff deklariert war (mit ’nem roten Kreuz drauf)"
         sequence-4:
           s: 4
           from: "00:00:18,27"
           to: "00:00:23,01"
-          text: ~
+          text: "die hatten Munition transportiert."
         sequence-5:
           s: 5
           from: "00:00:23,01"
           to: "00:00:34,22"
-          text: ~
+          text: "Das ist durch Widerstandskämpfer aus Italien zur Kenntnis gekommen, und das Schiff ist bombardiert worden."
         sequence-6:
           s: 6
           from: "00:00:34,22"
           to: "00:00:38,24"
-          text: ~
+          text: "Und da mussten wir dann die Verwundeten ins Krankenhaus bringen."
         sequence-7:
           s: 7
           from: "00:00:38,24"
           to: "00:00:54,07"
-          text: ~
+          text: "Also solche Dinge gab’s ja: Schiffe, als Lazarettschiff deklariert, und Munition wurde damit transportiert."
         sequence-8:
           s: 8
           from: "00:00:54,07"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:55,04"
           to: "00:01:07,04"
-          text: ~
+          text: "Von Neapel sind wir dann mit der U52 nach Tunesien geflogen,"
         sequence-10:
           s: 10
           from: "00:01:07,04"
@@ -58,7 +58,7 @@ de:
           s: 11
           from: "00:01:08,04"
           to: "00:01:18,07"
-          text: ~
+          text: "die Maschine dicht über’m Meeresspiegel - die ist ja nicht hochgegangen - kamen wir rüber."
         sequence-12:
           s: 12
           from: "00:01:18,07"
@@ -68,32 +68,32 @@ de:
           s: 13
           from: "00:01:19,17"
           to: "00:01:27,28"
-          text: ~
+          text: "Also von dem Verband, der vor uns geflogen ist, da sind einige Maschinen abgeschossen worden."
         sequence-14:
           s: 14
           from: "00:01:27,28"
           to: "00:01:32,14"
-          text: ~
+          text: "Die sind alle elendig ertrunken, im Mittelmeer."
         sequence-15:
           s: 15
           from: "00:01:32,14"
           to: "00:01:35,10"
-          text: ~
+          text: "Rettung war ja da nicht möglich."
         sequence-16:
           s: 16
           from: "00:01:35,10"
           to: "00:01:47,24"
-          text: ~
+          text: "Wir haben Glück gehabt, als wir da rüber kamen nach Tunesien. Auf dem Feldflughafen: „Was wollt ihr denn noch hier?“"
         sequence-17:
           s: 17
           from: "00:01:47,24"
           to: "00:01:53,23"
-          text: ~
+          text: "Viele Leute oder viele Soldaten, die jetzt zurückströmten."
         sequence-18:
           s: 18
           from: "00:01:53,23"
           to: "00:02:00,05"
-          text: ~
+          text: "Höhere Einheiten – hier waren ja auch Rommel und so was."
         sequence-19:
           s: 19
           from: "00:02:00,05"
@@ -103,7 +103,7 @@ de:
           s: 20
           from: "00:02:02,28"
           to: "00:02:11,01"
-          text: ~
+          text: "Das war ja dann März. Ab Anfang April so was - die Rommel-Armee, die hatte sich ja auch schon weit zurückgezogen-."
         sequence-21:
           s: 21
           from: "00:02:11,01"
@@ -113,27 +113,27 @@ de:
           s: 22
           from: "00:02:13,02"
           to: "00:02:21,11"
-          text: ~
+          text: "Na ja, jedenfalls wir … Und da kam auch solche Stimmung auf"
         sequence-23:
           s: 23
           from: "00:02:21,11"
           to: "00:02:31,14"
-          text: ~
+          text: "und unser Feldwebel, ein eingefleischter Nazi, der sagte:"
         sequence-24:
           s: 24
           from: "00:02:31,14"
           to: "00:02:37,03"
-          text: ~
+          text: "„Denkt nicht, hier ist es so wie 1918!"
         sequence-25:
           s: 25
           from: "00:02:37,03"
           to: "00:02:43,08"
-          text: ~
+          text: "Wer hier aus der Reihe tanzt, der wird sofort umgelegt.“"
         sequence-26:
           s: 26
           from: "00:02:43,08"
           to: "00:02:53,00"
-          text: ~
+          text: "Also so versuchte er seine Befehlsgewalt auch gleich fest in die Hand zu bekommen."
         sequence-27:
           s: 27
           from: "00:02:53,00"
@@ -143,42 +143,42 @@ de:
           s: 28
           from: "00:02:54,04"
           to: "00:03:00,11"
-          text: ~
+          text: "Wir waren erst in einer Kaserne in Tunis."
         sequence-29:
           s: 29
           from: "00:03:00,11"
           to: "00:03:06,09"
-          text: ~
+          text: "Da hatten wir Torwache."
         sequence-30:
           s: 30
           from: "00:03:06,09"
           to: "00:03:12,06"
-          text: ~
+          text: "Da wurden Strafversetzte dazu eingeteilt, da waren wir auch mit bei."
         sequence-31:
           s: 31
           from: "00:03:12,06"
           to: "00:03:17,07"
-          text: ~
+          text: "Und in Kairouan, da ist die Front zum Stillstand gekommen."
         sequence-32:
           s: 32
           from: "00:03:17,07"
           to: "00:03:25,07"
-          text: ~
+          text: "Und wir dachten: ‚Na ja, wenn die Amerikaner jetzt weiter kommen, dann übergeben wir denen die Kaserne."
         sequence-33:
           s: 33
           from: "00:03:25,07"
           to: "00:03:28,28"
-          text: ~
+          text: "Einen Widerstand werden wir dann schon verhindern können.’"
         sequence-34:
           s: 34
           from: "00:03:28,28"
           to: "00:03:31,24"
-          text: ~
+          text: "Aber daraus ist nichts geworden."
         sequence-35:
           s: 35
           from: "00:03:31,24"
           to: "00:03:39,23"
-          text: ~
+          text: "Wir sind dann nachher eingesetzt worden, in den Bergen."
         sequence-36:
           s: 36
           from: "00:03:39,23"
@@ -188,42 +188,42 @@ de:
           s: 37
           from: "00:03:45,05"
           to: "00:03:51,22"
-          text: ~
+          text: "Granatwerfer, die schießen ja aus dem Hinterhalt."
         sequence-38:
           s: 38
           from: "00:03:51,22"
           to: "00:04:02,14"
-          text: ~
+          text: "Und wir wurden eingesetzt auf ’nem Plateau, wo der Amerikaner mit direktem Beschuss uns sehen konnte."
         sequence-39:
           s: 39
           from: "00:04:02,14"
           to: "00:04:08,13"
-          text: ~
+          text: "Also, ein regelrechtes Himmelfahrtskommando waren wir."
         sequence-40:
           s: 40
           from: "00:04:08,13"
           to: "00:04:20,17"
-          text: ~
+          text: "Hätten wir da geschossen, wären wir auch gleich da eben so bombardiert worden – hätten nicht überlebt."
         sequence-41:
           s: 41
           from: "00:04:20,17"
           to: "00:04:29,26"
-          text: ~
+          text: "Und wir haben dann unseren Granatwerfer dort hingestellt und dann so 20 m weiter, oder ich weiß nicht mehr wie viel, sagt er:"
         sequence-42:
           s: 42
           from: "00:04:29,26"
           to: "00:04:39,08"
-          text: ~
+          text: "„Hier bauen wir uns jetzt das so, dass wir uns vor direktem Beschuss so etwas schützen können.“"
         sequence-43:
           s: 43
           from: "00:04:39,08"
           to: "00:04:45,20"
-          text: ~
+          text: "Und wir haben einen Schuss abgegeben und unseren Granatwerfer, den haben sie völlig zerschossen."
         sequence-44:
           s: 44
           from: "00:04:45,20"
           to: "00:04:51,20"
-          text: ~
+          text: "Also, das war Himmelfahrtskommando. Man wollte uns vernichten."
         sequence-45:
           s: 45
           from: "00:04:51,20"
@@ -233,47 +233,47 @@ de:
           s: 46
           from: "00:04:53,02"
           to: "00:05:06,28"
-          text: ~
+          text: "Na ja, wir sind dann nachher zurückgezogen. Und da hatte ich dann mit einigen anderen gesprochen:"
         sequence-47:
           s: 47
           from: "00:05:06,28"
           to: "00:05:10,14"
-          text: ~
+          text: "„Wir müssen uns jetzt absetzen.“"
         sequence-48:
           s: 48
           from: "00:05:10,14"
           to: "00:05:32,12"
-          text: ~
+          text: "Aber - also man muß auch die Zeit sehen - das war Ende April. Und am 10. Mai, oder so was, kapitulierten die auch. Da waren dann noch Bedenken:"
         sequence-49:
           s: 49
           from: "00:05:32,12"
           to: "00:05:39,17"
-          text: ~
+          text: "„Dann informieren sie die ja nach Deutschland: Der ist desertiert.“"
         sequence-50:
           s: 50
           from: "00:05:39,17"
           to: "00:05:43,26"
-          text: ~
+          text: "Ich sagte: „Das ist doch alles Quatsch. Da haben die doch gar keine Zeit mehr für.“"
         sequence-51:
           s: 51
           from: "00:05:43,26"
           to: "00:05:50,29"
-          text: ~
+          text: "Aber deshalb bin ich dann eben bei dem Otto Linke – mit dem in Gefangenschaft gegangen."
         sequence-52:
           s: 52
           from: "00:05:50,29"
           to: "00:05:55,00"
-          text: ~
+          text: "Und zwar, glaube ich, am 30. April."
         sequence-53:
           s: 53
           from: "00:05:55,00"
           to: "00:06:01,14"
-          text: ~
+          text: "Ich sage: „Otto, ab 1. Mai bleiben wir in den Bergen, als freie Menschen.“"
         sequence-54:
           s: 54
           from: "00:06:01,14"
           to: "00:06:10,01"
-          text: ~
+          text: "Und dann am 02. Mai wir sind dann in Gefangenschaft gegangen wurden wir von Marokkanern gefangen genommen."
         sequence-55:
           s: 55
           from: "00:06:10,01"
@@ -283,9 +283,9 @@ de:
           s: 56
           from: "00:06:10,25"
           to: "00:06:16,14"
-          text: ~
+          text: "Jedenfalls wurden wir dann da den Franzosen übergeben"
         sequence-57:
           s: 57
           from: "00:06:16,14"
           to: "00:06:27,20"
-          text: ~
+          text: "und dann kamen wir nachher zu den Engländern, und dann später zu den Amerikanern"

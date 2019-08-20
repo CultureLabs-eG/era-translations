@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,15"
           to: "00:00:12,19"
-          text: ~
+          text: "Wir waren dann schon mal verschifft – auf’m Schiff. Sollten dann nachher vom Mittelmeer weiter fahren."
         sequence-2:
           s: 2
           from: "00:00:12,19"
@@ -18,17 +18,17 @@ de:
           s: 3
           from: "00:00:13,13"
           to: "00:00:28,16"
-          text: ~
+          text: "Dann kamen wir wieder zurück und sind dann nachher - das weiß ich nicht, wie die Vereinbarungen zwischen den Alliierten waren - den Amerikanern übergeben worden."
         sequence-4:
           s: 4
           from: "00:00:28,16"
           to: "00:00:35,16"
-          text: ~
+          text: "Und sind nach Casablanca mit dem Zug durch ganz Marokko gefahren."
         sequence-5:
           s: 5
           from: "00:00:35,16"
           to: "00:00:42,28"
-          text: ~
+          text: "Casablanca liegt ja ziemlich tief unten."
         sequence-6:
           s: 6
           from: "00:00:42,28"
@@ -43,7 +43,7 @@ de:
           s: 8
           from: "00:02:56,03"
           to: "00:03:05,02"
-          text: ~
+          text: "Also, von der amerikanischen Armee wurden wir nicht besser behandelt."
         sequence-9:
           s: 9
           from: "00:03:05,02"
@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:03:06,05"
           to: "00:03:11,13"
-          text: ~
+          text: "Was mir erst viel später so auch in Erinnerung kam:"
         sequence-11:
           s: 11
           from: "00:03:11,13"
@@ -63,52 +63,52 @@ de:
           s: 12
           from: "00:03:12,21"
           to: "00:03:25,21"
-          text: ~
+          text: "Offiziere konnten wahrscheinlich auch gar nicht solche Dinge aus ihrem ganzen Bewusstsein verstehen,"
         sequence-13:
           s: 13
           from: "00:03:25,21"
           to: "00:03:37,22"
-          text: ~
+          text: "dass Soldaten, die bei der Hitler-Armee gekämpft hatten, sich gegen die Hitler-Armee wandten."
         sequence-14:
           s: 14
           from: "00:03:37,22"
           to: "00:03:44,20"
-          text: ~
+          text: "Dieses Problem der Auseinandersetzung Faschismus/Antifaschismus,"
         sequence-15:
           s: 15
           from: "00:03:44,20"
           to: "00:03:52,09"
-          text: ~
+          text: "das war für die Offiziere ein Ding, was sie nicht verstanden haben."
         sequence-16:
           s: 16
           from: "00:03:52,09"
           to: "00:04:04,12"
-          text: ~
+          text: "Das hat man in der ersten Zeit. Später, zum Schluß, haben sie nachher einige andere Auffassungen gehabt."
         sequence-17:
           s: 17
           from: "00:04:04,12"
           to: "00:04:10,18"
-          text: ~
+          text: "Nachdem ihnen bekannt wurde:"
         sequence-18:
           s: 18
           from: "00:04:10,18"
           to: "00:04:17,19"
-          text: ~
+          text: "die Konzentrationslager, was dort mit den Menschen gemacht wurde,"
         sequence-19:
           s: 19
           from: "00:04:17,19"
           to: "00:04:21,13"
-          text: ~
+          text: "wie die umgebracht wurden, und beseitigt."
         sequence-20:
           s: 20
           from: "00:04:21,13"
           to: "00:04:31,19"
-          text: ~
+          text: "Auschwitz ist ja dann erst von der sowjetischen Armee, von der Roten Armee, befreit worden."
         sequence-21:
           s: 21
           from: "00:04:31,19"
           to: "00:04:37,23"
-          text: ~
+          text: "Da ist ja dann solch Austausch gekommen,"
         sequence-22:
           s: 22
           from: "00:04:37,23"
@@ -118,12 +118,12 @@ de:
           s: 23
           from: "00:04:39,27"
           to: "00:04:48,21"
-          text: ~
+          text: "und da hat sich zumindest … Bei manchen ist das mehr zum Bewusstsein gekommen,"
         sequence-24:
           s: 24
           from: "00:04:48,21"
           to: "00:04:59,01"
-          text: ~
+          text: "dass welche gegen „ihr Land“, wie man dann sagte, oder, dagegen kämpften – ja."
         sequence-25:
           s: 25
           from: "00:04:59,01"
@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:05:00,21"
           to: "00:05:11,19"
-          text: ~
+          text: "Da bin ich dann später weggekommen zurück nach Fort Devons. Ich hab dann da in Fort Devens das Kriegsende mitgemacht."
         sequence-27:
           s: 27
           from: "00:05:11,19"
@@ -143,17 +143,17 @@ de:
           s: 28
           from: "00:05:13,09"
           to: "00:05:20,03"
-          text: ~
+          text: "Dort hatten wir dann auch die Zeitschrift ‚German-American’,"
         sequence-29:
           s: 29
           from: "00:05:20,03"
           to: "00:05:29,15"
-          text: ~
+          text: "die herausgegeben wurde von immigrierten Gewerkschaftlern und politischen Immigranten."
         sequence-30:
           s: 30
           from: "00:05:29,15"
           to: "00:05:33,19"
-          text: ~
+          text: "‚German-American’, also die war Deutsch und Englisch."
         sequence-31:
           s: 31
           from: "00:05:33,19"
@@ -163,17 +163,17 @@ de:
           s: 32
           from: "00:05:35,06"
           to: "00:05:44,25"
-          text: ~
+          text: "Die kam in unser Lager. Vorher, in McCain , da ist die nicht ins Lager gekommen."
         sequence-33:
           s: 33
           from: "00:05:44,25"
           to: "00:05:49,25"
-          text: ~
+          text: "Also jetzt, gegen Ende des Krieges, änderte sich ja viel."
         sequence-34:
           s: 34
           from: "00:05:49,25"
           to: "00:05:52,16"
-          text: ~
+          text: "Man konnte die kaufen, die Zeitung."
         sequence-35:
           s: 35
           from: "00:05:52,16"
@@ -183,22 +183,22 @@ de:
           s: 36
           from: "00:05:54,24"
           to: "00:06:01,27"
-          text: ~
+          text: "Wir hatten dann auch Kontakte zu den Herausgebern, die waren dann illegal – nicht –"
         sequence-37:
           s: 37
           from: "00:06:01,27"
           to: "00:06:11,23"
-          text: ~
+          text: "weil dann die Kommandos im Motorpool arbeiteten,"
         sequence-38:
           s: 38
           from: "00:06:11,23"
           to: "00:06:25,22"
-          text: ~
+          text: "wo dann auch fortschrittliche Amerikaner uns wieder halfen, bei der Information. Also, das ist noch’n besonderes Kapitel, was man da behandeln könnte."
         sequence-39:
           s: 39
           from: "00:06:25,22"
           to: "00:06:35,28"
-          text: ~
+          text: "Jedenfalls entwickelte sich dort ein politisches und kulturelles Leben."
         sequence-40:
           s: 40
           from: "00:06:35,28"
@@ -208,22 +208,22 @@ de:
           s: 41
           from: "00:06:36,12"
           to: "00:06:44,10"
-          text: ~
+          text: "Die Amerikaner haben ja auch Aufnahmen gemacht, von ‚Buchenwald’,"
         sequence-42:
           s: 42
           from: "00:06:44,10"
           to: "00:06:50,09"
-          text: ~
+          text: "über die Leichenberge, die sie dort vorgefunden haben, und die Verhältnisse."
         sequence-43:
           s: 43
           from: "00:06:50,09"
           to: "00:07:01,29"
-          text: ~
+          text: "Die Filme wurden gezeigt in USA, und da mussten sich alle Kriegsgefangenen die Filme ansehen."
         sequence-44:
           s: 44
           from: "00:07:01,29"
           to: "00:07:12,13"
-          text: ~
+          text: "Nun zur Entlassung: Wir sind danach ja nach Belgien transportiert worden."
         sequence-45:
           s: 45
           from: "00:07:12,13"
@@ -233,7 +233,7 @@ de:
           s: 46
           from: "00:07:13,21"
           to: "00:07:23,14"
-          text: ~
+          text: "In Belgien fanden wir dieselben Verhältnisse vor wie damals in Aliceville, als wir da in dem ersten Gefangenenlager waren."
         sequence-47:
           s: 47
           from: "00:07:23,14"
@@ -243,12 +243,12 @@ de:
           s: 48
           from: "00:07:23,29"
           to: "00:07:33,00"
-          text: ~
+          text: "Kurz bevor ich entlassen wurde – da kommen ja immer die Unterlagen, wenn so welche verlegt werden, in ein anderes Lager."
         sequence-49:
           s: 49
           from: "00:07:33,00"
           to: "00:07:44,06"
-          text: ~
+          text: "Und da ist ein Kamerad, Fritz Fiedkau, der deklariert war (in den Unterlagen) als SS-Mann."
         sequence-50:
           s: 50
           from: "00:07:44,06"
@@ -258,47 +258,47 @@ de:
           s: 51
           from: "00:07:45,10"
           to: "00:07:52,06"
-          text: ~
+          text: "Man hatte also in dem Lager, wo er vorher war, die Unterlagen getauscht, in der Beurteilung."
         sequence-52:
           s: 52
           from: "00:07:52,06"
           to: "00:07:56,22"
-          text: ~
+          text: "– Nicht – aus dem Antifaschisten hat man ’nen  SS-Mann gemacht."
         sequence-53:
           s: 53
           from: "00:07:56,22"
           to: "00:08:01,15"
-          text: ~
+          text: "Und ein SS-Mann, der ist als Antifaschist schon nach Hause gekommen."
         sequence-54:
           s: 54
           from: "00:08:01,15"
           to: "00:08:04,12"
-          text: ~
+          text: "Das habe ich dann nachher später weitergegeben."
         sequence-55:
           s: 55
           from: "00:08:04,12"
           to: "00:08:13,15"
-          text: ~
+          text: "Und wir kamen dann rüber nach Munsterlager, da waren auch wieder dieselben Verhältnisse,"
         sequence-56:
           s: 56
           from: "00:08:13,15"
           to: "00:08:18,09"
-          text: ~
+          text: "Unteroffiziere, Feldwebel und so was, die hatten die Herrschaft in dem Lager."
         sequence-57:
           s: 57
           from: "00:08:18,09"
           to: "00:08:25,07"
-          text: ~
+          text: "„Lasst euch nicht nach Osten entlassen!“"
         sequence-58:
           s: 58
           from: "00:08:25,07"
           to: "00:08:37,21"
-          text: ~
+          text: "und auch so viele Dinge, was da war. Jedenfalls kam ich, das war dann Oktober 46, mit ’nem Transport nach West-Berlin."
         sequence-59:
           s: 59
           from: "00:08:37,21"
           to: "00:08:46,19"
-          text: ~
+          text: "Ich wohnte ja früher in West-Berlin. Und so bin ich dann 1946 aus der Kriegsgefangenschaft nach Hause gekommen."
         sequence-60:
           s: 60
           from: "00:08:46,19"
@@ -308,9 +308,9 @@ de:
           s: 61
           from: "00:08:47,21"
           to: "00:08:52,04"
-          text: ~
+          text: "Meine Eltern wohnten woanders, die waren ja ausgebombt worden."
         sequence-62:
           s: 62
           from: "00:08:52,04"
           to: "00:09:07,13"
-          text: ~
+          text: "Und nun begann das neue Leben nach diesen Ereignissen, die man so im Laufe der Jahre mitgemacht hat."

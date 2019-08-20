@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-12:
       c: 12
-      title: ~
+      title: "Battaglione 999"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,22"
           to: "00:00:08,12"
-          text: ~
+          text: "I prigionieri politici che non erano degni di combattere, vivevano in Germania."
         sequence-2:
           s: 2
           from: "00:00:08,12"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:09,06"
           to: "00:00:15,12"
-          text: ~
+          text: "I tedeschi stavano morendo su tutti i fronti."
         sequence-4:
           s: 4
           from: "00:00:15,12"
@@ -28,32 +28,32 @@ it:
           s: 5
           from: "00:00:17,07"
           to: "00:00:23,19"
-          text: ~
+          text: "Iniziava a mancare il personale"
         sequence-6:
           s: 6
           from: "00:00:23,19"
           to: "00:00:34,13"
-          text: ~
+          text: "e l'idea era di buttarsi in una missione suicida,"
         sequence-7:
           s: 7
           from: "00:00:34,13"
           to: "00:00:41,08"
-          text: ~
+          text: "perciò eravamo armati come unità autonome"
         sequence-8:
           s: 8
           from: "00:00:41,08"
           to: "00:00:47,20"
-          text: ~
+          text: "per poter intercettare le risposte degli alleati."
         sequence-9:
           s: 9
           from: "00:00:47,20"
           to: "00:00:55,20"
-          text: ~
+          text: "Se fossimo tornati indietro, ci avrebbero sparato alle spalle."
         sequence-10:
           s: 10
           from: "00:00:55,20"
           to: "00:01:08,15"
-          text: ~
+          text: "Si trattava veramente di missioni suicide."
         sequence-11:
           s: 11
           from: "00:01:08,15"
@@ -63,27 +63,27 @@ it:
           s: 12
           from: "00:01:10,15"
           to: "00:01:16,19"
-          text: ~
+          text: "Era l'idea di fondo per le grandi unità e divisioni."
         sequence-13:
           s: 13
           from: "00:01:16,19"
           to: "00:01:24,15"
-          text: ~
+          text: "E questo è come avvenivano le missioni."
         sequence-14:
           s: 14
           from: "00:01:24,15"
           to: "00:01:28,27"
-          text: ~
+          text: "La nostra si svolse in un pendio:"
         sequence-15:
           s: 15
           from: "00:01:28,27"
           to: "00:01:38,27"
-          text: ~
+          text: "dopo il primo colpo, gli Americani ci avevano annientati."
         sequence-16:
           s: 16
           from: "00:01:38,27"
           to: "00:01:40,21"
-          text: ~
+          text: "Nesssuno era sopravvissuto."
         sequence-17:
           s: 17
           from: "00:01:40,21"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:41,19"
           to: "00:01:51,00"
-          text: ~
+          text: "Lo stesso avvenne in altre operazioni militari su altri fronti."
         sequence-19:
           s: 19
           from: "00:01:51,00"
@@ -103,12 +103,12 @@ it:
           s: 20
           from: "00:01:57,22"
           to: "00:02:01,27"
-          text: ~
+          text: "C'è una letteratura intera che ne parla."
         sequence-21:
           s: 21
           from: "00:02:01,27"
           to: "00:02:11,27"
-          text: ~
+          text: "Il presupposto era di annientare i prigionieri politici. Non dovevano sopravvivere in guerra."
         sequence-22:
           s: 22
           from: "00:02:11,27"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:15,21"
           to: "00:02:19,14"
-          text: ~
+          text: "Le compagnie erano composte così:"
         sequence-24:
           s: 24
           from: "00:02:19,14"
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:02:20,24"
           to: "00:02:30,18"
-          text: ~
+          text: "un terzo erano prigionieri politici, un terzo criminali, un terzo ufficiali, sottufficiali"
         sequence-26:
           s: 26
           from: "00:02:30,18"
           to: "00:02:38,27"
-          text: ~
+          text: "e caporali, praticamente tutti nazisti. Questa era la composizione."
         sequence-27:
           s: 27
           from: "00:02:38,27"
@@ -143,12 +143,12 @@ it:
           s: 28
           from: "00:02:41,18"
           to: "00:02:57,20"
-          text: ~
+          text: "I prigionieri politici dovevano stare molto attenti:"
         sequence-29:
           s: 29
           from: "00:02:57,20"
           to: "00:03:07,29"
-          text: ~
+          text: "bastava una qualsiasi espressione o pensiero e ti sparavano."
         sequence-30:
           s: 30
           from: "00:03:07,29"
@@ -158,12 +158,12 @@ it:
           s: 31
           from: "00:03:12,26"
           to: "00:03:17,08"
-          text: ~
+          text: "Alcuni si conoscevano."
         sequence-32:
           s: 32
           from: "00:03:17,08"
           to: "00:03:23,21"
-          text: ~
+          text: "Erano stati in galera insieme o ora si ritrovavano dopo tanti anni."
         sequence-33:
           s: 33
           from: "00:03:23,21"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:03:24,25"
           to: "00:03:43,20"
-          text: ~
+          text: "Era il 1940/1942 e non sapevamo come potessero pensare quelle persone incarcerate nel '34, '35 o '36."
         sequence-35:
           s: 35
           from: "00:03:43,20"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:03:46,20"
           to: "00:03:53,09"
-          text: ~
+          text: "Avevano contatti con i politici, lo avevamo capito."
         sequence-37:
           s: 37
           from: "00:03:53,09"
@@ -193,12 +193,12 @@ it:
           s: 38
           from: "00:03:54,05"
           to: "00:03:56,17"
-          text: ~
+          text: "Eravamo tutti prigionieri politici"
         sequence-39:
           s: 39
           from: "00:03:56,17"
           to: "00:04:03,26"
-          text: ~
+          text: "E ci eravamo impegnati a tenere tutti gli altri fuori."
         sequence-40:
           s: 40
           from: "00:04:03,26"
@@ -208,39 +208,39 @@ it:
           s: 41
           from: "00:04:05,19"
           to: "00:04:08,07"
-          text: ~
+          text: "Era una cosa molto importante."
         sequence-42:
           s: 42
           from: "00:04:08,07"
           to: "00:04:22,13"
-          text: ~
+          text: "L'addestramento: non avevamo uscita. La trovammo solo dopo, quando arrivammo in Belgio."
         sequence-43:
           s: 43
           from: "00:04:22,13"
           to: "00:04:27,23"
-          text: ~
+          text: "C'era un sottufficiale (con altri 3 o 5 uomini) che camminava con noi e controllava"
         sequence-44:
           s: 44
           from: "00:04:27,23"
           to: "00:04:38,01"
-          text: ~
+          text: "che non parlassimo tra di noi."
         sequence-45:
           s: 45
           from: "00:04:38,01"
           to: "00:04:44,21"
-          text: ~
+          text: "In Belgio non eravamo i primi ad essere arrivati lì,"
         sequence-46:
           s: 46
           from: "00:04:44,21"
           to: "00:04:58,02"
-          text: ~
+          text: "quindi si sapeva che nel battaglione 999 c'erano molti prigionieri politici."
         sequence-47:
           s: 47
           from: "00:04:58,02"
           to: "00:05:00,03"
-          text: ~
+          text: "Si sapeva già."
         sequence-48:
           s: 48
           from: "00:05:00,03"
           to: "00:05:07,05"
-          text: ~
+          text: "In seguito, andammo anche in Francia e in Italia."
