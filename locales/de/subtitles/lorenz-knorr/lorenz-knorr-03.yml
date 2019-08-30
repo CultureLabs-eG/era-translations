@@ -160,7 +160,7 @@ de:
           to: "00:02:10,11"
           text: "um Kraft zu bündeln gegen den faschistischen Angriff, der damals ja überall rollte."
         sequence-32:
-          s: ~
-          from: ~
-          to: ~
+          s: 32
+          from: "00:02:10,11"
+          to: "00:02:13,00"
           text: ~
