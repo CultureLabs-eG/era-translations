@@ -1,0 +1,811 @@
+sl:
+  francesco-bertacchini:
+    chapter-3:
+      c: 3
+      title: ~
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:00,13"
+          to: "00:00:08,10"
+          text: ~
+        sequence-2:
+          s: 2
+          from: "00:00:08,11"
+          to: "00:00:11,28"
+          text: ~
+        sequence-3:
+          s: 3
+          from: "00:00:11,29"
+          to: "00:00:16,06"
+          text: ~
+        sequence-4:
+          s: 4
+          from: "00:00:16,07"
+          to: "00:00:20,06"
+          text: ~
+        sequence-5:
+          s: 5
+          from: "00:00:20,07"
+          to: "00:00:27,06"
+          text: ~
+        sequence-6:
+          s: 6
+          from: "00:00:27,07"
+          to: "00:00:36,05"
+          text: ~
+        sequence-7:
+          s: 7
+          from: "00:00:36,06"
+          to: "00:00:41,21"
+          text: ~
+        sequence-8:
+          s: 8
+          from: "00:00:41,22"
+          to: "00:00:45,11"
+          text: ~
+        sequence-9:
+          s: 9
+          from: "00:00:45,12"
+          to: "00:00:53,20"
+          text: ~
+        sequence-10:
+          s: 10
+          from: "00:00:56,26"
+          to: "00:01:02,27"
+          text: ~
+        sequence-11:
+          s: 11
+          from: "00:01:02,28"
+          to: "00:01:06,25"
+          text: ~
+        sequence-12:
+          s: 12
+          from: "00:01:06,26"
+          to: "00:01:15,21"
+          text: ~
+        sequence-13:
+          s: 13
+          from: "00:01:15,22"
+          to: "00:01:22,03"
+          text: ~
+        sequence-14:
+          s: 14
+          from: "00:01:22,04"
+          to: "00:01:27,21"
+          text: ~
+        sequence-15:
+          s: 15
+          from: "00:01:27,22"
+          to: "00:01:33,11"
+          text: ~
+        sequence-16:
+          s: 16
+          from: "00:01:33,12"
+          to: "00:01:42,00"
+          text: ~
+        sequence-17:
+          s: 17
+          from: "00:01:42,01"
+          to: "00:01:49,13"
+          text: ~
+        sequence-18:
+          s: 18
+          from: "00:01:49,14"
+          to: "00:01:54,29"
+          text: ~
+        sequence-19:
+          s: 19
+          from: "00:01:55,00"
+          to: "00:01:58,09"
+          text: ~
+        sequence-20:
+          s: 20
+          from: "00:01:58,10"
+          to: "00:02:04,03"
+          text: ~
+        sequence-21:
+          s: 21
+          from: "00:02:04,04"
+          to: "00:02:12,03"
+          text: ~
+        sequence-22:
+          s: 22
+          from: "00:02:12,04"
+          to: "00:02:18,28"
+          text: ~
+        sequence-23:
+          s: 23
+          from: "00:02:20,02"
+          to: "00:02:27,16"
+          text: ~
+        sequence-24:
+          s: 24
+          from: "00:02:27,17"
+          to: "00:02:37,21"
+          text: ~
+        sequence-25:
+          s: 25
+          from: "00:02:37,22"
+          to: "00:02:40,22"
+          text: ~
+        sequence-26:
+          s: 26
+          from: "00:02:40,23"
+          to: "00:02:46,16"
+          text: ~
+        sequence-27:
+          s: 27
+          from: "00:02:46,17"
+          to: "00:02:53,03"
+          text: ~
+        sequence-28:
+          s: 28
+          from: "00:02:53,04"
+          to: "00:02:57,21"
+          text: ~
+        sequence-29:
+          s: 29
+          from: "00:02:57,22"
+          to: "00:03:09,28"
+          text: ~
+        sequence-30:
+          s: 30
+          from: "00:03:09,29"
+          to: "00:03:16,13"
+          text: ~
+        sequence-31:
+          s: 31
+          from: "00:03:16,14"
+          to: "00:03:22,19"
+          text: ~
+        sequence-32:
+          s: 32
+          from: "00:03:22,20"
+          to: "00:03:27,13"
+          text: ~
+        sequence-33:
+          s: 33
+          from: "00:03:27,14"
+          to: "00:03:32,03"
+          text: ~
+        sequence-34:
+          s: 34
+          from: "00:03:32,04"
+          to: "00:03:40,21"
+          text: ~
+        sequence-35:
+          s: 35
+          from: "00:03:40,22"
+          to: "00:03:44,25"
+          text: ~
+        sequence-36:
+          s: 36
+          from: "00:03:44,26"
+          to: "00:03:51,16"
+          text: ~
+        sequence-37:
+          s: 37
+          from: "00:03:51,17"
+          to: "00:03:57,23"
+          text: ~
+        sequence-38:
+          s: 38
+          from: "00:03:57,24"
+          to: "00:04:09,06"
+          text: ~
+        sequence-39:
+          s: 39
+          from: "00:04:09,07"
+          to: "00:04:14,11"
+          text: ~
+        sequence-40:
+          s: 40
+          from: "00:04:14,12"
+          to: "00:04:20,18"
+          text: ~
+        sequence-41:
+          s: 41
+          from: "00:04:20,19"
+          to: "00:04:25,22"
+          text: ~
+        sequence-42:
+          s: 42
+          from: "00:04:25,23"
+          to: "00:04:29,11"
+          text: ~
+        sequence-43:
+          s: 43
+          from: "00:04:29,12"
+          to: "00:04:31,17"
+          text: ~
+        sequence-44:
+          s: 44
+          from: "00:04:31,18"
+          to: "00:04:43,17"
+          text: ~
+        sequence-45:
+          s: 45
+          from: "00:04:43,18"
+          to: "00:04:50,18"
+          text: ~
+        sequence-46:
+          s: 46
+          from: "00:04:50,19"
+          to: "00:04:56,00"
+          text: ~
+        sequence-47:
+          s: 47
+          from: "00:04:56,01"
+          to: "00:05:05,24"
+          text: ~
+        sequence-48:
+          s: 48
+          from: "00:05:07,08"
+          to: "00:05:17,24"
+          text: ~
+        sequence-49:
+          s: 49
+          from: "00:05:20,23"
+          to: "00:05:29,10"
+          text: ~
+        sequence-50:
+          s: 50
+          from: "00:05:31,05"
+          to: "00:05:38,17"
+          text: ~
+        sequence-51:
+          s: 51
+          from: "00:05:38,18"
+          to: "00:05:48,04"
+          text: ~
+        sequence-52:
+          s: 52
+          from: "00:05:48,05"
+          to: "00:05:52,28"
+          text: ~
+        sequence-53:
+          s: 53
+          from: "00:05:52,29"
+          to: "00:06:00,11"
+          text: ~
+        sequence-54:
+          s: 54
+          from: "00:06:00,12"
+          to: "00:06:06,10"
+          text: ~
+        sequence-55:
+          s: 55
+          from: "00:06:06,11"
+          to: "00:06:08,23"
+          text: ~
+        sequence-56:
+          s: 56
+          from: "00:06:08,24"
+          to: "00:06:12,11"
+          text: ~
+        sequence-57:
+          s: 57
+          from: "00:06:12,12"
+          to: "00:06:17,04"
+          text: ~
+        sequence-58:
+          s: 58
+          from: "00:06:17,05"
+          to: "00:06:22,16"
+          text: ~
+        sequence-59:
+          s: 59
+          from: "00:06:22,17"
+          to: "00:06:26,09"
+          text: ~
+        sequence-60:
+          s: 60
+          from: "00:06:26,10"
+          to: "00:06:34,11"
+          text: ~
+        sequence-61:
+          s: 61
+          from: "00:06:34,12"
+          to: "00:06:41,04"
+          text: ~
+        sequence-62:
+          s: 62
+          from: "00:06:41,05"
+          to: "00:06:51,03"
+          text: ~
+        sequence-63:
+          s: 63
+          from: "00:06:51,04"
+          to: "00:06:57,21"
+          text: ~
+        sequence-64:
+          s: 64
+          from: "00:06:57,22"
+          to: "00:07:07,06"
+          text: ~
+        sequence-65:
+          s: 65
+          from: "00:07:07,07"
+          to: "00:07:12,22"
+          text: ~
+        sequence-66:
+          s: 66
+          from: "00:07:12,23"
+          to: "00:07:16,10"
+          text: ~
+        sequence-67:
+          s: 67
+          from: "00:07:16,11"
+          to: "00:07:21,00"
+          text: ~
+        sequence-68:
+          s: 68
+          from: "00:07:21,01"
+          to: "00:07:24,21"
+          text: ~
+        sequence-69:
+          s: 69
+          from: "00:07:24,22"
+          to: "00:07:32,27"
+          text: ~
+        sequence-70:
+          s: 70
+          from: "00:07:32,28"
+          to: "00:07:38,05"
+          text: ~
+        sequence-71:
+          s: 71
+          from: "00:07:40,04"
+          to: "00:07:47,16"
+          text: ~
+        sequence-72:
+          s: 72
+          from: "00:07:47,17"
+          to: "00:07:58,17"
+          text: ~
+        sequence-73:
+          s: 73
+          from: "00:07:58,18"
+          to: "00:08:06,03"
+          text: ~
+        sequence-74:
+          s: 74
+          from: "00:08:06,04"
+          to: "00:08:17,05"
+          text: ~
+        sequence-75:
+          s: 75
+          from: "00:08:17,06"
+          to: "00:08:25,15"
+          text: ~
+        sequence-76:
+          s: 76
+          from: "00:08:25,16"
+          to: "00:08:33,23"
+          text: ~
+        sequence-77:
+          s: 77
+          from: "00:08:33,24"
+          to: "00:08:44,17"
+          text: ~
+        sequence-78:
+          s: 78
+          from: "00:08:44,18"
+          to: "00:08:48,29"
+          text: ~
+        sequence-79:
+          s: 79
+          from: "00:08:49,00"
+          to: "00:08:52,16"
+          text: ~
+        sequence-80:
+          s: 80
+          from: "00:08:52,17"
+          to: "00:09:04,22"
+          text: ~
+        sequence-81:
+          s: 81
+          from: "00:09:04,23"
+          to: "00:09:12,17"
+          text: ~
+        sequence-82:
+          s: 82
+          from: "00:09:15,28"
+          to: "00:09:25,28"
+          text: ~
+        sequence-83:
+          s: 83
+          from: "00:09:25,29"
+          to: "00:09:33,09"
+          text: ~
+        sequence-84:
+          s: 84
+          from: "00:09:33,10"
+          to: "00:09:37,22"
+          text: ~
+        sequence-85:
+          s: 85
+          from: "00:09:37,23"
+          to: "00:09:44,03"
+          text: ~
+        sequence-86:
+          s: 86
+          from: "00:09:44,04"
+          to: "00:09:50,21"
+          text: ~
+        sequence-87:
+          s: 87
+          from: "00:09:50,22"
+          to: "00:09:55,18"
+          text: ~
+        sequence-88:
+          s: 88
+          from: "00:09:55,19"
+          to: "00:10:01,06"
+          text: ~
+        sequence-89:
+          s: 89
+          from: "00:10:01,07"
+          to: "00:10:11,19"
+          text: ~
+        sequence-90:
+          s: 90
+          from: "00:10:11,20"
+          to: "00:10:21,16"
+          text: ~
+        sequence-91:
+          s: 91
+          from: "00:10:21,17"
+          to: "00:10:30,18"
+          text: ~
+        sequence-92:
+          s: 92
+          from: "00:10:30,19"
+          to: "00:10:36,19"
+          text: ~
+        sequence-93:
+          s: 93
+          from: "00:10:36,20"
+          to: "00:10:40,25"
+          text: ~
+        sequence-94:
+          s: 94
+          from: "00:10:40,26"
+          to: "00:10:48,15"
+          text: ~
+        sequence-95:
+          s: 95
+          from: "00:10:48,16"
+          to: "00:10:55,17"
+          text: ~
+        sequence-96:
+          s: 96
+          from: "00:10:55,18"
+          to: "00:11:05,01"
+          text: ~
+        sequence-97:
+          s: 97
+          from: "00:11:05,02"
+          to: "00:11:11,27"
+          text: ~
+        sequence-98:
+          s: 98
+          from: "00:11:11,28"
+          to: "00:11:18,28"
+          text: ~
+        sequence-99:
+          s: 99
+          from: "00:11:18,29"
+          to: "00:11:30,23"
+          text: ~
+        sequence-100:
+          s: 100
+          from: "00:11:30,24"
+          to: "00:11:39,01"
+          text: ~
+        sequence-101:
+          s: 101
+          from: "00:11:39,02"
+          to: "00:11:45,25"
+          text: ~
+        sequence-102:
+          s: 102
+          from: "00:11:45,26"
+          to: "00:11:49,29"
+          text: ~
+        sequence-103:
+          s: 103
+          from: "00:11:50,00"
+          to: "00:11:56,09"
+          text: ~
+        sequence-104:
+          s: 104
+          from: "00:11:56,10"
+          to: "00:12:02,18"
+          text: ~
+        sequence-105:
+          s: 105
+          from: "00:12:02,19"
+          to: "00:12:06,27"
+          text: ~
+        sequence-106:
+          s: 106
+          from: "00:12:06,28"
+          to: "00:12:11,28"
+          text: ~
+        sequence-107:
+          s: 107
+          from: "00:12:11,29"
+          to: "00:12:17,18"
+          text: ~
+        sequence-108:
+          s: 108
+          from: "00:12:17,19"
+          to: "00:12:22,23"
+          text: ~
+        sequence-109:
+          s: 109
+          from: "00:12:23,20"
+          to: "00:12:27,17"
+          text: ~
+        sequence-110:
+          s: 110
+          from: "00:12:29,18"
+          to: "00:12:34,15"
+          text: ~
+        sequence-111:
+          s: 111
+          from: "00:12:34,16"
+          to: "00:12:41,13"
+          text: ~
+        sequence-112:
+          s: 112
+          from: "00:12:41,14"
+          to: "00:12:44,12"
+          text: ~
+        sequence-113:
+          s: 113
+          from: "00:12:44,13"
+          to: "00:12:50,27"
+          text: ~
+        sequence-114:
+          s: 114
+          from: "00:12:50,28"
+          to: "00:13:00,24"
+          text: ~
+        sequence-115:
+          s: 115
+          from: "00:13:00,25"
+          to: "00:13:10,22"
+          text: ~
+        sequence-116:
+          s: 116
+          from: "00:13:10,23"
+          to: "00:13:19,22"
+          text: ~
+        sequence-117:
+          s: 117
+          from: "00:13:19,23"
+          to: "00:13:29,09"
+          text: ~
+        sequence-118:
+          s: 118
+          from: "00:13:29,10"
+          to: "00:13:35,19"
+          text: ~
+        sequence-119:
+          s: 119
+          from: "00:13:35,20"
+          to: "00:13:45,01"
+          text: ~
+        sequence-120:
+          s: 120
+          from: "00:13:45,02"
+          to: "00:13:52,12"
+          text: ~
+        sequence-121:
+          s: 121
+          from: "00:13:52,13"
+          to: "00:13:57,07"
+          text: ~
+        sequence-122:
+          s: 122
+          from: "00:13:57,08"
+          to: "00:14:03,04"
+          text: ~
+        sequence-123:
+          s: 123
+          from: "00:14:03,05"
+          to: "00:14:07,22"
+          text: ~
+        sequence-124:
+          s: 124
+          from: "00:14:07,23"
+          to: "00:14:14,12"
+          text: ~
+        sequence-125:
+          s: 125
+          from: "00:14:14,13"
+          to: "00:14:20,16"
+          text: ~
+        sequence-126:
+          s: 126
+          from: "00:14:20,17"
+          to: "00:14:30,24"
+          text: ~
+        sequence-127:
+          s: 127
+          from: "00:14:30,25"
+          to: "00:14:38,01"
+          text: ~
+        sequence-128:
+          s: 128
+          from: "00:14:38,02"
+          to: "00:14:44,19"
+          text: ~
+        sequence-129:
+          s: 129
+          from: "00:14:44,20"
+          to: "00:14:50,19"
+          text: ~
+        sequence-130:
+          s: 130
+          from: "00:14:50,20"
+          to: "00:14:56,16"
+          text: ~
+        sequence-131:
+          s: 131
+          from: "00:14:59,10"
+          to: "00:15:03,06"
+          text: ~
+        sequence-132:
+          s: 132
+          from: "00:15:03,07"
+          to: "00:15:12,25"
+          text: ~
+        sequence-133:
+          s: 133
+          from: "00:15:12,26"
+          to: "00:15:18,03"
+          text: ~
+        sequence-134:
+          s: 134
+          from: "00:15:18,04"
+          to: "00:15:21,07"
+          text: ~
+        sequence-135:
+          s: 135
+          from: "00:15:21,08"
+          to: "00:15:33,09"
+          text: ~
+        sequence-136:
+          s: 136
+          from: "00:15:33,10"
+          to: "00:15:41,22"
+          text: ~
+        sequence-137:
+          s: 137
+          from: "00:15:41,23"
+          to: "00:15:49,04"
+          text: ~
+        sequence-138:
+          s: 138
+          from: "00:15:49,05"
+          to: "00:15:55,16"
+          text: ~
+        sequence-139:
+          s: 139
+          from: "00:15:55,17"
+          to: "00:16:03,19"
+          text: ~
+        sequence-140:
+          s: 140
+          from: "00:16:03,20"
+          to: "00:16:12,15"
+          text: ~
+        sequence-141:
+          s: 141
+          from: "00:16:12,16"
+          to: "00:16:20,10"
+          text: ~
+        sequence-142:
+          s: 142
+          from: "00:16:20,11"
+          to: "00:16:24,09"
+          text: ~
+        sequence-143:
+          s: 143
+          from: "00:16:24,10"
+          to: "00:16:31,04"
+          text: ~
+        sequence-144:
+          s: 144
+          from: "00:16:31,05"
+          to: "00:16:39,28"
+          text: ~
+        sequence-145:
+          s: 145
+          from: "00:16:39,29"
+          to: "00:16:45,13"
+          text: ~
+        sequence-146:
+          s: 146
+          from: "00:16:45,14"
+          to: "00:16:49,25"
+          text: ~
+        sequence-147:
+          s: 147
+          from: "00:16:49,26"
+          to: "00:17:01,04"
+          text: ~
+        sequence-148:
+          s: 148
+          from: "00:17:01,05"
+          to: "00:17:05,18"
+          text: ~
+        sequence-149:
+          s: 149
+          from: "00:17:05,19"
+          to: "00:17:11,06"
+          text: ~
+        sequence-150:
+          s: 150
+          from: "00:17:11,07"
+          to: "00:17:14,25"
+          text: ~
+        sequence-151:
+          s: 151
+          from: "00:17:14,26"
+          to: "00:17:22,25"
+          text: ~
+        sequence-152:
+          s: 152
+          from: "00:17:24,22"
+          to: "00:17:29,06"
+          text: ~
+        sequence-153:
+          s: 153
+          from: "00:17:29,07"
+          to: "00:17:32,27"
+          text: ~
+        sequence-154:
+          s: 154
+          from: "00:17:32,28"
+          to: "00:17:40,06"
+          text: ~
+        sequence-155:
+          s: 155
+          from: "00:17:40,07"
+          to: "00:17:47,11"
+          text: ~
+        sequence-156:
+          s: 156
+          from: "00:17:56,05"
+          to: "00:18:06,11"
+          text: ~
+        sequence-157:
+          s: 157
+          from: "00:18:06,12"
+          to: "00:18:13,25"
+          text: ~
+        sequence-158:
+          s: 158
+          from: "00:18:13,26"
+          to: "00:18:17,13"
+          text: ~
+        sequence-159:
+          s: 159
+          from: "00:18:17,14"
+          to: "00:18:20,05"
+          text: ~
+        sequence-160:
+          s: 160
+          from: "00:18:20,06"
+          to: "00:18:26,22"
+          text: ~
+        sequence-161:
+          s: 161
+          from: "00:18:26,23"
+          to: "00:18:33,12"
+          text: ~

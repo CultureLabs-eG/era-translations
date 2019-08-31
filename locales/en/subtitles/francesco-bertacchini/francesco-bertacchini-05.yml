@@ -1,0 +1,366 @@
+en:
+  francesco-bertacchini:
+    chapter-5:
+      c: 5
+      title: "Bruna and the fleet"
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:01,02"
+          to: "00:00:10,10"
+          text: "Bruna is one of the \"staffette\" (partisan couriers) who helped to save me."
+        sequence-2:
+          s: 2
+          from: "00:00:10,11"
+          to: "00:00:17,02"
+          text: "We were to meet between Barco, Bibbiano, Montecchio and Cavriago,"
+        sequence-3:
+          s: 3
+          from: "00:00:17,03"
+          to: "00:00:21,22"
+          text: "where the railroad was, around midnight."
+        sequence-4:
+          s: 4
+          from: "00:00:27,04"
+          to: "00:00:29,16"
+          text: "We arrived at eleven o'clock,"
+        sequence-5:
+          s: 5
+          from: "00:00:29,17"
+          to: "00:00:36,02"
+          text: "so we told the \"staffetta\" that we would go to a peasant's house nearby,"
+        sequence-6:
+          s: 6
+          from: "00:00:36,03"
+          to: "00:00:45,00"
+          text: "and asked her to watch out and to call us when they'd arrived but to be careful."
+        sequence-7:
+          s: 7
+          from: "00:00:46,20"
+          to: "00:00:51,10"
+          text: "Around midnight she came to us"
+        sequence-8:
+          s: 8
+          from: "00:00:51,11"
+          to: "00:01:01,05"
+          text: "and told us the other partisans had arrived but they were dressed in white."
+        sequence-9:
+          s: 9
+          from: "00:01:01,06"
+          to: "00:01:05,12"
+          text: "They didn't know the password."
+        sequence-10:
+          s: 10
+          from: "00:01:05,13"
+          to: "00:01:12,24"
+          text: "We went to the entrance door and there they were,"
+        sequence-11:
+          s: 11
+          from: "00:01:13,00"
+          to: "00:01:16,22"
+          text: "a group of 20 people all set there in front of us."
+        sequence-12:
+          s: 12
+          from: "00:01:16,23"
+          to: "00:01:21,17"
+          text: "When they understood that we were inside the stable"
+        sequence-13:
+          s: 13
+          from: "00:01:21,18"
+          to: "00:01:25,21"
+          text: "they shouted at us to come out with our hands up."
+        sequence-14:
+          s: 14
+          from: "00:01:25,22"
+          to: "00:01:36,01"
+          text: "Our light was burning, and one of us broke the lamp to hide us in the dark."
+        sequence-15:
+          s: 15
+          from: "00:01:36,02"
+          to: "00:01:40,02"
+          text: "As soon as the light went off the shot at us."
+        sequence-16:
+          s: 16
+          from: "00:01:40,03"
+          to: "00:01:45,04"
+          text: "They killed two cows and a donkey."
+        sequence-17:
+          s: 17
+          from: "00:01:45,05"
+          to: "00:01:53,02"
+          text: "One of us had taken his shoes off and ran away barefoot."
+        sequence-18:
+          s: 18
+          from: "00:01:53,03"
+          to: "00:02:01,05"
+          text: "We escaped to the other side of the door because we were surrounded on this side;"
+        sequence-19:
+          s: 19
+          from: "00:02:01,06"
+          to: "00:02:05,07"
+          text: "an iron door, that door was never opened before."
+        sequence-20:
+          s: 20
+          from: "00:02:05,08"
+          to: "00:02:10,01"
+          text: "Then with three or four hits we managed to force it."
+        sequence-21:
+          s: 21
+          from: "00:02:10,02"
+          to: "00:02:15,16"
+          text: "Then one by one outside while they were shooting,"
+        sequence-22:
+          s: 22
+          from: "00:02:15,17"
+          to: "00:02:20,17"
+          text: "but they were shooting at the cows and we were doing it on time."
+        sequence-23:
+          s: 23
+          from: "00:02:20,18"
+          to: "00:02:31,17"
+          text: "I lost track of the others, there was a hen-house but they weren't there."
+        sequence-24:
+          s: 24
+          from: "00:02:31,18"
+          to: "00:02:45,13"
+          text: "I went around the house but it was the wrong direction,"
+        sequence-25:
+          s: 25
+          from: "00:02:45,14"
+          to: "00:02:52,08"
+          text: "I went out on the street and all of a sudden I heard somebody saying:"
+        sequence-26:
+          s: 26
+          from: "00:02:52,09"
+          to: "00:02:55,19"
+          text: "\"Come here with your hands up!\""
+        sequence-27:
+          s: 27
+          from: "00:02:55,20"
+          to: "00:03:09,02"
+          text: "I shot at him and went hiding in the hen-house and from there into a ditch."
+        sequence-28:
+          s: 28
+          from: "00:03:09,03"
+          to: "00:03:25,14"
+          text: "From inside the ditch i saw the road going down towards the cemetery."
+        sequence-29:
+          s: 29
+          from: "00:03:25,15"
+          to: "00:03:28,01"
+          text: "But there was lots of snow."
+        sequence-30:
+          s: 30
+          from: "00:03:28,02"
+          to: "00:03:36,10"
+          text: "I walked inside the ditch filled with water in order not to leave tracks in the snow."
+        sequence-31:
+          s: 31
+          from: "00:03:36,11"
+          to: "00:03:40,12"
+          text: "I couldn't see the rest of my group anymore."
+        sequence-32:
+          s: 32
+          from: "00:03:40,13"
+          to: "00:04:03,00"
+          text: "So I walked on in this ditch and then into another ditch."
+        sequence-33:
+          s: 33
+          from: "00:04:03,01"
+          to: "00:04:18,11"
+          text: "In the meantime I heard the Germans were gathering, I could hear their horses."
+        sequence-34:
+          s: 34
+          from: "00:04:18,12"
+          to: "00:04:26,13"
+          text: "I went to the left, I went to the right right and eventually stopped where I was."
+        sequence-35:
+          s: 35
+          from: "00:04:26,14"
+          to: "00:04:53,20"
+          text: "I sat down near an elm and heard the belltower of Barco."
+        sequence-36:
+          s: 36
+          from: "00:04:53,21"
+          to: "00:05:01,14"
+          text: "It was one o'clock, half past one, two o'clock."
+        sequence-37:
+          s: 37
+          from: "00:05:01,15"
+          to: "00:05:14,18"
+          text: "With the dawning daylight I saw there was a house nearby and went there."
+        sequence-38:
+          s: 38
+          from: "00:05:14,19"
+          to: "00:05:31,01"
+          text: "There were no watchdogs, so I went to the window of the house"
+        sequence-39:
+          s: 39
+          from: "00:05:31,02"
+          to: "00:05:43,20"
+          text: "and saw an old lady with a stick lighting the fire."
+        sequence-40:
+          s: 40
+          from: "00:05:43,21"
+          to: "00:05:49,00"
+          text: "I looked around and slowly slowly ..."
+        sequence-41:
+          s: 41
+          from: "00:05:49,01"
+          to: "00:05:54,04"
+          text: "At that time the peasants did not lock their doors as they do today,"
+        sequence-42:
+          s: 42
+          from: "00:05:54,05"
+          to: "00:05:58,21"
+          text: "they left the door open to go to the stable."
+        sequence-43:
+          s: 43
+          from: "00:05:58,22"
+          to: "00:06:08,20"
+          text: "I knocked at the door and called: \"Grandma! Grandma!\""
+        sequence-44:
+          s: 44
+          from: "00:06:08,21"
+          to: "00:06:16,14"
+          text: "When she saw me she got scared and fell off the chair she was sitting on."
+        sequence-45:
+          s: 45
+          from: "00:06:16,15"
+          to: "00:06:28,07"
+          text: "I tried to pick her up and the daughter came down asking what was going on."
+        sequence-46:
+          s: 46
+          from: "00:06:28,08"
+          to: "00:06:31,07"
+          text: "I said: \"Nothing, nothing\"."
+        sequence-47:
+          s: 47
+          from: "00:06:31,08"
+          to: "00:06:36,15"
+          text: "She said: \"We heard shooting, we heard noises, what's going on?\""
+        sequence-48:
+          s: 48
+          from: "00:06:36,16"
+          to: "00:06:43,22"
+          text: "\"Nothing, now, we’ll take care of your grandma and then we'll see.\""
+        sequence-49:
+          s: 49
+          from: "00:06:43,23"
+          to: "00:06:51,17"
+          text: "I had long hair and a long beard, I was wet from head to toes,"
+        sequence-50:
+          s: 50
+          from: "00:06:51,18"
+          to: "00:07:01,05"
+          text: "my clothes were freezing because I'd stayed outside in the cold all night."
+        sequence-51:
+          s: 51
+          from: "00:07:01,06"
+          to: "00:07:11,12"
+          text: "We took care of the grandma and then her husband came down"
+        sequence-52:
+          s: 52
+          from: "00:07:11,13"
+          to: "00:07:16,21"
+          text: "and we talked, and I said:"
+        sequence-53:
+          s: 53
+          from: "00:07:16,22"
+          to: "00:07:24,02"
+          text: "\"Look, if I came here into your house and you are a sympathizer with us"
+        sequence-54:
+          s: 54
+          from: "00:07:24,03"
+          to: "00:07:26,22"
+          text: "nothing happens to you and we're all fine,"
+        sequence-55:
+          s: 55
+          from: "00:07:26,23"
+          to: "00:07:31,19"
+          text: "but if you have some stories you come before me ..."
+        sequence-56:
+          s: 56
+          from: "00:07:31,20"
+          to: "00:07:39,11"
+          text: "\" And he said: \"No, no, I'm a sympathizer, too, I'm one that ...\""
+        sequence-57:
+          s: 57
+          from: "00:07:39,12"
+          to: "00:07:44,13"
+          text: "\"There's nothing bad, we'll fix it all\"."
+        sequence-58:
+          s: 58
+          from: "00:07:44,14"
+          to: "00:07:53,06"
+          text: "So we had a chat and I asked \"Do you know Bruna?\""
+        sequence-59:
+          s: 59
+          from: "00:07:53,07"
+          to: "00:07:59,12"
+          text: "Bruna was the \"staffetta\" from Cavriago,"
+        sequence-60:
+          s: 60
+          from: "00:07:59,13"
+          to: "00:08:07,12"
+          text: "a few days later they caught her and tortured her, they did all sort of thing to her ..."
+        sequence-61:
+          s: 61
+          from: "00:08:07,13"
+          to: "00:08:12,05"
+          text: "So they offered to hide me in the barn."
+        sequence-62:
+          s: 62
+          from: "00:08:12,06"
+          to: "00:08:24,12"
+          text: "They gave me some dry clothes and brought me to the hiding place."
+        sequence-63:
+          s: 63
+          from: "00:08:24,13"
+          to: "00:08:29,18"
+          text: "To that time the hiding places were in the middle of the fields."
+        sequence-64:
+          s: 64
+          from: "00:08:29,19"
+          to: "00:08:35,02"
+          text: "And then they went to Cavriago to call Bruna."
+        sequence-65:
+          s: 65
+          from: "00:08:35,03"
+          to: "00:08:48,10"
+          text: "As I saw her I was so glad, she told me that by nine they would come and pick me up."
+        sequence-66:
+          s: 66
+          from: "00:08:48,11"
+          to: "00:08:55,04"
+          text: "So they did, I met them on the street"
+        sequence-67:
+          s: 67
+          from: "00:08:55,05"
+          to: "00:09:00,06"
+          text: "and we went to Gombio where my company was stationed."
+        sequence-68:
+          s: 68
+          from: "00:09:00,07"
+          to: "00:09:06,04"
+          text: "I had a girlfriend there and I went to the barn"
+        sequence-69:
+          s: 69
+          from: "00:09:06,05"
+          to: "00:09:12,14"
+          text: "because I knew that when she was coming down she was going there."
+        sequence-70:
+          s: 70
+          from: "00:09:12,15"
+          to: "00:09:19,13"
+          text: "When she saw me she said: \"Volpe! Volpe!\" and we hugged and she told me"
+        sequence-71:
+          s: 71
+          from: "00:09:19,14"
+          to: "00:09:24,03"
+          text: "\"There were rumours that they'd caught you, that they'd killed you ...\""
+        sequence-72:
+          s: 72
+          from: "00:09:24,04"
+          to: "00:09:26,18"
+          text: "but everything went fine and we're here."

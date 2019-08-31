@@ -1,0 +1,506 @@
+en:
+  francesco-bertacchini:
+    chapter-9:
+      c: 9
+      title: Liberation
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:00,00"
+          to: "00:00:09,05"
+          text: "April was a boring month."
+        sequence-2:
+          s: 2
+          from: "00:00:09,06"
+          to: "00:00:15,24"
+          text: "Every evening we went to hear Radio London"
+        sequence-3:
+          s: 3
+          from: "00:00:16,00"
+          to: "00:00:21,04"
+          text: "but all we could say was"
+        sequence-4:
+          s: 4
+          from: "00:00:21,05"
+          to: "00:00:25,00"
+          text: "that we were still patrolling"
+        sequence-5:
+          s: 5
+          from: "00:00:25,01"
+          to: "00:00:34,07"
+          text: "because we were not ready yet for the big push forward."
+        sequence-6:
+          s: 6
+          from: "00:00:34,21"
+          to: "00:00:43,06"
+          text: "When the comander of the battalion came home he told us:"
+        sequence-7:
+          s: 7
+          from: "00:00:43,07"
+          to: "00:00:47,13"
+          text: "\"Guys, get prepared because tomorrow we're leaving!\""
+        sequence-8:
+          s: 8
+          from: "00:00:47,14"
+          to: "00:00:50,02"
+          text: "\"What? What does this mean? Where are we going?\""
+        sequence-9:
+          s: 9
+          from: "00:00:50,03"
+          to: "00:00:52,19"
+          text: "\"Tomorrow morning we're going down, to Reggio\"."
+        sequence-10:
+          s: 10
+          from: "00:00:52,20"
+          to: "00:00:53,16"
+          text: "\"Oh, come on!\""
+        sequence-11:
+          s: 11
+          from: "00:00:53,17"
+          to: "00:00:56,20"
+          text: "\"Yes, by now everyone is moving."
+        sequence-12:
+          s: 12
+          from: "00:00:56,21"
+          to: "00:01:07,02"
+          text: "Tomorrow morning the whole battalion and our brigade has to move down to Ciano\"."
+        sequence-13:
+          s: 13
+          from: "00:01:07,03"
+          to: "00:01:12,21"
+          text: "I couldn't sleep that night,"
+        sequence-14:
+          s: 14
+          from: "00:01:21,02"
+          to: "00:01:25,21"
+          text: "the perspective of going down was such an emotional thing that ..."
+        sequence-15:
+          s: 15
+          from: "00:01:26,13"
+          to: "00:01:29,16"
+          text: "We reached Ciano"
+        sequence-16:
+          s: 16
+          from: "00:01:29,17"
+          to: "00:01:32,11"
+          text: "very slowly"
+        sequence-17:
+          s: 17
+          from: "00:01:32,12"
+          to: "00:01:38,12"
+          text: "because we knew that there were the anti-rebels squad"
+        sequence-18:
+          s: 18
+          from: "00:01:38,13"
+          to: "00:01:45,03"
+          text: "looking for us, ready to shoot at us from every window."
+        sequence-19:
+          s: 19
+          from: "00:01:45,04"
+          to: "00:01:49,18"
+          text: "We reached Ciano without shooting."
+        sequence-20:
+          s: 20
+          from: "00:01:49,19"
+          to: "00:01:56,22"
+          text: "It was a complete desert, we didn't even meet any local person on the street."
+        sequence-21:
+          s: 21
+          from: "00:01:56,23"
+          to: "00:01:58,18"
+          text: "\"What's going on?\""
+        sequence-22:
+          s: 22
+          from: "00:01:58,19"
+          to: "00:02:11,07"
+          text: "Since in Ciano there was nothing we decided to go further on to the crossroads to San Polo."
+        sequence-23:
+          s: 23
+          from: "00:02:11,08"
+          to: "00:02:14,16"
+          text: "We were walking slowly,"
+        sequence-24:
+          s: 24
+          from: "00:02:14,17"
+          to: "00:02:21,10"
+          text: "keeping 10 meters distance between each of us because it was dangerous."
+        sequence-25:
+          s: 25
+          from: "00:02:21,11"
+          to: "00:02:23,18"
+          text: "So we reached the church."
+        sequence-26:
+          s: 26
+          from: "00:02:24,08"
+          to: "00:02:32,20"
+          text: "We were there, chatting, all the machine guns ready"
+        sequence-27:
+          s: 27
+          from: "00:02:32,21"
+          to: "00:02:38,06"
+          text: "and all of a sudden an armoured car turned up."
+        sequence-28:
+          s: 28
+          from: "00:02:38,07"
+          to: "00:02:43,03"
+          text: "We thought it was the Germans"
+        sequence-29:
+          s: 29
+          from: "00:02:43,04"
+          to: "00:02:45,14"
+          text: "and got ready to shoot but"
+        sequence-30:
+          s: 30
+          from: "00:02:45,15"
+          to: "00:02:55,06"
+          text: "it was a car driven by a black man, smoking a long cigar."
+        sequence-31:
+          s: 31
+          from: "00:02:58,07"
+          to: "00:03:06,23"
+          text: "They recognized us as partisans so they came to us and we hugged."
+        sequence-32:
+          s: 32
+          from: "00:03:06,24"
+          to: "00:03:10,20"
+          text: "That guy was from Brazil"
+        sequence-33:
+          s: 33
+          from: "00:03:10,21"
+          to: "00:03:17,11"
+          text: "and as he came to us he threw the cigar away."
+        sequence-34:
+          s: 34
+          from: "00:03:17,12"
+          to: "00:03:24,14"
+          text: "As I saw it I ran to the cigar, put it out and put it in my pocket."
+        sequence-35:
+          s: 35
+          from: "00:03:24,15"
+          to: "00:03:30,19"
+          text: "To that time we were smoking leaves from nut- and cherry-trees."
+        sequence-36:
+          s: 36
+          from: "00:03:30,20"
+          to: "00:03:40,11"
+          text: "But the guy saw what I was doing and gave me a new one to smoke."
+        sequence-37:
+          s: 37
+          from: "00:03:40,12"
+          to: "00:03:44,10"
+          text: "They gave us some chocolate"
+        sequence-38:
+          s: 38
+          from: "00:03:44,11"
+          to: "00:03:48,06"
+          text: "and asked us how we were doing, they spoke Italian."
+        sequence-39:
+          s: 39
+          from: "00:03:48,02"
+          to: "00:03:52,13"
+          text: "We stayed there all night and the next morning the order came"
+        sequence-40:
+          s: 40
+          from: "00:03:52,14"
+          to: "00:03:58,17"
+          text: "to the detachement \"Anti-Fascist\" to go to Bibbiano"
+        sequence-41:
+          s: 41
+          from: "00:03:58,18"
+          to: "00:04:04,04"
+          text: "and occupy the village of Bibbiano."
+        sequence-42:
+          s: 42
+          from: "00:04:04,05"
+          to: "00:04:09,08"
+          text: "We would have preferred to go to Quattro Castella"
+        sequence-43:
+          s: 43
+          from: "00:04:09,09"
+          to: "00:04:14,03"
+          text: "because that was in the direction of Reggio Emilia."
+        sequence-44:
+          s: 44
+          from: "00:04:14,04"
+          to: "00:04:18,23"
+          text: "But we went to Bibbiano."
+        sequence-45:
+          s: 45
+          from: "00:04:18,24"
+          to: "00:04:26,00"
+          text: "We arrived in the morning, walking slowly, and there was noone."
+        sequence-46:
+          s: 46
+          from: "00:04:26,01"
+          to: "00:04:32,16"
+          text: "So we set up another temporary post,"
+        sequence-47:
+          s: 47
+          from: "00:04:32,17"
+          to: "00:04:38,16"
+          text: "and all of a sudden from behind the trees the Germans started to come out,"
+        sequence-48:
+          s: 48
+          from: "00:04:38,17"
+          to: "00:04:46,06"
+          text: "with their hands up. It was close to the school, i remember well."
+        sequence-49:
+          s: 49
+          from: "00:04:46,07"
+          to: "00:04:50,00"
+          text: "There was a German behind every tree."
+        sequence-50:
+          s: 50
+          from: "00:04:50,01"
+          to: "00:04:54,06"
+          text: "They were probably hiding there since the evening before,"
+        sequence-51:
+          s: 51
+          from: "00:04:54,07"
+          to: "00:04:57,17"
+          text: "when all of the others had escaped."
+        sequence-52:
+          s: 52
+          from: "00:04:57,18"
+          to: "00:05:01,07"
+          text: "Behind every tree was a German."
+        sequence-53:
+          s: 53
+          from: "00:05:01,08"
+          to: "00:05:16,09"
+          text: "So we gathered them, hands up and put them into the schools."
+        sequence-54:
+          s: 54
+          from: "00:05:16,19"
+          to: "00:05:21,11"
+          text: "\"Falco\" told me there was an order to go to Parma"
+        sequence-55:
+          s: 55
+          from: "00:05:22,21"
+          to: "00:05:34,06"
+          text: "but I and others told him: \"I'm not going to Parma,"
+        sequence-56:
+          s: 56
+          from: "00:05:34,07"
+          to: "00:05:44,10"
+          text: "I'm going to defend Reggio Emilia, not Parma!\""
+        sequence-57:
+          s: 57
+          from: "00:05:44,11"
+          to: "00:05:54,01"
+          text: "I hated the partisans of Parma"
+        sequence-58:
+          s: 58
+          from: "00:05:54,02"
+          to: "00:06:00,05"
+          text: "because they had shot at us when we crossed the river on October 6th,"
+        sequence-59:
+          s: 59
+          from: "00:06:00,06"
+          to: "00:06:04,22"
+          text: "we have never been brothers with the partisans of Parma."
+        sequence-60:
+          s: 60
+          from: "00:06:06,11"
+          to: "00:06:18,02"
+          text: "But there was nothing to do, we had to go to Parma: self-discipline."
+        sequence-61:
+          s: 61
+          from: "00:06:18,03"
+          to: "00:06:22,13"
+          text: "The order was to be respected."
+        sequence-62:
+          s: 62
+          from: "00:06:22,14"
+          to: "00:06:34,15"
+          text: "We left Quattro Castella passed Monticelli and arrived finally at Parma."
+        sequence-63:
+          s: 63
+          from: "00:06:34,16"
+          to: "00:06:38,23"
+          text: "We walked in line, slowly, looking at the beautiful landscape."
+        sequence-64:
+          s: 64
+          from: "00:06:38,24"
+          to: "00:06:41,19"
+          text: "We didn't fire one single shot."
+        sequence-65:
+          s: 65
+          from: "00:06:41,20"
+          to: "00:06:47,24"
+          text: "Everything was clean, clean, clean, there was neither a fascist nor a German, nothing."
+        sequence-66:
+          s: 66
+          from: "00:06:48,00"
+          to: "00:06:57,02"
+          text: "At the outskirts of Parma we met other partisans,"
+        sequence-67:
+          s: 67
+          from: "00:06:57,03"
+          to: "00:07:03,05"
+          text: "they told us that there were snipers and to be careful."
+        sequence-68:
+          s: 68
+          from: "00:07:03,06"
+          to: "00:07:13,09"
+          text: "As we were there, a jeep of Americans came from the direction of Reggio Emilia."
+        sequence-69:
+          s: 69
+          from: "00:07:13,10"
+          to: "00:07:16,11"
+          text: "We shouted at them to stop"
+        sequence-70:
+          s: 70
+          from: "00:07:16,12"
+          to: "00:07:25,06"
+          text: "and told them that there was a group of Germans there who were annoying us."
+        sequence-71:
+          s: 71
+          from: "00:07:25,07"
+          to: "00:07:31,23"
+          text: "So one of them turned around,"
+        sequence-72:
+          s: 72
+          from: "00:07:31,24"
+          to: "00:07:36,10"
+          text: "set the firegun in place, pointed at where we'd told him,"
+        sequence-73:
+          s: 73
+          from: "00:07:36,11"
+          to: "00:07:46,19"
+          text: "put the bomb into the mortar and after the \"cim cim tac\""
+        sequence-74:
+          s: 74
+          from: "00:07:46,20"
+          to: "00:07:50,10"
+          text: "they'd disappeared, we didn't hear anyone any longer."
+        sequence-75:
+          s: 75
+          from: "00:07:50,11"
+          to: "00:07:53,14"
+          text: "He must have hit them."
+        sequence-76:
+          s: 76
+          from: "00:07:53,15"
+          to: "00:07:59,07"
+          text: "So we came out and there was nothing left."
+        sequence-77:
+          s: 77
+          from: "00:07:59,08"
+          to: "00:08:03,03"
+          text: "We said goodbye to the Americans"
+        sequence-78:
+          s: 78
+          from: "00:08:03,04"
+          to: "00:08:11,08"
+          text: "and went back to Reggio Emilia where we arrived at midnight."
+        sequence-79:
+          s: 79
+          from: "00:08:11,23"
+          to: "00:08:18,10"
+          text: "We put our stuff down and after a while a guy came in"
+        sequence-80:
+          s: 80
+          from: "00:08:18,11"
+          to: "00:08:25,24"
+          text: "and told us there was someone looking for Francesco. \"Who is Francesco?\""
+        sequence-81:
+          s: 81
+          from: "00:08:26,00"
+          to: "00:08:33,22"
+          text: "I heard it but needed a while to understand as i was called \"Volpe\" since month ..."
+        sequence-82:
+          s: 82
+          from: "00:08:33,23"
+          to: "00:08:39,08"
+          text: "\"There is a man looking for Francesco.\""
+        sequence-83:
+          s: 83
+          from: "00:08:39,09"
+          to: "00:08:44,18"
+          text: "I went out ... it was my father."
+        sequence-84:
+          s: 84
+          from: "00:08:44,19"
+          to: "00:09:02,07"
+          text: "We had never coped well because he was very strict but then we hugged."
+        sequence-85:
+          s: 85
+          from: "00:09:05,23"
+          to: "00:09:09,14"
+          text: "He had looked for me a lot, he told me."
+        sequence-86:
+          s: 86
+          from: "00:09:09,15"
+          to: "00:09:17,13"
+          text: "They told him I was there but he believed they were saying so because I was dead."
+        sequence-87:
+          s: 87
+          from: "00:09:17,14"
+          to: "00:09:22,02"
+          text: "\"Come on, we're here, let's go!\" and then he said:"
+        sequence-88:
+          s: 88
+          from: "00:09:22,03"
+          to: "00:09:29,04"
+          text: "\"Now I'm going home, I tell your relatives and then you come home and eat with us\"."
+        sequence-89:
+          s: 89
+          from: "00:09:29,05"
+          to: "00:09:36,10"
+          text: "Yes, sure, eating with them, they didn't even have food to eat for themselves!"
+        sequence-90:
+          s: 90
+          from: "00:09:36,11"
+          to: "00:09:41,14"
+          text: "Everything took a good end."
+        sequence-91:
+          s: 91
+          from: "00:09:44,00"
+          to: "00:09:50,03"
+          text: "Anyway, I left my father and the head of my unit, \"Falco\", told me:"
+        sequence-92:
+          s: 92
+          from: "00:09:50,04"
+          to: "00:09:55,04"
+          text: "\"Get three or four men and go on patrol on the Via Emilia\"."
+        sequence-93:
+          s: 93
+          from: "00:09:55,05"
+          to: "00:10:02,03"
+          text: "I went to talk also to my boss because I cared for him, too,"
+        sequence-94:
+          s: 94
+          from: "00:10:02,04"
+          to: "00:10:06,06"
+          text: "i met him in front of the shop and he said"
+        sequence-95:
+          s: 95
+          from: "00:10:06,07"
+          to: "00:10:11,00"
+          text: "\"Oh, Francesco!\" and we hugged here and hugged there."
+        sequence-96:
+          s: 96
+          from: "00:10:11,01"
+          to: "00:10:16,22"
+          text: "After a few minutes he said: \"Well, now we have to start working because ...\""
+        sequence-97:
+          s: 97
+          from: "00:10:16,23"
+          to: "00:10:20,14"
+          text: "\"Oh, i have just arrived ..."
+        sequence-98:
+          s: 98
+          from: "00:10:20,15"
+          to: "00:10:27,07"
+          text: "Ok, let me wait for the discharge and I'll be back\"."
+        sequence-99:
+          s: 99
+          from: "00:10:27,08"
+          to: "00:10:33,24"
+          text: "And so I did. After the discharge, the next morning, I went to the shop"
+        sequence-100:
+          s: 100
+          from: "00:10:34,00"
+          to: "00:10:38,20"
+          text: "and so we started a whole new life."
