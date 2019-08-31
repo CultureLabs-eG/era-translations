@@ -1,0 +1,61 @@
+en:
+  camillo-marmiroli:
+    chapter-8:
+      c: 8
+      title: Liberation
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:00,00"
+          to: "00:00:03,17"
+          text: "I told you I was in Cervarezza with my battalion"
+        sequence-2:
+          s: 2
+          from: "00:00:03,18"
+          to: "00:00:09,00"
+          text: "of 100-120 partisans, and then we went down the Sparavalle"
+        sequence-3:
+          s: 3
+          from: "00:00:09,01"
+          to: "00:00:12,16"
+          text: "and got to Castelnovo Monti and there some more people joined us."
+        sequence-4:
+          s: 4
+          from: "00:00:12,17"
+          to: "00:00:19,02"
+          text: "All on foot. It was a beautiful moment, we were happy and quiet."
+        sequence-5:
+          s: 5
+          from: "00:00:19,03"
+          to: "00:00:23,08"
+          text: "Then we reached Reggio and were so proud."
+        sequence-6:
+          s: 6
+          from: "00:00:23,09"
+          to: "00:00:29,24"
+          text: "Sometimes there still was some idiots shooting at us,"
+        sequence-7:
+          s: 7
+          from: "00:00:30,00"
+          to: "00:00:34,22"
+          text: "hidden in the houses, we call them snipers."
+        sequence-8:
+          s: 8
+          from: "00:00:36,14"
+          to: "00:00:40,22"
+          text: "One of our friends was killed in Cà di Rocco,"
+        sequence-9:
+          s: 9
+          from: "00:00:40,23"
+          to: "00:00:43,17"
+          text: "next to the church of San Pellegrino."
+        sequence-10:
+          s: 10
+          from: "00:00:43,18"
+          to: "00:00:49,19"
+          text: "A sniper-idiot who was sitting on the roof of the church, they killed him, too, later."
+        sequence-11:
+          s: 11
+          from: "00:00:49,20"
+          to: "00:00:55,20"
+          text: "It was people who didn't want to surrender. As of the rest it was a big party, that's it."
