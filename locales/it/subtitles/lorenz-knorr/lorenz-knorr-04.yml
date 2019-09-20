@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:01:47,07"
           to: "00:01:51,05"
-          text: "era un punto principale della lotta nazista."
+          text: "era un punto principale del programma nazista."
         sequence-24:
           s: 24
           from: "00:01:51,05"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:02:18,27"
           to: "00:02:25,08"
-          text: "ma le emittenti di Königs Wusterhausen e Seesen, entrambe naziste, si sentivano molto bene"
+          text: "ma le emittenti di Königs Wusterhausen e Zeesen, entrambe naziste, si sentivano molto bene"
         sequence-31:
           s: 31
           from: "00:02:25,08"
