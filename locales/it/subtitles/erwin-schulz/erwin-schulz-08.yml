@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-8:
       c: 8
-      title: "Arrivo al campo di Moor, violenza sportiva"
+      title: "Arrivo al campo nella palude, violenza sportiva"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,10"
           to: "00:00:07,24"
-          text: "Quando arrivammo a Moor, l'ufficiale che ci accompagnava disse:"
+          text: "Quando arrivammo nella palude, l'ufficiale che ci accompagnava disse:"
         sequence-2:
           s: 2
           from: "00:00:07,24"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:13,12"
           to: "00:00:17,14"
-          text: "Lui sapeva cosa succedeva a Moor."
+          text: "Lui sapeva cosa succedeva nella palude."
         sequence-4:
           s: 4
           from: "00:00:17,14"
@@ -78,17 +78,17 @@ it:
           s: 15
           from: "00:00:52,24"
           to: "00:01:04,07"
-          text: "e il generale, sempre delle SA, chiese: \"Tu perché sei qua?\""
+          text: "e il capo baracca, sempre delle SA, chiese: \"Tu perché sei qua?\""
         sequence-16:
           s: 16
           from: "00:01:04,07"
           to: "00:01:09,22"
-          text: "Risposi: \"Per lo sport\"."
+          text: "Risposi: \"Per lo sport\". Perché ero lì per il Processo Sport."
         sequence-17:
           s: 17
           from: "00:01:09,22"
           to: "00:01:15,02"
-          text: "\"Allora fanne 25.\""
+          text: "\"Allora fanne 25 di quelli piacevoli.\""
         sequence-18:
           s: 18
           from: "00:01:15,02"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:24,20"
           to: "00:01:28,19"
-          text: "\"Li hai fatti bene?\" Io risposi: \"Spero di sì, Signor Generale.\""
+          text: "\"Li hai fatti bene?\" Io risposi: \"Spero di sì, Signor Maresciallo.\""
         sequence-22:
           s: 22
           from: "00:01:28,19"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:01:59,24"
           to: "00:02:07,12"
-          text: "Poi ci rimettemmo in fila: \"Anche noi abbiamo un campo sportivo che vogliamo mostrarvi. Qui potrete allenarvi.\""
+          text: "Poi ci rimettemmo in fila: \"Anche noi abbiamo un bel campo sportivo che vogliamo mostrarvi. Qui potrete allenarvi.\""
         sequence-28:
           s: 28
           from: "00:02:07,12"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:08,18"
           to: "00:02:12,17"
-          text: "E lì iniziarono a inseguirci."
+          text: "E lì iniziarono a ordinarci:"
         sequence-30:
           s: 30
           from: "00:02:12,17"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:02:13,26"
           to: "00:02:20,21"
-          text: "Piegamenti in gruppo, corsa di resistenza"
+          text: "piegamenti in gruppo, corsa di resistenza"
         sequence-32:
           s: 32
           from: "00:02:20,21"

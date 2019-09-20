@@ -2,7 +2,7 @@ it:
   erwin-schulz:
     chapter-9:
       c: 9
-      title: "Una giornata a Börgermoor"
+      title: "Una giornata nella palude di Börgermoor"
       subtitles:
         sequence-1:
           s: 1
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:56,25"
           to: "00:01:02,23"
-          text: ~
+          text: "Per la maggior parte del tempo lavoravo nel gruppo che riempiva le buche."
         sequence-14:
           s: 14
           from: "00:01:02,23"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:16,13"
           to: "00:01:26,01"
-          text: "Quando eravamo nella brughiera a lavorare"
+          text: "Quando eravamo nella palude a lavorare"
         sequence-17:
           s: 17
           from: "00:01:26,01"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:48,01"
           to: "00:01:55,07"
-          text: "Ci contavano di nuovo, per vedere c'eravano tutti."
+          text: "Ci contavano di nuovo, per vedere se erano tornati tutti."
         sequence-23:
           s: 23
           from: "00:01:55,07"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:04,18"
           to: "00:02:16,25"
-          text: "A volte facevano lo stufato, i \"Peluschken\", che erano fagioli grandi"
+          text: "A volte facevano il minestrone, i \"Peluschken\", che erano fagioli grandi"
         sequence-26:
           s: 26
           from: "00:02:16,25"

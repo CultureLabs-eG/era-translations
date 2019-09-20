@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,10"
           to: "00:00:08,27"
-          text: "Se ben ricordo, dalla stazione raggiungemmo Luckau in catene."
+          text: "Se ben ricordo, dalla stazione attraversammo Luckau in catene."
         sequence-2:
           s: 2
           from: "00:00:08,27"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:32,23"
           to: "00:00:38,23"
-          text: "grandi 2x3 metri con altri tre uomini."
+          text: "grandi 2x4 metri con altri due uomini."
         sequence-10:
           s: 10
           from: "00:00:38,23"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:03:10,10"
           to: "00:03:13,29"
-          text: "Anche gli altri due erano lì per il \"caso sport\"."
+          text: "Anche gli altri due erano lì per il \"Processo Sport\"."
         sequence-41:
           s: 41
           from: "00:03:13,29"

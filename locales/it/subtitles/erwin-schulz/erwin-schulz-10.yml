@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:01:41,23"
           to: "00:01:48,03"
-          text: "Ancora una cosa: C'erano biglietti per tutto."
+          text: "Ancora una cosa: C'erano tessere annonarie per tutto."
         sequence-26:
           s: 26
           from: "00:01:48,03"
           to: "00:02:01,25"
-          text: "Quando mi rilasciarono, gli amici e i compagni con cui avevo lavorato, avevano portato del burro;"
+          text: "Quando mi rilasciarono, gli amici e i compagni con cui avevo lavorato, o che mi conoscevano, avevano fatto una raccolta:"
         sequence-27:
           s: 27
           from: "00:02:01,25"
