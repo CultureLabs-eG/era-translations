@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:50,18"
           to: "00:00:55,17"
-          text: "che non avevano progetti per Fichte."
+          text: "che non avevano niente a che fare con Fichte."
         sequence-12:
           s: 12
           from: "00:00:55,17"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:49,25"
           to: "00:02:01,04"
-          text: "Il movimento sportivo dei lavoratori era già stato fondato un secolo prima,"
+          text: "Il movimento sportivo dei lavoratori era già stato fondato nel secolo precendente,"
         sequence-20:
           s: 20
           from: "00:02:01,04"

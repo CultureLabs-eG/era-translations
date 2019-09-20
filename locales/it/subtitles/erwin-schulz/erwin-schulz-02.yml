@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:44,27"
           to: "00:00:55,23"
-          text: "Aspettavamo finché non arrivava mio padre con uno zaino pieno di soldi."
+          text: "Aspettavamo finché non arrivava mio padre dal lavoro con uno zaino pieno di soldi."
         sequence-11:
           s: 11
           from: "00:00:55,23"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:20,05"
           to: "00:02:28,24"
-          text: Allora
+          text: "Anche allora"
         sequence-26:
           s: 26
           from: "00:02:28,24"
@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:02:30,03"
           to: "00:02:33,24"
-          text: "gli studenti del liceo erano più grandi"
+          text: "un quattordicenne aveva una forza diversa"
         sequence-28:
           s: 28
           from: "00:02:33,24"
           to: "00:02:42,20"
-          text: "e un quattordicenne e un diciottenne avevano tipi di forza diversi."
+          text: "di un diciottenne."
         sequence-29:
           s: 29
           from: "00:02:42,20"
