@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,10"
           to: "00:00:08,27"
-          text: "Se ben ricordo, dalla stazione abbiamo raggiunto Luckau in catene."
+          text: "Se ben ricordo, dalla stazione raggiungemmo Luckau in catene."
         sequence-2:
           s: 2
           from: "00:00:08,27"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:40,04"
           to: "00:00:49,15"
-          text: "Qui saremmo dovuti vivere per alcuni mesi, anni."
+          text: "Qui avremmo dovuto vivere per alcuni mesi, anni."
         sequence-12:
           s: 12
           from: "00:00:49,15"

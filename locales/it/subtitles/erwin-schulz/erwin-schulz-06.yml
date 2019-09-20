@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:24,01"
           to: "00:01:29,22"
-          text: "In casa erano di buon umore: \"Oh, i musicanti sono tornati.\""
+          text: "In casa erano tutti di buon umore: \"Oh, i musicanti sono tornati.\""
         sequence-17:
           s: 17
           from: "00:01:29,22"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:17,24"
           to: "00:02:27,21"
-          text: "Era così strano che molti sindacalisti pensarono si trattasse di un inganno…"
+          text: "Era così strano, che molti sindacalisti pensarono si trattasse di un inganno…"
         sequence-26:
           s: 26
           from: "00:02:27,21"
@@ -168,7 +168,7 @@ it:
           s: 33
           from: "00:03:15,24"
           to: "00:03:21,27"
-          text: "In questo modo potevamo finanziare diverse cose."
+          text: "In questo modo avremmo potuto finanziare diverse cose."
         sequence-34:
           s: 34
           from: "00:03:21,27"

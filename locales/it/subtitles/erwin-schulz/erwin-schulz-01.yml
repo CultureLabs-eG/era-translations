@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:32,29"
           to: "00:00:46,05"
-          text: "E tutto si aggravò nel 1917 (mio padre venne arruolato nell'esercito come soldato)"
+          text: "E tutto si aggravò nel 1917: mio padre venne arruolato nell'esercito come soldato"
         sequence-10:
           s: 10
           from: "00:00:46,05"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:47,14"
           to: "00:01:00,02"
-          text: "con l'inverno della fame, in cui le condizioni alimentari per la popolazione peggiorarono."
+          text: "e con l'inverno della fame, le condizioni alimentari per la popolazione peggiorarono."
         sequence-12:
           s: 12
           from: "00:01:00,02"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:10,09"
           to: "00:02:23,05"
-          text: "Mi ricordo l'insegnante di allora; era un vero prepotente."
+          text: "Mi ricordo l'insegnante di allora: era un vero prepotente."
         sequence-26:
           s: 26
           from: "00:02:23,05"
