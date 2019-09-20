@@ -2,13 +2,13 @@ it:
   erwin-schulz:
     chapter-12:
       c: 12
-      title: "Battaglione 999"
+      title: "Divisione penale 999"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,22"
           to: "00:00:08,12"
-          text: "I prigionieri politici che non erano degni di combattere, vivevano in Germania."
+          text: "La situazione era: i prigionieri politici che non erano degni di combattere, vivevano in Germania."
         sequence-2:
           s: 2
           from: "00:00:08,12"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:23,19"
           to: "00:00:34,13"
-          text: "e l'idea era di buttarsi in una missione suicida,"
+          text: "e l'idea era di addestrarci per una missione suicida,"
         sequence-7:
           s: 7
           from: "00:00:34,13"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:41,08"
           to: "00:00:47,20"
-          text: "per poter intercettare le risposte degli alleati."
+          text: "per poter reagire agli attacchi degli alleati."
         sequence-9:
           s: 9
           from: "00:00:47,20"
@@ -73,17 +73,17 @@ it:
           s: 14
           from: "00:01:24,15"
           to: "00:01:28,27"
-          text: "La nostra si svolse in un pendio:"
+          text: "Era tipico che ci mandassero in un pendio:"
         sequence-15:
           s: 15
           from: "00:01:28,27"
           to: "00:01:38,27"
-          text: "dopo il primo colpo, gli Americani ci avevano annientati."
+          text: "dopo il primo colpo, l'artiglieria americana ci avrebbe annientato."
         sequence-16:
           s: 16
           from: "00:01:38,27"
           to: "00:01:40,21"
-          text: "Nesssuno era sopravvissuto."
+          text: "Nesssuno sarebbe sopravvissuto."
         sequence-17:
           s: 17
           from: "00:01:40,21"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:02:01,27"
           to: "00:02:11,27"
-          text: "Il presupposto era di annientare i prigionieri politici. Non dovevano sopravvivere in guerra."
+          text: "L'obbiettivo era di annientare i prigionieri politici. Non dovevano sopravvivere in guerra, ma crepare."
         sequence-22:
           s: 22
           from: "00:02:11,27"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:03:46,20"
           to: "00:03:53,09"
-          text: "Avevano contatti con i politici, lo avevamo capito."
+          text: "Con il tempo però si entrava in contatto con i politici. Lo si percepiva."
         sequence-37:
           s: 37
           from: "00:03:53,09"
@@ -213,17 +213,17 @@ it:
           s: 42
           from: "00:04:08,07"
           to: "00:04:22,13"
-          text: "L'addestramento: non avevamo uscita. La trovammo solo dopo, quando arrivammo in Belgio."
+          text: "L'addestramento: non potevamo uscire. Ce lo permisero solo dopo, quando arrivammo in Belgio."
         sequence-43:
           s: 43
           from: "00:04:22,13"
           to: "00:04:27,23"
-          text: "C'era un sottufficiale (con altri 3 o 5 uomini) che camminava con noi e controllava"
+          text: "C'era un sottufficiale per 3 o 5 uomini, che camminava con noi e controllava"
         sequence-44:
           s: 44
           from: "00:04:27,23"
           to: "00:04:38,01"
-          text: "che non parlassimo tra di noi."
+          text: "che non ci fosse contatto con altre persone."
         sequence-45:
           s: 45
           from: "00:04:38,01"
@@ -233,7 +233,7 @@ it:
           s: 46
           from: "00:04:44,21"
           to: "00:04:58,02"
-          text: "quindi si sapeva che nel battaglione 999 c'erano molti prigionieri politici."
+          text: "quindi si sapeva che nella Divisione penale 999 c'erano molti prigionieri politici."
         sequence-47:
           s: 47
           from: "00:04:58,02"
@@ -243,4 +243,4 @@ it:
           s: 48
           from: "00:05:00,03"
           to: "00:05:07,05"
-          text: "In seguito, andammo anche in Francia e in Italia."
+          text: "L'informazione arrivava poi anche in Francia e probabilmente anche in Italia."

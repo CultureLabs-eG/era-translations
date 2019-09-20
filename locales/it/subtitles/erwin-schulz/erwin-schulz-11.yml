@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:06,23"
           to: "00:00:16,22"
-          text: "in cui ci avevano dato un certificato di esonero dall'esercito. Non potevamo parteciparvi."
+          text: "in cui ci avevano dato un certificato di esonero dall'esercito. Quindi non eravamo degni di combattere."
         sequence-4:
           s: 4
           from: "00:00:16,22"
           to: "00:00:24,12"
-          text: "Prigionieri politici e detenuti non erano degni."
+          text: "Ergastolani e prigionieri politici non erano degni di combattere."
         sequence-5:
           s: 5
           from: "00:00:24,12"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:52,08"
           to: "00:00:57,00"
-          text: "avevano bisogno di persone"
+          text: "avevano bisogno di materiale umano"
         sequence-11:
           s: 11
           from: "00:00:57,00"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:01:56,16"
           to: "00:02:02,09"
-          text: "Ma la convocazione..."
+          text: "Ma la leva..."
         sequence-25:
           s: 25
           from: "00:02:02,09"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:02:10,04"
           to: "00:02:17,05"
-          text: "Dovevamo comunicarla qui a Kreuzberg penso."
+          text: "Dovevamo presentarci, penso qui a Kreuzberg, da qualche parte."
         sequence-27:
           s: 27
           from: "00:02:17,05"
           to: "00:02:25,15"
-          text: "Quindi chiamarono me e un altro uomo."
+          text: "E lì scartarono me e un altro."
         sequence-28:
           s: 28
           from: "00:02:25,15"
@@ -148,12 +148,12 @@ it:
           s: 29
           from: "00:02:26,29"
           to: "00:02:34,15"
-          text: "E lì ricevemmo l'incarico: entro due giorni, saremmo dovuti partire in treno per Heuberg."
+          text: "Poi ricevemmo l'incarico: entro due giorni saremmo dovuti partire in treno per Heuberg."
         sequence-30:
           s: 30
           from: "00:02:34,15"
           to: "00:02:42,08"
-          text: "Eravamo due in sovrannumero e in ritardo e partimmo quel giorno."
+          text: "Eravamo due in sovrannumero e partimmo quel giorno."
         sequence-31:
           s: 31
           from: "00:02:42,08"
@@ -243,4 +243,4 @@ it:
           s: 48
           from: "00:04:18,19"
           to: "00:04:28,00"
-          text: "\"se non fate quello che vi viene detto.\""
+          text: "\"se non fate quello che vi viene detto.\" E questa fu la prima impressione."
