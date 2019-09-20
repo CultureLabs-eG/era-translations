@@ -193,7 +193,7 @@ it:
           s: 38
           from: "00:03:02,12"
           to: "00:03:07,20"
-          text: "Non tutti riuscirono a farlo, ma io ci riuscii:"
+          text: "Non tutti riuscirono a farlo, ma io ci riuscii."
         sequence-39:
           s: 39
           from: "00:03:07,20"
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:16,05"
           to: "00:03:19,26"
-          text: "La posta codificata arrivò a Bergen in Norvegia."
+          text: "La posta codificata arrivava a Bergen in Norvegia."
         sequence-42:
           s: 42
           from: "00:03:19,26"

@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:57,22"
           to: "00:02:01,27"
-          text: "C'è una letteratura intera che ne parla."
+          text: "C'è un'intera letteratura che ne parla."
         sequence-21:
           s: 21
           from: "00:02:01,27"
@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:03:17,08"
           to: "00:03:23,21"
-          text: "Erano stati in galera insieme o ora si ritrovavano dopo tanti anni."
+          text: "Erano stati in galera insieme e ora si ritrovavano dopo tanti anni."
         sequence-33:
           s: 33
           from: "00:03:23,21"
@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:03:56,17"
           to: "00:04:03,26"
-          text: "E ci eravamo impegnati a tenere tutti gli altri fuori."
+          text: "e ci eravamo impegnati a tenere tutti gli altri fuori."
         sequence-40:
           s: 40
           from: "00:04:03,26"

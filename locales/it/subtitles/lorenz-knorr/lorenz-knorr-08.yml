@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:02,17"
           to: "00:01:13,00"
-          text: "Ci consultammo sul da farsi; se rifiutare l'ordine di arruolarsi,"
+          text: "Ci consultammo sul da farsi, ovvero se rifiutare l'ordine di arruolarsi,"
         sequence-13:
           s: 13
           from: "00:01:13,00"

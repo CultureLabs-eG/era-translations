@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:38,24"
           to: "00:00:54,07"
-          text: "Questo succedeva spesso: navi dichiarate come ospedaliere che trasportavano munizioni."
+          text: "Questo succedeva spesso: navi dichiarate come ospedaliere trasportavano munizioni."
         sequence-8:
           s: 8
           from: "00:00:54,07"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:35,10"
           to: "00:01:47,24"
-          text: "Siamo stati molto fortunati. Quando poi arrivammo in Tunisia all'aeroporto ci dissero: \"Cosa volete ancora?\""
+          text: "Fummo molto fortunati. Quando poi arrivammo in Tunisia all'aeroporto ci dissero: \"Cosa volete ancora?\""
         sequence-17:
           s: 17
           from: "00:01:47,24"
@@ -273,7 +273,7 @@ it:
           s: 54
           from: "00:06:01,14"
           to: "00:06:10,01"
-          text: "E il 2 Maggio fummo presi dai marocchini che ci imprigionarono."
+          text: "E il 2 Maggio fummo presi dai Marocchini che ci imprigionarono."
         sequence-55:
           s: 55
           from: "00:06:10,01"
@@ -283,9 +283,9 @@ it:
           s: 56
           from: "00:06:10,25"
           to: "00:06:16,14"
-          text: "Poi passammo ai francesi"
+          text: "Poi passammo ai Francesi"
         sequence-57:
           s: 57
           from: "00:06:16,14"
           to: "00:06:27,20"
-          text: "per poi arrivare agli inglesi e infine agli americani."
+          text: "per poi arrivare agli Inglesi e infine agli Americani."

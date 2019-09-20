@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:00:58,24"
           to: "00:01:08,01"
-          text: "e dato che si trattata di un decreto del Führer, ci arruolarono."
+          text: "e dato che si trattava di un decreto del Führer, ci arruolarono."
         sequence-13:
           s: 13
           from: "00:01:08,01"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:26,29"
           to: "00:02:34,15"
-          text: "E lì abbiamo ricevuto l'incarico: entro due giorni, saremmo dovuti partire in treno per Heuberg."
+          text: "E lì ricevemmo l'incarico: entro due giorni, saremmo dovuti partire in treno per Heuberg."
         sequence-30:
           s: 30
           from: "00:02:34,15"
@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:03:01,02"
           to: "00:03:09,10"
-          text: "Quindi andammo a Heuberg,il campo di addestramento a Württemberg."
+          text: "Quindi andammo a Heuberg, il campo di addestramento a Württemberg."
         sequence-36:
           s: 36
           from: "00:03:09,10"

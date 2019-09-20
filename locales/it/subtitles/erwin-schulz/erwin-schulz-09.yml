@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:02:27,03"
           to: "00:02:37,01"
-          text: "Il peggio era quando facevano l'appello durante il razionamento."
+          text: "Il peggio era quando facevano l'appello durante il razionamento:"
         sequence-28:
           s: 28
           from: "00:02:37,01"
           to: "00:02:41,05"
-          text: "Con l'appello dovevamo uscire e il cibo si raffreddava."
+          text: "dovevamo uscire e il cibo si raffreddava."
         sequence-29:
           s: 29
           from: "00:02:41,05"
