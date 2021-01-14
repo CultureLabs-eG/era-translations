@@ -168,9 +168,7 @@ en:
           s: 33
           from: "00:03:09,19"
           to: "00:03:17,24"
-          text: |-
-              Connected through a friend of mine, I went to help a peasant harvesting grapes, 
-              [
+          text: "Connected through a friend of mine, I went to help a peasant harvesting grapes,"
         sequence-34:
           s: 34
           from: "00:03:18,00"

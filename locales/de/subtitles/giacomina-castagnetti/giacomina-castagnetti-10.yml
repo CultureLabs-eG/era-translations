@@ -58,12 +58,12 @@ de:
           s: 11
           from: "00:01:16,11"
           to: "00:01:21,17"
-          text: "Uns wurde gesagt, ruhig zu bleiben."
+          text: "Wir hatten den Befehl, uns ruhig zu verhalten."
         sequence-12:
           s: 12
           from: "00:01:21,17"
           to: "00:01:27,02"
-          text: "Niemand wusste, wie die Situation war."
+          text: "Denn niemand wusste, wie die Situation war."
         sequence-13:
           s: 13
           from: "00:01:27,02"
@@ -73,62 +73,62 @@ de:
           s: 14
           from: "00:01:31,11"
           to: "00:01:38,16"
-          text: "Ich war zu Hause, als ich ein Pferde in vollem Gallop herranreiten hörte."
+          text: "Ich war zu Hause, als ich ein Pferde in vollem Gallop heranreiten hörte."
         sequence-15:
           s: 15
           from: "00:01:38,16"
           to: "00:01:53,01"
-          text: "Die Zügel waren lose, wahrscheinlich weil er das Pferd von einem Wagen hatte."
+          text: "Die Riemen hingen noch herab, wahrscheinlich weil er das Pferd von einem Wagen abgemacht hatte."
         sequence-16:
           s: 16
           from: "00:01:53,01"
           to: "00:02:01,16"
-          text: "Ich ran raus und es war ein deutscher Soldat. Er war war sehr jung."
+          text: "Ich rannte hinaus und da war ein Deutscher. Ein richtig junger Deutscher."
         sequence-17:
           s: 17
           from: "00:02:01,16"
           to: "00:02:07,14"
-          text: ~
+          text: "Hitler hat ja auch 15 und 16 jährige eingezogen."
         sequence-18:
           s: 18
           from: "00:02:07,14"
           to: "00:02:14,01"
-          text: ~
+          text: "Als er mich sah, begann er zu schreien: \"Die Amerikaner! Die Amerikaner!\"."
         sequence-19:
           s: 19
           from: "00:02:14,01"
           to: "00:02:21,06"
-          text: ~
+          text: "Er wollte, dass ich mich verstecke, denn er wusste nicht, dass ich eine Partisanin war."
         sequence-20:
           s: 20
           from: "00:02:21,06"
           to: "00:02:30,23"
-          text: ~
+          text: "In diesem Moment aber waren wir einfach zwei Jugendliche, die sich beide wüschten, dass der Krieg aufhört."
         sequence-21:
           s: 21
           from: "00:02:30,23"
           to: "00:02:39,29"
-          text: ~
+          text: "Er versuchte nach Hause zu kommen, während ich darauf wartete, dass das Land befreit wurde."
         sequence-22:
           s: 22
           from: "00:02:39,29"
           to: "00:02:48,18"
-          text: ~
+          text: "In dem Moment konnte ich weder die Deutschen, noch diesen jungen Soldaten hassen."
         sequence-23:
           s: 23
           from: "00:02:48,18"
           to: "00:02:58,17"
-          text: ~
+          text: "Vorher hätte der mir vielleicht etwas angetan. Doch in dem Moment wollte ich nur, dass der Krieg aufhört und sich die Dinge ändern."
         sequence-24:
           s: 24
           from: "00:02:58,17"
           to: "00:03:12,13"
-          text: ~
+          text: "So habe ich den 24. April erlebt. Am 25. ist dann eine riesige Freude aus uns herausgeplatzt."
         sequence-25:
           s: 25
           from: "00:03:12,13"
           to: "00:03:26,16"
-          text: ~
+          text: "Der Krieg hatte für mich 1935 begonnen, mit dem Feldzug in Afrika. Da war ich 10 Jahre alt. Am 25. April 1945 war ich 20."
         sequence-26:
           s: 26
           from: "00:03:26,16"
@@ -138,12 +138,12 @@ de:
           s: 27
           from: "00:03:30,01"
           to: "00:03:34,17"
-          text: ~
+          text: "Als erstes habe ich alle Fensterläden weit aufgerissen."
         sequence-28:
           s: 28
           from: "00:03:34,17"
           to: "00:03:51,10"
-          text: ~
+          text: "Seit fünf Jahren waren unsere Fenster mit blauem Papier zugeklebt, mit dem Zucker eingepackt wurde. Damit im Dunkeln kein Licht aus den Häusern nach aussen dringt."
         sequence-29:
           s: 29
           from: "00:03:51,10"
@@ -153,7 +153,7 @@ de:
           s: 30
           from: "00:03:52,06"
           to: "00:04:02,20"
-          text: ~
+          text: "Dann haben wir eine Fahne aufgetrieben und sind als Kolonne voller Freude Richtung Reggio gezogen."
         sequence-31:
           s: 31
           from: "00:04:02,20"
@@ -163,39 +163,39 @@ de:
           s: 32
           from: "00:04:03,08"
           to: "00:04:14,15"
-          text: ~
+          text: "Entlang der Via Emilia waren schon auf beiden Seiten amerikanische Besatzungssoldaten."
         sequence-33:
           s: 33
           from: "00:04:14,15"
           to: "00:04:26,28"
-          text: ~
+          text: "Ich war sehr überrascht, denn dort begann ich farbige Menschen zu sehen, schwarze, Inder mit Turbanen."
         sequence-34:
           s: 34
           from: "00:04:26,28"
           to: "00:04:31,23"
-          text: ~
+          text: "Zuerst kamen die Panzer, dahinter die anderen Truppenteile."
         sequence-35:
           s: 35
           from: "00:04:31,23"
           to: "00:04:38,09"
-          text: ~
+          text: "Die stauten sich auf der Via Emilia, von Rubiera bis Reggio."
         sequence-36:
           s: 36
           from: "00:04:38,09"
           to: "00:04:46,21"
-          text: ~
+          text: "Als wir dort hinkamen, waren schon die Partisanen aus den Bergen da."
         sequence-37:
           s: 37
           from: "00:04:46,21"
           to: "00:04:56,19"
-          text: ~
+          text: "Als wir nach Ospizio kamen, wurden unsere ganze Partisanenkolonne angehalten, weil es im Stadtzentrum noch zu gefährlich war."
         sequence-38:
           s: 38
           from: "00:04:56,19"
           to: "00:05:03,07"
-          text: ~
+          text: "Da gab es Scharfschützen, die von den Dächern schossen. Es gab viele Tote in den Tagen."
         sequence-39:
           s: 39
           from: "00:05:03,07"
           to: "00:05:14,11"
-          text: ~
+          text: "Wir drehten diszipliniert um und gingen heim, aber danach fanden noch jede Menge Demonstrationen statt."

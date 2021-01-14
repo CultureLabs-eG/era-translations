@@ -2,60 +2,60 @@ it:
   francesco-bertacchini:
     chapter-2:
       c: 2
-      title: ~
+      title: Armistizio
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,03"
           to: "00:00:05,13"
-          text: ~
+          text: "E invece per l’armistizio mi ricordo"
         sequence-2:
           s: 2
           from: "00:00:05,14"
           to: "00:00:08,19"
-          text: ~
+          text: "che di fronte a casa nostra, vicino alla strada"
         sequence-3:
           s: 3
           from: "00:00:08,20"
           to: "00:00:14,23"
-          text: ~
+          text: "c’era un muretto e in quel muretto lì ci fermavamo a fare delle chiacchiere;"
         sequence-4:
           s: 4
           from: "00:00:14,24"
           to: "00:00:22,16"
-          text: ~
+          text: "mi ricordo che in casa mia mia sorella, quando verso le cinque"
         sequence-5:
           s: 5
           from: "00:00:22,17"
           to: "00:00:32,12"
-          text: ~
+          text: "hanno dato quella notizia lì che la guerra era finita, mi gridò dalla finestra"
         sequence-6:
           s: 6
           from: "00:00:32,13"
           to: "00:00:40,05"
-          text: ~
+          text: "“Veh Francesco! Hanno detto per radio adesso che è finita la guerra"
         sequence-7:
           s: 7
           from: "00:00:40,06"
           to: "00:00:46,23"
-          text: ~
+          text: "però ci sarà da discutere con i tedeschi…”"
         sequence-8:
           s: 8
           from: "00:00:46,24"
           to: "00:00:53,03"
-          text: ~
+          text: "Allora sono andato su perché la radio l’avevo solo io nel nostro casermone,"
         sequence-9:
           s: 9
           from: "00:00:53,04"
           to: "00:01:03,02"
-          text: ~
+          text: "allora sono andato a sentire: però appunto"
         sequence-10:
           s: 10
           from: "00:01:03,03"
           to: "00:01:09,13"
-          text: ~
+          text: "avevano detto che avevano fatto l’armistizio con gli americani e quindi la cosa della guerra doveva essere finita,"
         sequence-11:
           s: 11
           from: "00:01:09,14"
           to: "00:01:13,10"
-          text: ~
+          text: "e invece era cominciata specialmente anche per noi."

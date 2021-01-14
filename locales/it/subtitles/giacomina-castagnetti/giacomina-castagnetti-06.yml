@@ -2,18 +2,18 @@ it:
   giacomina-castagnetti:
     chapter-6:
       c: 6
-      title: ~
+      title: "25 luglio e 8 settembre 1943"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,21"
           to: "00:00:11,25"
-          text: ~
+          text: "Nel ’41 ci arrivò il telegramma di morte di Mario, mio fratello, quello che fu mandato in Grecia."
         sequence-2:
           s: 2
           from: "00:00:11,25"
           to: "00:00:20,13"
-          text: ~
+          text: "L’altro fratello dall’Albania senza passare da casa fu mandato in Ucraina, in Russia."
         sequence-3:
           s: 3
           from: "00:00:20,13"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:23,03"
           to: "00:00:29,06"
-          text: ~
+          text: "L’altro fratello ancora era stato richiamato e mandato a Mentone,"
         sequence-5:
           s: 5
           from: "00:00:29,06"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:30,15"
           to: "00:00:35,01"
-          text: ~
+          text: "in Francia, quando siamo andati a conquistare."
         sequence-7:
           s: 7
           from: "00:00:35,01"
@@ -43,17 +43,17 @@ it:
           s: 8
           from: "00:00:36,25"
           to: "00:00:46,24"
-          text: ~
+          text: "Eravamo rimasti a casa il fratello, quello perseguitato politico che non hanno richiamato,"
         sequence-9:
           s: 9
           from: "00:00:46,24"
           to: "00:00:58,14"
-          text: ~
+          text: "l’altro fratello più giovane, perché non era ancora maggiorenne, dei bambini e delle donne."
         sequence-10:
           s: 10
           from: "00:00:58,14"
           to: "00:01:02,15"
-          text: ~
+          text: "Avevamo settanta biolche di terra da lavorare"
         sequence-11:
           s: 11
           from: "00:01:02,15"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:04,17"
           to: "00:01:19,28"
-          text: ~
+          text: "e le donne, noi donne, abbiamo cominciato a sentirci, anche se la legge non ce lo riconosceva, eravamo diventate le capofamiglia."
         sequence-13:
           s: 13
           from: "00:01:19,28"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:22,14"
           to: "00:01:29,26"
-          text: ~
+          text: "Lì si doveva inventare… capire come si doveva fare per coltivare la terra."
         sequence-15:
           s: 15
           from: "00:01:29,26"
@@ -83,17 +83,17 @@ it:
           s: 16
           from: "00:01:31,03"
           to: "00:01:41,12"
-          text: ~
+          text: "Molte altre donne, anche delle vicine di casa avevano incominciato ad andare a lavorare in fabbrica."
         sequence-17:
           s: 17
           from: "00:01:41,12"
           to: "00:01:48,00"
-          text: ~
+          text: "C’era l’industria bellica. Gli uomini erano al fronte ."
         sequence-18:
           s: 18
           from: "00:01:48,00"
           to: "00:01:54,10"
-          text: ~
+          text: "Voi dovete immaginare gli uomini al fronte e le donne a casa ad accudire i bambini e a tirare avanti la famiglia."
         sequence-19:
           s: 19
           from: "00:01:54,10"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:56,15"
           to: "00:02:03,25"
-          text: ~
+          text: "Noi esultammo in modo incredibile, ci sembrava di rinascere."
         sequence-21:
           s: 21
           from: "00:02:03,25"
@@ -113,27 +113,27 @@ it:
           s: 22
           from: "00:02:08,10"
           to: "00:02:27,02"
-          text: ~
+          text: "Mi ricordo che prendemmo io e due, tre mie amiche, quelle della foto, prendemmo una vecchia bandiera. Una bandiera non so come l’avevamo rimediata, so solo che partimmo in bicicletta,"
         sequence-23:
           s: 23
           from: "00:02:27,02"
           to: "00:02:37,01"
-          text: ~
+          text: "io e le mie due amiche, io davanti e le mie due amiche ai lati e cominciammo un corteo, lungo le stradine di campagna."
         sequence-24:
           s: 24
           from: "00:02:37,01"
           to: "00:02:46,03"
-          text: ~
+          text: "La gente era tutta fuori dalle case e quindi il corteo si ingrandiva sempre di più, diventava sempre più numeroso."
         sequence-25:
           s: 25
           from: "00:02:46,03"
           to: "00:02:54,28"
-          text: ~
+          text: "Abbiamo fatto, dunque c’erano da Castellazzo a Reggio, c’era circa 7-8 Km."
         sequence-26:
           s: 26
           from: "00:02:54,28"
           to: "00:03:06,14"
-          text: ~
+          text: "Quindi tutti in bicicletta, tutti giovani, giovanissimi perché gli altri erano militari, e quindi arrivammo a Reggio."
         sequence-27:
           s: 27
           from: "00:03:06,14"
@@ -143,32 +143,32 @@ it:
           s: 28
           from: "00:03:07,03"
           to: "00:03:11,07"
-          text: ~
+          text: "Un po’ dappertutto c’erano le scritte di Mussolini"
         sequence-29:
           s: 29
           from: "00:03:11,07"
           to: "00:03:15,24"
-          text: ~
+          text: "“Credere, obbedire, combattere”,"
         sequence-30:
           s: 30
           from: "00:03:15,24"
           to: "00:03:25,08"
-          text: ~
+          text: "“Il solco traccia…”, no, “L’aratro traccia il solco e la spada lo difende”. Questo era scritto un po’ dappertutto,"
         sequence-31:
           s: 31
           from: "00:03:25,08"
           to: "00:03:32,27"
-          text: ~
+          text: "allora i ragazzi su per le scale con della vernice, improvvisata non so come, a cancellare queste cose…"
         sequence-32:
           s: 32
           from: "00:03:32,27"
           to: "00:03:42,15"
-          text: ~
+          text: "e dove c’erano le insegne non so i fasci o i busti del duce, cercavano di tirarli giù."
         sequence-33:
           s: 33
           from: "00:03:42,15"
           to: "00:03:46,20"
-          text: ~
+          text: "Insomma c’era una gran confusione."
         sequence-34:
           s: 34
           from: "00:03:46,20"
@@ -178,27 +178,27 @@ it:
           s: 35
           from: "00:03:47,23"
           to: "00:03:54,28"
-          text: ~
+          text: "Man mano che passavano i giorni la situazione diventava sempre un po’ più complicata, perché il re c’era ancora…"
         sequence-36:
           s: 36
           from: "00:03:54,28"
           to: "00:03:59,15"
-          text: ~
+          text: "Poi arrivò l’8 settembre."
         sequence-37:
           s: 37
           from: "00:03:59,15"
           to: "00:04:08,18"
-          text: ~
+          text: "L’8 settembre mi ricordo ancora che sentimmo no la radio no perché nessuno aveva la radio,"
         sequence-38:
           s: 38
           from: "00:04:08,18"
           to: "00:04:14,26"
-          text: ~
+          text: "però le notizie, come dicevo prima, circolavano sulle ruote delle biciclette, ma erano rapidissime."
         sequence-39:
           s: 39
           from: "00:04:14,26"
           to: "00:04:27,06"
-          text: ~
+          text: "Cioè infatti, io ricordo che l’8 settembre, era verso sera e che dopo un’ora credo, tutto quanto il paese sapeva che era stato firmato l’armistizio."
         sequence-40:
           s: 40
           from: "00:04:27,06"
@@ -208,27 +208,27 @@ it:
           s: 41
           from: "00:04:28,13"
           to: "00:04:39,22"
-          text: ~
+          text: "Cominciammo, e c’era… cominciammo a vedere dei soldati sbandati nelle campagne e che venivano a casa."
         sequence-42:
           s: 42
           from: "00:04:39,22"
           to: "00:04:49,05"
-          text: ~
+          text: "Le donne e io anche, in particolare, perché io avevo poi già una certa cognizione dell’antifascismo,"
         sequence-43:
           s: 43
           from: "00:04:49,05"
           to: "00:04:58,13"
-          text: ~
+          text: "quindi fui fra le prime ad andare presso le famiglie lì nei dintorni di pregarli di ospitare"
         sequence-44:
           s: 44
           from: "00:04:58,13"
           to: "00:05:04,10"
-          text: ~
+          text: "e vestire questi giovani che erano, che erano allo sbaraglio."
         sequence-45:
           s: 45
           from: "00:05:04,10"
           to: "00:05:11,12"
-          text: ~
+          text: "Perché il re era scappato l’esercito era in mano ormai di nessuno."
         sequence-46:
           s: 46
           from: "00:05:11,12"
@@ -238,4 +238,4 @@ it:
           s: 47
           from: "00:05:19,01"
           to: "00:05:26,20"
-          text: ~
+          text: "E poi ci fu questa entrata. Ci fu l’occupazione direttamente la notte stessa il giorno stesso, dei tedeschi."

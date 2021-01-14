@@ -2,48 +2,48 @@ it:
   giacomina-castagnetti:
     chapter-2:
       c: 2
-      title: ~
+      title: "Mezzadria e condizione femminile"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,12"
           to: "00:00:07,05"
-          text: ~
+          text: "L’altra cosa che mi è sempre rimasta in mente è che quando arrivava nel cortile la padrona"
         sequence-2:
           s: 2
           from: "00:00:07,05"
           to: "00:00:13,15"
-          text: ~
+          text: "la mamma a noi tre o quattro più piccoli ci faceva andare in casa."
         sequence-3:
           s: 3
           from: "00:00:13,15"
           to: "00:00:29,23"
-          text: ~
+          text: "Non potevamo assistere. Io che ero curiosa e che avrei voluto vedere questa donna che arrivava, che era la contessa Carbonieri di Parma che arrivava con l’ombrellino e vestita benissimo"
         sequence-4:
           s: 4
           from: "00:00:29,23"
           to: "00:00:35,08"
-          text: ~
+          text: "non potevo vederla, perché la mamma ci mandava in casa."
         sequence-5:
           s: 5
           from: "00:00:35,08"
           to: "00:00:41,00"
-          text: ~
+          text: "Più tardi ho capito, perché nel contratto di mezzadria"
         sequence-6:
           s: 6
           from: "00:00:41,00"
           to: "00:00:50,17"
-          text: ~
+          text: "i bimbi e i ragazzi che non erano braccia da lavoro e che erano solo bocche da sfamare"
         sequence-7:
           s: 7
           from: "00:00:50,17"
           to: "00:01:02,17"
-          text: ~
+          text: "non si voleva che la padrona arrivando nel cortile vedesse otto figli di cui quattro non potevano lavorare"
         sequence-8:
           s: 8
           from: "00:01:02,17"
           to: "00:01:14,00"
-          text: ~
+          text: "e che la padrona avesse la possibilità di contare quante tazze di latte al mattino la mamma sottraeva per darci da mangiare."
         sequence-9:
           s: 9
           from: "00:01:14,00"
@@ -53,42 +53,42 @@ it:
           s: 10
           from: "00:01:16,00"
           to: "00:01:20,00"
-          text: ~
+          text: "Lì c’era solo fino alla terza elementare"
         sequence-11:
           s: 11
           from: "00:01:20,00"
           to: "00:01:25,23"
-          text: ~
+          text: "quindi gli altri due anni fino alla quinta bisognava spostarsi dal centro del comune,"
         sequence-12:
           s: 12
           from: "00:01:25,23"
           to: "00:01:37,12"
-          text: ~
+          text: "quindi per me che facevo già tre chilometri da casa per andare a quella scuola se ne sarebbero aggiunti altri tre per andare"
         sequence-13:
           s: 13
           from: "00:01:37,12"
           to: "00:01:43,14"
-          text: ~
+          text: "a scuola fino alla quinta elementare. Ma questo non era il problema più grosso,"
         sequence-14:
           s: 14
           from: "00:01:43,14"
           to: "00:02:05,01"
-          text: ~
+          text: "il problema più grande era che nelle famiglie oramai era diventata radicata l’abitudine e anche il pensare che se c’era qualcuno in famiglia per il quale si doveva fare un sacrificio con la maggior spesa,"
         sequence-15:
           s: 15
           from: "00:02:05,01"
           to: "00:02:10,18"
-          text: ~
+          text: "doveva essere un uomo, non doveva essere una donna. Quindi per me non si è neanche posto il problema;"
         sequence-16:
           s: 16
           from: "00:02:10,18"
           to: "00:02:23,01"
-          text: ~
+          text: "io alla terza elementare dovevo stare a casa e basta, perché non c’erano le possibilità per mandarmi a scuola fino almeno alla quinta elementare."
         sequence-17:
           s: 17
           from: "00:02:23,01"
           to: "00:02:25,26"
-          text: ~
+          text: "Ma questa era una cosa alla quale"
         sequence-18:
           s: 18
           from: "00:02:25,26"
@@ -98,32 +98,32 @@ it:
           s: 19
           from: "00:02:28,06"
           to: "00:02:33,15"
-          text: ~
+          text: "eravamo abituati sia a sentirla che a capirla"
         sequence-20:
           s: 20
           from: "00:02:33,15"
           to: "00:02:39,12"
-          text: ~
+          text: "perché il sapere delle donne nella mentalità corrente di allora"
         sequence-21:
           s: 21
           from: "00:02:39,12"
           to: "00:02:50,06"
-          text: ~
+          text: "voleva dire portarlo fuori di casa, poiché una volta sposata andavi in un'altra casa, in un'altra famiglia."
         sequence-22:
           s: 22
           from: "00:02:50,06"
           to: "00:02:58,08"
-          text: ~
+          text: "Invece dovevi essere solo una brava moglie nella nuova vita,"
         sequence-23:
           s: 23
           from: "00:02:58,08"
           to: "00:03:06,21"
-          text: ~
+          text: "dovevi solo saper rammendare, saper fare le calze per tuo marito e rattoppare i pantaloni, fare tutte queste cose."
         sequence-24:
           s: 24
           from: "00:03:06,21"
           to: "00:03:14,08"
-          text: ~
+          text: "Questa era l’idea corrente."
         sequence-25:
           s: 25
           from: "00:03:14,08"
@@ -133,24 +133,24 @@ it:
           s: 26
           from: "00:03:15,07"
           to: "00:03:19,15"
-          text: ~
+          text: "Io fatta la terza elementare cominciai ad andare a lavorare in campagna"
         sequence-27:
           s: 27
           from: "00:03:19,15"
           to: "00:03:28,06"
-          text: ~
+          text: "e in inverno quando c’era la neve a piedi andavo dalle suore per imparare a cucire, rattoppare,"
         sequence-28:
           s: 28
           from: "00:03:28,06"
           to: "00:03:35,02"
-          text: ~
+          text: "non dico ricamare perché non ti insegnavano a ricamare come facevano le figlie dei ricchi,"
         sequence-29:
           s: 29
           from: "00:03:35,02"
           to: "00:03:42,06"
-          text: ~
+          text: "no, noi imparavamo a rammendare e a mettere le toppe nelle ginocchia"
         sequence-30:
           s: 30
           from: "00:03:42,06"
           to: "00:03:45,00"
-          text: ~
+          text: "e nel sedere dei pantaloni e così via."

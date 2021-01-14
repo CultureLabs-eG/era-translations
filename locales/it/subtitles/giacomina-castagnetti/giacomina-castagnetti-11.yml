@@ -2,23 +2,23 @@ it:
   giacomina-castagnetti:
     chapter-11:
       c: 11
-      title: ~
+      title: "Poca gioia a fine guerra"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,22"
           to: "00:00:07,29"
-          text: ~
+          text: "A casa mia abbiamo cominciato subito alla sera a fare la conta."
         sequence-2:
           s: 2
           from: "00:00:07,29"
           to: "00:00:15,09"
-          text: ~
+          text: "Quando abbiamo cominciato a vedere arrivare a casa i soldati dal fronte, io venivo in stazione a Reggio"
         sequence-3:
           s: 3
           from: "00:00:15,09"
           to: "00:00:20,17"
-          text: ~
+          text: "per vedere se arrivava anche mio fratello,"
         sequence-4:
           s: 4
           from: "00:00:20,17"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:21,01"
           to: "00:00:24,05"
-          text: ~
+          text: "che non ho mai più rivisto."
         sequence-6:
           s: 6
           from: "00:00:24,05"
@@ -38,17 +38,17 @@ it:
           s: 7
           from: "00:00:26,06"
           to: "00:00:33,12"
-          text: ~
+          text: "Quindi quei sei fratelli, quella famiglia così numerosa"
         sequence-8:
           s: 8
           from: "00:00:33,12"
           to: "00:00:38,13"
-          text: ~
+          text: "che il duce volle premiare con il diploma alla fine della guerra era così:"
         sequence-9:
           s: 9
           from: "00:00:38,13"
           to: "00:00:48,06"
-          text: ~
+          text: "tre morti, un perseguitato politico, un ostaggio."
         sequence-10:
           s: 10
           from: "00:00:48,06"
@@ -58,4 +58,4 @@ it:
           s: 11
           from: "00:00:50,00"
           to: "00:00:57,25"
-          text: ~
+          text: "Quindi la gioia della Liberazione c’è stata però molto molto limitata."

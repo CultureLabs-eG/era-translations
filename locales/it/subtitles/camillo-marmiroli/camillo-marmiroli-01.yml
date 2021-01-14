@@ -2,140 +2,140 @@ it:
   camillo-marmiroli:
     chapter-1:
       c: 1
-      title: ~
+      title: Presentazione
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,01"
           to: "00:00:02,24"
-          text: ~
+          text: "Io mi chiamo Marmiroli Camillo,"
         sequence-2:
           s: 2
           from: "00:00:03,00"
           to: "00:00:08,18"
-          text: ~
+          text: "sono nato il 23 gennaio del 1920 a Reggio Emilia."
         sequence-3:
           s: 3
           from: "00:00:08,19"
           to: "00:00:15,07"
-          text: ~
+          text: "Ero figlio di un povero bracciante che aveva già otto figli:"
         sequence-4:
           s: 4
           from: "00:00:15,08"
           to: "00:00:20,11"
-          text: ~
+          text: "ho vissuto un po’ una vita tribolata, ho fatto la quinta elementare"
         sequence-5:
           s: 5
           from: "00:00:20,12"
           to: "00:00:24,11"
-          text: ~
+          text: "e poi sono andato a lavorare subito."
         sequence-6:
           s: 6
           from: "00:00:24,12"
           to: "00:00:28,10"
-          text: ~
+          text: "Ho cominciato una vita tribolata, sono ancora qua e sono contento."
         sequence-7:
           s: 7
           from: "00:00:28,20"
           to: "00:00:31,17"
-          text: ~
+          text: "Mio padre era un vecchio socialista"
         sequence-8:
           s: 8
           from: "00:00:31,18"
           to: "00:00:36,23"
-          text: ~
+          text: "e a me ha messo il nome Camillo che c’era allora il vecchio Camillo Prampolini"
         sequence-9:
           s: 9
           from: "00:00:36,24"
           to: "00:00:46,00"
-          text: ~
+          text: "che era l’ideatore di tutti i contadini che in gran parte erano analfabeti poveri diavoli."
         sequence-10:
           s: 10
           from: "00:00:46,24"
           to: "00:00:50,16"
-          text: ~
+          text: "Io facevo l’apprendista facevo il tappezziere,"
         sequence-11:
           s: 11
           from: "00:00:50,17"
           to: "00:00:55,00"
-          text: ~
+          text: "l’artigiano tappezziere: poltrone, divani e materassi."
         sequence-12:
           s: 12
           from: "00:00:55,12"
           to: "00:00:59,18"
-          text: ~
+          text: "Fascisti? Più che dei fascisti mi ricordo dei coglioni:"
         sequence-13:
           s: 13
           from: "00:00:59,19"
           to: "00:01:03,21"
-          text: ~
+          text: "io da ragazzo ero iscritto ai Giovani Fascisti"
         sequence-14:
           s: 14
           from: "00:01:03,22"
           to: "00:01:06,23"
-          text: ~
+          text: "e un amico che era caposquadra mi ha detto:"
         sequence-15:
           s: 15
           from: "00:01:06,24"
           to: "00:01:09,22"
-          text: ~
+          text: "“Perché non sei venuto alla manifestazione?”"
         sequence-16:
           s: 16
           from: "00:01:09,23"
           to: "00:01:15,21"
-          text: ~
+          text: "Già che eravamo amici da sempre gli ho detto che sono stato a letto che sono stato meglio,"
         sequence-17:
           s: 17
           from: "00:01:15,22"
           to: "00:01:19,14"
-          text: ~
+          text: "e sto stupido l’ha detto ai fascisti"
         sequence-18:
           s: 18
           from: "00:01:19,15"
           to: "00:01:24,13"
-          text: ~
+          text: "che mi hanno dato l’olio di ricino e mi hanno dato le bastonate nel 1939."
         sequence-19:
           s: 19
           from: "00:01:26,10"
           to: "00:01:29,16"
-          text: ~
+          text: "Dopo sono andato a militare, sono stato via cinque anni,"
         sequence-20:
           s: 20
           from: "00:01:29,17"
           to: "00:01:34,01"
-          text: ~
+          text: "non ci parlavo, dopo è venuto un amico comune che mi ha detto"
         sequence-21:
           s: 21
           from: "00:01:34,02"
           to: "00:01:38,16"
-          text: ~
+          text: "“Veh quello là…” e io gli ho detto che quello stupido non lo voglio neanche vedere."
         sequence-22:
           s: 22
           from: "00:01:38,17"
           to: "00:01:44,13"
-          text: ~
+          text: "Non ho voluto fare la reazione, siamo anche stati un po’ quasi amici,"
         sequence-23:
           s: 23
           from: "00:01:44,14"
           to: "00:01:49,22"
-          text: ~
+          text: "però mi ricordo che c’erano due o tre uomini anziani con i bastoni"
         sequence-24:
           s: 24
           from: "00:01:49,23"
           to: "00:01:53,03"
-          text: ~
+          text: "e io sarò stato 40 chili allora,"
         sequence-25:
           s: 25
           from: "00:01:53,04"
           to: "00:01:56,16"
-          text: ~
+          text: "insomma erano bastonate che non facevano mica bene."
         sequence-26:
           s: 26
           from: "00:01:56,17"
           to: "00:02:01,08"
-          text: ~
+          text: "Ecco mi ricordo per questo, io i fascisti non li ho mai voluti vedere,"
         sequence-27:
           s: 27
           from: "00:02:01,09"
           to: "00:02:10,16"
-          text: ~
+          text: "contento che mi abbiano fatto fare 42 mesi di guerra e non li ho mai mandati giù."

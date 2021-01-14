@@ -2,28 +2,28 @@ it:
   giacomina-castagnetti:
     chapter-9:
       c: 9
-      title: ~
+      title: "Supporto delle donne ai partigiani"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,11"
           to: "00:00:08,05"
-          text: ~
+          text: "Nel Natale del ’44 è stata la più grande raccolta di biscottini, di dolci, di torte"
         sequence-2:
           s: 2
           from: "00:00:08,05"
           to: "00:00:22,03"
-          text: ~
+          text: "e di tutto che una parte venne portata a casa mia perché io facevo capo alla zona che dicevo prima, io ero la responsabile, quindi il rischio"
         sequence-3:
           s: 3
           from: "00:00:22,03"
           to: "00:00:32,04"
-          text: ~
+          text: "preferivo portarlo a casa mia piuttosto che nelle altre case. Fu tanto grande l’adesione. Perché dopo i gruppi di difesa della donna diventarono"
         sequence-4:
           s: 4
           from: "00:00:32,04"
           to: "00:00:38,24"
-          text: ~
+          text: "veramente una organizzazione di massa non erano più quelle tre o quattro antifasciste come ero io…"
         sequence-5:
           s: 5
           from: "00:00:38,24"
@@ -33,37 +33,37 @@ it:
           s: 6
           from: "00:00:39,14"
           to: "00:00:46,28"
-          text: ~
+          text: "Le donne hanno fatto miracoli. Mi sono trovata montagne di cassette piene di roba."
         sequence-7:
           s: 7
           from: "00:00:46,28"
           to: "00:00:57,11"
-          text: ~
+          text: "Venne un birozzaio di Arceto che si chiamava Valenti ed era il papà di quello che chiamavano il Bandito Valenti,"
         sequence-8:
           s: 8
           from: "00:00:57,11"
           to: "00:01:07,17"
-          text: ~
+          text: "che però lui voleva riscattare il figlio e così via. Venne a casa mia all’alba, caricammo questa montagna di biscotti e di tutto,"
         sequence-9:
           s: 9
           from: "00:01:07,17"
           to: "00:01:16,18"
-          text: ~
+          text: "si faceva tutte delle cose che potessero durare, e mandammo con tanti bigliettini,"
         sequence-10:
           s: 10
           from: "00:01:16,18"
           to: "00:01:22,10"
-          text: ~
+          text: "ogni donna voleva mandare un messaggio ai partigiani, anche ragazzi che non si conosceva."
         sequence-11:
           s: 11
           from: "00:01:22,10"
           to: "00:01:28,29"
-          text: ~
+          text: "Volevamo dimostrare che c’eravamo che eravamo vicino"
         sequence-12:
           s: 12
           from: "00:01:28,29"
           to: "00:01:36,21"
-          text: ~
+          text: "e che il giorno di Natale anche per loro fosse meno pesante per il distacco della famiglia."
         sequence-13:
           s: 13
           from: "00:01:36,21"
@@ -73,17 +73,17 @@ it:
           s: 14
           from: "00:01:38,06"
           to: "00:01:50,28"
-          text: ~
+          text: "Ci sentivamo alle spalle questa adesione silenziosa delle donne per la grande volontà di pace"
         sequence-15:
           s: 15
           from: "00:01:50,28"
           to: "00:01:56,19"
-          text: ~
+          text: "e che finisse la guerra quindi non fu difficile."
         sequence-16:
           s: 16
           from: "00:01:56,19"
           to: "00:02:01,21"
-          text: ~
+          text: "Andammo, ci distribuivamo poi il compito casa per casa."
         sequence-17:
           s: 17
           from: "00:02:01,21"
@@ -93,37 +93,37 @@ it:
           s: 18
           from: "00:02:02,23"
           to: "00:02:12,19"
-          text: ~
+          text: "Si doveva passare parola casa per casa e alla spicciolata, era la parola d’ordine."
         sequence-19:
           s: 19
           from: "00:02:12,19"
           to: "00:02:21,09"
-          text: ~
+          text: "Il punto di arrivo era la prefettura qui a Reggio in Corso Garibaldi."
         sequence-20:
           s: 20
           from: "00:02:21,09"
           to: "00:02:30,23"
-          text: ~
+          text: "Ci dovevamo trovare lì alle due del pomeriggio tutte insieme, però ognuna doveva partire per conto suo."
         sequence-21:
           s: 21
           from: "00:02:30,23"
           to: "00:02:35,05"
-          text: ~
+          text: "Quindi anche qui ci voleva molta convinzione,"
         sequence-22:
           s: 22
           from: "00:02:35,05"
           to: "00:02:45,12"
-          text: ~
+          text: "perché una mamma per esempio a 10 Km, dire parto in bicicletta e vado davanti alla prefettura…"
         sequence-23:
           s: 23
           from: "00:02:45,12"
           to: "00:02:54,13"
-          text: ~
+          text: "però l’atmosfera oramai c’era perché la gente era affamata, nelle case avevano già molti morti e così via."
         sequence-24:
           s: 24
           from: "00:02:54,13"
           to: "00:02:59,19"
-          text: ~
+          text: "Allora ci trovammo davanti alla prefettura in duemila,"
         sequence-25:
           s: 25
           from: "00:02:59,19"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:03:01,00"
           to: "00:03:02,22"
-          text: ~
+          text: "duemila donne."
         sequence-27:
           s: 27
           from: "00:03:02,22"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:03:03,09"
           to: "00:03:09,24"
-          text: ~
+          text: "Arrivammo in prefettura e la maggioranza andò dentro il cortile, voi lo conoscete il cortile che c’è lì, perché è uguale ad allora."
         sequence-29:
           s: 29
           from: "00:03:09,24"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:03:12,19"
           to: "00:03:19,03"
-          text: ~
+          text: "Tre furono… tre le avevamo nominate perché andassero a parlare con il podestà, allora."
         sequence-31:
           s: 31
           from: "00:03:19,03"
@@ -163,47 +163,47 @@ it:
           s: 32
           from: "00:03:21,14"
           to: "00:03:27,05"
-          text: ~
+          text: "Quelle tre lì furono arrestate subito, arrivò giù la notizia che le tre"
         sequence-33:
           s: 33
           from: "00:03:27,05"
           to: "00:03:38,05"
-          text: ~
+          text: "che avevamo nominato per andare al colloquio erano state arrestate. Poi quelle che erano fuori sono venute dentro."
         sequence-34:
           s: 34
           from: "00:03:38,05"
           to: "00:03:47,04"
-          text: ~
+          text: "Ci siamo fermate lì, nessuno si muoveva e abbiamo cominciato ad urlare che se non mollavano quelle donne"
         sequence-35:
           s: 35
           from: "00:03:47,04"
           to: "00:04:05,17"
-          text: ~
+          text: "noi non ci saremmo mosse di lì. Siamo state lì qualche ora e poi abbiamo visto le nostre compagne che venivano giù dalla scala e siamo uscite e siamo andate a casa."
         sequence-36:
           s: 36
           from: "00:04:05,17"
           to: "00:04:13,28"
-          text: ~
+          text: "Cosa chiedevamo a quel momento? Chiedevamo sale, da mangiare per i bambini in particolare per la città,"
         sequence-37:
           s: 37
           from: "00:04:13,28"
           to: "00:04:22,01"
-          text: ~
+          text: "perché noi in campagna o d’riff o d’raff qualcosa lo avevamo, ma in città i bambini morivano di fame,"
         sequence-38:
           s: 38
           from: "00:04:22,01"
           to: "00:04:28,04"
-          text: ~
+          text: "c’era la tessera, non avevano neanche un filo di insalata… e quindi chiedevamo tutte queste cose."
         sequence-39:
           s: 39
           from: "00:04:28,04"
           to: "00:04:38,22"
-          text: ~
+          text: "Perché chiedevamo queste cose? Perché noi, gruppi di difesa della donna eravamo venuti a conoscenza che i tedeschi avevano un piano ben preciso"
         sequence-40:
           s: 40
           from: "00:04:38,22"
           to: "00:04:43,28"
-          text: ~
+          text: "nella nostra regione, gli uomini in Germania a lavorare"
         sequence-41:
           s: 41
           from: "00:04:43,28"
@@ -213,12 +213,12 @@ it:
           s: 42
           from: "00:04:46,16"
           to: "00:04:58,20"
-          text: ~
+          text: "e il vitto per le truppe sulla Linea Gotica lo dovevano prendere nella pianura padana."
         sequence-43:
           s: 43
           from: "00:04:58,20"
           to: "00:05:13,19"
-          text: ~
+          text: "Quindi noi tutto quello che riuscivamo a portare fuori dagli ammassi per la gente tutto quello che noi riuscivamo a sottrarre all’ammasso voleva dire affamare l’esercito tedesco."
         sequence-44:
           s: 44
           from: "00:05:13,19"
@@ -228,7 +228,7 @@ it:
           s: 45
           from: "00:05:14,16"
           to: "00:05:22,29"
-          text: ~
+          text: "Come fare come non fare. Non volevamo andare a fare una riunione politica così in casa e mettere a repentaglio le famiglie,"
         sequence-46:
           s: 46
           from: "00:05:22,29"
@@ -238,57 +238,57 @@ it:
           s: 47
           from: "00:05:24,08"
           to: "00:05:34,11"
-          text: ~
+          text: "decidemmo di riunirci sotto una pianta. Questa pianta forse c’è ancora giù per la strada che va da Masone a Gavassa,"
         sequence-48:
           s: 48
           from: "00:05:34,11"
           to: "00:05:41,03"
-          text: ~
+          text: "al gublein si chiamava, un nome del genere. Allora ci demmo l’appuntamento sotto questa pianta."
         sequence-49:
           s: 49
           from: "00:05:41,03"
           to: "00:05:52,05"
-          text: ~
+          text: "Là ci trovammo, io non sapevo, perché non si faceva tante domande, non sapevo in quante avremmo dovuto esserci state no,"
         sequence-50:
           s: 50
           from: "00:05:52,05"
           to: "00:06:00,22"
-          text: ~
+          text: "sapevamo solo che noi dovevamo andare lì. Quando siamo lì ci trovammo in quattro o cinque ragazze sotto questa pianta,"
         sequence-51:
           s: 51
           from: "00:06:00,22"
           to: "00:06:06,26"
-          text: ~
+          text: "arrivò dopo due minuti il commissario politico e cominciò a parlare"
         sequence-52:
           s: 52
           from: "00:06:06,26"
           to: "00:06:14,23"
-          text: ~
+          text: "della situazione, di come andavano le nostre formazioni partigiane in montagna."
         sequence-53:
           s: 53
           from: "00:06:14,23"
           to: "00:06:21,22"
-          text: ~
+          text: "Ci disse che il nostro lavoro era molto efficace e che dovevamo continuare."
         sequence-54:
           s: 54
           from: "00:06:21,22"
           to: "00:06:30,29"
-          text: ~
+          text: "E poi disse che le donne con questa battaglia stavano conquistando dei diritti,"
         sequence-55:
           s: 55
           from: "00:06:30,29"
           to: "00:06:39,22"
-          text: ~
+          text: "si pensava già alla liberazione cosa si poteva fare, al voto delle donne."
         sequence-56:
           s: 56
           from: "00:06:39,22"
           to: "00:06:50,11"
-          text: ~
+          text: "Infatti lui, questo commissario, prospettò che il voto alle donne era come si dice… il diritto più alto che le donne potessero avere,"
         sequence-57:
           s: 57
           from: "00:06:50,11"
           to: "00:06:56,19"
-          text: ~
+          text: "visto che la storia non ne conosceva assolutamente."
         sequence-58:
           s: 58
           from: "00:06:56,19"
@@ -298,9 +298,9 @@ it:
           s: 59
           from: "00:06:57,23"
           to: "00:07:04,02"
-          text: ~
+          text: "Noi ci guardammo, quattro ragazzine e pensare al dopo, al voto alle donne…"
         sequence-60:
           s: 60
           from: "00:07:04,02"
           to: "00:07:18,02"
-          text: ~
+          text: "perché lui infatti diceva che era il primo passo verso l’emancipazione della donna. Fu la prima volta che ho sentito parlare di voto alle donne e di emancipazione, questa grande parola."

@@ -123,7 +123,7 @@ en:
           s: 24
           from: "00:01:56,09"
           to: "00:02:07,02"
-          text: "And I went away.  After 20-30 meters he called me back and said:"
+          text: "And I went away. After 20-30 meters he called me back and said:"
         sequence-25:
           s: 25
           from: "00:02:07,03"
@@ -138,7 +138,7 @@ en:
           s: 27
           from: "00:02:18,15"
           to: "00:02:25,04"
-          text: "They were issuing two newspapers, the Garibaldino and the Partigiano,"
+          text: "They were issuing two newspapers, the \"Garibaldino\" and the \"Partigiano\","
         sequence-28:
           s: 28
           from: "00:02:25,05"

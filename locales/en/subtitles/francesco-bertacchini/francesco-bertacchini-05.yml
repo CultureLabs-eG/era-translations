@@ -278,12 +278,12 @@ en:
           s: 55
           from: "00:07:26,23"
           to: "00:07:31,19"
-          text: "but if you have some stories you come before me ..."
+          text: "but if you have some stories you come before me ...\""
         sequence-56:
           s: 56
           from: "00:07:31,20"
           to: "00:07:39,11"
-          text: "\" And he said: \"No, no, I'm a sympathizer, too, I'm one that ...\""
+          text: "And he said: \"No, no, I'm a sympathizer, too, I'm one that ...\""
         sequence-57:
           s: 57
           from: "00:07:39,12"
