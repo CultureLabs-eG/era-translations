@@ -113,9 +113,7 @@ en:
           s: 22
           from: "00:01:48,28"
           to: "00:01:57,14"
-          text: |-
-              Two of us were butchers – 
-              one of them was from Ravenna, his name was Belloni.
+          text: "Two of us were butchers – one of them was from Ravenna, his name was Belloni."
         sequence-23:
           s: 23
           from: "00:01:57,14"
