@@ -2,13 +2,13 @@ it:
   pierino-beggi:
     chapter-4:
       c: 4
-      title: ~
+      title: "Azione per scambio prigionieri (Muso)"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,11"
           to: "00:00:07,14"
-          text: ~
+          text: "Un'altra grande azione che abbiamo fatto, abbiamo preso il maggiore Battaglia, se lo ricordate,"
         sequence-2:
           s: 2
           from: "00:00:07,14"
@@ -18,22 +18,22 @@ it:
           s: 3
           from: "00:00:09,10"
           to: "00:00:14,08"
-          text: ~
+          text: "al Casinaccio, a San Bartolomeo a Villa Bresci."
         sequence-4:
           s: 4
           from: "00:00:14,08"
           to: "00:00:26,10"
-          text: ~
+          text: "Lui era, avevano requisito lì e andava a dormire lì, comandante della GNR, il maggiore."
         sequence-5:
           s: 5
           from: "00:00:26,10"
           to: "00:00:34,26"
-          text: ~
+          text: "E abbiamo studiato e abbiamo pensato perché il Muso lo avevano preso a San Polo, in un rastrellamento a San Polo"
         sequence-6:
           s: 6
           from: "00:00:34,26"
           to: "00:00:46,25"
-          text: ~
+          text: "sono arrivate delle squadre della brigata nera e hanno preso una ventina di ragazzi giovani da mandare in Germania"
         sequence-7:
           s: 7
           from: "00:00:46,25"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:50,16"
           to: "00:01:00,25"
-          text: ~
+          text: "e il Muso l’hanno trovato armato, ci hanno trovato la pistola addosso e l’hanno portato a... in San Tommaso"
         sequence-9:
           s: 9
           from: "00:01:00,25"
           to: "00:01:08,07"
-          text: ~
+          text: "in attesa di fucilarlo assieme ai fratelli Cervi."
         sequence-10:
           s: 10
           from: "00:01:08,07"
@@ -58,32 +58,32 @@ it:
           s: 11
           from: "00:01:10,07"
           to: "00:01:17,03"
-          text: ~
+          text: "Abbiamo preso il maggiore Battaglia e lo abbiamo portato al comando piazza in montagna."
         sequence-12:
           s: 12
           from: "00:01:17,03"
           to: "00:01:23,25"
-          text: ~
+          text: "Che c’era poi, il comando piazza era formato poi da tutti i partiti,"
         sequence-13:
           s: 13
           from: "00:01:23,25"
           to: "00:01:31,13"
-          text: ~
+          text: "c’era il professor Marconi, c’era Eros, c’era Cocconi, c’erano tutti"
         sequence-14:
           s: 14
           from: "00:01:31,13"
           to: "00:01:55,07"
-          text: ~
+          text: "e abbiamo mandato una staffetta al podestà Rabotti allora, professor Rabotti, di fare il cambio con il Muso, perché noi il giorno prima avevamo bloccato il maggiore Battaglia."
         sequence-15:
           s: 15
           from: "00:01:55,07"
           to: "00:02:02,23"
-          text: ~
+          text: "Ma il comando tedesco non ha dato il nullaosta, ha detto no, ha detto di no"
         sequence-16:
           s: 16
           from: "00:02:02,23"
           to: "00:02:10,17"
-          text: ~
+          text: "che non era possibile perché quel vicecomandante lì trovato armato era da fucilare."
         sequence-17:
           s: 17
           from: "00:02:10,17"

@@ -8,32 +8,32 @@ it:
           s: 1
           from: "00:00:00,14"
           to: "00:00:08,12"
-          text: ~
+          text: "La prima azione eh... andiamo indietro perché abbiamo disarmato i due tedeschi"
         sequence-2:
           s: 2
           from: "00:00:08,12"
           to: "00:00:16,18"
-          text: ~
+          text: "che erano sulla ferrovia, sul ponte ferroviario della via Emilia. Erano in due, che erano giovanissimi, due ragazzi."
         sequence-3:
           s: 3
           from: "00:00:16,18"
           to: "00:00:23,13"
-          text: ~
+          text: "E con Fiorello siamo andati, Fiorello aveva la pistola perché era scappato da carabiniere dalla Jugoslavia,"
         sequence-4:
           s: 4
           from: "00:00:23,13"
           to: "00:00:28,07"
-          text: ~
+          text: "e io una di legno fatta uguale, l’aveva fatta lui."
         sequence-5:
           s: 5
           from: "00:00:28,07"
           to: "00:00:37,11"
-          text: ~
+          text: "E in bicicletta di sorpresa siamo arrivati dietro a quei due lì, ci abbiamo puntato la rivoltella nel collo, hanno alzato le mani"
         sequence-6:
           s: 6
           from: "00:00:37,11"
           to: "00:00:42,03"
-          text: ~
+          text: "e abbiamo preso pistole con il P38 e ci sentivamo... armati."
         sequence-7:
           s: 7
           from: "00:00:42,03"
@@ -43,22 +43,22 @@ it:
           s: 8
           from: "00:00:44,12"
           to: "00:00:50,29"
-          text: ~
+          text: "La riunione con i fratelli Cervi l’abbiamo fatta in mezzo i campi"
         sequence-9:
           s: 9
           from: "00:00:50,29"
           to: "00:00:56,20"
-          text: ~
+          text: "che si parlava che loro volevano andare in montagna perché temevano e infatti..."
         sequence-10:
           s: 10
           from: "00:00:56,20"
           to: "00:01:02,20"
-          text: ~
+          text: "La casa su era un po’ diciamo una casa di latitanza"
         sequence-11:
           s: 11
           from: "00:01:02,20"
           to: "00:01:14,08"
-          text: ~
+          text: "nel senso che ospitavano un po’, forse un po’ troppa troppa gente, anche gli stranieri che scappavano, soldati stranieri che insomma..."
         sequence-12:
           s: 12
           from: "00:01:14,08"
@@ -68,9 +68,9 @@ it:
           s: 13
           from: "00:01:19,08"
           to: "00:01:27,16"
-          text: ~
+          text: "stranieri che non conoscevano magari e che poteva esserci dentro una spia. Sono stati in montagna"
         sequence-14:
           s: 14
           from: "00:01:27,16"
           to: "00:01:35,00"
-          text: ~
+          text: "poi sono tornati giù loro. Sono tornati giù, hanno aperto un po’ troppo le porte ed è successo quello che è successo purtroppo."
