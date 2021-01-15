@@ -2,160 +2,160 @@ it:
   carlo-porta:
     chapter-1:
       c: 1
-      title: ~
+      title: "Famiglia antifascista"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:05,05"
-          text: ~
+          text: "Sono nato a Gavasseto."
         sequence-2:
           s: 2
           from: "00:00:05,05"
           to: "00:00:18,12"
-          text: ~
+          text: "Nella mia famiglia da giovane avevo tre sorelle e il mio papà e la mia mamma erano dei vecchi socialisti,"
         sequence-3:
           s: 3
           from: "00:00:18,12"
           to: "00:00:30,15"
-          text: ~
+          text: "frequentavano e lavoravano per il partito socialista."
         sequence-4:
           s: 4
           from: "00:00:30,15"
           to: "00:00:37,08"
-          text: ~
+          text: "Da quel ramo io sono sempre stato antifascista fin da ragazzino perché,"
         sequence-5:
           s: 5
           from: "00:00:37,08"
           to: "00:00:44,22"
-          text: ~
+          text: "lo posso anche dire, ricordo bene nel 1923, mi pare che avevo cinque anni,"
         sequence-6:
           s: 6
           from: "00:00:44,22"
           to: "00:00:51,26"
-          text: ~
+          text: "quando bruciarono la Cooperativa di consumo di Gavasseto."
         sequence-7:
           s: 7
           from: "00:00:51,26"
           to: "00:01:00,21"
-          text: ~
+          text: "Mio papà e la mia mamma avevano sempre lavorato per costruire questa cooperativa,"
         sequence-8:
           s: 8
           from: "00:01:00,21"
           to: "00:01:05,13"
-          text: ~
+          text: "senonchè mi ricordo quando la notte sono venuti a svegliarli"
         sequence-9:
           s: 9
           from: "00:01:05,13"
           to: "00:01:12,26"
-          text: ~
+          text: "dicendo “sta bruciando la cooperativa!”, questa è una cosa che non scorderò mai."
         sequence-10:
           s: 10
           from: "00:01:12,26"
           to: "00:01:23,25"
-          text: ~
+          text: "Da quel problema io a una certa età non sono mai stato iscritto al fascio,"
         sequence-11:
           s: 11
           from: "00:01:23,25"
           to: "00:01:30,29"
-          text: ~
+          text: "anche per altre ragioni perché i giovani di quel periodo che erano iscritti al fascio"
         sequence-12:
           s: 12
           from: "00:01:30,29"
           to: "00:01:38,29"
-          text: ~
+          text: "tutti i sabati avevano dei problemi di militare, corsi e non corsi, e io sono riuscito"
         sequence-13:
           s: 13
           from: "00:01:38,29"
           to: "00:01:44,27"
-          text: ~
+          text: "a non prendere mai la tessera per non frequentare quell’ambiente."
         sequence-14:
           s: 14
           from: "00:01:44,27"
           to: "00:02:04,13"
-          text: ~
+          text: "Sono andato ad abitare a Villa Rivalta (qui dobbiamo entrare nel periodo delle Reggiane) e a neanche diciassette anni sono stato assunto alle Officine Reggiane:"
         sequence-15:
           s: 15
           from: "00:02:04,13"
           to: "00:02:10,12"
-          text: ~
+          text: "anche lì la lotta si faceva sempre,"
         sequence-16:
           s: 16
           from: "00:02:10,12"
           to: "00:02:17,27"
-          text: ~
+          text: "non era un bel vivere perché ogni cosa che si faceva in quel periodo dovevi sempre presentare la tessera del fascio"
         sequence-17:
           s: 17
           from: "00:02:17,27"
           to: "00:02:25,15"
-          text: ~
+          text: "e questo per me è stato un motivo in più per non essere d’accordo con i fascisti."
         sequence-18:
           s: 18
           from: "00:02:25,15"
           to: "00:02:31,27"
-          text: ~
+          text: "Perché ogni cosa per cui ti presentavi, per qualsiasi bisogno che avevi"
         sequence-19:
           s: 19
           from: "00:02:31,27"
           to: "00:02:36,19"
-          text: ~
+          text: "dovevi sempre presentarti con la tessera del fascio in mano:"
         sequence-20:
           s: 20
           from: "00:02:36,19"
           to: "00:02:41,21"
-          text: ~
+          text: "allora io che non ci credevo, non la volevo"
         sequence-21:
           s: 21
           from: "00:02:41,21"
           to: "00:02:49,02"
-          text: ~
+          text: "e dovevo rimediare anch’io come potevo con i metodi che avevo ereditato dalla mia famiglia,"
         sequence-22:
           s: 22
           from: "00:02:49,02"
           to: "00:02:54,12"
-          text: ~
+          text: "dai miei genitori e anche da mie due sorelle che erano più vecchie di me."
         sequence-23:
           s: 23
           from: "00:02:54,12"
           to: "00:03:07,19"
-          text: ~
+          text: "A scuola nei primi tre mesi si facevano le aste, si imparava a contare fino a 50,"
         sequence-24:
           s: 24
           from: "00:03:07,19"
           to: "00:03:13,27"
-          text: ~
+          text: "perché poi le maestre non erano come quelle di adesso,"
         sequence-25:
           s: 25
           from: "00:03:13,27"
           to: "00:03:22,22"
-          text: ~
+          text: "la mia maestra era di Casalgrande, poveretta veniva a piedi e andava a casa a piedi."
         sequence-26:
           s: 26
           from: "00:03:22,22"
           to: "00:03:27,03"
-          text: ~
+          text: "La scuola era quella lì, cioè io posso prendere"
         sequence-27:
           s: 27
           from: "00:03:27,03"
           to: "00:03:36,04"
-          text: ~
+          text: "il mio caso, quando ho completato la terza elementare, che ero anche stato bocciato in seconda,"
         sequence-28:
           s: 28
           from: "00:03:36,04"
           to: "00:03:39,25"
-          text: ~
+          text: "non sono più andato a scuola:"
         sequence-29:
           s: 29
           from: "00:03:39,25"
           to: "00:03:52,16"
-          text: ~
+          text: "non era una cattiveria di qualcuno, è che allora quando uno sapeva leggere e scrivere aveva già risolto il problema:"
         sequence-30:
           s: 30
           from: "00:03:52,16"
           to: "00:04:03,02"
-          text: ~
+          text: "ti posso aggiungere anche qualcosa di diverso, io militare scrivevo per uno di Guastalla e due amici della montagna,"
         sequence-31:
           s: 31
           from: "00:04:03,02"
           to: "00:04:13,22"
-          text: ~
+          text: "perché non sapevano scrivere e avevano la mia età, cioè io avevo fatto la terza elementare, non è che fossi superiore però il mio problema era già stato risolto."
