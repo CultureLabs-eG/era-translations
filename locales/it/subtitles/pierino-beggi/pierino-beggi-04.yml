@@ -93,12 +93,12 @@ it:
           s: 18
           from: "00:02:12,04"
           to: "00:02:19,11"
-          text: ~
+          text: "Ci siamo riuniti, abbiamo discusso il problema purtroppo che non era possibile fare il cambio,"
         sequence-19:
           s: 19
           from: "00:02:19,11"
           to: "00:02:26,10"
-          text: ~
+          text: "abbiamo studiato e pensato di prendere uno dei suoi di tedeschi."
         sequence-20:
           s: 20
           from: "00:02:26,10"
@@ -108,12 +108,12 @@ it:
           s: 21
           from: "00:02:27,00"
           to: "00:02:33,09"
-          text: ~
+          text: "E tramite Giorgio dei GAP di Cavriago che era il comandante"
         sequence-22:
           s: 22
           from: "00:02:33,09"
           to: "00:02:45,27"
-          text: ~
+          text: "siamo riusciti a sapere che c’era un capitano delle SS che con una Moto Guzzi andava a trovare una donna a Cavriago e più o meno era l’orario sotto sera"
         sequence-23:
           s: 23
           from: "00:02:45,27"
@@ -123,52 +123,52 @@ it:
           s: 24
           from: "00:02:52,04"
           to: "00:02:58,02"
-          text: ~
+          text: "che andava con la Guzzi a trovare ‘sta donna. E ho detto: “Ragazzi prendiamo quello lì e vedrai che cambia la cosa”."
         sequence-25:
           s: 25
           from: "00:02:58,02"
           to: "00:03:03,09"
-          text: ~
+          text: "E ci siamo appostati in un cespuglio sulla strada di giorno"
         sequence-26:
           s: 26
           from: "00:03:03,09"
           to: "00:03:09,17"
-          text: ~
+          text: "per non farci vedere anche dai contadini che lavoravano in campagna."
         sequence-27:
           s: 27
           from: "00:03:09,17"
           to: "00:03:15,18"
-          text: ~
+          text: "Ci siamo nascosti lì e infatti la moto è là che viene, siamo saltati in mezzo alla strada"
         sequence-28:
           s: 28
           from: "00:03:15,18"
           to: "00:03:25,29"
-          text: ~
+          text: "con il mitra puntato. Lui ha inchiodato la moto ha frenato e ha tentato di prendere la pistola,"
         sequence-29:
           s: 29
           from: "00:03:25,29"
           to: "00:03:31,22"
-          text: ~
+          text: "è riuscita a tirarla fuori, Fiorello ci ha tirato una sventola con il mitra e ce l’ha buttata per terra."
         sequence-30:
           s: 30
           from: "00:03:31,22"
           to: "00:03:43,12"
-          text: ~
+          text: "Lo abbiamo preso, Fiorello ha preso la moto ed è partito e noi abbiamo portato questo qui in una ghiacciaia,"
         sequence-31:
           s: 31
           from: "00:03:43,12"
           to: "00:03:53,12"
-          text: ~
+          text: "perché ai tempi antichi c’erano le famose ghiacciaie che mettevano la neve, facevano dei buchi sotto terra,"
         sequence-32:
           s: 32
           from: "00:03:53,12"
           to: "00:04:07,04"
-          text: ~
+          text: "li foderavano con... con... mattoni, facevano delle massicciate e lì nascondevano la neve perché la usavano nei caseifici... perché non c’era ghiaccio."
         sequence-33:
           s: 33
           from: "00:04:07,04"
           to: "00:04:18,02"
-          text: ~
+          text: "Lo abbiamo portato lì e alla sera siamo partiti con questo capitano bendato delle SS, disarmato naturalmente"
         sequence-34:
           s: 34
           from: "00:04:18,02"
@@ -178,9 +178,9 @@ it:
           s: 35
           from: "00:04:20,19"
           to: "00:04:28,17"
-          text: ~
+          text: "e lo abbiamo portato in montagna. Abbiamo mandato la staffetta dal podestà di avvisare il comando tedesco"
         sequence-36:
           s: 36
           from: "00:04:28,17"
           to: "00:04:37,25"
-          text: ~
+          text: "che il capitano pinco pallino, che avevamo anche il documento, era da noi. In giornata è stato fatto il cambio."

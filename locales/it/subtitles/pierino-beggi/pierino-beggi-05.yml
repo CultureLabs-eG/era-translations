@@ -2,33 +2,33 @@ it:
   pierino-beggi:
     chapter-5:
       c: 5
-      title: ~
+      title: "110 buoi rubati"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,24"
           to: "00:00:10,00"
-          text: ~
+          text: "Quando abbiamo saputo che portavano i buoi al raduno a Cavriago e li portavano in Germania, noi abbiamo dato"
         sequence-2:
           s: 2
           from: "00:00:10,00"
           to: "00:00:18,20"
-          text: ~
+          text: "l’assalto una notte con i SAP e i GAP, tutti i partigiani della resistenza e abbiamo, ci siamo organizzati"
         sequence-3:
           s: 3
           from: "00:00:18,20"
           to: "00:00:27,28"
-          text: ~
+          text: "tramite i due paratori quelli che li portavano al raduno e siamo andati fino in montagna a portarli, centodieci buoi. E’ stata una cosa..."
         sequence-4:
           s: 4
           from: "00:00:27,28"
           to: "00:00:33,29"
-          text: ~
+          text: "Grande. Grande perché è stato un sacrificio enorme."
         sequence-5:
           s: 5
           from: "00:00:33,29"
           to: "00:00:41,29"
-          text: ~
+          text: "La strada del Rubbianino allora c’erano due siepi alte tre metri poi di biancospino ed era tutto scuro e si andava così come era possibile."
         sequence-6:
           s: 6
           from: "00:00:41,29"
@@ -38,22 +38,22 @@ it:
           s: 7
           from: "00:00:46,16"
           to: "00:00:53,22"
-          text: ~
+          text: "E il problema era cominciare a viaggiare su questi buoi, perché è una cosa molto..."
         sequence-8:
           s: 8
           from: "00:00:53,22"
           to: "00:01:11,23"
-          text: ~
+          text: "l’abbiamo curata nel senso che questi paratori qua che portavano lì i buoi ci hanno insegnato, dice ne leghiamo quattro per le corna con la fune, quelli che avevano la coppa grossa"
         sequence-9:
           s: 9
           from: "00:01:11,23"
           to: "00:01:21,03"
-          text: ~
+          text: "che avevano lavorato, che avevano portato il giogo, e dice li mettiamo davanti e lasciamo andare tutti gli altri e partiamo."
         sequence-10:
           s: 10
           from: "00:01:21,03"
           to: "00:01:24,05"
-          text: ~
+          text: "Siamo arrivati fino a Cerredolo dei Coppi."
         sequence-11:
           s: 11
           from: "00:01:24,05"
@@ -63,12 +63,12 @@ it:
           s: 12
           from: "00:01:24,28"
           to: "00:01:31,06"
-          text: ~
+          text: "I sentieri cosiddetti partigiani erano conosciuti più delle strade."
         sequence-13:
           s: 13
           from: "00:01:31,06"
           to: "00:01:36,25"
-          text: ~
+          text: "E siamo arrivati a Cerredolo dei Coppi con tutti i buoi,"
         sequence-14:
           s: 14
           from: "00:01:36,25"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:38,12"
           to: "00:01:43,24"
-          text: ~
+          text: "che poi lì era il problema portare un mucchio di bestie così, era un problema."
         sequence-16:
           s: 16
           from: "00:01:43,24"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:45,12"
           to: "00:01:52,25"
-          text: ~
+          text: "E c’era anche mio fratello, l’intendenza di finanza, lo chiamavano intendenza"
         sequence-18:
           s: 18
           from: "00:01:52,25"
