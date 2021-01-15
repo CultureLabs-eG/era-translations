@@ -13,9 +13,7 @@ en:
           s: 2
           from: "00:00:05,13"
           to: "00:00:13,14"
-          text: |-
-              but within three months I was called up for the Army again, 
-              since I was in the military when I was arrested.
+          text: "but within three months I was called up for the Army again, since I was in the military when I was arrested."
         sequence-3:
           s: 3
           from: "00:00:13,14"
@@ -35,16 +33,12 @@ en:
           s: 6
           from: "00:00:27,19"
           to: "00:00:38,24"
-          text: |-
-              I explained to him how I knew that I was not entitled to use a weapon anymore, 
-              since I had lost all my rights by being arrested.
+          text: "I explained to him how I knew that I was not entitled to use a weapon anymore, since I had lost all my rights by being arrested."
         sequence-7:
           s: 7
           from: "00:00:38,24"
           to: "00:00:47,19"
-          text: |-
-              He replied that he went to fight in Albania 
-              with the Blackshirts although he was in the Army,
+          text: "He replied that he went to fight in Albania with the Blackshirts although he was in the Army,"
         sequence-8:
           s: 8
           from: "00:00:47,19"
@@ -59,30 +53,22 @@ en:
           s: 10
           from: "00:00:58,03"
           to: "00:01:07,24"
-          text: |-
-              I received a letter from the Government stating that I immediately 
-              had to go back to Italy, since I was not supposed to be there.
+          text: "I received a letter from the Government stating that I immediately had to go back to Italy, since I was not supposed to be there."
         sequence-11:
           s: 11
           from: "00:01:07,24"
           to: "00:01:16,15"
-          text: |-
-              I was taken to the port and embarked on a ship 
-              whose name was Disentine.
+          text: "I was taken to the port and embarked on a ship whose name was Disentine."
         sequence-12:
           s: 12
           from: "00:01:16,15"
           to: "00:01:26,01"
-          text: |-
-              We stayed there three days without setting sail, 
-              apparently because there were British u-boats.
+          text: "We stayed there three days without setting sail, apparently because there were British u-boats."
         sequence-13:
           s: 13
           from: "00:01:26,01"
           to: "00:01:34,22"
-          text: |-
-              Then one evening, from the ship, we saw 
-              that there were great celebrations in Durres,
+          text: "Then one evening, from the ship, we saw that there were great celebrations in Durres,"
         sequence-14:
           s: 14
           from: "00:01:34,22"
@@ -122,9 +108,7 @@ en:
           s: 21
           from: "00:02:20,08"
           to: "00:02:31,09"
-          text: |-
-              Even those in charge of the different services or of the orderly room 
-              could not speak to anyone in Rome: nobody would answer.
+          text: "Even those in charge of the different services or of the orderly room could not speak to anyone in Rome: nobody would answer."
         sequence-22:
           s: 22
           from: "00:02:31,09"
@@ -134,9 +118,7 @@ en:
           s: 23
           from: "00:02:34,05"
           to: "00:02:42,24"
-          text: |-
-              One day, our officers in charge, such as General Mondini, from Parma, 
-              who was the Commanding General of my division,
+          text: "One day, our officers in charge, such as General Mondini, from Parma, who was the Commanding General of my division,"
         sequence-24:
           s: 24
           from: "00:02:42,24"
@@ -151,9 +133,7 @@ en:
           s: 26
           from: "00:02:53,20"
           to: "00:03:01,05"
-          text: |-
-              but they told us that they had reached an agreement with the Germans:
-              they would take us to Trieste,
+          text: "but they told us that they had reached an agreement with the Germans: they would take us to Trieste,"
         sequence-27:
           s: 27
           from: "00:03:01,05"
@@ -163,9 +143,7 @@ en:
           s: 28
           from: "00:03:05,11"
           to: "00:03:14,14"
-          text: |-
-              I was quite skeptical, but we all got on the train. 
-              There were forty-two of us on each railcar.
+          text: "I was quite skeptical, but we all got on the train. There were forty-two of us on each railcar."
         sequence-29:
           s: 29
           from: "00:03:14,14"
@@ -175,9 +153,7 @@ en:
           s: 30
           from: "00:03:15,11"
           to: "00:03:20,18"
-          text: |-
-              When we reached the border the Germans locked the railcars, 
-              allegedly because of the Partisans.
+          text: "When we reached the border the Germans locked the railcars, allegedly because of the Partisans."
         sequence-31:
           s: 31
           from: "00:03:20,18"
@@ -187,9 +163,7 @@ en:
           s: 32
           from: "00:03:21,12"
           to: "00:03:29,15"
-          text: |-
-              In the morning – I had a small booklet with a map – 
-              it turned out we were in Austria.
+          text: "In the morning – I had a small booklet with a map – it turned out we were in Austria."
         sequence-33:
           s: 33
           from: "00:03:29,15"
@@ -204,9 +178,7 @@ en:
           s: 35
           from: "00:03:41,25"
           to: "00:03:54,13"
-          text: |-
-              I was grateful that three or four years ago I was able 
-              to visit the camp I was imprisoned in sixty years before.
+          text: "I was grateful that three or four years ago I was able to visit the camp I was imprisoned in sixty years before."
         sequence-36:
           s: 36
           from: "00:03:54,13"
@@ -221,23 +193,17 @@ en:
           s: 38
           from: "00:04:09,13"
           to: "00:04:18,20"
-          text: |-
-              then there were two shacks of female prisoners – 
-              Russian women who worked on the railroad tracks with smaller shovels –
+          text: "then there were two shacks of female prisoners – Russian women who worked on the railroad tracks with smaller shovels –"
         sequence-39:
           s: 39
           from: "00:04:18,20"
           to: "00:04:26,05"
-          text: |-
-              then the French, and finally us. 
-              I don’t know how many thousands prisoners were in the camp.
+          text: "then the French, and finally us. I don’t know how many thousands prisoners were in the camp."
         sequence-40:
           s: 40
           from: "00:04:26,05"
           to: "00:04:35,25"
-          text: |-
-              I should not forget to say that, at that point, 
-              I was still accompanied by two non-commissioned officers
+          text: "I should not forget to say that, at that point, I was still accompanied by two non-commissioned officers"
         sequence-41:
           s: 41
           from: "00:04:35,25"
@@ -247,9 +213,7 @@ en:
           s: 42
           from: "00:04:41,25"
           to: "00:04:50,15"
-          text: |-
-              One of them was from Cosenza, the other from Catanzaro, 
-              and I think they were supposed to go back to Italy on special leave.
+          text: "One of them was from Cosenza, the other from Catanzaro, and I think they were supposed to go back to Italy on special leave."
         sequence-43:
           s: 43
           from: "00:04:50,15"
@@ -259,9 +223,7 @@ en:
           s: 44
           from: "00:04:52,03"
           to: "00:05:03,06"
-          text: |-
-              When everything changed I was slightly worried:
-              the two were beginning to need something to drink,
+          text: "When everything changed I was slightly worried: the two were beginning to need something to drink,"
         sequence-45:
           s: 45
           from: "00:05:03,06"
