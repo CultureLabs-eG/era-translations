@@ -2,48 +2,48 @@ it:
   carlo-porta:
     chapter-9:
       c: 9
-      title: ~
+      title: "Cercare di sopravvivere"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:03,25"
-          text: ~
+          text: "Io mi ero messo in testa che volevo tornare a casa,"
         sequence-2:
           s: 2
           from: "00:00:03,25"
           to: "00:00:07,20"
-          text: ~
+          text: "perché non era mica giusto che facessi quella fine lì;"
         sequence-3:
           s: 3
           from: "00:00:07,20"
           to: "00:00:10,23"
-          text: ~
+          text: "ho mangiato male come gli altri,"
         sequence-4:
           s: 4
           from: "00:00:10,23"
           to: "00:00:17,08"
-          text: ~
+          text: "nonostante il dottore adesso continui a dirmi “quei due anni in Germania"
         sequence-5:
           s: 5
           from: "00:00:17,08"
           to: "00:00:22,28"
-          text: ~
+          text: "ti hanno fatto bene, ti hanno aiutato a sopravvivere”,"
         sequence-6:
           s: 6
           from: "00:00:22,28"
           to: "00:00:36,00"
-          text: ~
+          text: "io non facevo niente, però non mi sono mai preoccupato, non ho mai avuto il pensiero di non venire a casa."
         sequence-7:
           s: 7
           from: "00:00:36,00"
           to: "00:00:41,22"
-          text: ~
+          text: "Io ho mollato gli ultimi due o tre mesi:"
         sequence-8:
           s: 8
           from: "00:00:41,22"
           to: "00:00:48,18"
-          text: ~
+          text: "non ricordavo più la mia famiglia,"
         sequence-9:
           s: 9
           from: "00:00:48,18"

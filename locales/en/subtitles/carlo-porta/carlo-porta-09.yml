@@ -33,9 +33,7 @@ en:
           s: 6
           from: "00:00:22,28"
           to: "00:00:36,00"
-          text: |-
-              I didn’t do much, but I was never scared of not being able 
-              to make it home one day.
+          text: "I didn’t do much, but I was never scared of not being able to make it home one day."
         sequence-7:
           s: 7
           from: "00:00:36,00"
@@ -65,9 +63,7 @@ en:
           s: 12
           from: "00:01:02,17"
           to: "00:01:11,03"
-          text: |-
-              the food was terrible for all of us, 
-              but I did my best to survive even in those conditions.
+          text: "the food was terrible for all of us, but I did my best to survive even in those conditions."
         sequence-13:
           s: 13
           from: "00:01:11,03"
@@ -77,9 +73,7 @@ en:
           s: 14
           from: "00:01:12,08"
           to: "00:01:21,06"
-          text: |-
-              Regarding my weight, you hear people say they were thirty-eight or forty kilos,
-              but I never did weigh myself.
+          text: "Regarding my weight, you hear people say they were thirty-eight or forty kilos, but I never did weigh myself."
         sequence-15:
           s: 15
           from: "00:01:21,06"
@@ -99,9 +93,7 @@ en:
           s: 18
           from: "00:01:34,19"
           to: "00:01:41,00"
-          text: |-
-              many had a wife and kids, 
-              and those were different kinds of problems.
+          text: "many had a wife and kids, and those were different kinds of problems."
         sequence-19:
           s: 19
           from: "00:01:41,00"

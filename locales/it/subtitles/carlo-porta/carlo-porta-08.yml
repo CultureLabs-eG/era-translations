@@ -2,90 +2,90 @@ it:
   carlo-porta:
     chapter-8:
       c: 8
-      title: ~
+      title: "Tre giorni senza pane"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,13"
           to: "00:00:05,08"
-          text: ~
+          text: "Qualcuno degli interpreti anche italiani"
         sequence-2:
           s: 2
           from: "00:00:05,08"
           to: "00:00:12,26"
-          text: ~
+          text: "te lo spiegavano anche loro che c’è una possibilità che Mussolini e Hitler"
         sequence-3:
           s: 3
           from: "00:00:12,26"
           to: "00:00:19,27"
-          text: ~
+          text: "hanno deciso che gli italiani non devono essere prigionieri in questa nazione"
         sequence-4:
           s: 4
           from: "00:00:19,27"
           to: "00:00:26,00"
-          text: ~
+          text: "i famosi IMI, cioè sulla divisa che avevi"
         sequence-5:
           s: 5
           from: "00:00:26,00"
           to: "00:00:35,13"
-          text: ~
+          text: "ci doveva esser scritto IMI (Internati Militari Italiani)."
         sequence-6:
           s: 6
           from: "00:00:35,13"
           to: "00:00:41,28"
-          text: ~
+          text: "Noi, a cominciare da me, due marescialli della finanza sardagnoli, cioè in quattro o cinque,"
         sequence-7:
           s: 7
           from: "00:00:41,28"
           to: "00:00:47,10"
-          text: ~
+          text: "nel mio campo c’erano in 550, siamo riusciti a non far firmare nessuno,"
         sequence-8:
           s: 8
           from: "00:00:47,10"
           to: "00:00:51,26"
-          text: ~
+          text: "perché mentre loro dicevano “vi mandiamo in Italia"
         sequence-9:
           s: 9
           from: "00:00:51,26"
           to: "00:00:55,25"
-          text: ~
+          text: "e poi lì c’è la Monte Rosa che vi aspetta”,"
         sequence-10:
           s: 10
           from: "00:00:55,25"
           to: "00:01:00,18"
-          text: ~
+          text: "noi la Monte Rosa immaginavamo ma non sapevamo che cos’era,"
         sequence-11:
           s: 11
           from: "00:01:00,18"
           to: "00:01:03,27"
-          text: ~
+          text: "sai cosa gli dicevamo noi?"
         sequence-12:
           s: 12
           from: "00:01:03,27"
           to: "00:01:12,29"
-          text: ~
+          text: "“Non firmiamo ragazzi perché sul fronte russo ci mancano le forze, mancano i soldati, loro ci mandano sul fronte russo!”."
         sequence-13:
           s: 13
           from: "00:01:12,29"
           to: "00:01:15,07"
-          text: ~
+          text: "Non ha firmato nessuno,"
         sequence-14:
           s: 14
           from: "00:01:15,07"
           to: "00:01:19,01"
-          text: ~
+          text: "senonchè il capo dei capi „Lagerführer“"
         sequence-15:
           s: 15
           from: "00:01:19,01"
           to: "00:01:22,08"
-          text: ~
+          text: "che comandava il campo gli è venuta una rabbia una volta,"
         sequence-16:
           s: 16
           from: "00:01:22,08"
           to: "00:01:25,09"
-          text: ~
+          text: "te lo dico in tedesco"
         sequence-17:
           s: 17
           from: "00:01:25,09"
           to: "00:01:32,26"
-          text: ~
+          text: "“Diese Leute morgen früh kein Brot”, tre giorni senza pane, non ce l’hanno mica dato per tre giorni."
