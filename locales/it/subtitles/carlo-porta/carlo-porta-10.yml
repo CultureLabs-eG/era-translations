@@ -108,32 +108,32 @@ it:
           s: 21
           from: "00:01:47,20"
           to: "00:01:53,04"
-          text: ~
+          text: "al teatro Ariosto, come faranno anche adesso) venite dentro alla SARSA."
         sequence-22:
           s: 22
           from: "00:01:53,04"
           to: "00:01:56,03"
-          text: ~
+          text: "Siamo entrati e ha detto con il suo capo"
         sequence-23:
           s: 23
           from: "00:01:56,03"
           to: "00:02:02,24"
-          text: ~
+          text: "“questi non hanno pagato il biglietto perché dicono che vengono dalla Germania.”"
         sequence-24:
           s: 24
           from: "00:02:02,24"
           to: "00:02:09,22"
-          text: ~
+          text: "e lui “sei un rimbambito, io ho detto che vadano a casa loro!”."
         sequence-25:
           s: 25
           from: "00:02:09,22"
           to: "00:02:11,21"
-          text: ~
+          text: "L’ha pagato così."
         sequence-26:
           s: 26
           from: "00:02:11,21"
           to: "00:02:16,15"
-          text: ~
+          text: "Dopo ci siamo imbarcati a piedi, ce n’erano due di Correggio."
         sequence-27:
           s: 27
           from: "00:02:16,15"
@@ -143,89 +143,89 @@ it:
           s: 28
           from: "00:02:17,08"
           to: "00:02:28,13"
-          text: ~
+          text: "Abbiamo chiesto un po’ anche al direttore della SARSA perché non sapevamo niente di niente,"
         sequence-29:
           s: 29
           from: "00:02:28,13"
           to: "00:02:36,21"
-          text: ~
+          text: "io della mia famiglia non conoscevo niente. Andiamo a casa ma eravamo a piedi, allora si usava ancora andare a piedi,"
         sequence-30:
           s: 30
           from: "00:02:36,21"
           to: "00:02:48,08"
-          text: ~
+          text: "e per imboccare lì dove c’è l’ACM adesso, mi sono fermato un momento perché ero stanco,"
         sequence-31:
           s: 31
           from: "00:02:48,08"
           to: "00:02:54,26"
-          text: ~
+          text: "passa una signora in bicicletta e mi ha detto “ma te sei il figlio di Porta?”"
         sequence-32:
           s: 32
           from: "00:02:54,26"
           to: "00:02:59,18"
-          text: ~
+          text: "e le ho detto “si” lei dice “ostia sei in ritardo\""
         sequence-33:
           s: 33
           from: "00:02:59,18"
           to: "00:03:03,11"
-          text: ~
+          text: "- “insomma sono arrivato adesso” -"
         sequence-34:
           s: 34
           from: "00:03:03,11"
           to: "00:03:12,15"
-          text: ~
+          text: "“vado a dire ai tuoi che ti vengano incontro”. “Allora se conosci i miei dimmi com’è la situazione”"
         sequence-35:
           s: 35
           from: "00:03:12,15"
           to: "00:03:15,17"
-          text: ~
+          text: "dice “ci sono ancora tutti,"
         sequence-36:
           s: 36
           from: "00:03:15,17"
           to: "00:03:19,17"
-          text: ~
+          text: "e tuo fratello era appena tornato dalla Svizzera”;"
         sequence-37:
           s: 37
           from: "00:03:19,17"
           to: "00:03:23,23"
-          text: ~
+          text: "allora è andata a casa mia a dirglielo."
         sequence-38:
           s: 38
           from: "00:03:23,23"
           to: "00:03:30,24"
-          text: ~
+          text: "Ricordo sempre la mia mamma che mi è venuta incontro di corsa,"
         sequence-39:
           s: 39
           from: "00:03:30,24"
           to: "00:03:36,07"
-          text: ~
+          text: "che non ne poteva più neanche lei, ed è stata l’unica volta che ho pianto,"
         sequence-40:
           s: 40
           from: "00:03:36,07"
           to: "00:03:44,19"
-          text: ~
+          text: "e mi è andata bene adesso perché quando racconto queste cose piango sempre, stamattina sono riuscito a non piangere."
         sequence-41:
           s: 41
           from: "00:03:44,19"
           to: "00:03:47,26"
-          text: ~
+          text: "Dopo è finita la storia,"
         sequence-42:
           s: 42
           from: "00:03:47,26"
           to: "00:03:53,06"
-          text: ~
+          text: "ho preso i collegamenti qui cercando il posto di lavoro,"
         sequence-43:
           s: 43
           from: "00:03:53,06"
           to: "00:03:57,09"
-          text: ~
+          text: "mi erano state offerte tante cose che non ho accettato,"
         sequence-44:
           s: 44
           from: "00:03:57,09"
           to: "00:04:02,04"
-          text: ~
+          text: "sono poi tornato al mio lavoro che era diventata la Giglio,"
         sequence-45:
           s: 45
           from: "00:04:02,04"
           to: "00:04:09,26"
-          text: ~
+          text: "le Latterie Cooperative Riunite, dove ho fatto gli ultimi 36 anni là dentro."
