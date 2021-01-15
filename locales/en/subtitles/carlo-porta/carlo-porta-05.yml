@@ -238,30 +238,22 @@ en:
           s: 47
           from: "00:05:19,08"
           to: "00:05:25,22"
-          text: |-
-              The two officers had been entitled to bunk beds, 
-              so they were sleeping in a corner of the shack.
+          text: "The two officers had been entitled to bunk beds, so they were sleeping in a corner of the shack."
         sequence-48:
           s: 48
           from: "00:05:25,22"
           to: "00:05:37,08"
-          text: |-
-              We slept on straw on the floor, and I managed 
-              to get into the group that was leaving.
+          text: "We slept on straw on the floor, and I managed to get into the group that was leaving."
         sequence-49:
           s: 49
           from: "00:05:37,08"
           to: "00:05:42,21"
-          text: |-
-              I never knew anything about them afterwards, 
-              and maybe I shouldn’t have done this,
+          text: "I never knew anything about them afterwards, and maybe I shouldn’t have done this,"
         sequence-50:
           s: 50
           from: "00:05:42,21"
           to: "00:05:48,17"
-          text: |-
-              but I was afraid they would hand my documents to a guard. 
-              The guards were brutal there.
+          text: "but I was afraid they would hand my documents to a guard. The guards were brutal there."
         sequence-51:
           s: 51
           from: "00:05:48,17"
@@ -271,9 +263,7 @@ en:
           s: 52
           from: "00:05:54,23"
           to: "00:06:02,15"
-          text: |-
-              At first, we wondered what we were supposed to do – 
-              maybe get some coffee! –
+          text: "At first, we wondered what we were supposed to do – maybe get some coffee! –"
         sequence-53:
           s: 53
           from: "00:06:02,15"
@@ -283,9 +273,7 @@ en:
           s: 54
           from: "00:06:07,20"
           to: "00:06:13,19"
-          text: |-
-              We immediately understood that we had to get up, 
-              even if we couldn’t understand the word.
+          text: "We immediately understood that we had to get up, even if we couldn’t understand the word."
         sequence-55:
           s: 55
           from: "00:06:13,19"
@@ -300,9 +288,7 @@ en:
           s: 57
           from: "00:06:27,02"
           to: "00:06:33,23"
-          text: |-
-              I lost all contact with the two officers afterwards, 
-              since that place was basically a marshalling camp,
+          text: "I lost all contact with the two officers afterwards, since that place was basically a marshalling camp,"
         sequence-58:
           s: 58
           from: "00:06:33,23"
@@ -322,9 +308,7 @@ en:
           s: 61
           from: "00:06:52,05"
           to: "00:07:02,20"
-          text: |-
-              The last one I was in, where we were finally set free, 
-              was called Wickede and was in Westfalia, near Dortmund.
+          text: "The last one I was in, where we were finally set free, was called Wickede and was in Westfalia, near Dortmund."
         sequence-62:
           s: 62
           from: "00:07:02,20"
@@ -339,9 +323,7 @@ en:
           s: 64
           from: "00:07:09,15"
           to: "00:07:19,15"
-          text: |-
-              The camp I’ve been in for the longest period was in Hagen, 
-              again in Westfalia, near Dortmund, which was a very big city.
+          text: "The camp I’ve been in for the longest period was in Hagen, again in Westfalia, near Dortmund, which was a very big city."
         sequence-65:
           s: 65
           from: "00:07:19,15"
@@ -366,23 +348,17 @@ en:
           s: 69
           from: "00:07:49,07"
           to: "00:07:59,06"
-          text: |-
-              They might come to check on us at, say, 10:30 at night, 
-              so we would have to gather in the hallway.
+          text: "They might come to check on us at, say, 10:30 at night, so we would have to gather in the hallway."
         sequence-70:
           s: 70
           from: "00:07:59,06"
           to: "00:08:10,03"
-          text: |-
-              One of us was sleeping in the corner, another one was ill, 
-              and they would send us all outside to do some exercise.
+          text: "One of us was sleeping in the corner, another one was ill, and they would send us all outside to do some exercise."
         sequence-71:
           s: 71
           from: "00:08:10,03"
           to: "00:08:19,18"
-          text: |-
-              We wore wooden shoes that could easily be lost 
-              while walking down the three steps that led to each shack.
+          text: "We wore wooden shoes that could easily be lost while walking down the three steps that led to each shack."
         sequence-72:
           s: 72
           from: "00:08:19,18"
@@ -402,9 +378,7 @@ en:
           s: 75
           from: "00:08:32,20"
           to: "00:08:39,25"
-          text: |-
-              I was arrested, or, I should rather say, 
-              we were loaded on their trains on the 16th of September,
+          text: "I was arrested, or, I should rather say, we were loaded on their trains on the 16th of September,"
         sequence-76:
           s: 76
           from: "00:08:39,25"
@@ -419,9 +393,7 @@ en:
           s: 78
           from: "00:08:52,05"
           to: "00:09:04,20"
-          text: |-
-              including the tank factories that the Americans used to attack with special bombs, 
-              in order to breach them.
+          text: "including the tank factories that the Americans used to attack with special bombs, in order to breach them."
         sequence-79:
           s: 79
           from: "00:09:04,20"
