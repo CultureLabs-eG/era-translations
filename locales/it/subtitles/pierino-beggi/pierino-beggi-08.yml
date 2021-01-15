@@ -2,13 +2,13 @@ it:
   pierino-beggi:
     chapter-8:
       c: 8
-      title: ~
+      title: "Fossoli: liberati prigionieri russi"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,02"
           to: "00:00:11,13"
-          text: ~
+          text: "A Fossoli, c’erano tutti i russi, i tedeschi li avevano portati lì, erano più di 250-300"
         sequence-2:
           s: 2
           from: "00:00:11,13"
@@ -18,32 +18,32 @@ it:
           s: 3
           from: "00:00:13,04"
           to: "00:00:17,06"
-          text: ~
+          text: "e li abbiamo, con i GAP e i partigiani di Modena,"
         sequence-4:
           s: 4
           from: "00:00:17,06"
           to: "00:00:23,17"
-          text: ~
+          text: "li abbiamo circondati e li abbiamo portati via in massa su in montagna."
         sequence-5:
           s: 5
           from: "00:00:23,17"
           to: "00:00:30,10"
-          text: ~
+          text: "Dopo ci ha pensato il comando piazza, hanno fermato i tre ufficiali, c’erano i tre ufficiali"
         sequence-6:
           s: 6
           from: "00:00:30,10"
           to: "00:00:34,23"
-          text: ~
+          text: "di cui poi uno era diventato Modena nome di battaglia."
         sequence-7:
           s: 7
           from: "00:00:34,23"
           to: "00:00:42,21"
-          text: ~
+          text: "La bassa reggiana ha avuto anche un guaio perché uno di quei russi"
         sequence-8:
           s: 8
           from: "00:00:42,21"
           to: "00:00:52,27"
-          text: ~
+          text: "che è stato preso là nel campo di Fossoli era scappato dalla montagna ed era andato a finire nella brigata nera"
         sequence-9:
           s: 9
           from: "00:00:52,27"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:54,14"
           to: "00:01:09,15"
-          text: ~
+          text: "e siccome lui conosceva nella bassa reggiana ... era stato ospite di case come partigiano a lavorare"
         sequence-11:
           s: 11
           from: "00:01:09,15"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:11,00"
           to: "00:01:19,16"
-          text: ~
+          text: "è entrato nella brigata nera e ci andava ad indicare le case dove era stato e le hanno bruciate tutte."
         sequence-13:
           s: 13
           from: "00:01:19,16"
@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:21,16"
           to: "00:01:29,00"
-          text: ~
+          text: "Dopo lui siccome veniva a Reggio qua al comando due staffette nostre sono riuscite a portarlo fuori una sera"
         sequence-15:
           s: 15
           from: "00:01:29,00"
           to: "00:01:34,08"
-          text: ~
+          text: "promettendogli l’impossibile e..."
         sequence-16:
           s: 16
           from: "00:01:34,08"
@@ -88,4 +88,4 @@ it:
           s: 17
           from: "00:01:38,21"
           to: "00:01:42,22"
-          text: ~
+          text: "è stato fatto fuori, per non tenerla troppo lunga."
