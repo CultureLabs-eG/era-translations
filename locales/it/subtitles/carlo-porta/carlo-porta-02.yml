@@ -8,94 +8,94 @@ it:
           s: 1
           from: "00:00:01,02"
           to: "00:00:08,01"
-          text: ~
+          text: "Non è che ci fosse, loro guardavano più gli anziani, il problema era quello lì, però"
         sequence-2:
           s: 2
           from: "00:00:08,01"
           to: "00:00:13,03"
-          text: ~
+          text: "dei fatti alle Reggiane… Io sono sempre stato antifascista anche dentro le Reggiane"
         sequence-3:
           s: 3
           from: "00:00:13,03"
           to: "00:00:19,24"
-          text: ~
+          text: "e come ero io c’era altra gente più sfortunata di me:"
         sequence-4:
           s: 4
           from: "00:00:19,24"
           to: "00:00:24,23"
-          text: ~
+          text: "perché dentro le Reggiane, si facevano gli aeroplani,"
         sequence-5:
           s: 5
           from: "00:00:24,23"
           to: "00:00:38,21"
-          text: ~
+          text: "hanno scoperto che mettevano la sabbia dentro ai cilindri, i vari Ganassi, Bagnacani, Catellani tutta gente finita in galera,"
         sequence-6:
           s: 6
           from: "00:00:38,21"
           to: "00:00:46,26"
-          text: ~
+          text: "ma loro avevano già una trentina d’anni, cioè gente che aveva già moglie magari anche con dei figli."
         sequence-7:
           s: 7
           from: "00:00:46,26"
           to: "00:00:51,18"
-          text: ~
+          text: "Cioè lo sfogo era più su quella gente, noi passavamo"
         sequence-8:
           s: 8
           from: "00:00:51,18"
           to: "00:00:54,10"
-          text: ~
+          text: "inosservati, però non insistevano,"
         sequence-9:
           s: 9
           from: "00:00:54,10"
           to: "00:00:57,28"
-          text: ~
+          text: "il mio capo diceva sempre"
         sequence-10:
           s: 10
           from: "00:00:57,28"
           to: "00:01:06,28"
-          text: ~
+          text: "“quando tornano a casa i soldati, se tornano qua dentro la tessera gliela facciamo prendere se vogliono lavorare qui”."
         sequence-11:
           s: 11
           from: "00:01:06,28"
           to: "00:01:11,28"
-          text: ~
+          text: "Loro mi insegnavano la vita, come si doveva fare,"
         sequence-12:
           s: 12
           from: "00:01:11,28"
           to: "00:01:19,05"
-          text: ~
+          text: "perché allora c’era la raccolta dei soldi, quello che si chiamava il Soccorso Rosso,"
         sequence-13:
           s: 13
           from: "00:01:19,05"
           to: "00:01:28,08"
-          text: ~
+          text: "a Rivalta lo gestivo io: prendevamo dei soldi e li davamo al partito."
         sequence-14:
           s: 14
           from: "00:01:28,08"
           to: "00:01:36,21"
-          text: ~
+          text: "L’accusa più terribile era per i combattenti di Spagna, in parte era anche vero,"
         sequence-15:
           s: 15
           from: "00:01:36,21"
           to: "00:01:44,04"
-          text: ~
+          text: "però c’erano anche i nostri compagni di Rivalta come Fontanesi, quella gente lì che erano in galera,"
         sequence-16:
           s: 16
           from: "00:01:44,04"
           to: "00:01:49,29"
-          text: ~
+          text: "allora il partito come poteva cercava di dare una mano alle famiglie."
         sequence-17:
           s: 17
           from: "00:01:49,29"
           to: "00:01:59,00"
-          text: ~
+          text: "Noi andavamo in piazza a vendere delle cose la domenica, facevamo delle lotterie,"
         sequence-18:
           s: 18
           from: "00:01:59,00"
           to: "00:02:07,04"
-          text: ~
+          text: "ad esempio in una di queste il primo premio era una gallina che ci aveva regalato un contadino,"
         sequence-19:
           s: 19
           from: "00:02:07,04"
           to: "00:02:13,17"
-          text: ~
+          text: "sempre per raccogliere i soldi che ci volevano."

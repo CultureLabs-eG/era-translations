@@ -2,48 +2,48 @@ it:
   carlo-porta:
     chapter-3:
       c: 3
-      title: ~
+      title: "Arresto durante servizio militare"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,13"
           to: "00:00:04,24"
-          text: ~
+          text: "Allora c’era una regola da rispettare,"
         sequence-2:
           s: 2
           from: "00:00:04,24"
           to: "00:00:09,10"
-          text: ~
+          text: "chi lavorava alle Reggiane, siccome lì si fabbricavano gli aeroplani"
         sequence-3:
           s: 3
           from: "00:00:09,10"
           to: "00:00:21,27"
-          text: ~
+          text: "(ce n’è uno ancora, se lo vuoi andare a vedere, all’aeroporto di Reggio è lì coperto, quello lì era uno di quelli che si faceva alle Reggiane):"
         sequence-4:
           s: 4
           from: "00:00:21,27"
           to: "00:00:30,27"
-          text: ~
+          text: "i giovani dipendenti delle Reggiane che andavano a militare avevano il diritto di andare in aviazione,"
         sequence-5:
           s: 5
           from: "00:00:30,27"
           to: "00:00:39,27"
-          text: ~
+          text: "invece i dipendenti della Lombardini Motori che facevano i motori per le navi, andavano in marina."
         sequence-6:
           s: 6
           from: "00:00:39,27"
           to: "00:00:50,22"
-          text: ~
+          text: "Io sono andato militare, dopo da Bologna diamo andati a Orvieto, ho completato il CAR;"
         sequence-7:
           s: 7
           from: "00:00:50,22"
           to: "00:00:56,05"
-          text: ~
+          text: "finito il CAR ci hanno trasferito, io sono andato in un aeroporto"
         sequence-8:
           s: 8
           from: "00:00:56,05"
           to: "00:01:04,24"
-          text: ~
+          text: "in Roma, in un paesino che era una frazione di Roma che si chiama e si chiama tuttora Furbara:"
         sequence-9:
           s: 9
           from: "00:01:04,24"
@@ -53,32 +53,32 @@ it:
           s: 10
           from: "00:01:08,18"
           to: "00:01:16,18"
-          text: ~
+          text: "qui viene il bello, noi da lì i vari reparti andavano a far la guardia a Roma,"
         sequence-11:
           s: 11
           from: "00:01:16,18"
           to: "00:01:22,21"
-          text: ~
+          text: "allora siamo andati a far la guardia a Palazzo Venezia."
         sequence-12:
           s: 12
           from: "00:01:22,21"
           to: "00:01:31,11"
-          text: ~
+          text: "Durante la settimana una notte ci andavano gli aviatori,"
         sequence-13:
           s: 13
           from: "00:01:31,11"
           to: "00:01:38,01"
-          text: ~
+          text: "una sera gli artiglieri, cioè erano scaglionati così."
         sequence-14:
           s: 14
           from: "00:01:38,01"
           to: "00:01:47,11"
-          text: ~
+          text: "Siamo andati di guardia, mi ricordo che c’era un tenente nuovo che quando è venuto a prenderci al mattino alle 8 con un furgoncino"
         sequence-15:
           s: 15
           from: "00:01:47,11"
           to: "00:01:53,23"
-          text: ~
+          text: "ha detto “adesso giriamo un po’ per Roma perché io non l’ho mai vista”. "
         sequence-16:
           s: 16
           from: "00:01:53,23"
