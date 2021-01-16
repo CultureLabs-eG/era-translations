@@ -2,18 +2,18 @@ it:
   pierino-beggi:
     chapter-14:
       c: 14
-      title: ~
+      title: "Liberazione di Reggio Emilia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:07,18"
-          text: ~
+          text: "Andiamo sul tetto, perché per vedere sulla Madonna della Ghiara che sparano."
         sequence-2:
           s: 2
           from: "00:00:07,18"
           to: "00:00:15,03"
-          text: ~
+          text: "Dopo siamo andati sul tetto ma non si vedeva niente. Siamo scesi siamo andati là vicino alla torre,"
         sequence-3:
           s: 3
           from: "00:00:15,03"
