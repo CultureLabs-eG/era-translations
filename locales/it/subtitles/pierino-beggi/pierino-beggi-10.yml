@@ -2,35 +2,35 @@ it:
   pierino-beggi:
     chapter-10:
       c: 10
-      title: ~
+      title: "Usare la bazooka"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,25"
           to: "00:00:07,11"
-          text: ~
+          text: "Abbiamo provato anche i bazooka perché sai erano armi nuove per noi"
         sequence-2:
           s: 2
           from: "00:00:07,11"
           to: "00:00:13,17"
-          text: ~
+          text: "e Fiorello era un mago per queste cose qua, li studiava, li guardava..."
         sequence-3:
           s: 3
           from: "00:00:13,17"
           to: "00:00:18,14"
-          text: ~
+          text: "e dice dai che stasera ne andiamo a provare uno sulla strada di Cavriago,"
         sequence-4:
           s: 4
           from: "00:00:18,14"
           to: "00:00:25,03"
-          text: ~
+          text: "è passato un camion e infatti io stavo chinato me lo appoggiava sulla spalla e lui lo manovrava,"
         sequence-5:
           s: 5
           from: "00:00:25,03"
           to: "00:00:30,06"
-          text: ~
+          text: "6 Kg di esplosivo... ah il camion è volato fuori in strada..."
         sequence-6:
           s: 6
           from: "00:00:30,06"
           to: "00:00:33,14"
-          text: ~
+          text: "eh la lotta era quella e..."
