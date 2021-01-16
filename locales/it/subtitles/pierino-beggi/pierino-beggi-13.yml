@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,13"
           to: "00:00:03,12"
-          text: ~
+          text: "La storia del sipario... beh"
         sequence-2:
           s: 2
           from: "00:00:03,12"
@@ -18,22 +18,22 @@ it:
           s: 3
           from: "00:00:04,22"
           to: "00:00:12,01"
-          text: ~
+          text: "è una cosa molto... è riuscita molto bene ed è stata molto bella. E’ un orgoglio che noi abbiamo sempre tenuto."
         sequence-4:
           s: 4
           from: "00:00:12,01"
           to: "00:00:22,20"
-          text: ~
+          text: "Noi allora alla Timo avevamo un informatore, un compagno nostro che era un impiegato lì della Timo era anche un tecnico diciamo."
         sequence-5:
           s: 5
           from: "00:00:22,20"
           to: "00:00:32,00"
-          text: ~
+          text: "Però i tedeschi arrivati a Reggio Emilia avevano requisito una parte della Timo"
         sequence-6:
           s: 6
           from: "00:00:32,00"
           to: "00:00:35,25"
-          text: ~
+          text: "e lo avevano adibito a ufficio loro,"
         sequence-7:
           s: 7
           from: "00:00:35,25"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:39,28"
           to: "00:00:46,00"
-          text: ~
+          text: "i nostri amministravano diciamo il lavoro italiano"
         sequence-9:
           s: 9
           from: "00:00:46,00"
           to: "00:00:54,06"
-          text: ~
+          text: "e loro decifravano i cifrati che venivano dalla Germania, era un cifrato segreto che..."
         sequence-10:
           s: 10
           from: "00:00:54,06"
@@ -58,12 +58,12 @@ it:
           s: 11
           from: "00:00:55,13"
           to: "00:01:03,19"
-          text: ~
+          text: "Ma con l’andare del tempo sia i nostri informatori e un altro impiegato stando a lavorare assieme tutto il giorno"
         sequence-12:
           s: 12
           from: "00:01:03,19"
           to: "00:01:11,01"
-          text: ~
+          text: "andavano a prendere il caffè si creava una certa... una certa amicizia nel senso."
         sequence-13:
           s: 13
           from: "00:01:11,01"
