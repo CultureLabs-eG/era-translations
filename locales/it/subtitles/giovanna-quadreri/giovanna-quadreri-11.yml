@@ -18,37 +18,37 @@ it:
           s: 3
           from: "00:00:26,04"
           to: "00:00:40,03"
-          text: ~
+          text: "Perché lei è andata sposata a Genova però siccome aveva la casa lì in montagna, lì a Maro, nel paese, allora, siccome lei era nella formazione di suo marito, che lui era anche comandante"
         sequence-4:
           s: 4
           from: "00:00:40,03"
           to: "00:00:48,05"
-          text: ~
+          text: "e allora andavano a trovarli tanta gente, non stava male, le volevano bene."
         sequence-5:
           s: 5
           from: "00:00:48,05"
           to: "00:00:53,20"
-          text: ~
+          text: "Allora c’era un rispetto secondo me per le ragazze che noi che eravamo lì così,"
         sequence-6:
           s: 6
           from: "00:00:53,20"
           to: "00:01:02,29"
-          text: ~
+          text: "io quando arrivavo su, venivano tutti questi ragazzi di Reggio, sembrava che... “Ma hai visto i miei?”."
         sequence-7:
           s: 7
           from: "00:01:02,29"
           to: "00:01:16,16"
-          text: ~
+          text: "Tutti a sentire qualcosa quello che c’era, secondo me gli portavo la vita io che ero piccolina lì, una mezza zingara perché sai vestita un po’ com’ero e sempre sporca sempre..."
         sequence-8:
           s: 8
           from: "00:01:16,16"
           to: "00:01:28,04"
-          text: ~
+          text: "senza modi di dire perché oh, ti lavavi nel fosso quando ti fermavi da qualche parte, anche ci bevevi, anche nel fosso,"
         sequence-9:
           s: 9
           from: "00:01:28,04"
           to: "00:01:35,18"
-          text: ~
+          text: "delle volte avevi una sete da morire, solo che trovavi in un buchetto un po’ d’acqua... basta bere."
         sequence-10:
           s: 10
           from: "00:01:35,18"
@@ -58,27 +58,27 @@ it:
           s: 11
           from: "00:01:36,10"
           to: "00:01:46,29"
-          text: ~
+          text: "Io dico che siamo nati già vecchi, però è stato un crescere, crescere di continuo"
         sequence-12:
           s: 12
           from: "00:01:46,29"
           to: "00:01:55,05"
-          text: ~
+          text: "perché quello di oggi forse te lo scordavi ma pensavi c’è il domani, domani cosa faccio"
         sequence-13:
           s: 13
           from: "00:01:55,05"
           to: "00:02:06,00"
-          text: ~
+          text: "e poi dopo ma adesso queste cose non me le posso scordare... Avevi sempre il tuo cervello che lavorava, lavorava, lavorava.Secondo me io dico"
         sequence-14:
           s: 14
           from: "00:02:06,00"
           to: "00:02:14,06"
-          text: ~
+          text: "ecco partivo da Reggio e cominciavo a pensare, poi tute queste cose, queste cose, quelle che non avevo scritto..."
         sequence-15:
           s: 15
           from: "00:02:14,06"
           to: "00:02:28,24"
-          text: ~
+          text: "poi arrivavo ad Albinea dove cominciavo a ripensare, tanto per dire, poi arrivavo a Casina dovevo ancora pensare che non mi dimenticassi qualcosa e così. Così arrivavo su, una giornata mi ci voleva per arrivare a Secchio."
         sequence-16:
           s: 16
           from: "00:02:28,24"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:02:29,26"
           to: "00:02:35,10"
-          text: ~
+          text: "Comunque secondo me le donne hanno dato tanto aiuto,"
         sequence-18:
           s: 18
           from: "00:02:35,10"
@@ -98,22 +98,22 @@ it:
           s: 19
           from: "00:02:37,19"
           to: "00:02:43,04"
-          text: ~
+          text: "perché come facevano a sapere questi ragazzi quando succedeva qualcosa, se non c’erano queste donne"
         sequence-20:
           s: 20
           from: "00:02:43,04"
           to: "00:02:55,14"
-          text: ~
+          text: "che potevano correre qui o là... si adoperavano anche i bambini, prendevano i bimbi magari e dai corri là, vai a dire ai partigiani che scappino che ci sono i tedeschi, così."
         sequence-21:
           s: 21
           from: "00:02:55,14"
           to: "00:03:02,28"
-          text: ~
+          text: "Si usava tutto allora. Però secondo me le donne sono state importanti ecco."
         sequence-22:
           s: 22
           from: "00:03:02,28"
           to: "00:03:12,17"
-          text: ~
+          text: "Non perché c’ero io perché io mi tengo un po’ fuori, come è finita per me è finita, come è finita per mia sorella."
         sequence-23:
           s: 23
           from: "00:03:12,17"
@@ -123,22 +123,22 @@ it:
           s: 24
           from: "00:03:17,12"
           to: "00:03:26,17"
-          text: ~
+          text: "Anche per dire, anche mio marito era un partigiano però lui era su era... però lui lo faceva lì da casa,"
         sequence-25:
           s: 25
           from: "00:03:26,17"
           to: "00:03:31,11"
-          text: ~
+          text: "era con Casoli quello di Berzana."
         sequence-26:
           s: 26
           from: "00:03:31,11"
           to: "00:03:37,19"
-          text: ~
+          text: "Anche lui poi finita la guerra è finito tutto lui è tornato a casa sua"
         sequence-27:
           s: 27
           from: "00:03:37,19"
           to: "00:03:48,12"
-          text: ~
+          text: "ma lui stava già a casa sua, faceva quello che facevano i partigiani lì, insomma stavano attenti di scappare quando era ora, facevano quello che potevano."
         sequence-28:
           s: 28
           from: "00:03:48,12"
@@ -148,14 +148,14 @@ it:
           s: 29
           from: "00:03:51,25"
           to: "00:04:01,20"
-          text: ~
+          text: "Però per portare certi documenti, certe cose importanti ci voleva proprio della gente che avesse voglia di correre,"
         sequence-30:
           s: 30
           from: "00:04:01,20"
           to: "00:04:07,23"
-          text: ~
+          text: "che non avevi neanche la bicicletta perché dove andavi?"
         sequence-31:
           s: 31
           from: "00:04:07,23"
           to: "00:04:18,15"
-          text: ~
+          text: "Andavi così senza niente per le strade così. Quando avevi delle persone da portare su a seconda dove le prendevi."
