@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:02:34,06"
           to: "00:02:41,21"
-          text: ~
+          text: "Perché al comando io avevo... io ero segretario ma avevo anche due staffette del comando."
         sequence-28:
           s: 28
           from: "00:02:41,21"
@@ -148,12 +148,12 @@ it:
           s: 29
           from: "00:02:43,28"
           to: "00:02:50,01"
-          text: ~
+          text: "Una, Carmen, nome di battaglia, e una, Vera, che era una slava."
         sequence-30:
           s: 30
           from: "00:02:50,01"
           to: "00:02:54,14"
-          text: ~
+          text: "Quelle lì facevano parte al comando della brigata."
         sequence-31:
           s: 31
           from: "00:02:54,14"
@@ -163,37 +163,37 @@ it:
           s: 32
           from: "00:02:55,09"
           to: "00:02:58,26"
-          text: ~
+          text: "La lotta partigiana è stata questa."
         sequence-33:
           s: 33
           from: "00:02:58,26"
           to: "00:03:04,20"
-          text: ~
+          text: "Cioè sono stati 14 mesi pieni di tutte queste azioni."
         sequence-34:
           s: 34
           from: "00:03:04,20"
           to: "00:03:11,29"
-          text: ~
+          text: "Se non c’erano tutti i giorni... c’erano uno una sera, uno quell’altra, uno quell’altra."
         sequence-35:
           s: 35
           from: "00:03:11,29"
           to: "00:03:15,24"
-          text: ~
+          text: "Però io ho fatto questo lavoro sempre di continuo."
         sequence-36:
           s: 36
           from: "00:03:15,24"
           to: "00:03:25,10"
-          text: ~
+          text: "Se non ero alla macchina da scrivere, ero in bicicletta che andavo o là o a Bologna o da una parte o dall’altra,"
         sequence-37:
           s: 37
           from: "00:03:25,10"
           to: "00:03:38,00"
-          text: ~
+          text: "ma più o meno è sempre stata una lotta continua di queste cose, di queste azioni, di morti,"
         sequence-38:
           s: 38
           from: "00:03:38,00"
           to: "00:03:43,03"
-          text: ~
+          text: "perché purtroppo le battaglie c’erano... i morti ci sono stati."
         sequence-39:
           s: 39
           from: "00:03:43,03"
@@ -203,4 +203,4 @@ it:
           s: 40
           from: "00:03:44,09"
           to: "00:03:47,13"
-          text: ~
+          text: "Sono sempre stati 14 mesi di battaglie."

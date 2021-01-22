@@ -2,28 +2,28 @@ it:
   lidia-valeriani:
     chapter-9:
       c: 9
-      title: ~
+      title: "Azione militare (Medaglia d’Argento)"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:17,07"
-          text: ~
+          text: "Nella bassa reggiana noi avevamo tra Limidi, Soliera, Carpi... insomma tutta quella zona lì, noi avevamo un po’ ammassato tutte nostre forze, molte delle nostre forze."
         sequence-2:
           s: 2
           from: "00:00:17,07"
           to: "00:00:21,12"
-          text: ~
+          text: "Perché lì tutte le case erano con noi."
         sequence-3:
           s: 3
           from: "00:00:21,12"
           to: "00:00:33,25"
-          text: ~
+          text: "Tutti i posti erano... Avevamo avuto anche un periodo che la chiamavo una zona libera, cioè che non c’entrava nessuno."
         sequence-4:
           s: 4
           from: "00:00:33,25"
           to: "00:00:37,05"
-          text: ~
+          text: "Però c’è stato"
         sequence-5:
           s: 5
           from: "00:00:37,05"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:39,17"
           to: "00:00:50,12"
-          text: ~
+          text: "tra i nazifascisti, si vede che avevano... per quella zona lì c’avevano ragionato su anche loro, non solo noi..."
         sequence-7:
           s: 7
           from: "00:00:50,12"
           to: "00:00:55,28"
-          text: ~
+          text: "Allora a un certo punto hanno deciso di fare un rastrellamento per liberare la zona."
         sequence-8:
           s: 8
           from: "00:00:55,28"
@@ -48,12 +48,12 @@ it:
           s: 9
           from: "00:00:56,29"
           to: "00:01:07,09"
-          text: ~
+          text: "Ma un rastrellamento con delle forze, con delle mitragliatrici, con delle forze pesanti, delle armi pesanti"
         sequence-10:
           s: 10
           from: "00:01:07,09"
           to: "00:01:15,06"
-          text: ~
+          text: "per liberare questa zona che avrebbero distrutto un po’ tutta la nostra organizzazione diciamo."
         sequence-11:
           s: 11
           from: "00:01:15,06"
@@ -63,17 +63,17 @@ it:
           s: 12
           from: "00:01:16,18"
           to: "00:01:23,00"
-          text: ~
+          text: "Allora ci siamo riuniti al comando: “Qui c’è da andare”,"
         sequence-13:
           s: 13
           from: "00:01:23,00"
           to: "00:01:38,15"
-          text: ~
+          text: "c’è la solita storia della staffetta che deve partire e deve affrontare questo combattimento – perché era un vero combattimento quello lì, di forze –"
         sequence-14:
           s: 14
           from: "00:01:38,15"
           to: "00:01:49,22"
-          text: ~
+          text: "e andare a avvisare tutti i nostri, perché se no li massacrano se non sono pronti a affrontare questo rastrellamento."
         sequence-15:
           s: 15
           from: "00:01:49,22"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:50,10"
           to: "00:01:58,11"
-          text: ~
+          text: "E se non sono pronti per affrontare vuole dire che si ritirano in tempo prima di essere tutti massacrati."
         sequence-17:
           s: 17
           from: "00:01:58,11"
@@ -93,12 +93,12 @@ it:
           s: 18
           from: "00:01:59,06"
           to: "00:02:01,15"
-          text: ~
+          text: "Un bel momento dico: “Allora ci vado io”."
         sequence-19:
           s: 19
           from: "00:02:01,15"
           to: "00:02:06,01"
-          text: ~
+          text: "Della zona ero già pratica perché là ci andavo spesso."
         sequence-20:
           s: 20
           from: "00:02:06,01"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:02:08,28"
           to: "00:02:13,28"
-          text: ~
+          text: "Avevamo tutte delle famiglie di contadini, che erano delle famiglie meravigliose,"
         sequence-22:
           s: 22
           from: "00:02:13,28"
@@ -118,12 +118,12 @@ it:
           s: 23
           from: "00:02:14,24"
           to: "00:02:19,03"
-          text: ~
+          text: "e dico: “Parto, datemi la rivoltella e vado”."
         sequence-24:
           s: 24
           from: "00:02:19,03"
           to: "00:02:29,08"
-          text: ~
+          text: "Gli ordini più o meno, quelli che si poteva si tenevano nel cervello e si tiravan fuori quando era il momento... e vado."
         sequence-25:
           s: 25
           from: "00:02:29,08"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:30,23"
           to: "00:02:34,02"
-          text: ~
+          text: "Allora incontro questa pattuglia e cosa faccio?"
         sequence-27:
           s: 27
           from: "00:02:34,02"
@@ -143,17 +143,17 @@ it:
           s: 28
           from: "00:02:36,06"
           to: "00:02:40,09"
-          text: ~
+          text: "Mi intimano l’alt. Io tiro fuori la mia rivoltella e sparo,"
         sequence-29:
           s: 29
           from: "00:02:40,09"
           to: "00:02:58,29"
-          text: ~
+          text: "sparo mentre vado in bicicletta... e vado, sparo fin quando riesco e continuo a andare, e vedo ... arrivo al punto giusto dove mi potevo fermare"
         sequence-30:
           s: 30
           from: "00:02:58,29"
           to: "00:03:05,22"
-          text: ~
+          text: "e che dovevo poi avvisare tutti quelli che dopo ci sono andati...e lì poi abbiamo fatto presto a darci voce."
         sequence-31:
           s: 31
           from: "00:03:05,22"
@@ -163,22 +163,22 @@ it:
           s: 32
           from: "00:03:07,07"
           to: "00:03:15,03"
-          text: ~
+          text: "E sono riuscita a passare tra questi spari, queste pallottole,"
         sequence-33:
           s: 33
           from: "00:03:15,03"
           to: "00:03:28,10"
-          text: ~
+          text: "questo disastro perché quando c’eran loro che sparavano non avevano bisogno di risparmiare una pallottola perché dopo là non ce l’ho."
         sequence-34:
           s: 34
           from: "00:03:28,10"
           to: "00:03:33,26"
-          text: ~
+          text: "Cioè, noi dovevamo fare anche questo, ma loro ce n’avevano in abbondanza."
         sequence-35:
           s: 35
           from: "00:03:33,26"
           to: "00:03:44,15"
-          text: ~
+          text: "E ci sono riuscita, è riuscito il combattimento, è riuscito tutto e si sono salvati."
         sequence-36:
           s: 36
           from: "00:03:44,15"
@@ -188,29 +188,29 @@ it:
           s: 37
           from: "00:03:45,06"
           to: "00:03:57,11"
-          text: ~
+          text: "E a pensarci noi ridiamo ma si sono salvati... sai quanti ragazzi si sono salvati che potevano morire, quasi tutti, perché li prendevano in un momento."
         sequence-38:
           s: 38
           from: "00:03:57,11"
           to: "00:04:06,10"
-          text: ~
+          text: "Io non sapevo neanche che questa era stata... cioè che era stato un episodio conosciuto ecc."
         sequence-39:
           s: 39
           from: "00:04:06,10"
           to: "00:04:15,20"
-          text: ~
+          text: "Perché mi sono vista un giorno arrivare a casa i carabinieri che mi davano questa notizia,"
         sequence-40:
           s: 40
           from: "00:04:15,20"
           to: "00:04:26,03"
-          text: ~
+          text: "che mi era stata... che ero stata premiata dall’esercito... dallo Stato insomma,"
         sequence-41:
           s: 41
           from: "00:04:26,03"
           to: "00:04:29,11"
-          text: ~
+          text: "di questa medaglia d’argento al valore militare,"
         sequence-42:
           s: 42
           from: "00:04:29,11"
           to: "00:04:39,19"
-          text: ~
+          text: "che io non sono stata proprio molto orgogliosa, che non sapevo che da questo potevo anche guadagnarmi questa bella medaglia."

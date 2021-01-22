@@ -2,23 +2,23 @@ it:
   lidia-valeriani:
     chapter-10:
       c: 10
-      title: ~
+      title: "Incontro con Carmen Zanti"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,24"
           to: "00:00:05,20"
-          text: ~
+          text: "Siamo andati a Puianello, alle Forche, dalla Carmen Zanti,"
         sequence-2:
           s: 2
           from: "00:00:05,20"
           to: "00:00:15,07"
-          text: ~
+          text: "che lei era una delle organizzatrici e che era nel partito da anni, con il padre, e che era stata in Francia, ecc..."
         sequence-3:
           s: 3
           from: "00:00:15,07"
           to: "00:00:21,27"
-          text: ~
+          text: "Il famoso Zanti che poi han fucilato alla Zucchi."
         sequence-4:
           s: 4
           from: "00:00:21,27"
@@ -28,12 +28,12 @@ it:
           s: 5
           from: "00:00:22,29"
           to: "00:00:36,07"
-          text: ~
+          text: "E lei, il partito le aveva dato il compito... che lei a Modena era poi già organizzata, aveva già dei contatti con Modena;"
         sequence-6:
           s: 6
           from: "00:00:36,07"
           to: "00:00:47,07"
-          text: ~
+          text: "lei sì che andava già, che trasportava già delle armi un po’ in giro, lei e mia cognata la Viani Iside;"
         sequence-7:
           s: 7
           from: "00:00:47,07"
@@ -43,17 +43,17 @@ it:
           s: 8
           from: "00:00:49,05"
           to: "00:00:52,28"
-          text: ~
+          text: "e siamo andati là, e con lei mi sono messa d’accordo,"
         sequence-9:
           s: 9
           from: "00:00:52,28"
           to: "00:01:01,11"
-          text: ~
+          text: "al mattino, siamo passati da casa che non c’era nessuno perché eran tutti riuniti in una stalla, non c’era neanche mia madre..."
         sequence-10:
           s: 10
           from: "00:01:01,11"
           to: "00:01:12,22"
-          text: ~
+          text: "E ho preso la bicicletta e un po’ di roba, poi son tornata a San Bartolomeo perché a star lì non mi fidavo, perché se c’era qualcuno che faceva la spia..."
         sequence-11:
           s: 11
           from: "00:01:12,22"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:13,26"
           to: "00:01:21,09"
-          text: ~
+          text: "e al mattino son partita, son andata a prendere la Zanti e siamo andate a Modena, in bicicletta."
         sequence-13:
           s: 13
           from: "00:01:21,09"
@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:22,29"
           to: "00:01:26,17"
-          text: ~
+          text: "M’ha portato da Alfeo Corassoli,"
         sequence-15:
           s: 15
           from: "00:01:26,17"
           to: "00:01:34,17"
-          text: ~
+          text: "dove là ho trovato il famoso avvocato Poppi"
         sequence-16:
           s: 16
           from: "00:01:34,17"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:36,15"
           to: "00:01:47,11"
-          text: ~
+          text: "e là ho incominciato, da quel giorno, la lotta partigiana, la vera lotta partigiana, io ho conosciuto da lì la vera lotta partigiana."
         sequence-18:
           s: 18
           from: "00:01:47,11"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:47,27"
           to: "00:01:51,27"
-          text: ~
+          text: "Con i partigiani mi sono trovata una sorella,"
         sequence-20:
           s: 20
           from: "00:01:51,27"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:53,03"
           to: "00:02:01,29"
-          text: ~
+          text: "cioè diciamo che ero come sua sorella, sono stata diciamo benvoluta da tutti, rispettata per tutti."
         sequence-22:
           s: 22
           from: "00:02:01,29"
@@ -118,24 +118,24 @@ it:
           s: 23
           from: "00:02:03,23"
           to: "00:02:06,17"
-          text: ~
+          text: "Una cosa meravigliosa."
         sequence-24:
           s: 24
           from: "00:02:06,17"
           to: "00:02:25,12"
-          text: ~
+          text: "Nelle famiglie che in una in particolare ci sono stata 5 o 6 mesi, una famiglia di contadini che abitavano a Saliceto San Giuliano che erano... mi sentivo a casa mia."
         sequence-25:
           s: 25
           from: "00:02:25,12"
           to: "00:02:28,23"
-          text: ~
+          text: "E loro non sapevano neanche da dove venivo."
         sequence-26:
           s: 26
           from: "00:02:28,23"
           to: "00:02:33,09"
-          text: ~
+          text: "Perché credevano che venissi dalle montagne bolognesi;"
         sequence-27:
           s: 27
           from: "00:02:33,09"
           to: "00:02:36,04"
-          text: ~
+          text: "dopo la guerra hanno imparato che ero una reggiana."
