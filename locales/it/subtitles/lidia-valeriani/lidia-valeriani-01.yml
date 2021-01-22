@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,23"
           to: "00:00:04,15"
-          text: ~
+          text: "Mi chiamo Lidia Valeriani,"
         sequence-2:
           s: 2
           from: "00:00:04,15"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:06,18"
           to: "00:00:12,20"
-          text: ~
+          text: "sono nata il 23 gennaio del 1923"
         sequence-4:
           s: 4
           from: "00:00:12,20"
           to: "00:00:15,22"
-          text: ~
+          text: "a Montecavolo di Quattro Castella"
         sequence-5:
           s: 5
           from: "00:00:15,22"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:17,15"
           to: "00:00:22,01"
-          text: ~
+          text: "in una frazioncina di Montecavolo che era chiamata Scampate,"
         sequence-7:
           s: 7
           from: "00:00:22,01"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:27,09"
           to: "00:00:31,10"
-          text: ~
+          text: "forse in brutto periodo fascista"
         sequence-9:
           s: 9
           from: "00:00:31,10"
           to: "00:00:34,16"
-          text: ~
+          text: "perché mio padre era già un perseguitato."
         sequence-10:
           s: 10
           from: "00:00:34,16"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:39,28"
           to: "00:00:44,05"
-          text: ~
+          text: "Prima di me avevo altri due fratelli"
         sequence-12:
           s: 12
           from: "00:00:44,05"
@@ -68,12 +68,12 @@ it:
           s: 13
           from: "00:00:45,13"
           to: "00:00:53,06"
-          text: ~
+          text: "poi ne sono nati altri sei: eravamo una famiglia di nove fratelli."
         sequence-14:
           s: 14
           from: "00:00:53,06"
           to: "00:00:58,02"
-          text: ~
+          text: "Anche quando abbiamo incominciato ad andare a scuola, fin dai 6 anni,"
         sequence-15:
           s: 15
           from: "00:00:58,02"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:00:59,29"
           to: "00:01:10,25"
-          text: ~
+          text: "già capivamo che noi che eravamo figli di antifascisti c’erano delle differenze da quelli che"
         sequence-17:
           s: 17
           from: "00:01:10,25"
           to: "00:01:20,16"
-          text: ~
+          text: "erano figli di fascisti e che erano già iscritti ai balilla, alle piccole italiane ecc. A scuola c’erano già queste cose."
         sequence-18:
           s: 18
           from: "00:01:20,16"
@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:01:22,09"
           to: "00:01:28,15"
-          text: ~
+          text: "Io già a 6 anni che le vedevo e le capivo"
         sequence-20:
           s: 20
           from: "00:01:28,15"
           to: "00:01:41,23"
-          text: ~
+          text: "chiedevo a mio padre il perché noi eravamo considerati a scuola con delle cose diverse dagli altri."
         sequence-21:
           s: 21
           from: "00:01:41,23"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:43,00"
           to: "00:01:52,15"
-          text: ~
+          text: "E mio padre cercava di spiegarmi un po’, nel modo che poteva farmelo capire perché ero una bambina ancora."
         sequence-23:
           s: 23
           from: "00:01:52,15"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:01:53,11"
           to: "00:02:02,28"
-          text: ~
+          text: "Lui non ci avrebbe mai iscritto alle piccole italiane e neanche ai balilla i maschi ecc."
         sequence-25:
           s: 25
           from: "00:02:02,28"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:06,10"
           to: "00:02:22,25"
-          text: ~
+          text: "Poi andando avanti noi bambini capivamo già, io capivo già un po’ com’erano le cose, che c’era già la clandestinità per quelli che erano antifascisti"
         sequence-27:
           s: 27
           from: "00:02:22,25"
@@ -143,14 +143,14 @@ it:
           s: 28
           from: "00:02:26,26"
           to: "00:02:34,02"
-          text: ~
+          text: "e quando avevo 10 anni, che oramai le cose si capivano."
         sequence-29:
           s: 29
           from: "00:02:34,02"
           to: "00:02:44,00"
-          text: ~
+          text: "Nel ’33 quando cominciavano a mettere in galera tanta gente – mettevano in galera anche prima, li picchiavano anche prima –"
         sequence-30:
           s: 30
           from: "00:02:44,00"
           to: "00:02:57,20"
-          text: ~
+          text: "ma noi, io ho incominciato a capire quando avevo 10 anni come stavano le cose e dei nostri vicini di casa qualcuno è stato arrestato del ’33."

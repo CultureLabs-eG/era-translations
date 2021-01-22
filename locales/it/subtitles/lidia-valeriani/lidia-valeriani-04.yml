@@ -2,18 +2,18 @@ it:
   lidia-valeriani:
     chapter-4:
       c: 4
-      title: ~
+      title: "Lavoro della familia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:06,28"
-          text: ~
+          text: "Mio padre prima di sposare mia madre"
         sequence-2:
           s: 2
           from: "00:00:06,28"
           to: "00:00:14,25"
-          text: ~
+          text: "era con una famiglia di contadini, la famiglia di contadini di mia madre, che allora li chiamavano “i servitori”."
         sequence-3:
           s: 3
           from: "00:00:14,25"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:15,25"
           to: "00:00:28,28"
-          text: ~
+          text: "Con dei soci di Montecavolo a lavorare, han messo su un, diciamo... una ditta, come posso dire... una ditta..."
         sequence-5:
           s: 5
           from: "00:00:28,28"
