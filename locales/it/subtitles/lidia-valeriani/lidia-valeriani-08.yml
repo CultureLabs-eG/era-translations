@@ -2,18 +2,18 @@ it:
   lidia-valeriani:
     chapter-8:
       c: 8
-      title: ~
+      title: "Attivitá partigiana; nome di battaglia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,05"
           to: "00:00:03,28"
-          text: ~
+          text: "Mi hanno messo il nome Aurora, e mi han detto:"
         sequence-2:
           s: 2
           from: "00:00:03,28"
           to: "00:00:09,11"
-          text: ~
+          text: "“Aurora qui ci vuole una fissa”, perché io ero fissa, perché lavoravo..."
         sequence-3:
           s: 3
           from: "00:00:09,11"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:19,21"
           to: "00:00:25,18"
-          text: ~
+          text: "ero disponibile giorno e notte, non era come quelle che erano a casa sua perché quelle facevano anche delle ore i suoi lavori di casa..."
         sequence-7:
           s: 7
           from: "00:00:25,18"
           to: "00:00:28,18"
-          text: ~
+          text: "lì ci voleva una che era sempre a disposizione."
         sequence-8:
           s: 8
           from: "00:00:28,18"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:29,11"
           to: "00:00:47,22"
-          text: ~
+          text: "E allora ho deciso io e ho detto va bene, impareremo. Sono andata a fare un corso di dattilografia, abbiamo preso una macchina da scrivere, ho imparato a scrivere a macchina e poi ho cominciato la mia vita piena."
         sequence-10:
           s: 10
           from: "00:00:47,22"
@@ -58,22 +58,22 @@ it:
           s: 11
           from: "00:00:49,05"
           to: "00:00:55,26"
-          text: ~
+          text: "Facevo la staffetta, facevo la segretaria, facevo tutto quello che c’era da fare."
         sequence-12:
           s: 12
           from: "00:00:55,26"
           to: "00:01:01,02"
-          text: ~
+          text: "Andavo a Bologna i primi tempi due volte alla settimana circa,"
         sequence-13:
           s: 13
           from: "00:01:01,02"
           to: "00:01:13,05"
-          text: ~
+          text: "a prendere armi e munizioni se c’era bisogno, ma più che altro ordini nuovi che venivano diciamo dal comando unico"
         sequence-14:
           s: 14
           from: "00:01:13,05"
           to: "00:01:19,12"
-          text: ~
+          text: "e poi dopo si dipendeva... C’era il comando unico"
         sequence-15:
           s: 15
           from: "00:01:19,12"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:21,11"
           to: "00:01:27,01"
-          text: ~
+          text: "e poi dopo c’erano tutti gli altri comandi fino arrivare alle brigate."
         sequence-17:
           s: 17
           from: "00:01:27,01"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:28,21"
           to: "00:01:38,06"
-          text: ~
+          text: "E ho lavorato continuamente partecipando a delle azioni quando c’era bisogno,"
         sequence-19:
           s: 19
           from: "00:01:38,06"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:39,20"
           to: "00:01:51,17"
-          text: ~
+          text: "a dei pedinamenti e facendo un po’ tutto, un po’ tutto questo della brigata diciamo."
         sequence-21:
           s: 21
           from: "00:01:51,17"
@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:01:52,24"
           to: "00:02:11,02"
-          text: ~
+          text: "Però avevamo poi diciamo i posti dove andavamo... i recapiti li chiamavamo, dove io andavo a portare la roba per tutti:"
         sequence-23:
           s: 23
           from: "00:02:11,02"
           to: "00:02:19,22"
-          text: ~
+          text: "quelli di Carpi, quelli di Fossi, quelli di tutta la bassa dove avevamo tutti i nostri partigiani"
         sequence-24:
           s: 24
           from: "00:02:19,22"
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:02:21,04"
           to: "00:02:30,26"
-          text: ~
+          text: "e là io portavo nei recapiti tutta la roba pronta e le staffette andavano poi nei recapiti..."
         sequence-26:
           s: 26
           from: "00:02:30,26"
           to: "00:02:34,06"
-          text: ~
+          text: "le diverse staffette perché c’erano diverse."
         sequence-27:
           s: 27
           from: "00:02:34,06"
