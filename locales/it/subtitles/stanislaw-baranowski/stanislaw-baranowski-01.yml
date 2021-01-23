@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:47,29"
           to: "00:00:53,16"
-          text: ~
+          text: "Amici scout, come me,"
         sequence-14:
           s: 14
           from: "00:00:53,16"
@@ -78,12 +78,12 @@ it:
           s: 15
           from: "00:00:54,27"
           to: "00:01:15,17"
-          text: ~
+          text: "mi ricordo i loro nomi, c'erano Mietek Wiącek, Heniek Balas, Stefan Wojakowski, Tadeusz Jagier, Jozef Smółka, Leszek Janiszewski e molti, molti altri scout."
         sequence-16:
           s: 16
           from: "00:01:15,17"
           to: "00:01:25,07"
-          text: ~
+          text: "Iniziammo da subito durante la guerra incontrarci e organizzarci."
         sequence-17:
           s: 17
           from: "00:01:25,07"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:34,13"
           to: "00:01:44,01"
-          text: ~
+          text: "che il nostro reparto era stato assegnato al quartier generale della difesa di Varsavia"
         sequence-20:
           s: 20
           from: "00:01:44,01"
