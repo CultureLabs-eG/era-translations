@@ -18,27 +18,27 @@ it:
           s: 3
           from: "00:00:07,24"
           to: "00:00:13,04"
-          text: ~
+          text: "Se non fosse scoppiata la guerra, sarei andato alla scuola di aeronautica e meccanica per diventare un pilota."
         sequence-4:
           s: 4
           from: "00:00:13,04"
           to: "00:00:15,00"
-          text: ~
+          text: "Era il mio sogno."
         sequence-5:
           s: 5
           from: "00:00:15,00"
           to: "00:00:18,14"
-          text: ~
+          text: "Nel 1939 ero in un campo scout."
         sequence-6:
           s: 6
           from: "00:00:18,14"
           to: "00:00:22,09"
-          text: ~
+          text: "In agosto stavamo tornando dal campo scout."
         sequence-7:
           s: 7
           from: "00:00:22,09"
           to: "00:00:32,16"
-          text: ~
+          text: "Non raggiungemmo la Stazione di Varsavia Centrale, ma ci fecero scendere alla Stazione Est."
         sequence-8:
           s: 8
           from: "00:00:32,16"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:33,00"
           to: "00:00:39,04"
-          text: ~
+          text: "Ero, facevo parte del 42° Reparto Scout in via Rózana."
         sequence-10:
           s: 10
           from: "00:00:39,04"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:41,20"
           to: "00:00:46,15"
-          text: ~
+          text: "La nostra attività ebbe inizio negli scout."
         sequence-12:
           s: 12
           from: "00:00:46,15"
