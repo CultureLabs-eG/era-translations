@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:00,17"
           to: "00:00:02,19"
-          text: ~
+          text: "Mi chiamo Stanisław Baranowski."
         sequence-2:
           s: 2
           from: "00:00:02,19"
           to: "00:00:07,24"
-          text: ~
+          text: "Sono nato il 16 novembre 1924 a Varsavia."
         sequence-3:
           s: 3
           from: "00:00:07,24"
