@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:47,29"
           to: "00:00:53,16"
-          text: "Amici scout, come me,"
+          text: "Compagni scout, come me,"
         sequence-14:
           s: 14
           from: "00:00:53,16"
@@ -123,22 +123,22 @@ it:
           s: 24
           from: "00:02:06,28"
           to: "00:02:16,16"
-          text: ~
+          text: "Fummo classificati come corrieri, guide di Varsavia."
         sequence-25:
           s: 25
           from: "00:02:16,16"
           to: "00:02:21,19"
-          text: ~
+          text: "Perché le unità che allora erano di stanza a Varsavia,"
         sequence-26:
           s: 26
           from: "00:02:21,19"
           to: "00:02:25,16"
-          text: ~
+          text: "erano soldati che non conoscevano Varsavia."
         sequence-27:
           s: 27
           from: "00:02:25,16"
           to: "00:02:28,29"
-          text: ~
+          text: "E così iniziò la mia avventura con la guerra."
         sequence-28:
           s: 28
           from: "00:02:28,29"
@@ -148,24 +148,24 @@ it:
           s: 29
           from: "00:02:30,06"
           to: "00:02:34,05"
-          text: ~
+          text: "Eravamo stati educati diversamente prima della guerra."
         sequence-30:
           s: 30
           from: "00:02:34,05"
           to: "00:02:39,17"
-          text: ~
+          text: "Facevo parte degli scout da quando avevo docici anni,"
         sequence-31:
           s: 31
           from: "00:02:39,17"
           to: "00:02:43,05"
-          text: ~
+          text: "cioè a quel punto da quasi quattro o cinque anni."
         sequence-32:
           s: 32
           from: "00:02:43,05"
           to: "00:02:52,05"
-          text: ~
+          text: "E lo scoutismo ci formò in una maniera piuttosto diversa da oggi."
         sequence-33:
           s: 33
           from: "00:02:52,05"
           to: "00:03:13,26"
-          text: ~
+          text: "C'era una base: amore per la patria, preparazione fisica, sport e altre cose."
