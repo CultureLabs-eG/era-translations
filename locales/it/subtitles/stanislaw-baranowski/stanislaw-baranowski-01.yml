@@ -78,12 +78,12 @@ it:
           s: 15
           from: "00:00:54,27"
           to: "00:01:15,17"
-          text: "mi ricordo i loro nomi, c'erano Mietek Wiącek, Heniek Balas, Stefan Wojakowski, Tadeusz Jagier, Jozef Smółka, Leszek Janiszewski e molti, molti altri scout."
+          text: "i nomi che mi ricordo sono Mietek Wiącek, Heniek Balas, Stefan Wojakowski, Tadeusz Jagier, Jozef Smółka, Leszek Janiszewski e molti, molti altri scout."
         sequence-16:
           s: 16
           from: "00:01:15,17"
           to: "00:01:25,07"
-          text: "Iniziammo da subito durante la guerra incontrarci e organizzarci."
+          text: "Iniziammo da subito durante la guerra a incontrarci e organizzarci."
         sequence-17:
           s: 17
           from: "00:01:25,07"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:26,20"
           to: "00:01:34,13"
-          text: ~
+          text: "A un certo punto, non mi ricordo come fosse venuto fuori, qualcuno disse"
         sequence-19:
           s: 19
           from: "00:01:34,13"
@@ -103,12 +103,12 @@ it:
           s: 20
           from: "00:01:44,01"
           to: "00:01:48,06"
-          text: ~
+          text: "che si trovava presso il Palazzo Myśliwski nel parco Łazienki Królewskie,"
         sequence-21:
           s: 21
           from: "00:01:48,06"
           to: "00:01:54,01"
-          text: ~
+          text: "l'entrata qui, dalla via 29 Novembre."
         sequence-22:
           s: 22
           from: "00:01:54,01"
