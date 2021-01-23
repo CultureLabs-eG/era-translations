@@ -2,7 +2,7 @@ it:
   stanislaw-baranowski:
     chapter-1:
       c: 1
-      title: ~
+      title: "Introduzione; Scoutismo"
       subtitles:
         sequence-1:
           s: 1
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:01:55,08"
           to: "00:02:06,28"
-          text: ~
+          text: "Andammo lì, alcuni di noi."
         sequence-24:
           s: 24
           from: "00:02:06,28"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:30,06"
           to: "00:02:34,05"
-          text: "Eravamo stati educati diversamente prima della guerra."
+          text: "Eravamo stati educati con uno spirito diverso prima della guerra."
         sequence-30:
           s: 30
           from: "00:02:34,05"
