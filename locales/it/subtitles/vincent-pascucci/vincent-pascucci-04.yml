@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:04:15,08"
           to: "00:04:24,04"
-          text: ~
+          text: "Nel nostro dipartimento di polizia bastonavano le piante dei piedi di chi veniva arrestato."
         sequence-33:
           s: 33
           from: "00:04:24,04"
@@ -173,27 +173,27 @@ it:
           s: 34
           from: "00:04:24,24"
           to: "00:04:33,11"
-          text: ~
+          text: "Alla domanda sulla vita quotidiana, rispondiamo che tutta la popolazione francese,"
         sequence-35:
           s: 35
           from: "00:04:33,11"
           to: "00:04:44,26"
-          text: ~
+          text: "eccezion fatta di una minoranza che ha approfittato della situazione e si è occupata del mercato nero, soffriva la fame,"
         sequence-36:
           s: 36
           from: "00:04:44,26"
           to: "00:04:55,23"
-          text: ~
+          text: "mentre oggigiorno gli studenti possono comprarsi il cornetto al cioccolato dal panettiere davanti la scuola senza problemi."
         sequence-37:
           s: 37
           from: "00:04:55,23"
           to: "00:05:02,09"
-          text: ~
+          text: "A quei tempi ci veniva concesso un pezzetto di pane al giorno, o 90 grammi di carne a settimana."
         sequence-38:
           s: 38
           from: "00:05:02,09"
           to: "00:05:08,22"
-          text: ~
+          text: "Avevi bisogno di una tessera annonaria; altrimenti eri costretto a comprare al mercato nero."
         sequence-39:
           s: 39
           from: "00:05:08,22"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:05:10,28"
           to: "00:05:16,08"
-          text: ~
+          text: "I nazisti razionarono tutto in Francia."
         sequence-41:
           s: 41
           from: "00:05:16,08"
@@ -213,9 +213,9 @@ it:
           s: 42
           from: "00:05:23,12"
           to: "00:05:30,19"
-          text: ~
+          text: "La Francia era stata autosufficiente grazie alla sua agricoltura e industria."
         sequence-43:
           s: 43
           from: "00:05:30,19"
           to: "00:05:36,15"
-          text: ~
+          text: "Ci hanno portato via ogni cosa, tutti i macchinari, ogni cosa."
