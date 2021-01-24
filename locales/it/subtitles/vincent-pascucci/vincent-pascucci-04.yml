@@ -33,27 +33,27 @@ it:
           s: 6
           from: "00:00:45,21"
           to: "00:00:54,27"
-          text: ~
+          text: "Dovevamo riunirci in gruppi di tre compagni."
         sequence-7:
           s: 7
           from: "00:00:54,27"
           to: "00:01:06,23"
-          text: ~
+          text: "In caso di arresto sotto tortura avremmo potuto confessare solo due nomi."
         sequence-8:
           s: 8
           from: "00:01:06,23"
           to: "00:01:10,17"
-          text: ~
+          text: "Uno dei tre era responsabile."
         sequence-9:
           s: 9
           from: "00:01:10,17"
           to: "00:01:19,18"
-          text: ~
+          text: "Abbiamo creato una specie di ragnatela, con questi triangoli, a tutti i livelli organizzativi."
         sequence-10:
           s: 10
           from: "00:01:19,18"
           to: "00:01:31,19"
-          text: ~
+          text: "Questa era la struttura dell'organizzazione clandestina nel Partito Comunista, che poi si applicava ai cecchini e ai partigiani."
         sequence-11:
           s: 11
           from: "00:01:31,19"
@@ -63,17 +63,17 @@ it:
           s: 12
           from: "00:01:32,10"
           to: "00:01:39,14"
-          text: ~
+          text: "Ci strutturammo per regioni e settori."
         sequence-13:
           s: 13
           from: "00:01:39,14"
           to: "00:01:48,14"
-          text: ~
+          text: "Le regioni furono numerate (io ero nella regione 7) e poi c'erano i settori."
         sequence-14:
           s: 14
           from: "00:01:48,14"
           to: "00:01:53,20"
-          text: ~
+          text: "Il nostro settore comprendeva tre o quattro comuni intorno a Nanterre."
         sequence-15:
           s: 15
           from: "00:01:53,20"
@@ -83,22 +83,22 @@ it:
           s: 16
           from: "00:01:54,19"
           to: "00:02:06,27"
-          text: ~
+          text: "Uno dei nostri compagni aveva un grande garage a casa dei suoi genitori."
         sequence-17:
           s: 17
           from: "00:02:06,27"
           to: "00:02:13,08"
-          text: ~
+          text: "C'era un piccolo magazzino dove abbiamo installato il nostro materiale."
         sequence-18:
           s: 18
           from: "00:02:13,08"
           to: "00:02:23,02"
-          text: ~
+          text: "Con il nostro ciclostile a mano, producevamo volantini."
         sequence-19:
           s: 19
           from: "00:02:23,02"
           to: "00:02:44,22"
-          text: ~
+          text: "I nostri capi ci davano i comunicati per la resistenza e noi riproducevamo e  distribuivamo i volantini."
         sequence-20:
           s: 20
           from: "00:02:44,22"
