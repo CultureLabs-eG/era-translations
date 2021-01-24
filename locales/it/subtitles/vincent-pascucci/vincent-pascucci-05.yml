@@ -233,7 +233,7 @@ it:
           s: 46
           from: "00:06:07,21"
           to: "00:06:20,10"
-          text: ~
+          text: "Prima del film stesso hanno mostrato notizie/informazioni curate dai nazisti, dalla polizia francese, dal governo francese."
         sequence-47:
           s: 47
           from: "00:06:20,10"
@@ -243,7 +243,7 @@ it:
           s: 48
           from: "00:06:23,05"
           to: "00:06:33,16"
-          text: ~
+          text: "È in quel momento che intervenivamo. Occupavamo la cabina dei proiezionisti e l'ufficio del direttore,"
         sequence-49:
           s: 49
           from: "00:06:33,16"
