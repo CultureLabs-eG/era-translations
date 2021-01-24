@@ -118,22 +118,22 @@ it:
           s: 23
           from: "00:03:11,15"
           to: "00:03:21,09"
-          text: ~
+          text: "È strano a pensarci bene: oggi le nostre cassette sono piene di pubblicità,"
         sequence-24:
           s: 24
           from: "00:03:21,09"
           to: "00:03:33,18"
-          text: ~
+          text: "allora rischiavamo la nostra vita, rischiavamo di essere catturati, picchiati e torturati."
         sequence-25:
           s: 25
           from: "00:03:33,18"
           to: "00:03:44,11"
-          text: ~
+          text: "Molti furono usati come ostaggi e fucilati. Questo fu il caso dei compagni, di cui ho parlato prima."
         sequence-26:
           s: 26
           from: "00:03:44,11"
           to: "00:03:50,20"
-          text: ~
+          text: "Sono stati semplicemente fucilati dopo un'azione di resistenza."
         sequence-27:
           s: 27
           from: "00:03:50,20"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:03:51,04"
           to: "00:03:58,11"
-          text: ~
+          text: "Quelli che dicono di non aver avuto paura in quel periodo, sono stupidi o bugiardi."
         sequence-29:
           s: 29
           from: "00:03:58,11"
@@ -153,12 +153,12 @@ it:
           s: 30
           from: "00:03:58,25"
           to: "00:04:02,26"
-          text: ~
+          text: "O non hanno fatto niente."
         sequence-31:
           s: 31
           from: "00:04:02,26"
           to: "00:04:15,08"
-          text: ~
+          text: "Non appena entravi nella resistenza, c'era sempre il pericolo di essere arrestati, con tutte le conseguenze."
         sequence-32:
           s: 32
           from: "00:04:15,08"
