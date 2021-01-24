@@ -2,13 +2,13 @@ it:
   vincent-pascucci:
     chapter-5:
       c: 5
-      title: ~
+      title: "Entrare in clandestinità; Attività"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:14,17"
-          text: ~
+          text: "Si può far parte del movimento di resistenza e avere una normale occupazione."
         sequence-2:
           s: 2
           from: "00:00:14,17"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:17,01"
           to: "00:00:23,08"
-          text: ~
+          text: "Io lavoravo nella fabbrica di Simca."
         sequence-4:
           s: 4
           from: "00:00:23,08"

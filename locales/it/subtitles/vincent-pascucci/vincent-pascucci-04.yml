@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:04,10"
           to: "00:00:10,07"
-          text: "Quando i primi furono arrestati capimmo che avevamo bisogno di una nuova forma organizzativa."
+          text: "Quando i primi furono arrestati capimmo che avevamo bisogno di una nuova struttura organizzativa."
         sequence-3:
           s: 3
           from: "00:00:10,07"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:26,20"
           to: "00:00:45,21"
-          text: "Le istruzioni ricevute dalla Gioventù Comunista o dal Partito Comunista erano di coordinare in triangoli."
+          text: "Le istruzioni ricevute dalla Gioventù Comunista o dal Partito Comunista erano di coordinarsi in triangoli."
         sequence-6:
           s: 6
           from: "00:00:45,21"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:23,02"
           to: "00:02:44,22"
-          text: "I nostri capi ci davano i comunicati per la resistenza e noi riproducevamo e  distribuivamo i volantini."
+          text: "I nostri capi ci davano i comunicati per la resistenza e noi riproducevamo e distribuivamo i volantini."
         sequence-20:
           s: 20
           from: "00:02:44,22"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:05:10,28"
           to: "00:05:16,08"
-          text: "I nazisti razionarono tutto in Francia."
+          text: "I nazisti razziarono tutto in Francia."
         sequence-41:
           s: 41
           from: "00:05:16,08"
