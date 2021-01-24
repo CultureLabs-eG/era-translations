@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:03:30,07"
           to: "00:03:36,26"
-          text: "Fu deciso che mi sarei dato alla macchia a Corèse."
+          text: "Fu deciso che mi sarei dato alla 'macchia' a Corèse."
         sequence-29:
           s: 29
           from: "00:03:36,26"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:03:51,11"
           to: "00:04:00,27"
-          text: ~
+          text: "La 'macchia' era sotto assedio, dopo aver fatto deragliare un treno tedesco pieno di deportati."
         sequence-32:
           s: 32
           from: "00:04:00,27"
@@ -168,22 +168,22 @@ it:
           s: 33
           from: "00:04:02,20"
           to: "00:04:11,29"
-          text: ~
+          text: "Ero già stato controllato più volte dalla polizia con i miei documenti d'identità falsi."
         sequence-34:
           s: 34
           from: "00:04:11,29"
           to: "00:04:18,02"
-          text: ~
+          text: "e realizzai che la situazione stava diventando critica."
         sequence-35:
           s: 35
           from: "00:04:18,02"
           to: "00:04:30,07"
-          text: ~
+          text: "Così tornai a Nanterre e dopo fui mandato a lavorare in una fabbrica nel dipartimento delle Marne."
         sequence-36:
           s: 36
           from: "00:04:30,07"
           to: "00:04:50,24"
-          text: ~
+          text: "Un giorno alcuni compagni e io - stavamo producendo piattaforme in cemento - mandammo un carro di cemento in una caserma tedesca."
         sequence-37:
           s: 37
           from: "00:04:50,24"
@@ -193,22 +193,22 @@ it:
           s: 38
           from: "00:04:52,29"
           to: "00:05:04,09"
-          text: ~
+          text: "Non abbiamo aspettato il nostro stipendio... Siamo partiti subito e sono tornato a Nanterre dove sono rimasto in clandestinità."
         sequence-39:
           s: 39
           from: "00:05:04,09"
           to: "00:05:13,19"
-          text: ~
+          text: "Avevo una piccola stanza nel seminterrato. Mio padre non sapeva dove fossi."
         sequence-40:
           s: 40
           from: "00:05:13,19"
           to: "00:05:21,02"
-          text: ~
+          text: "Pensava che fossi partito per la Germania, perché quando i nazisti e la polizia di Pétain"
         sequence-41:
           s: 41
           from: "00:05:21,02"
           to: "00:05:29,00"
-          text: ~
+          text: "non trovavano la persona che cercavano, si sono portati la sua famiglia."
         sequence-42:
           s: 42
           from: "00:05:29,00"
@@ -218,17 +218,17 @@ it:
           s: 43
           from: "00:05:29,24"
           to: "00:05:39,08"
-          text: ~
+          text: "Mentre ero in clandestinità, avevamo pochissime armi, qualche rivoltella."
         sequence-44:
           s: 44
           from: "00:05:39,08"
           to: "00:05:54,28"
-          text: ~
+          text: "Il mio compito era di organizzare un gruppo armato per proteggere coloro che si recavano in luogo pubblico per distribuire volantini o tenere un comizio."
         sequence-45:
           s: 45
           from: "00:05:54,28"
           to: "00:06:07,21"
-          text: ~
+          text: "L'unico intrattenimento consentito all'epoca era di andare al cinema."
         sequence-46:
           s: 46
           from: "00:06:07,21"
