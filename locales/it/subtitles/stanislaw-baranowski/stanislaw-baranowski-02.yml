@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:42,24"
           to: "00:01:47,21"
-          text: ~
+          text: "Queste erano tessere per i tedeschi. Perché erano tessere alimentari."
         sequence-20:
           s: 20
           from: "00:01:47,21"
@@ -108,12 +108,12 @@ it:
           s: 21
           from: "00:01:55,07"
           to: "00:02:01,06"
-          text: ~
+          text: "I negozi Wolfahrt avevano la carne, mentre quelli di Meinl erano negozi di alimentari."
         sequence-22:
           s: 22
           from: "00:02:01,06"
           to: "00:02:10,24"
-          text: ~
+          text: "E noi usavamo quelle tessere falsificate e andavamo in quei negozi."
         sequence-23:
           s: 23
           from: "00:02:10,24"
