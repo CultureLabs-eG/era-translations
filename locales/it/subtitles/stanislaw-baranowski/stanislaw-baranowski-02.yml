@@ -8,22 +8,22 @@ it:
           s: 1
           from: "00:00:00,08"
           to: "00:00:07,06"
-          text: ~
+          text: "Subito dopo la guerra, dopo la capitolazione a Varsavia regnava il caos, la fame."
         sequence-2:
           s: 2
           from: "00:00:07,06"
           to: "00:00:12,27"
-          text: ~
+          text: "Si iniziarono a formare i cosiddetti comitati SKO. I comitati del welfare."
         sequence-3:
           s: 3
           from: "00:00:12,27"
           to: "00:00:19,26"
-          text: ~
+          text: "Iniziammo a lavorare lì, il nostro gruppo di scout."
         sequence-4:
           s: 4
           from: "00:00:19,26"
           to: "00:00:28,12"
-          text: ~
+          text: "Lo scopo era quello di aiutare le persone che si trovavano nelle situazioni tragiche."
         sequence-5:
           s: 5
           from: "00:00:28,12"
