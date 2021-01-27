@@ -28,17 +28,17 @@ it:
           s: 5
           from: "00:00:28,12"
           to: "00:00:34,11"
-          text: ~
+          text: "Vale a dire o con il cibo o con qualcos'altro… All'inizio non c'era niente."
         sequence-6:
           s: 6
           from: "00:00:34,11"
           to: "00:00:40,12"
-          text: ~
+          text: "Con le tessere si poteva avere il cherosene o i detergenti. Semplicemente non c'era nulla."
         sequence-7:
           s: 7
           from: "00:00:40,12"
           to: "00:00:52,18"
-          text: ~
+          text: "Noi aiutavamo queste perspne. E io iniziai a lavorare con Wanda Jaskólska."
         sequence-8:
           s: 8
           from: "00:00:52,18"
@@ -48,12 +48,12 @@ it:
           s: 9
           from: "00:00:53,24"
           to: "00:00:59,14"
-          text: ~
+          text: "Era una professoressa di fracese alla Regine Edvige (scuola)."
         sequence-10:
           s: 10
           from: "00:00:59,14"
           to: "00:01:03,18"
-          text: ~
+          text: "Insegnava il francese lì."
         sequence-11:
           s: 11
           from: "00:01:03,18"
