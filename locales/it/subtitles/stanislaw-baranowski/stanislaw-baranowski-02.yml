@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:28,06"
           to: "00:01:41,19"
-          text: "C'era stata una grossa falla per cui esattamente nel 1942 in questa tipografia venivano stampate le tessere di Meinl e di Wolfahrt."
+          text: "C'era stata una grossa falla, esattamente nel 1942 in questa tipografia venivano stampate le tessere di Meinl e di Wolfahrt."
         sequence-18:
           s: 18
           from: "00:01:41,19"
@@ -133,27 +133,27 @@ it:
           s: 26
           from: "00:02:34,00"
           to: "00:02:41,01"
-          text: ~
+          text: "Io ero un semplice, come dire, ordinario volontario."
         sequence-27:
           s: 27
           from: "00:02:41,01"
           to: "00:02:48,07"
-          text: ~
+          text: "O meglio un lavoratore. Perché tutto veniva fatto di propria iniziativa."
         sequence-28:
           s: 28
           from: "00:02:48,07"
           to: "00:02:53,05"
-          text: ~
+          text: "E iniziammo …"
         sequence-29:
           s: 29
           from: "00:02:53,05"
           to: "00:02:57,04"
-          text: ~
+          text: "A un certo punto Wanda, così si chiamava,"
         sequence-30:
           s: 30
           from: "00:02:57,04"
           to: "00:03:05,19"
-          text: ~
+          text: "disse che dovevamo occuparci dell'Ospedale Ujazdowski."
         sequence-31:
           s: 31
           from: "00:03:05,19"
