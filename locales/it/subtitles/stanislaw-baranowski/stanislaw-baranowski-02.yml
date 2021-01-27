@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,08"
           to: "00:00:07,06"
-          text: "Subito dopo la guerra, dopo la capitolazione a Varsavia regnava il caos, la fame."
+          text: "Subito dopo la guerra, dopo la resa, a Varsavia regnava il caos, la fame."
         sequence-2:
           s: 2
           from: "00:00:07,06"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:40,12"
           to: "00:00:52,18"
-          text: "Noi aiutavamo queste perspne. E io iniziai a lavorare con Wanda Jaskólska."
+          text: "Noi aiutavamo queste persone. E io iniziai a lavorare con Wanda Jaskólska."
         sequence-8:
           s: 8
           from: "00:00:52,18"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:05,00"
           to: "00:01:12,06"
-          text: "Lei gestiva questo questo gruppo SKO, organizzò lei tutto questo."
+          text: "Lei gestiva questo gruppo SKO, organizzò lei tutto questo."
         sequence-13:
           s: 13
           from: "00:01:12,06"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:13,09"
           to: "00:01:20,20"
-          text: "Successivamente, dopo un po' di tempo, questo divenne RGO."
+          text: "Successivamente, dopo un po' di tempo, questo si trasformò nel RGO."
         sequence-15:
           s: 15
           from: "00:01:20,20"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:21,00"
           to: "00:01:28,06"
-          text: "Ma questo fu dopo, quando iniziò a funzionare la nostra tipografina in via Przemysłowa."
+          text: "Ma questo fu dopo, quando la nostra tipografia iniziò a funzionare in via Przemysłowa."
         sequence-17:
           s: 17
           from: "00:01:28,06"
           to: "00:01:41,19"
-          text: ~
+          text: "C'era stata una grossa falla per cui esattamente nel 1942 in questa tipografia venivano stampate le tessere di Meinl e di Wolfahrt."
         sequence-18:
           s: 18
           from: "00:01:41,19"
@@ -118,12 +118,12 @@ it:
           s: 23
           from: "00:02:10,24"
           to: "00:02:31,09"
-          text: ~
+          text: "E' difficile dire da dove la direzione del RGO prendesse i soldi per questi aiuti."
         sequence-24:
           s: 24
           from: "00:02:31,09"
           to: "00:02:33,17"
-          text: ~
+          text: "Ma gli aiuti erano veramente considerevoli."
         sequence-25:
           s: 25
           from: "00:02:33,17"
