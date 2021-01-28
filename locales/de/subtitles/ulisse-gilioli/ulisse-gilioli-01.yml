@@ -118,7 +118,7 @@ de:
           s: 23
           from: "00:02:32,01"
           to: "00:02:36,05"
-          text: "und dann zum essen mit nach Hause nehmen."
+          text: "und dann zum Essen mit nach Hause nehmen."
         sequence-24:
           s: 24
           from: "00:02:36,06"
@@ -138,4 +138,4 @@ de:
           s: 27
           from: "00:02:54,18"
           to: "00:03:03,03"
-          text: ~
+          text: "Ich hätte sie mir etwas feinfühliger gewünscht, aber sie hatte Recht, in vieler Hinsicht."
