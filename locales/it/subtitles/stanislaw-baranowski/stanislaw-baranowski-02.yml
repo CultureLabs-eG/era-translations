@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,08"
           to: "00:00:07,06"
-          text: "Subito dopo la guerra, dopo la resa, a Varsavia regnava il caos, la fame."
+          text: "Subito dopo lo scoppio della guerra, dopo la capitolazione a Varsavia regnava il caos, la fame."
         sequence-2:
           s: 2
           from: "00:00:07,06"
