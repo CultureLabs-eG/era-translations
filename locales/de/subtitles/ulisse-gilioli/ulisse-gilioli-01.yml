@@ -2,58 +2,58 @@ de:
   ulisse-gilioli:
     chapter-1:
       c: 1
-      title: ~
+      title: "Vorstellung und Familie"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,00"
           to: "00:00:10,22"
-          text: ~
+          text: "Ich heiße Ulisse Gilioli, geboren am 26. Mai 1921"
         sequence-2:
           s: 2
           from: "00:00:10,23"
           to: "00:00:14,09"
-          text: ~
+          text: "in Montecavolo bei Quattro Castella (Provinz Reggio Emilia)."
         sequence-3:
           s: 3
           from: "00:00:14,10"
           to: "00:00:20,02"
-          text: ~
+          text: "Meine Familie waren Müllersleute,"
         sequence-4:
           s: 4
           from: "00:00:20,03"
           to: "00:00:26,04"
-          text: ~
+          text: "seit über 400 Jahren waren sie Müller."
         sequence-5:
           s: 5
           from: "00:00:29,13"
           to: "00:00:39,11"
-          text: ~
+          text: "1929 gab es eine schlimme Wirtschaftskrise und mein Vater hat sehr viel Geld verloren..."
         sequence-6:
           s: 6
           from: "00:00:39,12"
           to: "00:00:46,23"
-          text: ~
+          text: "Hauptsächlich, weil er mit dem Pfarrer befreundet war,"
         sequence-7:
           s: 7
           from: "00:00:46,24"
           to: "00:00:53,13"
-          text: ~
+          text: "der 12 oder 14 Halbpächter für sich arbeiten ließ, also sehr wohlhabend war,"
         sequence-8:
           s: 8
           from: "00:00:53,14"
           to: "00:00:58,03"
-          text: ~
+          text: "aber die Pächter konnten für das, was sie"
         sequence-9:
           s: 9
           from: "00:00:58,04"
           to: "00:01:01,13"
-          text: ~
+          text: "zur Mühle brachten und dann abholten, nicht mehr zahlen."
         sequence-10:
           s: 10
           from: "00:01:01,14"
           to: "00:01:07,01"
-          text: ~
+          text: "\"Hab Geduld, du wirst schon sehen, eines Tages so Gott...\""
         sequence-11:
           s: 11
           from: "00:01:07,02"

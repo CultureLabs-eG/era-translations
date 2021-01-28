@@ -103,49 +103,49 @@ de:
           s: 20
           from: "00:02:18,01"
           to: "00:02:23,11"
-          text: ~
+          text: "Sie gaben uns eine grosse Tasse mit Brot und Milch."
         sequence-21:
           s: 21
           from: "00:02:23,12"
           to: "00:02:27,22"
-          text: ~
+          text: "Ich war mit meinem Bruder in der Abteilung \"Stalin\"."
         sequence-22:
           s: 22
           from: "00:02:27,23"
           to: "00:02:34,23"
-          text: ~
+          text: "Ich nannte mich nicht Bonifazius VIII in Erinnerung an Mathilde von Canossa"
         sequence-23:
           s: 23
           from: "00:02:34,24"
           to: "00:02:38,12"
-          text: ~
+          text: "sondern \"Orazio\" (Horace),"
         sequence-24:
           s: 24
           from: "00:02:38,13"
           to: "00:02:43,25"
-          text: ~
+          text: "damals hatte ich nur Horatier und Curiatier im Sinn:"
         sequence-25:
           s: 25
           from: "00:02:43,26"
           to: "00:02:52,05"
-          text: ~
+          text: "mein tödlicher Kampf (für die andern, nicht für mich) war nämlich der"
         sequence-26:
           s: 26
           from: "00:02:52,06"
           to: "00:02:56,17"
-          text: ~
+          text: "mit den Deutschen. Ich nannte mich \"Orazio\", weil die Deutschen,"
         sequence-27:
           s: 27
           from: "00:02:56,18"
           to: "00:03:00,24"
-          text: ~
+          text: "diese benzin-farbenen Männer,"
         sequence-28:
           s: 28
           from: "00:03:00,25"
           to: "00:03:03,13"
-          text: ~
+          text: "die Augen in dieser Farbe hatten,"
         sequence-29:
           s: 29
           from: "00:03:03,14"
           to: "00:03:07,29"
-          text: ~
+          text: "große Krieger zu sein schienen."
