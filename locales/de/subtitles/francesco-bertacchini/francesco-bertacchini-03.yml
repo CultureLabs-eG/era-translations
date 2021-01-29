@@ -513,37 +513,37 @@ de:
           s: 102
           from: "00:11:45,26"
           to: "00:11:49,29"
-          text: ~
+          text: "Er kam raus, rief uns und sagte: \"Geht mal zum Chef...\""
         sequence-103:
           s: 103
           from: "00:11:50,00"
           to: "00:11:56,09"
-          text: ~
+          text: "Ich sagte zu ihm: \"Armando (Pancio), denk doch mal nach, wir haben uns so abgemüht die zu finden"
         sequence-104:
           s: 104
           from: "00:11:56,10"
           to: "00:12:02,18"
-          text: ~
+          text: "und jetzt, wo wir sie gefunden haben, gehts uns gut, es gibt zu essen, wir amüsieren uns,"
         sequence-105:
           s: 105
           from: "00:12:02,19"
           to: "00:12:06,27"
-          text: ~
+          text: "wie kannst du so was machen?\""
         sequence-106:
           s: 106
           from: "00:12:06,28"
           to: "00:12:11,28"
-          text: ~
+          text: "Wir gehen also rein."
         sequence-107:
           s: 107
           from: "00:12:11,29"
           to: "00:12:17,18"
-          text: ~
+          text: "\"Es ist wohl besser, ihr geht in eure Gegend, denn wir haben nicht einmal Waffen,"
         sequence-108:
           s: 108
           from: "00:12:17,19"
           to: "00:12:22,23"
-          text: ~
+          text: "geht also besser in die Gegend von Succiso, denn dort gibt es Partisanen\"."
         sequence-109:
           s: 109
           from: "00:12:23,20"
