@@ -423,7 +423,7 @@ de:
           s: 84
           from: "00:09:33,10"
           to: "00:09:37,22"
-          text: "Als wir zurückkamen, gingen wir in einen Stall, der kein Stall war,"
+          text: "Als wir zurückkamen, war in einem Stall, der kein Stall war,"
         sequence-85:
           s: 85
           from: "00:09:37,23"
@@ -433,82 +433,82 @@ de:
           s: 86
           from: "00:09:44,04"
           to: "00:09:50,21"
-          text: ~
+          text: "ein schöner Tisch mit Butter, Käse, viele leckere Sachen."
         sequence-87:
           s: 87
           from: "00:09:50,22"
           to: "00:09:55,18"
-          text: ~
+          text: "Eine Frau war dabei Tagliatelle für die ganze Gruppe zu machen..."
         sequence-88:
           s: 88
           from: "00:09:55,19"
           to: "00:10:01,06"
-          text: ~
+          text: "Wundervoll! Es war schon eine Weile her, dass wir das gegessen hatten und nicht mal zu Hause gab es das."
         sequence-89:
           s: 89
           from: "00:10:01,07"
           to: "00:10:11,19"
-          text: ~
+          text: "Wir aßen und als wir Nachmittags wieder von der Patrouille zurückkamen, sagte der Gruppenführer:"
         sequence-90:
           s: 90
           from: "00:10:11,20"
           to: "00:10:21,16"
-          text: ~
+          text: "\"Jetzt geht zu den Häusern, wo junge Frauen sind und ladet sie hierher ein, um zu plaudern, zu tanzen...\""
         sequence-91:
           s: 91
           from: "00:10:21,17"
           to: "00:10:30,18"
-          text: ~
+          text: "Also zogen wir los, hierhin und dahin und es kamen einige Frauen und wir plauderten und tanzten ein wenig,"
         sequence-92:
           s: 92
           from: "00:10:30,19"
           to: "00:10:36,19"
-          text: ~
+          text: "denn es gab auch ein Radio und wir hatten eine gute Zeit."
         sequence-93:
           s: 93
           from: "00:10:36,20"
           to: "00:10:40,25"
-          text: ~
+          text: "Vier oder fünf Tage lang ging alles gut:"
         sequence-94:
           s: 94
           from: "00:10:40,26"
           to: "00:10:48,15"
-          text: ~
+          text: "Wir gingen auf Patrouille und kamen gegen Mittag zurück"
         sequence-95:
           s: 95
           from: "00:10:48,16"
           to: "00:10:55,17"
-          text: ~
+          text: "und eines schönen Morgens fragt der Gruppenleiter: \"Na Jungs, ist alles in Ordnung?\"."
         sequence-96:
           s: 96
           from: "00:10:55,18"
           to: "00:11:05,01"
-          text: ~
+          text: "Ich antwortete: \"Ich bin an einem Ort, wie er besser für mich nicht sein könnte\";"
         sequence-97:
           s: 97
           from: "00:11:05,02"
           to: "00:11:11,27"
-          text: ~
+          text: "Da sprang Pancio auf, der neben mir saß und meinte:"
         sequence-98:
           s: 98
           from: "00:11:11,28"
           to: "00:11:18,28"
-          text: ~
+          text: "\"Nein, wenn ich kommunistische Partisanen treffe...\""
         sequence-99:
           s: 99
           from: "00:11:18,29"
           to: "00:11:30,23"
-          text: ~
+          text: "\"Was hast du gesagt?\" \"Wenn ich kommunistische Partisanen treffe, gehe ich zu denen\"."
         sequence-100:
           s: 100
           from: "00:11:30,24"
           to: "00:11:39,01"
-          text: ~
+          text: "Ich gab ihm einen Stoß in die Seite und als wir wieder zu Hause waren,"
         sequence-101:
           s: 101
           from: "00:11:39,02"
           to: "00:11:45,25"
-          text: ~
+          text: "ging der Gruppenleiter zum Chef, um ihm unsere Absichten mitzuteilen."
         sequence-102:
           s: 102
           from: "00:11:45,26"
