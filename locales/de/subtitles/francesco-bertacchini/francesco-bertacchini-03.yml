@@ -303,72 +303,72 @@ de:
           s: 60
           from: "00:06:26,10"
           to: "00:06:34,11"
-          text: ~
+          text: "Wir haben abgewartet und als nach einer Weile alles ruhig war, steht er auf und geht, wahrscheinlich nach Hause."
         sequence-61:
           s: 61
           from: "00:06:34,12"
           to: "00:06:41,04"
-          text: ~
+          text: "Da wir den Ort nicht kannten, beschlossen wir, die Nacht über dazubleiben und am Morgen weiterzusehen."
         sequence-62:
           s: 62
           from: "00:06:41,05"
           to: "00:06:51,03"
-          text: ~
+          text: "Im Morgengrauen sind wir dann aufgebrochen"
         sequence-63:
           s: 63
           from: "00:06:51,04"
           to: "00:06:57,21"
-          text: ~
+          text: "und hielten uns außer Sichtweite von Straßen und Dörfern und gingen langsam bergauf."
         sequence-64:
           s: 64
           from: "00:06:57,22"
           to: "00:07:07,06"
-          text: ~
+          text: "Wir kamen an Nironi, Vairo, Palanzano vorbei,"
         sequence-65:
           s: 65
           from: "00:07:07,07"
           to: "00:07:12,22"
-          text: ~
+          text: "alles Dörfer in der Provinz Parma und immer wieder fragten wir:"
         sequence-66:
           s: 66
           from: "00:07:12,23"
           to: "00:07:16,10"
-          text: ~
+          text: "\"Wisst ihr, wo sie sind?\""
         sequence-67:
           s: 67
           from: "00:07:16,11"
           to: "00:07:21,00"
-          text: ~
+          text: "\"Nein, wir wissen nichts, wir sehen nichts,"
         sequence-68:
           s: 68
           from: "00:07:21,01"
           to: "00:07:24,21"
-          text: ~
+          text: "wir wissen nicht einmal, was Rebellen sind!\"."
         sequence-69:
           s: 69
           from: "00:07:24,22"
           to: "00:07:32,27"
-          text: ~
+          text: "Also gingen wir gemächlich immer weiter bergauf, wurden immer verzweifelter, fühlten uns verloren..."
         sequence-70:
           s: 70
           from: "00:07:32,28"
           to: "00:07:38,05"
-          text: ~
+          text: "Wir hatten etwas Geld in der Tasche, aber lächerlich wenig,"
         sequence-71:
           s: 71
           from: "00:07:40,04"
           to: "00:07:47,16"
-          text: ~
+          text: "dann wird es Abend und jedes Mal stellt sich das Problem, bei einem Bauern einen Schlafplatz zu finden."
         sequence-72:
           s: 72
           from: "00:07:47,17"
           to: "00:07:58,17"
-          text: ~
+          text: "Aber immer mit der Angst, dass während du irgendwo in einem Stall schläfst, die Faschisten kommen könnten und dich mitnehmen."
         sequence-73:
           s: 73
           from: "00:07:58,18"
           to: "00:08:06,03"
-          text: ~
+          text: "Als wir endlich oben in Corniglio ankamen,"
         sequence-74:
           s: 74
           from: "00:08:06,04"
