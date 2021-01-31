@@ -203,27 +203,27 @@ it:
           s: 40
           from: "00:03:56,26"
           to: "00:04:02,10"
-          text: ~
+          text: "La Gestapo aveva occupato il primo e il secondo piano."
         sequence-41:
           s: 41
           from: "00:04:02,10"
           to: "00:04:09,20"
-          text: ~
+          text: "La maggior parte delle persone al secondo piano erano in attesa di essere ascoltate"
         sequence-42:
           s: 42
           from: "00:04:09,20"
           to: "00:04:13,05"
-          text: ~
+          text: "o quelli che in seguito sarebbero stati portati nei campi."
         sequence-43:
           s: 43
           from: "00:04:13,05"
           to: "00:04:18,15"
-          text: ~
+          text: "Ci siamo rimasti fino a Natale."
         sequence-44:
           s: 44
           from: "00:04:18,15"
           to: "00:04:24,13"
-          text: ~
+          text: "Il 26 Dicembre siamo stati trasferiti a..."
         sequence-45:
           s: 45
           from: "00:04:24,13"
@@ -233,7 +233,7 @@ it:
           s: 46
           from: "00:04:26,04"
           to: "00:04:30,24"
-          text: ~
+          text: "Al piano terra c'era la corte e lì abbiamo aspettato di nuovo."
         sequence-47:
           s: 47
           from: "00:04:30,24"
@@ -243,12 +243,12 @@ it:
           s: 48
           from: "00:04:33,10"
           to: "00:04:37,15"
-          text: ~
+          text: "Una o due settimane dopo fu il turno degli altri."
         sequence-49:
           s: 49
           from: "00:04:37,15"
           to: "00:04:46,22"
-          text: ~
+          text: "Dieci di loro sono stati condannati a morte e cinque portati nei differenti campi."
         sequence-50:
           s: 50
           from: "00:04:46,22"
@@ -258,47 +258,47 @@ it:
           s: 51
           from: "00:04:48,06"
           to: "00:04:53,16"
-          text: ~
+          text: "Allora sarebbe dovuto essere il nostro turno."
         sequence-52:
           s: 52
           from: "00:04:53,16"
           to: "00:05:04,28"
-          text: ~
+          text: "L''Obergerichtsrat' (giudice di alto grado) \"Freißler\", dovette andare a Berlino e lì morì."
         sequence-53:
           s: 53
           from: "00:05:04,28"
           to: "00:05:16,16"
-          text: ~
+          text: "Si disse che gli avevano sparato o ucciso da una bomba."
         sequence-54:
           s: 54
           from: "00:05:16,16"
           to: "00:05:24,05"
-          text: ~
+          text: "Per questo motivo abbiamo continuato a aspettare fino alla fine della guerra."
         sequence-55:
           s: 55
           from: "00:05:24,05"
           to: "00:05:31,01"
-          text: ~
+          text: "Una volta ci fu la notizia che saremmo stati portati a Graz."
         sequence-56:
           s: 56
           from: "00:05:31,01"
           to: "00:05:38,10"
-          text: ~
+          text: "Là hanno quasi sempre sparato alla maggior parte di coloro che sono stati portati da Klagenfurt a Graz."
         sequence-57:
           s: 57
           from: "00:05:38,10"
           to: "00:05:41,18"
-          text: ~
+          text: "Avevamo nuovamente fortuna:"
         sequence-58:
           s: 58
           from: "00:05:41,18"
           to: "00:05:50,18"
-          text: ~
+          text: "Nella notte hanno bombardato e distrutto la ferrovia e di nuovo siamo rimasti a Klagenfurt."
         sequence-59:
           s: 59
           from: "00:05:50,18"
           to: "00:05:58,11"
-          text: ~
+          text: "Alla fine siamo stati liberati il 6."
         sequence-60:
           s: 60
           from: "00:05:58,11"
@@ -308,37 +308,37 @@ it:
           s: 61
           from: "00:06:02,17"
           to: "00:06:07,29"
-          text: ~
+          text: "Poi il supervisore ci ha portato al primo piano dove qualcuno stava aspettando;"
         sequence-62:
           s: 62
           from: "00:06:07,29"
           to: "00:06:15,07"
-          text: ~
+          text: "e lì ho ricevuto il mio mandato d'arresto."
         sequence-63:
           s: 63
           from: "00:06:15,07"
           to: "00:06:23,27"
-          text: ~
+          text: "le mie registrazioni e ci hanno augurato il meglio e ci hanno detto che eravamo liberi."
         sequence-64:
           s: 64
           from: "00:06:23,27"
           to: "00:06:27,27"
-          text: ~
+          text: "Ma la guerra non era ancora finita."
         sequence-65:
           s: 65
           from: "00:06:27,27"
           to: "00:06:37,29"
-          text: ~
+          text: "Ero così felice, che uscii dalla porta e gridai di gioia con tutto il cuore:"
         sequence-66:
           s: 66
           from: "00:06:37,29"
           to: "00:06:42,17"
-          text: ~
+          text: "\"Sono libera!\" Mia cugina, che mi venne a prendere, disse:"
         sequence-67:
           s: 67
           from: "00:06:42,17"
           to: "00:06:46,23"
-          text: ~
+          text: "\"Sta zitta. La guerra non è ancora finita\". Aveva ragione."
         sequence-68:
           s: 68
           from: "00:06:46,23"
@@ -348,17 +348,17 @@ it:
           s: 69
           from: "00:06:48,05"
           to: "00:06:58,15"
-          text: ~
+          text: "Anche negli ultimi due giorni le SS hanno fatto marciare una partigiana, le hanno fatto un interrogatorio e le hanno sparato."
         sequence-70:
           s: 70
           from: "00:06:58,15"
           to: "00:07:02,11"
-          text: ~
+          text: "è così che ha funzionato per molti."
         sequence-71:
           s: 71
           from: "00:07:02,11"
           to: "00:07:04,09"
-          text: ~
+          text: "Con tutto ciò siamo stati liberati."
         sequence-72:
           s: 72
           from: "00:07:04,09"
@@ -368,7 +368,7 @@ it:
           s: 73
           from: "00:07:07,13"
           to: "00:07:20,07"
-          text: ~
+          text: "A casa vivevano ancora nella paura."
         sequence-74:
           s: 74
           from: "00:07:20,07"
