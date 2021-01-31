@@ -18,42 +18,42 @@ it:
           s: 3
           from: "00:00:12,17"
           to: "00:00:19,24"
-          text: ~
+          text: "(anche alcuni erano con noi) andò dalla polizia"
         sequence-4:
           s: 4
           from: "00:00:19,24"
           to: "00:00:26,18"
-          text: ~
+          text: "e il municipio a presero tutto ciò che potesse servire."
         sequence-5:
           s: 5
           from: "00:00:26,18"
           to: "00:00:35,29"
-          text: ~
+          text: "Alla polizia sequestrarono armi, dattilografi e cancelleria."
         sequence-6:
           s: 6
           from: "00:00:35,29"
           to: "00:00:42,22"
-          text: ~
+          text: "I poliziotti di campagna stavano mangiando,"
         sequence-7:
           s: 7
           from: "00:00:42,22"
           to: "00:00:51,06"
-          text: ~
+          text: "e purtroppo uno è stato colpito lì, perché non ha alzato le mani."
         sequence-8:
           s: 8
           from: "00:00:51,06"
           to: "00:00:59,04"
-          text: ~
+          text: "Una mano andò alla pistola - alzo l'altra mano - e con ciò si giocò la vita."
         sequence-9:
           s: 9
           from: "00:00:59,04"
           to: "00:01:09,11"
-          text: ~
+          text: "Il partigiano prima gridò: \"Mani in alto!\" cosa che non ha fatto e così è stato colpito."
         sequence-10:
           s: 10
           from: "00:01:09,11"
           to: "00:01:12,06"
-          text: ~
+          text: "Quella è stata la prima persona morta nella nostra casa."
         sequence-11:
           s: 11
           from: "00:01:12,06"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:16,20"
           to: "00:01:25,07"
-          text: ~
+          text: "La polizia da campo occupò casa nostra per dieci giorni, erano tutti uomini regolari delle SS"
         sequence-13:
           s: 13
           from: "00:01:25,07"
@@ -73,9 +73,9 @@ it:
           s: 14
           from: "00:01:27,02"
           to: "00:01:36,18"
-          text: ~
+          text: "e perquisirono il villaggio e la foresta dove presumevano che ci fossero partigiani."
         sequence-15:
           s: 15
           from: "00:01:36,18"
           to: "00:01:42,26"
-          text: ~
+          text: "Ovviamente si erano già ritirati e erano scomparsi."
