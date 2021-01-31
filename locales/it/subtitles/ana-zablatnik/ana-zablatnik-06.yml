@@ -123,37 +123,37 @@ it:
           s: 24
           from: "00:02:24,10"
           to: "00:02:27,25"
-          text: ~
+          text: "Alle 6 del mattino lasciammo casa."
         sequence-25:
           s: 25
           from: "00:02:27,25"
           to: "00:02:38,11"
-          text: ~
+          text: "L'intero villaggio sembrava verde a causa di tutti questi soldati e della polizia militare."
         sequence-26:
           s: 26
           from: "00:02:38,11"
           to: "00:02:41,13"
-          text: ~
+          text: "Molti di loro erano polizia militare."
         sequence-27:
           s: 27
           from: "00:02:41,13"
           to: "00:02:49,15"
-          text: ~
+          text: "Siamo saliti dove si trovava la polizia, nella locanda successiva."
         sequence-28:
           s: 28
           from: "00:02:49,15"
           to: "00:02:58,28"
-          text: ~
+          text: "Lì mi hanno mostrato una mappa di Ludmannsdorf"
         sequence-29:
           s: 29
           from: "00:02:58,28"
           to: "00:03:05,04"
-          text: ~
+          text: "e ho potuto vedere che tutto è stato contrassegnato;"
         sequence-30:
           s: 30
           from: "00:03:05,04"
           to: "00:03:13,04"
-          text: ~
+          text: "tutte le case dove avevamo collegamenti,"
         sequence-31:
           s: 31
           from: "00:03:13,04"
@@ -163,12 +163,12 @@ it:
           s: 32
           from: "00:03:14,18"
           to: "00:03:23,22"
-          text: ~
+          text: "proprio tutto. Non potevo credere ai miei occhi. Non riuscivo a capire perché."
         sequence-33:
           s: 33
           from: "00:03:23,22"
           to: "00:03:26,24"
-          text: ~
+          text: "Poi siamo partiti"
         sequence-34:
           s: 34
           from: "00:03:26,24"
@@ -178,17 +178,17 @@ it:
           s: 35
           from: "00:03:28,02"
           to: "00:03:37,24"
-          text: ~
+          text: "e andammo a Bach dove ho visto che avevano un camion militare."
         sequence-36:
           s: 36
           from: "00:03:37,24"
           to: "00:03:44,20"
-          text: ~
+          text: "Dentro c'erano tutti gli altri che erano stati arrestati con me."
         sequence-37:
           s: 37
           from: "00:03:44,20"
           to: "00:03:47,26"
-          text: ~
+          text: "Eravamo in 18."
         sequence-38:
           s: 38
           from: "00:03:47,26"
@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:03:49,14"
           to: "00:03:56,26"
-          text: ~
+          text: "Da lì siamo stati portati alla Gestapo nel tribunale di Klagenfurt."
         sequence-40:
           s: 40
           from: "00:03:56,26"
