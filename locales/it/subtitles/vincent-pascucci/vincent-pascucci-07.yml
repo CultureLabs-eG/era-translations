@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:03:24,25"
           to: "00:03:31,21"
-          text: ~
+          text: "Il Colonnello Remy salì al forte e si arresero."
         sequence-24:
           s: 24
           from: "00:03:31,21"
@@ -128,27 +128,27 @@ it:
           s: 25
           from: "00:03:33,16"
           to: "00:03:40,04"
-          text: ~
+          text: "Non ho avuto molto tempo per godermi la liberazione."
         sequence-26:
           s: 26
           from: "00:03:40,04"
           to: "00:03:48,25"
-          text: ~
+          text: "Nel periodo di transizione, ero responsabile alla sicurezza di Raymond Barbet,"
         sequence-27:
           s: 27
           from: "00:03:48,25"
           to: "00:03:55,22"
-          text: ~
+          text: "responsabile della Resistenza dei ferrovieri."
         sequence-28:
           s: 28
           from: "00:03:55,22"
           to: "00:04:08,06"
-          text: ~
+          text: "Aveva organizzato l'insurrezione-sciopero dei ferrovieri il 10 Agosto 1944, scatenando l'insurrezione nazionale."
         sequence-29:
           s: 29
           from: "00:04:08,06"
           to: "00:04:21,20"
-          text: ~
+          text: "Ero responsabile della sua incolumità, poiché c'erano ancora collaborazionisti e pericoli in agguato."
         sequence-30:
           s: 30
           from: "00:04:21,20"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:04:23,03"
           to: "00:04:37,25"
-          text: ~
+          text: "Io stesso sono salito al forte il 28 Agosto, il 29 Agosto."
         sequence-32:
           s: 32
           from: "00:04:37,25"
@@ -168,17 +168,17 @@ it:
           s: 33
           from: "00:04:39,15"
           to: "00:04:43,23"
-          text: ~
+          text: "Siamo stati organizzati militarmente"
         sequence-34:
           s: 34
           from: "00:04:43,23"
           to: "00:05:00,21"
-          text: ~
+          text: "e avevo ottenuto il grado di tenente nella Resistenza e mi era stata assegnata una sezione di cinquanta combattenti nella Resistenza."
         sequence-35:
           s: 35
           from: "00:05:00,21"
           to: "00:05:06,05"
-          text: ~
+          text: "La chiamammo sezione Louis Meunier in sua memoria."
         sequence-36:
           s: 36
           from: "00:05:06,05"
@@ -188,22 +188,22 @@ it:
           s: 37
           from: "00:05:13,29"
           to: "00:05:20,01"
-          text: ~
+          text: "Ciò che provai alla liberazione? Beh, tanta gioia!"
         sequence-38:
           s: 38
           from: "00:05:20,01"
           to: "00:05:24,21"
-          text: ~
+          text: "Era come una grande festa."
         sequence-39:
           s: 39
           from: "00:05:24,21"
           to: "00:05:36,10"
-          text: ~
+          text: "Anche quelli che non avevano fatto nulla o forse avevano approfittato della situazione ora si definivano combattenti della Resistenza."
         sequence-40:
           s: 40
           from: "00:05:36,10"
           to: "00:05:49,29"
-          text: ~
+          text: "È stata una grande gioia aver liberato la Francia, anche se non era ancora finita."
         sequence-41:
           s: 41
           from: "00:05:49,29"
@@ -213,7 +213,7 @@ it:
           s: 42
           from: "00:05:52,12"
           to: "00:06:05,29"
-          text: ~
+          text: "Alsazia-Lorena erano ancora occupate; c'era ancora la base sottomarina nell'enclave di La Rochelle."
         sequence-43:
           s: 43
           from: "00:06:05,29"
@@ -223,7 +223,7 @@ it:
           s: 44
           from: "00:06:10,26"
           to: "00:06:15,07"
-          text: ~
+          text: "Ma in realtà è stata la liberazione."
         sequence-45:
           s: 45
           from: "00:06:15,07"
@@ -233,12 +233,12 @@ it:
           s: 46
           from: "00:06:21,04"
           to: "00:06:30,18"
-          text: ~
+          text: "Abbiamo avuto la soddisfazione di dire che avevamo vinto."
         sequence-47:
           s: 47
           from: "00:06:30,18"
           to: "00:06:42,20"
-          text: ~
+          text: "Non tutti i compagni che erano stati nel gruppo con noi si sono arruolati successivamente nell'esercito."
         sequence-48:
           s: 48
           from: "00:06:42,20"
