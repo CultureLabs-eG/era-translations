@@ -188,7 +188,7 @@ it:
           s: 37
           from: "00:05:25,23"
           to: "00:05:36,00"
-          text: ~
+          text: "Dobbiamo parlare ai giovani, guidarli per il futuro, mostrare loro l'importanza di essere fraterni."
         sequence-38:
           s: 38
           from: "00:05:36,00"
@@ -198,29 +198,29 @@ it:
           s: 39
           from: "00:05:37,01"
           to: "00:05:45,13"
-          text: ~
+          text: "Non rispondono a tutte le domande. Quando mi chiedono quanti tedeschi ho ucciso, non rispondo."
         sequence-40:
           s: 40
           from: "00:05:45,13"
           to: "00:05:49,01"
-          text: ~
+          text: "Non penso sia importante."
         sequence-41:
           s: 41
           from: "00:05:49,01"
           to: "00:05:54,11"
-          text: ~
+          text: "Durante una guerra c'è una sola regola:"
         sequence-42:
           s: 42
           from: "00:05:54,11"
           to: "00:06:02,19"
-          text: ~
+          text: "Se io non sparo per prima, lui mi sparerà. Non mi ha fatto niente e io non gli ho fatto niente."
         sequence-43:
           s: 43
           from: "00:06:02,19"
           to: "00:06:10,21"
-          text: ~
+          text: "Non lo conosco. Ha una famiglia; anche io ho una famiglia. Perché allora, ci uccidiamo a vicenda?"
         sequence-44:
           s: 44
           from: "00:06:10,21"
           to: "00:06:18,12"
-          text: ~
+          text: "Perché? Perché quelli che decidono la guerra non sono quelli che la combattono."
