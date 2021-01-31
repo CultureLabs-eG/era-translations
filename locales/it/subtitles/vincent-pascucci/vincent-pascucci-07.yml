@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:03:48,25"
           to: "00:03:55,22"
-          text: "responsabile della Resistenza dei ferrovieri."
+          text: "a sua volta responsabile della Resistenza dei ferrovieri."
         sequence-28:
           s: 28
           from: "00:03:55,22"
@@ -243,7 +243,7 @@ it:
           s: 48
           from: "00:06:42,20"
           to: "00:06:52,13"
-          text: ~
+          text: "Ma ci eravamo impegnati per tutta la guerra."
         sequence-49:
           s: 49
           from: "00:06:52,13"
@@ -253,9 +253,9 @@ it:
           s: 50
           from: "00:06:58,05"
           to: "00:07:06,24"
-          text: ~
+          text: "Io ho continuato perché volevo vendicare Louis. Al suo funerale avevamo giurato che l'avremmo vendicato."
         sequence-51:
           s: 51
           from: "00:07:06,24"
           to: "00:07:15,27"
-          text: ~
+          text: "Ciò significava combattere i nazisti fino alla fine."
