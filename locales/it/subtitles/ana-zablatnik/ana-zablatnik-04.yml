@@ -2,13 +2,13 @@ it:
   ana-zablatnik:
     chapter-4:
       c: 4
-      title: ~
+      title: "La prima azione partigiana nel villaggio"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,25"
           to: "00:00:07,08"
-          text: ~
+          text: "Un gruppo di partigiani, circa 20 di loro"
         sequence-2:
           s: 2
           from: "00:00:07,08"
