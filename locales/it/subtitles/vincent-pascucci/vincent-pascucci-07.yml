@@ -2,18 +2,18 @@ it:
   vincent-pascucci:
     chapter-7:
       c: 7
-      title: ~
+      title: "Liberazione; Scambio dei prigionieri"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,20"
           to: "00:00:07,27"
-          text: ~
+          text: "Nanterre fu liberata il giorno seguente, il 21 Agosto 1944."
         sequence-2:
           s: 2
           from: "00:00:07,27"
           to: "00:00:19,10"
-          text: ~
+          text: "Gli ufficiali tedeschi partirono tutti per Mont Valerién, l'unico posto dove si sentivano sicuri."
         sequence-3:
           s: 3
           from: "00:00:19,10"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:22,10"
           to: "00:00:30,02"
-          text: ~
+          text: "Fu istituito il Comitato di Liberazione."
         sequence-5:
           s: 5
           from: "00:00:30,02"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:40,08"
           to: "00:00:52,26"
-          text: ~
+          text: "Mont Valerién è una fortezza dell'epoca prima della Comune di Parigi."
         sequence-7:
           s: 7
           from: "00:00:52,26"
@@ -43,17 +43,17 @@ it:
           s: 8
           from: "00:00:55,13"
           to: "00:01:09,03"
-          text: ~
+          text: "Là i combattenti della Resistenza furono uccisi. Ogni volta che la Resistenza ha attaccato le truppe tedesche."
         sequence-9:
           s: 9
           from: "00:01:09,03"
           to: "00:01:24,16"
-          text: ~
+          text: "Il Generale Stüplinen ordinò che per ogni tedesco ucciso, andavano giustiziati cento combattenti della Resistenza."
         sequence-10:
           s: 10
           from: "00:01:24,16"
           to: "00:01:42,05"
-          text: ~
+          text: "Abbiamo identificato 1015 corpi di persone uccise tra il 1941 e il 1944."
         sequence-11:
           s: 11
           from: "00:01:42,05"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:43,18"
           to: "00:01:47,08"
-          text: ~
+          text: "Era un luogo per le esecuzioni."
         sequence-13:
           s: 13
           from: "00:01:47,08"
@@ -73,47 +73,47 @@ it:
           s: 14
           from: "00:01:58,00"
           to: "00:02:12,14"
-          text: ~
+          text: "I tedeschi non potevano più muoversi, dato che tutte le strade che vi conducevano erano barricate dalla Resistenza."
         sequence-15:
           s: 15
           from: "00:02:12,14"
           to: "00:02:26,15"
-          text: ~
+          text: "Alcuni tedeschi erano negli acquedotti di Parigi. Avevano intenzione di fare saltare i bacini acquiferi, ma furono catturati."
         sequence-16:
           s: 16
           from: "00:02:26,15"
           to: "00:02:34,15"
-          text: ~
+          text: "Quindi ci fu uno scambio di prigionieri tra quei tedeschi"
         sequence-17:
           s: 17
           from: "00:02:34,15"
           to: "00:02:43,06"
-          text: ~
+          text: "e gli ultimi prigionieri che i tedeschi avevano preso e non avevano avuto il coraggio di sparare."
         sequence-18:
           s: 18
           from: "00:02:43,06"
           to: "00:02:49,19"
-          text: ~
+          text: "È così che abbiamo scoperto esattamente cosa era successo a Louis Meunier."
         sequence-19:
           s: 19
           from: "00:02:49,19"
           to: "00:03:00,09"
-          text: ~
+          text: "Torno ai nazisti a Mont Valérien: si sono rifiutati di arrendersi alla Resistenza."
         sequence-20:
           s: 20
           from: "00:03:00,09"
           to: "00:03:09,05"
-          text: ~
+          text: "Uno di loro ha detto che si sarebbero arresi solo all'esercito regolare."
         sequence-21:
           s: 21
           from: "00:03:09,05"
           to: "00:03:17,12"
-          text: ~
+          text: "Il nostro comandante è andato a trovare il Colonnello Rémy della Divisione Leclerc,"
         sequence-22:
           s: 22
           from: "00:03:17,12"
           to: "00:03:24,25"
-          text: ~
+          text: "che era stato messo in quarantena nel Bois de Boulogne con la sua brigata."
         sequence-23:
           s: 23
           from: "00:03:24,25"
