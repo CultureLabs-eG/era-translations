@@ -2,7 +2,7 @@ it:
   ana-zablatnik:
     chapter-5:
       c: 5
-      title: "Vorrei unirmi ai partigiani, essere arrestato"
+      title: "Volersi unire ai partigiani, essere arrestato"
       subtitles:
         sequence-1:
           s: 1
@@ -68,24 +68,24 @@ it:
           s: 13
           from: "00:01:11,25"
           to: "00:01:17,22"
-          text: ~
+          text: "\"Bloccate questi parassiti, poi avremo pace a Ludmannsdorf.\""
         sequence-14:
           s: 14
           from: "00:01:17,22"
           to: "00:01:22,27"
-          text: ~
+          text: "Questi mocciosi - come me - avrebbero dovuto essere rinchiusi per avere pace a Ludmannsdorf."
         sequence-15:
           s: 15
           from: "00:01:22,27"
           to: "00:01:32,12"
-          text: ~
+          text: "Molti capivano qualcosa, o la subdoravano, ma nessuno sapeva esattamente dei nazisti."
         sequence-16:
           s: 16
           from: "00:01:32,12"
           to: "00:01:40,06"
-          text: ~
+          text: "Non appena i partigiani sono entrati nel villaggio e hanno compiuto un'azione,"
         sequence-17:
           s: 17
           from: "00:01:40,06"
           to: "00:01:46,02"
-          text: ~
+          text: "qualcuno deve aver spianato la strada perché venissero."
