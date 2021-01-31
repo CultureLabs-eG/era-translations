@@ -73,47 +73,47 @@ it:
           s: 14
           from: "00:02:08,17"
           to: "00:02:24,26"
-          text: ~
+          text: "Nei libri scolastici di Storia, c'erano pochissime informazioni sul tempo:"
         sequence-15:
           s: 15
           from: "00:02:24,26"
           to: "00:02:33,03"
-          text: ~
+          text: "Il discorso del Generale De Gaulle e la Shoah."
         sequence-16:
           s: 16
           from: "00:02:33,03"
           to: "00:02:45,17"
-          text: ~
+          text: "Questo è molto importante, ma non è abbastanza per spiegare la complessità della Seconda Guerra Mondiale."
         sequence-17:
           s: 17
           from: "00:02:45,17"
           to: "00:03:02,17"
-          text: ~
+          text: "Ci è stato chiesto dai docenti di Storia di parlare della nostra esperienza in classe."
         sequence-18:
           s: 18
           from: "00:03:02,17"
           to: "00:03:09,13"
-          text: ~
+          text: "Abbiamo pensato che fosse importante fare ancora di più"
         sequence-19:
           s: 19
           from: "00:03:09,13"
           to: "00:03:18,22"
-          text: ~
+          text: "e si è iniziato a organizzare gite scolastiche in diversi memoriali, i luoghi in cui sono stati commessi crimini nazisti."
         sequence-20:
           s: 20
           from: "00:03:18,22"
           to: "00:03:24,06"
-          text: ~
+          text: "Abbiamo organizzato gite scolastiche a Oradour-sur-Glane,"
         sequence-21:
           s: 21
           from: "00:03:24,06"
           to: "00:03:33,15"
-          text: ~
+          text: "a Struthof, l'unico campo di concentramento che c'era in Francia, in Alsazia."
         sequence-22:
           s: 22
           from: "00:03:33,15"
           to: "00:03:44,08"
-          text: ~
+          text: "Abbiamo preso classi da tre differenti scuole a Auschwitz-Birkenau."
         sequence-23:
           s: 23
           from: "00:03:44,08"
@@ -123,22 +123,22 @@ it:
           s: 24
           from: "00:03:45,01"
           to: "00:04:04,08"
-          text: ~
+          text: "Vogliamo mostrare ai giovani le atrocità del razzismo e della xenofobia, la totale assenza di libertà."
         sequence-25:
           s: 25
           from: "00:04:04,08"
           to: "00:04:09,06"
-          text: ~
+          text: "Ci sono molti di noi."
         sequence-26:
           s: 26
           from: "00:04:09,06"
           to: "00:04:18,26"
-          text: ~
+          text: "Un compagno, Lucien Ducastel era stato deportato a Auschwitz-Birkenau."
         sequence-27:
           s: 27
           from: "00:04:18,26"
           to: "00:04:26,11"
-          text: ~
+          text: "Lo facciamo anche in memoria dei compagni periti a Auschwitz."
         sequence-28:
           s: 28
           from: "00:04:26,11"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:04:28,20"
           to: "00:04:37,27"
-          text: ~
+          text: "Oggi più che mai è necessario fare questo lavoro, perché in Europa"
         sequence-30:
           s: 30
           from: "00:04:37,27"
@@ -158,17 +158,17 @@ it:
           s: 31
           from: "00:04:45,00"
           to: "00:04:55,02"
-          text: ~
+          text: "perché in Europa c'è una pericolosa ascesa del fascismo."
         sequence-32:
           s: 32
           from: "00:04:55,02"
           to: "00:05:01,10"
-          text: ~
+          text: "Ricordiamoci che Hitler ottenne il potere legalmente."
         sequence-33:
           s: 33
           from: "00:05:01,10"
           to: "00:05:11,17"
-          text: ~
+          text: "Oggigiorno, ci sono alcuni paesi europei che hanno un governo di estrema destra."
         sequence-34:
           s: 34
           from: "00:05:11,17"
@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:05:12,09"
           to: "00:05:24,14"
-          text: ~
+          text: "Potrebbe sembrare pretenzioso ma pensiamo di non aver finito il nostro lavoro."
         sequence-36:
           s: 36
           from: "00:05:24,14"
