@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:56,18"
           to: "00:01:05,22"
-          text: "e anche i miei tre fratello dovettero alzarsi."
+          text: "e anche i miei tre fratelli dovettero alzarsi."
         sequence-10:
           s: 10
           from: "00:01:05,22"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:22,27"
           to: "00:01:26,19"
-          text: "Fui interrogata ultima."
+          text: "Io fui interrogata ultima."
         sequence-15:
           s: 15
           from: "00:01:26,19"
@@ -268,7 +268,7 @@ it:
           s: 53
           from: "00:05:04,28"
           to: "00:05:16,16"
-          text: "Si disse che gli avevano sparato o ucciso da una bomba."
+          text: "Si disse che gli avevano sparato o che fu ucciso da una bomba."
         sequence-54:
           s: 54
           from: "00:05:16,16"
@@ -373,14 +373,14 @@ it:
           s: 74
           from: "00:07:20,07"
           to: "00:07:25,24"
-          text: ~
+          text: "Ancora e ancora c'erano segnalazioni: qualcos'altro che accaddeva."
         sequence-75:
           s: 75
           from: "00:07:25,24"
           to: "00:07:29,29"
-          text: ~
+          text: "Là ne hanno rapito uno o ne hanno ucciso uno o..."
         sequence-76:
           s: 76
           from: "00:07:29,29"
           to: "00:07:34,00"
-          text: ~
+          text: "Bene, per noi, grazie a Dio, questo non è successo."
