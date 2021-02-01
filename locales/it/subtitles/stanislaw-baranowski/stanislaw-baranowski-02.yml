@@ -223,12 +223,12 @@ it:
           s: 44
           from: "00:05:14,24"
           to: "00:05:22,13"
-          text: "Allora decidemmo di portare dagli ospedali le salme."
+          text: "Allora decidemmo di portare dagli ospedali dei cadaveri."
         sequence-45:
           s: 45
           from: "00:05:22,13"
           to: "00:05:45,15"
-          text: "E le portavamo… portavamo la salma sul carro."
+          text: "E li portavamo… portavamo il cadavere su un carro."
         sequence-46:
           s: 46
           from: "00:05:45,15"
