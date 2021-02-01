@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:04:50,10"
           to: "00:05:00,27"
-          text: ~
+          text: "Successivamente iniziammo a organizzare, oltre agli aiuti materiali, cioè non nel senso di denaro, ma i vestiti, il cibo, anche le fughe."
         sequence-42:
           s: 42
           from: "00:05:00,27"
@@ -218,17 +218,17 @@ it:
           s: 43
           from: "00:05:05,03"
           to: "00:05:14,24"
-          text: ~
+          text: "Ma dopo la prima fuga che abbiamo aiutato a organizzare, i tedeschi notarono che mancava qualcuno e da allora c'erano delle forti repressioni."
         sequence-44:
           s: 44
           from: "00:05:14,24"
           to: "00:05:22,13"
-          text: ~
+          text: "Allora decidemmo di portare dagli ospedali le salme."
         sequence-45:
           s: 45
           from: "00:05:22,13"
           to: "00:05:45,15"
-          text: ~
+          text: "E le portavamo… portavamo la salma sul carro."
         sequence-46:
           s: 46
           from: "00:05:45,15"
