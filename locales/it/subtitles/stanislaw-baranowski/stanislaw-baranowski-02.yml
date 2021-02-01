@@ -2,7 +2,7 @@ it:
   stanislaw-baranowski:
     chapter-2:
       c: 2
-      title: ~
+      title: "Aiuto ai soldati, poveri e prigionieri di guerra"
       subtitles:
         sequence-1:
           s: 1
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:03:52,29"
           to: "00:04:07,29"
-          text: "Aiutavamo a trovargli del cibo, vestiti, e iniziammo ad organizzare le fughe dei nostri ufficiali da quel ospedale."
+          text: "Aiutavamo a trovargli del cibo, vestiti, e iniziammo a organizzare le fughe dei nostri ufficiali da quel ospedale."
         sequence-35:
           s: 35
           from: "00:04:07,29"
@@ -273,9 +273,9 @@ it:
           s: 54
           from: "00:06:48,17"
           to: "00:06:57,05"
-          text: "Scappavano o con il carro, o a volte dovevano passare tra il filo spinato, o tra i cespugli."
+          text: "Scappavano o su un carro, o a volte dovevano passare tra il filo spinato, o tra i cespugli."
         sequence-55:
           s: 55
           from: "00:06:57,05"
           to: "00:07:02,28"
-          text: ~
+          text: "E andò avanti in questo modo fino alla chiusura dell'ospedale."
