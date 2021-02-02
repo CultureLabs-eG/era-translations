@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:19,08"
           to: "00:01:30,21"
-          text: ~
+          text: "In seguito venne fuori che era un tradidore, per mano sua molte persone erano state arrastate."
         sequence-17:
           s: 17
           from: "00:01:30,21"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:32,24"
           to: "00:01:41,15"
-          text: ~
+          text: "Le nostre organizzazioni nacquero dal basso."
         sequence-19:
           s: 19
           from: "00:01:41,15"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:42,19"
           to: "00:02:01,12"
-          text: ~
+          text: "Quando ci unimmo al gruppo degli scout, il nostro gruppo che era fatto di dieci o dodici persone, crebbe, divenne più grande."
         sequence-21:
           s: 21
           from: "00:02:01,12"
@@ -118,22 +118,22 @@ it:
           s: 23
           from: "00:02:10,03"
           to: "00:02:21,15"
-          text: ~
+          text: "non le consegnavo personalmente, ma le distribuivano tra cinque, sei, sette compagni e loro aiutavano a consegnarle."
         sequence-24:
           s: 24
           from: "00:02:21,15"
           to: "00:02:28,17"
-          text: ~
+          text: "All'inizio era sciocco perché avevamo paura a portarle."
         sequence-25:
           s: 25
           from: "00:02:28,17"
           to: "00:02:35,10"
-          text: ~
+          text: "Le infilavamo sotto le porte per informare i cittadini di Varsavia su cosa stava accadendo."
         sequence-26:
           s: 26
           from: "00:02:35,10"
           to: "00:02:42,19"
-          text: ~
+          text: "Alle persone che conoscevamo, dicevamo di passare il bollettino, una volta letto, ad altri."
         sequence-27:
           s: 27
           from: "00:02:42,19"
