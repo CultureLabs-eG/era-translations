@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:19,08"
           to: "00:01:30,21"
-          text: "In seguito venne fuori che era un tradidore, per mano sua molte persone erano state arrastate."
+          text: "In seguito venne fuori che era un traditore, per colpa sua molte persone erano state arrastate."
         sequence-17:
           s: 17
           from: "00:01:30,21"
@@ -118,12 +118,12 @@ it:
           s: 23
           from: "00:02:10,03"
           to: "00:02:21,15"
-          text: "non le consegnavo personalmente, ma le distribuivano tra cinque, sei, sette compagni e loro aiutavano a consegnarle."
+          text: "non le consegnavo personalmente, ma le distribuivano tra cinque, sei, sette compagni e loro mi aiutavano a consegnarle."
         sequence-24:
           s: 24
           from: "00:02:21,15"
           to: "00:02:28,17"
-          text: "All'inizio era sciocco perché avevamo paura a portarle."
+          text: "All'inizio era sciocco perché avevamo paura di consegnarle."
         sequence-25:
           s: 25
           from: "00:02:28,17"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:35,10"
           to: "00:02:42,19"
-          text: "Alle persone che conoscevamo, dicevamo di passare il bollettino, una volta letto, ad altri."
+          text: "Alle persone che conoscevamo dicevamo di passare il bollettino, una volta letto, ad altri."
         sequence-27:
           s: 27
           from: "00:02:42,19"
