@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:26,12"
           to: "00:00:30,09"
-          text: "Così ho chiesto: \"Bene, che cosa succede? Sì.\" \"Vedrai.\""
+          text: "Così ho chiesto: \"Bene dunque, che cosa succede? Sì.\" \"Vedrai.\""
         sequence-7:
           s: 7
           from: "00:00:30,09"
