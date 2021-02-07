@@ -2,7 +2,7 @@ it:
   stanislaw-baranowski:
     chapter-3:
       c: 3
-      title: ~
+      title: "Coinvolgimento nella resistenza armata"
       subtitles:
         sequence-1:
           s: 1
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:02:02,13"
           to: "00:02:10,03"
-          text: ~
+          text: "Capitava che, quando portavo un centinaio di copie del \"Bollettino Informativo\","
         sequence-23:
           s: 23
           from: "00:02:10,03"
@@ -148,12 +148,12 @@ it:
           s: 29
           from: "00:02:55,05"
           to: "00:03:08,06"
-          text: ~
+          text: "Io iniziai già dal 1941 a lavorare in questo ambito di contatti."
         sequence-30:
           s: 30
           from: "00:03:08,06"
           to: "00:03:15,09"
-          text: ~
+          text: "Andavo in posti diversi, a Grójec, a Radom."
         sequence-31:
           s: 31
           from: "00:03:15,09"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:03:56,18"
           to: "00:03:59,18"
-          text: "L'unico modo di arrivarci era fingermi un operaio."
+          text: "L'unico modo per arrivarci era fingermi un operaio."
         sequence-41:
           s: 41
           from: "00:03:59,18"
