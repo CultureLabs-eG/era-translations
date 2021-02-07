@@ -193,7 +193,7 @@ it:
           s: 38
           from: "00:03:39,07"
           to: "00:03:49,20"
-          text: "Perché i tedeschi costruirono due aeroporti a Grójec e a Wolanów."
+          text: "Perché i tedeschi costruirono due aeroporti: vicino a Grójec e a Wolanów."
         sequence-39:
           s: 39
           from: "00:03:49,20"
@@ -238,7 +238,7 @@ it:
           s: 47
           from: "00:04:35,28"
           to: "00:04:40,23"
-          text: ~
+          text: "Ci misi tre o quattro giorni, non l'intera settimana."
         sequence-48:
           s: 48
           from: "00:04:40,23"
@@ -278,7 +278,7 @@ it:
           s: 55
           from: "00:05:20,20"
           to: "00:05:32,22"
-          text: "All'epoca tra Radom e Roszki uccisero su quel treno un generale tedesco. Presi parte in quella azione."
+          text: "All'epoca tra Radom e Roszki venne ucciso su quel treno un generale tedesco. Presi parte in quella azione."
         sequence-56:
           s: 56
           from: "00:05:32,22"
@@ -288,9 +288,9 @@ it:
           s: 57
           from: "00:05:41,03"
           to: "00:05:49,22"
-          text: "Inoltre con quel carro portavo fucili, munizioni e altre cose."
+          text: "Cioè con quel carro avevo portato i fucili, le munizioni e altre cose."
         sequence-58:
           s: 58
           from: "00:05:49,22"
           to: "00:05:53,13"
-          text: "Poi riportavo il tutto. Era questo il mio ruolo."
+          text: "Poi dovevo riprendere e riportare il tutto. Era questo il mio ruolo."

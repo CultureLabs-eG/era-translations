@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,12"
           to: "00:00:06,04"
-          text: ~
+          text: "A un certo punto, per avere un contatto con il ghetto,"
         sequence-2:
           s: 2
           from: "00:00:06,04"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:36,00"
           to: "00:00:41,22"
-          text: ~
+          text: "Aiutavo a organizzare il trasporto del cibo."
         sequence-9:
           s: 9
           from: "00:00:41,22"
