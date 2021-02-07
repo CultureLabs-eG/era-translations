@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:02:02,20"
           to: "00:02:08,16"
-          text: ~
+          text: "Lui veva una grande ditta di cavalli, perché non c'erano le macchine all'epoca."
         sequence-20:
           s: 20
           from: "00:02:08,16"
           to: "00:02:13,16"
-          text: ~
+          text: "E sotto ogni fornitura di carbone o legna c'era nascosto il cibo."
         sequence-21:
           s: 21
           from: "00:02:13,16"
@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:02:14,27"
           to: "00:02:18,08"
-          text: ~
+          text: "E se fosse lo avessero beccato perché stava aiutando gli ebrei..."
         sequence-23:
           s: 23
           from: "00:02:18,08"
           to: "00:02:20,28"
-          text: ~
+          text: "E quando portavamo fuori gli ebrei."
         sequence-24:
           s: 24
           from: "00:02:20,28"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:03:41,15"
           to: "00:03:46,20"
-          text: ~
+          text: "Ma nessuno lo faceva gratis. Dobbiamo dirlo."
         sequence-37:
           s: 37
           from: "00:03:46,20"
@@ -193,22 +193,22 @@ it:
           s: 38
           from: "00:03:47,00"
           to: "00:03:48,26"
-          text: ~
+          text: "I bambini."
         sequence-39:
           s: 39
           from: "00:03:48,26"
           to: "00:03:54,29"
-          text: ~
+          text: "Con le ragazze non c'erano problemi, ma i ragazzi, se erano circoncisi, era un problema."
         sequence-40:
           s: 40
           from: "00:03:54,29"
           to: "00:03:59,03"
-          text: ~
+          text: "Per prima cosa bisognava andare da qualche parte in campagna,"
         sequence-41:
           s: 41
           from: "00:03:59,03"
           to: "00:04:04,07"
-          text: ~
+          text: "per avere dal prete un certificato di nascita."
         sequence-42:
           s: 42
           from: "00:04:04,07"
@@ -238,7 +238,7 @@ it:
           s: 47
           from: "00:04:37,19"
           to: "00:04:40,04"
-          text: ~
+          text: "I conventi aiutavano molto."
         sequence-48:
           s: 48
           from: "00:04:40,04"
