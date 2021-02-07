@@ -98,27 +98,27 @@ it:
           s: 19
           from: "00:02:31,04"
           to: "00:02:37,02"
-          text: ~
+          text: "Dall'altro lato stavano i piedi gli inglesi."
         sequence-20:
           s: 20
           from: "00:02:37,02"
           to: "00:02:44,05"
-          text: ~
+          text: "Ero così arrabbiata: \"Oh, questi sarebbero i nostri alleati?\""
         sequence-21:
           s: 21
           from: "00:02:44,05"
           to: "00:02:48,06"
-          text: ~
+          text: "Gli ridemmo in faccia."
         sequence-22:
           s: 22
           from: "00:02:48,06"
           to: "00:02:54,02"
-          text: ~
+          text: "Le nostre donne - le nostre madri piangevano e gridavano."
         sequence-23:
           s: 23
           from: "00:02:54,02"
           to: "00:03:03,02"
-          text: ~
+          text: "Dicevo allora: \"Se potessi gli salterei sulla faccia e gliela spaccherei.\""
         sequence-24:
           s: 24
           from: "00:03:03,02"
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:03:07,20"
           to: "00:03:15,28"
-          text: ~
+          text: "Nello stesso momento in cui, l'Austria viene liberata, noi veniamo liberati,"
         sequence-26:
           s: 26
           from: "00:03:15,28"
           to: "00:03:23,26"
-          text: ~
+          text: "e devi ancora affrontare cose del genere, ci rendeva furiose."
         sequence-27:
           s: 27
           from: "00:03:23,26"
@@ -143,17 +143,17 @@ it:
           s: 28
           from: "00:03:36,14"
           to: "00:03:50,09"
-          text: ~
+          text: "Fino al 1955 potevano imparare il tedesco e lo sloveno a scuola, dato che era un'area bilingue."
         sequence-29:
           s: 29
           from: "00:03:50,09"
           to: "00:03:58,14"
-          text: ~
+          text: "All'improvviso con il trattato è cambiato di nuovo. Ci fu un trattato di stato intorno al 1957."
         sequence-30:
           s: 30
           from: "00:03:58,14"
           to: "00:04:07,16"
-          text: ~
+          text: "I maestri andarono nelle strade con i loro ragazzi"
         sequence-31:
           s: 31
           from: "00:04:07,16"
@@ -163,29 +163,29 @@ it:
           s: 32
           from: "00:04:11,17"
           to: "00:04:17,09"
-          text: ~
+          text: "e protestarono perché non potevano più insegnare e imparare lo sloveno."
         sequence-33:
           s: 33
           from: "00:04:17,09"
           to: "00:04:28,15"
-          text: ~
+          text: "Dopo i nostri ragazzi dovevano essere iscritti dai loro genitori, se volevano che imparassero lo sloveno."
         sequence-34:
           s: 34
           from: "00:04:28,15"
           to: "00:04:34,01"
-          text: ~
+          text: "Solo i più grandi non dovevano."
         sequence-35:
           s: 35
           from: "00:04:34,01"
           to: "00:04:38,25"
-          text: ~
+          text: "Ma le lezioni non erano uguali a quelle in tedesco."
         sequence-36:
           s: 36
           from: "00:04:38,25"
           to: "00:04:41,14"
-          text: ~
+          text: "Avevano solo poche lezioni."
         sequence-37:
           s: 37
           from: "00:04:41,14"
           to: "00:04:48,20"
-          text: ~
+          text: "Questa era un'altra discriminazione degli sloveni della Carinzia."

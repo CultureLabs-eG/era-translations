@@ -2,28 +2,28 @@ it:
   ana-zablatnik:
     chapter-11:
       c: 11
-      title: ~
+      title: "Suo marito, un disertore"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:03,04"
           to: "00:00:06,16"
-          text: ~
+          text: "Anche il mio ultimo marito era un disertore."
         sequence-2:
           s: 2
           from: "00:00:06,16"
           to: "00:00:13,16"
-          text: ~
+          text: "Era in vacanza ed era a casa nel luglio del 1944."
         sequence-3:
           s: 3
           from: "00:00:13,16"
           to: "00:00:21,22"
-          text: ~
+          text: "Invece di tornare indietro, salutò e andò a Klagenfurt."
         sequence-4:
           s: 4
           from: "00:00:21,22"
           to: "00:00:31,19"
-          text: ~
+          text: "Lì non salì sul treno, ma si recò da un vicino, quella notte,"
         sequence-5:
           s: 5
           from: "00:00:31,19"
