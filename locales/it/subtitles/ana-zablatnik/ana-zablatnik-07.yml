@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:01,24"
           to: "00:00:03,26"
-          text: ~
+          text: "Anch'io ero in prigione. C'è stato un raid."
         sequence-2:
           s: 2
           from: "00:00:03,26"
           to: "00:00:12,03"
-          text: ~
+          text: "Qualcuno ha detto - ciò è accaduto alla fine di ottobre - che stavamo tenendo dei contatti."
         sequence-3:
           s: 3
           from: "00:00:12,03"
@@ -23,32 +23,32 @@ it:
           s: 4
           from: "00:00:13,28"
           to: "00:00:22,21"
-          text: ~
+          text: "Una volta ce n'era una, che era stata anche imprigionata, che diceva sempre:"
         sequence-5:
           s: 5
           from: "00:00:22,21"
           to: "00:00:26,12"
-          text: ~
+          text: "\"Se succede qualcosa, vorresti venire con noi?\""
         sequence-6:
           s: 6
           from: "00:00:26,12"
           to: "00:00:30,09"
-          text: ~
+          text: "Così ho chiesto: \"Bene, che cosa succede? Sì.\" \"Vedrai.\""
         sequence-7:
           s: 7
           from: "00:00:30,09"
           to: "00:00:34,12"
-          text: ~
+          text: "Qualcosa è stato dato via, presumibilmente."
         sequence-8:
           s: 8
           from: "00:00:34,12"
           to: "00:00:50,00"
-          text: ~
+          text: "C'erano due supervisori che avevano contatti con i comunisti."
         sequence-9:
           s: 9
           from: "00:00:50,00"
           to: "00:00:56,09"
-          text: ~
+          text: "Due o tre autobus avrebbero dovuto prelevarci dopo."
         sequence-10:
           s: 10
           from: "00:00:56,09"
