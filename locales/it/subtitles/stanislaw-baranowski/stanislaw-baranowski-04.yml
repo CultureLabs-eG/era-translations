@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:41,22"
           to: "00:00:50,28"
-          text: ~
+          text: "Il ghetto aveva dei cancelli, che erano sorvegliati dai tedeschi."
         sequence-10:
           s: 10
           from: "00:00:50,28"
@@ -58,42 +58,42 @@ it:
           s: 11
           from: "00:00:51,24"
           to: "00:01:02,04"
-          text: ~
+          text: "E lì gli ebrei si mettevano d'accordo con i tedeschi. Non so quanto gli pagassero."
         sequence-12:
           s: 12
           from: "00:01:02,04"
           to: "00:01:09,13"
-          text: ~
+          text: "I tedeschi lasciavano entrare il carro con i viveri"
         sequence-13:
           s: 13
           from: "00:01:09,13"
           to: "00:01:30,00"
-          text: ~
+          text: "e lo scortavano persino verso la destinazione, perché la polizia ebraica era peggio della Gestapo."
         sequence-14:
           s: 14
           from: "00:01:30,00"
           to: "00:01:34,20"
-          text: ~
+          text: "Quindi un tedesco scortava il carro verso il luogo in cui doveva essere scaricato."
         sequence-15:
           s: 15
           from: "00:01:34,20"
           to: "00:01:39,00"
-          text: ~
+          text: "Chiaramente in cambio di mazzette. Si potevano corrompere in un modo o nell'altro."
         sequence-16:
           s: 16
           from: "00:01:39,00"
           to: "00:01:47,14"
-          text: ~
+          text: "Conobbi persone che avevano il diritto di entrare nel ghetto e che consegnavano legna da ardere."
         sequence-17:
           s: 17
           from: "00:01:47,14"
           to: "00:01:56,06"
-          text: ~
+          text: "Janek M., non voglio dire il suo cognome, consegnava al ghetto legna da ardere."
         sequence-18:
           s: 18
           from: "00:01:56,06"
           to: "00:02:02,20"
-          text: ~
+          text: "Carbone, legna."
         sequence-19:
           s: 19
           from: "00:02:02,20"
