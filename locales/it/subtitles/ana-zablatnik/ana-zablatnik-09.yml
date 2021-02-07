@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:49,01"
           to: "00:00:52,17"
-          text: ~
+          text: "Alla fine non sapevamo più dove metterlo."
         sequence-9:
           s: 9
           from: "00:00:52,17"
@@ -53,24 +53,24 @@ it:
           s: 10
           from: "00:00:56,00"
           to: "00:01:00,22"
-          text: ~
+          text: "Dopotutto si disse: 'È un bene che siamo tutti sloveni.'"
         sequence-11:
           s: 11
           from: "00:01:00,22"
           to: "00:01:04,29"
-          text: ~
+          text: "Ma ce n'erano tanti che dicevano di essere sloveni,"
         sequence-12:
           s: 12
           from: "00:01:04,29"
           to: "00:01:09,28"
-          text: ~
+          text: "per paura che i partigiani avessero fatto loro qualcosa in caso contrario."
         sequence-13:
           s: 13
           from: "00:01:09,28"
           to: "00:01:23,25"
-          text: ~
+          text: "Il 20 arrivò l'ordine dei partigiani di andarsene e ritirarsi oltre confine."
         sequence-14:
           s: 14
           from: "00:01:23,25"
           to: "00:01:36,05"
-          text: ~
+          text: "Fu una disdetta per noi perché perdemmo il nostro supporto."
