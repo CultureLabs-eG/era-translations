@@ -28,12 +28,12 @@ it:
           s: 5
           from: "00:00:31,19"
           to: "00:00:37,23"
-          text: ~
+          text: "dove ce n'era già un altro (anche della Wehrmacht)."
         sequence-6:
           s: 6
           from: "00:00:37,23"
           to: "00:00:44,09"
-          text: ~
+          text: "Hanno costruito un bunker per loro ed è lì che sono rimasti fino al gennaio del 1945."
         sequence-7:
           s: 7
           from: "00:00:44,09"
@@ -43,4 +43,4 @@ it:
           s: 8
           from: "00:00:46,05"
           to: "00:00:51,00"
-          text: ~
+          text: "Anche lui era nella Resistenza."
