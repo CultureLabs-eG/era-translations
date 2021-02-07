@@ -243,12 +243,12 @@ it:
           s: 48
           from: "00:04:40,23"
           to: "00:04:55,10"
-          text: ~
+          text: "Notai che era un aeroporto enorme, che, ci atteravano, ad esempio, due o tre aerei al giorno."
         sequence-49:
           s: 49
           from: "00:04:55,10"
           to: "00:05:02,07"
-          text: ~
+          text: "Tornai a Varsavia con lo stesso cavallo di Radom. Per arrivare a Varsavia ci misi due giorni."
         sequence-50:
           s: 50
           from: "00:05:02,07"
@@ -258,7 +258,7 @@ it:
           s: 51
           from: "00:05:03,24"
           to: "00:05:08,24"
-          text: ~
+          text: "Inoltre, mentre tornavo a Varsavia, stabilì un nuovo contatto."
         sequence-52:
           s: 52
           from: "00:05:08,24"
@@ -268,7 +268,7 @@ it:
           s: 53
           from: "00:05:09,24"
           to: "00:05:19,20"
-          text: ~
+          text: "Si trattava di un gruppo di Kielce - presi anche parte in un'azione nei pressi di Kielce."
         sequence-54:
           s: 54
           from: "00:05:19,20"
@@ -278,19 +278,19 @@ it:
           s: 55
           from: "00:05:20,20"
           to: "00:05:32,22"
-          text: ~
+          text: "All'epoca tra Radom e Roszki uccisero su quel treno un generale tedesco. Presi parte in quella azione."
         sequence-56:
           s: 56
           from: "00:05:32,22"
           to: "00:05:41,03"
-          text: ~
+          text: "Però non come partecipante diretto, ma come aiutante."
         sequence-57:
           s: 57
           from: "00:05:41,03"
           to: "00:05:49,22"
-          text: ~
+          text: "Inoltre con quel carro portavo fucili, munizioni e altre cose."
         sequence-58:
           s: 58
           from: "00:05:49,22"
           to: "00:05:53,13"
-          text: ~
+          text: "Poi riportavo il tutto. Era questo il mio ruolo."
