@@ -58,47 +58,47 @@ it:
           s: 11
           from: "00:01:28,20"
           to: "00:01:36,20"
-          text: ~
+          text: "Ovviamente abbiamo camminato dalla mia città natale, 30 kilometri."
         sequence-12:
           s: 12
           from: "00:01:36,20"
           to: "00:01:43,04"
-          text: ~
+          text: "Volevo vedere la città per la prima volta in vita mia."
         sequence-13:
           s: 13
           from: "00:01:43,04"
           to: "00:01:52,04"
-          text: ~
+          text: "Sono rimasto affascinato dai palazzi triestini, sopratutto in via Carducci, la strada principale."
         sequence-14:
           s: 14
           from: "00:01:52,04"
           to: "00:01:57,25"
-          text: ~
+          text: "Ho chiesto a mio padre di spiegarmi, che cosa fosse una cosa."
         sequence-15:
           s: 15
           from: "00:01:57,25"
           to: "00:02:04,02"
-          text: ~
+          text: "In quel momento qualcuno che indossava un'uniforme fascista mi sputò in faccia"
         sequence-16:
           s: 16
           from: "00:02:04,02"
           to: "00:02:11,09"
-          text: ~
+          text: "e minacciò di colpirmi in faccia se avesse sentito un'altra parola così oscena."
         sequence-17:
           s: 17
           from: "00:02:11,09"
           to: "00:02:21,18"
-          text: ~
+          text: "Anche se ero solo un bambino, questo è stato il momento in cui il fascismo è istintivamente emerso dentro di me in forma di identificazione:"
         sequence-18:
           s: 18
           from: "00:02:21,18"
           to: "00:02:28,29"
-          text: ~
+          text: "chiunque e ciascuno parlasse la lingua italiana era fascista."
         sequence-19:
           s: 19
           from: "00:02:28,29"
           to: "00:02:34,10"
-          text: ~
+          text: "Quindi, l'inizio è stato piuttosto traumatico."
         sequence-20:
           s: 20
           from: "00:02:34,10"
@@ -108,9 +108,9 @@ it:
           s: 21
           from: "00:02:35,22"
           to: "00:02:46,09"
-          text: ~
+          text: "Da un lato è stato ingiusto con me, personalmente, perché sono stato coinvolto nella persecuzione degli sloveni."
         sequence-22:
           s: 22
           from: "00:02:46,09"
           to: "00:03:02,00"
-          text: ~
+          text: "Anche con la mia famiglia, anch'essa esposta a varie molestie dove viveva e lavorava."
