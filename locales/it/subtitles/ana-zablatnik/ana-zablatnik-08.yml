@@ -2,13 +2,13 @@ it:
   ana-zablatnik:
     chapter-8:
       c: 8
-      title: ~
+      title: "Le terribili condizioni in prigione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:09,06"
-          text: ~
+          text: "Circa 40 - 50 donne stavano in una cella con 10 letti."
         sequence-2:
           s: 2
           from: "00:00:09,06"
