@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:01:02,04"
           to: "00:01:11,00"
-          text: ~
+          text: "unirsi al resto del territorio sloveno in una nuova forma di comunità."
         sequence-8:
           s: 8
           from: "00:01:11,00"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:01:12,06"
           to: "00:01:21,05"
-          text: ~
+          text: "Poi ci sono stati i mormorii del Movimento partigiano nella regione di Primorje."
         sequence-10:
           s: 10
           from: "00:01:21,05"
@@ -58,37 +58,37 @@ it:
           s: 11
           from: "00:01:22,13"
           to: "00:01:38,04"
-          text: ~
+          text: "Sempre indignato contro la politica fascista ovunque nelle profondità del sistema scolastico, lo riferii immediatamente agli attivisti."
         sequence-12:
           s: 12
           from: "00:01:38,04"
           to: "00:01:49,20"
-          text: ~
+          text: "Volevo unirmi ai partigiani. Il mio primo contatto fu con l'unità operante nel Karst e nella valle di Vipava."
         sequence-13:
           s: 13
           from: "00:01:49,20"
           to: "00:01:54,28"
-          text: ~
+          text: "Mi sono presentato alla fine del 1942."
         sequence-14:
           s: 14
           from: "00:01:54,28"
           to: "00:02:06,24"
-          text: ~
+          text: "Mi hanno avvisato che l'inverno si stava avvicinando e che era inutile perché le foglie sarebbero cadute e camuffarsi sarebbe stato più difficile."
         sequence-15:
           s: 15
           from: "00:02:06,24"
           to: "00:02:17,07"
-          text: ~
+          text: "Mi hanno detto di tornare in primavera e che allora sarebbero stati felici di avermi. Così sono tornato a casa."
         sequence-16:
           s: 16
           from: "00:02:17,07"
           to: "00:02:33,25"
-          text: ~
+          text: "Chissà se era solo un segno del destino, ma nel febbraio 1943 l'esercito italiano trovò questo gruppo e li massacrò tutti. Ogni giovane partigiano."
         sequence-17:
           s: 17
           from: "00:02:33,25"
           to: "00:02:49,16"
-          text: ~
+          text: "Poi hanno portato i cadaveri al cimitero di Stanjel e hanno forzato la gente del luogo a andare e vedere i partigiani morti."
         sequence-18:
           s: 18
           from: "00:02:49,16"
@@ -98,17 +98,17 @@ it:
           s: 19
           from: "00:02:53,08"
           to: "00:03:03,18"
-          text: ~
+          text: "Volevano che avessimo l'impressione, che il movimento di Resistenza fosse finito. Ci hanno stipati in quel cimitero."
         sequence-20:
           s: 20
           from: "00:03:03,18"
           to: "00:03:23,10"
-          text: ~
+          text: "Solo per dare un'impatto più forte hanno spogliato parzialmente i cadaveri e li hanno girati in vari modi, mostrando persino i loro genitali."
         sequence-21:
           s: 21
           from: "00:03:23,10"
           to: "00:03:34,14"
-          text: ~
+          text: "Questo disonore al defunto per me fu un oltraggio, considerando la mia educazione classica direttamente dal seminario di teologia -"
         sequence-22:
           s: 22
           from: "00:03:34,14"
