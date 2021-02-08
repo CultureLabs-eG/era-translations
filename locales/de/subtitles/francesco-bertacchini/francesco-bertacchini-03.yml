@@ -733,7 +733,7 @@ de:
           s: 146
           from: "00:16:45,14"
           to: "00:16:49,25"
-          text: "Er sagt: \"Du bist doch der Lehrling von Magnani!"
+          text: "Er sagte: \"Du bist doch der Lehrling von Magnani!"
         sequence-147:
           s: 147
           from: "00:16:49,26"
@@ -763,7 +763,7 @@ de:
           s: 152
           from: "00:17:24,22"
           to: "00:17:29,06"
-          text: "Also frage ich: \"Wo gehst du hin?\""
+          text: "Also fragte ich: \"Wo gehst du hin?\""
         sequence-153:
           s: 153
           from: "00:17:29,07"
@@ -803,7 +803,7 @@ de:
           s: 160
           from: "00:18:20,06"
           to: "00:18:26,22"
-          text: "Also haben sie uns der \"Cervi\"-Gruppe zugeteilt und abends sagten sie dann:"
+          text: "Dann haben sie uns der \"Cervi\"-Gruppe zugeteilt und abends sagten sie:"
         sequence-161:
           s: 161
           from: "00:18:26,23"
