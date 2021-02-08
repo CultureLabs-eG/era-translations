@@ -83,7 +83,7 @@ de:
           s: 16
           from: "00:01:33,12"
           to: "00:01:42,00"
-          text: "Es war keine Kaserne der Schwarzen Brigaden, sondern der Grünen Flammen..."
+          text: "Es war keine Kaserne der Schwarzen Brigaden, sondern der Grünen Flammen oder so..."
         sequence-17:
           s: 17
           from: "00:01:42,01"
@@ -713,97 +713,97 @@ de:
           s: 142
           from: "00:16:20,11"
           to: "00:16:24,09"
-          text: ~
+          text: "Den ganzen Tag lang war es so,"
         sequence-143:
           s: 143
           from: "00:16:24,10"
           to: "00:16:31,04"
-          text: ~
+          text: "denn wir hatten nicht einmal Geld, um etwas einzukaufen, abgesehen davon, dass es nichts zu kaufen gab."
         sequence-144:
           s: 144
           from: "00:16:31,05"
           to: "00:16:39,28"
-          text: ~
+          text: "Gegen Abend sahen wir jemanden aus dem Wald kommen."
         sequence-145:
           s: 145
           from: "00:16:39,29"
           to: "00:16:45,13"
-          text: ~
+          text: "Es war einer aus Gavasseto, dem ich ein Radio gebracht hatte."
         sequence-146:
           s: 146
           from: "00:16:45,14"
           to: "00:16:49,25"
-          text: ~
+          text: "Er sagt: \"Du bist doch der Lehrling von Magnani!"
         sequence-147:
           s: 147
           from: "00:16:49,26"
           to: "00:17:01,04"
-          text: ~
+          text: "Du hast bei mir das Radio aufgebaut, erinnerst du dich? Ich wohne in Gavasseto.\" \"Ja, ich erinnere mich!\""
         sequence-148:
           s: 148
           from: "00:17:01,05"
           to: "00:17:05,18"
-          text: ~
+          text: "Also los, wir nahmen unsere Sachen und gingen mit."
         sequence-149:
           s: 149
           from: "00:17:05,19"
           to: "00:17:11,06"
-          text: ~
+          text: "Die Partisanen waren bei Capanne di Succiso."
         sequence-150:
           s: 150
           from: "00:17:11,07"
           to: "00:17:14,25"
-          text: ~
+          text: "Nach dem Mittagessen haben sie die Abteilung zweigeteilt"
         sequence-151:
           s: 151
           from: "00:17:14,26"
           to: "00:17:22,25"
-          text: ~
+          text: "und mein Freund Pancio und ich wurden getrennt."
         sequence-152:
           s: 152
           from: "00:17:24,22"
           to: "00:17:29,06"
-          text: ~
+          text: "Also frage ich: \"Wo gehst du hin?\""
         sequence-153:
           s: 153
           from: "00:17:29,07"
           to: "00:17:32,27"
-          text: ~
+          text: "\"Sie haben mich hier eingeteilt und du gehst in die Cervi-Gruppe.\""
         sequence-154:
           s: 154
           from: "00:17:32,28"
           to: "00:17:40,06"
-          text: ~
+          text: "\"Nein, lass uns zusammenbleiben, wir sind wie Brüder und können uns doch"
         sequence-155:
           s: 155
           from: "00:17:40,07"
           to: "00:17:47,11"
-          text: ~
+          text: "nicht trennen lassen\", von Leuten, die wir kaum kannten, die wir nur kurz gesehen hatten."
         sequence-156:
           s: 156
           from: "00:17:56,05"
           to: "00:18:06,11"
-          text: ~
+          text: "Also bin ich zu \"Mario\", den ich neulich noch auf einem Foto gesehen habe, und sagte: \"Schau...\", \"Sbafi\" war Kommandeur und \"Mario\" war Politkommissar,"
         sequence-157:
           s: 157
           from: "00:18:06,12"
           to: "00:18:13,25"
-          text: ~
+          text: "\"Wir sind wie Brüder, lasst uns zusammenbleiben, sonst wird das nichts.\""
         sequence-158:
           s: 158
           from: "00:18:13,26"
           to: "00:18:17,13"
-          text: ~
+          text: "Und er: \"Kein Problem, wollt ihr in die Gruppe oder in die?\""
         sequence-159:
           s: 159
           from: "00:18:17,14"
           to: "00:18:20,05"
-          text: ~
+          text: "\"Das ist egal, Hauptsache wir bleiben zusammen.\""
         sequence-160:
           s: 160
           from: "00:18:20,06"
           to: "00:18:26,22"
-          text: ~
+          text: "Also haben sie uns der \"Cervi\"-Gruppe zugeteilt und abends sagten sie dann:"
         sequence-161:
           s: 161
           from: "00:18:26,23"
