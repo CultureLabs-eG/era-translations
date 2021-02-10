@@ -38,62 +38,62 @@ de:
           s: 7
           from: "00:00:49,24"
           to: "00:00:57,00"
-          text: "Einmal pro Woche sollte die Ablösung stattfinden,"
+          text: "Einmal pro Woche sollte gewechselt werden,"
         sequence-8:
           s: 8
           from: "00:00:57,01"
           to: "00:01:02,07"
-          text: ~
+          text: "doch seit fast zwanzig Tagen war keine Ablösung gekommen."
         sequence-9:
           s: 9
           from: "00:01:02,08"
           to: "00:01:18,20"
-          text: ~
+          text: "Wir lebten im Wald, ohne Schutzmöglichkeit, ohne einen sicheren Ort."
         sequence-10:
           s: 10
           from: "00:01:18,21"
           to: "00:01:41,04"
-          text: ~
+          text: "Die diensthabende Patrouille auf dem Pass war immer in Alarmbereitschaft, denn jederzeit hätte etwas passieren können."
         sequence-11:
           s: 11
           from: "00:01:41,05"
           to: "00:01:50,05"
-          text: ~
+          text: "Weil wir schon so lange da oben waren, fingen wir an, uns beim Kommando zu beschweren und die Ablösung einzufordern,"
         sequence-12:
           s: 12
           from: "00:01:50,06"
           to: "00:01:52,08"
-          text: ~
+          text: "denn fast alle begannen krank zu werden."
         sequence-13:
           s: 13
           from: "00:01:52,09"
           to: "00:02:03,14"
-          text: ~
+          text: "Denn Ende September gab es dort viel Nebel"
         sequence-14:
           s: 14
           from: "00:02:03,15"
           to: "00:02:06,18"
-          text: ~
+          text: "und es begann zu schneien, Anfang Oktober schneite es immer"
         sequence-15:
           s: 15
           from: "00:02:06,19"
           to: "00:02:15,21"
-          text: ~
+          text: "und dann war das Schlafen im Wald und das Patrouillieren auf der Straße gar nicht schön."
         sequence-16:
           s: 16
           from: "00:02:15,22"
           to: "00:02:27,13"
-          text: ~
+          text: "Wir beschwerten uns heftig beim Kommando: dann kam die Abteilung \"Piccinini\", die von \"Gek\" kommandiert wurde, um uns abzulösen."
         sequence-17:
           s: 17
           from: "00:02:27,14"
           to: "00:02:38,04"
-          text: ~
+          text: "Ich hatte eine leichte Grippe und sollte danach wieder zu meiner Abteilung gehen."
         sequence-18:
           s: 18
           from: "00:02:38,05"
           to: "00:02:44,06"
-          text: ~
+          text: "Ich habe meine Abteilung aber nicht wiedergefunden,"
         sequence-19:
           s: 19
           from: "00:02:44,07"

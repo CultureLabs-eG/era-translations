@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:02:15,22"
           to: "00:02:27,13"
-          text: "Ci siamo lamentati fortemente con il comando: è venuto il distaccamento del “Piccinini” che era comandato da Jack e ci è venuto a dare il cambio."
+          text: "Ci siamo lamentati fortemente con il comando: è venuto il distaccamento del “Piccinini” che era comandato da \"Gek\" e ci è venuto a dare il cambio."
         sequence-17:
           s: 17
           from: "00:02:27,14"
