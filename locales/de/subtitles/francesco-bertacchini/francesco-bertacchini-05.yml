@@ -108,17 +108,17 @@ de:
           s: 21
           from: "00:02:10,02"
           to: "00:02:15,16"
-          text: ~
+          text: "Einer nach dem andern ist raus, während sie schossen,"
         sequence-22:
           s: 22
           from: "00:02:15,17"
           to: "00:02:20,17"
-          text: ~
+          text: "aber sie schossen auf die Kühe und wir schafften es rechtzeitig raus."
         sequence-23:
           s: 23
           from: "00:02:20,18"
           to: "00:02:31,17"
-          text: ~
+          text: "Ich war der letzte, der rauskam, schaute mich um, sah aber niemanden mehr, weil da ein Hühnerstall war, hab dort nachgeschaut, nichts."
         sequence-24:
           s: 24
           from: "00:02:31,18"
