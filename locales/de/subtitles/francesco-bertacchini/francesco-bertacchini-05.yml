@@ -73,27 +73,27 @@ de:
           s: 14
           from: "00:01:25,22"
           to: "00:01:36,01"
-          text: ~
+          text: "Bei uns war Licht an und einer hat mit dem Kolben seines Gewehrs die Glühbirne zerschlagen, damit wir im Dunklen waren."
         sequence-15:
           s: 15
           from: "00:01:36,02"
           to: "00:01:40,02"
-          text: ~
+          text: "Sobald das Licht ausging, haben sie angefangen auf uns zu schießen."
         sequence-16:
           s: 16
           from: "00:01:40,03"
           to: "00:01:45,04"
-          text: ~
+          text: "Dabei haben sie zwei Kühe und eine Esel getötet."
         sequence-17:
           s: 17
           from: "00:01:45,05"
           to: "00:01:53,02"
-          text: ~
+          text: "Einer von uns hatte seine Schuhe ausgezogen und keine Zeit mehr sie zu suchen, wir rannten alle weg."
         sequence-18:
           s: 18
           from: "00:01:53,03"
           to: "00:02:01,05"
-          text: ~
+          text: "Wir flüchteten nach hinten, denn auf der Türseite waren wir schon umzingelt;"
         sequence-19:
           s: 19
           from: "00:02:01,06"
