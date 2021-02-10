@@ -98,12 +98,12 @@ de:
           s: 19
           from: "00:02:01,06"
           to: "00:02:05,07"
-          text: ~
+          text: "eine Eisentür, die war noch nie geöffnet worden,"
         sequence-20:
           s: 20
           from: "00:02:05,08"
           to: "00:02:10,01"
-          text: ~
+          text: "nach drei oder vier Schlägen gelang es uns, sie von unten aufzuhebeln."
         sequence-21:
           s: 21
           from: "00:02:10,02"
