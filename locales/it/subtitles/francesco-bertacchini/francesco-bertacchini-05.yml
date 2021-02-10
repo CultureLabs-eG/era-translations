@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:05:31,02"
           to: "00:05:43,20"
-          text: "mentre guardo dentro la cucina c’è una vecchietta con il bastone che stava soffiando vero il fuoco per accendere il camino."
+          text: "mentre guardo dentro la cucina c’è una vecchietta con il bastone che stava soffiando verso il fuoco per accendere il camino."
         sequence-40:
           s: 40
           from: "00:05:43,21"
@@ -218,7 +218,7 @@ it:
           s: 43
           from: "00:05:58,22"
           to: "00:06:08,20"
-          text: "Allora sono andato davanti alla porta, sono andato dentro  e ho iniziato a picchiarla e le ho detto “Nonna, nonna!”"
+          text: "Allora sono andato davanti alla porta, sono andato dentro e ho iniziato a picchiarla e le ho detto “Nonna, nonna!”"
         sequence-44:
           s: 44
           from: "00:06:08,21"
