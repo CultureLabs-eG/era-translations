@@ -123,22 +123,22 @@ de:
           s: 24
           from: "00:02:31,18"
           to: "00:02:45,13"
-          text: ~
+          text: "Ich ging um die Scheune herum, aber das war die falsche Richtung,"
         sequence-25:
           s: 25
           from: "00:02:45,14"
           to: "00:02:52,08"
-          text: ~
+          text: "denn ich ging in Richtung Straße und plötzlich höre ich jemanden sagen:"
         sequence-26:
           s: 26
           from: "00:02:52,09"
           to: "00:02:55,19"
-          text: ~
+          text: "\"Komm mit erhobenen Händen her!\" Verfluchter Mist, hier war ich wohl falsch..."
         sequence-27:
           s: 27
           from: "00:02:55,20"
           to: "00:03:09,02"
-          text: ~
+          text: "Also habe ich ein Salve auf sie gefeuert, damit sie sich abregten, und bin zurück, ging wieder in den Hühnerstall und auf die andere Seite, da war ein Graben."
         sequence-28:
           s: 28
           from: "00:03:09,03"
