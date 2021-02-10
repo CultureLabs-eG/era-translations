@@ -93,32 +93,32 @@ de:
           s: 18
           from: "00:02:38,05"
           to: "00:02:44,06"
-          text: "Ich habe meine Abteilung aber nicht wiedergefunden,"
+          text: "Ich habe meine Abteilung aber nicht wiedergefunden."
         sequence-19:
           s: 19
           from: "00:02:44,07"
           to: "00:02:50,22"
-          text: ~
+          text: "Sie hätten in der Nähe von Legoreccio sein sollen: dort wollten sie sich erholen,"
         sequence-20:
           s: 20
           from: "00:02:50,23"
           to: "00:02:55,17"
-          text: ~
+          text: "es war eine ruhige und sichere Gegend."
         sequence-21:
           s: 21
           from: "00:02:55,18"
           to: "00:03:03,17"
-          text: ~
+          text: "Als wir dort jedoch ankamen, wir waren zu zweit, war die Abteilung schon in Richtung Parma aufgebrochen."
         sequence-22:
           s: 22
           from: "00:03:03,18"
           to: "00:03:11,09"
-          text: ~
+          text: "Da wir unsere Abteilung nicht gefunden hatten, versuchten wir, zur nächstgelegenen zu kommen,"
         sequence-23:
           s: 23
           from: "00:03:11,10"
           to: "00:03:14,12"
-          text: ~
+          text: "diese Abteilung hieß \"Antifaschist\"."
         sequence-24:
           s: 24
           from: "00:03:14,13"
