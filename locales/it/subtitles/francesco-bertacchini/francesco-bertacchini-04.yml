@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,00"
           to: "00:00:08,14"
-          text: "Dopo ci hanno inquadrati e poi la lì siamo andati fino al valico del Cerreto"
+          text: "Dopo ci hanno inquadrati e poi da lì siamo andati fino al valico del Cerreto"
         sequence-2:
           s: 2
           from: "00:00:08,15"

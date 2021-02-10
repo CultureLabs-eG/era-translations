@@ -8,37 +8,37 @@ de:
           s: 1
           from: "00:00:00,00"
           to: "00:00:08,14"
-          text: ~
+          text: "Wir wurden aufgenommen und sind dann bis zum Cerreto Pass gelaufen,"
         sequence-2:
           s: 2
           from: "00:00:08,15"
           to: "00:00:16,04"
-          text: ~
+          text: "um die Straße zu blockieren, weil der Verkehr zugenommen hatte"
         sequence-3:
           s: 3
           from: "00:00:16,05"
           to: "00:00:24,08"
-          text: ~
+          text: "und die Deutschen anfingen uns entlang der Strße Ärger zu bereiten."
         sequence-4:
           s: 4
           from: "00:00:24,09"
           to: "00:00:28,10"
-          text: ~
+          text: "Von Aulla bis Castelnovo Monti waren ständig"
         sequence-5:
           s: 5
           from: "00:00:28,11"
           to: "00:00:35,24"
-          text: ~
+          text: "Deutsche mit Panzern und Autos unterwegs."
         sequence-6:
           s: 6
           from: "00:00:36,00"
           to: "00:00:49,23"
-          text: ~
+          text: "So beschlossen wir, sie zu stören, denn für uns war das schon eine Gegend, in der wir nicht mehr ungestört waren."
         sequence-7:
           s: 7
           from: "00:00:49,24"
           to: "00:00:57,00"
-          text: ~
+          text: "Einmal pro Woche sollte die Ablösung stattfinden,"
         sequence-8:
           s: 8
           from: "00:00:57,01"
