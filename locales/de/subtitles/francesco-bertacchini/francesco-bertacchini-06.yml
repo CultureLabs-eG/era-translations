@@ -43,27 +43,27 @@ de:
           s: 8
           from: "00:00:55,05"
           to: "00:01:09,05"
-          text: ~
+          text: "Ich sagte: \"Pancio war doch dieser Guerillakämpfer.... Wie hieß der? Na, der Südamerikaner..."
         sequence-9:
           s: 9
           from: "00:01:09,06"
           to: "00:01:15,20"
-          text: ~
+          text: "Nein, nein, ich nehm was subtileres.\""
         sequence-10:
           s: 10
           from: "00:01:15,21"
           to: "00:01:21,01"
-          text: ~
+          text: "Der andere sagte: \"Er ist Pancio und ich nenne mich Vipera (Viper)\"."
         sequence-11:
           s: 11
           from: "00:01:21,02"
           to: "00:01:27,05"
-          text: ~
+          text: "Ich fragte: \"Warum Vipera?\" \"Weil sie mir Angst macht.\""
         sequence-12:
           s: 12
           from: "00:01:27,06"
           to: "00:01:35,13"
-          text: ~
+          text: "\"Du bist Vipera und ich nenne mich Volpe (Fuchs). Der ist flink und läuft der Gefahr davon und rettet sich.\""
         sequence-13:
           s: 13
           from: "00:01:35,14"
