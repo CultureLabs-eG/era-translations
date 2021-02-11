@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:00,00"
           to: "00:00:07,09"
-          text: "Zwei Tage vor der Durchquerung des Enza"
+          text: "Zwei Tage vor der Durchquerung des Flusses Enza"
         sequence-2:
           s: 2
           from: "00:00:07,10"
@@ -38,7 +38,7 @@ de:
           s: 7
           from: "00:00:46,07"
           to: "00:00:57,19"
-          text: "Es wurde beschlossen, alle Partisanen zu schützen, die sich in der Gegend von Vetto und Rosano aufhielten,"
+          text: "Es wurde beschlossen, alle Partisanen zu schützen, die sich in der Gegend von Vetto und Rosano aufhalten,"
         sequence-8:
           s: 8
           from: "00:00:57,20"
@@ -48,47 +48,47 @@ de:
           s: 9
           from: "00:01:07,20"
           to: "00:01:11,22"
-          text: ~
+          text: "Am Abend sagte der Kommandeur zu uns:"
         sequence-10:
           s: 10
           from: "00:01:11,23"
           to: "00:01:25,14"
-          text: ~
+          text: "\"Jungs, wir müssen jetzt wirklich aufmerksam Wache halten, weil überall Deutsche sind"
         sequence-11:
           s: 11
           from: "00:01:25,15"
           to: "00:01:31,01"
-          text: ~
+          text: "und ihr sie sehen könnt, also haltet die Augen offen,"
         sequence-12:
           s: 12
           from: "00:01:31,02"
           to: "00:01:37,20"
-          text: ~
+          text: "denn wenn wir was unüberlegtes tun"
         sequence-13:
           s: 13
           from: "00:01:37,21"
           to: "00:01:43,00"
-          text: ~
+          text: "oder einen Deutschen töten, werden sie danach das Dorf niederbrennen."
         sequence-14:
           s: 14
           from: "00:01:43,01"
           to: "00:01:53,05"
-          text: ~
+          text: "Gegen drei Uhr morgens kam der Befehl zum Aufbruch, wir sollten losgehen,"
         sequence-15:
           s: 15
           from: "00:01:53,06"
           to: "00:02:03,11"
-          text: ~
+          text: "denn inzwischen waren keine Partisanen mehr in der Gegend."
         sequence-16:
           s: 16
           from: "00:02:03,12"
           to: "00:02:06,12"
-          text: ~
+          text: "Wir waren demzufolge die Nachhut, und konnten in Ruhe abziehen;"
         sequence-17:
           s: 17
           from: "00:02:06,13"
           to: "00:02:15,24"
-          text: ~
+          text: "die Stafetten kamen, nachdem sie sich draußen umgesehen hatten, und sagten, die Straße sei frei, also los..."
         sequence-18:
           s: 18
           from: "00:02:16,00"
