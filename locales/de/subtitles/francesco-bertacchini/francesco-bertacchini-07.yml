@@ -153,7 +153,7 @@ de:
           s: 30
           from: "00:04:12,22"
           to: "00:04:18,03"
-          text: "Aber als wir drin waren, ging uns das Wasser bis zu den Schultern"
+          text: "Aber als wir drin waren, ging uns das Wasser bis zu den Schultern."
         sequence-31:
           s: 31
           from: "00:04:18,04"
@@ -183,7 +183,7 @@ de:
           s: 36
           from: "00:04:46,12"
           to: "00:04:57,02"
-          text: "diese Nebelwolke über der Straße verschwindet und man kann die ganze Straße einsehen, die nach Vetto hinaufführt."
+          text: "diese Nebelwolke über der Straße verschwand und man konnte die ganze Straße einsehen, die nach Vetto hinaufführt."
         sequence-37:
           s: 37
           from: "00:04:57,03"
@@ -203,7 +203,7 @@ de:
           s: 40
           from: "00:05:23,11"
           to: "00:05:30,09"
-          text: "auch an, auf uns zu schießen. Schießen die Deutschen, dann schießen wir auch, solche Esel!"
+          text: "auch an, auf uns zu schießen. Schießen die Deutschen, also schießen die auch, solche Esel!"
         sequence-41:
           s: 41
           from: "00:05:30,10"
@@ -228,7 +228,7 @@ de:
           s: 45
           from: "00:05:49,00"
           to: "00:05:57,04"
-          text: "Wir Partisanen gingen trotzdem weiter, obwohl die anderen Partisanen schossen, denn es gab keinen anderen Ausweg:"
+          text: "Wir gingen trotzdem weiter, obwohl die anderen Partisanen schossen, denn es gab keinen anderen Ausweg:"
         sequence-46:
           s: 46
           from: "00:05:57,05"
@@ -253,7 +253,7 @@ de:
           s: 50
           from: "00:06:19,17"
           to: "00:06:32,15"
-          text: "\"Glaubst du wirklich, die Deutschen kommen mit uns durchs Wasser gelaufen? Dass wir gemeinsam mühen durch das Hochwasser zu kommen, echt?\""
+          text: "\"Glaubst du wirklich, die Deutschen kommen mit uns durchs Wasser gelaufen? Dass wir uns gemeinsam mühen durch das Hochwasser zu kommen, echt?\""
         sequence-51:
           s: 51
           from: "00:06:32,16"
@@ -263,12 +263,12 @@ de:
           s: 52
           from: "00:06:36,20"
           to: "00:06:40,17"
-          text: "Tatsache ist, dass wir es hinüber schafften und es bis zum Monte Caio schafften."
+          text: "Tatsache ist, dass wir es hinüber schafften und dann bis zum Monte Caio kamen."
         sequence-53:
           s: 53
           from: "00:06:40,18"
           to: "00:06:54,15"
-          text: "Aber es regnete ununterbrochen jeden Tag, und als wir höher kamen, wurde aus Wasser Graupel, aus Graupel wurde Schnee."
+          text: "Aber es regnete ununterbrochen jeden Tag, und als wir höher kamen, wurde aus Regen Graupel, aus Graupel wurde Schnee."
         sequence-54:
           s: 54
           from: "00:06:54,16"
@@ -288,7 +288,7 @@ de:
           s: 57
           from: "00:07:27,21"
           to: "00:07:36,17"
-          text: "Wir gingen bis zum Monte Penice in der Provinz Piacenza."
+          text: "wir gingen bis zum Monte Penice in der Provinz Piacenza."
         sequence-58:
           s: 58
           from: "00:07:36,18"
