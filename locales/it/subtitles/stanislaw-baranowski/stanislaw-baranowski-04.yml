@@ -288,17 +288,17 @@ it:
           s: 57
           from: "00:05:23,16"
           to: "00:05:27,13"
-          text: ~
+          text: "Tutto questo costava."
         sequence-58:
           s: 58
           from: "00:05:27,13"
           to: "00:05:41,15"
-          text: ~
+          text: "Quando si andava da un prete così, bisognava larsciargli sul vassoio dei soldi, affinché rilasciasse quel certificato di nascita."
         sequence-59:
           s: 59
           from: "00:05:41,15"
           to: "00:05:43,22"
-          text: ~
+          text: "Perché correva dei rischi anche lui."
         sequence-60:
           s: 60
           from: "00:05:43,22"
@@ -313,7 +313,7 @@ it:
           s: 62
           from: "00:05:56,00"
           to: "00:06:00,23"
-          text: ~
+          text: "Doveva cambiare tutto nei registri per assicararsi che non ci fossero discrepanze."
         sequence-63:
           s: 63
           from: "00:06:00,23"
@@ -323,12 +323,12 @@ it:
           s: 64
           from: "00:06:02,00"
           to: "00:06:10,17"
-          text: ~
+          text: "C'era bisogno del tempo, dell'organizzazione, dei contatti... e dell'insolenza e della sfacciataggine."
         sequence-65:
           s: 65
           from: "00:06:10,17"
           to: "00:06:14,00"
-          text: ~
+          text: "Di tutti i pregi e i difetti che una persona può avere."
         sequence-66:
           s: 66
           from: "00:06:14,00"
@@ -338,12 +338,12 @@ it:
           s: 67
           from: "00:06:15,00"
           to: "00:06:19,19"
-          text: ~
+          text: "Perché per avere dal prete un certificato di nascita, bisognava pagarlo."
         sequence-68:
           s: 68
           from: "00:06:19,19"
           to: "00:06:26,21"
-          text: ~
+          text: "Successivamente, per fare la \"Kennkarte\", il prezzo medio era fino a mille zloty o di più."
         sequence-69:
           s: 69
           from: "00:06:26,21"
