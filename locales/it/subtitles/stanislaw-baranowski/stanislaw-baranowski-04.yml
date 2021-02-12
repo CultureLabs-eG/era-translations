@@ -458,7 +458,7 @@ it:
           s: 91
           from: "00:08:29,10"
           to: "00:08:37,08"
-          text: "Del resto, non erano i tedeschi quelli che formavano colonne di ebrei da mandare all' Umschlagplatz."
+          text: "Del resto, non erano i tedeschi quelli che formavano colonne di ebrei da mandare all'Umschlagplatz."
         sequence-92:
           s: 92
           from: "00:08:37,08"
@@ -473,4 +473,4 @@ it:
           s: 94
           from: "00:08:45,10"
           to: "00:08:49,00"
-          text: ~
+          text: "e loro portarono per il trasporto quattrocento ebrei."
