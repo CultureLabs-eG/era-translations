@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:02:20,28"
           to: "00:02:32,00"
-          text: ~
+          text: "Se si andava di notte, li si portava in quei nascondigli."
         sequence-25:
           s: 25
           from: "00:02:32,00"
@@ -203,12 +203,12 @@ it:
           s: 40
           from: "00:03:54,29"
           to: "00:03:59,03"
-          text: "Per prima cosa bisognava andare da qualche parte in campagna,"
+          text: "Per prima cosa bisognava andare nei villaggi,"
         sequence-41:
           s: 41
           from: "00:03:59,03"
           to: "00:04:04,07"
-          text: "per avere dal prete un certificato di nascita."
+          text: "per procurarsi da qualche prete un certificato di nascita."
         sequence-42:
           s: 42
           from: "00:04:04,07"
@@ -218,17 +218,17 @@ it:
           s: 43
           from: "00:04:05,07"
           to: "00:04:14,06"
-          text: ~
+          text: "Andavamo in provincia, intorno a Varsavia, da qualche parte come Góra Kalwaria o Grójec."
         sequence-44:
           s: 44
           from: "00:04:14,06"
           to: "00:04:20,08"
-          text: ~
+          text: "Lì rilasciavano i certificati di nascita."
         sequence-45:
           s: 45
           from: "00:04:20,08"
           to: "00:04:26,13"
-          text: ~
+          text: "Si facevano i documenti e a qual punto si poteva portere fuori senza problemi o un ragazzo o..."
         sequence-46:
           s: 46
           from: "00:04:26,13"

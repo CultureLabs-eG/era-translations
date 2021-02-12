@@ -108,37 +108,37 @@ de:
           s: 21
           from: "00:02:46,02"
           to: "00:02:51,16"
-          text: ~
+          text: "Sie fingen an zu rufen: \"Wo ist denn der Wachposten? Wo ist die Wache?"
         sequence-22:
           s: 22
           from: "00:02:51,17"
           to: "00:02:57,02"
-          text: ~
+          text: "Hier sollte eine Wache stehen! Wieso ist hier keiner?"
         sequence-23:
           s: 23
           from: "00:02:57,03"
           to: "00:03:03,12"
-          text: ~
+          text: "Wie kann es in diesem Gebiet keine Wache geben!?\""
         sequence-24:
           s: 24
           from: "00:03:03,13"
           to: "00:03:07,12"
-          text: ~
+          text: "Als sie dicht bei mir waren wachte ich auf:"
         sequence-25:
           s: 25
           from: "00:03:07,13"
           to: "00:03:13,24"
-          text: ~
+          text: "\"Hier bin ich, mein Zahn tut weh...\" \"In Ordnung. Da sprechen wir morgen früh drüber.\""
         sequence-26:
           s: 26
           from: "00:03:14,00"
           to: "00:03:21,23"
-          text: ~
+          text: "Am Morgen gab es ein großes Plenum... La Gabellina war das Restaurant!"
         sequence-27:
           s: 27
           from: "00:03:21,24"
           to: "00:03:29,21"
-          text: ~
+          text: "Ein kurzes Treffen, um meine Bestrafung mitzuteilen, denn so ging das ja nicht..."
         sequence-28:
           s: 28
           from: "00:03:29,22"
