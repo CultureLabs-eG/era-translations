@@ -233,7 +233,7 @@ it:
           s: 46
           from: "00:04:26,13"
           to: "00:04:37,19"
-          text: ~
+          text: "Molti bambini, maschi, portati fuori dal ghetto, andavano nei conventi."
         sequence-47:
           s: 47
           from: "00:04:37,19"
@@ -248,22 +248,22 @@ it:
           s: 49
           from: "00:04:52,26"
           to: "00:04:59,20"
-          text: "Procuravo i documenti o consegnavo i certificati di nascita, oppure portavo qualcuno al convento."
+          text: "Li procuravo i documenti o consegnavo i certificati di nascita, oppure portavo qualcuno al convento."
         sequence-50:
           s: 50
           from: "00:04:59,20"
           to: "00:05:02,22"
-          text: ~
+          text: "Ma non è che portavo il bambino direttamente al convento, no."
         sequence-51:
           s: 51
           from: "00:05:02,22"
           to: "00:05:07,13"
-          text: ~
+          text: "Lo portavo, diciamo, fino a Karczew e lì,"
         sequence-52:
           s: 52
           from: "00:05:07,13"
           to: "00:05:16,00"
-          text: ~
+          text: "a Karczew, lo affidavo a qualcun altro e quel qualcuno lo doveva portare fino al convento."
         sequence-53:
           s: 53
           from: "00:05:16,00"
@@ -273,12 +273,12 @@ it:
           s: 54
           from: "00:05:17,03"
           to: "00:05:19,14"
-          text: ~
+          text: "Ecco perché abbiamo così tanti preti…"
         sequence-55:
           s: 55
           from: "00:05:19,14"
           to: "00:05:22,27"
-          text: ~
+          text: "Se li guarda, si vede che sono ebrei."
         sequence-56:
           s: 56
           from: "00:05:22,27"
