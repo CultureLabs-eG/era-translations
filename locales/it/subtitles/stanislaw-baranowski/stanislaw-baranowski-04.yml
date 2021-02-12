@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:06,04"
           to: "00:00:16,05"
-          text: ~
+          text: "otenni dall'Amministrazione Controllata per i beni immobiliari degli ebrei a Varsavia un lasciapassare."
         sequence-3:
           s: 3
           from: "00:00:16,05"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:17,00"
           to: "00:00:21,26"
-          text: ~
+          text: "Era l'avvocato Jarczyk. Si trovava in via Królewska, 6."
         sequence-5:
           s: 5
           from: "00:00:21,26"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:23,01"
           to: "00:00:35,04"
-          text: ~
+          text: "Ebbi da lui questo lasciapassare e con quello potevo entrare nel ghetto."
         sequence-7:
           s: 7
           from: "00:00:35,04"
@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:02:14,27"
           to: "00:02:18,08"
-          text: "E se fosse lo avessero beccato perché stava aiutando gli ebrei..."
+          text: "E se lo avessero beccato perché aiutava gli ebrei..."
         sequence-23:
           s: 23
           from: "00:02:18,08"
           to: "00:02:20,28"
-          text: "E quando portavamo fuori gli ebrei."
+          text: "E come facevamo a portare fuori gli ebrei?"
         sequence-24:
           s: 24
           from: "00:02:20,28"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:32,26"
           to: "00:02:49,23"
-          text: ~
+          text: "Tutto era possibile in cambio di grandi somme di denaro."
         sequence-27:
           s: 27
           from: "00:02:49,23"
