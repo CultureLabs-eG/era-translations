@@ -418,12 +418,12 @@ it:
           s: 83
           from: "00:07:50,22"
           to: "00:07:56,09"
-          text: ~
+          text: "Perché non ho mai visto che nel ghetto i tedeschi sparassero agli ebrei."
         sequence-84:
           s: 84
           from: "00:07:56,09"
           to: "00:08:03,09"
-          text: ~
+          text: "Mentre vidi con i propri occhi la polizia ebraica uccidere gli ebrei nel ghetto."
         sequence-85:
           s: 85
           from: "00:08:03,09"
@@ -433,12 +433,12 @@ it:
           s: 86
           from: "00:08:13,02"
           to: "00:08:17,03"
-          text: ~
+          text: "All'epoca non li capivo."
         sequence-87:
           s: 87
           from: "00:08:17,03"
           to: "00:08:20,05"
-          text: ~
+          text: "Solo a Majdanek, capì a cosa era dovuto."
         sequence-88:
           s: 88
           from: "00:08:20,05"
@@ -448,7 +448,7 @@ it:
           s: 89
           from: "00:08:21,00"
           to: "00:08:28,16"
-          text: ~
+          text: "Quel gruppo di persone, quelli che gestivano il ghetto, volevano sopravvivere a tutti i costi."
         sequence-90:
           s: 90
           from: "00:08:28,16"
@@ -458,17 +458,17 @@ it:
           s: 91
           from: "00:08:29,10"
           to: "00:08:37,08"
-          text: ~
+          text: "Del resto, non erano i tedeschi quelli che formavano colonne di ebrei da mandare all' Umschlagplatz."
         sequence-92:
           s: 92
           from: "00:08:37,08"
           to: "00:08:41,11"
-          text: ~
+          text: "Lo facevano gli ebrei, quei poliziotti ebrei."
         sequence-93:
           s: 93
           from: "00:08:41,11"
           to: "00:08:45,10"
-          text: ~
+          text: "Gli era stato detto che dovevano far arrivare alla rampa quattrocento ebrei,"
         sequence-94:
           s: 94
           from: "00:08:45,10"
