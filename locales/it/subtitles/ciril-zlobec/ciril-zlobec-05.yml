@@ -23,17 +23,17 @@ it:
           s: 4
           from: "00:00:27,28"
           to: "00:00:40,20"
-          text: ~
+          text: "o dichiarare un'intera popolazione solo per quel che è espresso dai suoi rappresentati politici, militari o di altro tipo."
         sequence-5:
           s: 5
           from: "00:00:40,20"
           to: "00:00:47,24"
-          text: ~
+          text: "Ho incominciato a capire che gli italiani, non meno di noi, sono abbastanza disperati."
         sequence-6:
           s: 6
           from: "00:00:47,24"
           to: "00:00:57,09"
-          text: ~
+          text: "Che ci sono quelli a cui sono vicino e quelli avversi, che sono miei nemici come io lo sono."
         sequence-7:
           s: 7
           from: "00:00:57,09"
@@ -43,27 +43,27 @@ it:
           s: 8
           from: "00:00:58,00"
           to: "00:01:06,00"
-          text: ~
+          text: "Al nostro ritorno dal confinamento italiano, siamo andati tutti insieme in gruppi."
         sequence-9:
           s: 9
           from: "00:01:06,00"
           to: "00:01:24,25"
-          text: ~
+          text: "Ricordo che il giorno in cui tornai da sei mesi di reclusione, mi lavai, mi cambiai e mi avviai per unirmi ai Partigiani."
         sequence-10:
           s: 10
           from: "00:01:24,25"
           to: "00:01:34,16"
-          text: ~
+          text: "La mia famiglia voleva che restassi almeno un giorno intero. No. Non non vedevo l'ora."
         sequence-11:
           s: 11
           from: "00:01:34,16"
           to: "00:01:42,16"
-          text: ~
+          text: "Per me unirmi ai Partigiani è stato come scoprire l'America."
         sequence-12:
           s: 12
           from: "00:01:42,16"
           to: "00:01:49,13"
-          text: ~
+          text: "Volevo diventare un combattente attivo e non solo un simpatizzante."
         sequence-13:
           s: 13
           from: "00:01:49,13"
@@ -73,27 +73,27 @@ it:
           s: 14
           from: "00:01:51,08"
           to: "00:02:03,12"
-          text: ~
+          text: "Lo stato d'animo dopo la caduta del fascismo - formalmente il 25 luglio e più tardi l'8 settembre -"
         sequence-15:
           s: 15
           from: "00:02:03,12"
           to: "00:02:10,10"
-          text: ~
+          text: "quando l'Italia aderì all'arresa incondizionata,"
         sequence-16:
           s: 16
           from: "00:02:10,10"
           to: "00:02:22,05"
-          text: ~
+          text: "e che è stato quando siamo arrivati dopo pochi giorni di viaggio dall'Abruzzo al Carso,"
         sequence-17:
           s: 17
           from: "00:02:22,05"
           to: "00:02:28,27"
-          text: ~
+          text: "l'atmosfera era già in pieno svolgimento."
         sequence-18:
           s: 18
           from: "00:02:28,27"
           to: "00:02:35,09"
-          text: ~
+          text: "La gente si raccoglieva e applaudiva per la liberazione, convinta che la guerra fosse finita."
         sequence-19:
           s: 19
           from: "00:02:35,09"
