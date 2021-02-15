@@ -218,32 +218,32 @@ it:
           s: 43
           from: "00:05:25,04"
           to: "00:05:33,24"
-          text: ~
+          text: "Lo stavo guardando dritto in faccia, ma grondavo sudore per la paura e il terrore. Mi ha detto di andare."
         sequence-44:
           s: 44
           from: "00:05:33,24"
           to: "00:05:41,24"
-          text: ~
+          text: "Probabilmente non avrei mai potuto dissimulare in quel modo senza i quattro anni di liceo."
         sequence-45:
           s: 45
           from: "00:05:41,24"
           to: "00:05:51,04"
-          text: ~
+          text: "Ero almeno un po' al di sopra del livello a cui erano abituati incontrando un combattente regolare."
         sequence-46:
           s: 46
           from: "00:05:51,04"
           to: "00:05:57,02"
-          text: ~
+          text: "Un ragazzo di campagna sarebbe rimasto a guardare con orrore solo dopo essere stato catturato."
         sequence-47:
           s: 47
           from: "00:05:57,02"
           to: "00:06:05,14"
-          text: ~
+          text: "Una volta scoperta l'efficacia del rosario, sono stato più che felice di continuare a portarlo."
         sequence-48:
           s: 48
           from: "00:06:05,14"
           to: "00:06:10,24"
-          text: ~
+          text: "Ho raccontato questa storia altre due volte e ha sempre funzionato."
         sequence-49:
           s: 49
           from: "00:06:10,24"
@@ -253,17 +253,17 @@ it:
           s: 50
           from: "00:06:11,26"
           to: "00:06:17,18"
-          text: ~
+          text: "...Quelli erano ragazzini; stavano ancora imparando a leggere."
         sequence-51:
           s: 51
           from: "00:06:17,18"
           to: "00:06:21,12"
-          text: ~
+          text: "Avevo un rifugio nascosto a scuola."
         sequence-52:
           s: 52
           from: "00:06:21,12"
           to: "00:06:26,06"
-          text: ~
+          text: "Una tavola che si sollevava e io potevo nascondermici sotto."
         sequence-53:
           s: 53
           from: "00:06:26,06"
