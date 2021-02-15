@@ -88,132 +88,132 @@ it:
           s: 17
           from: "00:02:10,24"
           to: "00:02:20,14"
-          text: ~
+          text: "Quando mi sono unito ai partigiani mi ha detto: Figliolo, so che non preghi, ma... ecco, prendi questo piccolo rosario."
         sequence-18:
           s: 18
           from: "00:02:20,14"
           to: "00:02:26,06"
-          text: ~
+          text: "E me l'ha messo in tasca. Era una contadina."
         sequence-19:
           s: 19
           from: "00:02:26,06"
           to: "00:02:32,26"
-          text: ~
+          text: "Per rispetto a mia madre portavo sempre quel rosario in tasca."
         sequence-20:
           s: 20
           from: "00:02:32,26"
           to: "00:02:43,16"
-          text: ~
+          text: "Quando i tedeschi mi catturarono per la prima volta mi perquisirono e svuotarono le tasche, tirarono fuori il mio rosario."
         sequence-21:
           s: 21
           from: "00:02:43,16"
           to: "00:02:52,17"
-          text: ~
+          text: "Avevano l'abitudine di credere che tutti i Partigiani uccidano preti e brucino chiese."
         sequence-22:
           s: 22
           from: "00:02:52,17"
           to: "00:02:58,10"
-          text: ~
+          text: "Sicuramente si sorpresero di trovare un Partigiano con un rosario in tasca."
         sequence-23:
           s: 23
           from: "00:02:58,10"
           to: "00:03:10,06"
-          text: ~
+          text: "Inoltre, coincideva con le mie carte contraffatte, che affermavano che stavo ancora studiando al seminario teologico."
         sequence-24:
           s: 24
           from: "00:03:10,06"
           to: "00:03:20,05"
-          text: ~
+          text: "Una volta sono caduto tra le posizioni tedesche in strada. Sono stato perquisito, hanno controllato i miei documenti."
         sequence-25:
           s: 25
           from: "00:03:20,05"
           to: "00:03:27,20"
-          text: ~
+          text: "Non avevo soldi con me. Lui mi disse: cosa ci fai qui?"
         sequence-26:
           s: 26
           from: "00:03:27,20"
           to: "00:03:33,19"
-          text: ~
+          text: "Ero nei pressi di Opatje selo. Sulla via per Doberdob."
         sequence-27:
           s: 27
           from: "00:03:33,19"
           to: "00:03:38,12"
-          text: ~
+          text: "Dissi che andavo al seminario presso Gorica."
         sequence-28:
           s: 28
           from: "00:03:38,12"
           to: "00:03:45,18"
-          text: ~
+          text: "Dissero: è il bel mezzo dell'anno scolastico, dunque che cosa ci fai qui?"
         sequence-29:
           s: 29
           from: "00:03:45,18"
           to: "00:03:54,26"
-          text: ~
+          text: "Dissi che ero un po' malato ai polmoni e che ero stato mandato a casa per riprendermi e adesso stavo ritornando."
         sequence-30:
           s: 30
           from: "00:03:54,26"
           to: "00:04:02,17"
-          text: ~
+          text: "Stavo andando in bicicletta. Pensavo che non ci fossero tedeschi in giro così potevo pedalare sulla strada."
         sequence-31:
           s: 31
           from: "00:04:02,17"
           to: "00:04:08,10"
-          text: ~
+          text: "E il soldato: Sì, sì, sì... e che cosa farai senza soldi?"
         sequence-32:
           s: 32
           from: "00:04:08,10"
           to: "00:04:15,17"
-          text: ~
+          text: "Ho spiegato che registriamo le nostre quote in un biglietto e che paghiamo il saldo alla fine dell'anno."
         sequence-33:
           s: 33
           from: "00:04:15,17"
           to: "00:04:21,26"
-          text: ~
+          text: "Era sospettoso di me. Non riusciva a capire come farmi beccare."
         sequence-34:
           s: 34
           from: "00:04:21,26"
           to: "00:04:30,03"
-          text: ~
+          text: "Dopo aver sfogliato le mie carte finalmente tira fuori una foto del mio primo amore, Elvira di Stanjel."
         sequence-35:
           s: 35
           from: "00:04:30,03"
           to: "00:04:38,09"
-          text: ~
+          text: "'Persempre tua Elvira' c'era scritto sul retro. Conosceva un pò di sloveno e mi disse:"
         sequence-36:
           s: 36
           from: "00:04:38,09"
           to: "00:04:47,28"
-          text: ~
+          text: "Traduci questo per me. Per quel poco di sloveno che sapeva, si sentì poi vittorioso, sbuffò:"
         sequence-37:
           s: 37
           from: "00:04:47,28"
           to: "00:04:54,00"
-          text: ~
+          text: "Adesso ti ho beccato. Dunque questo è un seminario teologico? E tu sei un prete?!"
         sequence-38:
           s: 38
           from: "00:04:54,00"
           to: "00:04:59,26"
-          text: ~
+          text: "Ho abbassato la testa e ho detto: Cosa posso dire, la giovinezza è la giovinezza."
         sequence-39:
           s: 39
           from: "00:04:59,26"
           to: "00:05:05,07"
-          text: ~
+          text: "Ero pentito, come a dire che avevo disobbedito alle regole del seminario."
         sequence-40:
           s: 40
           from: "00:05:05,07"
           to: "00:05:11,28"
-          text: ~
+          text: "Mi ha guardato e poi ha detto: È una storia piuttosto inverosimile che hai raccontato, eh?"
         sequence-41:
           s: 41
           from: "00:05:11,28"
           to: "00:05:16,25"
-          text: ~
+          text: "L'ho guardato dritto negli occhi e gli ho detto:"
         sequence-42:
           s: 42
           from: "00:05:16,25"
           to: "00:05:25,04"
-          text: ~
+          text: "È così difficile discernere quando qualcuno sta dicendo una bugia o la verità?"
         sequence-43:
           s: 43
           from: "00:05:25,04"
