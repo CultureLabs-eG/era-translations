@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:37,18"
           to: "00:00:51,22"
-          text: "Mi offrii subito per andare e altri tre uomini erano egualmente entusiasti per unirsi a me contro i carri armati tedeschi con bombe a mano."
+          text: "Mi offrii subito per andare e altri tre uomini erano egualmente entusiasti di unirsi a me contro i carri armati tedeschi con bombe a mano."
         sequence-7:
           s: 7
           from: "00:00:51,22"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:58,12"
           to: "00:01:05,15"
-          text: "e riduci tutto in rovina. I Partigiani più anziani ed esperti ci dissero di calmarci. "
+          text: "e riduci tutto in rovina. I Partigiani più anziani ed esperti ci dissero di calmarci."
         sequence-9:
           s: 9
           from: "00:01:05,15"
@@ -88,74 +88,74 @@ it:
           s: 17
           from: "00:02:09,21"
           to: "00:02:15,02"
-          text: ~
+          text: "Avevamo questi rifugi o fortini in pietra."
         sequence-18:
           s: 18
           from: "00:02:15,02"
           to: "00:02:22,18"
-          text: ~
+          text: "Durante un combattimento dovevamo ripararci dietro ai rifugi."
         sequence-19:
           s: 19
           from: "00:02:22,18"
           to: "00:02:33,05"
-          text: ~
+          text: "Il comando era di restare buoni e calmi e di aspettare fino a quando il comandante non gridasse la carica ('juris')."
         sequence-20:
           s: 20
           from: "00:02:33,05"
           to: "00:02:43,09"
-          text: ~
+          text: "Dovevamo attendere che il nemico si avvicinasse entro i 20 metri e poi ogni uomo doveva scegliere il proprio bersaglio nemico."
         sequence-21:
           s: 21
           from: "00:02:43,09"
           to: "00:02:49,15"
-          text: ~
+          text: "Avremmo caricato tutti insieme. Poi è successo qualcosa di inaspettato."
         sequence-22:
           s: 22
           from: "00:02:49,15"
           to: "00:02:58,28"
-          text: ~
+          text: "Dei 300 uomini dalla nostra parte il nemico si aspettava che almeno 100 morissero."
         sequence-23:
           s: 23
           from: "00:02:58,28"
           to: "00:03:06,11"
-          text: ~
+          text: "Ma quando i tedeschi si avvicinarono, non a 20 metri ma piuttosto a 40 metri,"
         sequence-24:
           s: 24
           from: "00:03:06,11"
           to: "00:03:15,08"
-          text: ~
+          text: "il tizio dietro la mitragliatrice ha iniziato a sparare con la mitragliatrice troppo presto."
         sequence-25:
           s: 25
           from: "00:03:15,08"
           to: "00:03:26,19"
-          text: ~
+          text: "Abbiamo caricato tutti in quel momento, tutti frenetici, tutti in fretta."
         sequence-26:
           s: 26
           from: "00:03:26,19"
           to: "00:03:37,01"
-          text: ~
+          text: "Eravamo all'improvviso dentro le linee tedesche, ben organizzate nella logica di un attacco militare."
         sequence-27:
           s: 27
           from: "00:03:37,01"
           to: "00:03:43,06"
-          text: ~
+          text: "I 300 giovani hanno accusato e causato tale caos"
         sequence-28:
           s: 28
           from: "00:03:43,06"
           to: "00:03:48,12"
-          text: ~
+          text: "che i tedeschi erano così sorpresi che non spararono nemmeno."
         sequence-29:
           s: 29
           from: "00:03:48,12"
           to: "00:03:58,09"
-          text: ~
+          text: "Se avessero sparato a noi avrebbero sparato anche ai loro, perché eravamo tra loro."
         sequence-30:
           s: 30
           from: "00:03:58,09"
           to: "00:04:03,29"
-          text: ~
+          text: "Abbiamo sfondato le loro linee senza combattere."
         sequence-31:
           s: 31
           from: "00:04:03,29"
           to: "00:04:11,00"
-          text: ~
+          text: "Invece di cento morti tra i nostri, solo due caddero, due sono stati feriti e uno è stato fatto prigioniero."
