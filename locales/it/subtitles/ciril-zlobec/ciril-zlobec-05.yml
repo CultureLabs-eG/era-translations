@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:09,22"
           to: "00:00:19,00"
-          text: "quando il fascista mi ha sputato in faccia e ho identificato chiunque parlasse italiano come un fascista."
+          text: "quando il fascista mi ha sputato in faccia e ho identificato chiunque parlasse italiano come fascista."
         sequence-3:
           s: 3
           from: "00:00:19,00"
@@ -98,9 +98,9 @@ it:
           s: 19
           from: "00:02:35,09"
           to: "00:02:53,08"
-          text: ~
+          text: "Quindi i miei compagni e io, eravamo ansiosi e impazienti di cogliere il giorno in cui anche noi saremmo diventati combattenti, prima che la guerra finisse."
         sequence-20:
           s: 20
           from: "00:02:53,08"
           to: "00:03:01,12"
-          text: ~
+          text: "Era una totale illusione che con la capitolazione dell'Italia, anche la Germania sarebbe caduta."
