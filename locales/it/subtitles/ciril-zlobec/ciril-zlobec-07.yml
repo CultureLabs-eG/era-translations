@@ -53,37 +53,37 @@ it:
           s: 10
           from: "00:01:09,01"
           to: "00:01:17,15"
-          text: ~
+          text: "Quella volta ero quasi certo che sarei morto anch'io."
         sequence-11:
           s: 11
           from: "00:01:17,15"
           to: "00:01:28,16"
-          text: ~
+          text: "L'onore prevaleva sulle questioni di sopravvivenza personale in quei momenti."
         sequence-12:
           s: 12
           from: "00:01:28,16"
           to: "00:01:38,20"
-          text: ~
+          text: "Fu un anno dopo quando l'esercito mi ha 'prestato' alla società civile,"
         sequence-13:
           s: 13
           from: "00:01:38,20"
           to: "00:01:49,09"
-          text: ~
+          text: "per aiutarea organizzare la Scuola Partigiana slovena in tutto il territorio di Primorje."
         sequence-14:
           s: 14
           from: "00:01:49,09"
           to: "00:01:58,14"
-          text: ~
+          text: "Ho sempre collaborato nel Carso. Poi sono tornato ancora una volta all'unità."
         sequence-15:
           s: 15
           from: "00:01:58,14"
           to: "00:02:05,05"
-          text: ~
+          text: "Ero molto attivo nelle questioni culturali: scrivevo canzoni, recitavo alle adunanze."
         sequence-16:
           s: 16
           from: "00:02:05,05"
           to: "00:02:12,15"
-          text: ~
+          text: "Le brigate prendevano i nomi di poeti, io ero nella brigata Kosovel."
         sequence-17:
           s: 17
           from: "00:02:12,15"
@@ -93,22 +93,22 @@ it:
           s: 18
           from: "00:02:13,24"
           to: "00:02:19,21"
-          text: ~
+          text: "C'erano anche il battaglione Gregorcic e la brigata Levstik."
         sequence-19:
           s: 19
           from: "00:02:19,21"
           to: "00:02:24,19"
-          text: ~
+          text: "Cultura e combattimento erano amalgamati a quel tempo."
         sequence-20:
           s: 20
           from: "00:02:24,19"
           to: "00:02:35,24"
-          text: ~
+          text: "Avevo fondato suole, insegnato, preside del distretto e non so che altro, tutto ciò che era necessario,"
         sequence-21:
           s: 21
           from: "00:02:35,24"
           to: "00:02:45,24"
-          text: ~
+          text: "Avevo recitato le mie poesie in molte riunioni..."
         sequence-22:
           s: 22
           from: "00:02:45,24"
@@ -118,37 +118,37 @@ it:
           s: 23
           from: "00:02:47,11"
           to: "00:02:55,21"
-          text: ~
+          text: "Era il 1944 e eravamo sicuri che la guerra sarebbe finita quasi il giorno dopo."
         sequence-24:
           s: 24
           from: "00:02:55,21"
           to: "00:03:03,06"
-          text: ~
+          text: "Sono stato richiamato di nuovo nelle forze armate. Mi hanno messo tra i minatori."
         sequence-25:
           s: 25
           from: "00:03:03,06"
           to: "00:03:12,19"
-          text: ~
+          text: "Una volta sono andato con un collega a scavare un tracciato tra Gorica e Trieste."
         sequence-26:
           s: 26
           from: "00:03:12,19"
           to: "00:03:24,09"
-          text: ~
+          text: "Siamo caduti direttamente nell'occupazione tedesca vicino a Doberdob. In qualche modo, e per me è ancora incredibile, siamo rimasti vivi."
         sequence-27:
           s: 27
           from: "00:03:24,09"
           to: "00:03:31,08"
-          text: ~
+          text: "Posso solo immaginare come quel gruppo di tedeschi ci abbia sorpassato."
         sequence-28:
           s: 28
           from: "00:03:31,08"
           to: "00:03:40,07"
-          text: ~
+          text: "Forse non volevano ucciderci, visto che eravamo a dieci metri da loro."
         sequence-29:
           s: 29
           from: "00:03:40,07"
           to: "00:03:49,01"
-          text: ~
+          text: "Non ci hanno nemmeno picchiato. Il comandante convocò in seguito una riunione dell'unità e disse:"
         sequence-30:
           s: 30
           from: "00:03:49,01"
