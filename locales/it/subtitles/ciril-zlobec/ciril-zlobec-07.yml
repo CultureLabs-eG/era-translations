@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:41,07"
           to: "00:00:48,18"
-          text: "Una volta ho trascinato un compagno ferito a morte per quasi tre kilometri."
+          text: "Una volta ho trascinato un compagno ferito a morte per quasi tre chilometri."
         sequence-8:
           s: 8
           from: "00:00:48,18"
@@ -163,12 +163,12 @@ it:
           s: 32
           from: "00:04:00,26"
           to: "00:04:07,08"
-          text: "Ha detto: quando diventa pericoloso, Ciril non entra più in azione. Scrive poesie."
+          text: "Ha detto: quando la situazione si fa pericolosa, Ciril non entra più in azione. Scrive poesie."
         sequence-33:
           s: 33
           from: "00:04:07,08"
           to: "00:04:16,09"
-          text: "Dovevo plasmare parole slovene, in un tempo in cui era ufficialmente vietato usare la lingua slovena"
+          text: "Dovevo plasmare parole slovene, quando era ufficialmente vietato usare la lingua slovena"
         sequence-34:
           s: 34
           from: "00:04:16,09"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:04:33,05"
           to: "00:04:41,03"
-          text: "Era costantemente recitato e tutti noi portavamo libri in miniatura di Presern e Gregorcic."
+          text: "Si recitava costantemente e tutti noi portavamo libri in miniatura di Presern e Gregorcic."
         sequence-37:
           s: 37
           from: "00:04:41,03"
@@ -193,7 +193,7 @@ it:
           s: 38
           from: "00:04:42,13"
           to: "00:04:50,06"
-          text: "Erano tutti troppo pronto a proteggermi e tenermi in salvo, mentre entravano in azione."
+          text: "Erano tutti troppo pronti a proteggermi e tenermi in salvo, mentre entravano in azione."
         sequence-39:
           s: 39
           from: "00:04:50,06"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:04:55,23"
           to: "00:05:02,07"
-          text: "Erano consapevolmente preparati a rischiare la vita per proteggermia."
+          text: "Erano consapevolmente preparati a rischiare la vita per proteggermi."
         sequence-41:
           s: 41
           from: "00:05:02,07"
@@ -288,4 +288,4 @@ it:
           s: 57
           from: "00:06:59,15"
           to: "00:07:09,13"
-          text: ~
+          text: "e sugli aspetti idealistici dell'antifascismo, in tutto ciò che è accaduto tra il 1941 e il 1945."
