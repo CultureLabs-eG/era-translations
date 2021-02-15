@@ -28,32 +28,32 @@ it:
           s: 5
           from: "00:00:39,15"
           to: "00:00:47,20"
-          text: "Se combattessimo con i tedeschi e pensassimo che cinque partigiani sono caduti,"
+          text: "Se combatti con i tedeschi e pensi che cinque partigiani sono caduti,"
         sequence-6:
           s: 6
           from: "00:00:47,20"
           to: "00:00:54,14"
-          text: ~
+          text: "devi esser soddisfatto nel risultato dell'incontro."
         sequence-7:
           s: 7
           from: "00:00:54,14"
           to: "00:01:06,09"
-          text: ~
+          text: "Dovevamo convincerci, indipendentemente da quanto fosse vero, che avevamo perso cinque Partigiani mentre il nemico ne aveva persi venti."
         sequence-8:
           s: 8
           from: "00:01:06,09"
           to: "00:01:15,13"
-          text: ~
+          text: "Hai avuto la sensazione che la morta che ha inghiottito i tuoi colleghi non è stata vana."
         sequence-9:
           s: 9
           from: "00:01:15,13"
           to: "00:01:24,17"
-          text: ~
+          text: "È stato un mini contributo piuttosto alla liberazione e persecuzione del nemico occupante,"
         sequence-10:
           s: 10
           from: "00:01:24,17"
           to: "00:01:31,24"
-          text: ~
+          text: "alla libertà e a tutto ciò che immaginavamo ci sarebbe stato dopo la fine della guerra."
         sequence-11:
           s: 11
           from: "00:01:31,24"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:33,15"
           to: "00:01:36,02"
-          text: ~
+          text: "Io stesso sono stato fortunato."
         sequence-13:
           s: 13
           from: "00:01:36,02"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:37,14"
           to: "00:02:00,00"
-          text: ~
+          text: "Ero un informatore, i tedeschi mi hanno beccato tre volte e tre volte mi hanno lasciato andare; tutto perché ho indossato questo..."
         sequence-15:
           s: 15
           from: "00:02:00,00"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:02:02,16"
           to: "00:02:10,24"
-          text: ~
+          text: "Io sono agnostico. Non sono un uomo credente. Ma mia madre era molto religiosa."
         sequence-17:
           s: 17
           from: "00:02:10,24"
