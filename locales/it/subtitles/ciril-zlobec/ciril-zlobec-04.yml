@@ -53,12 +53,12 @@ it:
           s: 10
           from: "00:01:12,18"
           to: "00:01:21,03"
-          text: ~
+          text: "Già nel 1942 c'erano manifesti appesi in tutta la regione di Primorje,"
         sequence-11:
           s: 11
           from: "00:01:21,03"
           to: "00:01:32,06"
-          text: ~
+          text: "per l'arresto di un noto Partigiano dell'epoca, Janko Premrl - Vojko."
         sequence-12:
           s: 12
           from: "00:01:32,06"
@@ -68,12 +68,12 @@ it:
           s: 13
           from: "00:01:33,17"
           to: "00:01:39,14"
-          text: ~
+          text: "Cadde più tardi in un'azione e fu designato un eroe nazionale."
         sequence-14:
           s: 14
           from: "00:01:39,14"
           to: "00:01:55,21"
-          text: ~
+          text: "Fu offerta una taglia a chiunque lo consegnasse vivo o morto, alle autorità militari italiane."
         sequence-15:
           s: 15
           from: "00:01:55,21"
@@ -83,49 +83,49 @@ it:
           s: 16
           from: "00:01:57,06"
           to: "00:02:04,23"
-          text: ~
+          text: "Nonostante l'ingente somma posta, specie per le condizioni dell'epoca,"
         sequence-17:
           s: 17
           from: "00:02:04,23"
           to: "00:02:13,06"
-          text: ~
+          text: "nessuno è stato tentato al tradimento o alla mediazione di informazioni,"
         sequence-18:
           s: 18
           from: "00:02:13,06"
           to: "00:02:25,16"
-          text: ~
+          text: "per portarlo all'arresto o alla mera identificazione del luogo in cui si trova o delle sue azioni."
         sequence-19:
           s: 19
           from: "00:02:25,16"
           to: "00:02:35,24"
-          text: ~
+          text: "Vojko, cioè Janko Premrl, è diventato un eroe leggendario ai nostri occhi."
         sequence-20:
           s: 20
           from: "00:02:35,24"
           to: "00:02:45,08"
-          text: ~
+          text: "Gli abbiamo attribuito varie azioni, che non aveva fatto, né avrebbe potuto fare."
         sequence-21:
           s: 21
           from: "00:02:45,08"
           to: "00:02:51,28"
-          text: ~
+          text: "Abbiamo detto che era stato nello stesso momento a Venezia, Roma e in cima a Nanos - come un uomo dei miracoli."
         sequence-22:
           s: 22
           from: "00:02:51,28"
           to: "00:02:58,25"
-          text: ~
+          text: "Anche se sapevamo che era impossibile, era quello di cui avevamo sete."
         sequence-23:
           s: 23
           from: "00:02:58,25"
           to: "00:03:08,28"
-          text: ~
+          text: "All'inizio i Partigiani erano solo una piccola banda, ma abbiamo fatto della loro forza quella di un'intera truppa."
         sequence-24:
           s: 24
           from: "00:03:08,28"
           to: "00:03:14,11"
-          text: ~
+          text: "Queste erano le trasognate visioni della Resistenza."
         sequence-25:
           s: 25
           from: "00:03:14,11"
           to: "00:03:25,16"
-          text: ~
+          text: "Ma ovviamente l'antifascismo era già presente nella regione di Primorje da prima della guerra."
