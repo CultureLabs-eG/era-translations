@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:43,03"
           to: "00:00:55,02"
-          text: "dei suoi amici, anche dei suoi vicini dello stesso villaggio, una passione omicida lo travolge."
+          text: "dei suoi amici, anche dei suoi vicini nello stesso villaggio, una passione omicida lo travolge."
         sequence-7:
           s: 7
           from: "00:00:55,02"
           to: "00:01:03,20"
-          text: "Quando combatti, presto o tarsi prevale la logica che la morte del tuo nemico è la tua salvezza."
+          text: "Quando combatti, presto o tardi prevale la logica che la morte del tuo nemico è la tua salvezza."
         sequence-8:
           s: 8
           from: "00:01:03,20"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:02:28,17"
           to: "00:02:35,13"
-          text: "Quindi mi sono spesso offerto volontario per vari nuovi compiti che potessero sorgere in una battaglia."
+          text: "Quindi mi sono spesso offerto volontario per vari nuovi compiti che potessero spuntare in una battaglia."
         sequence-21:
           s: 21
           from: "00:02:35,13"
@@ -343,7 +343,7 @@ it:
           s: 68
           from: "00:09:00,07"
           to: "00:09:11,13"
-          text: "Cioè, altrove, la Guardia Nazionale e i suoi informatori erano in agguato. Non c'era niente di tutto ciò nell'area di Primorje."
+          text: "Cioè, altrove, la Guardia Nazionale e i suoi informatori erano in agguato. Non c'era niente di tutto questo nell'area di Primorje."
         sequence-69:
           s: 69
           from: "00:09:11,13"
@@ -353,39 +353,39 @@ it:
           s: 70
           from: "00:09:18,00"
           to: "00:09:24,28"
-          text: ~
+          text: "Così mi rendo conto di avere una concezione un po' idealizzata."
         sequence-71:
           s: 71
           from: "00:09:24,28"
           to: "00:09:34,22"
-          text: ~
+          text: "Tuttavia, era genuina, l'idealizzazione che una guerra potesse dispiegare un'umanità così bella,"
         sequence-72:
           s: 72
           from: "00:09:34,22"
           to: "00:09:40,14"
-          text: ~
+          text: "se così posso dire, perché la guerra è tutt'altro che bella."
         sequence-73:
           s: 73
           from: "00:09:40,14"
           to: "00:09:51,05"
-          text: ~
+          text: "È vero però che come poeta era difficile per me scegliere la morte, anche quella del nemico."
         sequence-74:
           s: 74
           from: "00:09:51,05"
           to: "00:10:00,23"
-          text: ~
+          text: "Questo è anche il motivo per cui ho scelto compiti, che erano molto più pericolosi dell'essere in brigata."
         sequence-75:
           s: 75
           from: "00:10:00,23"
           to: "00:10:12,13"
-          text: ~
+          text: "Tuttavia, nei compiti che sceglievo era meno imperativo dover uccidere qualcuno in piedi davanti a me, persino il nemico."
         sequence-76:
           s: 76
           from: "00:10:12,13"
           to: "00:10:22,06"
-          text: ~
+          text: "Ho sempre cercato di vivere la mia vita con la minore morte e possibile, anche nei confronti dei tedeschi."
         sequence-77:
           s: 77
           from: "00:10:22,06"
           to: "00:10:32,20"
-          text: ~
+          text: "Uccidere, anche in nome di grandi ideali, alla fine ti tornerà in mente in seguito sotto forma di trauma."
