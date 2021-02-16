@@ -93,22 +93,22 @@ it:
           s: 18
           from: "00:02:00,21"
           to: "00:02:06,06"
-          text: ~
+          text: "L'ho testato ogni giorno: devo andare a studiare, lascia stare,"
         sequence-19:
           s: 19
           from: "00:02:06,06"
           to: "00:02:12,00"
-          text: ~
+          text: "abbiamo altre preoccupazioni e tu sai quanto sei prezioso per noi."
         sequence-20:
           s: 20
           from: "00:02:12,00"
           to: "00:02:18,23"
-          text: ~
+          text: "Sono stato subito nominato per alcune medaglie, ma non mi sono fermato."
         sequence-21:
           s: 21
           from: "00:02:18,23"
           to: "00:02:29,02"
-          text: ~
+          text: "Una volta il comandante perse finalmente la pazienza e disse: sono stufo di te! Basta, esci dalla mia vista!"
         sequence-22:
           s: 22
           from: "00:02:29,02"
