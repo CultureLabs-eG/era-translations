@@ -298,7 +298,7 @@ it:
           s: 59
           from: "00:07:04,24"
           to: "00:07:10,18"
-          text: "Presumo che avesse il compito di controllare questa casa isolata, che era la scuola."
+          text: "Presumo che avesse il compito di controllare la casa isolata, che era la scuola."
         sequence-60:
           s: 60
           from: "00:07:10,18"
@@ -318,7 +318,7 @@ it:
           s: 63
           from: "00:07:29,24"
           to: "00:07:33,26"
-          text: "A me stesso sarebbe sembrato perfettamente logico."
+          text: "Io stesso lo avrei trovato perfettamente logico."
         sequence-64:
           s: 64
           from: "00:07:33,26"
