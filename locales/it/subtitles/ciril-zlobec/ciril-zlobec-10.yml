@@ -58,29 +58,29 @@ it:
           s: 11
           from: "00:01:23,03"
           to: "00:01:30,02"
-          text: ~
+          text: "C'erano alcuni villaggi a Bela krajina che perfino i Croati usurparono."
         sequence-12:
           s: 12
           from: "00:01:30,02"
           to: "00:01:38,01"
-          text: ~
+          text: "Siamo stati obbligati a costituirci come nazione e come paese; nessuno ci ha riconosciuto."
         sequence-13:
           s: 13
           from: "00:01:38,01"
           to: "00:01:47,00"
-          text: ~
+          text: "Solo combattendo determinati fortemente abbiamo costretto i nostri alleati a capire che un popolo vive qui,"
         sequence-14:
           s: 14
           from: "00:01:47,00"
           to: "00:01:53,10"
-          text: ~
+          text: "una nazione con una propria lingua e una propria cultura e tradizione."
         sequence-15:
           s: 15
           from: "00:01:53,10"
           to: "00:01:59,21"
-          text: ~
+          text: "Ecco perché il significato di questa lotta era così essenziale e vitale."
         sequence-16:
           s: 16
           from: "00:01:59,21"
           to: "00:02:06,00"
-          text: ~
+          text: "Se non ci fosse stato alcun movimento Partigiano, il Primorje oggi non sarebbe più una parte della Slovenia."

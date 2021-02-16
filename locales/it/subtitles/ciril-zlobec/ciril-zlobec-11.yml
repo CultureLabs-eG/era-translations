@@ -2,18 +2,18 @@ it:
   ciril-zlobec:
     chapter-11:
       c: 11
-      title: ~
+      title: "Periodo del dopoguerra - disertare l'esercito"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,22"
           to: "00:00:06,27"
-          text: ~
+          text: "Volevano tenermi nell'esercito alla fine della guerra."
         sequence-2:
           s: 2
           from: "00:00:06,27"
           to: "00:00:12,11"
-          text: ~
+          text: "Avevo una sorta di rango Partigiano,"
         sequence-3:
           s: 3
           from: "00:00:12,11"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:14,19"
           to: "00:00:24,10"
-          text: ~
+          text: "qualcosa come un sottotenente, ma non avevo alcuna intenzione di costruirmi una carriera da militare."
         sequence-5:
           s: 5
           from: "00:00:24,10"
@@ -33,37 +33,37 @@ it:
           s: 6
           from: "00:00:26,00"
           to: "00:00:32,04"
-          text: ~
+          text: "Io ho abbandonato l'esercito nel settembre del 1945."
         sequence-7:
           s: 7
           from: "00:00:32,04"
           to: "00:00:44,11"
-          text: ~
+          text: "Volevo studiare e credevo di lottare anche per quello, per la mia libertà personale, per il diritto di decidere da solo cosa avrei fatto."
         sequence-8:
           s: 8
           from: "00:00:44,11"
           to: "00:00:49,28"
-          text: ~
+          text: "Non volevo che qualcun altro decidesse per me."
         sequence-9:
           s: 9
           from: "00:00:49,28"
           to: "00:00:59,16"
-          text: ~
+          text: "Volevo studiare lo sloveno; siccome non avevo mai frequentato scuole slovene, la mia conoscenza della lingua era carente e io ero un poeta."
         sequence-10:
           s: 10
           from: "00:00:59,16"
           to: "00:01:07,22"
-          text: ~
+          text: "Tutto questo è stato ridetto molto più duramente, ma hanno capito. Non ci sono state accuse a mio carico."
         sequence-11:
           s: 11
           from: "00:01:07,22"
           to: "00:01:15,15"
-          text: ~
+          text: "Avevo disertato in settembre e era dicembre quando ricevetti il mio certificato di congedo."
         sequence-12:
           s: 12
           from: "00:01:15,15"
           to: "00:01:23,18"
-          text: ~
+          text: "Per tre mesi ero stato de facto e avrei potuto benissimo essere accusato di diserzione davanti a un tribunale militare."
         sequence-13:
           s: 13
           from: "00:01:23,18"
