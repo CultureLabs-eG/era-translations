@@ -353,17 +353,17 @@ it:
           s: 70
           from: "00:08:26,20"
           to: "00:08:33,22"
-          text: ~
+          text: "Ho detto al migliore di leggere, ma disse qualche parola e iniziò a piangere."
         sequence-71:
           s: 71
           from: "00:08:33,22"
           to: "00:08:37,22"
-          text: ~
+          text: "Il tedesco continuava a guardare e guardare."
         sequence-72:
           s: 72
           from: "00:08:37,22"
           to: "00:08:47,02"
-          text: ~
+          text: "Anch'io ho guardato ai bambini e ho cercato di calmarli ma non ci sono riuscito. Ero sicuro che eravamo giunti alla fine."
         sequence-73:
           s: 73
           from: "00:08:47,02"
