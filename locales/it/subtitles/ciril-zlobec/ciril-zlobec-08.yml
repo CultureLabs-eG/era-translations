@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:32,21"
           to: "00:00:39,15"
-          text: "Era quasi esclusivamente determinato dal numero di morti."
+          text: "Tutto era quasi esclusivamente determinato dal numero di morti."
         sequence-5:
           s: 5
           from: "00:00:39,15"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:01:06,09"
           to: "00:01:15,13"
-          text: "Hai avuto la sensazione che la morta che ha inghiottito i tuoi colleghi non è stata vana."
+          text: "Hai avuto la sensazione che la morte che ha inghiottito i tuoi colleghi non è stata vana."
         sequence-9:
           s: 9
           from: "00:01:15,13"
@@ -368,59 +368,59 @@ it:
           s: 73
           from: "00:08:47,02"
           to: "00:08:58,00"
-          text: ~
+          text: "Ero lì e guardavo dritto negli occhi dei tedeschi. Gli ho mostrato questi bambini, gli ho indicato la loro tristezza."
         sequence-74:
           s: 74
           from: "00:08:58,00"
           to: "00:09:01,06"
-          text: ~
+          text: "Ha lasciato la finestra."
         sequence-75:
           s: 75
           from: "00:09:01,06"
           to: "00:09:05,12"
-          text: ~
+          text: "Pensavo che sarebbe sicuro tornato e sarebbe entrato dall'altra parte."
         sequence-76:
           s: 76
           from: "00:09:05,12"
           to: "00:09:12,26"
-          text: ~
+          text: "O che era andato a fare rapporto alla sua unità per farli venire e finirci."
         sequence-77:
           s: 77
           from: "00:09:12,26"
           to: "00:09:22,11"
-          text: ~
+          text: "Ma non si è mai fatto vivo, né altri tedeschi. Il silenzio era simile alla morte."
         sequence-78:
           s: 78
           from: "00:09:22,11"
           to: "00:09:32,17"
-          text: ~
+          text: "Un quarto d'ora dopo i tedeschi si ritirarono dal villaggio e tutte le donne, tutte le madri accorsero."
         sequence-79:
           s: 79
           from: "00:09:32,17"
           to: "00:09:41,19"
-          text: ~
+          text: "L'orrore che ha imperversato era oltre le parole. Le madri erano sicure che tutti noi nella scuola eravamo stati massacrati."
         sequence-80:
           s: 80
           from: "00:09:41,19"
           to: "00:09:45,23"
-          text: ~
+          text: "Ma vennero per trovarci invece vivi e in salute."
         sequence-81:
           s: 81
           from: "00:09:45,23"
           to: "00:09:55,13"
-          text: ~
+          text: "A quanto pare quel tedesco ebbe pietà di quei bambini. In quel mattino presto i tedeschi avevano ucciso i feriti."
         sequence-82:
           s: 82
           from: "00:09:55,13"
           to: "00:10:02,09"
-          text: ~
+          text: "Dover massacrare anche i bambini, forse, sarebbe stato troppo anche per lui."
         sequence-83:
           s: 83
           from: "00:10:02,09"
           to: "00:10:10,03"
-          text: ~
+          text: "Quindi anche tra i nemici, che indossavano le mostrine SS, c'erano alcuni che non erano bestie brutali."
         sequence-84:
           s: 84
           from: "00:10:10,03"
           to: "00:10:19,15"
-          text: ~
+          text: "C'erano quelli che furono trascinati dalla corrente dei tempi e uccisero semplicemente perché era così."
