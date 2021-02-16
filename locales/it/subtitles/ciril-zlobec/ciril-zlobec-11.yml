@@ -113,29 +113,29 @@ it:
           s: 22
           from: "00:02:29,02"
           to: "00:02:37,00"
-          text: ~
+          text: "Intendeva solo di uscire dalla sua stanza del quartier generale, ma ho fato il finto tonto e ho detto: Ok, ok, vado all'inferno!"
         sequence-23:
           s: 23
           from: "00:02:37,00"
           to: "00:02:45,01"
-          text: ~
+          text: "E sono andato direttamente alla stazione di Postumia e sono salito sul primo treno."
         sequence-24:
           s: 24
           from: "00:02:45,01"
           to: "00:02:51,01"
-          text: ~
+          text: "Le relazioni allora erano molto più umane."
         sequence-25:
           s: 25
           from: "00:02:51,01"
           to: "00:02:58,14"
-          text: ~
+          text: "Ha capito che non avevo davvero disertato, ma piuttosto che ero andato a studiare."
         sequence-26:
           s: 26
           from: "00:02:58,14"
           to: "00:03:05,20"
-          text: ~
+          text: "E potevo permettermelo anch'io, perché sentivo davvero che era un mio diritto."
         sequence-27:
           s: 27
           from: "00:03:05,20"
           to: "00:03:22,25"
-          text: ~
+          text: "Ho sempre sostenuto quasi filosoficamente, che nessuna società è ben adatta se i suoi individui non sono contenti in ciò per cui sono adatti."
