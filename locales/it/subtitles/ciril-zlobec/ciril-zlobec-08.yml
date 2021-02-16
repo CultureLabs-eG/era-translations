@@ -168,7 +168,7 @@ it:
           s: 33
           from: "00:04:15,17"
           to: "00:04:21,26"
-          text: "Era sospettoso di me. Non riusciva a capire come fregarmi."
+          text: "Era insospettito da me. Non riusciva a capire come fregarmi."
         sequence-34:
           s: 34
           from: "00:04:21,26"
@@ -228,7 +228,7 @@ it:
           s: 45
           from: "00:05:41,24"
           to: "00:05:51,04"
-          text: "Ero almeno un po' al di sopra del livello a cui erano abituati incontrando un combattente regolare."
+          text: "Ero un po' al di sopra del livello a cui erano abituati loro incontrando un combattente regolare."
         sequence-46:
           s: 46
           from: "00:05:51,04"
