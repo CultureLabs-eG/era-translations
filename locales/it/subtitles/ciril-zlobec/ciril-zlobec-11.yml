@@ -68,27 +68,27 @@ it:
           s: 13
           from: "00:01:23,18"
           to: "00:01:30,00"
-          text: ~
+          text: "Era un'altra delle mie folli manovre che aveva semplicemente funzionato bene."
         sequence-14:
           s: 14
           from: "00:01:30,00"
           to: "00:01:35,24"
-          text: ~
+          text: "Avevo capito questo mio forte desiderio di studiare"
         sequence-15:
           s: 15
           from: "00:01:35,24"
           to: "00:01:46,25"
-          text: ~
+          text: "e hanno chiuso un occhio sul fatto che avevo infranto la legge, che avevo abbandonato l'unità senza il permesso di nessuno."
         sequence-16:
           s: 16
           from: "00:01:46,25"
           to: "00:01:50,08"
-          text: ~
+          text: "Me ne andai."
         sequence-17:
           s: 17
           from: "00:01:50,08"
           to: "00:02:00,21"
-          text: ~
+          text: "La nostra unità era la brigata Gubcev con sede a Postumia."
         sequence-18:
           s: 18
           from: "00:02:00,21"
