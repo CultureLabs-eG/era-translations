@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:01:04,14"
           to: "00:01:13,08"
-          text: "Forse oggi, mentre riguardo indietro a me stesso come un uomo che si considerava un poeta,"
+          text: "Forse oggi, che riguardo indietro a me stesso come un uomo che si considerava un poeta,"
         sequence-10:
           s: 10
           from: "00:01:13,08"
@@ -78,72 +78,72 @@ it:
           s: 15
           from: "00:01:37,24"
           to: "00:01:52,07"
-          text: "Non era fatto per me però; non si adattava al mio carattere. C'era un altro aspetto del carattere umano."
+          text: "Non faceva affatto per me però; non si adattava al mio carattere. C'era un altro aspetto del carattere umano."
         sequence-16:
           s: 16
           from: "00:01:52,07"
           to: "00:02:02,28"
-          text: ~
+          text: "Anche all'aperto, ovunque potessimo schiacciare un pisolino, mi è sempre piaciuto dormire un po', sono un po' prigro al mattino."
         sequence-17:
           s: 17
           from: "00:02:02,28"
           to: "00:02:08,24"
-          text: ~
+          text: "Quando ero nella brigata, di solito marciavamo di notte."
         sequence-18:
           s: 18
           from: "00:02:08,24"
           to: "00:02:18,11"
-          text: ~
+          text: "Abbiamo camminato tutta la notte solo per spostarci un po' più in la, per esempio dal Carso al Trnovski gozd attraverso la valle del Vipava,"
         sequence-19:
           s: 19
           from: "00:02:18,11"
           to: "00:02:28,17"
-          text: ~
+          text: "dove c'erano le imboscate e gli avamposti. Ho spesso pensato che queste azioni fossero pericolose o semplicemente troppo faticose."
         sequence-20:
           s: 20
           from: "00:02:28,17"
           to: "00:02:35,13"
-          text: ~
+          text: "Quindi mi sono spesso offerto volontario per vari nuovi compiti che potessero sorgere in una battaglia."
         sequence-21:
           s: 21
           from: "00:02:35,13"
           to: "00:02:42,12"
-          text: ~
+          text: "Erano i più pericolosi, ma almeno potevo canalizzare il mio individualismo in questo modo."
         sequence-22:
           s: 22
           from: "00:02:42,12"
           to: "00:02:51,28"
-          text: ~
+          text: "Così sono diventato un informatore. Avrei viaggiato fino a Trieste solo con documenti falsi."
         sequence-23:
           s: 23
           from: "00:02:51,28"
           to: "00:02:59,15"
-          text: ~
+          text: "Era molto rischioso ma sentivo che la mia vita era a mia disposizione."
         sequence-24:
           s: 24
           from: "00:02:59,15"
           to: "00:03:10,19"
-          text: ~
+          text: "Dopo fui coi minatori. Era solo una piccola unità, forse eravamo 13 o 15. Era facile da comandare."
         sequence-25:
           s: 25
           from: "00:03:10,19"
           to: "00:03:14,22"
-          text: ~
+          text: "Un anno ho lavorato nel sistema educativo"
         sequence-26:
           s: 26
           from: "00:03:14,22"
           to: "00:03:22,28"
-          text: ~
+          text: "per organizzare il sistema scolastico e nominare insegnanti che perfino non esistevano."
         sequence-27:
           s: 27
           from: "00:03:22,28"
           to: "00:03:29,05"
-          text: ~
+          text: "Ero solo a nominare questi insegnanti e senza scuole slovene."
         sequence-28:
           s: 28
           from: "00:03:29,05"
           to: "00:03:41,14"
-          text: ~
+          text: "Ho deciso di convocare una riunione con tutte le donne rimaste da sole a casa in modo da poterle designare con la dettatura di un testo."
         sequence-29:
           s: 29
           from: "00:03:41,14"
@@ -153,12 +153,12 @@ it:
           s: 30
           from: "00:03:43,00"
           to: "00:03:53,01"
-          text: ~
+          text: "Avevo una certa conoscenza dello sloveno e ho esaminato i risultati"
         sequence-31:
           s: 31
           from: "00:03:53,01"
           to: "00:04:02,21"
-          text: ~
+          text: "e ho deciso che colei che avesse fatto il minor numero di errori sarebbe stata l'insegnante."
         sequence-32:
           s: 32
           from: "00:04:02,21"
@@ -168,22 +168,22 @@ it:
           s: 33
           from: "00:04:04,22"
           to: "00:04:14,28"
-          text: ~
+          text: "I bambini avevano bisogno di qualcuno che desse loro almeno le basi della lingua e un po' di matematica e di lettura."
         sequence-34:
           s: 34
           from: "00:04:14,28"
           to: "00:04:23,03"
-          text: ~
+          text: "Non potevano semplicemente affrontare la guerra senza alcuna istruzione... Il sistema scolastico ufficiale si era disintegrato."
         sequence-35:
           s: 35
           from: "00:04:23,03"
           to: "00:04:28,04"
-          text: ~
+          text: "Quindi è stato necessario creare una scuola slovena."
         sequence-36:
           s: 36
           from: "00:04:28,04"
           to: "00:04:35,08"
-          text: ~
+          text: "Le cose erano più facili per me mentre lavoravo nel sistema scolastico."
         sequence-37:
           s: 37
           from: "00:04:35,08"
