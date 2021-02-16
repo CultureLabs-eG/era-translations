@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:01:06,09"
           to: "00:01:15,13"
-          text: "Hai avuto la sensazione che la morte che ha inghiottito i tuoi colleghi non è stata vana."
+          text: "Avevi così l'impressione che la morte che ha inghiottito i tuoi colleghi non è stata vana."
         sequence-9:
           s: 9
           from: "00:01:15,13"
           to: "00:01:24,17"
-          text: "È stato un mini contributo piuttosto alla liberazione e persecuzione del nemico occupante,"
+          text: "Era piuttosto un mini contributo alla liberazione e persecuzione del nemico occupante,"
         sequence-10:
           s: 10
           from: "00:01:24,17"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:03:27,20"
           to: "00:03:33,19"
-          text: "Ero nei pressi di Opatje selo. Sulla via per Doberdob."
+          text: "Ero nei pressi di Opatje selo. In viaggio per Doberdob."
         sequence-27:
           s: 27
           from: "00:03:33,19"
@@ -168,7 +168,7 @@ it:
           s: 33
           from: "00:04:15,17"
           to: "00:04:21,26"
-          text: "Era sospettoso di me. Non riusciva a capire come farmi beccare."
+          text: "Era sospettoso di me. Non riusciva a capire come fregarmi."
         sequence-34:
           s: 34
           from: "00:04:21,26"
