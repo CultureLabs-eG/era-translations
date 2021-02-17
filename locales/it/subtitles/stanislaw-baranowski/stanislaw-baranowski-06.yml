@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:18,22"
           to: "00:01:22,21"
-          text: "Piì tardi lì abitò il famoso redattore Tomaszewski."
+          text: "Più tardi lì abitava il famoso redattore Tomaszewski."
         sequence-23:
           s: 23
           from: "00:01:22,21"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:01:24,25"
           to: "00:01:32,18"
-          text: ~
+          text: "Come ho detto prima, sono nomi tuttora conosciuti. Il pallazzo esiste ancora."
         sequence-25:
           s: 25
           from: "00:01:32,18"
