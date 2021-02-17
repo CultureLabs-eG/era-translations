@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,24"
           to: "00:00:08,04"
-          text: ~
+          text: "Ero appena tornato. Ero stato vicino a Radom."
         sequence-2:
           s: 2
           from: "00:00:08,04"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:09,11"
           to: "00:00:13,05"
-          text: ~
+          text: "Tornai a casa alle 8 di sera."
         sequence-4:
           s: 4
           from: "00:00:13,05"
@@ -28,12 +28,12 @@ it:
           s: 5
           from: "00:00:14,07"
           to: "00:00:19,00"
-          text: ~
+          text: "E quando uscivamo per un'azione, ricevevamo delle 'Kennkarte' diverse."
         sequence-6:
           s: 6
           from: "00:00:19,00"
           to: "00:00:26,06"
-          text: ~
+          text: "Dovevo arrivare alla Stazione Centrale, ma all'ultimo,"
         sequence-7:
           s: 7
           from: "00:00:26,06"

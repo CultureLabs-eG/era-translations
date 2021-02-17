@@ -2,13 +2,13 @@ it:
   stanislaw-baranowski:
     chapter-5:
       c: 5
-      title: ~
+      title: "Ospitare Maria - una ragazza ebrea"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:15,00"
-          text: "La figlia di un avvocato, ebreo, che si chiamava Holzkenere,"
+          text: "La figlia di un avvocato, ebreo, -che si chiamava Holzkener-,"
         sequence-2:
           s: 2
           from: "00:00:15,00"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:13,14"
           to: "00:01:19,14"
-          text: "Dopo aveva paura."
+          text: "In seguito ebbe paura."
         sequence-14:
           s: 14
           from: "00:01:19,14"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:37,27"
           to: "00:01:54,26"
-          text: "che gli ebrei che si sarebbero presentati volontariamente presso albergo Polski, sarebbero stati mandati per uno scambio in Turchia."
+          text: "che gli ebrei che si sarebbero presentati volontariamente presso l'albergo Polski, sarebbero stati mandati per uno scambio in Turchia."
         sequence-18:
           s: 18
           from: "00:01:54,26"
@@ -103,22 +103,22 @@ it:
           s: 20
           from: "00:02:02,12"
           to: "00:02:10,00"
-          text: "E lei, mia madre disse che tulli la dissuadevano dall'andarci lì, ma lei accettò,"
+          text: "E lei, mia madre disse che tutti la dissuadevano dall'andarci lì, ma lei accettò,"
         sequence-21:
           s: 21
           from: "00:02:10,00"
           to: "00:02:16,22"
-          text: "perché era spaventata visto che era sempre più difficile dopo il 1942."
+          text: "perché era spaventata visto che dopo il 1942 la situazione era sempre più difficile."
         sequence-22:
           s: 22
           from: "00:02:16,22"
           to: "00:02:23,03"
-          text: ~
+          text: "Dopo la rivolta del ghetto nel 1943 era acnora più dura. Questo era prima della rivolta nel ghetto."
         sequence-23:
           s: 23
           from: "00:02:23,03"
           to: "00:02:30,06"
-          text: "Nessun trasporto era mai diretto in Turchia. Ci volle un po' prima che le altre persone in libertà,"
+          text: "Nessun trasporto era mai diretto in Turchia. Ci volle un po' prima che le altre persone libere,"
         sequence-24:
           s: 24
           from: "00:02:30,06"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:41,28"
           to: "00:02:46,01"
-          text: "realizzassero che quei trasporti non andavano in Italia ma a Treblinka,"
+          text: "realizzassero che quei trasporti non erano diretti in Italia ma a Treblinka,"
         sequence-27:
           s: 27
           from: "00:02:46,01"
