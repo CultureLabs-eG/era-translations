@@ -8,22 +8,22 @@ it:
           s: 1
           from: "00:00:00,18"
           to: "00:00:15,00"
-          text: ~
+          text: "La figlia di un avvocato, ebreo, che si chiamava Holzkenere,"
         sequence-2:
           s: 2
           from: "00:00:15,00"
           to: "00:00:25,01"
-          text: ~
+          text: "sua figlia Maria, l'ho portai fuori dal ghetto, quando venne costruito,"
         sequence-3:
           s: 3
           from: "00:00:25,01"
           to: "00:00:30,23"
-          text: ~
+          text: "quando fu costruito il muro, l'ho portai a casa nostra,"
         sequence-4:
           s: 4
           from: "00:00:30,23"
           to: "00:00:37,00"
-          text: ~
+          text: "perché abitasse da noi, e per tutto il periodo, fino al mio arresto, abitò da noi."
         sequence-5:
           s: 5
           from: "00:00:37,00"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:37,15"
           to: "00:00:42,04"
-          text: ~
+          text: "La lealtà era grande."
         sequence-7:
           s: 7
           from: "00:00:42,04"
           to: "00:00:51,05"
-          text: ~
+          text: "Il fatto che noi mentenessimo dei contatti, che mia madre mentenesse dei contatti con gli ebrei"
         sequence-8:
           s: 8
           from: "00:00:51,05"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:52,04"
           to: "00:01:05,00"
-          text: ~
+          text: "era noto a metà delle persone che abitava lì, in via Hołówki."
         sequence-10:
           s: 10
           from: "00:01:05,00"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:01:05,13"
           to: "00:01:12,09"
-          text: ~
+          text: "Seppi da mia madre che dopo il mio arresto la ragazza visse per un po' da noi."
         sequence-12:
           s: 12
           from: "00:01:12,09"
@@ -68,17 +68,17 @@ it:
           s: 13
           from: "00:01:13,14"
           to: "00:01:19,14"
-          text: ~
+          text: "Dopo aveva paura."
         sequence-14:
           s: 14
           from: "00:01:19,14"
           to: "00:01:29,26"
-          text: ~
+          text: "Non conosco esattamente il motivo, ma per un breve tempo andò via da mia madre."
         sequence-15:
           s: 15
           from: "00:01:29,26"
           to: "00:01:36,05"
-          text: ~
+          text: "E poi, doveva essere il 1943, a Varsavia i tedeschi annunciarono"
         sequence-16:
           s: 16
           from: "00:01:36,05"
@@ -88,17 +88,17 @@ it:
           s: 17
           from: "00:01:37,27"
           to: "00:01:54,26"
-          text: ~
+          text: "che gli ebrei che si sarebbero presentati volontariamente presso albergo Polski, sarebbero stati mandati per uno scambio in Turchia."
         sequence-18:
           s: 18
           from: "00:01:54,26"
           to: "00:01:58,02"
-          text: ~
+          text: "Come scambio per i prigionieri tedeschi."
         sequence-19:
           s: 19
           from: "00:01:58,02"
           to: "00:02:02,12"
-          text: ~
+          text: "Così mi raccontò mia madre."
         sequence-20:
           s: 20
           from: "00:02:02,12"
