@@ -238,12 +238,12 @@ it:
           s: 47
           from: "00:03:00,12"
           to: "00:03:05,08"
-          text: ~
+          text: "Si potrebbe dire che sia stato un miracolo."
         sequence-48:
           s: 48
           from: "00:03:05,08"
           to: "00:03:13,04"
-          text: ~
+          text: "Allora, viale Szucha, Pawiak e da Pawiak verso Majdanek."
         sequence-49:
           s: 49
           from: "00:03:13,04"
@@ -253,7 +253,7 @@ it:
           s: 50
           from: "00:03:19,04"
           to: "00:03:22,20"
-          text: ~
+          text: "Da novembre mi trovavo in arresto, ero indagato."
         sequence-51:
           s: 51
           from: "00:03:22,20"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:03:25,03"
           to: "00:03:32,04"
-          text: ~
+          text: "L'indagine terminò, non vi sto a raccontare com'era, perché tutti lo sanno."
         sequence-53:
           s: 53
           from: "00:03:32,04"
