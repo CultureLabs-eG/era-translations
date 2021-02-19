@@ -93,7 +93,7 @@ de:
           s: 18
           from: "00:01:38,13"
           to: "00:01:45,03"
-          text: "immer in Alarmbereitschaft, die konnten hätten von allen Seiten aus den Fenstern schießen können..."
+          text: "immer in Alarmbereitschaft, die hätten von allen Seiten aus den Fenstern schießen können..."
         sequence-19:
           s: 19
           from: "00:01:45,04"
@@ -133,7 +133,7 @@ de:
           s: 26
           from: "00:02:24,08"
           to: "00:02:32,20"
-          text: "Wir sitzen da, die Leute unterhielten sich, die zwei Maschinengewehre, ein schweres und ein leichtes, waren aufgestellt:"
+          text: "Wir saßen da, die Leute unterhielten sich, die zwei Maschinengewehre, ein schweres und ein leichtes, waren aufgestellt:"
         sequence-27:
           s: 27
           from: "00:02:32,21"
@@ -178,12 +178,12 @@ de:
           s: 35
           from: "00:03:24,15"
           to: "00:03:30,19"
-          text: "denn wir rauchten nur Walnuss- oder Kirschblätter"
+          text: "denn wir rauchten ja nur Walnuss- oder Kirschbaumblätter"
         sequence-36:
           s: 36
           from: "00:03:30,20"
           to: "00:03:40,11"
-          text: "und da sagte er: \"Nein, nein! Hier!\", gab er mir eine Zigarre und wollte, dass ich den Stummel wegwarf, weil er schon alles geraucht hatte."
+          text: "und da sagte er: \"Nein, nein! Hier!\", gab mir eine Zigarre und wollte, dass ich den Stummel wegwarf, weil er schon alles geraucht hatte."
         sequence-37:
           s: 37
           from: "00:03:40,12"
@@ -268,7 +268,7 @@ de:
           s: 53
           from: "00:05:01,08"
           to: "00:05:16,09"
-          text: "Wir hatten unsere Waffen und sagten: \"Los vorwärts! Kommt her!\". Nach und nach kamen sie mit erhobenen Händen und wir steckten sie in die Schule, die direkt an der Straße stand."
+          text: "Wir hielten unsere Waffen und sagten: \"Los vorwärts! Kommt her!\". Nach und nach kamen sie mit erhobenen Händen und wir steckten sie in die Schule, die direkt an der Straße stand."
         sequence-54:
           s: 54
           from: "00:05:16,19"
@@ -308,7 +308,7 @@ de:
           s: 61
           from: "00:06:18,03"
           to: "00:06:22,13"
-          text: "es war befohlen nach Parma zu gehen, also gehen wir nach Parma."
+          text: "es war befohlen nach Parma zu gehen, also gingen wir nach Parma."
         sequence-62:
           s: 62
           from: "00:06:22,14"
@@ -328,7 +328,7 @@ de:
           s: 65
           from: "00:06:41,20"
           to: "00:06:47,24"
-          text: "Alles war sauber, sauber, weder Faschisten noch Deutsche, nichts!"
+          text: "Alles war sauber, leer, weder Faschisten noch Deutsche, nichts!"
         sequence-66:
           s: 66
           from: "00:06:48,00"
@@ -348,7 +348,7 @@ de:
           s: 69
           from: "00:07:13,10"
           to: "00:07:16,11"
-          text: "Wir signalisierten \"Stop, stop!\","
+          text: "wir signalisierten \"Stop, stop!\","
         sequence-70:
           s: 70
           from: "00:07:16,12"
@@ -368,7 +368,7 @@ de:
           s: 73
           from: "00:07:36,11"
           to: "00:07:46,19"
-          text: "Dann drehte sich einer um, nahm Maß, steckte eine Granate in den Mörser und ab: \"Tschimm, tschimm, tack!\","
+          text: "da drehte sich einer um, nahm Maß, steckte eine Granate in den Mörser und ab: \"Tschimm, tschimm, tack!\","
         sequence-74:
           s: 74
           from: "00:07:46,20"
@@ -388,7 +388,7 @@ de:
           s: 77
           from: "00:07:59,08"
           to: "00:08:03,03"
-          text: "Wir verabschiedeten uns von den beiden Amerikanern, die in die Stadt fuhren."
+          text: "Wir verabschiedeten uns von den beiden Amerikanern, die ins Stadtzentrum fuhren."
         sequence-78:
           s: 78
           from: "00:08:03,04"
@@ -403,7 +403,7 @@ de:
           s: 80
           from: "00:08:18,11"
           to: "00:08:25,24"
-          text: "und sagt: \"Ein Francesco wird gesucht! Wer ist Francesco?\""
+          text: "und sagte: \"Ein Francesco wird gesucht! Wer ist Francesco?\""
         sequence-81:
           s: 81
           from: "00:08:26,00"
@@ -433,7 +433,7 @@ de:
           s: 86
           from: "00:09:09,15"
           to: "00:09:17,13"
-          text: "\"die sagten 'ja, er ist hier', und ich sagte 'nein, ihr tut nur so, weil er tot ist'\"."
+          text: "\"die sagten 'Ja, er ist hier', und ich sagte 'Nein, ihr tut nur so, weil er tot ist'\"."
         sequence-87:
           s: 87
           from: "00:09:17,14"
@@ -468,7 +468,7 @@ de:
           s: 93
           from: "00:09:55,05"
           to: "00:10:02,03"
-          text: "und dabei kam ich bei meinem Chef vorbei, denn den mochte ich sehr,"
+          text: "und dabei kam ich bei meinem Chef vorbei, den mochte ich sehr,"
         sequence-94:
           s: 94
           from: "00:10:02,04"
@@ -493,7 +493,7 @@ de:
           s: 98
           from: "00:10:20,15"
           to: "00:10:27,07"
-          text: "Na ja, sobald ich entlasse wurde, komme ich vorbei\"."
+          text: "Na ja, sobald ich entlasse werde, komme ich vorbei\"."
         sequence-99:
           s: 99
           from: "00:10:27,08"
