@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:02:18,03"
           to: "00:02:24,19"
-          text: "Perlustrano la casa, la mettono sottosopra."
+          text: "Perquisiscono la casa, la mettono sottosopra."
         sequence-37:
           s: 37
           from: "00:02:24,19"
@@ -308,7 +308,7 @@ it:
           s: 61
           from: "00:04:20,02"
           to: "00:04:24,20"
-          text: "Ci portarono in un prato, davanti ai bagni."
+          text: "Ci portarono in un campo, davanti ai bagni."
         sequence-62:
           s: 62
           from: "00:04:24,20"
@@ -318,52 +318,52 @@ it:
           s: 63
           from: "00:04:30,22"
           to: "00:04:35,21"
-          text: ~
+          text: "poi ci fanno scendere, e andiamo dalla stazione al campo."
         sequence-64:
           s: 64
           from: "00:04:35,21"
           to: "00:04:38,29"
-          text: ~
+          text: "Lì, nella notte, dovemmo toglierci tutti i vestiti."
         sequence-65:
           s: 65
           from: "00:04:38,29"
           to: "00:04:41,21"
-          text: ~
+          text: "Perquisizione mentre noi stiamo lì in mezzo alla neve."
         sequence-66:
           s: 66
           from: "00:04:41,21"
           to: "00:04:45,09"
-          text: ~
+          text: "Perquisiscono i nostri vestiti."
         sequence-67:
           s: 67
           from: "00:04:45,09"
           to: "00:04:51,07"
-          text: ~
+          text: "Dopo la perquisizione ci rivestiamo."
         sequence-68:
           s: 68
           from: "00:04:51,07"
           to: "00:04:56,28"
-          text: ~
+          text: "Andava bene per chi aveva dei vestiti caldi, ma altri, prionieri di Pawiak"
         sequence-69:
           s: 69
           from: "00:04:56,28"
           to: "00:05:03,16"
-          text: ~
+          text: "che erano stati arrestati prima, in estate, avevano addosso solo dei vestiti leggeri."
         sequence-70:
           s: 70
           from: "00:05:03,16"
           to: "00:05:18,02"
-          text: ~
+          text: "Per fortuna io ero vestito bene perché quando fui arrestato, mai madre mi diede dei vestiti caldi."
         sequence-71:
           s: 71
           from: "00:05:18,02"
           to: "00:05:24,29"
-          text: ~
+          text: "In più mi aveva mandato qualcosa di caldo anche a Pawiak. Questo mi aiutò un po'."
         sequence-72:
           s: 72
           from: "00:05:24,29"
           to: "00:05:27,27"
-          text: ~
+          text: "Ci portarono al campo numero tre."
         sequence-73:
           s: 73
           from: "00:05:27,27"
@@ -373,12 +373,12 @@ it:
           s: 74
           from: "00:05:32,17"
           to: "00:05:34,12"
-          text: ~
+          text: "Fui assegnato al blocco X."
         sequence-75:
           s: 75
           from: "00:05:34,12"
           to: "00:05:41,08"
-          text: ~
+          text: "Ce n'erano due, il nostro trasporto occupò i blocchi IX e X."
         sequence-76:
           s: 76
           from: "00:05:41,08"
@@ -388,7 +388,7 @@ it:
           s: 77
           from: "00:05:43,13"
           to: "00:05:48,15"
-          text: ~
+          text: "Di notte nessuno sapeva niente, il blocco era vuoto, faceva freddo, avevamo fame."
         sequence-78:
           s: 78
           from: "00:05:48,15"
@@ -398,7 +398,7 @@ it:
           s: 79
           from: "00:05:49,13"
           to: "00:05:56,16"
-          text: ~
+          text: "La mattina ci alziamo, apriamo la porta e davanti a noi ci sono già i trasporti con gli ebrei cechi."
         sequence-80:
           s: 80
           from: "00:05:56,16"
