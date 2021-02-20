@@ -2,7 +2,7 @@ it:
   stanislaw-baranowski:
     chapter-6:
       c: 6
-      title: ~
+      title: "Arrivo al campo di concentramento di Majdanek"
       subtitles:
         sequence-1:
           s: 1
@@ -468,12 +468,12 @@ it:
           s: 93
           from: "00:07:18,03"
           to: "00:07:31,06"
-          text: ~
+          text: "Ma il prossimo cadavere - il giorno dopo ce n'erano due - lo svestimmo noi."
         sequence-94:
           s: 94
           from: "00:07:31,06"
           to: "00:07:34,17"
-          text: ~
+          text: "Vede come in una sola notte cambiò la nostra mentalità."
         sequence-95:
           s: 95
           from: "00:07:34,17"
@@ -483,9 +483,9 @@ it:
           s: 96
           from: "00:07:35,27"
           to: "00:07:41,26"
-          text: ~
+          text: "Quelli che non avevano vestiti caldi iniziarono a spogliare i cadaveri per avere qualcosa di meglio,"
         sequence-97:
           s: 97
           from: "00:07:41,26"
           to: "00:07:46,26"
-          text: ~
+          text: "dovevamo addattarci immediatamente alle nuove condizioni."
