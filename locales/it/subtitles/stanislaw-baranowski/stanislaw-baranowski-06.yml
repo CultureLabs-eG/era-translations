@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:14,07"
           to: "00:00:19,00"
-          text: "E quando uscivamo per un'azione, ricevevamo delle 'Kennkarte' diverse."
+          text: "Quando uscivamo per un'azione, ricevevamo delle 'Kennkarte' diverse."
         sequence-6:
           s: 6
           from: "00:00:19,00"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:13,21"
           to: "00:01:17,17"
-          text: "Nello stesso palazzo. La sua era la scala tre e mia - la sei."
+          text: "Nello stesso palazzo. Lui abitava alla scala tre e io alla sei."
         sequence-21:
           s: 21
           from: "00:01:17,17"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:02:30,25"
           to: "00:02:38,06"
-          text: "Ma non ci crederà, c'erano due ingressi al nostro appartamento,"
+          text: "Ma, non ci crederà, c'erano due ingressi al nostro appartamento,"
         sequence-41:
           s: 41
           from: "00:02:38,06"
