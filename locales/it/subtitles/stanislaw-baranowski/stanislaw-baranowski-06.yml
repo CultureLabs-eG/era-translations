@@ -243,7 +243,7 @@ it:
           s: 48
           from: "00:03:05,08"
           to: "00:03:13,04"
-          text: "Allora, viale Szucha, Pawiak e da Pawiak verso Majdanek."
+          text: "Allora, viale Szucha, il carcere di Pawiak e da Pawiak verso Majdanek."
         sequence-49:
           s: 49
           from: "00:03:13,04"
@@ -283,7 +283,7 @@ it:
           s: 56
           from: "00:03:47,24"
           to: "00:03:59,27"
-          text: "Il 17 gennaio partivano i trasporti da Paviak verso Majdanek. Era il 1943."
+          text: "Il 17 gennaio partivano i trasporti da Pawiak verso Majdanek. Era il 1943."
         sequence-57:
           s: 57
           from: "00:03:59,27"
@@ -293,7 +293,7 @@ it:
           s: 58
           from: "00:04:02,02"
           to: "00:04:10,06"
-          text: "All'arrivo a Majdanek, era il 17 gennaio 1943."
+          text: "All'arrivo a Majdanek, era il 17 gennaio 1943..."
         sequence-59:
           s: 59
           from: "00:04:10,06"
@@ -313,17 +313,17 @@ it:
           s: 62
           from: "00:04:24,20"
           to: "00:04:30,22"
-          text: "Prima, con quelli carri bestime ci portano da Varsavia a Lublino,"
+          text: "Prima, con quelli carri bestime ci portarono da Varsavia a Lublino,"
         sequence-63:
           s: 63
           from: "00:04:30,22"
           to: "00:04:35,21"
-          text: "poi ci fanno scendere, e andiamo dalla stazione al campo."
+          text: "poi ci fecero scendere, e dalla stazione andammo al campo."
         sequence-64:
           s: 64
           from: "00:04:35,21"
           to: "00:04:38,29"
-          text: "Lì, nella notte, dovemmo toglierci tutti i vestiti."
+          text: "Lì, di notte, dovevamo toglierci tutti i vestiti."
         sequence-65:
           s: 65
           from: "00:04:38,29"
@@ -378,7 +378,7 @@ it:
           s: 75
           from: "00:05:34,12"
           to: "00:05:41,08"
-          text: "Ce n'erano due, il nostro trasporto occupò i blocchi IX e X."
+          text: "Ce n'erano due, il nostro convoglio occupò i blocchi IX e X."
         sequence-76:
           s: 76
           from: "00:05:41,08"
@@ -398,7 +398,7 @@ it:
           s: 79
           from: "00:05:49,13"
           to: "00:05:56,16"
-          text: "La mattina ci alziamo, apriamo la porta e davanti a noi ci sono già i trasporti con gli ebrei cechi."
+          text: "La mattina ci alziamo, apriamo la porta e davanti a noi ci sono già i convogli degli ebrei cechi."
         sequence-80:
           s: 80
           from: "00:05:56,16"
@@ -433,7 +433,7 @@ it:
           s: 86
           from: "00:06:36,07"
           to: "00:06:48,02"
-          text: "Non appena lo mettemmo per terra, che quegli ebrei cechi si avventarono su di lui come avvoltoi"
+          text: "Non appena lo mettemmo per terra, che quegli ebrei cechi si avventarono su di lui come degli avvoltoi"
         sequence-87:
           s: 87
           from: "00:06:48,02"
