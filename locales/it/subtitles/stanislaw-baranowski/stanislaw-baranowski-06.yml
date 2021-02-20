@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:01:42,01"
           to: "00:01:52,14"
-          text: "Allora, tra la vie Gagarina e Bartycka c'è la via Hołówki,1, un edificio enorme, 100 appartamenti."
+          text: "Allora, tra la vie Gagarina e Bartycka c'è via Hołówki,1, un edificio enorme, 100 appartamenti."
         sequence-28:
           s: 28
           from: "00:01:52,14"
@@ -168,7 +168,7 @@ it:
           s: 33
           from: "00:02:11,04"
           to: "00:02:13,03"
-          text: "Mia madre va e apre la porta."
+          text: "Mia madre va ad aprire la porta."
         sequence-34:
           s: 34
           from: "00:02:13,03"
@@ -213,7 +213,7 @@ it:
           s: 42
           from: "00:02:44,16"
           to: "00:02:47,19"
-          text: "Una normale tenda."
+          text: "Una semplice tenda."
         sequence-43:
           s: 43
           from: "00:02:47,19"
@@ -268,12 +268,12 @@ it:
           s: 53
           from: "00:03:32,04"
           to: "00:03:38,25"
-          text: ~
+          text: "Quando dopo l'interrogatorio non eri in grado di tornare in cella con le proprie gambe, ma ti ci dovevano portare."
         sequence-54:
           s: 54
           from: "00:03:38,25"
           to: "00:03:46,21"
-          text: ~
+          text: "La prova migliore di questo è che sono sordo all'orecchio destro, poi altre piccole ferite."
         sequence-55:
           s: 55
           from: "00:03:46,21"
@@ -283,7 +283,7 @@ it:
           s: 56
           from: "00:03:47,24"
           to: "00:03:59,27"
-          text: ~
+          text: "Il 17 gennaio partivano i trasporti da Paviak verso Majdanek. Era il 1943."
         sequence-57:
           s: 57
           from: "00:03:59,27"
