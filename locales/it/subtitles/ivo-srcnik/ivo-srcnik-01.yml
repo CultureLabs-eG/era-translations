@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,27"
           to: "00:00:05,10"
-          text: "Dunque, io vengo dalla famiglia di un commerciante."
+          text: "Allora, io vengo dalla famiglia di un commerciante."
         sequence-2:
           s: 2
           from: "00:00:05,10"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:09,09"
           to: "00:00:11,22"
-          text: "Mia madre era una cuoca."
+          text: "Mia madre faceva la cuoca."
         sequence-4:
           s: 4
           from: "00:00:11,22"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:32,21"
           to: "00:00:43,24"
-          text: "Poi ci siamo trasferiti. Per quel che riguarda la nostra residenza, ci trasferimmo da"
+          text: "Poi ci siamo trasferiti. Per quanto riguarda la nostra residenza, ci trasferimmo da"
         sequence-7:
           s: 7
           from: "00:00:43,24"
