@@ -2,18 +2,18 @@ it:
   ivo-srcnik:
     chapter-3:
       c: 3
-      title: ~
+      title: "Primo contatto con la Resistenza sovietica"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,09"
           to: "00:00:16,18"
-          text: ~
+          text: "Dopo alcuni pesanti combattimenti a Dnjepr Petrovski e a Orel dentro la linea di combattimento tedesca,"
         sequence-2:
           s: 2
           from: "00:00:16,18"
           to: "00:00:22,11"
-          text: ~
+          text: "giunsi nel piccolo villaggio di Balakleja."
         sequence-3:
           s: 3
           from: "00:00:22,11"
