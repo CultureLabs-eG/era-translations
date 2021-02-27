@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:04,04"
           to: "00:01:12,08"
-          text: "Una mattina la madre ha portato un'immagine, un icona della Madre Maria."
+          text: "Una mattina la madre ha portato un'immagine, un'icona di Madre Maria."
         sequence-11:
           s: 11
           from: "00:01:12,08"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:28,16"
           to: "00:01:41,27"
-          text: "Ho spiegato che abbiamo queste immagini appese alle nostre pareti. Ha detto che i suoi ragazze e le sue ragazzi erano comunisti."
+          text: "Ho spiegato che abbiamo queste immagini appese alle nostre pareti. Ha detto che le sue ragazze e i suoi ragazzi erano comunisti."
         sequence-14:
           s: 14
           from: "00:01:41,27"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:37,23"
           to: "00:02:55,03"
-          text: "è un quarto di foglio su cui c'è scritto qualcosa, metà in tedesco e metà in russo."
+          text: "È un quarto di foglio su cui c'è scritto qualcosa, metà in tedesco e metà in russo."
         sequence-24:
           s: 24
           from: "00:02:55,03"
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:03:04,06"
           to: "00:03:09,27"
-          text: ~
+          text: "L'alfabeto russo ha più lettere del Cirillico."
         sequence-26:
           s: 26
           from: "00:03:09,27"
           to: "00:03:21,27"
-          text: ~
+          text: "Conoscevo un po' di tedesco, un po' di russo, un po'o di serbo croato e ovviamente lo sloveno; così lo lessi."
         sequence-27:
           s: 27
           from: "00:03:21,27"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:03:24,11"
           to: "00:03:38,19"
-          text: ~
+          text: "la ragazza più giovane mi ha detto, se ti beccano i sovietici, questa bomaska mi avrebbe dato un pezzo di pane in più."
         sequence-29:
           s: 29
           from: "00:03:38,19"
@@ -153,14 +153,14 @@ it:
           s: 30
           from: "00:03:39,26"
           to: "00:03:46,23"
-          text: ~
+          text: "Non immaginavo perché questa bomaska avesse un tale valore."
         sequence-31:
           s: 31
           from: "00:03:46,23"
           to: "00:03:51,29"
-          text: ~
+          text: "In ogni caso è quello che mi ha detto la ragazza più giovane,"
         sequence-32:
           s: 32
           from: "00:03:51,29"
           to: "00:04:00,02"
-          text: ~
+          text: "che quando i russi mi cattureranno devo mostrarlo e riceverò un pezzo di pane extra."
