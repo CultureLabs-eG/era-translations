@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:04,04"
           to: "00:01:12,08"
-          text: ~
+          text: "Una mattina la madre ha portato un'immagine, un icona della Madre Maria."
         sequence-11:
           s: 11
           from: "00:01:12,08"
@@ -63,12 +63,12 @@ it:
           s: 12
           from: "00:01:13,21"
           to: "00:01:28,16"
-          text: ~
+          text: "Le ho detto madre in Russo - un po' russo, un po' sloveno, un po' serbo croato - e ho chiesto perché mi ha portato quell'immagine."
         sequence-13:
           s: 13
           from: "00:01:28,16"
           to: "00:01:41,27"
-          text: ~
+          text: "Ho spiegato che abbiamo queste immagini appese alle nostre pareti. Ha detto che i suoi ragazze e le sue ragazzi erano comunisti."
         sequence-14:
           s: 14
           from: "00:01:41,27"
@@ -78,17 +78,17 @@ it:
           s: 15
           from: "00:01:43,09"
           to: "00:01:47,02"
-          text: ~
+          text: "Non sapevo quasi nulla del comunismo."
         sequence-16:
           s: 16
           from: "00:01:47,02"
           to: "00:01:55,25"
-          text: ~
+          text: "Proprio perché non abbiamo mai imparato nulla su di esso o sulla politica e sui partiti politici."
         sequence-17:
           s: 17
           from: "00:01:55,25"
           to: "00:02:05,21"
-          text: ~
+          text: "Mi disse, sai al momento i miei sono komsomoljki. La parola komsomolj mi era estranea."
         sequence-18:
           s: 18
           from: "00:02:05,21"
@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:02:07,10"
           to: "00:02:19,11"
-          text: ~
+          text: "È così che abbiamo ben comunicato, abbiamo lavorato bene insieme e dato da mangiare a queste ragazze per i loro sforzi."
         sequence-20:
           s: 20
           from: "00:02:19,11"
           to: "00:02:31,10"
-          text: ~
+          text: "Un volta, la ragazza più giovane disse Ivo, ascolta, ho una bomaska per te."
         sequence-21:
           s: 21
           from: "00:02:31,10"
@@ -113,17 +113,17 @@ it:
           s: 22
           from: "00:02:32,26"
           to: "00:02:37,23"
-          text: ~
+          text: "Ti stai chiedendo che cosa sia una bomaska?"
         sequence-23:
           s: 23
           from: "00:02:37,23"
           to: "00:02:55,03"
-          text: ~
+          text: "è un quarto di foglio su cui c'è scritto qualcosa, metà in tedesco e metà in russo."
         sequence-24:
           s: 24
           from: "00:02:55,03"
           to: "00:03:04,06"
-          text: ~
+          text: "Sai leggere il russo? Sì, dissi, così così. Chiese come così così? Ho appena detto così così."
         sequence-25:
           s: 25
           from: "00:03:04,06"
