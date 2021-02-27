@@ -333,32 +333,32 @@ it:
           s: 66
           from: "00:08:20,15"
           to: "00:08:27,02"
-          text: ~
+          text: "Ho pensato che se avessi detto che ero di Kropa, non avrebbero saputo dove fosse."
         sequence-67:
           s: 67
           from: "00:08:27,02"
           to: "00:08:35,07"
-          text: ~
+          text: "Se avessi detto che ero di Gornji grad, sarebbe stato persino peggio.Così ho detto che ero di Celje."
         sequence-68:
           s: 68
           from: "00:08:35,07"
           to: "00:08:48,02"
-          text: ~
+          text: "Quest'uomo, quello che ha tirato fuori la mappa ha detto che se posso mostragli dove si trovi Celje sulla mappa, allora sono jugoslavo."
         sequence-69:
           s: 69
           from: "00:08:48,02"
           to: "00:08:58,27"
-          text: ~
+          text: "Ha detto che per il momento conta fino a dieci; se non posso allora vado a Slivnjak, giù ai pruni."
         sequence-70:
           s: 70
           from: "00:08:58,27"
           to: "00:09:06,20"
-          text: ~
+          text: "Poi ha contato ras, dva, tri, shetiri... E gli ho mostrato, eccolo qui."
         sequence-71:
           s: 71
           from: "00:09:06,20"
           to: "00:09:16,00"
-          text: ~
+          text: "Mi ha dato una pacca sulla spalla e mi ha detto ti Jugoslav, che significa: tu sei jugoslavo e ora ci hai convinti."
         sequence-72:
           s: 72
           from: "00:09:16,00"
@@ -368,7 +368,7 @@ it:
           s: 73
           from: "00:09:17,04"
           to: "00:09:20,00"
-          text: ~
+          text: "Sono andato in Siberia."
         sequence-74:
           s: 74
           from: "00:09:20,00"
@@ -378,7 +378,7 @@ it:
           s: 75
           from: "00:09:21,09"
           to: "00:09:36,04"
-          text: ~
+          text: "Siamo andati con dei tedeschi; ci hanno portato in Siberia dove abbiamo incontrato altri sloveni."
         sequence-76:
           s: 76
           from: "00:09:36,04"
@@ -388,22 +388,22 @@ it:
           s: 77
           from: "00:09:37,22"
           to: "00:09:47,04"
-          text: ~
+          text: "Tutti gli sloveni si sono riuniti e ci è stato detto che ognuno di noi può scegliere il proprio gruppo."
         sequence-78:
           s: 78
           from: "00:09:47,04"
           to: "00:09:50,22"
-          text: ~
+          text: "E una volta formato il gruppo avremmo ottenuto il nostro lavoro."
         sequence-79:
           s: 79
           from: "00:09:50,22"
           to: "00:10:01,23"
-          text: ~
+          text: "è così che ci siamo riuniti; eravamo in dieci sloveni. Poi abbiamo ottenuto i nostri strumenti, seghe, asce..."
         sequence-80:
           s: 80
           from: "00:10:01,23"
           to: "00:10:06,14"
-          text: ~
+          text: "Siamo stati mandati nella foresta a abbattere alberi."
         sequence-81:
           s: 81
           from: "00:10:06,14"
@@ -413,37 +413,37 @@ it:
           s: 82
           from: "00:10:08,06"
           to: "00:10:15,25"
-          text: ~
+          text: "C'era abbastanza cibo mentre eravamo prigionieri russi."
         sequence-83:
           s: 83
           from: "00:10:15,25"
           to: "00:10:28,06"
-          text: ~
+          text: "Forse non c'era molto pane. I russi in Siberia, nella taiga, cucinano solo 'supa' e ‘kasha’."
         sequence-84:
           s: 84
           from: "00:10:28,06"
           to: "00:10:38,14"
-          text: ~
+          text: "Ti chiederai forse che cosa siano 'supa' e 'kasha'. 'Supa' è tutto ciò che è cotto e ancora fluido."
         sequence-85:
           s: 85
           from: "00:10:38,14"
           to: "00:10:46,21"
-          text: ~
+          text: "'Kasha' è porridge; tutto come purè di patate, cibi solidi."
         sequence-86:
           s: 86
           from: "00:10:46,21"
           to: "00:10:57,02"
-          text: ~
+          text: "Là abbiamo mangiato solo pesce, du cui ce n'era abbastanza, non molto pane, ma abbastanza."
         sequence-87:
           s: 87
           from: "00:10:57,02"
           to: "00:11:11,11"
-          text: ~
+          text: "Dopo un po' era ancora inverno, tutti gli sloveni e anche i croati"
         sequence-88:
           s: 88
           from: "00:11:11,11"
           to: "00:11:18,14"
-          text: ~
+          text: "e le altre nazionalità stavano tutti insieme secondo le nazionalità."
         sequence-89:
           s: 89
           from: "00:11:18,14"
