@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:19,18"
           to: "00:00:26,11"
-          text: "Ma non scegliemmo ciò. Non so spiegare esattamente il perché."
+          text: "Ma non lo facemmo. Non so spiegare esattamente il perché."
         sequence-5:
           s: 5
           from: "00:00:26,11"
@@ -58,4 +58,4 @@ it:
           s: 11
           from: "00:01:07,28"
           to: "00:01:13,21"
-          text: ~
+          text: "essere qualcuno che si è assunto delle responsabilità e ha agito nella vita."
