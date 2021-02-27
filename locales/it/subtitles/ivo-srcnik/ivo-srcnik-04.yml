@@ -83,37 +83,37 @@ it:
           s: 16
           from: "00:02:18,15"
           to: "00:02:25,13"
-          text: ~
+          text: "Mi hanno preso il cavallo, quando ero circondato;"
         sequence-17:
           s: 17
           from: "00:02:25,13"
           to: "00:02:35,12"
-          text: ~
+          text: "e mi hanno fatto assaggiare del cibo, per vedere se fosse veramente commestibile."
         sequence-18:
           s: 18
           from: "00:02:35,12"
           to: "00:02:41,14"
-          text: ~
+          text: "Non so se dopo mangiarono quel cibo o no."
         sequence-19:
           s: 19
           from: "00:02:41,14"
           to: "00:02:47,11"
-          text: ~
+          text: "Mi hanno inseguito a tre o quattro chilometri di distanza."
         sequence-20:
           s: 20
           from: "00:02:47,11"
           to: "00:02:55,14"
-          text: ~
+          text: "Ma anche prima che venissi fatto prigioniero, l'orologio mi fu tolto dalla mano."
         sequence-21:
           s: 21
           from: "00:02:55,14"
           to: "00:02:59,19"
-          text: ~
+          text: "Ricordo di aver pensato come non facesse alcuna differenza."
         sequence-22:
           s: 22
           from: "00:02:59,19"
           to: "00:03:12,20"
-          text: ~
+          text: "Quando mi hanno preso, mi hanno portato in un villaggio chiamato Balakleja e mi chiusero in un pollaio."
         sequence-23:
           s: 23
           from: "00:03:12,20"
@@ -123,12 +123,12 @@ it:
           s: 24
           from: "00:03:13,22"
           to: "00:03:18,09"
-          text: ~
+          text: "Forse erano due metri per due, o uno per uno."
         sequence-25:
           s: 25
           from: "00:03:18,09"
           to: "00:03:26,02"
-          text: ~
+          text: "So solo che sono stato rinchiuso per un'eternità o almeno così sembrava."
         sequence-26:
           s: 26
           from: "00:03:26,02"
@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:03:27,13"
           to: "00:03:40,04"
-          text: ~
+          text: "Non so se fosse pomeriggio o il giorno dopo, ma due soldati sono entrati e mi hanno chiesto se fossi tedesco o no."
         sequence-28:
           s: 28
           from: "00:03:40,04"
           to: "00:03:44,04"
-          text: ~
+          text: "No, non lo sono, sono jugoslavo."
         sequence-29:
           s: 29
           from: "00:03:44,04"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:03:45,09"
           to: "00:03:50,26"
-          text: ~
+          text: "Non sapevano di alcun jugoslavo."
         sequence-31:
           s: 31
           from: "00:03:50,26"
@@ -163,32 +163,32 @@ it:
           s: 32
           from: "00:03:52,07"
           to: "00:04:04,02"
-          text: ~
+          text: "Mi hanno legato con un cavo e mi hanno portato in qualche Quartier generale."
         sequence-33:
           s: 33
           from: "00:04:04,02"
           to: "00:04:13,20"
-          text: ~
+          text: "C'era un enorme tavolo, in una stanza molto grande e gli ufficiali erano seduti lì."
         sequence-34:
           s: 34
           from: "00:04:13,20"
           to: "00:04:21,13"
-          text: ~
+          text: "Non so che tipo di ufficiali fossero. Mi hanno chiesto di tutto."
         sequence-35:
           s: 35
           from: "00:04:21,13"
           to: "00:04:35,03"
-          text: ~
+          text: "Forse ci stavo pensando nel pollaio, mi è stato chiesto il mio cognome."
         sequence-36:
           s: 36
           from: "00:04:35,03"
           to: "00:04:40,04"
-          text: ~
+          text: "Dissi Ivan Ivanovic Srcnikov."
         sequence-37:
           s: 37
           from: "00:04:40,04"
           to: "00:04:47,04"
-          text: ~
+          text: "Quella poteva essere la mia morte, anche se non lo sapevo."
         sequence-38:
           s: 38
           from: "00:04:47,04"
@@ -198,27 +198,27 @@ it:
           s: 39
           from: "00:04:48,03"
           to: "00:04:56,20"
-          text: ~
+          text: "E poi uno degli ufficiali, mi dice in russo qual'è il mio cognome?!"
         sequence-40:
           s: 40
           from: "00:04:56,20"
           to: "00:05:05,10"
-          text: ~
+          text: "Risposi Ivan Ivanovic Srcnikov. Disse che non sono jugoslavo, ma valacco piuttosto."
         sequence-41:
           s: 41
           from: "00:05:05,10"
           to: "00:05:22,07"
-          text: ~
+          text: "I valacchi erano soldati russi passati al nemico o che erano stati fatti prigionieri."
         sequence-42:
           s: 42
           from: "00:05:22,07"
           to: "00:05:29,02"
-          text: ~
+          text: "Erano passati e si erano arruolati nell'esercito tedesco."
         sequence-43:
           s: 43
           from: "00:05:29,02"
           to: "00:05:42,29"
-          text: ~
+          text: "Poi quell'ufficiale ha detto sitchas mi vidjot, significa vedremo, se sei veramente jugoslavo."
         sequence-44:
           s: 44
           from: "00:05:42,29"
