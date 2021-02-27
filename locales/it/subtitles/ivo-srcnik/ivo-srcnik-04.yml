@@ -223,17 +223,17 @@ it:
           s: 44
           from: "00:05:42,29"
           to: "00:05:51,28"
-          text: ~
+          text: "Mi chiedevo come facesse a capirlo a più di mille chilometri di distanza."
         sequence-45:
           s: 45
           from: "00:05:51,28"
           to: "00:06:05,05"
-          text: ~
+          text: "Mi hanno spinto via di nuovo, mi hanno slegato e rinchiuso nel pollaio. Ci sono stato forse un giorno o forse poche ore."
         sequence-46:
           s: 46
           from: "00:06:05,05"
           to: "00:06:07,28"
-          text: ~
+          text: "Le ore erano un'eternità."
         sequence-47:
           s: 47
           from: "00:06:07,28"
@@ -243,7 +243,7 @@ it:
           s: 48
           from: "00:06:10,11"
           to: "00:06:18,24"
-          text: ~
+          text: "Gli stessi due soldati tornarono mi legarono e mi coprirono gli occhi."
         sequence-49:
           s: 49
           from: "00:06:18,24"
@@ -253,17 +253,17 @@ it:
           s: 50
           from: "00:06:19,28"
           to: "00:06:29,02"
-          text: ~
+          text: "Pensai: addio Slovenia, Jugoslavia, mi spareranno."
         sequence-51:
           s: 51
           from: "00:06:29,02"
           to: "00:06:43,23"
-          text: ~
+          text: "Sapevo che i russi sparavano ai soldati tedeschi giù da qualche parte vicino a pruni."
         sequence-52:
           s: 52
           from: "00:06:43,23"
           to: "00:06:48,23"
-          text: ~
+          text: "Ero sicuro di andare a morire."
         sequence-53:
           s: 53
           from: "00:06:48,23"
@@ -273,17 +273,17 @@ it:
           s: 54
           from: "00:06:50,14"
           to: "00:06:59,04"
-          text: ~
+          text: "I due soldati mi hanno legato gli occhi e ho pensato addio genitori, adesso morirò."
         sequence-55:
           s: 55
           from: "00:06:59,04"
           to: "00:07:10,17"
-          text: ~
+          text: "Siamo usciti dal pollaio e uno di loro disse che saremmo andati al Quartier generale."
         sequence-56:
           s: 56
           from: "00:07:10,17"
           to: "00:07:26,26"
-          text: ~
+          text: "Quando siamo arrivati qualcuno chiese il mio cognome. Ridissi Ivan Ivanovic Srcnikov."
         sequence-57:
           s: 57
           from: "00:07:26,26"
@@ -293,22 +293,22 @@ it:
           s: 58
           from: "00:07:28,24"
           to: "00:07:39,19"
-          text: ~
+          text: "Parlava in russo e ha detto qualcosa su alcune misurazioni; non ho capito perché parlava troppo velocemente."
         sequence-59:
           s: 59
           from: "00:07:39,19"
           to: "00:07:51,17"
-          text: ~
+          text: "Mi ha spiegato che ero in piedi davanti a un tavolo e che c'era qualcosa sul tavolo, ma non ha detto cosa."
         sequence-60:
           s: 60
           from: "00:07:51,17"
           to: "00:07:59,02"
-          text: ~
+          text: "Ha detto che avrei dovuto mostrarglielo prima che avesse contato fino a dieci."
         sequence-61:
           s: 61
           from: "00:07:59,02"
           to: "00:08:01,07"
-          text: ~
+          text: "Ancora non sapevo cosa."
         sequence-62:
           s: 62
           from: "00:08:01,07"
@@ -318,17 +318,17 @@ it:
           s: 63
           from: "00:08:02,23"
           to: "00:08:06,15"
-          text: ~
+          text: "I miei occhi erano ancora coperti."
         sequence-64:
           s: 64
           from: "00:08:06,15"
           to: "00:08:15,07"
-          text: ~
+          text: "Mi ha sciolto gli occhi e ha detto che dovevo mostrargli dove fosse Celje."
         sequence-65:
           s: 65
           from: "00:08:15,07"
           to: "00:08:20,15"
-          text: ~
+          text: "Ho dimenticato di menzionare che avevo detto che ero di Celje."
         sequence-66:
           s: 66
           from: "00:08:20,15"
