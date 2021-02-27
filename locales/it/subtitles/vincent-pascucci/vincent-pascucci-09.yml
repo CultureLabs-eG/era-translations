@@ -2,18 +2,18 @@ it:
   vincent-pascucci:
     chapter-9:
       c: 9
-      title: "The choice of doing what I did"
+      title: "La scelta di fare quello che ho fatto."
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,08"
           to: "00:00:08,05"
-          text: ~
+          text: "Si, la nostra vita era molto difficile."
         sequence-2:
           s: 2
           from: "00:00:08,05"
           to: "00:00:17,15"
-          text: ~
+          text: "Ma facemmo una scelta. Avremmo potuto alzare le gambe e guardare la TV."
         sequence-3:
           s: 3
           from: "00:00:17,15"
@@ -23,22 +23,22 @@ it:
           s: 4
           from: "00:00:19,18"
           to: "00:00:26,11"
-          text: ~
+          text: "Ma non scegliemmo ciò. Non so spiegare esattamente il perché."
         sequence-5:
           s: 5
           from: "00:00:26,11"
           to: "00:00:36,29"
-          text: ~
+          text: "Da una lato, fu grazie al modo i cui i miei genitori mi hanno educato."
         sequence-6:
           s: 6
           from: "00:00:36,29"
           to: "00:00:44,24"
-          text: ~
+          text: "Non appena fui abbastanza grande, mi dissero che cosa era il fascismo italiano."
         sequence-7:
           s: 7
           from: "00:00:44,24"
           to: "00:00:48,25"
-          text: ~
+          text: "Poi fu grazie agli insegnanti a scuola,"
         sequence-8:
           s: 8
           from: "00:00:48,25"
@@ -48,12 +48,12 @@ it:
           s: 9
           from: "00:00:50,03"
           to: "00:00:58,03"
-          text: ~
+          text: "specialmente l'ultimo. Di lui ho un ricordo molto affettuoso."
         sequence-10:
           s: 10
           from: "00:00:58,03"
           to: "00:01:07,28"
-          text: ~
+          text: "Ha instillato in noi i principi di lealtà, ci ha insegnato cosa significhi essere un cittadino,"
         sequence-11:
           s: 11
           from: "00:01:07,28"

@@ -258,7 +258,7 @@ it:
           s: 51
           from: "00:06:29,02"
           to: "00:06:43,23"
-          text: "Sapevo che i russi sparavano ai soldati tedeschi giù da qualche parte vicino a pruni."
+          text: "Sapevo che i russi sparavano ai soldati tedeschi giù da qualche parte vicino ai pruni."
         sequence-52:
           s: 52
           from: "00:06:43,23"
@@ -398,7 +398,7 @@ it:
           s: 79
           from: "00:09:50,22"
           to: "00:10:01,23"
-          text: "è così che ci siamo riuniti; eravamo in dieci sloveni. Poi abbiamo ottenuto i nostri strumenti, seghe, asce..."
+          text: "È così che ci siamo riuniti; eravamo in dieci sloveni. Poi abbiamo ottenuto i nostri strumenti, seghe, asce..."
         sequence-80:
           s: 80
           from: "00:10:01,23"
@@ -433,7 +433,7 @@ it:
           s: 86
           from: "00:10:46,21"
           to: "00:10:57,02"
-          text: "Là abbiamo mangiato solo pesce, du cui ce n'era abbastanza, non molto pane, ma abbastanza."
+          text: "Là abbiamo mangiato solo pesce, di cui ce n'era abbastanza, non molto pane, ma abbastanza."
         sequence-87:
           s: 87
           from: "00:10:57,02"
@@ -448,4 +448,4 @@ it:
           s: 89
           from: "00:11:18,14"
           to: "00:11:23,15"
-          text: ~
+          text: "Forse sloveni e croati erano insieme..."
