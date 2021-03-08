@@ -2,33 +2,33 @@ it:
   ivo-srcnik:
     chapter-6:
       c: 6
-      title: ~
+      title: "Battaglie in Jugoslavia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,28"
           to: "00:00:04,18"
-          text: ~
+          text: "Così ci siamo addestrati lì."
         sequence-2:
           s: 2
           from: "00:00:04,18"
           to: "00:00:11,25"
-          text: ~
+          text: "All'inizio ero in un'azienda di cravatte e poi radiotelegrafista."
         sequence-3:
           s: 3
           from: "00:00:11,25"
           to: "00:00:27,13"
-          text: ~
+          text: "Fu nel Settembre o in Ottobre del 1943 che partimmo. Siamo andati al fronte."
         sequence-4:
           s: 4
           from: "00:00:27,13"
           to: "00:00:33,07"
-          text: ~
+          text: "Siamo andati in prima linea, ma eravamo proprio dietro."
         sequence-5:
           s: 5
           from: "00:00:33,07"
           to: "00:00:40,04"
-          text: ~
+          text: "Mentre le unità sovietiche marciavano verso la Germania,"
         sequence-6:
           s: 6
           from: "00:00:40,04"
