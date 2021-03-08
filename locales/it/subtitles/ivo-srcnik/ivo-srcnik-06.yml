@@ -63,57 +63,57 @@ it:
           s: 12
           from: "00:01:33,06"
           to: "00:01:43,09"
-          text: ~
+          text: "Se qualcuno di fronte a te fosse caduto se ne sarebbero stati subito altri dieci impilati. È così che abbiamo attraversato i Carpazi."
         sequence-13:
           s: 13
           from: "00:01:43,09"
           to: "00:01:52,06"
-          text: ~
+          text: "Poi siamo arrivati a Turnseverin. All'epoca quello era il confine rumeno-jugoslavo."
         sequence-14:
           s: 14
           from: "00:01:52,06"
           to: "00:02:00,22"
-          text: ~
+          text: "Attraversammo il Danubio entrando nell'ex Jugoslavia, o meglio, Jugoslavia occupata."
         sequence-15:
           s: 15
           from: "00:02:00,22"
           to: "00:02:09,03"
-          text: ~
+          text: "Li stavamo già liberando in quel momento. Poi ci siamo uniti al combattimento a Cacak."
         sequence-16:
           s: 16
           from: "00:02:09,03"
           to: "00:02:26,11"
-          text: ~
+          text: "Le cose andavano molto male a Cacak. Fin qui la Brigata contava 1000 o 2700 uomini."
         sequence-17:
           s: 17
           from: "00:02:26,11"
           to: "00:02:37,12"
-          text: ~
+          text: "Poi a Cacak arrivò un uomo un uomo vestito in modo stravagante, che montava un cavallo."
         sequence-18:
           s: 18
           from: "00:02:37,12"
           to: "00:02:47,03"
-          text: ~
+          text: "Disse che le sue forze armate - le abbiamo chiamate Tchetniks"
         sequence-19:
           s: 19
           from: "00:02:47,03"
           to: "00:02:54,19"
-          text: ~
+          text: "e quello era anche il loro nome formale - si arresero ai nostri soldati."
         sequence-20:
           s: 20
           from: "00:02:54,19"
           to: "00:03:05,29"
-          text: ~
+          text: "Poiché eravamo da tutta la Slovenia e dalla Croazia e non c'era nessuno degli autoctoni nella nostra brigata."
         sequence-21:
           s: 21
           from: "00:03:05,29"
           to: "00:03:11,02"
-          text: ~
+          text: "Questo è in pratica il modo in cui hanno salvato le loro vite."
         sequence-22:
           s: 22
           from: "00:03:11,02"
           to: "00:03:20,16"
-          text: ~
+          text: "C'erano anche Partigiani da Cacak e loro conoscevano questa gente;"
         sequence-23:
           s: 23
           from: "00:03:20,16"
