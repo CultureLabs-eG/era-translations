@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:33,06"
           to: "00:01:43,09"
-          text: "Se qualcuno di fronte a te fosse caduto se ne sarebbero stati subito altri dieci impilati. È così che abbiamo attraversato i Carpazi."
+          text: "Se qualcuno di fronte a te fosse caduto ce ne sarebbero stati subito altri dieci impilati. È così che abbiamo attraversato i Carpazi."
         sequence-13:
           s: 13
           from: "00:01:43,09"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:02:26,11"
           to: "00:02:37,12"
-          text: "Poi a Cacak arrivò un uomo un uomo vestito in modo stravagante, che montava un cavallo."
+          text: "Poi a Cacak arrivò un uomo vestito in modo stravagante, in groppa a un cavallo."
         sequence-18:
           s: 18
           from: "00:02:37,12"
@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:02:47,03"
           to: "00:02:54,19"
-          text: "e quello era anche il loro nome formale - si arresero ai nostri soldati."
+          text: "e quello era anche il loro nome formale - si arrendevano ai nostri soldati."
         sequence-20:
           s: 20
           from: "00:02:54,19"
           to: "00:03:05,29"
-          text: "Poiché eravamo da tutta la Slovenia e dalla Croazia e non c'era nessuno degli autoctoni nella nostra brigata."
+          text: "Poiché eravamo da tutta la Slovenia e dalla Croazia e non c'era nessuno di quegli autoctoni nella nostra brigata."
         sequence-21:
           s: 21
           from: "00:03:05,29"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:03:51,06"
           to: "00:03:59,12"
-          text: "Gli porse una letter. C'era scritto su quella lettera che in quel giorno la nostra artiglieria avrebbe dovuto sparare"
+          text: "Gli porse una lettera. C'era scritto su quella lettera che in quel giorno la nostra artiglieria avrebbe dovuto sparare"
         sequence-27:
           s: 27
           from: "00:03:59,12"
@@ -238,4 +238,4 @@ it:
           s: 47
           from: "00:06:22,29"
           to: "00:06:35,11"
-          text: ~
+          text: "Siamo giunti al fiume Sotla. Sedlarjevo era nella parte slovena. Non ricordo il nome, era un piccolo villaggio."
