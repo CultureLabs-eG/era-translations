@@ -128,47 +128,47 @@ it:
           s: 25
           from: "00:03:41,03"
           to: "00:03:51,06"
-          text: ~
+          text: "dovevamo assicurarci che non avesse armi prima che gli fosse permesso di vedere il nostro ufficiale in comando Mesic."
         sequence-26:
           s: 26
           from: "00:03:51,06"
           to: "00:03:59,12"
-          text: ~
+          text: "Gli porse una letter. C'era scritto su quella lettera che in quel giorno la nostra artiglieria avrebbe dovuto sparare"
         sequence-27:
           s: 27
           from: "00:03:59,12"
           to: "00:04:06,29"
-          text: ~
+          text: "da questa o quella posizione in luoghi particolari dove i tedeschi erano meglio organizzati."
         sequence-28:
           s: 28
           from: "00:04:06,29"
           to: "00:04:13,20"
-          text: ~
+          text: "Vi era stato anche scritto che gli Tschetniks, i serbi, si sarebbero arresi alla nostra unità."
         sequence-29:
           s: 29
           from: "00:04:13,20"
           to: "00:04:18,09"
-          text: ~
+          text: "I nostri comandanti, Mesic cadde per questo;"
         sequence-30:
           s: 30
           from: "00:04:18,09"
           to: "00:04:32,22"
-          text: ~
+          text: "e così le nostre truppe iniziarono con i preparativi e poi con l'attacco a quei precisi luoghi prescelti."
         sequence-31:
           s: 31
           from: "00:04:32,22"
           to: "00:04:35,23"
-          text: ~
+          text: "Ebbene, lì non c'erano tedeschi."
         sequence-32:
           s: 32
           from: "00:04:35,23"
           to: "00:04:46,05"
-          text: ~
+          text: "I Tschetniks ci hanno attaccato da dietro e hanno massacrato da dietro i Partigiani."
         sequence-33:
           s: 33
           from: "00:04:46,05"
           to: "00:04:58,19"
-          text: ~
+          text: "Abbiamo perso 700 uomini in una notte e un giorno in quel massacro."
         sequence-34:
           s: 34
           from: "00:04:58,19"
@@ -178,12 +178,12 @@ it:
           s: 35
           from: "00:04:59,27"
           to: "00:05:11,08"
-          text: ~
+          text: "Quando tutto finì, non ero ancora nella Brigata del Quartier generale in quel momento,"
         sequence-36:
           s: 36
           from: "00:05:11,08"
           to: "00:05:18,23"
-          text: ~
+          text: "ma ero ancora in truppa e avevamo una mobilitazione a Cacak."
         sequence-37:
           s: 37
           from: "00:05:18,23"
@@ -193,12 +193,12 @@ it:
           s: 38
           from: "00:05:19,21"
           to: "00:05:26,19"
-          text: ~
+          text: "Al nostro arrivo a Belgrado, beh eravamo solo per poco lì, eravamo a Topcinder."
         sequence-39:
           s: 39
           from: "00:05:26,19"
           to: "00:05:39,24"
-          text: ~
+          text: "Siamo stati divisi in battaglia e alcuni di noi sono andati in Bosnia, alcuni sono saliti verso Srem, verso Sid e noi siamo andati a Drvar."
         sequence-40:
           s: 40
           from: "00:05:39,24"
@@ -208,12 +208,12 @@ it:
           s: 41
           from: "00:05:40,20"
           to: "00:05:46,10"
-          text: ~
+          text: "Poi eravamo al fronte a Srem, dove c'erano molti combattimenti"
         sequence-42:
           s: 42
           from: "00:05:46,10"
           to: "00:05:57,29"
-          text: ~
+          text: "e ci siamo diretti in una direzione una volta e in un'altra direzione un'altra volta ... Lentamente, lentamente ci siamo diretti verso la Slovenia."
         sequence-43:
           s: 43
           from: "00:05:57,29"
@@ -223,17 +223,17 @@ it:
           s: 44
           from: "00:05:59,22"
           to: "00:06:02,22"
-          text: ~
+          text: "Era già il 1945."
         sequence-45:
           s: 45
           from: "00:06:02,22"
           to: "00:06:06,28"
-          text: ~
+          text: "Abbiamo trascorso il capodanno sul fronte Srem,"
         sequence-46:
           s: 46
           from: "00:06:06,28"
           to: "00:06:22,29"
-          text: ~
+          text: "ma abbiamo continuato in direzione Nord e siamo arrivati al confine croato-sloveno l'11 aprile."
         sequence-47:
           s: 47
           from: "00:06:22,29"
