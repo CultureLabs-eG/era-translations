@@ -83,42 +83,42 @@ it:
           s: 16
           from: "00:01:41,01"
           to: "00:01:50,01"
-          text: ~
+          text: "Quindi giungemmo a Celje il 12 Aprile. Mi chiesi come ero potuto arrivare fino a lì."
         sequence-17:
           s: 17
           from: "00:01:50,01"
           to: "00:02:00,14"
-          text: ~
+          text: "Bene, ero l'ufficiale in comando dell''unità di supporto di retrovia\". Così sono andato da Mesic e gli ho detto: Mesic vorrei tornare a casa."
         sequence-18:
           s: 18
           from: "00:02:00,14"
           to: "00:02:06,02"
-          text: ~
+          text: "Parlavo in serbo-croato; non parlammo in sloveno."
         sequence-19:
           s: 19
           from: "00:02:06,02"
           to: "00:02:16,16"
-          text: ~
+          text: "Mi chiese di dove fossi. Ho mentito e gli ho detto da circa cinque o sei chilometri di distanza."
         sequence-20:
           s: 20
           from: "00:02:16,16"
           to: "00:02:25,29"
-          text: ~
+          text: "Il mio cuore ha già incominciato a battere forte. Ci era stato concesso di prendere un permesso al massimo per cinque chilometri."
         sequence-21:
           s: 21
           from: "00:02:25,29"
           to: "00:02:30,06"
-          text: ~
+          text: "Così mi guarda negli occhi e mi richiede quanti chilometri?"
         sequence-22:
           s: 22
           from: "00:02:30,06"
           to: "00:02:36,10"
-          text: ~
+          text: "Risposi, forse cinque e mezzo, non sei, me lo sono rimangiato velocemente."
         sequence-23:
           s: 23
           from: "00:02:36,10"
           to: "00:02:41,04"
-          text: ~
+          text: "Mi chiede come ci vado. A piedi rispondo."
         sequence-24:
           s: 24
           from: "00:02:41,04"
