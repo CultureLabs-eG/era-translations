@@ -83,49 +83,49 @@ it:
           s: 16
           from: "00:02:04,16"
           to: "00:02:08,08"
-          text: ~
+          text: "Facile, facile."
         sequence-17:
           s: 17
           from: "00:02:08,08"
           to: "00:02:16,00"
-          text: ~
+          text: "Ovviamente avevo un messaggio. Mali, devi fare rapporto al Quartier generale centrale a Belgrado."
         sequence-18:
           s: 18
           from: "00:02:16,00"
           to: "00:02:26,12"
-          text: ~
+          text: "Sono andato a Belgrado; devono essere stati 10 o 12 giorni. A volte ero su un treno, a volte viaggiavo a piedi."
         sequence-19:
           s: 19
           from: "00:02:26,12"
           to: "00:02:34,21"
-          text: ~
+          text: "Le rotaie erano disastrate. Giunsi a Belgrado; penso che fosse la fine di Maggio."
         sequence-20:
           s: 20
           from: "00:02:34,21"
           to: "00:02:46,02"
-          text: ~
+          text: "Ho fatto rapporto al Quartier generale centrale di Belgrado e vi ho trascorso un po' di tempo, una o due settimane, o addirittura un mese."
         sequence-21:
           s: 21
           from: "00:02:46,02"
           to: "00:02:52,23"
-          text: ~
+          text: "Poi sono stato mandato al Quartier generale del 1° reggimento a Nis."
         sequence-22:
           s: 22
           from: "00:02:52,23"
           to: "00:03:00,29"
-          text: ~
+          text: "Ci sono arrivato e mi ritrovai nel 'reparto personale'."
         sequence-23:
           s: 23
           from: "00:03:00,29"
           to: "00:03:13,19"
-          text: ~
+          text: "Il mio compito era interrogare coloro che si univano ai Partigiani e diventavano sottufficiali."
         sequence-24:
           s: 24
           from: "00:03:13,19"
           to: "00:03:25,23"
-          text: ~
+          text: "Gli dovevo chiedere dove fossero stati, ho dovuto interrogarli a fondo e scoprire che tipo di passato avessero."
         sequence-25:
           s: 25
           from: "00:03:25,23"
           to: "00:03:41,13"
-          text: ~
+          text: "È così che sono stato nel Primo reggimento fino a Novembre 1945."
