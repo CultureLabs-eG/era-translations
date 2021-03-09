@@ -2,28 +2,28 @@ it:
   ivo-srcnik:
     chapter-7:
       c: 7
-      title: ~
+      title: "L'arrivo in Slovenia con la Brigata"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,23"
           to: "00:00:11,16"
-          text: ~
+          text: "La nostra Brigata ha varcato il suolo sloveno a Sedlarjevo senza combattere."
         sequence-2:
           s: 2
           from: "00:00:11,16"
           to: "00:00:17,24"
-          text: ~
+          text: "I tedeschi si stavano ritirando e noi entrammo subito."
         sequence-3:
           s: 3
           from: "00:00:17,24"
           to: "00:00:23,21"
-          text: ~
+          text: "Poi siamo scesi a Podcetrtek."
         sequence-4:
           s: 4
           from: "00:00:23,21"
           to: "00:00:29,19"
-          text: ~
+          text: "C'erano persone in piedi lungo la strada a Podcetrtek."
         sequence-5:
           s: 5
           from: "00:00:29,19"
