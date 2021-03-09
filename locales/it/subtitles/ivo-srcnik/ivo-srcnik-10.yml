@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:36,17"
           to: "00:00:47,00"
-          text: ~
+          text: "È così che sono stato smobilitato, alla fine di novembre."
         sequence-6:
           s: 6
           from: "00:00:47,00"
@@ -38,64 +38,64 @@ it:
           s: 7
           from: "00:00:48,03"
           to: "00:00:55,13"
-          text: ~
+          text: "Sono tornato a casa e subito sono diventato segretario del Fronte di Liberazione (LF)."
         sequence-8:
           s: 8
           from: "00:00:55,13"
           to: "00:01:05,01"
-          text: ~
+          text: "La LF fu istituita allora senza distretti. C'erano solo le LF, loro avevano il potere."
         sequence-9:
           s: 9
           from: "00:01:05,01"
           to: "00:01:12,09"
-          text: ~
+          text: "C'era quest'uomo che ne era il presidente ed era anche un Partigiano."
         sequence-10:
           s: 10
           from: "00:01:12,09"
           to: "00:01:22,27"
-          text: ~
+          text: "Stavo lavorando il legno per mio padre e questo poliziotto entra in officina e mi chiede se sono un tal dei tali."
         sequence-11:
           s: 11
           from: "00:01:22,27"
           to: "00:01:29,14"
-          text: ~
+          text: "Dissi che sono Srcnik. Mi dice di andare con lui. Chiedo, dove?"
         sequence-12:
           s: 12
           from: "00:01:29,14"
           to: "00:01:37,23"
-          text: ~
+          text: "Dice intanto vieni. Così andammo in strada."
         sequence-13:
           s: 13
           from: "00:01:37,23"
           to: "00:01:46,07"
-          text: ~
+          text: "Un altro poliziotto introduceva il presidente della LF."
         sequence-14:
           s: 14
           from: "00:01:46,07"
           to: "00:01:56,21"
-          text: ~
+          text: "Ho chiesto cosa stava succedendo, che cosa facciamo? Continua! Non ti è permesso parlare! Quindi siamo andati avanti..."
         sequence-15:
           s: 15
           from: "00:01:56,21"
           to: "00:02:07,05"
-          text: ~
+          text: "Ad ogni modo, giungemmo al ponte e disse che saremmo andati in quella casa. Perché? Non chiedere, andiamo e basta."
         sequence-16:
           s: 16
           from: "00:02:07,05"
           to: "00:02:18,01"
-          text: ~
+          text: "Arriviamo così a quella casa e giunge un'auto; era una Volkswagen tedesca e c'erano due persone dentro."
         sequence-17:
           s: 17
           from: "00:02:18,01"
           to: "00:02:28,18"
-          text: ~
+          text: "Non ricordo se erano vestiti da civili o meno. Uno dei due è entrato mentre l'altro è rimasto fuori in macchina."
         sequence-18:
           s: 18
           from: "00:02:28,18"
           to: "00:02:36,00"
-          text: ~
+          text: "Ha fatto segno ai due poliziotti che dovevano entrare. Seguì un esame."
         sequence-19:
           s: 19
           from: "00:02:36,00"
           to: "00:02:42,00"
-          text: ~
+          text: "Non entrerò in ciò che ne venne fuori. È così che è iniziata questa vita civile."
