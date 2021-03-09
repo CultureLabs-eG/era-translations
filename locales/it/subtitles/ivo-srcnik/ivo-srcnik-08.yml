@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:11,01"
           to: "00:00:21,06"
-          text: "Era stato bruciato. Ci ha portati attraverso me e mia madre, io con la mia rubata bicicletta e lei con la sua,"
+          text: "Era stato bruciato. Ci ha portati attraverso me e mia madre, io con la mia bicicletta rubata e lei con la sua,"
         sequence-3:
           s: 3
           from: "00:00:21,06"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:01:07,08"
           to: "00:01:17,05"
-          text: "Dissero che avevo ucciso un Partigiano, vestito con l'uniforme Partigiana e buttato via quella tedesca. Non era vero."
+          text: "Dissero che avevo ucciso un Partigiano, mi ero vestito con l'uniforme Partigiana e buttato via quella tedesca. Non era vero."
         sequence-9:
           s: 9
           from: "00:01:17,05"
@@ -78,14 +78,14 @@ it:
           s: 15
           from: "00:02:17,04"
           to: "00:02:24,20"
-          text: ~
+          text: "C'era un'anziana donna, ne avrà avuti 60 o 70."
         sequence-16:
           s: 16
           from: "00:02:24,20"
           to: "00:02:34,16"
-          text: ~
+          text: "Al mio ritorno con quella bicicletta, ricevetti il messaggio e c'era scritto Mali -"
         sequence-17:
           s: 17
           from: "00:02:34,16"
           to: "00:02:48,01"
-          text: ~
+          text: "questo era il mio nome Partigiano - siamo andati a Zagabria, a Maksimir."
