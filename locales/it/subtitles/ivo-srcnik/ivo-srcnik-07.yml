@@ -123,17 +123,17 @@ it:
           s: 24
           from: "00:02:41,04"
           to: "00:02:57,12"
-          text: ~
+          text: "Quando sono uscito da quell'ufficio, ho visto una bici proprio davanti. Era una bicicletta tedesca."
         sequence-25:
           s: 25
           from: "00:02:57,12"
           to: "00:03:05,20"
-          text: ~
+          text: "Forse qualcuno l'aveva lasciata lì, forse apparteneva addirittura a qualcuno in quell'ufficio, non lo so."
         sequence-26:
           s: 26
           from: "00:03:05,20"
           to: "00:03:17,18"
-          text: ~
+          text: "L'ho vista e l'ho rubata, davvero. Non importa; era tedesca. Quindi rubo questa bicicletta e inizio a pedalare."
         sequence-27:
           s: 27
           from: "00:03:17,18"
@@ -143,19 +143,19 @@ it:
           s: 28
           from: "00:03:19,25"
           to: "00:03:31,26"
-          text: ~
+          text: "Sono poco meno di 50 chilometri da Celje a qui, ma ho praticamente ignorato quello zero di troppo e ho detto che erano solo cinque."
         sequence-29:
           s: 29
           from: "00:03:31,26"
           to: "00:03:35,03"
-          text: ~
+          text: "Ero fatto così."
         sequence-30:
           s: 30
           from: "00:03:35,03"
           to: "00:03:41,00"
-          text: ~
+          text: "Ci arrivai, dalla parte di Savinja dove viveva mia madre."
         sequence-31:
           s: 31
           from: "00:03:41,00"
           to: "00:03:52,00"
-          text: ~
+          text: "Giungo sulla riva sinistra del fiume Savinja e vedo che la casa è ancora in piedi sulla collina."
