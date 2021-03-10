@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:10,01"
           to: "00:00:15,08"
-          text: ~
+          text: "Avevo già dei legami con i Partigiani."
         sequence-3:
           s: 3
           from: "00:00:15,08"
@@ -23,77 +23,77 @@ it:
           s: 4
           from: "00:00:16,13"
           to: "00:00:19,16"
-          text: ~
+          text: "Ad Agosto ho ricevuto la convocazione nell'esercito."
         sequence-5:
           s: 5
           from: "00:00:19,16"
           to: "00:00:26,26"
-          text: ~
+          text: "Dissi: 'Che cosa dobbiamo fare?'"
         sequence-6:
           s: 6
           from: "00:00:26,26"
           to: "00:00:34,07"
-          text: ~
+          text: "Volevano che mi arruolassi ma mia madre era contraria. Mamma era spaventata:"
         sequence-7:
           s: 7
           from: "00:00:34,07"
           to: "00:00:41,21"
-          text: ~
+          text: "'Distruggeranno tutto e bruceranno la nostra casa' e gridava."
         sequence-8:
           s: 8
           from: "00:00:41,21"
           to: "00:00:48,11"
-          text: ~
+          text: "Ma ho considerato che le famiglie non avrebbero pagato così tanto."
         sequence-9:
           s: 9
           from: "00:00:48,11"
           to: "00:01:05,23"
-          text: ~
+          text: "Quindi mi sono arruolato a Klagenfurt. Dall'alto potremmo avere un contatto."
         sequence-10:
           s: 10
           from: "00:01:05,23"
           to: "00:01:12,23"
-          text: ~
+          text: "Quando ero a Klagenfurt, sai com'è tra militari - oggi va così, domani in un altro."
         sequence-11:
           s: 11
           from: "00:01:12,23"
           to: "00:01:26,01"
-          text: ~
+          text: "Da Klagenfurt a Salisburgo; da Salisburgo a Lienz, Est Tirolo."
         sequence-12:
           s: 12
           from: "00:01:26,01"
           to: "00:01:37,24"
-          text: ~
+          text: "Dopo in Italia via Venezia, Roma e su... vicino a Monte Cassino."
         sequence-13:
           s: 13
           from: "00:01:37,24"
           to: "00:01:41,14"
-          text: ~
+          text: "Poi siamo stati mandati al fronte."
         sequence-14:
           s: 14
           from: "00:01:41,14"
           to: "00:01:47,01"
-          text: ~
+          text: "Li sono stato ferito, ho avuto un congelamento di primo e secondo grado"
         sequence-15:
           s: 15
           from: "00:01:47,01"
           to: "00:01:54,09"
-          text: ~
+          text: "e per questo sono entrato nell'ospedale militare in Sud Italia, a Sora."
         sequence-16:
           s: 16
           from: "00:01:54,09"
           to: "00:01:59,23"
-          text: ~
+          text: "Da lì a Venezia e poi a Merano."
         sequence-17:
           s: 17
           from: "00:01:59,23"
           to: "00:02:06,11"
-          text: ~
+          text: "Quindi in Germania, la Foresta Nera, Solingen - lì c'era un ospedale."
         sequence-18:
           s: 18
           from: "00:02:06,11"
           to: "00:02:08,13"
-          text: ~
+          text: "Dopotutto ho sempre pensato:"
         sequence-19:
           s: 19
           from: "00:02:08,13"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:02:09,18"
           to: "00:02:12,24"
-          text: ~
+          text: "Bene, ne devo uscire."
         sequence-21:
           s: 21
           from: "00:02:12,24"
