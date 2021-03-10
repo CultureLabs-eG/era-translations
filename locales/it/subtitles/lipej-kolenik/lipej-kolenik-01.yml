@@ -53,17 +53,17 @@ it:
           s: 10
           from: "00:01:00,08"
           to: "00:01:09,25"
-          text: "E molti si lasciano guidare dalla propaganda"
+          text: "E molti si lasciavano guidare dalla propaganda"
         sequence-11:
           s: 11
           from: "00:01:09,25"
           to: "00:01:16,20"
-          text: ~
+          text: "col credere che tutto si sarebbe rimesso a posto."
         sequence-12:
           s: 12
           from: "00:01:16,20"
           to: "00:01:22,27"
-          text: ~
+          text: "Che le persone avrebbero vissuto bene - sotto Adolf Hitler."
         sequence-13:
           s: 13
           from: "00:01:22,27"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:24,04"
           to: "00:01:36,00"
-          text: ~
+          text: "Ma quando i primi sloveni furono rinchiusi, sapevamo già che mio padre aveva ragione."
         sequence-15:
           s: 15
           from: "00:01:36,00"
@@ -83,17 +83,17 @@ it:
           s: 16
           from: "00:01:37,04"
           to: "00:01:47,05"
-          text: ~
+          text: "La gente ha perso fiducia in Adolf Hitler"
         sequence-17:
           s: 17
           from: "00:01:47,05"
           to: "00:01:54,12"
-          text: ~
+          text: "e si costituì la Resistenza contro il fascismo e l'hitlerismo."
         sequence-18:
           s: 18
           from: "00:01:54,12"
           to: "00:02:05,18"
-          text: ~
+          text: "I primi disertori della Wehrmacht erano già sfuggiti in Jugoslavia nel 1939."
         sequence-19:
           s: 19
           from: "00:02:05,18"
