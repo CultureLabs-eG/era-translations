@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:05,18"
           to: "00:02:17,13"
-          text: ~
+          text: "Dopo l'occupazione della Jugoslavia furono arrestati o si nascosero sotto mentite spoglie;"
         sequence-20:
           s: 20
           from: "00:02:17,13"
@@ -108,17 +108,17 @@ it:
           s: 21
           from: "00:02:18,11"
           to: "00:02:22,07"
-          text: ~
+          text: "come fece il mio collega Karl Potoschki."
         sequence-22:
           s: 22
           from: "00:02:22,07"
           to: "00:02:31,04"
-          text: ~
+          text: "Lavorava sotto falso nome in un Hotel in Bosnia."
         sequence-23:
           s: 23
           from: "00:02:31,04"
           to: "00:02:45,07"
-          text: ~
+          text: "Il 20 Ottobre 1939 fu fucilato con 20.000 altri ricercati e ucciso."
         sequence-24:
           s: 24
           from: "00:02:45,07"
@@ -128,32 +128,32 @@ it:
           s: 25
           from: "00:02:47,02"
           to: "00:02:57,07"
-          text: ~
+          text: "Quelli che tornavano dopo l'occupazione della Jugoslavia furono per lo più rinchiusi,"
         sequence-26:
           s: 26
           from: "00:02:57,07"
           to: "00:03:05,06"
-          text: ~
+          text: "rispettivamente erano i quadri del fronte di liberazione degli sloveni in Carinzia."
         sequence-27:
           s: 27
           from: "00:03:05,06"
           to: "00:03:15,08"
-          text: ~
+          text: "Alcuni si unirono subito ai Partigiani; altri in seguito, ma l'inizio c'era già stato."
         sequence-28:
           s: 28
           from: "00:03:15,08"
           to: "00:03:22,27"
-          text: ~
+          text: "Di giorno in giorno la Resistenza si rafforzava sempre di più."
         sequence-29:
           s: 29
           from: "00:03:22,27"
           to: "00:03:32,29"
-          text: ~
+          text: "Oggi, ti rendi conto di quanto fosse coraggiosa la gente -"
         sequence-30:
           s: 30
           from: "00:03:32,29"
           to: "00:03:40,09"
-          text: ~
+          text: "poi  la 'testa' è stata coinvolta e la gente non ne ebbe la più pallida idea."
         sequence-31:
           s: 31
           from: "00:03:40,09"
