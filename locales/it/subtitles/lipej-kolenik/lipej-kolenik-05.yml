@@ -8,32 +8,32 @@ it:
           s: 1
           from: "00:00:01,12"
           to: "00:00:03,09"
-          text: ~
+          text: "Dunque tornai a casa."
         sequence-2:
           s: 2
           from: "00:00:03,09"
           to: "00:00:07,26"
-          text: ~
+          text: "La prima sera c'erano già i Partigiani, quelli miei conoscenti."
         sequence-3:
           s: 3
           from: "00:00:07,26"
           to: "00:00:11,13"
-          text: ~
+          text: "Dopo 14 giorni la vacanza era finita."
         sequence-4:
           s: 4
           from: "00:00:11,13"
           to: "00:00:15,12"
-          text: ~
+          text: "'Bene, che cosa faremo madre?' Mia mamma piangeva di nuovo."
         sequence-5:
           s: 5
           from: "00:00:15,12"
           to: "00:00:19,08"
-          text: ~
+          text: "Mi spruzzava di acqua santa."
         sequence-6:
           s: 6
           from: "00:00:19,08"
           to: "00:00:30,07"
-          text: ~
+          text: "'Mamma, questo non aiuta! Io non tornerò da quelli che ci hanno condannato a morte.'"
         sequence-7:
           s: 7
           from: "00:00:30,07"
