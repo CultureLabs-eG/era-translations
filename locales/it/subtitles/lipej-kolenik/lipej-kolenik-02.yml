@@ -58,24 +58,24 @@ it:
           s: 11
           from: "00:00:56,15"
           to: "00:01:00,18"
-          text: ~
+          text: "C'era una donna che aveva un'armonica."
         sequence-12:
           s: 12
           from: "00:01:00,18"
           to: "00:01:03,02"
-          text: ~
+          text: "Siamo diventati subito amici."
         sequence-13:
           s: 13
           from: "00:01:03,02"
           to: "00:01:08,07"
-          text: ~
+          text: "In seguito abbiamo dovuto aiutarli ogni giorno."
         sequence-14:
           s: 14
           from: "00:01:08,07"
           to: "00:01:13,18"
-          text: ~
+          text: "Nella foresta, consegnando cibo. La sera loro tornavano."
         sequence-15:
           s: 15
           from: "00:01:13,18"
           to: "00:01:23,12"
-          text: ~
+          text: "Questo era il modo in cui la Resistenza era organizzata e continuava a rafforzarsi."
