@@ -2,13 +2,13 @@ it:
   lipej-kolenik:
     chapter-2:
       c: 2
-      title: ~
+      title: "Il primo contatto coi Partigiani"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,13"
           to: "00:00:12,25"
-          text: ~
+          text: "Lo sapevamo già dal 1942 che c'erano i Partigiani nella nostra zona."
         sequence-2:
           s: 2
           from: "00:00:12,25"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:13,16"
           to: "00:00:18,18"
-          text: ~
+          text: "Ma il primo contatto avvenne a Pasqua 1943"
         sequence-4:
           s: 4
           from: "00:00:18,18"
           to: "00:00:26,24"
-          text: ~
+          text: "quando i primi partigiani giunsero e bussarono alla porta:"
         sequence-5:
           s: 5
           from: "00:00:26,24"
@@ -33,17 +33,17 @@ it:
           s: 6
           from: "00:00:28,06"
           to: "00:00:30,16"
-          text: ~
+          text: "'Apri, mamma!"
         sequence-7:
           s: 7
           from: "00:00:30,16"
           to: "00:00:36,09"
-          text: ~
+          text: "Ci sono i Partigiani; l'esercito del popolo sloveno."
         sequence-8:
           s: 8
           from: "00:00:36,09"
           to: "00:00:43,22"
-          text: ~
+          text: "Distruggeremo il fascismo e voi sarete nuovamente liberi'."
         sequence-9:
           s: 9
           from: "00:00:43,22"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:45,02"
           to: "00:00:56,15"
-          text: ~
+          text: "Da quel momento abbiamo avuto contatti regolari. Abbiamo cantato una canzone che non dimenticherò mai."
         sequence-11:
           s: 11
           from: "00:00:56,15"

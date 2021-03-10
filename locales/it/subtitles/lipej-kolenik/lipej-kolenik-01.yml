@@ -153,12 +153,12 @@ it:
           s: 30
           from: "00:03:32,29"
           to: "00:03:40,09"
-          text: "poi  la 'testa' è stata coinvolta e la gente non ne ebbe la più pallida idea."
+          text: "era una questione di 'testa' e la gente non ne aveva la più pallida idea."
         sequence-31:
           s: 31
           from: "00:03:40,09"
           to: "00:03:51,20"
-          text: ~
+          text: "I poveri sono quelli che hanno aiutato la ribellione."
         sequence-32:
           s: 32
           from: "00:03:51,20"
@@ -168,14 +168,14 @@ it:
           s: 33
           from: "00:03:55,19"
           to: "00:04:02,08"
-          text: ~
+          text: "Senza l'aiuto della popolazione rurale, la Resistenza sarebbe stata impossibile."
         sequence-34:
           s: 34
           from: "00:04:02,08"
           to: "00:04:14,03"
-          text: ~
+          text: "Per questo solo fu possibile che il numero dei Partigiani diventasse ogni giorno più nutrito."
         sequence-35:
           s: 35
           from: "00:04:14,03"
           to: "00:04:20,11"
-          text: ~
+          text: "E con loro la speranza che un giorno le cose cambiassero."
