@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:05,23"
           to: "00:01:12,23"
-          text: "Quando ero a Klagenfurt, sai com'è tra militari - oggi va così, domani in un altro."
+          text: "Quando ero a Klagenfurt, sai com'è col militare - oggi va così, domani in un altro."
         sequence-11:
           s: 11
           from: "00:01:12,23"
@@ -113,27 +113,27 @@ it:
           s: 22
           from: "00:02:14,00"
           to: "00:02:19,29"
-          text: ~
+          text: "Ho presentato domanda per essere trasferito all'ospedale militare di Klagenfurt."
         sequence-23:
           s: 23
           from: "00:02:19,29"
           to: "00:02:21,20"
-          text: ~
+          text: "Mi diedero il permesso."
         sequence-24:
           s: 24
           from: "00:02:21,20"
           to: "00:02:30,00"
-          text: ~
+          text: "Il primo giorno a Klagenfurt, mia madre venne a trovarmi."
         sequence-25:
           s: 25
           from: "00:02:30,00"
           to: "00:02:33,29"
-          text: ~
+          text: "Mi disse che i partigiani hanno detto:"
         sequence-26:
           s: 26
           from: "00:02:33,29"
           to: "00:02:38,06"
-          text: ~
+          text: "'Vieni e unisciti presto a noi, ti stiamo aspettando!'"
         sequence-27:
           s: 27
           from: "00:02:38,06"
@@ -143,12 +143,12 @@ it:
           s: 28
           from: "00:02:39,03"
           to: "00:02:44,29"
-          text: ~
+          text: "Dopo 14 giorni il consulente medico dell'ospedale ha dichiarato:"
         sequence-29:
           s: 29
           from: "00:02:44,29"
           to: "00:02:52,14"
-          text: ~
+          text: "'Ti concederò una vacanza anche se so che al 100% non tornerai mai più'."
         sequence-30:
           s: 30
           from: "00:02:52,14"
@@ -158,19 +158,19 @@ it:
           s: 31
           from: "00:02:53,03"
           to: "00:02:57,01"
-          text: ~
+          text: "La mia risposta fu: 'Ritornerò, dove vuole che vada?'"
         sequence-32:
           s: 32
           from: "00:02:57,01"
           to: "00:03:02,14"
-          text: ~
+          text: "Ero con le stampelle, non potevo andare da nessuna parte."
         sequence-33:
           s: 33
           from: "00:03:02,14"
           to: "00:03:11,08"
-          text: ~
+          text: "È solo un peccato non essere tornato da quel dottore dopo la guerra."
         sequence-34:
           s: 34
           from: "00:03:11,08"
           to: "00:03:15,05"
-          text: ~
+          text: "Gli avrei potuto far rapporto: 'Signor consulente, sono tornato.'"
