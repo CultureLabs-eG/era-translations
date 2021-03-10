@@ -2,18 +2,18 @@ it:
   lipej-kolenik:
     chapter-1:
       c: 1
-      title: ~
+      title: "Anschluss, persecuzione, propaganda per la Resistenza"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,08"
           to: "00:00:04,05"
-          text: ~
+          text: "Papà, Wasilij, era ancora giovane."
         sequence-2:
           s: 2
           from: "00:00:04,05"
           to: "00:00:18,27"
-          text: ~
+          text: "Continuava a dire del Nazionalsocialismo: 'Non andrà bene'."
         sequence-3:
           s: 3
           from: "00:00:18,27"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:20,17"
           to: "00:00:24,12"
-          text: ~
+          text: "Dopo, l'autorità fu presa dai nazisti,"
         sequence-5:
           s: 5
           from: "00:00:24,12"
           to: "00:00:31,28"
-          text: ~
+          text: "che hanno subito rinchiuso un certo numero di persone di minoranza slovena"
         sequence-6:
           s: 6
           from: "00:00:31,28"
@@ -38,22 +38,22 @@ it:
           s: 7
           from: "00:00:36,15"
           to: "00:00:45,18"
-          text: ~
+          text: "e preti. Abbiamo visto così che non era certo la maniera che ci era stata promessa."
         sequence-8:
           s: 8
           from: "00:00:45,18"
           to: "00:00:50,20"
-          text: ~
+          text: "Era un periodo senza lavoro e pane."
         sequence-9:
           s: 9
           from: "00:00:50,20"
           to: "00:01:00,08"
-          text: ~
+          text: "Questo aiutò i nazionalsocialisti a salire al potere."
         sequence-10:
           s: 10
           from: "00:01:00,08"
           to: "00:01:09,25"
-          text: ~
+          text: "E molti si lasciano guidare dalla propaganda"
         sequence-11:
           s: 11
           from: "00:01:09,25"
