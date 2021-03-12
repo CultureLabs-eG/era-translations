@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,17"
           to: "00:00:03,03"
-          text: ~
+          text: "Le donne erano davvero povere."
         sequence-2:
           s: 2
           from: "00:00:03,03"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:04,26"
           to: "00:00:11,29"
-          text: ~
+          text: "Perché per questo hanno dovuto pagare davvero più degli altri."
         sequence-4:
           s: 4
           from: "00:00:11,29"
@@ -28,22 +28,22 @@ it:
           s: 5
           from: "00:00:15,11"
           to: "00:00:20,18"
-          text: ~
+          text: "Ma erano donne davvero coraggiose."
         sequence-6:
           s: 6
           from: "00:00:20,18"
           to: "00:00:23,15"
-          text: ~
+          text: "Alcune erano più coraggiose degli uomini."
         sequence-7:
           s: 7
           from: "00:00:23,15"
           to: "00:00:31,12"
-          text: ~
+          text: "Tre di queste donne le porto nel mio cuore e non le dimenticherò mai."
         sequence-8:
           s: 8
           from: "00:00:31,12"
           to: "00:00:34,04"
-          text: ~
+          text: "Non avevano paure."
         sequence-9:
           s: 9
           from: "00:00:34,04"
