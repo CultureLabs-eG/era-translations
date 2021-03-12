@@ -2,45 +2,45 @@ it:
   lipej-kolenik:
     chapter-8:
       c: 8
-      title: ~
+      title: "Trasmissione di informazioni"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:11,13"
-          text: ~
+          text: "Il modo in cui è stato organizzato era meraviglioso."
         sequence-2:
           s: 2
           from: "00:00:11,13"
           to: "00:00:20,26"
-          text: ~
+          text: "Da casa la notizia è andata al vicino; dal vicino a qualcun altro e così via."
         sequence-3:
           s: 3
           from: "00:00:20,26"
           to: "00:00:27,07"
-          text: ~
+          text: "Poche ore prima che giungesse la polizia da Bleiburg"
         sequence-4:
           s: 4
           from: "00:00:27,07"
           to: "00:00:35,08"
-          text: ~
+          text: "per andare a caccia di Partigiani - o banditi - come dicevano, noi lo sapevamo già."
         sequence-5:
           s: 5
           from: "00:00:35,08"
           to: "00:00:47,09"
-          text: ~
+          text: "Eravamo d'accordo che una bandiera rossa su una casa avrebbe indicato il pericolo; una bandiera bianca significava che tutto andava bene."
         sequence-6:
           s: 6
           from: "00:00:47,09"
           to: "00:00:53,29"
-          text: ~
+          text: "Quindi eravamo già stati avvertiti. Tranne quando la polizia è arrivata di notte."
         sequence-7:
           s: 7
           from: "00:00:53,29"
           to: "00:01:01,28"
-          text: ~
+          text: "Di notte il passaggio di notizie non era così effettivo come di giorno."
         sequence-8:
           s: 8
           from: "00:01:01,28"
           to: "00:01:06,01"
-          text: ~
+          text: "Ma ha funzionato."

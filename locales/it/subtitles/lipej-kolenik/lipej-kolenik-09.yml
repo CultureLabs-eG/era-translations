@@ -2,25 +2,25 @@ it:
   lipej-kolenik:
     chapter-9:
       c: 9
-      title: ~
+      title: "Invio di bambini e donne"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,09"
           to: "00:00:13,23"
-          text: ~
+          text: "La maggior parte dei giovani si è presa molte responsabilità."
         sequence-2:
           s: 2
           from: "00:00:13,23"
           to: "00:00:24,10"
-          text: ~
+          text: "La polizia non controllava i bambini in modo rigoroso come gli anziani."
         sequence-3:
           s: 3
           from: "00:00:24,10"
           to: "00:00:28,26"
-          text: ~
+          text: "I bambini piccoli portavano la posta per noi e così via."
         sequence-4:
           s: 4
           from: "00:00:28,26"
           to: "00:00:34,04"
-          text: ~
+          text: "E ci hanno informato anche quando qualcuno è stato ferito."
