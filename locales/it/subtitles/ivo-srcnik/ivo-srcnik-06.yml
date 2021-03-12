@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:40,04"
           to: "00:00:50,04"
-          text: ~
+          text: "abbiamo pulito dietro mentre le unità tedesche si sono disperse nella foresta e abbiamo dovuto ripulirle."
         sequence-7:
           s: 7
           from: "00:00:50,04"
