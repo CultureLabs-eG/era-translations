@@ -2,18 +2,18 @@ it:
   lipej-kolenik:
     chapter-11:
       c: 11
-      title: ~
+      title: "La Liberazione e il suo significato oggi"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:06,19"
-          text: ~
+          text: "Non vedevo l'ora che arrivasse il giorno in cui la guerra sarebbe finita."
         sequence-2:
           s: 2
           from: "00:00:06,19"
           to: "00:00:11,29"
-          text: ~
+          text: "Ma sfortunatamente ero stato ferito."
         sequence-3:
           s: 3
           from: "00:00:11,29"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:15,04"
           to: "00:00:19,07"
-          text: ~
+          text: "Anche mio fratello era nei Partigiani."
         sequence-5:
           s: 5
           from: "00:00:19,07"
           to: "00:00:23,12"
-          text: ~
+          text: "Lui venne con un cavallo e mi portò a casa."
         sequence-6:
           s: 6
           from: "00:00:23,12"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:24,21"
           to: "00:00:27,15"
-          text: ~
+          text: "È entrato nella baracca."
         sequence-8:
           s: 8
           from: "00:00:27,15"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:29,24"
           to: "00:00:37,12"
-          text: ~
+          text: "Il cavallo è venuto prima e poi l'uomo. 'Chi sta entrando nella foresta adesso?'"
         sequence-10:
           s: 10
           from: "00:00:37,12"
@@ -58,17 +58,17 @@ it:
           s: 11
           from: "00:00:38,20"
           to: "00:00:46,16"
-          text: ~
+          text: "Poi ha detto: 'Lipej andiamo. La guerra è finita!'"
         sequence-12:
           s: 12
           from: "00:00:46,16"
           to: "00:00:53,04"
-          text: ~
+          text: "Non gli credevamo, che fosse vero; che la guerra era finita."
         sequence-13:
           s: 13
           from: "00:00:53,04"
           to: "00:01:03,01"
-          text: ~
+          text: "È stato incredibile - persecuzione,"
         sequence-14:
           s: 14
           from: "00:01:03,01"
