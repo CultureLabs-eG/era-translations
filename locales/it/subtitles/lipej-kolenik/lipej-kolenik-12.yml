@@ -2,28 +2,28 @@ it:
   lipej-kolenik:
     chapter-12:
       c: 12
-      title: ~
+      title: "Dopoguerra, politiche commemorative, \"traditori\""
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,07"
           to: "00:00:04,02"
-          text: ~
+          text: "I principali nazisti si sono nascosti."
         sequence-2:
           s: 2
           from: "00:00:04,02"
           to: "00:00:08,04"
-          text: ~
+          text: "Al tempo, quando c'erano i partigiani."
         sequence-3:
           s: 3
           from: "00:00:08,04"
           to: "00:00:15,20"
-          text: ~
+          text: "Alcuni di loro sono tornati fuori dai loro buchi alla fine di maggio"
         sequence-4:
           s: 4
           from: "00:00:15,20"
           to: "00:00:23,11"
-          text: ~
+          text: "e per un po' sono stati come la Stasi (la polizia segreta della Germania Est)."
         sequence-5:
           s: 5
           from: "00:00:23,11"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:25,04"
           to: "00:00:33,11"
-          text: ~
+          text: "Col passare del tempo si sono mostrati di nuovo nazisti."
         sequence-7:
           s: 7
           from: "00:00:33,11"
           to: "00:00:40,11"
-          text: ~
+          text: "Credevano che fossimo noi i traditori."
         sequence-8:
           s: 8
           from: "00:00:40,11"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:42,01"
           to: "00:00:54,18"
-          text: ~
+          text: "Perfino oggi la parola 'traditore' o 'traditore della libertà' è ancora impressa."
         sequence-10:
           s: 10
           from: "00:00:54,18"

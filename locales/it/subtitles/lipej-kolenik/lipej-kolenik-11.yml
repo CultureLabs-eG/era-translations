@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:03,01"
           to: "00:01:10,13"
-          text: "in congiunzione la caccia alla Resistenza sarebbe durata ancora un altro giorno."
+          text: "e la caccia alla Resistenza sarebbero durate ancora un altro giorno."
         sequence-15:
           s: 15
           from: "00:01:10,13"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:23,02"
           to: "00:01:27,08"
-          text: "Nessuno può immaginarsi com'era a quei tempi."
+          text: "nessuno può immaginarsi com'era a quei tempi."
         sequence-17:
           s: 17
           from: "00:01:27,08"
@@ -138,29 +138,29 @@ it:
           s: 27
           from: "00:02:36,22"
           to: "00:02:41,04"
-          text: "Loro hanno perso la guerra e per questo non festeggiano mai."
+          text: "Come avessero perso la guerra e per questo non festeggiano mai."
         sequence-28:
           s: 28
           from: "00:02:41,04"
           to: "00:02:48,23"
-          text: "Dopo hanno reso il 26 Ottobre una giornata escursionistica nazionale e giù di lì."
+          text: "Dopo hanno reso il 26 Ottobre una giornata escursionistica nazionale o giù di lì."
         sequence-29:
           s: 29
           from: "00:02:48,23"
           to: "00:02:50,24"
-          text: ~
+          text: "Per che cosa fanno escursioni?"
         sequence-30:
           s: 30
           from: "00:02:50,24"
           to: "00:03:00,01"
-          text: ~
+          text: "Nessuno ci pensa. Cosa è successo e cosa è stato raggiunto: la pace."
         sequence-31:
           s: 31
           from: "00:03:00,01"
           to: "00:03:10,14"
-          text: ~
+          text: "Siamo sempre a favore; ogni giorno."
         sequence-32:
           s: 32
           from: "00:03:10,14"
           to: "00:03:13,23"
-          text: ~
+          text: "Mai più: guerra e fascismo."
