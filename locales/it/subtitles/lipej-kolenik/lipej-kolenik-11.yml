@@ -68,52 +68,52 @@ it:
           s: 13
           from: "00:00:53,04"
           to: "00:01:03,01"
-          text: "È stato incredibile - persecuzione,"
+          text: "È stato incredibile - la persecuzione"
         sequence-14:
           s: 14
           from: "00:01:03,01"
           to: "00:01:10,13"
-          text: ~
+          text: "in congiunzione la caccia alla Resistenza sarebbe durata ancora un altro giorno."
         sequence-15:
           s: 15
           from: "00:01:10,13"
           to: "00:01:23,02"
-          text: ~
+          text: "In quei giorni cantavamo, mangiavamo, eravamo felici e ci baciavamo -"
         sequence-16:
           s: 16
           from: "00:01:23,02"
           to: "00:01:27,08"
-          text: ~
+          text: "Nessuno può immaginarsi com'era a quei tempi."
         sequence-17:
           s: 17
           from: "00:01:27,08"
           to: "00:01:30,07"
-          text: ~
+          text: "Eravamo tutti così felici."
         sequence-18:
           s: 18
           from: "00:01:30,07"
           to: "00:01:43,25"
-          text: ~
+          text: "Ecco perché per noi la fine della guerra è il giorno più importante da celebrare."
         sequence-19:
           s: 19
           from: "00:01:43,25"
           to: "00:01:49,16"
-          text: ~
+          text: "Allora era la fine del nazifascismo"
         sequence-20:
           s: 20
           from: "00:01:49,16"
           to: "00:01:56,27"
-          text: ~
+          text: "e non possiamo dimenticare tutti quelli che erano nella foresta,"
         sequence-21:
           s: 21
           from: "00:01:56,27"
           to: "00:02:03,14"
-          text: ~
+          text: "in un campo di concentramento o rinchiusi dai nazifascisti."
         sequence-22:
           s: 22
           from: "00:02:03,14"
           to: "00:02:08,04"
-          text: ~
+          text: "Per tutti questi è indimenticabile."
         sequence-23:
           s: 23
           from: "00:02:08,04"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:02:09,25"
           to: "00:02:22,17"
-          text: ~
+          text: "Non possiamo capire come alla gente importi così poco di questo giorno, l'8 maggio, la fine della guerra."
         sequence-25:
           s: 25
           from: "00:02:22,17"
@@ -133,17 +133,17 @@ it:
           s: 26
           from: "00:02:25,16"
           to: "00:02:36,22"
-          text: ~
+          text: "Eravamo felici, ma sembra invece il contrario."
         sequence-27:
           s: 27
           from: "00:02:36,22"
           to: "00:02:41,04"
-          text: ~
+          text: "Loro hanno perso la guerra e per questo non festeggiano mai."
         sequence-28:
           s: 28
           from: "00:02:41,04"
           to: "00:02:48,23"
-          text: ~
+          text: "Dopo hanno reso il 26 Ottobre una giornata escursionistica nazionale e giù di lì."
         sequence-29:
           s: 29
           from: "00:02:48,23"
