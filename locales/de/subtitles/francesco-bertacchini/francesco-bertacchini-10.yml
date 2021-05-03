@@ -98,12 +98,12 @@ de:
           s: 19
           from: "00:01:58,04"
           to: "00:02:00,24"
-          text: ~
+          text: "Wir wollten unseren Spaß haben,"
         sequence-20:
           s: 20
           from: "00:02:01,00"
           to: "00:02:07,11"
-          text: ~
+          text: "denn wir kamen gerade aus einer Zeit, in der nur von Krieg die Rede war."
         sequence-21:
           s: 21
           from: "00:02:07,12"
