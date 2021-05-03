@@ -18,22 +18,22 @@ de:
           s: 3
           from: "00:00:13,20"
           to: "00:00:20,10"
-          text: "ich hatte eine schöne, glänzende, saubere Sten, die ich wie einen Bruder behandelte,"
+          text: "ich hatte ein schönes, glänzendes, sauberes Sten, das ich wie einen Bruder behandelte,"
         sequence-4:
           s: 4
           from: "00:00:20,11"
           to: "00:00:26,07"
-          text: ~
+          text: "da gab es nicht viel drum herumzureden."
         sequence-5:
           s: 5
           from: "00:00:26,08"
           to: "00:00:34,24"
-          text: ~
+          text: "Ich habe es freiwillig abgegeben, weil ich diese Zeit auch vergessen wollte:"
         sequence-6:
           s: 6
           from: "00:00:35,00"
           to: "00:00:44,06"
-          text: ~
+          text: "ich hatte das aus eigenem Antrieb getan, ganz spontan, um die Faschisten zu vertreiben,"
         sequence-7:
           s: 7
           from: "00:00:44,07"
