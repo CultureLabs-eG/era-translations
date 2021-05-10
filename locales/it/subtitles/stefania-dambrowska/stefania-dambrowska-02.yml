@@ -2,7 +2,7 @@ it:
   stefania-dambrowska:
     chapter-2:
       c: 2
-      title: ~
+      title: "L'inizio della Seconda Guerra Mondiale, l'occupazione sovietica"
       subtitles:
         sequence-1:
           s: 1
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:13,20"
           to: "00:00:21,07"
-          text: ~
+          text: "Ed erano relazioni diverse da quelle della zona di Varsavia, erano completamente diverse nella regione di Vilnius."
         sequence-4:
           s: 4
           from: "00:00:21,07"
@@ -38,22 +38,22 @@ it:
           s: 7
           from: "00:00:57,27"
           to: "00:01:00,00"
-          text: ~
+          text: "eravamo rimaste sole alla fattoria."
         sequence-8:
           s: 8
           from: "00:01:00,00"
           to: "00:01:08,10"
-          text: ~
+          text: "Durante tutto l'autunno del 1939 dovevo arare, con un semplice aratro andavo avanti e aravo."
         sequence-9:
           s: 9
           from: "00:01:08,10"
           to: "00:01:16,27"
-          text: ~
+          text: "Era rimasto un cavallo e tre puledri, che non erano ancora adatti a lavorare."
         sequence-10:
           s: 10
           from: "00:01:16,27"
           to: "00:01:31,00"
-          text: ~
+          text: "Poi i lituani ottennero teoricamente dall'Unione Sovietica il potere su una grande parte della regione di Vilnius."
         sequence-11:
           s: 11
           from: "00:01:31,00"
