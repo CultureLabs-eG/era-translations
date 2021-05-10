@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:00,18"
           to: "00:00:06,16"
-          text: ~
+          text: "Quando scoppiò la guerra, la seconda,"
         sequence-2:
           s: 2
           from: "00:00:06,16"
           to: "00:00:13,20"
-          text: ~
+          text: "la regione di Vilnius fu occupata dall'esercito sovietico."
         sequence-3:
           s: 3
           from: "00:00:13,20"
@@ -23,17 +23,17 @@ it:
           s: 4
           from: "00:00:21,07"
           to: "00:00:36,29"
-          text: ~
+          text: "Gli stagni con il pesce furono nazionalizzati, le foreste furono nazionalizzate, rimasero solo trenta ettari di terra coltivabile."
         sequence-5:
           s: 5
           from: "00:00:36,29"
           to: "00:00:42,00"
-          text: ~
+          text: "I cavalli servivano alla guerra,"
         sequence-6:
           s: 6
           from: "00:00:42,00"
           to: "00:00:57,27"
-          text: ~
+          text: "eravamo rimaste io e la mamma, gli uomini non c'erano, i miei genitori si erano separati già prima,"
         sequence-7:
           s: 7
           from: "00:00:57,27"
