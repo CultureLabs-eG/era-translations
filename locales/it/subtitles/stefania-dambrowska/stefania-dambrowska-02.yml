@@ -68,37 +68,37 @@ it:
           s: 13
           from: "00:01:37,08"
           to: "00:01:44,05"
-          text: ~
+          text: "ci opprimevano con forniture obbligatorie, non c'erano possibilità di guadagno."
         sequence-14:
           s: 14
           from: "00:01:44,05"
           to: "00:01:55,20"
-          text: ~
+          text: "Prima dello scoppio della guerra ero un'impiegata presso la Banca Agricola Statale della filiale di Vilnius."
         sequence-15:
           s: 15
           from: "00:01:55,20"
           to: "00:01:59,22"
-          text: ~
+          text: "Se avessi preso la cittadinanza lituana, allora avrei potuto continuare a lavorare,"
         sequence-16:
           s: 16
           from: "00:01:59,22"
           to: "00:02:07,23"
-          text: ~
+          text: "ma non lo feci, così in ottobre fui licenziata dal lavoro e tornai a Orwidów,"
         sequence-17:
           s: 17
           from: "00:02:07,23"
           to: "00:02:10,11"
-          text: ~
+          text: "iniziai a occuparmi completamente della fattoria."
         sequence-18:
           s: 18
           from: "00:02:10,11"
           to: "00:02:21,19"
-          text: ~
+          text: "Era un lavoro maschile, ma gli uomini non c'erano. Io ero allora il lavoratore principale."
         sequence-19:
           s: 19
           from: "00:02:21,19"
           to: "00:02:24,14"
-          text: ~
+          text: "Erano tempi molto, molto difficili."
         sequence-20:
           s: 20
           from: "00:02:24,14"
@@ -108,12 +108,12 @@ it:
           s: 21
           from: "00:02:25,14"
           to: "00:02:37,17"
-          text: ~
+          text: "Nella primavera del 1940 i lituani chiesero, tra virgolette,"
         sequence-22:
           s: 22
           from: "00:02:37,17"
           to: "00:02:45,25"
-          text: ~
+          text: "di far includere la parte della Regione di Vilnius all'Unione Sovietica tra le varie repubbliche."
         sequence-23:
           s: 23
           from: "00:02:45,25"
