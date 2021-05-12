@@ -118,17 +118,17 @@ it:
           s: 23
           from: "00:02:45,25"
           to: "00:02:47,17"
-          text: ~
+          text: "Arrivò il potere sovietico."
         sequence-24:
           s: 24
           from: "00:02:47,17"
           to: "00:02:53,05"
-          text: ~
+          text: "I sovietici volevano dimostrare di essere molto meglio"
         sequence-25:
           s: 25
           from: "00:02:53,05"
           to: "00:02:55,02"
-          text: ~
+          text: "dei lituani per i polacchi."
         sequence-26:
           s: 26
           from: "00:02:55,02"
@@ -138,42 +138,42 @@ it:
           s: 27
           from: "00:02:57,27"
           to: "00:03:03,14"
-          text: ~
+          text: "Quidni arrivò il potere sovietico."
         sequence-28:
           s: 28
           from: "00:03:03,14"
           to: "00:03:11,04"
-          text: ~
+          text: "Vengo a sapere da qualcuno che si possono fare soldi nella foresta statale facendo il carrettiere."
         sequence-29:
           s: 29
           from: "00:03:11,04"
           to: "00:03:14,21"
-          text: ~
+          text: "C'era uno, due cavalli."
         sequence-30:
           s: 30
           from: "00:03:14,21"
           to: "00:03:24,22"
-          text: ~
+          text: "Era già arrivato l'inverno, c'era molta neve, quindi un dei nostri ex-lavoratori porta una slitta e l'altra slitta la porto io."
         sequence-31:
           s: 31
           from: "00:03:24,22"
           to: "00:03:27,19"
-          text: ~
+          text: "Durante tutto l'inverno lavorai nella foresta come carrettiere."
         sequence-32:
           s: 32
           from: "00:03:27,19"
           to: "00:03:39,16"
-          text: ~
+          text: "Quaesto significa che andavamo nella foresta quando faceva ancora buio, caricavamo sulla slitta la legna, legna da ardere."
         sequence-33:
           s: 33
           from: "00:03:39,16"
           to: "00:03:46,25"
-          text: ~
+          text: "La portavamo alla stazione Bezdany, lì la dovevamo scaricare e tornare ancora una volta nella foresta."
         sequence-34:
           s: 34
           from: "00:03:46,25"
           to: "00:03:51,11"
-          text: ~
+          text: "Dovevamo farlo due volte al giorno."
         sequence-35:
           s: 35
           from: "00:03:51,11"
