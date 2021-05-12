@@ -58,12 +58,12 @@ it:
           s: 11
           from: "00:01:31,00"
           to: "00:01:34,01"
-          text: ~
+          text: "Noi eravamo abbastanza vicini a Vilnius."
         sequence-12:
           s: 12
           from: "00:01:34,01"
           to: "00:01:37,08"
-          text: ~
+          text: "E i lituani erano molto cattivi verso i polacchi,"
         sequence-13:
           s: 13
           from: "00:01:37,08"
