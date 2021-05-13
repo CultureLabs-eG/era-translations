@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:01:23,06"
           to: "00:01:35,20"
-          text: ~
+          text: "Questa fattoria si trovava tra due grandi strade che andavano a est, a nord-est - la strada Nera e la strada di Bathory."
         sequence-10:
           s: 10
           from: "00:01:35,20"
