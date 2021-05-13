@@ -13,27 +13,27 @@ it:
           s: 2
           from: "00:00:04,20"
           to: "00:00:25,02"
-          text: "Andai in una casa, dove lavorava il signor Jozef, che aveva una piccola fattoria, perché si era sposato con la ricca signorina Lachowiczówna."
+          text: "Andai in una casa, dove un ex-lavoratore di Orwidów - il signor Jozef - aveva una piccola fattoria, perché si era sposato con la ricca signorina Lachowiczówna."
         sequence-3:
           s: 3
           from: "00:00:25,02"
           to: "00:00:32,04"
-          text: ~
+          text: "Mi hanno accolta molto volentieri e così io avevo di nuovo un posto in cui vivere."
         sequence-4:
           s: 4
           from: "00:00:32,04"
           to: "00:00:38,10"
-          text: ~
+          text: "Aiutavo la signora Lechowiczówna nel suo orticello, camminavo sopra il Neris e aspettavo cosa sarebbe accaduto."
         sequence-5:
           s: 5
           from: "00:00:38,10"
           to: "00:00:50,02"
-          text: ~
+          text: "Dopo tre o forse quattro giorni, una sera, sentiamo il bombardamento, che doveva essere quello di Vilnius."
         sequence-6:
           s: 6
           from: "00:00:50,02"
           to: "00:01:04,17"
-          text: ~
+          text: "Nessuno di noi si mosse da quella fattoria in mezzo al bosco semplicemente perché tutti avevano paura di quello che i sovietici avrebbero potuto fare."
         sequence-7:
           s: 7
           from: "00:01:04,17"
