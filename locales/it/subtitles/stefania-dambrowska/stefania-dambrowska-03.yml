@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:00,16"
           to: "00:00:04,20"
-          text: ~
+          text: "Camminai per diversi chilometri sopra il fiume Neris, che scorreva a pochi chilometri da noi."
         sequence-2:
           s: 2
           from: "00:00:04,20"
           to: "00:00:25,02"
-          text: ~
+          text: "Andai in una casa, dove lavorava il signor Jozef, che aveva una piccola fattoria, perché si era sposato con la ricca signorina Lachowiczówna."
         sequence-3:
           s: 3
           from: "00:00:25,02"
