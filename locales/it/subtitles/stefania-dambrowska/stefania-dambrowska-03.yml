@@ -88,17 +88,17 @@ it:
           s: 17
           from: "00:02:14,21"
           to: "00:02:19,16"
-          text: ~
+          text: "stavo tornando e vidi davanti al portico della casa della famiglia di Józef"
         sequence-18:
           s: 18
           from: "00:02:19,16"
           to: "00:02:29,18"
-          text: ~
+          text: "un cavallo imbigliato, una carrozza aperta e il fratello della signora Lachowiczówna che mi disse:"
         sequence-19:
           s: 19
           from: "00:02:29,18"
           to: "00:02:45,19"
-          text: ~
+          text: "\"Signora, prenda la sua carrozza e parta\". Quella carrozza e quel cavallo erano stati lasciati dalla famiglia di Józef già in autunno, in modo che almeno qualcosa si potesse salvare nel caso i sovietici si portassero via tutto da Orwidów."
         sequence-20:
           s: 20
           from: "00:02:45,19"
