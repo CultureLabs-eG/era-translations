@@ -108,27 +108,27 @@ it:
           s: 21
           from: "00:02:46,14"
           to: "00:02:50,01"
-          text: ~
+          text: "Così salì sulla carrozza e partii."
         sequence-22:
           s: 22
           from: "00:02:50,01"
           to: "00:02:57,09"
-          text: ~
+          text: "Nel posto in cui arrivai non c'era anima viva, salvo una ragazza, la mia coetanea."
         sequence-23:
           s: 23
           from: "00:02:57,09"
           to: "00:03:08,23"
-          text: ~
+          text: "Si doveva occupare un po' di tutto, non veniva pagata per il suo lavoro ma poteva abitare lì gratuitamente."
         sequence-24:
           s: 24
           from: "00:03:08,23"
           to: "00:03:12,12"
-          text: ~
+          text: "Era la figlia del nostro pastore."
         sequence-25:
           s: 25
           from: "00:03:12,12"
           to: "00:03:21,03"
-          text: ~
+          text: "Melania disse: \"Sto qui da sola, menomale che è arrivata lei, signorina\"."
         sequence-26:
           s: 26
           from: "00:03:21,03"
