@@ -48,42 +48,42 @@ it:
           s: 9
           from: "00:01:23,06"
           to: "00:01:35,20"
-          text: "Questa fattoria si trovava tra due grandi strade che andavano a est, a nord-est - la strada Nera e la strada di Bathory."
+          text: "Questa fattoria si trovava tra due grandi strade che andavano a est, a nord-est - la strada \"Nera\" e la strada di Bathory."
         sequence-10:
           s: 10
           from: "00:01:35,20"
           to: "00:01:40,02"
-          text: ~
+          text: "SI vedeva che su entrambe si trascinavano dei grandi eserciti."
         sequence-11:
           s: 11
           from: "00:01:40,02"
           to: "00:01:42,26"
-          text: ~
+          text: "Cosa? È scoppiata la guerra? Non avevamo idea di cosa stesse succedendo."
         sequence-12:
           s: 12
           from: "00:01:42,26"
           to: "00:01:48,00"
-          text: ~
+          text: "In certi momenti sentivamo uno sparo e tutto si fermava."
         sequence-13:
           s: 13
           from: "00:01:48,00"
           to: "00:01:53,11"
-          text: ~
+          text: "Si fermavano i carri armati,"
         sequence-14:
           s: 14
           from: "00:01:53,11"
           to: "00:02:01,04"
-          text: ~
+          text: "evidentemente era un segnale, per cui, quando arrivavno gli aerei tedeschi, i russi si dovevano fermare."
         sequence-15:
           s: 15
           from: "00:02:01,04"
           to: "00:02:08,13"
-          text: ~
+          text: "Così andò avanti per due o tre giorni, adesso non saprei dirlo."
         sequence-16:
           s: 16
           from: "00:02:08,13"
           to: "00:02:14,21"
-          text: ~
+          text: "Un bel giorno ero sul fiume Neris,"
         sequence-17:
           s: 17
           from: "00:02:14,21"
