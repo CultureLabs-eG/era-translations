@@ -43,12 +43,12 @@ de:
           s: 8
           from: "00:00:33,12"
           to: "00:00:38,13"
-          text: ~
+          text: "die der Duce am Ende des Krieges mit einer Urkunde belohnen wollte, sah so aus:"
         sequence-9:
           s: 9
           from: "00:00:38,13"
           to: "00:00:48,06"
-          text: ~
+          text: "drei Tote, ein politisch Verfolgter, ein Kriegsgefanger."
         sequence-10:
           s: 10
           from: "00:00:48,06"
@@ -58,4 +58,4 @@ de:
           s: 11
           from: "00:00:50,00"
           to: "00:00:57,25"
-          text: ~
+          text: "Die Freude über die Befreiung war also sehr, sehr begrenzt."
