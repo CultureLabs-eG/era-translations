@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:26,08"
           to: "00:00:34,24"
-          text: "Ich habe es freiwillig abgegeben, weil ich diese Zeit auch vergessen wollte:"
+          text: "Ich habe es dann abgegeben, weil ich diese Zeit auch vergessen wollte:"
         sequence-6:
           s: 6
           from: "00:00:35,00"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:01:00,23"
           to: "00:01:08,01"
-          text: "denn dort trafen wir Mädchen fanden, gingen hier und dort hin ..."
+          text: "denn dort trafen wir junge Frauen, gingen hier und dort hin ..."
         sequence-10:
           s: 10
           from: "00:01:08,02"
@@ -68,7 +68,7 @@ de:
           s: 13
           from: "00:01:25,11"
           to: "00:01:33,24"
-          text: "Ich habe dann Stück für Stück angefangen zu arbeiten, ich hatte ja vor zu arbeiten,"
+          text: "Ich habe dann Stück für Stück angefangen zu arbeiten, ich wollte ja wirklich arbeiten,"
         sequence-14:
           s: 14
           from: "00:01:34,00"
@@ -108,32 +108,32 @@ de:
           s: 21
           from: "00:02:07,12"
           to: "00:02:16,11"
-          text: ~
+          text: "Bei den Partisanen bin ich gewissermaßen der Sänger meiner Einheit geworden,"
         sequence-22:
           s: 22
           from: "00:02:16,12"
           to: "00:02:26,15"
-          text: ~
+          text: "weil ich gern sang. \"Los Volpe, sing mal dieses Lied!\" und ich sang."
         sequence-23:
           s: 23
           from: "00:02:26,16"
           to: "00:02:29,24"
-          text: ~
+          text: "Aber dann überkam einen immer die Traurigkeit,"
         sequence-24:
           s: 24
           from: "00:02:33,18"
           to: "00:02:39,12"
-          text: ~
+          text: "also dachte ich später nur daran mich zu amüsieren."
         sequence-25:
           s: 25
           from: "00:02:39,13"
           to: "00:02:45,04"
-          text: ~
+          text: "Dann habe ich eine Freundin gefunden,"
         sequence-26:
           s: 26
           from: "00:02:45,05"
           to: "00:02:52,02"
-          text: ~
+          text: "sie war die Cousine meines gestorbenen Freundes,"
         sequence-27:
           s: 27
           from: "00:02:52,03"
