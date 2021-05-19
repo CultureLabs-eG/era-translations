@@ -8,12 +8,12 @@ de:
           s: 1
           from: "00:00:00,14"
           to: "00:00:08,01"
-          text: ~
+          text: "Ich kehrte nach Hause zurück und wusste, dass ich das vorfinden würde, was ich zurückgelassen hatte."
         sequence-2:
           s: 2
           from: "00:00:08,01"
           to: "00:00:13,15"
-          text: ~
+          text: "Und wenn man bedenkt, dass ich dort oben eine andere Person geworden war ..."
         sequence-3:
           s: 3
           from: "00:00:13,15"
@@ -23,12 +23,12 @@ de:
           s: 4
           from: "00:00:15,23"
           to: "00:00:22,01"
-          text: ~
+          text: "ich war sehr geachtet, nicht nur wegen meines Dienstgrads,"
         sequence-5:
           s: 5
           from: "00:00:22,01"
           to: "00:00:29,19"
-          text: ~
+          text: "sondern weil ich bei heiklen Operationen eingesetzt wurde, für die Verbindungen usw."
         sequence-6:
           s: 6
           from: "00:00:29,19"
