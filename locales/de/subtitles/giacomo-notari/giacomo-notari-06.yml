@@ -8,7 +8,7 @@ de:
           s: 1
           from: "00:00:01,09"
           to: "00:00:09,25"
-          text: ~
+          text: "Uns erreichten Meldungen, dass Truppen von der Front zurückkamen, aus der Garfagnana,"
         sequence-2:
           s: 2
           from: "00:00:09,25"
@@ -18,22 +18,22 @@ de:
           s: 3
           from: "00:00:10,27"
           to: "00:00:19,11"
-          text: ~
+          text: "sie nahmen die Straße über Fivizzano und den Cerreto-Pass und kamen in Richtung Castelnovo Monti, Richtung Po-Ebene..."
         sequence-4:
           s: 4
           from: "00:00:19,11"
           to: "00:00:25,12"
-          text: ~
+          text: "Man hatte frische Truppen an die Front gebracht und zog nun die ab, die schon 2 oder 3 Monaten dort waren."
         sequence-5:
           s: 5
           from: "00:00:25,12"
           to: "00:00:33,07"
-          text: ~
+          text: "Wir bekamen den Befehl alles zu verminen... aber was sollten wir verminen, es gab ja schon keine Brücken mehr."
         sequence-6:
           s: 6
           from: "00:00:33,07"
           to: "00:00:38,10"
-          text: ~
+          text: "Es gab da aber noch dieses kleine Ding, wir nannten es \"fognone\" (große Kloake)."
         sequence-7:
           s: 7
           from: "00:00:38,10"
@@ -43,7 +43,7 @@ de:
           s: 8
           from: "00:00:39,11"
           to: "00:00:44,12"
-          text: ~
+          text: "Zu der Zeit hatten wir eine Menge TNT, das von Flugzeugen abgeworfen wurde, richtig viel."
         sequence-9:
           s: 9
           from: "00:00:44,12"
