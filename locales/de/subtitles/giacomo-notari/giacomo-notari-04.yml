@@ -63,7 +63,7 @@ de:
           s: 12
           from: "00:00:59,17"
           to: "00:01:07,20"
-          text: ~
+          text: "Wir gingen zum Sitz des Kommandos in Lama Golese, unterhalb des Monte Cusna."
         sequence-13:
           s: 13
           from: "00:01:07,20"
@@ -73,12 +73,12 @@ de:
           s: 14
           from: "00:01:08,27"
           to: "00:01:19,06"
-          text: ~
+          text: "Da war das Kommando, mit Pasquale Marconi, ein Arzt aus Castelnovo Monti, Christdemokrat, Katholik jedenfalls;"
         sequence-15:
           s: 15
           from: "00:01:19,06"
           to: "00:01:30,01"
-          text: ~
+          text: "auch \"Eros\" war da und \"Miro\", und ein jüdischer Arzt, der wohl Jugoslawe war."
         sequence-16:
           s: 16
           from: "00:01:30,01"
@@ -88,17 +88,17 @@ de:
           s: 17
           from: "00:01:31,00"
           to: "00:01:33,06"
-          text: ~
+          text: "Wir verbrachten ein paar Tage dort,"
         sequence-18:
           s: 18
           from: "00:01:33,06"
           to: "00:01:39,10"
-          text: ~
+          text: "das war eine Art Basis für frisch Rekrutierte, aber es gab wenige Waffen;"
         sequence-19:
           s: 19
           from: "00:01:39,10"
           to: "00:01:45,29"
-          text: ~
+          text: "man wartete auf Fallschirmabwürfe durch die Alliierten, aber sie kamen nicht,"
         sequence-20:
           s: 20
           from: "00:01:45,29"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:47,06"
           to: "00:01:54,29"
-          text: ~
+          text: "also schickten sie vier von uns zurück nach Ligonchio."
         sequence-22:
           s: 22
           from: "00:01:54,29"
@@ -118,7 +118,7 @@ de:
           s: 23
           from: "00:01:55,24"
           to: "00:02:02,21"
-          text: "Wir kamen nach Ligonchio und fanden dort unendlich viele Partisanen vor,"
+          text: "Wir kamen nach Ligonchio und fanden dort jede Menge Partisanen vor,"
         sequence-24:
           s: 24
           from: "00:02:02,21"
