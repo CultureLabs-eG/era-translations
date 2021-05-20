@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:44,12"
           to: "00:00:47,18"
-          text: ~
+          text: "Wir ginge da hoch. Die Deutschen waren schon kriegsmüde, glaube ich. Der Mond war wundervoll an diesem ruhigen, frühlingshaften Abend."
         sequence-10:
           s: 10
           from: "00:00:47,18"
@@ -58,27 +58,27 @@ de:
           s: 11
           from: "00:00:59,12"
           to: "00:01:03,15"
-          text: ~
+          text: "Sie hatten eine Maschinengewehrstellung nicht weit entfernt,"
         sequence-12:
           s: 12
           from: "00:01:03,15"
           to: "00:01:11,09"
-          text: ~
+          text: "wir hatten die Entfernungen geschätzt und zwei Abteilungen so positioniert, dass wir in Ruhe arbeiten konnten."
         sequence-13:
           s: 13
           from: "00:01:11,09"
           to: "00:01:19,23"
-          text: ~
+          text: "Wir arbeiteten tatsächlich ungestört und verbauten 45 kg Plastiksprengstoff... der fühlte sich ähnlich an wie Kaugummi."
         sequence-14:
           s: 14
           from: "00:01:19,23"
           to: "00:01:23,24"
-          text: ~
+          text: "Dann haben wir die Zündschur verlegt und angezündet."
         sequence-15:
           s: 15
           from: "00:01:23,24"
           to: "00:01:26,09"
-          text: ~
+          text: "Etwas bergab sind wir in Deckung gegangen, weil es Steine regnen würde..."
         sequence-16:
           s: 16
           from: "00:01:26,09"
@@ -88,12 +88,12 @@ de:
           s: 17
           from: "00:01:27,13"
           to: "00:01:31,15"
-          text: ~
+          text: "naja, nach dem Krieg habe ich mir das noch mal angeschaut,"
         sequence-18:
           s: 18
           from: "00:01:31,15"
           to: "00:01:41,14"
-          text: ~
+          text: "nicht nur das Ding war verschwunden, dieser Bogen, sondern auch 2-3 Meter Straße rechts und links. Denn 45 kg TNT sind eine Menge."
         sequence-19:
           s: 19
           from: "00:01:41,14"
@@ -103,7 +103,7 @@ de:
           s: 20
           from: "00:01:42,14"
           to: "00:01:49,07"
-          text: ~
+          text: "Die Deutschen mussten dann erstmal eine Umgehung bauen, es war wichtig, sie zu stoppen."
         sequence-21:
           s: 21
           from: "00:01:49,07"
