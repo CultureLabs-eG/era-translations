@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:19,11"
           to: "00:00:25,12"
-          text: "Man hatte frische Truppen an die Front gebracht und zog nun die ab, die schon 2 oder 3 Monaten dort waren."
+          text: "Man brachte frische Truppen an die Front und zog die ab, die schon seit 2 oder 3 Monaten dort waren."
         sequence-5:
           s: 5
           from: "00:00:25,12"
@@ -48,7 +48,7 @@ de:
           s: 9
           from: "00:00:44,12"
           to: "00:00:47,18"
-          text: "Wir ginge da hoch. Die Deutschen waren schon kriegsmüde, glaube ich. Der Mond war wundervoll an diesem ruhigen, frühlingshaften Abend."
+          text: "Wir gingen da hoch. Die Deutschen waren schon kriegsmüde, glaube ich. Der Mond war wundervoll an diesem ruhigen, frühlingshaften Abend."
         sequence-10:
           s: 10
           from: "00:00:47,18"
@@ -73,7 +73,7 @@ de:
           s: 14
           from: "00:01:19,23"
           to: "00:01:23,24"
-          text: "Dann haben wir die Zündschur verlegt und angezündet."
+          text: "Dann haben wir die Zündschnur verlegt und angezündet."
         sequence-15:
           s: 15
           from: "00:01:23,24"
@@ -108,14 +108,14 @@ de:
           s: 21
           from: "00:01:49,07"
           to: "00:01:55,26"
-          text: ~
+          text: "Man verhinderte, dass die Truppen 24 Stunden früher an die Front kamen, während einer Offensive."
         sequence-22:
           s: 22
           from: "00:01:55,26"
           to: "00:02:03,15"
-          text: ~
+          text: "Stattdessen mussten sie den Berg weghacken und flussaufwärts eine Art Hufeisen bauen, um passieren zu können."
         sequence-23:
           s: 23
           from: "00:02:03,15"
           to: "00:02:08,09"
-          text: ~
+          text: "Aber erstmal musst du es machen, und zwar mit Hacken, denn Bulldozer gab es damals nicht."
