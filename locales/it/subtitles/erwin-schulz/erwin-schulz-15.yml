@@ -22,12 +22,12 @@ it:
         sequence-4:
           s: 4
           from: "00:00:31,25"
-          text: ~
+          text: "ed ero temporaneamente a Tempelhof in qualità del Secondo Secretario,"
           to: "00:00:39,20"
         sequence-5:
           s: 5
           from: "00:00:39,21"
-          text: ~
+          text: "in seguito anche come segretario di partito per un'azienda a Johannisthal."
           to: "00:00:49,16"
         sequence-6:
           s: 6
