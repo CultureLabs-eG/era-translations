@@ -7,17 +7,17 @@ it:
         sequence-1:
           s: 1
           from: "00:00:00,20"
-          text: ~
+          text: "Quando tornai a casa, entrai a far parte (prima non ero inquadrato politicamente) del SED,"
           to: "00:00:14,02"
         sequence-2:
           s: 2
           from: "00:00:14,03"
-          text: ~
+          text: "che era l'unione dei socialdemocratici, comunisti e molte persone indipendenti."
           to: "00:00:22,12"
         sequence-3:
           s: 3
           from: "00:00:24,14"
-          text: ~
+          text: "Lavoravo sporadicamente nel ministero"
           to: "00:00:31,24"
         sequence-4:
           s: 4
