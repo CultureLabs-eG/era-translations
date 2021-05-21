@@ -52,27 +52,27 @@ it:
         sequence-10:
           s: 10
           from: "00:01:52,09"
-          text: ~
+          text: "Queste sono le conclusioni: la guerra è terribile!"
           to: "00:01:59,07"
         sequence-11:
           s: 11
           from: "00:02:00,14"
-          text: ~
+          text: "Essa crea delle condizioni spaventose non solo per i soldati ma anche per la popolazione civile."
           to: "00:02:13,26"
         sequence-12:
           s: 12
           from: "00:02:15,04"
-          text: ~
+          text: "Bisogna opporsi al fascismo e ora anche ai neonazisti per poter prevenire simili aspirazioni."
           to: "00:02:30,29"
         sequence-13:
           s: 13
           from: "00:02:31,28"
-          text: ~
+          text: "Se non avete altre domande, queste forse potrebbero essere le parole conclusive."
           to: "00:02:40,12"
         sequence-14:
           s: 14
           from: "00:02:40,13"
-          text: ~
+          text: "Tali conclusioni non sono frutto solo degli ultimi anni,"
           to: "00:02:48,23"
         sequence-15:
           s: 15
