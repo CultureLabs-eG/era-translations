@@ -17,12 +17,12 @@ it:
         sequence-3:
           s: 3
           from: "00:00:24,14"
-          text: "Lavoravo occasionalmente nel ministero"
+          text: "Lavoravo occasionalmente nel Ministero"
           to: "00:00:31,24"
         sequence-4:
           s: 4
           from: "00:00:31,25"
-          text: "ed ero temporaneamente a Tempelhof in qualità del Secondo Secretario,"
+          text: "ed ero temporaneamente a Tempelhof in qualità di Secondo Segretario,"
           to: "00:00:39,20"
         sequence-5:
           s: 5
@@ -37,7 +37,7 @@ it:
         sequence-7:
           s: 7
           from: "00:01:14,01"
-          text: "Facevo in modo che i soldati della palude di Köpenick potessero rilasciare interviste."
+          text: "Facevo in modo che i soldati della palude di Köpenick rilasciassero interviste."
           to: "00:01:25,18"
         sequence-8:
           s: 8
