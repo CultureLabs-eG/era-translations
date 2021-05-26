@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:01,28"
           to: "00:00:06,14"
-          text: ~
+          text: "Un paio di giorni dopo i signori Zambrowicz, arrivò un'altra famiglia ancora."
         sequence-2:
           s: 2
           from: "00:00:06,14"
           to: "00:00:29,03"
-          text: ~
+          text: "La signora, di origini ebraiche, era un'amica della mogle di mio zio."
         sequence-3:
           s: 3
           from: "00:00:29,03"
