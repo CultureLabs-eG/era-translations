@@ -73,32 +73,32 @@ it:
           s: 14
           from: "00:01:39,24"
           to: "00:01:47,13"
-          text: ~
+          text: "Quindi se nessuno parla, sarà un bene per questa famiglia e per tutti noi."
         sequence-15:
           s: 15
           from: "00:01:47,13"
           to: "00:01:50,03"
-          text: ~
+          text: "Se invece qualcuno parla, sarà un bastardo"
         sequence-16:
           s: 16
           from: "00:01:50,03"
           to: "00:01:56,21"
-          text: ~
+          text: "e forse si guadagnerà qualche merito per i tedeschi, ma ne soffriremo tutti noi."
         sequence-17:
           s: 17
           from: "00:01:56,21"
           to: "00:02:08,16"
-          text: ~
+          text: "Se invece qualcun altro farà la soffiata su questa cosa, saranno tutti gli abitanti di Orwidów a doverne rispondere."
         sequence-18:
           s: 18
           from: "00:02:08,16"
           to: "00:02:09,14"
-          text: ~
+          text: "Così rimasero."
         sequence-19:
           s: 19
           from: "00:02:09,14"
           to: "00:02:20,09"
-          text: ~
+          text: "C'erano stati alcuni momenti in cui dovevano lasciare Orwidów per qualche giorno perchè c'erano dei segnali di pericolo, ma fondamentalmente rimasero e dipendevano da noi."
         sequence-20:
           s: 20
           from: "00:02:20,09"
