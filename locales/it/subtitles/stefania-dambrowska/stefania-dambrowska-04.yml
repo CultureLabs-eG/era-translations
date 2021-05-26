@@ -2,7 +2,7 @@ it:
   stefania-dambrowska:
     chapter-4:
       c: 4
-      title: ~
+      title: "Il rifugio per la coppia ebreo-polacca; la situazione economica"
       subtitles:
         sequence-1:
           s: 1
@@ -153,19 +153,19 @@ it:
           s: 30
           from: "00:03:39,29"
           to: "00:03:53,29"
-          text: ~
+          text: "dovevamo fare qualsiasi cosa, caricare la legna per i tedeschi, offrire aiuto prestando il cavallo, la carrozza e un operaio."
         sequence-31:
           s: 31
           from: "00:03:53,29"
           to: "00:03:58,28"
-          text: ~
+          text: "Quindi non si guadagnava niente."
         sequence-32:
           s: 32
           from: "00:03:58,28"
           to: "00:04:04,15"
-          text: ~
+          text: "Dovevamo rubare la legna dal proprio bosco,"
         sequence-33:
           s: 33
           from: "00:04:04,15"
           to: "00:04:14,21"
-          text: ~
+          text: "tagliavamo degli alberi secchi e li portavamo a Vilnius per vendere e fare qualche soldo."
