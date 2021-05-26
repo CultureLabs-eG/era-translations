@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:06,14"
           to: "00:00:29,03"
-          text: "La signora, di origini ebraiche, era un'amica della mogle di mio zio."
+          text: "La signora, di origini ebraiche, era un'amica della moglie di mio zio."
         sequence-3:
           s: 3
           from: "00:00:29,03"
@@ -28,27 +28,27 @@ it:
           s: 5
           from: "00:00:43,04"
           to: "00:00:50,16"
-          text: "Veniva tutte le estati a visitare la sua amica, cioè la moglie di mio zio."
+          text: "Veniva tutte le estati a far visita alla sua amica, cioè alla moglie di mio zio."
         sequence-6:
           s: 6
           from: "00:00:50,16"
           to: "00:00:53,17"
-          text: ~
+          text: "Il signore invece era ariano."
         sequence-7:
           s: 7
           from: "00:00:53,17"
           to: "00:01:05,04"
-          text: ~
+          text: "Dissero che volevano sapere come stava mia zia."
         sequence-8:
           s: 8
           from: "00:01:05,04"
           to: "00:01:09,01"
-          text: ~
+          text: "Pensavano che mia zia fosse lì, non sapevano che fosse stata deportata."
         sequence-9:
           s: 9
           from: "00:01:09,01"
           to: "00:01:13,17"
-          text: ~
+          text: "Quando lo scoprirono, decisero di tornare a Varsavia."
         sequence-10:
           s: 10
           from: "00:01:13,17"
@@ -58,17 +58,17 @@ it:
           s: 11
           from: "00:01:17,09"
           to: "00:01:21,01"
-          text: ~
+          text: "Per me invece era importante che rimanessero ma avrei messo in pericolo gli altri."
         sequence-12:
           s: 12
           from: "00:01:21,01"
           to: "00:01:30,09"
-          text: ~
+          text: "Così invitai tutti i lavoratori sulla veranda e gli dissi: \"Sentite,"
         sequence-13:
           s: 13
           from: "00:01:30,09"
           to: "00:01:39,24"
-          text: ~
+          text: "vorrei che questa famiglia restasse, ma non voglio decidere da sola perché sapete bene a quali pericoli andremmo incontro."
         sequence-14:
           s: 14
           from: "00:01:39,24"
