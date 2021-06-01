@@ -58,27 +58,27 @@ it:
           s: 11
           from: "00:01:06,28"
           to: "00:01:11,26"
-          text: ~
+          text: "il cognome era vero, del tipo giusto."
         sequence-12:
           s: 12
           from: "00:01:11,26"
           to: "00:01:18,06"
-          text: ~
+          text: "Hana era bionda con gli occhi azzurri, nessuno avrebbe potuto dire che era ebrea."
         sequence-13:
           s: 13
           from: "00:01:18,06"
           to: "00:01:22,01"
-          text: ~
+          text: "E anche Arnold non sembrava ebreo."
         sequence-14:
           s: 14
           from: "00:01:22,01"
           to: "00:01:27,29"
-          text: ~
+          text: "Volevano assolutamente lasciare Vilnius, perché come si faceva a vivere su quel balcone?"
         sequence-15:
           s: 15
           from: "00:01:27,29"
           to: "00:01:35,10"
-          text: ~
+          text: "Tornai Orwidów e dissi alla prima coppia"
         sequence-16:
           s: 16
           from: "00:01:35,10"
