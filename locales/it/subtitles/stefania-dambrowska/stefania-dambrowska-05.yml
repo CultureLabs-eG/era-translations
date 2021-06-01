@@ -8,22 +8,22 @@ it:
           s: 1
           from: "00:00:01,12"
           to: "00:00:05,00"
-          text: ~
+          text: "In agosto, credo, andai a Vilnius."
         sequence-2:
           s: 2
           from: "00:00:05,00"
           to: "00:00:10,25"
-          text: ~
+          text: "Dovevo incontrare delle persone che avevano dei contatti,"
         sequence-3:
           s: 3
           from: "00:00:10,25"
           to: "00:00:17,09"
-          text: ~
+          text: "sapevano cosa stava succedendo nel mondo ed era più facile scoprire qualcosa da loro."
         sequence-4:
           s: 4
           from: "00:00:17,09"
           to: "00:00:30,10"
-          text: ~
+          text: "Scoprì che sul balcone, coperto dalla vite selvatica, nascondevano una coppia sposata."
         sequence-5:
           s: 5
           from: "00:00:30,10"
