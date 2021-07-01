@@ -88,42 +88,42 @@ it:
           s: 17
           from: "00:01:44,00"
           to: "00:01:59,05"
-          text: ~
+          text: "Gli dissi che c'era questa situazione e gli chiesi se gli avremmo aiutati."
         sequence-18:
           s: 18
           from: "00:01:59,05"
           to: "00:02:03,05"
-          text: ~
+          text: "Portai la famiglia Minkowski."
         sequence-19:
           s: 19
           from: "00:02:03,05"
           to: "00:02:10,18"
-          text: ~
+          text: "Con loro avevamo un enorme problema perché erano molto spaventati."
         sequence-20:
           s: 20
           from: "00:02:10,18"
           to: "00:02:17,14"
-          text: ~
+          text: "Nella cittadina di Niemenczyn era stato creato il ghetto."
         sequence-21:
           s: 21
           from: "00:02:17,14"
           to: "00:02:25,03"
-          text: ~
+          text: "I Minkowski erano terrorizzati dal fatto che a sette chilometri da noi ci fosse un ghetto, era un grosso rischio."
         sequence-22:
           s: 22
           from: "00:02:25,03"
           to: "00:02:29,12"
-          text: ~
+          text: "Erano quindi molto spaventati."
         sequence-23:
           s: 23
           from: "00:02:29,12"
           to: "00:02:33,17"
-          text: ~
+          text: "Dopo la chiusura del ghetto di Niemenczyn"
         sequence-24:
           s: 24
           from: "00:02:33,17"
           to: "00:02:40,01"
-          text: ~
+          text: "volevano andare alla fattoria di quelle persone, presso le quali si nascondevano a Vilnius."
         sequence-25:
           s: 25
           from: "00:02:40,01"
