@@ -78,12 +78,12 @@ it:
           s: 15
           from: "00:01:27,29"
           to: "00:01:35,10"
-          text: "Tornai Orwidów e dissi alla prima coppia"
+          text: "Tornai a Orwidów e dissi alla prima coppia"
         sequence-16:
           s: 16
           from: "00:01:35,10"
           to: "00:01:44,00"
-          text: ~
+          text: "che avrebbero dovuto stare molto attenti, perché più persone sospette avrebbero vissuto lì, più grande sarebbe stato il pericolo."
         sequence-17:
           s: 17
           from: "00:01:44,00"
