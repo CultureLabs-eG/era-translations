@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:01:51,19"
           to: "00:02:00,04"
-          text: ~
+          text: "Sorrisi anche perché i bambini non mi piacciono per niente, sono terribili."
         sequence-25:
           s: 25
           from: "00:02:00,04"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:02:01,14"
           to: "00:02:14,25"
-          text: ~
+          text: "Quindi c'era questa storia per cui una sua amica di Varsavia, anzi più di Vilnius,"
         sequence-27:
           s: 27
           from: "00:02:14,25"
           to: "00:02:25,10"
-          text: ~
+          text: "con cui prima della guerra aveva seguito qualche corso di pronto soccorso,"
         sequence-28:
           s: 28
           from: "00:02:25,10"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:27,00"
           to: "00:02:35,14"
-          text: ~
+          text: "aveva i genitori a Vilnius e a loro aveva affidato la sua figlia di 3 anni."
         sequence-30:
           s: 30
           from: "00:02:35,14"
@@ -158,12 +158,12 @@ it:
           s: 31
           from: "00:02:39,09"
           to: "00:02:43,03"
-          text: ~
+          text: "Lei viveva a Grodno perché il marito era un ingegnere chimico"
         sequence-32:
           s: 32
           from: "00:02:43,03"
           to: "00:02:50,00"
-          text: ~
+          text: "e lavorava a Grodno, per l'Unione Sovietica, in qualche fabbrica chimica."
         sequence-33:
           s: 33
           from: "00:02:50,00"
