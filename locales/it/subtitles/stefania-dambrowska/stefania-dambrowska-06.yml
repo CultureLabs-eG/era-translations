@@ -58,32 +58,32 @@ it:
           s: 11
           from: "00:00:54,21"
           to: "00:00:59,28"
-          text: ~
+          text: "Il suo nome era Janek Mackiewicz."
         sequence-12:
           s: 12
           from: "00:00:59,28"
           to: "00:01:10,12"
-          text: ~
+          text: "Decise che avrebbe potuto portarli a cavallo per circa 100 chilometri, in Bielorussia, dalla famiglia Fedecki."
         sequence-13:
           s: 13
           from: "00:01:10,12"
           to: "00:01:14,20"
-          text: ~
+          text: "Alla fine morirono lì."
         sequence-14:
           s: 14
           from: "00:01:14,20"
           to: "00:01:19,17"
-          text: ~
+          text: "Così una famiglia partì."
         sequence-15:
           s: 15
           from: "00:01:19,17"
           to: "00:01:26,00"
-          text: ~
+          text: "Andai a Vilnius, avevo un luogo di contatto perché dovevo procurare dei documenti per una persona"
         sequence-16:
           s: 16
           from: "00:01:26,00"
           to: "00:01:34,05"
-          text: ~
+          text: "che doveva venire da me a Orwidów, prendere quei documenti e partire, penso, per Varsavia."
         sequence-17:
           s: 17
           from: "00:01:34,05"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:36,15"
           to: "00:01:39,16"
-          text: ~
+          text: "Andai da una signora che avevo visto una volta sola nella vita."
         sequence-19:
           s: 19
           from: "00:01:39,16"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:41,03"
           to: "00:01:44,12"
-          text: ~
+          text: "Lì era stato fissato il mio luogo di contatto."
         sequence-21:
           s: 21
           from: "00:01:44,12"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:45,12"
           to: "00:01:49,18"
-          text: ~
+          text: "Lei mi disse che avrei potuto salvare un bambino."
         sequence-23:
           s: 23
           from: "00:01:49,18"
