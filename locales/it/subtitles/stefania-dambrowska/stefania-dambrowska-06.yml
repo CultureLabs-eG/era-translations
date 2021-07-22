@@ -288,7 +288,7 @@ it:
           s: 57
           from: "00:05:01,13"
           to: "00:05:04,04"
-          text: "che era scappato dall'unione Sovietica,"
+          text: "che era scappato dall'Unione Sovietica,"
         sequence-58:
           s: 58
           from: "00:05:04,04"
@@ -313,27 +313,27 @@ it:
           s: 62
           from: "00:05:39,14"
           to: "00:05:46,03"
-          text: ~
+          text: "Lavorava in un ospedale - e anche questo era vero -, era un'infermiera e aveva dei turni di notte,"
         sequence-63:
           s: 63
           from: "00:05:46,03"
           to: "00:05:56,04"
-          text: ~
+          text: "abitava a Vilnius con dei russi bianchi"
         sequence-64:
           s: 64
           from: "00:05:56,04"
           to: "00:06:04,27"
-          text: ~
+          text: "(a Vilnius ce n'erano un po', erano scappati dall'URSS),"
         sequence-65:
           s: 65
           from: "00:06:04,27"
           to: "00:06:11,22"
-          text: ~
+          text: "questi a casa parlavano il russo e la bambina, vedendo raramente la madre che lavorava in ospedale,"
         sequence-66:
           s: 66
           from: "00:06:11,22"
           to: "00:06:18,10"
-          text: ~
+          text: "imparò il russo ma parlava a malapena polacco, e per questa ragione Irena voleva sistemarla altrove."
         sequence-67:
           s: 67
           from: "00:06:18,10"
