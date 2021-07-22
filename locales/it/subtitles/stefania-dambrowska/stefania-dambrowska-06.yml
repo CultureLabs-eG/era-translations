@@ -338,7 +338,7 @@ it:
           s: 67
           from: "00:06:18,10"
           to: "00:06:35,05"
-          text: ~
+          text: "Quindi arrivò questo essere - piccolo, arrabbiato, che piangeva, urlava. Aveva quasi tre anni perché era novembre e lei era nata a dicembre."
         sequence-68:
           s: 68
           from: "00:06:35,05"
@@ -348,17 +348,17 @@ it:
           s: 69
           from: "00:06:36,20"
           to: "00:06:39,10"
-          text: ~
+          text: "Il suo nome era Miriam ma la chiamavano Maryska."
         sequence-70:
           s: 70
           from: "00:06:39,10"
           to: "00:06:44,26"
-          text: ~
+          text: "Non ho la più pallida idea se le persone ci avessero creduto o meno."
         sequence-71:
           s: 71
           from: "00:06:44,26"
           to: "00:06:58,23"
-          text: ~
+          text: "Ma Maryska presto si guadagnò l'affetto soprattutto di Melania."
         sequence-72:
           s: 72
           from: "00:06:58,23"
@@ -368,4 +368,4 @@ it:
           s: 73
           from: "00:07:00,13"
           to: "00:07:05,25"
-          text: ~
+          text: "Melania la portava spesso nel villaggio."
