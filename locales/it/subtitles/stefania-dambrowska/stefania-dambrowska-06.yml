@@ -233,7 +233,7 @@ it:
           s: 46
           from: "00:04:08,20"
           to: "00:04:20,11"
-          text: ~
+          text: "Io ho inventato una storia perché Irena era bionda con la pelle rosea,"
         sequence-47:
           s: 47
           from: "00:04:20,11"
@@ -243,7 +243,7 @@ it:
           s: 48
           from: "00:04:21,26"
           to: "00:04:33,07"
-          text: ~
+          text: "anche la bambina era chiara con gli occhi azzurri, quindi potevamo dire che era figlia di Irena."
         sequence-49:
           s: 49
           from: "00:04:33,07"
@@ -253,7 +253,7 @@ it:
           s: 50
           from: "00:04:34,16"
           to: "00:04:36,27"
-          text: ~
+          text: "La bambina però non sapeva una parola di polacco,"
         sequence-51:
           s: 51
           from: "00:04:36,27"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:04:37,23"
           to: "00:04:39,20"
-          text: ~
+          text: "parlava solo il russo"
         sequence-53:
           s: 53
           from: "00:04:39,20"
@@ -273,42 +273,42 @@ it:
           s: 54
           from: "00:04:40,27"
           to: "00:04:45,12"
-          text: ~
+          text: "perché il marito della nonna"
         sequence-55:
           s: 55
           from: "00:04:45,12"
           to: "00:04:55,03"
-          text: ~
+          text: "non era il vero nonno della bambina."
         sequence-56:
           s: 56
           from: "00:04:55,03"
           to: "00:05:01,13"
-          text: ~
+          text: "La signora Melezyniuk rimase vedova e si risposò di nuovo con un ebreo,"
         sequence-57:
           s: 57
           from: "00:05:01,13"
           to: "00:05:04,04"
-          text: ~
+          text: "che era scappato dall'unione Sovietica,"
         sequence-58:
           s: 58
           from: "00:05:04,04"
           to: "00:05:18,03"
-          text: ~
+          text: "e gli ebrei che erano fuggiti a Vilnius dall'URSS parlavano il russo."
         sequence-59:
           s: 59
           from: "00:05:18,03"
           to: "00:05:30,10"
-          text: ~
+          text: "Altra cosa: la bambina parlava dei nonni chiamandoli in russo 'diedushka' e 'babushka',"
         sequence-60:
           s: 60
           from: "00:05:30,10"
           to: "00:05:36,27"
-          text: ~
+          text: "quindi inventammo una storia secondo la quale Irena era una mia cugina che era scappata da Varsavia."
         sequence-61:
           s: 61
           from: "00:05:36,27"
           to: "00:05:39,14"
-          text: ~
+          text: "In realtà non era mia cugina ma era fuggita da Varsavia per davvero."
         sequence-62:
           s: 62
           from: "00:05:39,14"
