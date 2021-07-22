@@ -208,17 +208,17 @@ it:
           s: 41
           from: "00:03:49,15"
           to: "00:03:51,08"
-          text: ~
+          text: "E di nuovo la stessa storia."
         sequence-42:
           s: 42
           from: "00:03:51,08"
           to: "00:03:57,05"
-          text: ~
+          text: "Vado a Orwidów, racconto cpme stanno le cose e chiedo se la prendiamo o no."
         sequence-43:
           s: 43
           from: "00:03:57,05"
           to: "00:04:01,20"
-          text: ~
+          text: "Ognuno si prende la responsabilità per questo."
         sequence-44:
           s: 44
           from: "00:04:01,20"
@@ -228,7 +228,7 @@ it:
           s: 45
           from: "00:04:03,24"
           to: "00:04:08,20"
-          text: ~
+          text: "Bene, ma come facciamo a spiegare la presenza della bambina?"
         sequence-46:
           s: 46
           from: "00:04:08,20"
