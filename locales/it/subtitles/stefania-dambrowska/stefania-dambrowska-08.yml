@@ -8,22 +8,22 @@ it:
           s: 1
           from: "00:00:00,22"
           to: "00:00:05,11"
-          text: ~
+          text: "Prima della guerra a Vilnius c'era un gruppo di giovani di sinistra."
         sequence-2:
           s: 2
           from: "00:00:05,11"
           to: "00:00:15,13"
-          text: ~
+          text: "Sztachelski che subito dopo la guerra diventatò qui Ministro della Salute era stato uno di essi."
         sequence-3:
           s: 3
           from: "00:00:15,13"
           to: "00:00:20,13"
-          text: ~
+          text: "Jędrychowki - l'ex presidente della commissione di pianificazione,"
         sequence-4:
           s: 4
           from: "00:00:20,13"
           to: "00:00:27,21"
-          text: ~
+          text: "Zeromska, Mucha Zeromska, la quale sposò Kazik Namysłowski,"
         sequence-5:
           s: 5
           from: "00:00:27,21"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:29,19"
           to: "00:00:38,00"
-          text: ~
+          text: "Muta Dziewicka, Irena Dziewicka, - era un gruppo di sei o sette giovani."
         sequence-7:
           s: 7
           from: "00:00:38,00"
@@ -43,27 +43,27 @@ it:
           s: 8
           from: "00:00:39,17"
           to: "00:00:47,23"
-          text: ~
+          text: "Io non avevo con quei giovani alcun contatto prima di tutto perché erano più grandi di me."
         sequence-9:
           s: 9
           from: "00:00:47,23"
           to: "00:00:54,00"
-          text: ~
+          text: "Tra l'altro avevo frequentato la scuola per un periodo molto breve, appena quattro anni,"
         sequence-10:
           s: 10
           from: "00:00:54,00"
           to: "00:00:58,29"
-          text: ~
+          text: "quindi non conoscevo la tipica vita scolastica."
         sequence-11:
           s: 11
           from: "00:00:58,29"
           to: "00:01:01,21"
-          text: ~
+          text: "Non conoscevo nessuno e non avevo nessun contatto."
         sequence-12:
           s: 12
           from: "00:01:01,21"
           to: "00:01:09,12"
-          text: ~
+          text: "Il fatto interessante era che tutti erano alunni o al ginnasio delle Suore di Nazareth,"
         sequence-13:
           s: 13
           from: "00:01:09,12"
