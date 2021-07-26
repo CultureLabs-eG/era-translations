@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:50,26"
           to: "00:04:00,11"
-          text: ~
+          text: "La casa si trovava venti, trenta metri dalla scarpata, oltre la quale, in un profondo burrone, scorreva il fiume."
         sequence-42:
           s: 42
           from: "00:04:00,11"
@@ -218,7 +218,7 @@ it:
           s: 43
           from: "00:04:01,19"
           to: "00:04:10,18"
-          text: ~
+          text: "Sulla riva, di fronte alla casa c'erano due querce, e altre due più avanti."
         sequence-44:
           s: 44
           from: "00:04:10,18"
@@ -228,17 +228,17 @@ it:
           s: 45
           from: "00:04:11,15"
           to: "00:04:17,02"
-          text: ~
+          text: "Avevamo delle panchine sotto quelle querce, era un posto molto bello."
         sequence-46:
           s: 46
           from: "00:04:17,02"
           to: "00:04:21,05"
-          text: ~
+          text: "Quindi i lituani e i tedeschi divisero le persone in due gruppi."
         sequence-47:
           s: 47
           from: "00:04:21,05"
           to: "00:04:24,28"
-          text: ~
+          text: "Tutti gli adulti sotto una delle querce, tutti i bambini sotto un'altra."
         sequence-48:
           s: 48
           from: "00:04:24,28"
@@ -248,22 +248,22 @@ it:
           s: 49
           from: "00:04:26,08"
           to: "00:04:37,18"
-          text: ~
+          text: "Anche Sonia era lì perché era una giornata molto calda e le mucche non volevano stare sui pascoli, quindi i ragazzi le riportarono a casa."
         sequence-50:
           s: 50
           from: "00:04:37,18"
           to: "00:04:48,27"
-          text: ~
+          text: "Natka era molto ospitale e premurosa e invitò entrambe le bambine nella sala da pranzo,"
         sequence-51:
           s: 51
           from: "00:04:48,27"
           to: "00:05:02,23"
-          text: ~
+          text: "le fece mettersi a tavola, le diede del pane, del latte freddo e mentre le bambine stavano mangiando"
         sequence-52:
           s: 52
           from: "00:05:02,23"
           to: "00:05:06,12"
-          text: ~
+          text: "arrivarono i lituani e i tedeshi."
         sequence-53:
           s: 53
           from: "00:05:06,12"
@@ -273,7 +273,7 @@ it:
           s: 54
           from: "00:05:07,19"
           to: "00:05:12,18"
-          text: ~
+          text: "Tutti, tranne Sonia, avevano i documenti"
         sequence-55:
           s: 55
           from: "00:05:12,18"
@@ -283,17 +283,17 @@ it:
           s: 56
           from: "00:05:14,17"
           to: "00:05:22,02"
-          text: ~
+          text: "e quindi Sonia era spaventata. Riconobbe un ragazzo lituano che veniva al negozio dei suoi genitori"
         sequence-57:
           s: 57
           from: "00:05:22,02"
           to: "00:05:25,13"
-          text: ~
+          text: "a fare compere e che la teneva d'occhio."
         sequence-58:
           s: 58
           from: "00:05:25,13"
           to: "00:05:29,29"
-          text: ~
+          text: "Non sappiamo se il ragazzo l'avesse riconosciuta."
         sequence-59:
           s: 59
           from: "00:05:29,29"
@@ -303,12 +303,12 @@ it:
           s: 60
           from: "00:05:30,25"
           to: "00:05:33,21"
-          text: ~
+          text: "Sonia però si spaventò"
         sequence-61:
           s: 61
           from: "00:05:33,21"
           to: "00:05:42,15"
-          text: ~
+          text: "e quella sera venne da me Jadzia Pluchocianka"
         sequence-62:
           s: 62
           from: "00:05:42,15"
