@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:01:57,18"
           to: "00:02:12,02"
-          text: ~
+          text: "Vicino a Orwidów c'era una croce."
         sequence-24:
           s: 24
           from: "00:02:12,02"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:13,01"
           to: "00:02:16,27"
-          text: ~
+          text: "Chiunque venisse Orwidów, doveva passare accanto a questa croce."
         sequence-26:
           s: 26
           from: "00:02:16,27"
@@ -138,17 +138,17 @@ it:
           s: 27
           from: "00:02:17,28"
           to: "00:02:33,01"
-          text: ~
+          text: "Per le festività religiose di maggio Natka aveva pensato di fare decorare questa croce ai bambini (a Marysia e Sonia)."
         sequence-28:
           s: 28
           from: "00:02:33,01"
           to: "00:02:45,11"
-          text: ~
+          text: "Non era esattamente una buona idea ma così si fece. Marysia non sapeva di che religione o nazionalità fosse."
         sequence-29:
           s: 29
           from: "00:02:45,11"
           to: "00:02:49,08"
-          text: ~
+          text: "Era semplicemente della Sig.ra Melania."
         sequence-30:
           s: 30
           from: "00:02:49,08"
@@ -158,27 +158,27 @@ it:
           s: 31
           from: "00:02:50,05"
           to: "00:03:04,18"
-          text: ~
+          text: "Un giorno - era una giornata di giugno molto calda - andai insieme a Stefan al mulino a Hamernia."
         sequence-32:
           s: 32
           from: "00:03:04,18"
           to: "00:03:14,03"
-          text: ~
+          text: "Siamo rimasti lì a lungo per macinare il grano."
         sequence-33:
           s: 33
           from: "00:03:14,03"
           to: "00:03:19,19"
-          text: ~
+          text: "Tornammo a casa e tutti erano di un pessimo umore."
         sequence-34:
           s: 34
           from: "00:03:19,19"
           to: "00:03:21,01"
-          text: ~
+          text: "Cos'è successo?"
         sequence-35:
           s: 35
           from: "00:03:21,01"
           to: "00:03:27,10"
-          text: ~
+          text: "SI scoprì che durante la mia assenza avevamo ricevuto una visita da parte dei lituani e dei tedeschi"
         sequence-36:
           s: 36
           from: "00:03:27,10"
@@ -188,17 +188,17 @@ it:
           s: 37
           from: "00:03:29,02"
           to: "00:03:36,01"
-          text: ~
+          text: "e c'era stata non tanto una perlustrazione quanto un interrogatorio di tutti i residenti."
         sequence-38:
           s: 38
           from: "00:03:36,01"
           to: "00:03:43,20"
-          text: ~
+          text: "Li divisero in due gruppi."
         sequence-39:
           s: 39
           from: "00:03:43,20"
           to: "00:03:49,07"
-          text: ~
+          text: "Gli adulti dovevano stare sotto una quercia e i bambini sotto un'altra."
         sequence-40:
           s: 40
           from: "00:03:49,07"
