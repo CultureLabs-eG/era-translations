@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:09,12"
           to: "00:01:13,15"
-          text: ~
+          text: "o al ginnasio dei Gesuiti:"
         sequence-14:
           s: 14
           from: "00:01:13,15"
@@ -78,32 +78,32 @@ it:
           s: 15
           from: "00:01:14,23"
           to: "00:01:22,20"
-          text: ~
+          text: "i ragazzi studiavano dai Gesuiti e le ragazze dalle Suore di Nazareth."
         sequence-16:
           s: 16
           from: "00:01:22,20"
           to: "00:01:28,06"
-          text: ~
+          text: "Quando arrivarono i tedeschi"
         sequence-17:
           s: 17
           from: "00:01:28,06"
           to: "00:01:38,17"
-          text: ~
+          text: "Mucha Zeromska, Namysłowska, Namysłowski e alcune altre persone"
         sequence-18:
           s: 18
           from: "00:01:38,17"
           to: "00:01:47,18"
-          text: ~
+          text: "erano contro i tedeschi, cospiravano contro i tedeschi e i punti di contatto si trovavano esattamente a casa loro."
         sequence-19:
           s: 19
           from: "00:01:47,18"
           to: "00:01:58,27"
-          text: ~
+          text: "A volte si trovavano in serio pericolo e quindi la famiglia Namysłowki chiese che Zbyszek"
         sequence-20:
           s: 20
           from: "00:01:58,27"
           to: "00:02:03,00"
-          text: ~
+          text: "insieme a sua nonna (la madre di Mucha) potesse venire ad abitare da me."
         sequence-21:
           s: 21
           from: "00:02:03,00"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:02:04,24"
           to: "00:02:10,13"
-          text: ~
+          text: "Erano polacchi, non c'entravano niente con gli ebrei."
         sequence-23:
           s: 23
           from: "00:02:10,13"
@@ -123,17 +123,17 @@ it:
           s: 24
           from: "00:02:12,20"
           to: "00:02:14,19"
-          text: ~
+          text: "Si trattava di un ulteriore rischio."
         sequence-25:
           s: 25
           from: "00:02:14,19"
           to: "00:02:21,04"
-          text: ~
+          text: "I Namysłowki però abitavano a una quindicina di chilometri da noi,"
         sequence-26:
           s: 26
           from: "00:02:21,04"
           to: "00:02:27,04"
-          text: ~
+          text: "in una fattoria a Lipówka, la quale apparteneva all'Avv. Zagórski."
         sequence-27:
           s: 27
           from: "00:02:27,04"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:02:28,11"
           to: "00:02:36,13"
-          text: ~
+          text: "Temevano però per il figlio e per la Sig.ra Julia Zeromska e chiesero che potessero venire a vivere da me."
         sequence-29:
           s: 29
           from: "00:02:36,13"
