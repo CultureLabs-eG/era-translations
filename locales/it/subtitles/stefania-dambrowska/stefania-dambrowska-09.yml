@@ -8,32 +8,32 @@ it:
           s: 1
           from: "00:00:00,19"
           to: "00:00:05,22"
-          text: ~
+          text: "Un bel giorno viene da me Jadzia e dice:"
         sequence-2:
           s: 2
           from: "00:00:05,22"
           to: "00:00:14,10"
-          text: ~
+          text: "\"Signorina, Nitson chiede se lei non potrebbe prendere con sè la sua nipote Sonia,"
         sequence-3:
           s: 3
           from: "00:00:14,10"
           to: "00:00:23,25"
-          text: ~
+          text: "perché loro vivono nella foresta in un rifugio interrato e Sonia non ne può più,"
         sequence-4:
           s: 4
           from: "00:00:23,25"
           to: "00:00:32,15"
-          text: ~
+          text: "insiste che vorrebbe vivere in mezzo alla gente."
         sequence-5:
           s: 5
           from: "00:00:32,15"
           to: "00:00:40,02"
-          text: ~
+          text: "Sonia ha quindici anni, è la figlia di un ricco commerciante della cittadina di Niemenczyn"
         sequence-6:
           s: 6
           from: "00:00:40,02"
           to: "00:00:46,08"
-          text: ~
+          text: "e della sorella del SIg. Nitson, anche lui un ricco commerciante."
         sequence-7:
           s: 7
           from: "00:00:46,08"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:48,06"
           to: "00:00:51,19"
-          text: ~
+          text: "Non parla polacco tanto bene."
         sequence-9:
           s: 9
           from: "00:00:51,19"
