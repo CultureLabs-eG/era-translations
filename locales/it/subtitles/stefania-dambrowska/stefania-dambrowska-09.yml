@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,19"
           to: "00:00:05,22"
-          text: "Un bel giorno viene da me Jadzia e dice:"
+          text: "Un bel giorno viene da me Jadzia e mi dice:"
         sequence-2:
           s: 2
           from: "00:00:05,22"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:10,05"
           to: "00:01:13,15"
-          text: "Sonia potrebbe pascolare insieme a Janusz il bestiame."
+          text: "Sonia potrebbe, insieme a Janusz, pascolare il bestiame."
         sequence-15:
           s: 15
           from: "00:01:13,15"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:23,01"
           to: "00:01:30,15"
-          text: "perché la zia era preoccupata che il ragazzo potesse iniziare a fare a Vilnius qualcosa di pericoloso per sè stesso e per loro."
+          text: "perché la zia era preoccupata che il ragazzo potesse iniziare a fare a Vilnius qualcosa di pericoloso."
         sequence-18:
           s: 18
           from: "00:01:30,15"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:31,20"
           to: "00:01:39,23"
-          text: "Sonia e Janusz dovranno partire la mattina presto, attraversando o boschi, verso quei pascoli"
+          text: "Sonia e Janusz dovranno partire la mattina presto, attraversando i boschi, andando verso i pascoli"
         sequence-20:
           s: 20
           from: "00:01:39,23"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:02:17,28"
           to: "00:02:33,01"
-          text: "Per le festività religiose di maggio Natka aveva pensato di fare decorare questa croce ai bambini (a Marysia e Sonia)."
+          text: "Per le festività religiose di maggio Natka aveva pensato di fare decorare questa croce alle bambine (a Marysia e Sonia)."
         sequence-28:
           s: 28
           from: "00:02:33,01"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:45,11"
           to: "00:02:49,08"
-          text: "Era semplicemente della Sig.ra Melania."
+          text: "Lei era semplicemente della Sig.ra Melania."
         sequence-30:
           s: 30
           from: "00:02:49,08"
@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:03:04,18"
           to: "00:03:14,03"
-          text: "Siamo rimasti lì a lungo per macinare il grano."
+          text: "Rimanemmo lì a lungo per macinare il grano."
         sequence-33:
           s: 33
           from: "00:03:14,03"
@@ -313,12 +313,12 @@ it:
           s: 62
           from: "00:05:42,15"
           to: "00:05:50,02"
-          text: ~
+          text: "perché, credo, quella notte Sonia avesse dormito da loro, e disse che Sonia supplicava di essere riportata dallo zio"
         sequence-63:
           s: 63
           from: "00:05:50,02"
           to: "00:05:55,06"
-          text: ~
+          text: "e che preferiva stare in quel rifugio interrato nei boschi che non in questa bella casa."
         sequence-64:
           s: 64
           from: "00:05:55,06"
@@ -328,7 +328,7 @@ it:
           s: 65
           from: "00:05:56,00"
           to: "00:05:58,16"
-          text: ~
+          text: "Non c'era altro da fare, dovevamo riportare Sonia dallo zio."
         sequence-66:
           s: 66
           from: "00:05:58,16"
@@ -338,9 +338,9 @@ it:
           s: 67
           from: "00:06:01,01"
           to: "00:06:08,16"
-          text: ~
+          text: "Riuscirono a sopravvivere e, quando arrivò l'esercito sovietico, poterano lasciare la foresta."
         sequence-68:
           s: 68
           from: "00:06:08,16"
           to: "00:06:17,01"
-          text: ~
+          text: "Il Sig. Nitson mi scrisse un biglietto ringraziandomi e dicendo che suo fratello e Sonia erano vivi."
