@@ -73,7 +73,7 @@ en:
           s: 14
           from: "00:01:11,20"
           to: "00:01:17,03"
-          text: "and some coal miners’ huts and we went there."
+          text: "and some charcoal makers’ huts and we went there."
         sequence-15:
           s: 15
           from: "00:01:17,04"
@@ -123,7 +123,7 @@ en:
           s: 24
           from: "00:02:18,11"
           to: "00:02:24,23"
-          text: "We used to sleep in the huts of the coal miners huddled all together like pigs in order to keep ourselves warm."
+          text: "We used to sleep in the huts of the charcoal makers huddled all together like pigs in order to keep ourselves warm."
         sequence-25:
           s: 25
           from: "00:02:25,05"
