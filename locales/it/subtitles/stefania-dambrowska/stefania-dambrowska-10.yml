@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:22,19"
           to: "00:00:28,13"
-          text: ~
+          text: "Era il sindaco Baučius, mandato dal profondo della Lituania,"
         sequence-7:
           s: 7
           from: "00:00:28,13"
@@ -43,22 +43,22 @@ it:
           s: 8
           from: "00:00:31,23"
           to: "00:00:37,10"
-          text: ~
+          text: "parlava il polacco, poco ma lo parlava."
         sequence-9:
           s: 9
           from: "00:00:37,10"
           to: "00:00:40,13"
-          text: ~
+          text: "Il secondo era il sig. Žemaitis,"
         sequence-10:
           s: 10
           from: "00:00:40,13"
           to: "00:00:48,27"
-          text: ~
+          text: "che non c'entrava niente con il successivo ministro qui, che, tra l'altro, era sempre di origini lituane."
         sequence-11:
           s: 11
           from: "00:00:48,27"
           to: "00:00:55,21"
-          text: ~
+          text: "Žemaitis aveva una grande fattoria"
         sequence-12:
           s: 12
           from: "00:00:55,21"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:56,23"
           to: "00:00:58,13"
-          text: ~
+          text: "ed era il vicesindaco."
         sequence-14:
           s: 14
           from: "00:00:58,13"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:00:59,20"
           to: "00:01:09,24"
-          text: ~
+          text: "Anche il segretario del comune il sig. Jankowski - Henryk, credo - aiutava."
         sequence-16:
           s: 16
           from: "00:01:09,24"
