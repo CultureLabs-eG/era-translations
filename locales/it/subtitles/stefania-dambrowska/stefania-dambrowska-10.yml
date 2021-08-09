@@ -2,13 +2,13 @@ it:
   stefania-dambrowska:
     chapter-10:
       c: 10
-      title: ~
+      title: "I funzionari lituani aiutano Stefania a nascondere delle persone"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,21"
           to: "00:00:06,28"
-          text: ~
+          text: "C'erano delle persone che durante quei tempi tedesco-lituani davano una mano."
         sequence-2:
           s: 2
           from: "00:00:06,28"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:30,01"
           to: "00:02:36,20"
-          text: ~
+          text: "Quando la Gestapo veniva e iniziava a curiosare, il sig. Žemaitis andava nella sua fattoria"
         sequence-30:
           s: 30
           from: "00:02:36,20"
@@ -158,4 +158,4 @@ it:
           s: 31
           from: "00:02:37,24"
           to: "00:02:53,12"
-          text: ~
+          text: "a prendere della vodka fatta in casa, della carne, organizzava una grande festa e, nel frattempo, mi informava di tutto."
