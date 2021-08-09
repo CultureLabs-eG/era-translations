@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:02:07,11"
           to: "00:02:15,12"
-          text: "perché sapeva che i tedeschi l'averebbero pichhiata e uccisa nel letto,"
+          text: "perché sapeva che i tedeschi l'averebbero pichiata e uccisa nel letto,"
         sequence-25:
           s: 25
           from: "00:02:15,12"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:33,12"
           to: "00:02:42,20"
-          text: "dato che alla fine del trano, in una casetta un po' più in alto, posta sull'ultima carrozza, c'era sempre un tedesco che doveva sparare in caso di fuga."
+          text: "dato che alla fine del treno, in una casetta un po' più in alto, posta sull'ultima carrozza, c'era sempre un tedesco che doveva sparare in caso di fuga."
         sequence-30:
           s: 30
           from: "00:02:42,20"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:02:45,17"
           to: "00:02:52,27"
-          text: "aveva attraversato un campo di patate, aveva raggiunto Vilnius e don Kretowicz le diede i documenti."
+          text: "aveva attraversato un campo di patate, aveva raggiunto Vilnius e don Kretowicz le aveva fornito i documenti."
         sequence-32:
           s: 32
           from: "00:02:52,27"
@@ -178,4 +178,4 @@ it:
           s: 35
           from: "00:03:00,22"
           to: "00:03:06,29"
-          text: "Poi, quando si trasferì lì la famiglia Konarzewski, Helena venne a stare da me."
+          text: "Poi, quando arrivò lì la famiglia Konarzewski, Helena venne a stare da me."
