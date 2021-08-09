@@ -2,7 +2,7 @@ it:
   stefania-dambrowska:
     chapter-11:
       c: 11
-      title: ~
+      title: "La fuga di Helena Snarska dal treno verso Treblinka"
       subtitles:
         sequence-1:
           s: 1
@@ -168,7 +168,7 @@ it:
           s: 33
           from: "00:02:53,22"
           to: "00:02:59,07"
-          text: ~
+          text: "Tutti sapevano che faceva la domestica dai Kretowicz a Górny Orwidów."
         sequence-34:
           s: 34
           from: "00:02:59,07"
@@ -178,4 +178,4 @@ it:
           s: 35
           from: "00:03:00,22"
           to: "00:03:06,29"
-          text: ~
+          text: "Poi, quando si trasferì lì la famiglia Konarzewski, Helena venne a stare da me."
