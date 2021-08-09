@@ -148,17 +148,17 @@ it:
           s: 29
           from: "00:02:33,12"
           to: "00:02:42,20"
-          text: ~
+          text: "dato che alla fine del trano, in una casetta un po' più in alto, posta sull'ultima carrozza, c'era sempre un tedesco che doveva sparare in caso di fuga."
         sequence-30:
           s: 30
           from: "00:02:42,20"
           to: "00:02:45,17"
-          text: ~
+          text: "Helena c'era riuscita, era rotolata dal terrapieno,"
         sequence-31:
           s: 31
           from: "00:02:45,17"
           to: "00:02:52,27"
-          text: ~
+          text: "aveva attraversato un campo di patate, aveva raggiunto Vilnius e don Kretowicz le diede i documenti."
         sequence-32:
           s: 32
           from: "00:02:52,27"
