@@ -53,12 +53,12 @@ it:
           s: 10
           from: "00:00:43,16"
           to: "00:00:51,25"
-          text: ~
+          text: "spero di non avere sbagliato il cognome. Sentivo che c'era qualcosa di strano."
         sequence-11:
           s: 11
           from: "00:00:51,25"
           to: "00:00:58,04"
-          text: ~
+          text: "La sig.ra Helena era un chirurgo, era figlia di un medico di Vilnius, ebrea."
         sequence-12:
           s: 12
           from: "00:00:58,04"
@@ -68,32 +68,32 @@ it:
           s: 13
           from: "00:00:58,16"
           to: "00:01:01,10"
-          text: ~
+          text: "Cosa successe? Dunque, la sua storia era questa:"
         sequence-14:
           s: 14
           from: "00:01:01,10"
           to: "00:01:07,02"
-          text: ~
+          text: "era scappata da Varsavia insieme al marito, un medico anche lui."
         sequence-15:
           s: 15
           from: "00:01:07,02"
           to: "00:01:10,03"
-          text: ~
+          text: "Vivevano a Vilnius, dai parenti di lei."
         sequence-16:
           s: 16
           from: "00:01:10,03"
           to: "00:01:24,03"
-          text: ~
+          text: "All'inizio non c'era il ghetto, poi, quando venne creato il ghetto, i tedeschi vi portarono suo marito, Abraham Wajnryb, chiamato comunemente Stanisław,"
         sequence-17:
           s: 17
           from: "00:01:24,03"
           to: "00:01:36,23"
-          text: ~
+          text: "e suo padre, medico, di cui non ricordo il cognome."
         sequence-18:
           s: 18
           from: "00:01:36,23"
           to: "00:01:42,28"
-          text: ~
+          text: "Staś e il padre di Helena furono portati in Estonia a lavorare nelle cave di pietra."
         sequence-19:
           s: 19
           from: "00:01:42,28"
