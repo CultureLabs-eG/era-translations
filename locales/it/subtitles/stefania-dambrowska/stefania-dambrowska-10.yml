@@ -88,17 +88,17 @@ it:
           s: 17
           from: "00:01:10,28"
           to: "00:01:20,13"
-          text: ~
+          text: "La gente aveva qualche dubbio nei confronti di quel Jankowski, però non aveva mai fatto nessuna porcheria."
         sequence-18:
           s: 18
           from: "00:01:20,13"
           to: "00:01:40,07"
-          text: ~
+          text: "A casa di Jankowski abitava un organista,"
         sequence-19:
           s: 19
           from: "00:01:40,07"
           to: "00:01:54,20"
-          text: ~
+          text: "era un musicista e successivamente professore qui, presso la nostra Accademia Musicale - si chiamava Witold Rudziński."
         sequence-20:
           s: 20
           from: "00:01:54,20"
@@ -108,22 +108,22 @@ it:
           s: 21
           from: "00:01:56,19"
           to: "00:01:58,26"
-          text: ~
+          text: "La famiglia dei Rudziński abitava dal sig. Jankowski."
         sequence-22:
           s: 22
           from: "00:01:58,26"
           to: "00:02:01,22"
-          text: ~
+          text: "Eravamo in contatto con i Rudziński,"
         sequence-23:
           s: 23
           from: "00:02:01,22"
           to: "00:02:06,28"
-          text: ~
+          text: "cioè io e la famiglia Świezewski andavamo da loro,"
         sequence-24:
           s: 24
           from: "00:02:06,28"
           to: "00:02:11,12"
-          text: ~
+          text: "tutti loro sapevano delle origini di Maryśka,"
         sequence-25:
           s: 25
           from: "00:02:11,12"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:02:12,15"
           to: "00:02:22,02"
-          text: ~
+          text: "e se ci fosse bisogno di qualche documento per Maryśka, anche tramite la chiesa, ce lo saremmo procurato tramite loro."
         sequence-27:
           s: 27
           from: "00:02:22,02"
           to: "00:02:28,28"
-          text: ~
+          text: "Questi due signori sindaci per due o tre volte non fecero entrare a Orwidów la Gestapo."
         sequence-28:
           s: 28
           from: "00:02:28,28"
