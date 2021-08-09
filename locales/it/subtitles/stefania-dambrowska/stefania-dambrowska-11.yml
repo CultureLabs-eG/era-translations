@@ -8,27 +8,27 @@ it:
           s: 1
           from: "00:00:00,17"
           to: "00:00:04,15"
-          text: ~
+          text: "Aggiungo che, come dicevo prima, a Vilnius c'erano due preti:"
         sequence-2:
           s: 2
           from: "00:00:04,15"
           to: "00:00:09,20"
-          text: ~
+          text: "don Chlebowicz, che aveva rilasciato a Maryśka il certificato di nascita,"
         sequence-3:
           s: 3
           from: "00:00:09,20"
           to: "00:00:16,17"
-          text: ~
+          text: "e don Kretowicz, fratello del vecchietto Onufry Kretowicz che stava a Górny Orwidów"
         sequence-4:
           s: 4
           from: "00:00:16,17"
           to: "00:00:19,12"
-          text: ~
+          text: "e che a sua volta rilasciava dei certificati falsi."
         sequence-5:
           s: 5
           from: "00:00:19,12"
           to: "00:00:26,02"
-          text: ~
+          text: "A Górny Orwidów c'era anche una signora che era scappata dal treno per Treblinka"
         sequence-6:
           s: 6
           from: "00:00:26,02"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:26,24"
           to: "00:00:35,12"
-          text: ~
+          text: "e che don Kretowicz aveva mandato dalla sua cognata per dare una mano nella fattoria."
         sequence-8:
           s: 8
           from: "00:00:35,12"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:38,14"
           to: "00:00:43,16"
-          text: ~
+          text: "Si chiamava Helena Strumińska,"
         sequence-10:
           s: 10
           from: "00:00:43,16"
