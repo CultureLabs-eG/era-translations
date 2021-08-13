@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:31,02"
           to: "00:00:38,11"
-          text: "che avrebbero accettato e voluto lavorare a Lublino negli uffici del Comitato Polacco di Liberazione Nazionale."
+          text: "che avrebbero accettato e voluto lavorare a Lublino negli uffici del Comitato Polacco di Liberazione Nazionale (PKWN)."
         sequence-7:
           s: 7
           from: "00:00:38,11"
@@ -63,12 +63,12 @@ it:
           s: 12
           from: "00:01:07,14"
           to: "00:01:15,21"
-          text: ~
+          text: "raggiungemmo la via Spokojna, dove prima della guerra e anche dopo si trovava l'edificio del voivodato,"
         sequence-13:
           s: 13
           from: "00:01:15,21"
           to: "00:01:22,03"
-          text: ~
+          text: "ma dove all'epoca c'era l'ufficio del PKWN."
         sequence-14:
           s: 14
           from: "00:01:22,03"
@@ -78,27 +78,27 @@ it:
           s: 15
           from: "00:01:23,10"
           to: "00:01:30,26"
-          text: ~
+          text: "Ascoltate, mentre andavamo con quel camion dall'aeroporto verso Lublino, era incredibile"
         sequence-16:
           s: 16
           from: "00:01:30,26"
           to: "00:01:37,01"
-          text: ~
+          text: "vedere dappertutto le scritte in polacco, l'esercito con la divisa polacca - ancora adesso, quando ci penso, mi vengono i brividi lungo la schiena."
         sequence-17:
           s: 17
           from: "00:01:37,01"
           to: "00:01:48,00"
-          text: ~
+          text: "Ci faceva un'impressione incredibile dopo tutta questa confusione, dopo la guerra."
         sequence-18:
           s: 18
           from: "00:01:48,00"
           to: "00:01:52,25"
-          text: ~
+          text: "L'insurrezione di Varsavia continuava, noi sapevamo dell'insurrezione,"
         sequence-19:
           s: 19
           from: "00:01:52,25"
           to: "00:01:54,16"
-          text: ~
+          text: "sapevamo di tutto."
         sequence-20:
           s: 20
           from: "00:01:54,16"
