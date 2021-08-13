@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:07,24"
           to: "00:01:13,11"
-          text: ~
+          text: "la terra si piegava sotto i nostri piedi come un materasso e qualcosa scricchiolava."
         sequence-17:
           s: 17
           from: "00:01:13,11"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:14,17"
           to: "00:01:15,27"
-          text: ~
+          text: "Erano le ossa umane,"
         sequence-19:
           s: 19
           from: "00:01:15,27"
@@ -103,17 +103,17 @@ it:
           s: 20
           from: "00:01:17,08"
           to: "00:01:19,25"
-          text: ~
+          text: "era quello che rimaneva nei forni crematori"
         sequence-21:
           s: 21
           from: "00:01:19,25"
           to: "00:01:26,28"
-          text: ~
+          text: "e che veniva versato lì e scavato insieme al terreno, dove poi vennero piantati i cavoli."
         sequence-22:
           s: 22
           from: "00:01:26,28"
           to: "00:01:32,05"
-          text: ~
+          text: "Poi ci avvicinammo ai quei forni crematori."
         sequence-23:
           s: 23
           from: "00:01:32,05"
@@ -123,12 +123,12 @@ it:
           s: 24
           from: "00:01:33,09"
           to: "00:01:41,20"
-          text: ~
+          text: "In alcuni c'erano dei resti umani, davanti ad altri c'erano i corpi pronti per essere messi dentro."
         sequence-25:
           s: 25
           from: "00:01:41,20"
           to: "00:01:50,08"
-          text: ~
+          text: "Le persone giacevano in fila, i corpi erano marroni."
         sequence-26:
           s: 26
           from: "00:01:50,08"
