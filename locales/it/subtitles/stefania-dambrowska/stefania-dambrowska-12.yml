@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:55,25"
           to: "00:01:07,14"
-          text: ~
+          text: "Quando scendemmo dal camion che ci aveva portato dall'aeroporto di Lublino in città,"
         sequence-12:
           s: 12
           from: "00:01:07,14"
