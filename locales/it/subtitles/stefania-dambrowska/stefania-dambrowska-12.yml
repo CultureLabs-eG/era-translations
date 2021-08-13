@@ -2,13 +2,13 @@ it:
   stefania-dambrowska:
     chapter-12:
       c: 12
-      title: ~
+      title: Liberazione
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,13"
           to: "00:00:10,16"
-          text: ~
+          text: "Non appena arrivò l'esercito sovietico, Helena partì subito per Vilnius"
         sequence-2:
           s: 2
           from: "00:00:10,16"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:12,16"
           to: "00:00:19,16"
-          text: "e come medico venne mobilitata. Ma all'inizio a Vilnius c'erano ancora i tedeschi."
+          text: "e, come medico, venne mobilitata. Ma all'inizio a Vilnius c'erano ancora i tedeschi."
         sequence-4:
           s: 4
           from: "00:00:19,16"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:07,14"
           to: "00:01:15,21"
-          text: "raggiungemmo la via Spokojna, dove prima della guerra e anche dopo si trovava l'edificio del voivodato,"
+          text: "raggiungemmo la via Spokojna, dove prima della guerra e anche in seguito si trovava l'edificio del voivodato,"
         sequence-13:
           s: 13
           from: "00:01:15,21"
@@ -93,14 +93,14 @@ it:
           s: 18
           from: "00:01:48,00"
           to: "00:01:52,25"
-          text: "L'insurrezione di Varsavia continuava, noi sapevamo dell'insurrezione,"
+          text: "L'Insurrezione di Varsavia continuava, noi sapevamo dell'insurrezione,"
         sequence-19:
           s: 19
           from: "00:01:52,25"
           to: "00:01:54,16"
-          text: "sapevamo di tutto."
+          text: "sapevamo tutto."
         sequence-20:
           s: 20
           from: "00:01:54,16"
           to: "00:01:59,24"
-          text: ~
+          text: "Però qui c'erano le scritte in polacco, c'era l'esercito polacco."
