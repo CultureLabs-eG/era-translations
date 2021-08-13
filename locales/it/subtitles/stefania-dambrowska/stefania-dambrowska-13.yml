@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:01:41,20"
           to: "00:01:50,08"
-          text: "Le persone giacevano in fila, i corpi erano marroni."
+          text: "Le persone giacevano in fia, un colpo nella nuca. I corpi erano marroni."
         sequence-26:
           s: 26
           from: "00:01:50,08"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:01:52,06"
           to: "00:01:55,24"
-          text: ~
+          text: "Non avevano un aspetto orribile, erano marroni."
         sequence-28:
           s: 28
           from: "00:01:55,24"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:01:57,00"
           to: "00:02:03,24"
-          text: ~
+          text: "L'odore era tremendo, era una giornata molto calda, era metà agosto del 1944."
         sequence-30:
           s: 30
           from: "00:02:03,24"
@@ -158,17 +158,17 @@ it:
           s: 31
           from: "00:02:04,28"
           to: "00:02:13,16"
-          text: ~
+          text: "Avevamo sempre un foulard in testa per evitare che i capelli prendessero quell'odore."
         sequence-32:
           s: 32
           from: "00:02:13,16"
           to: "00:02:24,24"
-          text: ~
+          text: "Quando tornavamo da Majdanek a Lublino, appendevamo i nostri vestiti fuori sul balcone."
         sequence-33:
           s: 33
           from: "00:02:24,24"
           to: "00:02:29,13"
-          text: ~
+          text: "Alemno c'erano i balconi in quelle barracche in cui stavamo. Era un kolchoz. Uomini, donne - tutti dormivamo nelle stesse stanze."
         sequence-34:
           s: 34
           from: "00:02:29,13"
