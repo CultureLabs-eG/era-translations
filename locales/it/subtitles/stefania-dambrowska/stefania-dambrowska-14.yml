@@ -2,7 +2,7 @@ it:
   stefania-dambrowska:
     chapter-14:
       c: 14
-      title: ~
+      title: "La vita delle persone che Stefania salvò dopo la guerra"
       subtitles:
         sequence-1:
           s: 1
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:26,23"
           to: "00:01:39,08"
-          text: "A volte ci telefiniamo, a volte scriviamo delle lettere, ma lei fa fatica a scrivere in polacco."
+          text: "A volte ci telefoniamo, a volte scriviamo delle lettere, ma lei fa fatica a scrivere in polacco."
         sequence-16:
           s: 16
           from: "00:01:39,08"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:49,05"
           to: "00:01:57,11"
-          text: "io e Stefan rimanemmo insieme, avevo il relativo documento, non mi serviva per la mia felicità, ma era appropriato avercelo."
+          text: "io e Stefan rimanemmo insieme, avevo le relative carte, non mi servivano per la mia felicità, ma era appropriato avercele."
         sequence-21:
           s: 21
           from: "00:01:57,11"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:59,13"
           to: "00:02:00,26"
-          text: "Non è più in vita da tanto tempo."
+          text: "Stefan non è più in vita da tanto tempo."
         sequence-23:
           s: 23
           from: "00:02:00,26"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:02:02,03"
           to: "00:02:03,25"
-          text: ~
+          text: "Chi altri?"
         sequence-25:
           s: 25
           from: "00:02:03,25"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:06,24"
           to: "00:02:15,23"
-          text: "Gli altri si sono un po' dispersi, ma con la famiglia di Maryśka ho dei contatti davvero molto stretti,"
+          text: "Gli altri si sono un po' dispersi, ma con la famiglia di Maryśka mantengo dei contatti davvero molto stretti,"
         sequence-27:
           s: 27
           from: "00:02:15,23"
