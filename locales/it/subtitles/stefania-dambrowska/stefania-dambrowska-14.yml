@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,20"
           to: "00:00:02,08"
-          text: ~
+          text: "Cosa accadde alle persone?"
         sequence-2:
           s: 2
           from: "00:00:02,08"
@@ -18,22 +18,22 @@ it:
           s: 3
           from: "00:00:03,12"
           to: "00:00:09,27"
-          text: ~
+          text: "Helena e suo marito Staś tornarono, il padre morì,"
         sequence-4:
           s: 4
           from: "00:00:09,27"
           to: "00:00:19,10"
-          text: ~
+          text: "il marito di Helena Snarska, chiamata Lusia Wajnryb, fu arruolato nell'esercito"
         sequence-5:
           s: 5
           from: "00:00:19,10"
           to: "00:00:27,24"
-          text: ~
+          text: "ma dopo loro si trasferirono in Francia e poi in Australia."
         sequence-6:
           s: 6
           from: "00:00:27,24"
           to: "00:00:38,24"
-          text: ~
+          text: "Dall'Australia mi scrivevano delle lettere ma Stefan perse il loro indirizzo."
         sequence-7:
           s: 7
           from: "00:00:38,24"
