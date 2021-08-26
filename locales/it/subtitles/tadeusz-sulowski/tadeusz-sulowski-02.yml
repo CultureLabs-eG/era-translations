@@ -2,7 +2,7 @@ it:
   tadeusz-sulowski:
     chapter-2:
       c: 2
-      title: ~
+      title: "L'amministratore tedesco: Erik Erdbrüger"
       subtitles:
         sequence-1:
           s: 1
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:52,22"
           to: "00:02:57,18"
-          text: "Semplicemente avevano costruito una versione per rinchiudere mia zia."
+          text: "Semplicemente avevano costruito una versione per far arrestare mia zia."
         sequence-20:
           s: 20
           from: "00:02:57,18"
@@ -128,17 +128,17 @@ it:
           s: 25
           from: "00:03:39,25"
           to: "00:03:46,26"
-          text: "E probabilmente per questo dovette pagare con la vita. Infatti la mandarono a Fordon [vicino a Bydgoszcz/Bydgoszcz]."
+          text: "E probabilmente per questo dovette pagare con la vita. Infatti la mandarono a Fordon [vicino a Bydgoszcz/Bromberg]."
         sequence-26:
           s: 26
           from: "00:03:46,26"
           to: "00:03:58,08"
-          text: ~
+          text: "Prima emisero una sentenza di morte per aver incitato un bambino a bruciare il fienile."
         sequence-27:
           s: 27
           from: "00:03:58,08"
           to: "00:04:03,21"
-          text: ~
+          text: "Noi mandammo a Hitler varie richieste di perdono e Hitler lo concesse, commutando la pena della zia in ergastolo."
         sequence-28:
           s: 28
           from: "00:04:03,21"
@@ -148,4 +148,4 @@ it:
           s: 29
           from: "00:04:06,13"
           to: "00:04:18,26"
-          text: ~
+          text: "Lei venne però immediatamente trasferita da Fordon a Oświęcim [Auschwitz], dove rimase al massimo tre giorni."
