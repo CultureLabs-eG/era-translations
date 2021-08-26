@@ -118,17 +118,17 @@ it:
           s: 23
           from: "00:01:28,24"
           to: "00:01:33,14"
-          text: ~
+          text: "E ora tutta la Varsavia sa,"
         sequence-24:
           s: 24
           from: "00:01:33,14"
           to: "00:01:37,25"
-          text: ~
+          text: "ogni bambino, ogni custode,"
         sequence-25:
           s: 25
           from: "00:01:37,25"
           to: "00:01:41,12"
-          text: ~
+          text: "Bisogna sparare per non disimparare,"
         sequence-26:
           s: 26
           from: "00:01:41,12"
