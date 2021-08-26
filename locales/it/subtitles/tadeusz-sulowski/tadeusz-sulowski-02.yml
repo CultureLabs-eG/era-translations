@@ -28,22 +28,22 @@ it:
           s: 5
           from: "00:00:31,25"
           to: "00:00:39,06"
-          text: ~
+          text: "Era un osservatore aereo ed era stato abbattuto sopra la Polonia"
         sequence-6:
           s: 6
           from: "00:00:39,06"
           to: "00:01:04,28"
-          text: ~
+          text: "e probabilmente, come compenso, il comando gli affidò questa tenuta polacca in modo che potesse riposarsi lontano dal fronte e dalle difficoltà della guerra."
         sequence-7:
           s: 7
           from: "00:01:04,28"
           to: "00:01:09,22"
-          text: ~
+          text: "All'inizio Ertbruger si comportava bene."
         sequence-8:
           s: 8
           from: "00:01:09,22"
           to: "00:01:14,00"
-          text: ~
+          text: "Giocava con noi bambini."
         sequence-9:
           s: 9
           from: "00:01:14,00"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:17,03"
           to: "00:01:24,05"
-          text: ~
+          text: "Sembrava che fosse una persona carina."
         sequence-11:
           s: 11
           from: "00:01:24,05"
@@ -63,27 +63,27 @@ it:
           s: 12
           from: "00:01:29,01"
           to: "00:01:42,16"
-          text: ~
+          text: "Purtroppo i tedeschi scoprirono che io, mia sorella e mia madre avevamo la residenza a Varsavia"
         sequence-13:
           s: 13
           from: "00:01:42,16"
           to: "00:01:55,26"
-          text: ~
+          text: "e a dicembre o gennaio 1940 ci trasferirono a Varsavia."
         sequence-14:
           s: 14
           from: "00:01:55,26"
           to: "00:02:07,26"
-          text: ~
+          text: "A mia nonna, mia zia e mia cugina Hanka permisero di rimanere lì fino al 1941,"
         sequence-15:
           s: 15
           from: "00:02:07,26"
           to: "00:02:20,09"
-          text: ~
+          text: "quando vennero trasferite in una tenuta vicina, Orszymowo."
         sequence-16:
           s: 16
           from: "00:02:20,09"
           to: "00:02:27,28"
-          text: ~
+          text: "Era sempre un piccolo maniero."
         sequence-17:
           s: 17
           from: "00:02:27,28"
@@ -93,32 +93,32 @@ it:
           s: 18
           from: "00:02:33,18"
           to: "00:02:52,22"
-          text: ~
+          text: "Sfortunatamente il fienile aveva preso fuoco e i tedeschi sospettavano che mia zia avesse detto a mia cugina Hanka di incendiarlo."
         sequence-19:
           s: 19
           from: "00:02:52,22"
           to: "00:02:57,18"
-          text: ~
+          text: "Semplicemente avevano costruito una versione per rinchiudere mia zia."
         sequence-20:
           s: 20
           from: "00:02:57,18"
           to: "00:03:08,18"
-          text: ~
+          text: "Forse il sig. Ertbruger si voleva vendicare, perché mia zia era una donna bellissima"
         sequence-21:
           s: 21
           from: "00:03:08,18"
           to: "00:03:20,21"
-          text: ~
+          text: "e lui sperava che dalla loro conoscenza potesse nascere qualcosa di più."
         sequence-22:
           s: 22
           from: "00:03:20,21"
           to: "00:03:25,05"
-          text: ~
+          text: "Purtroppo però mia zia era una grande patriota. Odiava i tedeschi."
         sequence-23:
           s: 23
           from: "00:03:25,05"
           to: "00:03:36,26"
-          text: ~
+          text: "Era così poco diplomatica, che non sapeva mascherare quel suo odio."
         sequence-24:
           s: 24
           from: "00:03:36,26"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:03:39,25"
           to: "00:03:46,26"
-          text: ~
+          text: "E probabilmente per questo dovette pagare con la vita. Infatti la mandarono a Fordon [vicino a Bydgoszcz/Bydgoszcz]."
         sequence-26:
           s: 26
           from: "00:03:46,26"
