@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:40,13"
           to: "00:01:46,03"
-          text: ~
+          text: "Le università infatti riuscirono a partire in tempo."
         sequence-17:
           s: 17
           from: "00:01:46,03"
@@ -93,37 +93,37 @@ it:
           s: 18
           from: "00:01:48,07"
           to: "00:01:54,22"
-          text: ~
+          text: "Mio fratello invece presto entrò in contatto"
         sequence-19:
           s: 19
           from: "00:01:54,22"
           to: "00:02:09,23"
-          text: ~
+          text: "con un'organizzazione illegale di sinistra."
         sequence-20:
           s: 20
           from: "00:02:09,23"
           to: "00:02:26,21"
-          text: ~
+          text: "Molti giovani all'epoca nutrivano rancore verso il nostro precedente sistema politico, il periodo del governo di Piłsudski,"
         sequence-21:
           s: 21
           from: "00:02:26,21"
           to: "00:02:32,04"
-          text: ~
+          text: "con molte ingiustizie e molta povertà."
         sequence-22:
           s: 22
           from: "00:02:32,04"
           to: "00:02:40,16"
-          text: ~
+          text: "I giovani spesso non accettavano questa situazione nella nuova Polonia"
         sequence-23:
           s: 23
           from: "00:02:40,16"
           to: "00:02:48,09"
-          text: ~
+          text: "e volevano introdurre un sistema più democratico."
         sequence-24:
           s: 24
           from: "00:02:48,09"
           to: "00:02:53,04"
-          text: ~
+          text: "Per questo motivo mio fratello entrò a far parte del PPS (Partito Socialista Polacco)."
         sequence-25:
           s: 25
           from: "00:02:53,04"
