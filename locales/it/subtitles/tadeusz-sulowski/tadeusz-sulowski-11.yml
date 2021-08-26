@@ -2,7 +2,7 @@ it:
   tadeusz-sulowski:
     chapter-11:
       c: 11
-      title: ~
+      title: "La canzone sulla cospirazione"
       subtitles:
         sequence-1:
           s: 1
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:13,26"
           to: "00:00:17,17"
-          text: "Eppure ha un significato fonddamentale!"
+          text: "Eppure un significato ce l'ha!"
         sequence-6:
           s: 6
           from: "00:00:17,17"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:30,06"
           to: "00:00:34,04"
-          text: "nel portare una MG!"
+          text: "nel portare una MG senza i documenti!"
         sequence-10:
           s: 10
           from: "00:00:34,04"
@@ -58,57 +58,57 @@ it:
           s: 11
           from: "00:00:35,08"
           to: "00:00:39,24"
-          text: ~
+          text: "Un normale cospiratore ha questo aspetto:"
         sequence-12:
           s: 12
           from: "00:00:39,24"
           to: "00:00:44,03"
-          text: ~
+          text: "è tranquillo, simpatico, ha buone maniere - niente che salti all'occhio!"
         sequence-13:
           s: 13
           from: "00:00:44,03"
           to: "00:00:48,16"
-          text: ~
+          text: "Quando vuole dire una parola, sta attento,"
         sequence-14:
           s: 14
           from: "00:00:48,16"
           to: "00:00:52,14"
-          text: ~
+          text: "controlla anche sotto l'armadio che nessuno lo spii."
         sequence-15:
           s: 15
           from: "00:00:52,14"
           to: "00:00:57,08"
-          text: ~
+          text: "Ah, questa cospirazione, la cospirazione!"
         sequence-16:
           s: 16
           from: "00:00:57,08"
           to: "00:01:01,18"
-          text: ~
+          text: "È l'essenza della nostra vita!"
         sequence-17:
           s: 17
           from: "00:01:01,18"
           to: "00:01:05,13"
-          text: ~
+          text: "C'è dello stile e della grazia"
         sequence-18:
           s: 18
           from: "00:01:05,13"
           to: "00:01:10,04"
-          text: ~
+          text: "nel portare una MG senza i documenti!"
         sequence-19:
           s: 19
           from: "00:01:10,04"
           to: "00:01:14,21"
-          text: ~
+          text: "Una volta un cospiratore - non importa il cognome-,"
         sequence-20:
           s: 20
           from: "00:01:14,21"
           to: "00:01:18,29"
-          text: ~
+          text: "fu lasciato di notte a pulire il suo mitra."
         sequence-21:
           s: 21
           from: "00:01:18,29"
           to: "00:01:24,05"
-          text: ~
+          text: "Rilasciò il grilletto, lo sparo finì nel divano"
         sequence-22:
           s: 22
           from: "00:01:24,05"
