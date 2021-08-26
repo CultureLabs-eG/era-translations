@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:01,19"
           to: "00:00:13,20"
-          text: ~
+          text: "La preside della mia scuola era la zia di questo ragazzo che frequentava la scuola Staszic,"
         sequence-2:
           s: 2
           from: "00:00:13,20"
           to: "00:00:21,25"
-          text: ~
+          text: "lì c'era l'ottimo 16° reparto scout di Varsavia, dedicato a Zawisza Czarny."
         sequence-3:
           s: 3
           from: "00:00:21,25"
