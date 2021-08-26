@@ -63,12 +63,12 @@ it:
           s: 12
           from: "00:01:10,12"
           to: "00:01:15,12"
-          text: ~
+          text: "ma il nostro capo reparto, Michał Sianorzecki, il quale venne ucciso durante la Rivolta di Varsavia,"
         sequence-13:
           s: 13
           from: "00:01:15,12"
           to: "00:01:27,08"
-          text: ~
+          text: "dava molto peso a questo tema e ce ne parlò a lungo."
         sequence-14:
           s: 14
           from: "00:01:27,08"
