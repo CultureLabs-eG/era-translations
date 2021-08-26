@@ -43,17 +43,17 @@ it:
           s: 8
           from: "00:00:25,26"
           to: "00:00:30,06"
-          text: ~
+          text: "C'è dello stile e della grazia"
         sequence-9:
           s: 9
           from: "00:00:30,06"
           to: "00:00:34,04"
-          text: ~
+          text: "nel portare una MG!"
         sequence-10:
           s: 10
           from: "00:00:34,04"
           to: "00:00:35,08"
-          text: ~
+          text: "(una mitragliatrice)"
         sequence-11:
           s: 11
           from: "00:00:35,08"
