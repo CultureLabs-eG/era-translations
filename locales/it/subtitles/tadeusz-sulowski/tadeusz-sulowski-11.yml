@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:44,03"
           to: "00:00:48,16"
-          text: "Quando vuole dire una parola, sta attento,"
+          text: "Quando deve parlare, sta attento,"
         sequence-14:
           s: 14
           from: "00:00:48,16"
@@ -128,9 +128,9 @@ it:
           s: 25
           from: "00:01:37,25"
           to: "00:01:41,12"
-          text: "Bisogna sparare per non disimparare,"
+          text: "per non perdere il tocco, bisogna sparare,"
         sequence-26:
           s: 26
           from: "00:01:41,12"
           to: "00:01:45,15"
-          text: ~
+          text: "e non prendersela con il letto!\""
