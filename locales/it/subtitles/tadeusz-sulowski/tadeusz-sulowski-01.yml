@@ -2,7 +2,7 @@ it:
   tadeusz-sulowski:
     chapter-1:
       c: 1
-      title: ~
+      title: "Presentazione, origini; i tedeschi iniziano la guerra"
       subtitles:
         sequence-1:
           s: 1
@@ -58,9 +58,9 @@ it:
           s: 11
           from: "00:02:38,04"
           to: "00:02:58,26"
-          text: ~
+          text: "Uno di loro scese, corse in veranda e mi zia si avvicinò per parlargli, perchè sapeva un po' di tedesco e di francese."
         sequence-12:
           s: 12
           from: "00:02:58,26"
           to: "00:03:05,26"
-          text: ~
+          text: "Il tedesco voleva porgerle la mano ma mia zia ritrasse la sua."
