@@ -95,7 +95,7 @@ it:
           s: 18
           from: "00:02:12,02"
           to: "00:02:16,26"
-          text: "in cui lo faceva il guardiano che teneva d'occhio quei mezzi."
+          text: "in cui lo faceva la guardia che teneva d'occhio quei mezzi."
         sequence-19:
           s: 19
           from: "00:02:16,26"
@@ -115,22 +115,22 @@ it:
           s: 22
           from: "00:02:39,16"
           to: "00:02:46,17"
-          text: ~
+          text: "E io dovevo camminare lungo il lato opposto della via, osservando la pelliccia bianca."
         sequence-23:
           s: 23
           from: "00:02:46,17"
           to: "00:03:02,00"
-          text: ~
+          text: "Mi dissero di accendere una sigaretta e loro, guardando le scintille della sigaretta, avrebbero capito dove mi trovavo e quindi non si trovava la guardia."
         sequence-24:
           s: 24
           from: "00:03:02,00"
           to: "00:03:20,11"
-          text: ~
+          text: "A seconda di quanto si fosse allontanato, erano in grado di piazzare le bombe incendiarie, di solito tra la ruota e il parafango."
         sequence-25:
           s: 25
           from: "00:03:20,11"
           to: "00:03:23,17"
-          text: ~
+          text: "La gomma è infiammabile. Se prende fuoco, non c'è modo di fermarlo."
         sequence-26:
           s: 26
           from: "00:03:23,17"
@@ -140,17 +140,19 @@ it:
           s: 27
           from: "00:03:24,17"
           to: "00:03:33,17"
-          text: ~
+          text: |-
+              Funzionò bene.
+              Potevamo scoprirlo solo il giono dopo.
         sequence-28:
           s: 28
           from: "00:03:33,17"
           to: "00:03:44,00"
-          text: ~
+          text: "Io andavo a scuola a Powiśle, in via Sewerynów e avevo questo amico che abitava in viale Trzeciego Maja al numero 3,"
         sequence-29:
           s: 29
           from: "00:03:44,00"
           to: "00:03:52,27"
-          text: ~
+          text: "cioè di fornte al posto dove i tedeschi tenevano gli autocarri."
         sequence-30:
           s: 30
           from: "00:03:52,27"
@@ -160,17 +162,17 @@ it:
           s: 31
           from: "00:03:54,28"
           to: "00:04:04,25"
-          text: ~
+          text: "E questo amico, Jurek Suchanek, che faceva sempre parte degli scout ed era un mio compagno di classe, mi disse:"
         sequence-32:
           s: 32
           from: "00:04:04,25"
           to: "00:04:10,00"
-          text: ~
+          text: "\"Non ci crederai, è successa una cosa grossa la notte scorsa nella nostra via!"
         sequence-33:
           s: 33
           from: "00:04:10,00"
           to: "00:04:15,14"
-          text: ~
+          text: "Stavano sparando intorno a mezzanotte e c'era un enorme incendio sotto il ponte!"
         sequence-34:
           s: 34
           from: "00:04:15,14"
