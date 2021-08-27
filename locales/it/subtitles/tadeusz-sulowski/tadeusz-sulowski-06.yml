@@ -153,17 +153,17 @@ it:
           s: 30
           from: "00:04:26,09"
           to: "00:04:29,28"
-          text: ~
+          text: "\"Mi ha colpito e 'Ralf' è morto, credo!\""
         sequence-31:
           s: 31
           from: "00:04:29,28"
           to: "00:04:37,06"
-          text: ~
+          text: "Allora Andrzejczak gli urlo: \"Corri a prendere una carrozza!\" e aspettò l'altro uomo."
         sequence-32:
           s: 32
           from: "00:04:37,06"
           to: "00:04:46,08"
-          text: ~
+          text: "Zieliński, con la pistola ancora fumante, stava inseguendo il ragazzo ferito."
         sequence-33:
           s: 33
           from: "00:04:46,08"
