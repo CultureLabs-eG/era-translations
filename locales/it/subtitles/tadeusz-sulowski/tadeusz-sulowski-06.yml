@@ -118,37 +118,37 @@ it:
           s: 23
           from: "00:03:05,15"
           to: "00:03:31,20"
-          text: "Zieliński, infuriato, vide che Jerzy era sdraiato per terra o ferito, o morto, e corse dietro all'altro ragazzo, sparandogli."
+          text: "Zieliński, infuriato, vide che Jerzy era sdraiato per terra o ferito, o morto, corse per le scale inseguendo il fuggitivo e sparando."
         sequence-24:
           s: 24
           from: "00:03:31,20"
           to: "00:03:37,03"
-          text: ~
+          text: "Questo gli costò la vita, perché nel portone c'era il terzo uomo,"
         sequence-25:
           s: 25
           from: "00:03:37,03"
           to: "00:03:44,12"
-          text: ~
+          text: "il più saggio, Andrzejczak."
         sequence-26:
           s: 26
           from: "00:03:44,12"
           to: "00:03:56,11"
-          text: ~
+          text: "L'avevo conoscito in precedenza perché un paio di mesi prima avevo avuto il piacere di lavorare con lui in un'azione di sabotaggio."
         sequence-27:
           s: 27
           from: "00:03:56,11"
           to: "00:04:03,05"
-          text: ~
+          text: "Lui attendeva con la pistola in mano."
         sequence-28:
           s: 28
           from: "00:04:03,05"
           to: "00:04:19,03"
-          text: ~
+          text: "Finché non vide arrivare i due uomini."
         sequence-29:
           s: 29
           from: "00:04:19,03"
           to: "00:04:26,09"
-          text: ~
+          text: "il primo era l'amico che scappava con la mano ferita e che gli urlo:"
         sequence-30:
           s: 30
           from: "00:04:26,09"
