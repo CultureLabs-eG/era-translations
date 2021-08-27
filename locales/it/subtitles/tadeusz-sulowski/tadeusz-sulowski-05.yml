@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:56,03"
           to: "00:01:12,27"
-          text: "Mi disse che i tedeschi tenevano sotto quel ponte macchine di polizia e autocarri militari."
+          text: "Mi disse che i tedeschi tenevano sotto quel ponte delle macchine di polizia e dei furgoni militari."
         sequence-9:
           s: 9
           from: "00:01:12,27"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:34,13"
           to: "00:01:41,00"
-          text: "cìè questa fiala di vetro -sembrava per un'iniezione-, devi morderla.\""
+          text: "c'è questa fiala di vetro…’ – sembrava un'iniezione – ‘… devi morderla.\""
         sequence-14:
           s: 14
           from: "00:01:41,00"
@@ -100,7 +100,7 @@ it:
           s: 19
           from: "00:02:16,26"
           to: "00:02:20,23"
-          text: "Lui era abbastanza riconoscibile perché indossava una pelliccia bianca."
+          text: "La guardia era abbastanza riconoscibile perché indossava una pelliccia bianca."
         sequence-20:
           s: 20
           from: "00:02:20,23"
@@ -120,12 +120,12 @@ it:
           s: 23
           from: "00:02:46,17"
           to: "00:03:02,00"
-          text: "Mi dissero di accendere una sigaretta e loro, guardando le scintille della sigaretta, avrebbero capito dove mi trovavo e quindi non si trovava la guardia."
+          text: "Mi dissero di accendere una sigaretta e loro, guardando le scintille, avrebbero capito dove mi trovassi e quindi dove si trovasse la guardia."
         sequence-24:
           s: 24
           from: "00:03:02,00"
           to: "00:03:20,11"
-          text: "A seconda di quanto si fosse allontanato, erano in grado di piazzare le bombe incendiarie, di solito tra la ruota e il parafango."
+          text: "A seconda di quanto l'uomo si fosse allontanato, sarebbero in grado di piazzare le bombe incendiarie, di solito tra la ruota e il parafango."
         sequence-25:
           s: 25
           from: "00:03:20,11"
@@ -142,17 +142,17 @@ it:
           to: "00:03:33,17"
           text: |-
               Funzionò bene.
-              Potevamo scoprirlo solo il giono dopo.
+              Ma pootevamo scoprirlo solo il giono dopo.
         sequence-28:
           s: 28
           from: "00:03:33,17"
           to: "00:03:44,00"
-          text: "Io andavo a scuola a Powiśle, in via Sewerynów e avevo questo amico che abitava in viale Trzeciego Maja al numero 3,"
+          text: "Io andavo a scuola a Powiśle, in via Sewerynów, e avevo questo amico che abitava in viale Trzeciego Maja al numero 3,"
         sequence-29:
           s: 29
           from: "00:03:44,00"
           to: "00:03:52,27"
-          text: "cioè di fornte al posto dove i tedeschi tenevano gli autocarri."
+          text: "cioè di fornte al posto dove i tedeschi tenevano i furgoni."
         sequence-30:
           s: 30
           from: "00:03:52,27"
@@ -172,19 +172,19 @@ it:
           s: 33
           from: "00:04:10,00"
           to: "00:04:15,14"
-          text: "Stavano sparando intorno a mezzanotte e c'era un enorme incendio sotto il ponte!"
+          text: "Intorno a mezzanotte stavano sparando e sotto il ponte c'era un enorme incendio!"
         sequence-34:
           s: 34
           from: "00:04:15,14"
           to: "00:04:22,20"
-          text: ~
+          text: "Dei sabotatori incendiarono i furgoni! I tedeschi sparavano! Che casino! E poi sirene dell'ambulanza!\""
         sequence-35:
           s: 35
           from: "00:04:22,20"
           to: "00:04:25,05"
-          text: ~
+          text: "E io gli chiesi: \"Be', li hanno presi quei ragazzi?\""
         sequence-36:
           s: 36
           from: "00:04:25,05"
           to: "00:04:35,27"
-          text: ~
+          text: "\"No, non credo. In ogni caso c'era un gran casino perché hanno bruciato 12 o 13 mezzi\"."
