@@ -2,53 +2,53 @@ it:
   tadeusz-sulowski:
     chapter-5:
       c: 5
-      title: ~
+      title: "La prima operazione seria di Tadeusz"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,00"
           to: "00:00:08,20"
-          text: ~
+          text: "Il capo era questo poeta socialista, il cui pseudonimo era il sig. Hagen."
         sequence-2:
           s: 2
           from: "00:00:08,20"
           to: "00:00:10,05"
-          text: ~
+          text: "Noi lo chiamavamo \"Robert\"."
         sequence-3:
           s: 3
           from: "00:00:10,05"
           to: "00:00:21,27"
-          text: ~
+          text: "Doveva essere il capo di quel gruppo. Mi fece molti complimenti e mi chiese se volessi partecipare a un'azione di sabotaggio vera."
         sequence-4:
           s: 4
           from: "00:00:21,27"
           to: "00:00:25,03"
-          text: ~
+          text: "Ovviamente dissi di sì."
         sequence-5:
           s: 5
           from: "00:00:25,03"
           to: "00:00:31,18"
-          text: ~
+          text: "\"Allora ti chiedo di attendere altre indicazioni."
         sequence-6:
           s: 6
           from: "00:00:31,18"
           to: "00:00:43,18"
-          text: ~
+          text: "Quando sarà il momento e il tempo sarà abbastanza cupo, allora faremo un'azione sotto il ponte Poniatowski\"."
         sequence-7:
           s: 7
           from: "00:00:43,18"
           to: "00:00:56,03"
-          text: ~
+          text: "Più tardi chiesi a mio fratello di che tipo di azione si trattasse."
         sequence-8:
           s: 8
           from: "00:00:56,03"
           to: "00:01:12,27"
-          text: ~
+          text: "Mi disse che i tedeschi tenevano sotto quel ponte macchine di polizia e autocarri militari."
         sequence-9:
           s: 9
           from: "00:01:12,27"
           to: "00:01:17,20"
-          text: ~
+          text: "Bisognava dargli fuoco."
         sequence-10:
           s: 10
           from: "00:01:17,20"
@@ -58,27 +58,29 @@ it:
           s: 11
           from: "00:01:18,02"
           to: "00:01:25,18"
-          text: ~
+          text: "Mio fratello mi disse: \" Ascolta, c'è questa cosa spiacevole, ho un regalo per te."
         sequence-12:
           s: 12
           from: "00:01:25,18"
           to: "00:01:34,13"
-          text: ~
+          text: "Se dovessero catturarti e picchiarti talmente forte, da non riuscire a sopportarlo,"
         sequence-13:
           s: 13
           from: "00:01:34,13"
           to: "00:01:41,00"
-          text: ~
+          text: "cìè questa fiala di vetro -sembrava per un'iniezione-, devi morderla.\""
         sequence-14:
           s: 14
           from: "00:01:41,00"
           to: "00:01:44,16"
-          text: ~
+          text: "E io gli faccio: \"Non essere stupido, mi faccio male.\""
         sequence-15:
           s: 15
           from: "00:01:44,16"
           to: "00:01:53,05"
-          text: ~
+          text: |-
+              E lui risponde: "Ormai sarà lo stesso, non appena la mordi, muori." 
+              Era cianuro.
         sequence-16:
           s: 16
           from: "00:01:53,05"
@@ -88,27 +90,27 @@ it:
           s: 17
           from: "00:01:55,05"
           to: "00:02:12,02"
-          text: ~
+          text: "Il mio compito, come poi mi spiegarono, consisteva nel camminare lungo il marciapiede nello stesso modo"
         sequence-18:
           s: 18
           from: "00:02:12,02"
           to: "00:02:16,26"
-          text: ~
+          text: "in cui lo faceva il guardiano che teneva d'occhio quei mezzi."
         sequence-19:
           s: 19
           from: "00:02:16,26"
           to: "00:02:20,23"
-          text: ~
+          text: "Lui era abbastanza riconoscibile perché indossava una pelliccia bianca."
         sequence-20:
           s: 20
           from: "00:02:20,23"
           to: "00:02:27,10"
-          text: ~
+          text: "Era ottobre ma i tedeschi si preoccupavano dei propri soldati e li facevano vestire bene."
         sequence-21:
           s: 21
           from: "00:02:27,10"
           to: "00:02:39,16"
-          text: ~
+          text: "Questo guardiano andava prevalentemente dalla via Dobra verso la città e poi tornava indietro."
         sequence-22:
           s: 22
           from: "00:02:39,16"
