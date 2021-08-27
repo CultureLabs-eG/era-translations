@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:02:47,25"
           to: "00:03:05,15"
-          text: ~
+          text: "Invece di rispondere allo sparo - si può sparare anche con una mano sola - questo ragazzo si girò e corse via."
         sequence-23:
           s: 23
           from: "00:03:05,15"
           to: "00:03:31,20"
-          text: ~
+          text: "Zieliński, infuriato, vide che Jerzy era sdraiato per terra o ferito, o morto, e corse dietro all'altro ragazzo, sparandogli."
         sequence-24:
           s: 24
           from: "00:03:31,20"
