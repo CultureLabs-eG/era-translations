@@ -48,12 +48,12 @@ it:
           s: 9
           from: "00:01:21,26"
           to: "00:01:29,11"
-          text: ~
+          text: "Doveva aavicinarsi all'informatore, parlargli, seguirlo per poi sparargli."
         sequence-10:
           s: 10
           from: "00:01:29,11"
           to: "00:01:35,25"
-          text: ~
+          text: "Quindi bisognava stabilire un contatto, d'amicizia o di altro tipo."
         sequence-11:
           s: 11
           from: "00:01:35,25"
@@ -63,12 +63,12 @@ it:
           s: 12
           from: "00:01:37,04"
           to: "00:01:53,00"
-          text: ~
+          text: "Voleva che questo Marian Zieliński si presentasse in un certo luogo e a un certo orario per poterlo eliminare."
         sequence-13:
           s: 13
           from: "00:01:53,00"
           to: "00:02:03,10"
-          text: ~
+          text: "Andarano in tre. L'uomo abitava in via Ogrodowa 69."
         sequence-14:
           s: 14
           from: "00:02:03,10"
@@ -78,17 +78,17 @@ it:
           s: 15
           from: "00:02:05,22"
           to: "00:02:12,13"
-          text: ~
+          text: "Anche se era mio fratello e sembrava che fosse il capo di questo gruppo, fecero un casino."
         sequence-16:
           s: 16
           from: "00:02:12,13"
           to: "00:02:19,27"
-          text: ~
+          text: "Quando questo Zieliński aprì la porta avrebbero dovuto sparargli e correre via,"
         sequence-17:
           s: 17
           from: "00:02:19,27"
           to: "00:02:22,26"
-          text: ~
+          text: "non entrare e parlare."
         sequence-18:
           s: 18
           from: "00:02:22,26"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:23,26"
           to: "00:02:40,01"
-          text: ~
+          text: "Jerzy tirò fuori la sua pistola e a quel punto Zieliński aprì un cassetto, tirò fuori la sua arma e ferì Jerzy."
         sequence-20:
           s: 20
           from: "00:02:40,01"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:02:43,07"
           to: "00:02:47,25"
-          text: ~
+          text: "L'altro compagno di mio fratello rimase ferito alla mano."
         sequence-22:
           s: 22
           from: "00:02:47,25"
