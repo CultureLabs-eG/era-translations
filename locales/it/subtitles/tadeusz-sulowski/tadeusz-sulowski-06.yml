@@ -168,17 +168,17 @@ it:
           s: 33
           from: "00:04:46,08"
           to: "00:04:53,01"
-          text: ~
+          text: "Andrzejczak puntò verso Zieliński e quest'ultimo fece lo stesso,"
         sequence-34:
           s: 34
           from: "00:04:53,01"
           to: "00:04:58,19"
-          text: ~
+          text: "gli spari furono esplosi quasi simultaneamente, Andrzejczak centrò l'obiettivo,"
         sequence-35:
           s: 35
           from: "00:04:58,19"
           to: "00:05:01,12"
-          text: ~
+          text: "mentre Zieliński no."
         sequence-36:
           s: 36
           from: "00:05:01,12"
@@ -188,12 +188,12 @@ it:
           s: 37
           from: "00:05:04,06"
           to: "00:05:11,13"
-          text: ~
+          text: "Il ragazzo che scappava fermò una carrozza, trainata da cavalli - non c'erano i tassi allora,"
         sequence-38:
           s: 38
           from: "00:05:11,13"
           to: "00:05:13,24"
-          text: ~
+          text: "erano solo per i tedeschi."
         sequence-39:
           s: 39
           from: "00:05:13,24"
@@ -208,12 +208,12 @@ it:
           s: 41
           from: "00:05:24,22"
           to: "00:05:34,03"
-          text: ~
+          text: "Questa storia mi fu raccontata da un amico di mio fratello ma, purtroppo,"
         sequence-42:
           s: 42
           from: "00:05:34,03"
           to: "00:05:44,00"
-          text: ~
+          text: "me la raccontò solo a luglio, mentre questi fatti risalivano al 19 marzo 1943."
         sequence-43:
           s: 43
           from: "00:05:44,00"
