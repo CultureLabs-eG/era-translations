@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:14,09"
           to: "00:02:20,03"
-          text: ~
+          text: "In una mezz'ora vennero uccise 125 uomini."
         sequence-20:
           s: 20
           from: "00:02:20,03"
@@ -108,57 +108,57 @@ it:
           s: 21
           from: "00:02:25,10"
           to: "00:02:33,18"
-          text: ~
+          text: "Porto un rancore personale verso il comandante per non avere impartito quell'ordine almeno un'ora prima."
         sequence-22:
           s: 22
           from: "00:02:33,18"
           to: "00:02:41,11"
-          text: ~
+          text: "Del resto sapeva che non c'erano i telefoni e che bisognava comunicare l'ordine di persona e a piedi."
         sequence-23:
           s: 23
           from: "00:02:41,11"
           to: "00:02:47,14"
-          text: ~
+          text: "E spesso non potevi comunicarlo, perché ti imbattevi in ​​una pattuglia o qualcosa del genere."
         sequence-24:
           s: 24
           from: "00:02:47,14"
           to: "00:02:53,17"
-          text: ~
+          text: "Quindi bisognava mandare non un messaggero, bensì diversi."
         sequence-25:
           s: 25
           from: "00:02:53,17"
           to: "00:02:59,04"
-          text: ~
+          text: "Ed è così che finì. Per questo motivo il reggimento fu sciolto."
         sequence-26:
           s: 26
           from: "00:02:59,04"
           to: "00:03:11,22"
-          text: ~
+          text: "Dovevamo arrivare da soli o a Varsavia o nella foresta di Kampinos."
         sequence-27:
           s: 27
           from: "00:03:11,22"
           to: "00:03:24,15"
-          text: ~
+          text: "Quando giunse questo ordine di scioglimentoo, il mio comandante e amico cadetto \"Witold\" voleva spararsi."
         sequence-28:
           s: 28
           from: "00:03:24,15"
           to: "00:03:31,13"
-          text: ~
+          text: "Allora il tenente \"Andrzej\", il comandante della compagnia, afferrò il suo Sten,"
         sequence-29:
           s: 29
           from: "00:03:31,13"
           to: "00:03:38,05"
-          text: ~
+          text: "mentre io lo presi per le spalle e gli dissi: \" Signore, ma è impazzito?!"
         sequence-30:
           s: 30
           from: "00:03:38,05"
           to: "00:03:42,08"
-          text: ~
+          text: "La guerra per noi è appena iniziata e lei vuole suicidarsi?!"
         sequence-31:
           s: 31
           from: "00:03:42,08"
           to: "00:03:48,06"
-          text: ~
+          text: "Ne avrà delle occasioni per essere ucciso!\""
         sequence-32:
           s: 32
           from: "00:03:48,06"
