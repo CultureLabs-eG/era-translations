@@ -63,22 +63,22 @@ it:
           s: 12
           from: "00:01:21,27"
           to: "00:01:31,28"
-          text: ~
+          text: "Mentre io ancora non avevo avuto nessuna ferita, non mi era successo niente."
         sequence-13:
           s: 13
           from: "00:01:31,28"
           to: "00:01:44,25"
-          text: ~
+          text: "Ero tra i partigiani, ci allontanavamo sempre di più da Varsavia."
         sequence-14:
           s: 14
           from: "00:01:44,25"
           to: "00:02:00,05"
-          text: ~
+          text: "Dopo aver attraversato il fiume Pilica giungemmo in un villaggio, dove, nella foresta, c'era un reparto di partigiani molto numeroso,"
         sequence-15:
           s: 15
           from: "00:02:00,05"
           to: "00:02:06,10"
-          text: ~
+          text: "circa mille persone. Il 25° Reggimento di Fanteria di Piotrków."
         sequence-16:
           s: 16
           from: "00:02:06,10"
