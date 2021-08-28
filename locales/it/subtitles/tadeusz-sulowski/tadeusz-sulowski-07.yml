@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:30,10"
           to: "00:00:36,05"
-          text: "Il comandante del reggimento, il maggiore \"Wysocki\","
+          text: "Il comandante del reggimento, il maggiore \"Wysocki\""
         sequence-6:
           s: 6
           from: "00:00:36,05"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:14,01"
           to: "00:01:22,29"
-          text: "Be', avevamo le granate di cui parlavo e il nostro plotone aveva due mitragliatrici della prima guerra mondiale, senza gli alimentatori."
+          text: "Be', avevamo le granate di cui parlavo, e il nostro plotone aveva due mitragliatrici della prima guerra mondiale, senza gli alimentatori."
         sequence-11:
           s: 11
           from: "00:01:22,29"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:14,09"
           to: "00:02:20,03"
-          text: "In una mezz'ora vennero uccise 125 uomini."
+          text: "In una mezz'ora vennero uccise 125 persone."
         sequence-20:
           s: 20
           from: "00:02:20,03"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:03:11,22"
           to: "00:03:24,15"
-          text: "Quando giunse questo ordine di scioglimento, il mio comandante e amico cadetto \"Witold\" voleva spararsi."
+          text: "Quando giunse questo ordine di scioglimento, il mio comandante e amico, cadetto \"Witold\" voleva spararsi."
         sequence-28:
           s: 28
           from: "00:03:24,15"
