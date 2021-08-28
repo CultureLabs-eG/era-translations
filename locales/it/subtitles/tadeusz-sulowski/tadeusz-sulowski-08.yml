@@ -83,17 +83,17 @@ it:
           s: 16
           from: "00:02:06,10"
           to: "00:02:18,26"
-          text: ~
+          text: "Il gruppo \"Lancia\" decise di unirsi a questo reparto perché era molto più piccolo."
         sequence-17:
           s: 17
           from: "00:02:18,26"
           to: "00:02:31,12"
-          text: ~
+          text: "CIrca 150 persone. AL contrario il 25° Reggimento era grande, era un reggimento, mille uomini."
         sequence-18:
           s: 18
           from: "00:02:31,12"
           to: "00:02:48,22"
-          text: ~
+          text: "Ci diedero un caloroso benvenuto, persino ci pagarono."
         sequence-19:
           s: 19
           from: "00:02:48,22"
