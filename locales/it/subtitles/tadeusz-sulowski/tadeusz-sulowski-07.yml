@@ -8,17 +8,17 @@ it:
           s: 1
           from: "00:00:01,00"
           to: "00:00:10,15"
-          text: ~
+          text: "Nel 1943 entrai nell'Armia Krajowa."
         sequence-2:
           s: 2
           from: "00:00:10,15"
           to: "00:00:17,15"
-          text: ~
+          text: "Quindi, purtroppo, durante la Rivolta di Varsavia non ero insieme ai miei compagni dei tempi degli scout."
         sequence-3:
           s: 3
           from: "00:00:17,15"
           to: "00:00:29,10"
-          text: ~
+          text: "Ero già un soldato dell'Armia Krajowa, assegnato al 7° reggimento di fanteria \"Garłuch\" a Okęcie."
         sequence-4:
           s: 4
           from: "00:00:29,10"
@@ -28,32 +28,32 @@ it:
           s: 5
           from: "00:00:30,10"
           to: "00:00:36,05"
-          text: ~
+          text: "Si scoprì che il comandante del reggimento, il maggiore \"Wysocki\","
         sequence-6:
           s: 6
           from: "00:00:36,05"
           to: "00:00:40,18"
-          text: ~
+          text: "(era uno pseudonimo, il suo nome era Babiarz)"
         sequence-7:
           s: 7
           from: "00:00:40,18"
           to: "00:00:53,00"
-          text: ~
+          text: "scoprì che i tedeschi avevano fortificato signifitivamente l'aeroporto."
         sequence-8:
           s: 8
           from: "00:00:53,00"
           to: "00:01:04,15"
-          text: ~
+          text: "Ci avevano collocato un'enorme quantità di armi, mitragliatrici ecc."
         sequence-9:
           s: 9
           from: "00:01:04,15"
           to: "00:01:14,01"
-          text: ~
+          text: "L'Armia Krajowa aveva pocchissime armi, praticamente non ne aveva."
         sequence-10:
           s: 10
           from: "00:01:14,01"
           to: "00:01:22,29"
-          text: ~
+          text: "Be', avevamo le granate di cui parlavo e avevamo e il nostro plotone aveva due mitragliatrici della prima guerra mondiale, senza gli alimentatori."
         sequence-11:
           s: 11
           from: "00:01:22,29"
