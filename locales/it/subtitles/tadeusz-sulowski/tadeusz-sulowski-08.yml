@@ -8,17 +8,17 @@ it:
           s: 1
           from: "00:00:00,25"
           to: "00:00:09,12"
-          text: ~
+          text: "Così giungemmo alle foreste di Chojnów e ci unimmo all'unità partigiana chiamata \"Lancia\"."
         sequence-2:
           s: 2
           from: "00:00:09,12"
           to: "00:00:14,10"
-          text: ~
+          text: "Era una squadra che proveniva dalla regione di Zamość."
         sequence-3:
           s: 3
           from: "00:00:14,10"
           to: "00:00:22,08"
-          text: ~
+          text: "Erano armati abbastanza bene. Iniziammo lì la nostra vita da partigiani."
         sequence-4:
           s: 4
           from: "00:00:22,08"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:23,12"
           to: "00:00:27,00"
-          text: ~
+          text: "Insieme all'unità \"Lancia\" attraversammo il fiume Pilica."
         sequence-6:
           s: 6
           from: "00:00:27,00"
@@ -38,27 +38,27 @@ it:
           s: 7
           from: "00:00:32,19"
           to: "00:00:41,15"
-          text: ~
+          text: "Visto che sapevo cavalcare e qualcuno della pattuglia equestre era appena morto,"
         sequence-8:
           s: 8
           from: "00:00:41,15"
           to: "00:00:48,11"
-          text: ~
+          text: "mi misero su un cavallo e questo mi piaceva moltissimo."
         sequence-9:
           s: 9
           from: "00:00:48,11"
           to: "00:01:04,25"
-          text: ~
+          text: "Sapete, un ragazzo di 15 anni che all'improvviso si ritrova in un distaccamento partigiano e gli danno pure un cavallo - era divertentissimo."
         sequence-10:
           s: 10
           from: "00:01:04,25"
           to: "00:01:14,28"
-          text: ~
+          text: "Allo stesso tempo questo non poteva assolutamente lenire il mio dolore per non essere nella Rivolta."
         sequence-11:
           s: 11
           from: "00:01:14,28"
           to: "00:01:21,27"
-          text: ~
+          text: "Del resto le mie sorelle erano lì, mia madre era rimasta a Varsavia e mia nonna anche."
         sequence-12:
           s: 12
           from: "00:01:21,27"
