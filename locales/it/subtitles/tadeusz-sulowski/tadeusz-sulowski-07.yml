@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:01:22,29"
           to: "00:01:30,19"
-          text: ~
+          text: "Dovevi mettere ogni proiettile nella canna separatamente, altrimenti non c'era modo di sparare,"
         sequence-12:
           s: 12
           from: "00:01:30,19"
@@ -73,27 +73,27 @@ it:
           s: 14
           from: "00:01:37,13"
           to: "00:01:46,11"
-          text: ~
+          text: "Alle ore 16 il comandante del reggimento diede l'ordine di non attaccare quegli hangar."
         sequence-15:
           s: 15
           from: "00:01:46,11"
           to: "00:01:56,17"
-          text: ~
+          text: "Non so perché quell'ordine non fosse stato dato alle 13 o alle 14."
         sequence-16:
           s: 16
           from: "00:01:56,17"
           to: "00:01:59,15"
-          text: ~
+          text: "L'ora \"W\" (l'ora dell'attacco) era stata fissata per le 17."
         sequence-17:
           s: 17
           from: "00:01:59,15"
           to: "00:02:08,18"
-          text: ~
+          text: "L'ordine fu portato dall'ufficiale di collegamento, ma alle 17:30, quando ormai era tardi."
         sequence-18:
           s: 18
           from: "00:02:08,18"
           to: "00:02:14,09"
-          text: ~
+          text: "L'attacco venne effettuato da uomini praticamente indifesi della batteria di \"Kuba\"."
         sequence-19:
           s: 19
           from: "00:02:14,09"
