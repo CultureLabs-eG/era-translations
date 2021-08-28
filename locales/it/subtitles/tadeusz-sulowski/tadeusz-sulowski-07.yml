@@ -2,7 +2,7 @@ it:
   tadeusz-sulowski:
     chapter-7:
       c: 7
-      title: ~
+      title: "La sconfitta a Okecie"
       subtitles:
         sequence-1:
           s: 1
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:30,10"
           to: "00:00:36,05"
-          text: "Si scoprì che il comandante del reggimento, il maggiore \"Wysocki\","
+          text: "Il comandante del reggimento, il maggiore \"Wysocki\","
         sequence-6:
           s: 6
           from: "00:00:36,05"
@@ -38,12 +38,12 @@ it:
           s: 7
           from: "00:00:40,18"
           to: "00:00:53,00"
-          text: "scoprì che i tedeschi avevano fortificato signifitivamente l'aeroporto."
+          text: "scoprì che i tedeschi avevano signifitivamente fortificato l'aeroporto."
         sequence-8:
           s: 8
           from: "00:00:53,00"
           to: "00:01:04,15"
-          text: "Ci avevano collocato un'enorme quantità di armi, mitragliatrici ecc."
+          text: "Vi avevano collocato un'enorme quantità di armi, mitragliatrici ecc."
         sequence-9:
           s: 9
           from: "00:01:04,15"
@@ -53,17 +53,17 @@ it:
           s: 10
           from: "00:01:14,01"
           to: "00:01:22,29"
-          text: "Be', avevamo le granate di cui parlavo e avevamo e il nostro plotone aveva due mitragliatrici della prima guerra mondiale, senza gli alimentatori."
+          text: "Be', avevamo le granate di cui parlavo e il nostro plotone aveva due mitragliatrici della prima guerra mondiale, senza gli alimentatori."
         sequence-11:
           s: 11
           from: "00:01:22,29"
           to: "00:01:30,19"
-          text: "Dovevi mettere ogni proiettile nella canna separatamente, altrimenti non c'era modo di sparare,"
+          text: "Dovevi mettere nella canna ogni proiettile separatamente, altrimenti non c'era modo di sparare,"
         sequence-12:
           s: 12
           from: "00:01:30,19"
           to: "00:01:36,22"
-          text: ~
+          text: "perché non avevamo quelle clip che funzionano come un serbatoio per le cartucce."
         sequence-13:
           s: 13
           from: "00:01:36,22"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:02:08,18"
           to: "00:02:14,09"
-          text: "L'attacco venne effettuato da uomini praticamente indifesi della batteria di \"Kuba\"."
+          text: "L'attacco venne effettuato da degli uomini praticamente indifesi della batteria \"Kuba\"."
         sequence-19:
           s: 19
           from: "00:02:14,09"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:53,17"
           to: "00:02:59,04"
-          text: "Ed è così che finì. Per questo motivo il reggimento fu sciolto."
+          text: "Quindi finì in questo modo. Per questo motivo il reggimento venne sciolto."
         sequence-26:
           s: 26
           from: "00:02:59,04"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:03:11,22"
           to: "00:03:24,15"
-          text: "Quando giunse questo ordine di scioglimentoo, il mio comandante e amico cadetto \"Witold\" voleva spararsi."
+          text: "Quando giunse questo ordine di scioglimento, il mio comandante e amico cadetto \"Witold\" voleva spararsi."
         sequence-28:
           s: 28
           from: "00:03:24,15"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:03:31,13"
           to: "00:03:38,05"
-          text: "mentre io lo presi per le spalle e gli dissi: \" Signore, ma è impazzito?!"
+          text: "mentre io lo presi per le spalle e gli dissi: \" Cadetto, ma è impazzito?!"
         sequence-30:
           s: 30
           from: "00:03:38,05"
@@ -163,4 +163,4 @@ it:
           s: 32
           from: "00:03:48,06"
           to: "00:03:53,07"
-          text: ~
+          text: "Così rimase. Venne ucciso in seguito. Non fece mai ritorno dopo essere diventato partigiano."
