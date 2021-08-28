@@ -2,7 +2,7 @@ it:
   tadeusz-sulowski:
     chapter-8:
       c: 8
-      title: ~
+      title: "Diventare partigiano; battaglie contro i tedeschi"
       subtitles:
         sequence-1:
           s: 1
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:02:18,26"
           to: "00:02:31,12"
-          text: "CIrca 150 persone. AL contrario il 25° Reggimento era grande, era un reggimento, mille uomini."
+          text: "CIrca 150 persone. Al contrario il 25° Reggimento era grande, era un reggimento, mille uomini."
         sequence-18:
           s: 18
           from: "00:02:31,12"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:48,22"
           to: "00:03:02,11"
-          text: "Però la stessa notte il \"Lancia\" diede l'ordine di sellare i cavalli, di caricare i carri, e partì, Dio sa dove."
+          text: "Però la stessa notte il \"Lancia\" diede l'ordine di sellare i cavalli, di caricare i carri, e se ne andò. Dio sa dove."
         sequence-20:
           s: 20
           from: "00:03:02,11"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:03:18,16"
           to: "00:03:35,15"
-          text: "il quali ci sostenne quindi, dopo tutto, il maggiore ci accettò nel reggimento."
+          text: "il quale ci sostenne e quindi, dopo tutto, il maggiore ci accettò nel reggimento."
         sequence-25:
           s: 25
           from: "00:03:35,15"
@@ -153,22 +153,22 @@ it:
           s: 30
           from: "00:04:22,04"
           to: "00:04:33,25"
-          text: "fecero una caccia all'uomo, attaccandoci con tutte le forze dei calmucchi, quei seguaci di Vlasov dei reparti della RONA."
+          text: "avevano fatto una caccia all'uomo, attaccandoci con tutte le forze dei calmucchi, quei seguaci di Vlasov dei reparti della RONA."
         sequence-31:
           s: 31
           from: "00:04:33,25"
           to: "00:04:46,03"
-          text: ~
+          text: "Sapete, quelle unità sovietiche diventate prigioniere dei tedeschi e poi passate al servizio dell'esercito tedesco."
         sequence-32:
           s: 32
           from: "00:04:46,03"
           to: "00:04:53,18"
-          text: ~
+          text: "I tedeschi li usavano per eliminare i partigiani, nella Rivolta di Varsavia,"
         sequence-33:
           s: 33
           from: "00:04:53,18"
           to: "00:05:01,04"
-          text: ~
+          text: "e queste persone mostravano un'estrema crudeltà. Erano dei selvaggi semplicemente."
         sequence-34:
           s: 34
           from: "00:05:01,04"
@@ -178,14 +178,14 @@ it:
           s: 35
           from: "00:05:03,04"
           to: "00:05:12,29"
-          text: ~
+          text: "Attaccarono il villaggio di Stefanów, dove era di stanza il 25° Reggimento,"
         sequence-36:
           s: 36
           from: "00:05:12,29"
           to: "00:05:24,15"
-          text: ~
+          text: "lì vicino c'era il villaggio di Gałki, dove si trovava il 72° Reggimento, con circa 500 uomini."
         sequence-37:
           s: 37
           from: "00:05:24,15"
           to: "00:05:32,08"
-          text: ~
+          text: "Quindi quei due reggimenti dovevano andare avanti tutto il giorno a combattere contro i tedeschi, ma lì persero la vita forse 11 partigiani."
