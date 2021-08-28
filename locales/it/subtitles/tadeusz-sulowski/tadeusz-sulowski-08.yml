@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:48,22"
           to: "00:03:02,11"
-          text: ~
+          text: "Però la stessa notte il \"Lancia\" diede l'ordine di sellare i cavalli, di caricare i carri, e partì, Dio sa dove."
         sequence-20:
           s: 20
           from: "00:03:02,11"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:03:03,13"
           to: "00:03:06,12"
-          text: ~
+          text: "Di fatto, presero la paga e scapparono."
         sequence-22:
           s: 22
           from: "00:03:06,12"
