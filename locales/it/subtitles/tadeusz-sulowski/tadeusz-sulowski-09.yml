@@ -2,13 +2,13 @@ it:
   tadeusz-sulowski:
     chapter-9:
       c: 9
-      title: ~
+      title: "La vita da partigiano"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:07,01"
           to: "00:00:12,01"
-          text: "Dopo aver lasciato Stefanów ci siamo trasferiti nelle foreste di Białaczow,"
+          text: "Dopo aver lasciato Stefanów ci spostammo nelle foreste di Białaczow,"
         sequence-2:
           s: 2
           from: "00:00:12,01"
@@ -93,42 +93,42 @@ it:
           s: 18
           from: "00:02:26,24"
           to: "00:02:38,09"
-          text: ~
+          text: "Due giorni dopo, cadendo da un carro, esplosero alcune mine."
         sequence-19:
           s: 19
           from: "00:02:38,09"
           to: "00:02:57,10"
-          text: ~
+          text: "Il carro che c'era dietro passò sopra queste mine ed esse esplosero. ALtri due uomini rimasero feriti. La gente si infuriò."
         sequence-20:
           s: 20
           from: "00:02:57,10"
           to: "00:03:01,16"
-          text: ~
+          text: "Nelle vicinanze era di stanza l'unità \"Szary’. Non volevano tornare al 25° reggimento."
         sequence-21:
           s: 21
           from: "00:03:01,16"
           to: "00:03:20,21"
-          text: ~
+          text: "Ogni plotone aveva i propri rappresentanti e questi chiedevano al comando di accettare la loro adesione all'unità 'Szary'."
         sequence-22:
           s: 22
           from: "00:03:20,21"
           to: "00:03:24,23"
-          text: ~
+          text: "Chiaramente, se \"Szary\" è d'accordo."
         sequence-23:
           s: 23
           from: "00:03:24,23"
           to: "00:03:32,01"
-          text: ~
+          text: "Così mandammo a \"Szary\" un messaggero e \"Szary\" disse di sì."
         sequence-24:
           s: 24
           from: "00:03:32,01"
           to: "00:03:35,05"
-          text: ~
+          text: "Ci accettò nella sua unità."
         sequence-25:
           s: 25
           from: "00:03:35,05"
           to: "00:03:45,07"
-          text: ~
+          text: "E fu così che io diventai un soldato del 3° reggimento delle legioni polacche al comando di \"Szary\"."
         sequence-26:
           s: 26
           from: "00:03:45,07"
@@ -138,29 +138,29 @@ it:
           s: 27
           from: "00:03:53,17"
           to: "00:03:57,20"
-          text: ~
+          text: "Ci rimasi poco,"
         sequence-28:
           s: 28
           from: "00:03:57,20"
           to: "00:04:06,15"
-          text: ~
+          text: "perché il fronte russo si stava avvicinando, erano ormai in corrispondenza del Vistola."
         sequence-29:
           s: 29
           from: "00:04:06,15"
           to: "00:04:30,28"
-          text: ~
+          text: "I tedeschi volevano sbarazzarsi dei partigiani e mandarono i calmucchi nella nostra foresta."
         sequence-30:
           s: 30
           from: "00:04:30,28"
           to: "00:04:42,11"
-          text: ~
+          text: "Il 5 novembre ci fermammo nel villaggio di Boków,"
         sequence-31:
           s: 31
           from: "00:04:42,11"
           to: "00:04:52,03"
-          text: ~
+          text: "e il 4 di novembre il 25° Reggimento combattè in questo villaggio."
         sequence-32:
           s: 32
           from: "00:04:52,03"
           to: "00:04:56,12"
-          text: ~
+          text: "Molti uomini morirono sia da parte nostra che dei tedeschi."
