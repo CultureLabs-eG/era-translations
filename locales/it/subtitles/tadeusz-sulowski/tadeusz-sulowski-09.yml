@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:38,09"
           to: "00:02:57,10"
-          text: "Il carro che c'era dietro passò sopra queste mine ed esse esplosero. ALtri due uomini rimasero feriti. La gente si infuriò."
+          text: "Il carro che c'era dietro passò sopra queste mine ed esse esplosero. Altri due uomini rimasero feriti. La gente era infuriata."
         sequence-20:
           s: 20
           from: "00:02:57,10"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:03:20,21"
           to: "00:03:24,23"
-          text: "Chiaramente, se \"Szary\" è d'accordo."
+          text: "Chiaramente, se \"Szary\" fosse d'accordo."
         sequence-23:
           s: 23
           from: "00:03:24,23"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:03:35,05"
           to: "00:03:45,07"
-          text: "E fu così che io diventai un soldato del 3° reggimento delle legioni polacche al comando di \"Szary\"."
+          text: "E fu così che io diventai un soldato del 3° reggimento delle Legioni Polacche al comando di \"Szary\"."
         sequence-26:
           s: 26
           from: "00:03:45,07"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:04:06,15"
           to: "00:04:30,28"
-          text: "I tedeschi volevano sbarazzarsi dei partigiani e mandarono i calmucchi nella nostra foresta."
+          text: "I tedeschi volevano sbarazzarsi dei partigiani e mandarono nella nostra foresta i calmucchi."
         sequence-30:
           s: 30
           from: "00:04:30,28"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:04:42,11"
           to: "00:04:52,03"
-          text: "e il 4 di novembre il 25° Reggimento combattè in questo villaggio."
+          text: "mentre il 4 di novembre il 25° Reggimento combattè in questo villaggio."
         sequence-32:
           s: 32
           from: "00:04:52,03"
