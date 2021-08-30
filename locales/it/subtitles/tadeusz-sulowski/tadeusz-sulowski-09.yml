@@ -8,72 +8,72 @@ it:
           s: 1
           from: "00:00:07,01"
           to: "00:00:12,01"
-          text: ~
+          text: "Dopo aver lasciato Stefanów ci siamo trasferiti nelle foreste di Białaczow,"
         sequence-2:
           s: 2
           from: "00:00:12,01"
           to: "00:00:27,05"
-          text: ~
+          text: "e il tenente \"Osuch\" venne da me dicendo che stavano radunando i soldati"
         sequence-3:
           s: 3
           from: "00:00:27,05"
           to: "00:00:39,16"
-          text: ~
+          text: "sopravvissuti alla Rivolta di Varsavia, che si stavano unendo ai vari gruppi partigiani vicino nella foresta."
         sequence-4:
           s: 4
           from: "00:00:39,16"
           to: "00:00:52,17"
-          text: ~
+          text: "MI chiese se volessi far parte di un gruppo così."
         sequence-5:
           s: 5
           from: "00:00:52,17"
           to: "00:00:54,25"
-          text: ~
+          text: "Naturalmente dissi di sì."
         sequence-6:
           s: 6
           from: "00:00:54,25"
           to: "00:01:01,09"
-          text: ~
+          text: "Quindi mi ci portò, c'erano dieci uomini in questo gruppo."
         sequence-7:
           s: 7
           from: "00:01:01,09"
           to: "00:01:06,13"
-          text: ~
+          text: "Lungo la strada scoprimmo chi si trovava dove."
         sequence-8:
           s: 8
           from: "00:01:06,13"
           to: "00:01:16,07"
-          text: ~
+          text: "Nel villaggio di Bieliny avevamo questo messaggero, chiamato \"Malina\", che sapeva tutto quello che stava succedento intorno."
         sequence-9:
           s: 9
           from: "00:01:16,07"
           to: "00:01:25,04"
-          text: ~
+          text: "\"Malina\" ci disse che c'era un gruppo numeroso che ne cercava uno ancora più grande."
         sequence-10:
           s: 10
           from: "00:01:25,04"
           to: "00:01:33,26"
-          text: ~
+          text: "C'erano circa 150 persone sotto il comando del tenente \"Lech\", Stanisław Degórski."
         sequence-11:
           s: 11
           from: "00:01:33,26"
           to: "00:01:37,15"
-          text: ~
+          text: "Era un'unità proveniente dalla regione di Lublino. Come finirono lì?"
         sequence-12:
           s: 12
           from: "00:01:37,15"
           to: "00:01:42,11"
-          text: ~
+          text: "Probabilmente, per prima cosa, giunsero a Kampinos, e poi, dopo la sconfitta del gruppo di Kampinos vicino a Jaktorow,"
         sequence-13:
           s: 13
           from: "00:01:42,11"
           to: "00:01:46,22"
-          text: ~
+          text: "arrivarono nella nostra foresta."
         sequence-14:
           s: 14
           from: "00:01:46,22"
           to: "00:01:52,13"
-          text: ~
+          text: "Stabilirono con noi un contatto."
         sequence-15:
           s: 15
           from: "00:01:52,13"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:56,29"
           to: "00:02:04,04"
-          text: ~
+          text: "Con questa unità combattemmo a Zdzary, vicino a Drzewica."
         sequence-17:
           s: 17
           from: "00:02:04,04"
           to: "00:02:26,24"
-          text: ~
+          text: "Lì persero la vita due persone. Ci attaccarono i calmucchi."
         sequence-18:
           s: 18
           from: "00:02:26,24"
