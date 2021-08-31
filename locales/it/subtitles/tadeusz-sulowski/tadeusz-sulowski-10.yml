@@ -93,37 +93,37 @@ it:
           s: 18
           from: "00:02:05,04"
           to: "00:02:12,26"
-          text: ~
+          text: "Io dissi: \"Niente, rimaniamo qui, non ci arrenderemo facilmente. Tanto è la fine...\""
         sequence-19:
           s: 19
           from: "00:02:12,26"
           to: "00:02:22,17"
-          text: ~
+          text: "Però l'essere umano vuole sempre, fino all'ultimo, salvarsi. C'erano questi cespugli terribilmente fitti."
         sequence-20:
           s: 20
           from: "00:02:22,17"
           to: "00:02:28,07"
-          text: ~
+          text: "Non c'era modo di passarci."
         sequence-21:
           s: 21
           from: "00:02:28,07"
           to: "00:02:34,28"
-          text: ~
+          text: "Ma in qualche maniera riuscimmo a farci strada tra quei cespugli aiutandoci con i fucili."
         sequence-22:
           s: 22
           from: "00:02:34,28"
           to: "00:02:41,01"
-          text: ~
+          text: "Uno doveva sollevare con l'arma quelle mostruose, spesse, aguzze spine, mentre l'altro doveva strisciare sotto per passare."
         sequence-23:
           s: 23
           from: "00:02:41,01"
           to: "00:02:51,23"
-          text: ~
+          text: "Così entrammo in quei cespugli e pensavamo che nessuno ci avrebbe trovato lì."
         sequence-24:
           s: 24
           from: "00:02:51,23"
           to: "00:03:00,12"
-          text: ~
+          text: "Una volta entrati, dopo aver superato la parte peggiore, lì dentro si era creata una specie di piazzola, larga due volte questa stanza."
         sequence-25:
           s: 25
           from: "00:03:00,12"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:03:01,03"
           to: "00:03:07,16"
-          text: ~
+          text: "Ci cacciarono tutti da quei cespugli e ci fecero prigionieri."
         sequence-27:
           s: 27
           from: "00:03:07,16"
