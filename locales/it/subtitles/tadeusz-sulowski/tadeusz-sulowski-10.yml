@@ -38,32 +38,32 @@ it:
           s: 7
           from: "00:00:39,19"
           to: "00:00:48,18"
-          text: ~
+          text: "Questo mi provocò delle ferite e del liquido che ne usciva, avevo un'infezione, la febbre alta e non potevo camminare."
         sequence-8:
           s: 8
           from: "00:00:48,18"
           to: "00:00:57,26"
-          text: ~
+          text: "Il comandante tirò fuori delle mappe e cercò di capire come uscire da lì."
         sequence-9:
           s: 9
           from: "00:00:57,26"
           to: "00:01:04,27"
-          text: ~
+          text: "Dispiegò quelle mappe intorno e io vedevo come era tranquillo."
         sequence-10:
           s: 10
           from: "00:01:04,27"
           to: "00:01:10,02"
-          text: ~
+          text: "Le cannonate intorno erano così forti, che era chiaro che tra poco avremmo dovuto combattere."
         sequence-11:
           s: 11
           from: "00:01:10,02"
           to: "00:01:15,27"
-          text: ~
+          text: "Ma lui era lì sdraiato sulla sua coperta, tutto tranquillo, che guardava le mappe."
         sequence-12:
           s: 12
           from: "00:01:15,27"
           to: "00:01:23,00"
-          text: ~
+          text: "Probabilmente stava cercando di capire come farci uscire da quella trappola nel migliore dei modi."
         sequence-13:
           s: 13
           from: "00:01:23,00"
@@ -73,22 +73,22 @@ it:
           s: 14
           from: "00:01:25,02"
           to: "00:01:28,03"
-          text: ~
+          text: "Avevamo questo sottoufficiale a cavallo."
         sequence-15:
           s: 15
           from: "00:01:28,03"
           to: "00:01:44,28"
-          text: ~
+          text: "Gli chiedemmo di di fare un giro a destra e a sinistra nella foresta per trovare la miglior via d'uscita."
         sequence-16:
           s: 16
           from: "00:01:44,28"
           to: "00:01:58,22"
-          text: ~
+          text: "Provò alcune volte in varie direzioni ma ogni volta tornava dicendo che eravamo circondati e non avevamo nessuna via di scampo."
         sequence-17:
           s: 17
           from: "00:01:58,22"
           to: "00:02:05,04"
-          text: ~
+          text: "A un certo punto qualcuno disse: \"Ragazzi, pensiamoci, dobbiamo fare qualcosa. Cosa facciamo?\""
         sequence-18:
           s: 18
           from: "00:02:05,04"
