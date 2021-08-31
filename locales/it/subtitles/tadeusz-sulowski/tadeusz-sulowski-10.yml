@@ -138,37 +138,37 @@ it:
           s: 27
           from: "00:03:07,16"
           to: "00:03:13,16"
-          text: ~
+          text: "Io uscivo per ultimo."
         sequence-28:
           s: 28
           from: "00:03:13,16"
           to: "00:03:22,19"
-          text: ~
+          text: "Cosa avrebbero detto le mie sorelle? Mia madre? Io, fatto prigioniero!"
         sequence-29:
           s: 29
           from: "00:03:22,19"
           to: "00:03:35,26"
-          text: ~
+          text: "Uscì e vidi in un mucchio fatto con le nostre armi, perché quelli di Vlasov ci dissero di lasciarle lì."
         sequence-30:
           s: 30
           from: "00:03:35,26"
           to: "00:03:45,06"
-          text: ~
+          text: "Le nostre armi ammucchiate così, i miei amici in una fila,"
         sequence-31:
           s: 31
           from: "00:03:45,06"
           to: "00:03:48,12"
-          text: ~
+          text: "e i soldati di Vlasov che gli legano le mani dietro la schiena."
         sequence-32:
           s: 32
           from: "00:03:48,12"
           to: "00:03:57,04"
-          text: ~
+          text: "Quando l'ho vidi, nascosi la testa e indietreggiai nascondendomi sotto questo boschetto di ginepri o qualcosa del genere,"
         sequence-33:
           s: 33
           from: "00:03:57,04"
           to: "00:04:05,19"
-          text: ~
+          text: "una pianta bassa."
         sequence-34:
           s: 34
           from: "00:04:05,19"
