@@ -128,9 +128,9 @@ it:
           s: 25
           from: "00:01:37,25"
           to: "00:01:41,12"
-          text: "per non perdere il tocco, bisogna sparare,"
+          text: "per fare pratica, bisogna sparare,"
         sequence-26:
           s: 26
           from: "00:01:41,12"
           to: "00:01:45,15"
-          text: "e non prendersela con il letto!\""
+          text: "e lasciar stare il letto!\""
