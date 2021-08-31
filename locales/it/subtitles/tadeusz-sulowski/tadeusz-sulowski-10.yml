@@ -8,22 +8,22 @@ it:
           s: 1
           from: "00:00:02,08"
           to: "00:00:06,13"
-          text: ~
+          text: "Lì ci attaccarono."
         sequence-2:
           s: 2
           from: "00:00:06,13"
           to: "00:00:12,20"
-          text: ~
+          text: "Ero molto malato in quei giorni. Avevo marciato molto a lungo"
         sequence-3:
           s: 3
           from: "00:00:12,20"
           to: "00:00:15,22"
-          text: ~
+          text: "e avevo delle escoriazioni sulla gamba."
         sequence-4:
           s: 4
           from: "00:00:15,22"
           to: "00:00:25,24"
-          text: ~
+          text: "Portavamo degli scarponi alti e le gambe lì dentro venivano divorate dai pidocchi."
         sequence-5:
           s: 5
           from: "00:00:25,24"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:26,00"
           to: "00:00:39,19"
-          text: ~
+          text: "Quando si potevano togliere gli scarponi, ce li toglievamo e ci grattavamo quelle povere gambe morsicate dai pidocchi."
         sequence-7:
           s: 7
           from: "00:00:39,19"
