@@ -173,27 +173,27 @@ it:
           s: 34
           from: "00:04:05,19"
           to: "00:04:08,12"
-          text: ~
+          text: "Tenevo tra le gambe quel mio sten senza il caricatore,"
         sequence-35:
           s: 35
           from: "00:04:08,12"
           to: "00:04:17,17"
-          text: ~
+          text: "mi appoggiai sui gomiti e aspettai che le cose si calmassero."
         sequence-36:
           s: 36
           from: "00:04:17,17"
           to: "00:04:24,24"
-          text: ~
+          text: "Gli uomini di Vlasov legarono i miei amici e si sentivano le loro urla."
         sequence-37:
           s: 37
           from: "00:04:24,24"
           to: "00:04:35,08"
-          text: ~
+          text: "Perché mentre procedevano, per farsi coraggio, gridavano: \"Urrà! Urrà\". E inoltre erano tutti terribilmente ubriachi."
         sequence-38:
           s: 38
           from: "00:04:35,08"
           to: "00:04:47,14"
-          text: ~
+          text: "Quando qualcuno di loro moriva, controllavamo che armi avesse e loro avevano sempre le borracce piene di alcolici."
         sequence-39:
           s: 39
           from: "00:04:47,14"
@@ -203,52 +203,52 @@ it:
           s: 40
           from: "00:04:49,26"
           to: "00:04:58,13"
-          text: ~
+          text: "Quindi li sentivo allontanarsi e ormai era notte."
         sequence-41:
           s: 41
           from: "00:04:58,13"
           to: "00:05:03,09"
-          text: ~
+          text: "All'improvviso qualcunò iniziò a fischiettare \"Jeszcze Polska nie zginęła\" [l'inno polacco]."
         sequence-42:
           s: 42
           from: "00:05:03,09"
           to: "00:05:08,05"
-          text: ~
+          text: "Dopo un po' gli risposi fischiettando a mia volta."
         sequence-43:
           s: 43
           from: "00:05:08,05"
           to: "00:05:14,08"
-          text: ~
+          text: "Allora mi chiese: \"Qunati siete?\". E io risposi: \"Sono solo\"."
         sequence-44:
           s: 44
           from: "00:05:14,08"
           to: "00:05:18,21"
-          text: ~
+          text: "\"Noi siamo in quattro.\""
         sequence-45:
           s: 45
           from: "00:05:18,21"
           to: "00:05:25,16"
-          text: ~
+          text: "Quindi c'erano altri quattro ragazzi furbi come me, che si nascondevano nei boschetti."
         sequence-46:
           s: 46
           from: "00:05:25,16"
           to: "00:05:32,26"
-          text: ~
+          text: "Qualcuno aveva dei fiammiferi, quindi li accendevamo per vedere si ci conoscessimo o meno."
         sequence-47:
           s: 47
           from: "00:05:32,26"
           to: "00:05:35,21"
-          text: ~
+          text: "C'erano circa 500 persone nell'unità \"Szary\"."
         sequence-48:
           s: 48
           from: "00:05:35,21"
           to: "00:05:41,22"
-          text: ~
+          text: "Era difficile che ci conoscessimo tutti."
         sequence-49:
           s: 49
           from: "00:05:41,22"
           to: "00:05:48,19"
-          text: ~
+          text: "Erano soprattutto i ragazzi dalla regione di Vilnius."
         sequence-50:
           s: 50
           from: "00:05:48,19"
