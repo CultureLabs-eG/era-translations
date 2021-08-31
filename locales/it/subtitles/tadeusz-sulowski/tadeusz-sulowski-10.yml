@@ -2,7 +2,7 @@ it:
   tadeusz-sulowski:
     chapter-10:
       c: 10
-      title: ~
+      title: "Circondati dai soldati tedeschi; la fuga"
       subtitles:
         sequence-1:
           s: 1
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:12,20"
           to: "00:00:15,22"
-          text: "e avevo delle escoriazioni sulla gamba."
+          text: "e avevo delle escoriazioni s una gamba."
         sequence-4:
           s: 4
           from: "00:00:15,22"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:39,19"
           to: "00:00:48,18"
-          text: "Questo mi provocò delle ferite e del liquido che ne usciva, avevo un'infezione, la febbre alta e non potevo camminare."
+          text: "Questo mi provocò delle ferite e del liquido che ne fuoriusciva, avevo un'infezione, la febbre alta e non potevo camminare."
         sequence-8:
           s: 8
           from: "00:00:48,18"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:03:01,03"
           to: "00:03:07,16"
-          text: "Ci cacciarono tutti da quei cespugli e ci fecero prigionieri."
+          text: "Ci cacciarono tutti quanti da quei cespugli e ci fecero prigionieri."
         sequence-27:
           s: 27
           from: "00:03:07,16"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:03:22,19"
           to: "00:03:35,26"
-          text: "Uscì e vidi in un mucchio fatto con le nostre armi, perché quelli di Vlasov ci dissero di lasciarle lì."
+          text: "Uscì e vidi un mucchio fatto con le nostre armi, perché gli uomini di Vlasov ci dissero di lasciarle lì."
         sequence-30:
           s: 30
           from: "00:03:35,26"
@@ -158,12 +158,12 @@ it:
           s: 31
           from: "00:03:45,06"
           to: "00:03:48,12"
-          text: "e i soldati di Vlasov che gli legano le mani dietro la schiena."
+          text: "e quelli di Vlasov che gli legano le mani dietro la schiena."
         sequence-32:
           s: 32
           from: "00:03:48,12"
           to: "00:03:57,04"
-          text: "Quando l'ho vidi, nascosi la testa e indietreggiai nascondendomi sotto questo boschetto di ginepri o qualcosa del genere,"
+          text: "Quando lo vidi, nascosi la testa e indietreggiai nascondendomi sotto questo boschetto di ginepri o qualcosa del genere,"
         sequence-33:
           s: 33
           from: "00:03:57,04"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:04:05,19"
           to: "00:04:08,12"
-          text: "Tenevo tra le gambe quel mio sten senza il caricatore,"
+          text: "Tenendo tra le gambe quel mio sten senza il caricatore,"
         sequence-35:
           s: 35
           from: "00:04:08,12"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:04:17,17"
           to: "00:04:24,24"
-          text: "Gli uomini di Vlasov legarono i miei amici e si sentivano le loro urla."
+          text: "Gli uomini di Vlasov legarono i miei amici e si sentivano le loro esclamazioni."
         sequence-37:
           s: 37
           from: "00:04:24,24"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:04:49,26"
           to: "00:04:58,13"
-          text: "Quindi li sentivo allontanarsi e ormai era notte."
+          text: "Quindi li sentivo allontanarsi, ormai era notte."
         sequence-41:
           s: 41
           from: "00:04:58,13"
@@ -253,22 +253,22 @@ it:
           s: 50
           from: "00:05:48,19"
           to: "00:05:59,12"
-          text: ~
+          text: "Perché erano di stanza a Kampinos, e il gruppo \"Dolina\", insieme ai ragazzi di Vilnius e Navahrudak, si era unito al gruppo di Kampinos."
         sequence-51:
           s: 51
           from: "00:05:59,12"
           to: "00:06:06,21"
-          text: ~
+          text: "Erano in molti e si erano uniti a noi. Per questo c'erano così tanti ragazzi dalla regione di Vilnius."
         sequence-52:
           s: 52
           from: "00:06:06,21"
           to: "00:06:13,21"
-          text: ~
+          text: "Gli chiesi in seguito dove avrebbero voluto andare dopo, cosa avrebbero voluto fare,"
         sequence-53:
           s: 53
           from: "00:06:13,21"
           to: "00:06:16,17"
-          text: ~
+          text: "e loro risposero: \"Torniamo a Vilnius\"."
         sequence-54:
           s: 54
           from: "00:06:16,17"
@@ -278,4 +278,4 @@ it:
           s: 55
           from: "00:06:19,28"
           to: "00:06:25,01"
-          text: ~
+          text: "Io li salutai e continuai la mia marcia."
