@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:12,20"
           to: "00:00:15,22"
-          text: "e avevo delle escoriazioni s una gamba."
+          text: "e avevo delle escoriazioni su una gamba."
         sequence-4:
           s: 4
           from: "00:00:15,22"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:28,03"
           to: "00:01:44,28"
-          text: "Gli chiedemmo di di fare un giro a destra e a sinistra nella foresta per trovare la miglior via d'uscita."
+          text: "Gli chiedemmo di fare un giro a destra e a sinistra nella foresta per trovare la miglior via d'uscita."
         sequence-16:
           s: 16
           from: "00:01:44,28"
