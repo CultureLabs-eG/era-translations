@@ -78,9 +78,7 @@ it:
           s: 15
           from: "00:01:44,16"
           to: "00:01:53,05"
-          text: |-
-              E lui risponde: "Ormai sarà lo stesso, non appena la mordi, muori." 
-              Era cianuro.
+          text: "E lui risponde: \"Ormai sarà lo stesso, non appena la mordi, muori.\" Era cianuro."
         sequence-16:
           s: 16
           from: "00:01:53,05"
@@ -140,9 +138,7 @@ it:
           s: 27
           from: "00:03:24,17"
           to: "00:03:33,17"
-          text: |-
-              Funzionò bene.
-              Ma pootevamo scoprirlo solo il giono dopo.
+          text: "Funzionò bene. Ma potevamo scoprirlo solo il giorno dopo."
         sequence-28:
           s: 28
           from: "00:03:33,17"

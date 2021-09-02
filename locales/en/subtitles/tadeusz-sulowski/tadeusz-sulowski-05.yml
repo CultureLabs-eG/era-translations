@@ -35,9 +35,7 @@ en:
           s: 6
           from: "00:00:31,18"
           to: "00:00:43,18"
-          text: |-
-              And when time comes and the weather is dark enough, then we’ll do a
-              job under the Poniatowski bridge.’
+          text: "And when time comes and the weather is dark enough, then we’ll do a job under the Poniatowski bridge.’"
         sequence-7:
           s: 7
           from: "00:00:43,18"
@@ -82,9 +80,7 @@ en:
           s: 15
           from: "00:01:44,16"
           to: "00:01:53,05"
-          text: |-
-              And he: ‘It won’t matter to you anyway, as soon as you bite it you die.’ 
-              It was cyanide.
+          text: "And he: ‘It won’t matter to you anyway, as soon as you bite it you die.’ It was cyanide."
         sequence-16:
           s: 16
           from: "00:01:53,05"
@@ -144,9 +140,7 @@ en:
           s: 27
           from: "00:03:24,17"
           to: "00:03:33,17"
-          text: |-
-              It worked out fine. 
-              We were able to see if we had succeeded only the following day.
+          text: "It worked out fine. We were able to see if we had succeeded only the following day."
         sequence-28:
           s: 28
           from: "00:03:33,17"
