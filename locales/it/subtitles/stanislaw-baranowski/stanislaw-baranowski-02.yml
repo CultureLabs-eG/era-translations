@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:03:52,29"
           to: "00:04:07,29"
-          text: "Aiutavamo a trovargli del cibo, vestiti, e iniziammo a organizzare le fughe dei nostri ufficiali da quel ospedale."
+          text: "Aiutavamo a trovargli del cibo, vestiti, e iniziammo a organizzare le fughe dei nostri ufficiali da quell'ospedale."
         sequence-35:
           s: 35
           from: "00:04:07,29"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:04:15,23"
           to: "00:04:18,13"
-          text: "Così dobbiamo chiamare quegli ufficiali - prigionieri di guerra."
+          text: "Così dobbiamo chiamare quegli ufficiali – prigionieri di guerra."
         sequence-37:
           s: 37
           from: "00:04:18,13"
@@ -193,7 +193,7 @@ it:
           s: 38
           from: "00:04:31,09"
           to: "00:04:39,16"
-          text: "per cui conoscevo quel parco, che oggi si chiama parco Agrykola, come le mie tasche."
+          text: "per cui conoscevo quel parco che oggi si chiama parco Agrykola, come le mie tasche.,"
         sequence-39:
           s: 39
           from: "00:04:39,16"
@@ -218,7 +218,7 @@ it:
           s: 43
           from: "00:05:05,03"
           to: "00:05:14,24"
-          text: "Ma dopo la prima fuga che abbiamo aiutato a organizzare, i tedeschi notarono che mancava qualcuno e da allora c'erano delle forti repressioni."
+          text: "Ma dopo la prima fuga che aiutammo a organizzare, i tedeschi notarono che mancava qualcuno e da allora c'erano delle forti repressioni."
         sequence-44:
           s: 44
           from: "00:05:14,24"
@@ -238,7 +238,7 @@ it:
           s: 47
           from: "00:05:46,29"
           to: "00:06:04,17"
-          text: "Allo stesso tempo c'era questo ospedale, in cui dovevano fare dei lavori, e mio padre riuscì a procurarsi un impiego: doveva consegnare i materiali edili."
+          text: "C'era questo ospedale, in cui dovevano fare dei lavori, e mio padre riuscì a procurarsi un impiego: doveva consegnare i materiali edili."
         sequence-48:
           s: 48
           from: "00:06:04,17"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:06:32,18"
           to: "00:06:43,14"
-          text: "Quelli che dovevano scappare avevano solo un numero, non avevano fotografie, non erano stati catalagati bene."
+          text: "Quelli che dovevano scappare avevano solo un numero, non avevano fotografie, non erano stati catalogati bene."
         sequence-53:
           s: 53
           from: "00:06:43,14"

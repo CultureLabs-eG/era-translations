@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,19"
           to: "00:00:05,28"
-          text: "E iniziò l'attività, parliamo di quella parte legata alla beneficienza."
+          text: "E iniziò la nostra attività, parliamo di quella parte legata alla beneficienza."
         sequence-2:
           s: 2
           from: "00:00:05,28"
@@ -228,7 +228,7 @@ it:
           s: 45
           from: "00:04:24,08"
           to: "00:04:34,24"
-          text: "Lei aveva fatto in modo che io potessi accedere con il carro a quel aeroporto, fingendomi un carrettiere."
+          text: "Lei aveva fatto in modo che io potessi accedere con il carro a quell'aeroporto, fingendomi un carrettiere."
         sequence-46:
           s: 46
           from: "00:04:34,24"
@@ -268,7 +268,7 @@ it:
           s: 53
           from: "00:05:09,24"
           to: "00:05:19,20"
-          text: "Si trattava di un gruppo di Kielce - presi anche parte in un'azione nei pressi di Kielce."
+          text: "Si trattava di un gruppo di Kielce – presi anche parte in un'azione nei pressi di Kielce."
         sequence-54:
           s: 54
           from: "00:05:19,20"
