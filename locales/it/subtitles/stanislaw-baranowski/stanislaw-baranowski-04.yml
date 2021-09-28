@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:30,00"
           to: "00:01:34,20"
-          text: "Quindi un tedesco scortava il carro verso il luogo in cui doveva essere scaricato."
+          text: "quindi un tedesco scortava il carro verso il luogo in cui doveva essere scaricato."
         sequence-15:
           s: 15
           from: "00:01:34,20"
@@ -228,7 +228,7 @@ it:
           s: 45
           from: "00:04:20,08"
           to: "00:04:26,13"
-          text: "Si facevano i documenti e a qual punto si poteva portere fuori senza problemi o un ragazzo o..."
+          text: "Si facevano i documenti e a qual punto era possibile portare fuori senza problemi o un ragazzo o..."
         sequence-46:
           s: 46
           from: "00:04:26,13"
@@ -243,12 +243,12 @@ it:
           s: 48
           from: "00:04:40,04"
           to: "00:04:52,26"
-          text: "Tutti i conventi intorno a Varsavia; io conosco dieci o quindici casi, perché in parte ero coinvolto in prima persona."
+          text: "Tutti conventi intorno a Varsavia; io conosco dieci o quindici casi, perché in parte ero coinvolto in prima persona."
         sequence-49:
           s: 49
           from: "00:04:52,26"
           to: "00:04:59,20"
-          text: "Li procuravo i documenti o consegnavo i certificati di nascita, oppure portavo qualcuno al convento."
+          text: "Gli procuravo i documenti o consegnavo i certificati di nascita, oppure portavo qualcuno al convento."
         sequence-50:
           s: 50
           from: "00:04:59,20"
@@ -303,17 +303,17 @@ it:
           s: 60
           from: "00:05:43,22"
           to: "00:05:50,17"
-          text: ~
+          text: "Se qualcuno avesse notato che era stato lui a fare questo certificato e che qualcuno era morto"
         sequence-61:
           s: 61
           from: "00:05:50,17"
           to: "00:05:56,00"
-          text: ~
+          text: "e che poi un altro certificato era stato fatto, perché doveva annullare i certificato di morte..."
         sequence-62:
           s: 62
           from: "00:05:56,00"
           to: "00:06:00,23"
-          text: "Doveva cambiare tutto nei registri per assicararsi che non ci fossero discrepanze."
+          text: "Doveva cambiare tutto nei registri per assicurarsi che non ci fossero discrepanze."
         sequence-63:
           s: 63
           from: "00:06:00,23"
@@ -328,7 +328,7 @@ it:
           s: 65
           from: "00:06:10,17"
           to: "00:06:14,00"
-          text: "Di tutti i pregi e i difetti che una persona può avere."
+          text: "Di tutti i pregi e i difetti che una persona possa avere."
         sequence-66:
           s: 66
           from: "00:06:14,00"
@@ -408,7 +408,7 @@ it:
           s: 81
           from: "00:07:37,24"
           to: "00:07:44,22"
-          text: "Mentre fuori, per strada - solo cadaveri, corpi nudi…"
+          text: "Mentre fuori, per strada – solo cadaveri, corpi nudi…"
         sequence-82:
           s: 82
           from: "00:07:44,22"
@@ -418,12 +418,12 @@ it:
           s: 83
           from: "00:07:50,22"
           to: "00:07:56,09"
-          text: "Perché non ho mai visto che nel ghetto i tedeschi sparassero agli ebrei."
+          text: "Perché nel ghetto non ho mai visto i tedeschi sparare agli ebrei."
         sequence-84:
           s: 84
           from: "00:07:56,09"
           to: "00:08:03,09"
-          text: "Mentre vidi con i propri occhi la polizia ebraica uccidere gli ebrei nel ghetto."
+          text: "Mentre vidi con i propri occhi come la polizia ebraica uccideva gli ebrei."
         sequence-85:
           s: 85
           from: "00:08:03,09"
@@ -438,7 +438,7 @@ it:
           s: 87
           from: "00:08:17,03"
           to: "00:08:20,05"
-          text: "Solo a Majdanek, capì a cosa era dovuto."
+          text: "Solo a Majdanek capì a cosa era dovuto."
         sequence-88:
           s: 88
           from: "00:08:20,05"
