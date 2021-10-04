@@ -313,7 +313,7 @@ it:
           s: 62
           from: "00:04:24,20"
           to: "00:04:30,22"
-          text: "Prima, con quelli carri bestime ci portarono da Varsavia a Lublino,"
+          text: "Prima, con quei carri bestiame ci portarono da Varsavia a Lublino,"
         sequence-63:
           s: 63
           from: "00:04:30,22"
@@ -343,7 +343,7 @@ it:
           s: 68
           from: "00:04:51,07"
           to: "00:04:56,28"
-          text: "Andava bene per chi aveva dei vestiti caldi, ma altri, prionieri di Pawiak"
+          text: "Andava bene per chi aveva dei vestiti caldi, ma altri, prigionieri di Pawiak"
         sequence-69:
           s: 69
           from: "00:04:56,28"
@@ -468,7 +468,7 @@ it:
           s: 93
           from: "00:07:18,03"
           to: "00:07:31,06"
-          text: "Ma il prossimo cadavere - il giorno dopo ce n'erano due - lo svestimmo noi."
+          text: "Ma il prossimo cadavere – il giorno dopo ce n'erano due – lo svestimmo noi."
         sequence-94:
           s: 94
           from: "00:07:31,06"
