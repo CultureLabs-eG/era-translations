@@ -2,7 +2,7 @@ it:
   stanislaw-baranowski:
     chapter-4:
       c: 4
-      title: "Aiuto agli ebrei nel ghetto di Varsavia"
+      title: "Aiutando gli ebrei nel ghetto di Varsavia"
       subtitles:
         sequence-1:
           s: 1
@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:06,04"
           to: "00:00:16,05"
-          text: "otenni dall'Amministrazione Controllata per i beni immobiliari degli ebrei a Varsavia un lasciapassare."
+          text: "ottenni dall'Amministrazione Controllata per i beni immobiliari degli ebrei a Varsavia un lasciapassare."
         sequence-3:
           s: 3
           from: "00:00:16,05"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:02,20"
           to: "00:02:08,16"
-          text: "Lui aveva una grande ditta di cavalli, perché non c'erano le macchine all'epoca."
+          text: "Lui aveva una grande ditta di cavalli, perché non c'erano macchine all'epoca."
         sequence-20:
           s: 20
           from: "00:02:08,16"
@@ -253,7 +253,7 @@ it:
           s: 50
           from: "00:04:59,20"
           to: "00:05:02,22"
-          text: "Ma non è che portavo il bambino direttamente al convento, no."
+          text: "Ma non è che portavo il bambino direttamente in convento, no."
         sequence-51:
           s: 51
           from: "00:05:02,22"
@@ -323,7 +323,7 @@ it:
           s: 64
           from: "00:06:02,00"
           to: "00:06:10,17"
-          text: "C'era bisogno del tempo, dell'organizzazione, dei contatti... e dell'insolenza e della sfacciataggine."
+          text: "C'era bisogno di tempo, dell'organizzazione, dei contatti... e dell'insolenza e della sfacciataggine."
         sequence-65:
           s: 65
           from: "00:06:10,17"

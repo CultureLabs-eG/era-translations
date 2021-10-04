@@ -2,23 +2,23 @@ it:
   stanislaw-baranowski:
     chapter-5:
       c: 5
-      title: "Ospitare Maria - una ragazza ebrea"
+      title: "Ospitando Maria – una ragazza ebrea"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:15,00"
-          text: "La figlia di un avvocato, ebreo, -che si chiamava Holzkener-,"
+          text: "La figlia di un avvocato, ebreo, – che si chiamava Holzkener –,"
         sequence-2:
           s: 2
           from: "00:00:15,00"
           to: "00:00:25,01"
-          text: "sua figlia Maria, l'ho portai fuori dal ghetto, quando venne costruito,"
+          text: "sua figlia Maria, la portai fuori dal ghetto, quando venne costruito,"
         sequence-3:
           s: 3
           from: "00:00:25,01"
           to: "00:00:30,23"
-          text: "quando fu costruito il muro, l'ho portai a casa nostra,"
+          text: "quando fu costruito il muro, la portai a casa nostra,"
         sequence-4:
           s: 4
           from: "00:00:30,23"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:52,04"
           to: "00:01:05,00"
-          text: "era noto a metà delle persone che abitava lì, in via Hołówki."
+          text: "era noto a metà delle persone che abitavano lì, in via Hołówki."
         sequence-10:
           s: 10
           from: "00:01:05,00"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:29,26"
           to: "00:01:36,05"
-          text: "E poi, doveva essere il 1943, a Varsavia i tedeschi annunciarono"
+          text: "E poi – doveva essere il 1943 – a Varsavia i tedeschi annunciarono"
         sequence-16:
           s: 16
           from: "00:01:36,05"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:54,26"
           to: "00:01:58,02"
-          text: "Come scambio per i prigionieri tedeschi."
+          text: "Come scambio con i prigionieri tedeschi."
         sequence-19:
           s: 19
           from: "00:01:58,02"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:02:02,12"
           to: "00:02:10,00"
-          text: "E lei, mia madre disse che tutti la dissuadevano dall'andarci lì, ma lei accettò,"
+          text: "Mia madre disse che tutti la dissuadevano dall'idea di andare lì, ma lei accettò,"
         sequence-21:
           s: 21
           from: "00:02:10,00"
