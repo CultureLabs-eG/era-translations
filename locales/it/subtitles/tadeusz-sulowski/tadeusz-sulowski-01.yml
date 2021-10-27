@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:01:35,22"
           to: "00:02:31,27"
-          text: "Subito dopo l'inizio della guerra comparvero delle motociclette tedesche, che, probabilmente, dovevano verificare se n quella zona ci fossero delle truppe polacche."
+          text: "Subito dopo l'inizio della guerra comparvero delle motociclette tedesche, che, probabilmente, dovevano verificare se in quella zona ci fossero delle truppe polacche."
         sequence-10:
           s: 10
           from: "00:02:31,27"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:02:38,04"
           to: "00:02:58,26"
-          text: "Uno di loro scese, corse in veranda e mi zia si avvicinò per parlargli, perchè sapeva un po' di tedesco e di francese."
+          text: "Uno di loro scese, corse in veranda e mia zia si avvicinò per parlargli, perché sapeva un po' di tedesco e di francese."
         sequence-12:
           s: 12
           from: "00:02:58,26"

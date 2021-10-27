@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:34,13"
           to: "00:01:41,00"
-          text: "c'è questa fiala di vetro…’ – sembrava un'iniezione – ‘… devi morderla.\""
+          text: "c'è questa fiala di vetro…\" – sembrava un'iniezione –  \"… devi morderla.\""
         sequence-14:
           s: 14
           from: "00:01:41,00"
