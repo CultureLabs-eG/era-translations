@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:01:21,26"
           to: "00:01:29,11"
-          text: "Doveva aavicinarsi all'informatore, parlargli, seguirlo per poi sparargli."
+          text: "Doveva avvicinarsi all'informatore, parlargli, seguirlo per poi sparargli."
         sequence-10:
           s: 10
           from: "00:01:29,11"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:02:47,25"
           to: "00:03:05,15"
-          text: "Invece di rispondere allo sparo - si può sparare anche con una mano sola - questo ragazzo si girò e corse via."
+          text: "Invece di rispondere allo sparo – si può sparare anche con una mano sola – questo ragazzo si girò e corse via."
         sequence-23:
           s: 23
           from: "00:03:05,15"
@@ -188,7 +188,7 @@ it:
           s: 37
           from: "00:05:04,06"
           to: "00:05:11,13"
-          text: "Il ragazzo che scappava fermò una carrozza, trainata da cavalli - non c'erano i taxi allora,"
+          text: "Il ragazzo che scappava fermò una carrozza, trainata da cavalli – non c'erano i taxi allora,"
         sequence-38:
           s: 38
           from: "00:05:11,13"

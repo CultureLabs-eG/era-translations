@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:03:45,06"
           to: "00:03:48,12"
-          text: "e quelli di Vlasov che gli legano le mani dietro la schiena."
+          text: "e quelli di Vlasov che gli legavano le mani dietro la schiena."
         sequence-32:
           s: 32
           from: "00:03:48,12"
@@ -193,7 +193,7 @@ it:
           s: 38
           from: "00:04:35,08"
           to: "00:04:47,14"
-          text: "Quando qualcuno di loro moriva, controllavamo che armi avesse e loro avevano sempre le borracce piene di alcolici."
+          text: "Quando qualcuno di loro moriva, controllavamo che armi avesse e loro avevano sempre delle borracce piene di alcolici."
         sequence-39:
           s: 39
           from: "00:04:47,14"
@@ -218,7 +218,7 @@ it:
           s: 43
           from: "00:05:08,05"
           to: "00:05:14,08"
-          text: "Allora mi chiese: \"Qunati siete?\". E io risposi: \"Sono solo\"."
+          text: "Allora mi chiese: \"Quanti siete?\". E io risposi: \"Sono solo\"."
         sequence-44:
           s: 44
           from: "00:05:14,08"
