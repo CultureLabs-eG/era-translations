@@ -73,12 +73,12 @@ it:
           s: 14
           from: "00:01:30,00"
           to: "00:01:34,20"
-          text: "quindi un tedesco scortava il carro verso il luogo in cui doveva essere scaricato."
+          text: "Quindi un tedesco scortava il carro verso il luogo in cui doveva essere scaricato."
         sequence-15:
           s: 15
           from: "00:01:34,20"
           to: "00:01:39,00"
-          text: "Chiaramente in cambio di mazzette. Si potevano corrompere in un modo o nell'altro."
+          text: "Chiaramente in cambio di mazzette. Si lasciavano corrompere in un modo o nell'altro."
         sequence-16:
           s: 16
           from: "00:01:39,00"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:47,14"
           to: "00:01:56,06"
-          text: "Janek M., non voglio dire il suo cognome, consegnava al ghetto legna da ardere."
+          text: "Janek M.– non voglio dire il suo cognome – consegnava al ghetto la legna da ardere."
         sequence-18:
           s: 18
           from: "00:01:56,06"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:02:08,16"
           to: "00:02:13,16"
-          text: "E sotto ogni fornitura di carbone o legna c'era nascosto il cibo."
+          text: "E sotto ogni carico di carbone o legna c'era nascosto il cibo."
         sequence-21:
           s: 21
           from: "00:02:13,16"

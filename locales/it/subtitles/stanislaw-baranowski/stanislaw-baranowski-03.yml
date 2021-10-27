@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,19"
           to: "00:00:05,28"
-          text: "E iniziò la nostra attività, parliamo di quella parte legata alla beneficienza."
+          text: "E iniziò la nostra attività, parliamo di quella parte legata alla beneficenza."
         sequence-2:
           s: 2
           from: "00:00:05,28"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:00,10"
           to: "00:01:16,29"
-          text: "E Mietek - era il 1941 o la fine del 1940 - sparì. Non sapevamo cosa gli fosse successo."
+          text: "E Mietek – era il 1941 o la fine del 1940 – sparì. Non sapevamo cosa gli fosse successo."
         sequence-15:
           s: 15
           from: "00:01:16,29"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:10,03"
           to: "00:02:21,15"
-          text: "non le consegnavo personalmente, ma le distribuivano tra cinque, sei, sette compagni e loro mi aiutavano a consegnarle."
+          text: "non le consegnavo personalmente, ma le distribuivo tra cinque, sei, sette compagni e loro mi aiutavano a consegnarle."
         sequence-24:
           s: 24
           from: "00:02:21,15"
@@ -268,7 +268,7 @@ it:
           s: 53
           from: "00:05:09,24"
           to: "00:05:19,20"
-          text: "Si trattava di un gruppo di Kielce – presi anche parte in un'azione nei pressi di Kielce."
+          text: "Si trattava di un gruppo di Kielce – presi anche parte a un'azione nei pressi di Kielce."
         sequence-54:
           s: 54
           from: "00:05:19,20"
