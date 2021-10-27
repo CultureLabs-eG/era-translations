@@ -2,7 +2,7 @@ it:
   stanislaw-baranowski:
     chapter-2:
       c: 2
-      title: "Aiuto ai soldati, poveri e prigionieri di guerra"
+      title: "Aiutando soldati, poveri e prigionieri di guerra"
       subtitles:
         sequence-1:
           s: 1
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:53,05"
           to: "00:02:57,04"
-          text: "A un certo punto Wanda - così si chiamava-"
+          text: "A un certo punto Wanda – così si chiamava –"
         sequence-30:
           s: 30
           from: "00:02:57,04"

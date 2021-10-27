@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:07,24"
           to: "00:00:13,04"
-          text: "Se non fosse scoppiata la guerra, sarei andato alla scuola di aeronautica e meccanica per diventare un pilota."
+          text: "Se non fosse scoppiata la guerra, sarei andato alla scuola di aeronautica e meccanica per diventare pilota."
         sequence-4:
           s: 4
           from: "00:00:13,04"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:33,00"
           to: "00:00:39,04"
-          text: "Ero, facevo parte del 42° Reparto Scout in via Rózana."
+          text: "Facevo parte del 42° Reparto Scout in via Rózana."
         sequence-10:
           s: 10
           from: "00:00:39,04"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:26,20"
           to: "00:01:34,13"
-          text: "A un certo punto, non mi ricordo come fosse venuto fuori, qualcuno disse"
+          text: "A un certo punto, – non mi ricordo come fosse venuto fuori –, qualcuno disse"
         sequence-19:
           s: 19
           from: "00:01:34,13"
