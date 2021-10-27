@@ -308,7 +308,7 @@ it:
           s: 61
           from: "00:04:20,02"
           to: "00:04:24,20"
-          text: "Ci portarono in un campo, davanti ai bagni."
+          text: "Ci portarono in un campo, di fronte ai bagni."
         sequence-62:
           s: 62
           from: "00:04:24,20"
@@ -473,7 +473,7 @@ it:
           s: 94
           from: "00:07:31,06"
           to: "00:07:34,17"
-          text: "Vede come in una sola notte cambiò la nostra mentalità."
+          text: "Vede, come in una sola notte cambiò la nostra mentalità."
         sequence-95:
           s: 95
           from: "00:07:34,17"

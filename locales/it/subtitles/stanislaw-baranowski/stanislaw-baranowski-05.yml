@@ -118,12 +118,12 @@ it:
           s: 23
           from: "00:02:23,03"
           to: "00:02:30,06"
-          text: "Nessun trasporto era mai diretto in Turchia. Ci volle un po' prima che le altre persone libere,"
+          text: "Nessun trasporto era mai diretto in Turchia. Ci volle un po' prima che le altre persone libere, –"
         sequence-24:
           s: 24
           from: "00:02:30,06"
           to: "00:02:39,20"
-          text: "e a Varsavia c'erano alcune migliaia di ebrei dalla parte ariana,"
+          text: "e a Varsavia c'erano alcune migliaia di ebrei dalla parte ariana,–"
         sequence-25:
           s: 25
           from: "00:02:39,20"
@@ -143,4 +143,4 @@ it:
           s: 28
           from: "00:02:51,06"
           to: "00:02:57,16"
-          text: "E verosimilmente la portarono o a Bełzec o a Treblinka e lì terminò la sua vita."
+          text: "E verosimilmente la portarono o a Bełzec o a Treblinka, e lì terminò la sua vita."
