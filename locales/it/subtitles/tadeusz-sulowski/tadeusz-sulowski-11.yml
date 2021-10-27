@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:00:39,24"
           to: "00:00:44,03"
-          text: "è tranquillo, simpatico, ha buone maniere - niente che salti all'occhio!"
+          text: "è tranquillo, simpatico, ha buone maniere – niente che salti all'occhio!"
         sequence-13:
           s: 13
           from: "00:00:44,03"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:10,04"
           to: "00:01:14,21"
-          text: "C'era una volta un cospiratore - non importa il cognome-,"
+          text: "C'era una volta un cospiratore – non importa il cognome –,"
         sequence-20:
           s: 20
           from: "00:01:14,21"
