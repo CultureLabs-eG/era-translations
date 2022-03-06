@@ -1,0 +1,141 @@
+en:
+  camillo-marmiroli:
+    chapter-1:
+      c: 1
+      title: Presentation
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:00,01"
+          to: "00:00:02,24"
+          text: "My name is Camillo Marmiroli,"
+        sequence-2:
+          s: 2
+          from: "00:00:03,00"
+          to: "00:00:08,18"
+          text: "I was born on January 23rd, 1920 in Reggio Emilia."
+        sequence-3:
+          s: 3
+          from: "00:00:08,19"
+          to: "00:00:15,07"
+          text: "My father was a poor worker who already had eight children."
+        sequence-4:
+          s: 4
+          from: "00:00:15,08"
+          to: "00:00:20,11"
+          text: "I have lived a somewhat hard life, I went to elementary school"
+        sequence-5:
+          s: 5
+          from: "00:00:20,12"
+          to: "00:00:24,11"
+          text: "and then started working immediately."
+        sequence-6:
+          s: 6
+          from: "00:00:24,12"
+          to: "00:00:28,10"
+          text: "My life started troublesome, but I'm still here and I'm happy."
+        sequence-7:
+          s: 7
+          from: "00:00:28,20"
+          to: "00:00:31,17"
+          text: "My father was an old Socialist,"
+        sequence-8:
+          s: 8
+          from: "00:00:31,18"
+          to: "00:00:36,23"
+          text: "the gave me this name, Camillo, beause of Camillo Prampolini,"
+        sequence-9:
+          s: 9
+          from: "00:00:36,24"
+          to: "00:00:46,00"
+          text: "the “father” of all the poor illiterate peasants."
+        sequence-10:
+          s: 10
+          from: "00:00:46,24"
+          to: "00:00:50,16"
+          text: "I was an apprentice upholsterer,"
+        sequence-11:
+          s: 11
+          from: "00:00:50,17"
+          to: "00:00:55,00"
+          text: "an artisan, I was making sofas, armchairs and matrasses."
+        sequence-12:
+          s: 12
+          from: "00:00:55,12"
+          to: "00:00:59,18"
+          text: "Fascists? I rather remember them as assholes more than as fascists."
+        sequence-13:
+          s: 13
+          from: "00:00:59,19"
+          to: "00:01:03,21"
+          text: "As a young guy, I was a member of the Young Fascists"
+        sequence-14:
+          s: 14
+          from: "00:01:03,22"
+          to: "00:01:06,23"
+          text: "and my friend, a foreman, asked me:"
+        sequence-15:
+          s: 15
+          from: "00:01:06,24"
+          to: "00:01:09,22"
+          text: "“Why didn't you come to the demonstration?”"
+        sequence-16:
+          s: 16
+          from: "00:01:09,23"
+          to: "00:01:15,21"
+          text: "Since we were old friends, I told him I had stayed in bed, since I was better off there."
+        sequence-17:
+          s: 17
+          from: "00:01:15,22"
+          to: "00:01:19,14"
+          text: "That stupid guy went to report me to the fascists"
+        sequence-18:
+          s: 18
+          from: "00:01:19,15"
+          to: "00:01:24,13"
+          text: "and they gave me castor oil and beat me up in 1939."
+        sequence-19:
+          s: 19
+          from: "00:01:26,10"
+          to: "00:01:29,16"
+          text: "I went to the Army, I stayed away five years"
+        sequence-20:
+          s: 20
+          from: "00:01:29,17"
+          to: "00:01:34,01"
+          text: "without talking to him, then a common friend came up to me and said"
+        sequence-21:
+          s: 21
+          from: "00:01:34,02"
+          to: "00:01:38,16"
+          text: "“Look, that guy … “ and I told him that I didn't even want to see that stupid guy."
+        sequence-22:
+          s: 22
+          from: "00:01:38,17"
+          to: "00:01:44,13"
+          text: "I didn't want to react, we even remained sort of friends,"
+        sequence-23:
+          s: 23
+          from: "00:01:44,14"
+          to: "00:01:49,22"
+          text: "but I remember there were two or three older men with clubs,"
+        sequence-24:
+          s: 24
+          from: "00:01:49,23"
+          to: "00:01:53,03"
+          text: "and I was weighing about 40 kilos by then,"
+        sequence-25:
+          s: 25
+          from: "00:01:53,04"
+          to: "00:01:56,16"
+          text: "I mean, being beaten up was not funny."
+        sequence-26:
+          s: 26
+          from: "00:01:56,17"
+          to: "00:02:01,08"
+          text: "See, this is why I never wanted to see the fascists,"
+        sequence-27:
+          s: 27
+          from: "00:02:01,09"
+          to: "00:02:10,16"
+          text: "I'm “glad” they gave me 42 months of war to do. I never liked them."

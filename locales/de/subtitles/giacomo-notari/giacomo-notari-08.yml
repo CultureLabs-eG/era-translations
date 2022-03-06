@@ -2,13 +2,13 @@ de:
   giacomo-notari:
     chapter-8:
       c: 8
-      title: ~
+      title: "Fallschirmabwürfe der Alliierten mit Nahrung und Waffen"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,13"
           to: "00:00:09,14"
-          text: ~
+          text: "Eines Sonntags war ein amerikanischer Oberst mit seinem Flugzeug abgestürzt und blieb eine Weile in Ligonghio."
         sequence-2:
           s: 2
           from: "00:00:09,14"
@@ -18,7 +18,7 @@ de:
           s: 3
           from: "00:00:10,21"
           to: "00:00:17,26"
-          text: ~
+          text: "Es gab nicht viel zu essen, und damit er etwas litt, gaben sie ihm noch weniger als den anderen."
         sequence-4:
           s: 4
           from: "00:00:17,26"
@@ -28,7 +28,7 @@ de:
           s: 5
           from: "00:00:19,10"
           to: "00:00:29,01"
-          text: ~
+          text: "Also sagte er zum Kommandanten: \"Wenn ich es nach Florenz schaffe, organisiere ich dir einen Abwurf mit Flugzeugen und schicke dir jede Menge Leckereien\"."
         sequence-6:
           s: 6
           from: "00:00:29,01"
@@ -38,22 +38,22 @@ de:
           s: 7
           from: "00:00:30,17"
           to: "00:00:32,08"
-          text: ~
+          text: "Er hat Wort gehalten."
         sequence-8:
           s: 8
           from: "00:00:32,08"
           to: "00:00:34,13"
-          text: ~
+          text: "Er hat die Front überquert und gelangte nach Florenz."
         sequence-9:
           s: 9
           from: "00:00:34,13"
           to: "00:00:42,14"
-          text: ~
+          text: "Damals gab es keine Kommunikationsmöglichtkeit von Ligonghio, Lama Golese, nach Florenz... nur einige englische Offiziere mit Funkgeräten,"
         sequence-10:
           s: 10
           from: "00:00:42,14"
           to: "00:00:45,05"
-          text: ~
+          text: "die konnten genau wie jetzt mit dem Telefon sprechen."
         sequence-11:
           s: 11
           from: "00:00:45,05"
@@ -63,12 +63,12 @@ de:
           s: 12
           from: "00:00:46,23"
           to: "00:00:52,22"
-          text: ~
+          text: "Jedenfalls organisierte er diesen Abwurf, an einem Sonntagmorgen kamen von überall her Flugzeuge"
         sequence-13:
           s: 13
           from: "00:00:52,22"
           to: "00:01:00,12"
-          text: ~
+          text: "und warfen sogar lange Benzinkanister ab, die wie Raketen aussahen."
         sequence-14:
           s: 14
           from: "00:01:00,12"

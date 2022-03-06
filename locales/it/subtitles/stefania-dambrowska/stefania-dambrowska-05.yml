@@ -2,28 +2,28 @@ it:
   stefania-dambrowska:
     chapter-5:
       c: 5
-      title: ~
+      title: "Nascondendo una coppia ebrea: Hannah e Arnold Minkowski"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,12"
           to: "00:00:05,00"
-          text: ~
+          text: "In agosto, credo, andai a Vilnius."
         sequence-2:
           s: 2
           from: "00:00:05,00"
           to: "00:00:10,25"
-          text: ~
+          text: "Dovevo incontrare delle persone che avevano dei contatti,"
         sequence-3:
           s: 3
           from: "00:00:10,25"
           to: "00:00:17,09"
-          text: ~
+          text: "sapevano cosa stava succedendo nel mondo ed era più facile scoprire qualcosa da loro."
         sequence-4:
           s: 4
           from: "00:00:17,09"
           to: "00:00:30,10"
-          text: ~
+          text: "Scoprì che sul balcone, coperto dalla vite selvatica, nascondevano una coppia sposata."
         sequence-5:
           s: 5
           from: "00:00:30,10"
@@ -33,107 +33,107 @@ it:
           s: 6
           from: "00:00:33,00"
           to: "00:00:39,10"
-          text: ~
+          text: "Lei era figlia del miglior dentista di Vilnius, ebreo,"
         sequence-7:
           s: 7
           from: "00:00:39,10"
           to: "00:00:44,11"
-          text: ~
+          text: "lui - un avvocato di Sosnowiec,"
         sequence-8:
           s: 8
           from: "00:00:44,11"
           to: "00:00:53,26"
-          text: ~
+          text: "che scappò dai tedeschi, arrivò a Vilnius, incontrò Hana e così si sposarono."
         sequence-9:
           s: 9
           from: "00:00:53,26"
           to: "00:00:57,18"
-          text: ~
+          text: "Vivevano sul balcone, erano molto spaventati."
         sequence-10:
           s: 10
           from: "00:00:57,18"
           to: "00:01:06,28"
-          text: ~
+          text: "Avevano dei documenti, non so neanche come fossero messi con quei documenti."
         sequence-11:
           s: 11
           from: "00:01:06,28"
           to: "00:01:11,26"
-          text: ~
+          text: "il cognome era vero, del tipo giusto."
         sequence-12:
           s: 12
           from: "00:01:11,26"
           to: "00:01:18,06"
-          text: ~
+          text: "Hana era bionda con gli occhi azzurri, nessuno avrebbe potuto dire che era ebrea."
         sequence-13:
           s: 13
           from: "00:01:18,06"
           to: "00:01:22,01"
-          text: ~
+          text: "E anche Arnold non sembrava ebreo."
         sequence-14:
           s: 14
           from: "00:01:22,01"
           to: "00:01:27,29"
-          text: ~
+          text: "Volevano assolutamente lasciare Vilnius, perché come si faceva a vivere su quel balcone?"
         sequence-15:
           s: 15
           from: "00:01:27,29"
           to: "00:01:35,10"
-          text: ~
+          text: "Tornai a Orwidów e dissi alla prima coppia"
         sequence-16:
           s: 16
           from: "00:01:35,10"
           to: "00:01:44,00"
-          text: ~
+          text: "che avrebbero dovuto stare molto attenti, perché più persone sospette avrebbero vissuto lì, più grande sarebbe stato il pericolo."
         sequence-17:
           s: 17
           from: "00:01:44,00"
           to: "00:01:59,05"
-          text: ~
+          text: "Gli dissi che c'era questa situazione e gli chiesi se gli avremmo aiutati."
         sequence-18:
           s: 18
           from: "00:01:59,05"
           to: "00:02:03,05"
-          text: ~
+          text: "Portai la famiglia Minkowski."
         sequence-19:
           s: 19
           from: "00:02:03,05"
           to: "00:02:10,18"
-          text: ~
+          text: "Con loro avevamo un enorme problema perché erano molto spaventati."
         sequence-20:
           s: 20
           from: "00:02:10,18"
           to: "00:02:17,14"
-          text: ~
+          text: "Nella cittadina di Niemenczyn era stato creato il ghetto."
         sequence-21:
           s: 21
           from: "00:02:17,14"
           to: "00:02:25,03"
-          text: ~
+          text: "I Minkowski erano terrorizzati dal fatto che a sette chilometri da noi ci fosse un ghetto, era un grosso rischio."
         sequence-22:
           s: 22
           from: "00:02:25,03"
           to: "00:02:29,12"
-          text: ~
+          text: "Erano quindi molto spaventati."
         sequence-23:
           s: 23
           from: "00:02:29,12"
           to: "00:02:33,17"
-          text: ~
+          text: "Dopo la chiusura del ghetto di Niemenczyn"
         sequence-24:
           s: 24
           from: "00:02:33,17"
           to: "00:02:40,01"
-          text: ~
+          text: "volevano andare alla fattoria di quelle persone, presso le quali si nascondevano a Vilnius."
         sequence-25:
           s: 25
           from: "00:02:40,01"
           to: "00:02:50,15"
-          text: ~
+          text: "Era considerata Bielorussia perché quello che una volta era voivodato di Wilno fu diviso in una parte lituana e una bielorussa."
         sequence-26:
           s: 26
           from: "00:02:50,15"
           to: "00:02:54,20"
-          text: ~
+          text: "La parte più a sud era bielorussa,"
         sequence-27:
           s: 27
           from: "00:02:54,20"
@@ -143,9 +143,9 @@ it:
           s: 28
           from: "00:02:57,18"
           to: "00:03:11,22"
-          text: ~
+          text: "sembrava essere più sicura, i lituani potevano essere più imprevedibili."
         sequence-29:
           s: 29
           from: "00:03:11,22"
           to: "00:03:15,18"
-          text: ~
+          text: "Ma intorno a Vilnius i lituani praticamente non c'erano."

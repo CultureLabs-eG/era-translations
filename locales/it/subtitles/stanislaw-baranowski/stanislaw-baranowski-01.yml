@@ -2,43 +2,43 @@ it:
   stanislaw-baranowski:
     chapter-1:
       c: 1
-      title: ~
+      title: "Introduzione; Scoutismo"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:02,19"
-          text: ~
+          text: "Mi chiamo Stanisław Baranowski."
         sequence-2:
           s: 2
           from: "00:00:02,19"
           to: "00:00:07,24"
-          text: ~
+          text: "Sono nato il 16 novembre 1924 a Varsavia."
         sequence-3:
           s: 3
           from: "00:00:07,24"
           to: "00:00:13,04"
-          text: ~
+          text: "Se non fosse scoppiata la guerra, sarei andato alla scuola di aeronautica e meccanica per diventare pilota."
         sequence-4:
           s: 4
           from: "00:00:13,04"
           to: "00:00:15,00"
-          text: ~
+          text: "Era il mio sogno."
         sequence-5:
           s: 5
           from: "00:00:15,00"
           to: "00:00:18,14"
-          text: ~
+          text: "Nel 1939 ero in un campo scout."
         sequence-6:
           s: 6
           from: "00:00:18,14"
           to: "00:00:22,09"
-          text: ~
+          text: "In agosto stavamo tornando dal campo scout."
         sequence-7:
           s: 7
           from: "00:00:22,09"
           to: "00:00:32,16"
-          text: ~
+          text: "Non raggiungemmo la Stazione di Varsavia Centrale, ma ci fecero scendere alla Stazione Est."
         sequence-8:
           s: 8
           from: "00:00:32,16"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:33,00"
           to: "00:00:39,04"
-          text: ~
+          text: "Facevo parte del 42° Reparto Scout in via Rózana."
         sequence-10:
           s: 10
           from: "00:00:39,04"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:41,20"
           to: "00:00:46,15"
-          text: ~
+          text: "La nostra attività ebbe inizio negli scout."
         sequence-12:
           s: 12
           from: "00:00:46,15"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:00:47,29"
           to: "00:00:53,16"
-          text: ~
+          text: "Compagni scout, come me,"
         sequence-14:
           s: 14
           from: "00:00:53,16"
@@ -78,12 +78,12 @@ it:
           s: 15
           from: "00:00:54,27"
           to: "00:01:15,17"
-          text: ~
+          text: "i nomi che mi ricordo sono Mietek Wiącek, Heniek Balas, Stefan Wojakowski, Tadeusz Jagier, Jozef Smółka, Leszek Janiszewski e molti, molti altri scout."
         sequence-16:
           s: 16
           from: "00:01:15,17"
           to: "00:01:25,07"
-          text: ~
+          text: "Iniziammo da subito durante la guerra a incontrarci e organizzarci."
         sequence-17:
           s: 17
           from: "00:01:25,07"
@@ -93,22 +93,22 @@ it:
           s: 18
           from: "00:01:26,20"
           to: "00:01:34,13"
-          text: ~
+          text: "A un certo punto, – non mi ricordo come fosse venuto fuori –, qualcuno disse"
         sequence-19:
           s: 19
           from: "00:01:34,13"
           to: "00:01:44,01"
-          text: ~
+          text: "che il nostro reparto era stato assegnato al quartier generale della difesa di Varsavia"
         sequence-20:
           s: 20
           from: "00:01:44,01"
           to: "00:01:48,06"
-          text: ~
+          text: "che si trovava presso il Palazzo Myśliwski nel parco Łazienki Królewskie,"
         sequence-21:
           s: 21
           from: "00:01:48,06"
           to: "00:01:54,01"
-          text: ~
+          text: "l'entrata qui, dalla via 29 Novembre."
         sequence-22:
           s: 22
           from: "00:01:54,01"
@@ -118,27 +118,27 @@ it:
           s: 23
           from: "00:01:55,08"
           to: "00:02:06,28"
-          text: ~
+          text: "Andammo lì, alcuni di noi."
         sequence-24:
           s: 24
           from: "00:02:06,28"
           to: "00:02:16,16"
-          text: ~
+          text: "Fummo classificati come corrieri, guide di Varsavia."
         sequence-25:
           s: 25
           from: "00:02:16,16"
           to: "00:02:21,19"
-          text: ~
+          text: "Perché le unità che allora erano di stanza a Varsavia,"
         sequence-26:
           s: 26
           from: "00:02:21,19"
           to: "00:02:25,16"
-          text: ~
+          text: "erano soldati che non conoscevano Varsavia."
         sequence-27:
           s: 27
           from: "00:02:25,16"
           to: "00:02:28,29"
-          text: ~
+          text: "E così iniziò la mia avventura con la guerra."
         sequence-28:
           s: 28
           from: "00:02:28,29"
@@ -148,24 +148,24 @@ it:
           s: 29
           from: "00:02:30,06"
           to: "00:02:34,05"
-          text: ~
+          text: "Eravamo stati educati con uno spirito diverso prima della guerra."
         sequence-30:
           s: 30
           from: "00:02:34,05"
           to: "00:02:39,17"
-          text: ~
+          text: "Facevo parte degli scout da quando avevo docici anni,"
         sequence-31:
           s: 31
           from: "00:02:39,17"
           to: "00:02:43,05"
-          text: ~
+          text: "cioè a quel punto da quasi quattro o cinque anni."
         sequence-32:
           s: 32
           from: "00:02:43,05"
           to: "00:02:52,05"
-          text: ~
+          text: "E lo scoutismo ci formò in una maniera piuttosto diversa da oggi."
         sequence-33:
           s: 33
           from: "00:02:52,05"
           to: "00:03:13,26"
-          text: ~
+          text: "C'era una base: amore per la patria, preparazione fisica, sport e altre cose."

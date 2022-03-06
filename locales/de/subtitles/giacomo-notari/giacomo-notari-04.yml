@@ -8,12 +8,12 @@ de:
           s: 1
           from: "00:00:00,28"
           to: "00:00:06,28"
-          text: ~
+          text: "Nach all diesen Aktionen konnten uns die Deutschen nicht weiter gewähren lassen."
         sequence-2:
           s: 2
           from: "00:00:06,28"
           to: "00:00:14,05"
-          text: ~
+          text: "Offensichtlich hatte unser Oberkommando erfahren, dass es eine Razzia geben würde, die dann auch stattfand."
         sequence-3:
           s: 3
           from: "00:00:14,05"
@@ -23,7 +23,7 @@ de:
           s: 4
           from: "00:00:15,05"
           to: "00:00:24,15"
-          text: ~
+          text: "Paterlini kam und sagte: \"Wir müssen was auftreiben, um die Brücke zu zertören\", damit die Lastwagen nicht durchkamen."
         sequence-5:
           s: 5
           from: "00:00:24,15"
@@ -33,17 +33,17 @@ de:
           s: 6
           from: "00:00:25,06"
           to: "00:00:36,08"
-          text: "We went there with Carretti, a guy working for Edison, the local electric company:"
+          text: "Wir gingen mit Carretti dorthin und trafen uns mit einem Arbeiter der Edison, der Elektrizitätsgesellschaft,"
         sequence-7:
           s: 7
           from: "00:00:36,08"
           to: "00:00:41,21"
-          text: ~
+          text: "die hatten da einen Steinbruch und deshalb auch TNT, Minen, also Sprengstoff..."
         sequence-8:
           s: 8
           from: "00:00:41,21"
           to: "00:00:51,02"
-          text: ~
+          text: "Wir haben die Löcher vorbereitet und dann einen großen Brückenbogen gesprengt von dieser sehr großen Brücke in Cinque Cerri..."
         sequence-9:
           s: 9
           from: "00:00:51,02"
@@ -53,7 +53,7 @@ de:
           s: 10
           from: "00:00:52,16"
           to: "00:00:58,22"
-          text: ~
+          text: "Danach sind wir hoch in die Berge und von diesem Tag an war ich im Kampf."
         sequence-11:
           s: 11
           from: "00:00:58,22"
@@ -63,7 +63,7 @@ de:
           s: 12
           from: "00:00:59,17"
           to: "00:01:07,20"
-          text: ~
+          text: "Wir gingen zum Sitz des Kommandos in Lama Golese, unterhalb des Monte Cusna."
         sequence-13:
           s: 13
           from: "00:01:07,20"
@@ -73,12 +73,12 @@ de:
           s: 14
           from: "00:01:08,27"
           to: "00:01:19,06"
-          text: ~
+          text: "Da war das Kommando, mit Pasquale Marconi, ein Arzt aus Castelnovo Monti, Christdemokrat, Katholik jedenfalls;"
         sequence-15:
           s: 15
           from: "00:01:19,06"
           to: "00:01:30,01"
-          text: ~
+          text: "auch \"Eros\" war da und \"Miro\", und ein jüdischer Arzt, der wohl Jugoslawe war."
         sequence-16:
           s: 16
           from: "00:01:30,01"
@@ -88,17 +88,17 @@ de:
           s: 17
           from: "00:01:31,00"
           to: "00:01:33,06"
-          text: ~
+          text: "Wir verbrachten ein paar Tage dort,"
         sequence-18:
           s: 18
           from: "00:01:33,06"
           to: "00:01:39,10"
-          text: ~
+          text: "das war eine Art Basis für frisch Rekrutierte, aber es gab wenige Waffen;"
         sequence-19:
           s: 19
           from: "00:01:39,10"
           to: "00:01:45,29"
-          text: ~
+          text: "man wartete auf Fallschirmabwürfe durch die Alliierten, aber sie kamen nicht,"
         sequence-20:
           s: 20
           from: "00:01:45,29"
@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:47,06"
           to: "00:01:54,29"
-          text: ~
+          text: "also schickten sie vier von uns zurück nach Ligonchio."
         sequence-22:
           s: 22
           from: "00:01:54,29"
@@ -118,7 +118,7 @@ de:
           s: 23
           from: "00:01:55,24"
           to: "00:02:02,21"
-          text: "Wir kamen nach Ligonchio und fanden dort unendlich viele Partisanen vor,"
+          text: "Wir kamen nach Ligonchio und fanden dort jede Menge Partisanen vor,"
         sequence-24:
           s: 24
           from: "00:02:02,21"

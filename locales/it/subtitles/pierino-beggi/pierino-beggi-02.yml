@@ -2,28 +2,28 @@ it:
   pierino-beggi:
     chapter-2:
       c: 2
-      title: ~
+      title: "GAP in cittá"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:04,02"
           to: "00:00:08,21"
-          text: ~
+          text: "Noi eravamo ... perché i GAP erano organizzati in non più di tre."
         sequence-2:
           s: 2
           from: "00:00:08,21"
           to: "00:00:15,02"
-          text: ~
+          text: "Cioè tre sapevano dei tre e non oltre allo scopo che"
         sequence-3:
           s: 3
           from: "00:00:15,02"
           to: "00:00:25,02"
-          text: ~
+          text: "se venivano presi... purtroppo si sapeva che a Villa Cucchi torturavano,"
         sequence-4:
           s: 4
           from: "00:00:25,02"
           to: "00:00:34,10"
-          text: ~
+          text: "come hanno torturato Paolo Davoli, come hanno torturato la Tina di Cavriago, la Rosellina eh... purtroppo si sapeva"
         sequence-5:
           s: 5
           from: "00:00:34,10"
@@ -33,17 +33,17 @@ it:
           s: 6
           from: "00:00:38,01"
           to: "00:00:49,27"
-          text: ~
+          text: "e allora si creavano e i GAP avevano preso questo provvedimento di non, cioè... Zanti, Maurizio nome di battaglia,"
         sequence-7:
           s: 7
           from: "00:00:49,27"
           to: "00:00:54,25"
-          text: ~
+          text: "aveva organizzato nel senso di non fare gruppi oltre, non oltre il gruppetto di tre."
         sequence-8:
           s: 8
           from: "00:00:54,25"
           to: "00:01:02,23"
-          text: ~
+          text: "Poi con l’andare del tempo si formavano, ci si riuniva e si facevano le azioni combinate."
         sequence-9:
           s: 9
           from: "00:01:02,23"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:03,20"
           to: "00:01:09,13"
-          text: ~
+          text: "Gruppi Armati Partigiani che non hanno niente a che fare"
         sequence-11:
           s: 11
           from: "00:01:09,13"
@@ -63,9 +63,9 @@ it:
           s: 12
           from: "00:01:12,12"
           to: "00:01:16,06"
-          text: ~
+          text: "perché non erano tutti comunisti,"
         sequence-13:
           s: 13
           from: "00:01:16,06"
           to: "00:01:24,00"
-          text: ~
+          text: "io lo ero nel senso, il gruppetto era, eravamo tutti compagni..."

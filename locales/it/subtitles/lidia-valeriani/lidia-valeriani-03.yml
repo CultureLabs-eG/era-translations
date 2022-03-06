@@ -2,13 +2,13 @@ it:
   lidia-valeriani:
     chapter-3:
       c: 3
-      title: ~
+      title: "Esporre una bandiera rossa"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,08"
           to: "00:00:04,25"
-          text: ~
+          text: "Siamo andati a Guardazone che era un monte appena dopo San Polo."
         sequence-2:
           s: 2
           from: "00:00:04,25"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:06,08"
           to: "00:00:12,12"
-          text: ~
+          text: "Siamo stati la, abbiamo mangiato a mezzogiorno che ci prendevamo panini dietro."
         sequence-4:
           s: 4
           from: "00:00:12,12"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:13,11"
           to: "00:00:18,22"
-          text: ~
+          text: "E poi abbiamo deciso, perché eravamo vicini al 1° maggio"
         sequence-6:
           s: 6
           from: "00:00:18,22"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:20,17"
           to: "00:00:31,03"
-          text: ~
+          text: "abbiamo preso un foglio di carta e ci abbiamo fatto una bandiera con i rossetti da labbra che avevamo"
         sequence-8:
           s: 8
           from: "00:00:31,03"
@@ -48,22 +48,22 @@ it:
           s: 9
           from: "00:00:32,08"
           to: "00:00:46,04"
-          text: ~
+          text: "e poi abbiamo trovato un bastone, una brocca un pezzo di legno e poi ci abbiam legato questa bandiera"
         sequence-10:
           s: 10
           from: "00:00:46,04"
           to: "00:00:53,03"
-          text: ~
+          text: "e poi un ragazzo è partito, è andato su di un pino ed è andato a metterla là, l’ha legata..."
         sequence-11:
           s: 11
           from: "00:00:53,03"
           to: "00:00:57,02"
-          text: ~
+          text: "e poi noi siam partiti e siam venuti via"
         sequence-12:
           s: 12
           from: "00:00:57,02"
           to: "00:01:03,03"
-          text: ~
+          text: "perché dopo c’era poi della gente che faceva la spia e già andavano a vedere se ci trovavano là."
         sequence-13:
           s: 13
           from: "00:01:03,03"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:04,01"
           to: "00:01:08,10"
-          text: ~
+          text: "Qualcuno ha anche... si potevano iscrivere anche se non avevano 18 anni."
         sequence-15:
           s: 15
           from: "00:01:08,10"
@@ -83,9 +83,9 @@ it:
           s: 16
           from: "00:01:10,28"
           to: "00:01:20,29"
-          text: ~
+          text: "E di lì in poi ci hanno insegnato le canzoni, di \"Bandiera rossa\", e tutte quelle altre cose, quelle altre canzoni"
         sequence-17:
           s: 17
           from: "00:01:20,29"
           to: "00:01:25,24"
-          text: ~
+          text: "che poi si cantavano poi anche diciamo dopo la guerra."

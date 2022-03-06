@@ -2,28 +2,28 @@ it:
   stanislaw-baranowski:
     chapter-5:
       c: 5
-      title: ~
+      title: "Ospitando Maria – una ragazza ebrea"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:15,00"
-          text: ~
+          text: "La figlia di un avvocato, ebreo, – che si chiamava Holzkener –,"
         sequence-2:
           s: 2
           from: "00:00:15,00"
           to: "00:00:25,01"
-          text: ~
+          text: "sua figlia Maria, la portai fuori dal ghetto, quando venne costruito,"
         sequence-3:
           s: 3
           from: "00:00:25,01"
           to: "00:00:30,23"
-          text: ~
+          text: "quando fu costruito il muro, la portai a casa nostra,"
         sequence-4:
           s: 4
           from: "00:00:30,23"
           to: "00:00:37,00"
-          text: ~
+          text: "perché abitasse da noi, e per tutto il periodo, fino al mio arresto, abitò da noi."
         sequence-5:
           s: 5
           from: "00:00:37,00"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:37,15"
           to: "00:00:42,04"
-          text: ~
+          text: "La lealtà era grande."
         sequence-7:
           s: 7
           from: "00:00:42,04"
           to: "00:00:51,05"
-          text: ~
+          text: "Il fatto che noi mentenessimo dei contatti, che mia madre mentenesse dei contatti con gli ebrei"
         sequence-8:
           s: 8
           from: "00:00:51,05"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:52,04"
           to: "00:01:05,00"
-          text: ~
+          text: "era noto a metà delle persone che abitavano lì, in via Hołówki."
         sequence-10:
           s: 10
           from: "00:01:05,00"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:01:05,13"
           to: "00:01:12,09"
-          text: ~
+          text: "Seppi da mia madre che dopo il mio arresto la ragazza visse per un po' da noi."
         sequence-12:
           s: 12
           from: "00:01:12,09"
@@ -68,17 +68,17 @@ it:
           s: 13
           from: "00:01:13,14"
           to: "00:01:19,14"
-          text: ~
+          text: "In seguito ebbe paura."
         sequence-14:
           s: 14
           from: "00:01:19,14"
           to: "00:01:29,26"
-          text: ~
+          text: "Non conosco esattamente il motivo, ma per un breve tempo andò via da mia madre."
         sequence-15:
           s: 15
           from: "00:01:29,26"
           to: "00:01:36,05"
-          text: ~
+          text: "E poi – doveva essere il 1943 – a Varsavia i tedeschi annunciarono"
         sequence-16:
           s: 16
           from: "00:01:36,05"
@@ -88,42 +88,42 @@ it:
           s: 17
           from: "00:01:37,27"
           to: "00:01:54,26"
-          text: ~
+          text: "che gli ebrei che si sarebbero presentati volontariamente presso l'albergo Polski, sarebbero stati mandati per uno scambio in Turchia."
         sequence-18:
           s: 18
           from: "00:01:54,26"
           to: "00:01:58,02"
-          text: ~
+          text: "Come scambio con i prigionieri tedeschi."
         sequence-19:
           s: 19
           from: "00:01:58,02"
           to: "00:02:02,12"
-          text: ~
+          text: "Così mi raccontò mia madre."
         sequence-20:
           s: 20
           from: "00:02:02,12"
           to: "00:02:10,00"
-          text: ~
+          text: "Mia madre disse che tutti la dissuadevano dall'idea di andare lì, ma lei accettò,"
         sequence-21:
           s: 21
           from: "00:02:10,00"
           to: "00:02:16,22"
-          text: ~
+          text: "perché era spaventata visto che dopo il 1942 la situazione era sempre più difficile."
         sequence-22:
           s: 22
           from: "00:02:16,22"
           to: "00:02:23,03"
-          text: ~
+          text: "Dopo la rivolta del ghetto nel 1943 era acnora più dura. Questo era prima della rivolta nel ghetto."
         sequence-23:
           s: 23
           from: "00:02:23,03"
           to: "00:02:30,06"
-          text: ~
+          text: "Nessun trasporto era mai diretto in Turchia. Ci volle un po' prima che le altre persone libere, –"
         sequence-24:
           s: 24
           from: "00:02:30,06"
           to: "00:02:39,20"
-          text: ~
+          text: "e a Varsavia c'erano alcune migliaia di ebrei dalla parte ariana,–"
         sequence-25:
           s: 25
           from: "00:02:39,20"
@@ -133,14 +133,14 @@ it:
           s: 26
           from: "00:02:41,28"
           to: "00:02:46,01"
-          text: ~
+          text: "realizzassero che quei trasporti non erano diretti in Italia ma a Treblinka,"
         sequence-27:
           s: 27
           from: "00:02:46,01"
           to: "00:02:51,06"
-          text: ~
+          text: "ma era troppo tardi, perché la maggior parte ormai era partita."
         sequence-28:
           s: 28
           from: "00:02:51,06"
           to: "00:02:57,16"
-          text: ~
+          text: "E verosimilmente la portarono o a Bełzec o a Treblinka, e lì terminò la sua vita."

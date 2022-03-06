@@ -2,68 +2,68 @@ it:
   carlo-porta:
     chapter-9:
       c: 9
-      title: ~
+      title: "Cercare di sopravvivere"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:03,25"
-          text: ~
+          text: "Io mi ero messo in testa che volevo tornare a casa,"
         sequence-2:
           s: 2
           from: "00:00:03,25"
           to: "00:00:07,20"
-          text: ~
+          text: "perché non era mica giusto che facessi quella fine lì;"
         sequence-3:
           s: 3
           from: "00:00:07,20"
           to: "00:00:10,23"
-          text: ~
+          text: "ho mangiato male come gli altri,"
         sequence-4:
           s: 4
           from: "00:00:10,23"
           to: "00:00:17,08"
-          text: ~
+          text: "nonostante il dottore adesso continui a dirmi “quei due anni in Germania"
         sequence-5:
           s: 5
           from: "00:00:17,08"
           to: "00:00:22,28"
-          text: ~
+          text: "ti hanno fatto bene, ti hanno aiutato a sopravvivere”,"
         sequence-6:
           s: 6
           from: "00:00:22,28"
           to: "00:00:36,00"
-          text: ~
+          text: "io non facevo niente, però non mi sono mai preoccupato, non ho mai avuto il pensiero di non venire a casa."
         sequence-7:
           s: 7
           from: "00:00:36,00"
           to: "00:00:41,22"
-          text: ~
+          text: "Io ho mollato gli ultimi due o tre mesi:"
         sequence-8:
           s: 8
           from: "00:00:41,22"
           to: "00:00:48,18"
-          text: ~
+          text: "non ricordavo più la mia famiglia,"
         sequence-9:
           s: 9
           from: "00:00:48,18"
           to: "00:00:53,02"
-          text: ~
+          text: "cioè era un pensiero che mi era andato via,"
         sequence-10:
           s: 10
           from: "00:00:53,02"
           to: "00:00:58,03"
-          text: ~
+          text: "questo non lo capivo neanche io."
         sequence-11:
           s: 11
           from: "00:00:58,03"
           to: "00:01:02,17"
-          text: ~
+          text: "Mi ero stancato,"
         sequence-12:
           s: 12
           from: "00:01:02,17"
           to: "00:01:11,03"
-          text: ~
+          text: "però anche nella mia stanchezza ho cercato di sopravvivere, il mangiare era così per tutti."
         sequence-13:
           s: 13
           from: "00:01:11,03"
@@ -73,27 +73,27 @@ it:
           s: 14
           from: "00:01:12,08"
           to: "00:01:21,06"
-          text: ~
+          text: "Per la storia del peso, quando senti la gente dire trentotto chili, quaranta chili, io non mi sono mai pesato,"
         sequence-15:
           s: 15
           from: "00:01:21,06"
           to: "00:01:25,28"
-          text: ~
+          text: "sarò stato cinquanta chili, cinquantacinque,"
         sequence-16:
           s: 16
           from: "00:01:25,28"
           to: "00:01:30,07"
-          text: ~
+          text: "io so che ero magro, però sono stato con la mia magrezza;"
         sequence-17:
           s: 17
           from: "00:01:30,07"
           to: "00:01:34,19"
-          text: ~
+          text: "ho visto della gente morire perché si trovavano male, piangevano,"
         sequence-18:
           s: 18
           from: "00:01:34,19"
           to: "00:01:41,00"
-          text: ~
+          text: "c’era anche della gente che aveva moglie e figli, quelli erano problemi diversi."
         sequence-19:
           s: 19
           from: "00:01:41,00"
@@ -103,39 +103,39 @@ it:
           s: 20
           from: "00:01:41,29"
           to: "00:01:44,15"
-          text: ~
+          text: "Nel nostro campo gli americani sono passati,"
         sequence-21:
           s: 21
           from: "00:01:44,15"
           to: "00:01:48,28"
-          text: ~
+          text: "sono rimaste le loro guardie ma noi andavano dove volevamo;"
         sequence-22:
           s: 22
           from: "00:01:48,28"
           to: "00:01:57,14"
-          text: ~
+          text: "avevamo due ragazzi, un certo Belloni si chiamava, di Ravenna che facevano i macellai,"
         sequence-23:
           s: 23
           from: "00:01:57,14"
           to: "00:02:06,04"
-          text: ~
+          text: "allora hanno cominciato a trovare dei vitelli, non è mica una balla, poi li ammazzavano"
         sequence-24:
           s: 24
           from: "00:02:06,04"
           to: "00:02:14,16"
-          text: ~
+          text: "e li mettevano, sai che loro hanno quei barili della birra, lì dentro al fresco."
         sequence-25:
           s: 25
           from: "00:02:14,16"
           to: "00:02:20,25"
-          text: ~
+          text: "Dopo 15 o 20 giorni avevamo la carne fresca,"
         sequence-26:
           s: 26
           from: "00:02:20,25"
           to: "00:02:24,04"
-          text: ~
+          text: "loro tutte le notti andavano a trovare qualcosa,"
         sequence-27:
           s: 27
           from: "00:02:24,04"
           to: "00:02:28,15"
-          text: ~
+          text: "dopo ci eravamo messi a posto con il mangiare."

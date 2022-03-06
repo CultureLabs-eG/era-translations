@@ -1,0 +1,96 @@
+it:
+  francesco-bertacchini:
+    chapter-1:
+      c: 1
+      title: "Presentazione e giovinezza"
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:00,16"
+          to: "00:00:04,08"
+          text: "Io mi chiamo Bertacchini Francesco"
+        sequence-2:
+          s: 2
+          from: "00:00:04,09"
+          to: "00:00:12,24"
+          text: "e sono nato a Reggio Emilia il 24 giugno del 1926."
+        sequence-3:
+          s: 3
+          from: "00:00:13,00"
+          to: "00:00:19,22"
+          text: "Quel periodo lì è stato un periodaccio"
+        sequence-4:
+          s: 4
+          from: "00:00:19,23"
+          to: "00:00:28,08"
+          text: "perché non potevamo andare da nessuna parte perché eravamo controllati da tutte le parti"
+        sequence-5:
+          s: 5
+          from: "00:00:28,09"
+          to: "00:00:40,14"
+          text: "e quindi dava fastidio; tra l’altro avevamo in compagnia un certo Benito,"
+        sequence-6:
+          s: 6
+          from: "00:00:40,15"
+          to: "00:00:56,05"
+          text: "che era il figlio di Benito Foscato, il fascista più cattivo e più prepotente della via Dante Zanichelli,"
+        sequence-7:
+          s: 7
+          from: "00:00:56,06"
+          to: "00:01:00,08"
+          text: "lì lungo il Crostolo dove siamo venuti su da ragazzi,"
+        sequence-8:
+          s: 8
+          from: "00:01:01,17"
+          to: "00:01:07,12"
+          text: "e quindi dovevamo stare sempre attenti a quello che si diceva o a quello che si parlava"
+        sequence-9:
+          s: 9
+          from: "00:01:07,13"
+          to: "00:01:18,20"
+          text: "perché dopo lui lo andava a riferire a suo padre e dopo suo padre ci mandava a chiamare in sede,"
+        sequence-10:
+          s: 10
+          from: "00:01:18,21"
+          to: "00:01:23,12"
+          text: "insomma era una vita da cani che non si poteva mica sempre frequentare."
+        sequence-11:
+          s: 11
+          from: "00:01:23,13"
+          to: "00:01:30,11"
+          text: "Tanto è vero che una bella giornata viene a casa vestito da fascista"
+        sequence-12:
+          s: 12
+          from: "00:01:30,12"
+          to: "00:01:35,12"
+          text: "e subito sembrava che fosse dalla nostra parte e quindi si diceva,"
+        sequence-13:
+          s: 13
+          from: "00:01:41,21"
+          to: "00:01:48,09"
+          text: "noi non esprimevamo la nostra idea perché sapevamo che lui era un soggetto"
+        sequence-14:
+          s: 14
+          from: "00:01:48,10"
+          to: "00:01:55,05"
+          text: "che ci dava sempre ragione però in fondo in fondo andava sempre"
+        sequence-15:
+          s: 15
+          from: "00:01:55,06"
+          to: "00:02:01,00"
+          text: "a dirlo al padre quello che avevamo detto o quello che avevamo fatto"
+        sequence-16:
+          s: 16
+          from: "00:02:01,01"
+          to: "00:02:09,03"
+          text: "e difatti dopo si è rivelato che è andato volontario nella Brigata Nera:"
+        sequence-17:
+          s: 17
+          from: "00:02:09,04"
+          to: "00:02:16,19"
+          text: "per noi è stato un colpo perché potevamo essere anche presi e messi in carcere"
+        sequence-18:
+          s: 18
+          from: "00:02:16,20"
+          to: "00:02:20,16"
+          text: "perché con un soggetto così non ci si poteva mica fidare."

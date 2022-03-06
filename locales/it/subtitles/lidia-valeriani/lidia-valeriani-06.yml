@@ -2,33 +2,33 @@ it:
   lidia-valeriani:
     chapter-6:
       c: 6
-      title: ~
+      title: "Lo sciopero del 1 marzo 1944"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:03,20"
-          text: ~
+          text: "Poi abbiamo preparato lo sciopero del 1° marzo,"
         sequence-2:
           s: 2
           from: "00:00:03,20"
           to: "00:00:06,25"
-          text: ~
+          text: "che ce n’era già stato qualcuno anche da altre parti."
         sequence-3:
           s: 3
           from: "00:00:06,25"
           to: "00:00:12,14"
-          text: ~
+          text: "Io ero in quel comitato lì dove abbiamo organizzato lo sciopero,"
         sequence-4:
           s: 4
           from: "00:00:12,14"
           to: "00:00:17,25"
-          text: ~
+          text: "già ci siamo riuniti per diverse volte,"
         sequence-5:
           s: 5
           from: "00:00:17,25"
           to: "00:00:21,16"
-          text: ~
+          text: "alla sera abbiamo fatto l’ultima riunione in casa mia."
         sequence-6:
           s: 6
           from: "00:00:21,16"
@@ -38,42 +38,42 @@ it:
           s: 7
           from: "00:00:22,17"
           to: "00:00:28,24"
-          text: ~
+          text: "Mio padre, lui era d’accordo e abbiam fatto la riunione e ci siam designati i posti,"
         sequence-8:
           s: 8
           from: "00:00:28,24"
           to: "00:00:41,21"
-          text: ~
+          text: "noi, io e l’Alberta, eravamo d’accordo al mattino presto – già avevamo dato tutti i volantini – ma al mattino presto"
         sequence-9:
           s: 9
           from: "00:00:41,21"
           to: "00:00:49,21"
-          text: ~
+          text: "siam partite a andare a Montecavolo e ci siam fermate in tutte le case da contadini che erano là che mungevano le mucche"
         sequence-10:
           s: 10
           from: "00:00:49,21"
           to: "00:00:57,25"
-          text: ~
+          text: "a dirgli: “Vi ricordate che c’è lo sciopero dopo, quando avete portato il latte al caseificio, dopo non andate nei campi e venite allo sciopero”."
         sequence-11:
           s: 11
           from: "00:00:57,25"
           to: "00:01:00,21"
-          text: ~
+          text: "“Va bene, sì, siam d’accordo”."
         sequence-12:
           s: 12
           from: "00:01:00,21"
           to: "00:01:04,22"
-          text: ~
+          text: "E ci siam trovati. Lo sciopero è riuscito bene,"
         sequence-13:
           s: 13
           from: "00:01:04,22"
           to: "00:01:15,18"
-          text: ~
+          text: "i contadini – perché a Montecavolo molti erano dei contadini – però contadini e anche operai, quelli che erano dei nostri, hanno scioperato"
         sequence-14:
           s: 14
           from: "00:01:15,18"
           to: "00:01:19,08"
-          text: ~
+          text: "e lo sciopero a Montecavolo è riuscito."
         sequence-15:
           s: 15
           from: "00:01:19,08"
@@ -83,27 +83,27 @@ it:
           s: 16
           from: "00:01:20,06"
           to: "00:01:32,09"
-          text: ~
+          text: "Contro la guerra, contro a tutto quello che ci facevano, contro alla fame anche,"
         sequence-17:
           s: 17
           from: "00:01:32,09"
           to: "00:01:35,19"
-          text: ~
+          text: "perché noi avevamo anche fame, ci prendevano tutto..."
         sequence-18:
           s: 18
           from: "00:01:35,19"
           to: "00:01:47,20"
-          text: ~
+          text: "all’ammasso si portava il frumento, tutte le cose. I contadini portavano il vino, l’uva, tutto, eh, ci prendevano tutto,"
         sequence-19:
           s: 19
           from: "00:01:47,20"
           to: "00:01:55,12"
-          text: ~
+          text: "ecco perché dopo sono stati fatti... delle azioni anche che ci son stati delle volte anche dei morti"
         sequence-20:
           s: 20
           from: "00:01:55,12"
           to: "00:02:02,21"
-          text: ~
+          text: "per andare in questi ammassi a prendere tutta la roba che loro avevano preso a tutti noi."
         sequence-21:
           s: 21
           from: "00:02:02,21"
@@ -113,47 +113,47 @@ it:
           s: 22
           from: "00:02:03,15"
           to: "00:02:08,23"
-          text: ~
+          text: "Ho detto tante volte che il 1° marzo mio padre al mattino mi ha detto:"
         sequence-23:
           s: 23
           from: "00:02:08,23"
           to: "00:02:12,21"
-          text: ~
+          text: "“Sì Lidia, fai bene fare questo perché è una cosa importante,"
         sequence-24:
           s: 24
           from: "00:02:12,21"
           to: "00:02:17,16"
-          text: ~
+          text: "però pensa che da oggi la tua vita cambia”."
         sequence-25:
           s: 25
           from: "00:02:17,16"
           to: "00:02:21,13"
-          text: ~
+          text: "Ma io questo, non lo pensavo al mattino alle 7,"
         sequence-26:
           s: 26
           from: "00:02:21,13"
           to: "00:02:25,10"
-          text: ~
+          text: "che a mezzogiorno la mia vita cambiava,"
         sequence-27:
           s: 27
           from: "00:02:25,10"
           to: "00:02:32,01"
-          text: ~
+          text: "allora la mia vita è cambiata, sono diventata più responsabile... mi sentivo responsabile anche prima,"
         sequence-28:
           s: 28
           from: "00:02:32,01"
           to: "00:02:39,17"
-          text: ~
+          text: "perché già nelle mie cose che avevo fatto mi sentivo responsabile anche prima."
         sequence-29:
           s: 29
           from: "00:02:39,17"
           to: "00:02:49,19"
-          text: ~
+          text: "Però dopo ho avuto una esperienza diversa, le responsabilità diverse e... è cambiato un po’ tutto insomma."
         sequence-30:
           s: 30
           from: "00:02:49,19"
           to: "00:02:59,13"
-          text: ~
+          text: "Ero sempre Lidia, ma diciamo che ho avuto una bella esperienza"
         sequence-31:
           s: 31
           from: "00:02:59,13"
@@ -163,7 +163,7 @@ it:
           s: 32
           from: "00:03:00,21"
           to: "00:03:06,03"
-          text: ~
+          text: "e mi sono sentita forse anche un po’ orgogliosa di averlo fatto."
         sequence-33:
           s: 33
           from: "00:03:06,03"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:03:06,22"
           to: "00:03:18,25"
-          text: ~
+          text: "E’ arrivata una corriera che veniva giù da San Polo, da quelle parti là, e l’abbiamo fermata perché gli abbiam detto che c’era lo sciopero, che dovevano tornare indietro,"
         sequence-35:
           s: 35
           from: "00:03:18,25"
@@ -183,17 +183,17 @@ it:
           s: 36
           from: "00:03:20,05"
           to: "00:03:25,21"
-          text: ~
+          text: "e sopra c’erano dei militi. Allora li abbiamo fatti scendere, li abbiamo disarmati,"
         sequence-37:
           s: 37
           from: "00:03:25,21"
           to: "00:03:34,13"
-          text: ~
+          text: "loro ci han dato le armi senza opporsi e poi non sono tornati sulla corriera,"
         sequence-38:
           s: 38
           from: "00:03:34,13"
           to: "00:03:39,07"
-          text: ~
+          text: "si sono infilati a piedi, forse a andare verso casa a piedi."
         sequence-39:
           s: 39
           from: "00:03:39,07"
@@ -203,17 +203,17 @@ it:
           s: 40
           from: "00:03:41,04"
           to: "00:03:44,18"
-          text: ~
+          text: "Da questo non era successo niente,"
         sequence-41:
           s: 41
           from: "00:03:44,18"
           to: "00:03:56,17"
-          text: ~
+          text: "dopo è venuto fuori da una casa, lì lungo una via – noi eravamo nella strada principale, lì dalla piazza,"
         sequence-42:
           s: 42
           from: "00:03:56,17"
           to: "00:04:06,29"
-          text: ~
+          text: "con lo sciopero, con i nostri manifesti, ecc. – è venuto fuori un fascista, che era sfollato a Montecavolo,"
         sequence-43:
           s: 43
           from: "00:04:06,29"
@@ -223,12 +223,12 @@ it:
           s: 44
           from: "00:04:08,01"
           to: "00:04:15,29"
-          text: ~
+          text: "con il mitra ha cominciato a sparare, diciamo, subito secondo me per aria,"
         sequence-45:
           s: 45
           from: "00:04:15,29"
           to: "00:04:21,23"
-          text: ~
+          text: "aveva il mitra e in più, secondo me, aveva anche una rivoltella, penso."
         sequence-46:
           s: 46
           from: "00:04:21,23"
@@ -238,7 +238,7 @@ it:
           s: 47
           from: "00:04:24,16"
           to: "00:04:32,11"
-          text: ~
+          text: "E allora c’eravamo in tanti, e molti gli sono andati di dietro, poi siamo riusciti a disarmarlo e a fermarlo."
         sequence-48:
           s: 48
           from: "00:04:32,11"
@@ -248,17 +248,17 @@ it:
           s: 49
           from: "00:04:35,17"
           to: "00:04:58,01"
-          text: ~
+          text: "Qualcuno gli ha anche dato anche un qualche scapolotto, forse, però non è che gli abbiamo fatto del male da... diciamo non è che qualcuno abbia fatto delle cose per dire “lo ammazziamo” o..."
         sequence-50:
           s: 50
           from: "00:04:58,01"
           to: "00:05:07,05"
-          text: ~
+          text: "cioè, l’abbiamo solo disarmato e qualcuno gli può aver dato anche un calcio, comunque tutto è andato bene così;"
         sequence-51:
           s: 51
           from: "00:05:07,05"
           to: "00:05:20,25"
-          text: ~
+          text: "e poi lo sciopero è finito, noi abbiam tenuto le armi – che quelle poi le abbiam mandate in montagna – e poi abbiamo sciolto lo sciopero."
         sequence-52:
           s: 52
           from: "00:05:20,25"
@@ -268,14 +268,14 @@ it:
           s: 53
           from: "00:05:22,03"
           to: "00:05:31,05"
-          text: ~
+          text: "Dopo mezz’ora, a Montecavolo, che era mezzogiorno, c’era già il coprifuoco, la gente non poteva più venir fuori di casa."
         sequence-54:
           s: 54
           from: "00:05:31,05"
           to: "00:05:34,23"
-          text: ~
+          text: "Noi in bicicletta eravamo già –"
         sequence-55:
           s: 55
           from: "00:05:34,23"
           to: "00:05:45,25"
-          text: ~
+          text: "perché da Scampate a Montecavolo ci sono... ci saranno 3 km, non so... 4 – noi eravamo già arrivati a casa perché eravamo in bicicletta."

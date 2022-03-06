@@ -2,13 +2,13 @@ it:
   pierino-beggi:
     chapter-13:
       c: 13
-      title: ~
+      title: "Il sipario del teatro Valli"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,13"
           to: "00:00:03,12"
-          text: ~
+          text: "La storia del sipario... beh"
         sequence-2:
           s: 2
           from: "00:00:03,12"
@@ -18,22 +18,22 @@ it:
           s: 3
           from: "00:00:04,22"
           to: "00:00:12,01"
-          text: ~
+          text: "è una cosa molto... è riuscita molto bene ed è stata molto bella. E’ un orgoglio che noi abbiamo sempre tenuto."
         sequence-4:
           s: 4
           from: "00:00:12,01"
           to: "00:00:22,20"
-          text: ~
+          text: "Noi allora alla Timo avevamo un informatore, un compagno nostro che era un impiegato lì della Timo era anche un tecnico diciamo."
         sequence-5:
           s: 5
           from: "00:00:22,20"
           to: "00:00:32,00"
-          text: ~
+          text: "Però i tedeschi arrivati a Reggio Emilia avevano requisito una parte della Timo"
         sequence-6:
           s: 6
           from: "00:00:32,00"
           to: "00:00:35,25"
-          text: ~
+          text: "e lo avevano adibito a ufficio loro,"
         sequence-7:
           s: 7
           from: "00:00:35,25"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:39,28"
           to: "00:00:46,00"
-          text: ~
+          text: "i nostri amministravano diciamo il lavoro italiano"
         sequence-9:
           s: 9
           from: "00:00:46,00"
           to: "00:00:54,06"
-          text: ~
+          text: "e loro decifravano i cifrati che venivano dalla Germania, era un cifrato segreto che..."
         sequence-10:
           s: 10
           from: "00:00:54,06"
@@ -58,47 +58,47 @@ it:
           s: 11
           from: "00:00:55,13"
           to: "00:01:03,19"
-          text: ~
+          text: "Ma con l’andare del tempo sia i nostri informatori e un altro impiegato stando a lavorare assieme tutto il giorno"
         sequence-12:
           s: 12
           from: "00:01:03,19"
           to: "00:01:11,01"
-          text: ~
+          text: "andavano a prendere il caffè si creava una certa... una certa amicizia nel senso."
         sequence-13:
           s: 13
           from: "00:01:11,01"
           to: "00:01:20,21"
-          text: ~
+          text: "E lì aveva captato che un cifrato di quelli che i tedeschi stavano, che poi dicevano di cosa si trattava per certe cose,"
         sequence-14:
           s: 14
           from: "00:01:20,21"
           to: "00:01:28,21"
-          text: ~
+          text: "i tedeschi avevano ricevuto l’ordine dal comando centrale di Berlino di recuperare"
         sequence-15:
           s: 15
           from: "00:01:28,21"
           to: "00:01:36,03"
-          text: ~
+          text: "il sipario di Reggio Emilia del grande pittore Chierici e di portarlo a Bologna"
         sequence-16:
           s: 16
           from: "00:01:36,03"
           to: "00:01:43,00"
-          text: ~
+          text: "che poi veniva trasferito a Berlino. Ordine preciso, al più presto."
         sequence-17:
           s: 17
           from: "00:01:43,00"
           to: "00:01:50,24"
-          text: ~
+          text: "E questo qui veniva a casa mia perché sapeva che io lavorava eccetera e dice:"
         sequence-18:
           s: 18
           from: "00:01:50,24"
           to: "00:01:59,24"
-          text: ~
+          text: "“Guarda che ho saputo che vogliono prendere il sipario di Reggio Emilia e portarlo a Bologna"
         sequence-19:
           s: 19
           from: "00:01:59,24"
           to: "00:02:05,09"
-          text: ~
+          text: "che poi lo portano in Germania a Berlino, c’è l’ordine –"
         sequence-20:
           s: 20
           from: "00:02:05,09"
@@ -108,22 +108,22 @@ it:
           s: 21
           from: "00:02:06,21"
           to: "00:02:14,00"
-          text: ~
+          text: "e dice – io ve l’ho detto”. E io e Fiorello diciamo: “E allora bisogna fare qualcosa”."
         sequence-22:
           s: 22
           from: "00:02:14,00"
           to: "00:02:23,06"
-          text: ~
+          text: "Ci siamo riuniti e abbiamo preparato il piano. C’era da portarlo fuori."
         sequence-23:
           s: 23
           from: "00:02:23,06"
           to: "00:02:32,26"
-          text: ~
+          text: "Tramite informazioni, il sipario era più di 20 metri, con una macchina non si porta via, con un camioncino nemmeno"
         sequence-24:
           s: 24
           from: "00:02:32,26"
           to: "00:02:38,04"
-          text: ~
+          text: "c’era da studiare di trovare un automezzo da poterlo asportare."
         sequence-25:
           s: 25
           from: "00:02:38,04"
@@ -133,32 +133,32 @@ it:
           s: 26
           from: "00:02:39,21"
           to: "00:02:53,12"
-          text: ~
+          text: "E poi lì abbiamo trovato uno, infatti ha portato un camion lungo, a Rubiera"
         sequence-27:
           s: 27
           from: "00:02:53,12"
           to: "00:03:05,08"
-          text: ~
+          text: "che poi credo che fosse di Rubiera anche lui ma non... Però si pensava anche questo sipario arrotolarlo e dove portarlo"
         sequence-28:
           s: 28
           from: "00:03:05,08"
           to: "00:03:24,09"
-          text: ~
+          text: "e anche a nasconderlo bisognava metterlo in un involucro, qualcosa... e pensando se noi prendessimo un tubo e lo ce lo infiliamo dentro, quei tubi grossi che usano a fare gli acquedotti per la bonifica... C’era uno che la sapeva lunga da quel lato lì si vedeva che ci lavorava dentro,"
         sequence-29:
           s: 29
           from: "00:03:24,09"
           to: "00:03:30,26"
-          text: ~
+          text: "e ha trovato un tubo di rame, grosso."
         sequence-30:
           s: 30
           from: "00:03:30,26"
           to: "00:03:39,07"
-          text: ~
+          text: "E c’era il problema di calare, perché metà era arrotolato e metà era ancora su il sipario"
         sequence-31:
           s: 31
           from: "00:03:39,07"
           to: "00:03:45,07"
-          text: ~
+          text: "Infatti siamo entrati in cinque dentro più quei due che erano bendati,"
         sequence-32:
           s: 32
           from: "00:03:45,07"
@@ -168,12 +168,12 @@ it:
           s: 33
           from: "00:03:46,07"
           to: "00:03:54,20"
-          text: ~
+          text: "uno mi sembrava, abbiamo dubitato, che era uno del teatro, perché a muovere quelle carrucole lì allora erano carrucole di legno"
         sequence-34:
           s: 34
           from: "00:03:54,20"
           to: "00:04:03,24"
-          text: ~
+          text: "e infatti si vedono ancora, adesso usano i mezzi automatici però le carrucole lì... le hanno lasciate come museo del teatro."
         sequence-35:
           s: 35
           from: "00:04:03,24"
@@ -183,34 +183,34 @@ it:
           s: 36
           from: "00:04:05,27"
           to: "00:04:15,06"
-          text: ~
+          text: "E abbiamo calato e siamo riusciti piano piano a strisciarlo... ma c’era un altro problema,"
         sequence-37:
           s: 37
           from: "00:04:15,06"
           to: "00:04:26,11"
-          text: ~
+          text: "che portare un rimorchio, un camion così grosso dietro il teatro e passare per i giardini c’era da rischiare la multa dei vigili allora bisognava farsi fare un permesso,"
         sequence-38:
           s: 38
           from: "00:04:26,11"
           to: "00:04:41,20"
-          text: ~
+          text: "avevano voluto saper il perché, il perché dico si deve portar fuori delle cianfrusaglie del teatro che le devono bruciare dice della roba di cartaceo e dico il camion ci vuole per caricare tutto"
         sequence-39:
           s: 39
           from: "00:04:41,20"
           to: "00:04:51,23"
-          text: ~
+          text: "e ci hanno fatto il permesso. E siamo riusciti a caricare il sipario che però nonostante che era lungo il rimorchio un pezzetto rimaneva fuori."
         sequence-40:
           s: 40
           from: "00:04:51,23"
           to: "00:04:56,26"
-          text: ~
+          text: "Dopo c’era da pensare dove portarlo."
         sequence-41:
           s: 41
           from: "00:04:56,26"
           to: "00:05:07,21"
-          text: ~
+          text: "Siccome lì alla Biasola nella zona mia ci abitavo io, Fiorello, c’era un gruppo di GAP che abitava lì, se lo portiamo vicino casa nostra così gli diamo anche un’occhiata."
         sequence-42:
           s: 42
           from: "00:05:07,21"
           to: "00:05:13,16"
-          text: ~
+          text: "E lo abbiamo portato andando dentro Villa Levi."

@@ -2,13 +2,13 @@ it:
   pierino-beggi:
     chapter-11:
       c: 11
-      title: ~
+      title: "La morte di Fiorello"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:02,21"
           to: "00:00:10,21"
-          text: ~
+          text: "Cosa è successo, che sul Ghiardo si era incanalata la brigata nera con dei tedeschi..."
         sequence-2:
           s: 2
           from: "00:00:10,21"
@@ -18,37 +18,37 @@ it:
           s: 3
           from: "00:00:13,01"
           to: "00:00:17,25"
-          text: ~
+          text: "un ragazzo che camminava, un ragazzo, era un ventenne,"
         sequence-4:
           s: 4
           from: "00:00:17,25"
           to: "00:00:25,29"
-          text: ~
+          text: "che camminava sulla strada del Ghiardo, quando ha visto la brigata nera e gli autoblindi che arrivavano,"
         sequence-5:
           s: 5
           from: "00:00:25,29"
           to: "00:00:39,15"
-          text: ~
+          text: "è scappato attraverso, ha saltato la siepe e si è messo a correre attraverso i campi in campagna e ha infilato il viottolo che veniva nella casa dove eravamo noi nel fienile appostati."
         sequence-6:
           s: 6
           from: "00:00:39,15"
           to: "00:00:49,25"
-          text: ~
+          text: "Noi vedendo il camioncino della brigata nera venire dentro il cortile siamo stati costretti a far fuoco."
         sequence-7:
           s: 7
           from: "00:00:49,25"
           to: "00:00:54,05"
-          text: ~
+          text: "Beh dico se vengono ti fanno fuori..."
         sequence-8:
           s: 8
           from: "00:00:54,05"
           to: "00:01:01,01"
-          text: ~
+          text: "Portandosi fuori dalla casa, ci siamo portati lì nelle alture e lì è nato il combattimento,"
         sequence-9:
           s: 9
           from: "00:01:01,01"
           to: "00:01:10,15"
-          text: ~
+          text: "loro si sono schierati oltre la siepe sul viario e sparavano. E Fiorello ha preso un colpo di tacpum (fucile tedesco) nel cuore, ci ha lasciato le penne."
         sequence-10:
           s: 10
           from: "00:01:10,15"
@@ -58,27 +58,27 @@ it:
           s: 11
           from: "00:01:12,19"
           to: "00:01:19,01"
-          text: ~
+          text: "Ma quando è scappato, quando è arrivato il camioncino nel cortile"
         sequence-12:
           s: 12
           from: "00:01:19,01"
           to: "00:01:27,12"
-          text: ~
+          text: "è scappato uno dei nostri che avevamo lì, Francia, è scappato e loro hanno sparato"
         sequence-13:
           s: 13
           from: "00:01:27,12"
           to: "00:01:37,09"
-          text: ~
+          text: "ecco perché noi abbiamo reagito, abbiamo sparato perché avevano sparato a uno dei nostri quando scappava, lui invece di venire su sul fienile"
         sequence-14:
           s: 14
           from: "00:01:37,09"
           to: "00:01:44,16"
-          text: ~
+          text: "scappava in campagna e purtroppo poverino ci ha lasciato le penne anche lui."
         sequence-15:
           s: 15
           from: "00:01:44,16"
           to: "00:01:50,05"
-          text: ~
+          text: "E loro hanno sparato e noi abbiamo fatto fuori quanti ce n’erano sul camioncino."
         sequence-16:
           s: 16
           from: "00:01:50,05"
@@ -88,19 +88,19 @@ it:
           s: 17
           from: "00:01:51,14"
           to: "00:01:56,16"
-          text: ~
+          text: "Fiorello siamo andati a prenderlo la sera"
         sequence-18:
           s: 18
           from: "00:01:56,16"
           to: "00:02:00,05"
-          text: ~
+          text: "perché di giorno erano appostati e non era possibile."
         sequence-19:
           s: 19
           from: "00:02:00,05"
           to: "00:02:06,04"
-          text: ~
+          text: "Alla sera lo abbiamo avvolto in un panno e lo abbiamo portato nel cimitero di Codemondo"
         sequence-20:
           s: 20
           from: "00:02:06,04"
           to: "00:02:12,19"
-          text: ~
+          text: "dove c’era una tomba di famiglia e abbiamo fatto il funerale, un gruppetto fra di noi."

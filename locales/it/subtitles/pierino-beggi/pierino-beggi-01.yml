@@ -2,13 +2,13 @@ it:
   pierino-beggi:
     chapter-1:
       c: 1
-      title: ~
+      title: "Presentazione e familia; 8 settembre 1943; fuga dalla prigionia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,21"
           to: "00:00:06,01"
-          text: ~
+          text: "Beggi Pierino, nome di battaglia “Gigi”."
         sequence-2:
           s: 2
           from: "00:00:06,01"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:08,16"
           to: "00:00:13,07"
-          text: ~
+          text: "Nato a Reggio Emilia."
         sequence-4:
           s: 4
           from: "00:00:13,07"
           to: "00:00:24,05"
-          text: ~
+          text: "Beh la maggior parte, fino a vent’anni ho vissuto dove attualmente c’è la Biasola, là al parco, al parco diciamo locale"
         sequence-5:
           s: 5
           from: "00:00:24,05"
@@ -33,22 +33,22 @@ it:
           s: 6
           from: "00:00:25,29"
           to: "00:00:33,08"
-          text: ~
+          text: "lì c’era il podere che c’era mio papà che faceva il contadino, l’agricoltore."
         sequence-7:
           s: 7
           from: "00:00:33,08"
           to: "00:00:45,16"
-          text: ~
+          text: "Noi eravamo i figli che siamo cresciuti lavorando con lui. Poi a venti anni siamo stati chiamati alle armi... eh... a quei tempi."
         sequence-8:
           s: 8
           from: "00:00:45,16"
           to: "00:00:54,05"
-          text: ~
+          text: "Abbiamo fatto tre anni, io ho fatto tre anni nel Genio a Torino,"
         sequence-9:
           s: 9
           from: "00:00:54,05"
           to: "00:01:02,20"
-          text: ~
+          text: "poi ci siamo trasferiti, ci hanno trasferiti a Bardonecchia e siamo rimasti lì per tre anni."
         sequence-10:
           s: 10
           from: "00:01:02,20"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:01:03,15"
           to: "00:01:06,13"
-          text: ~
+          text: "L’8 settembre siamo stati... eh diciamo..."
         sequence-12:
           s: 12
           from: "00:01:06,13"
@@ -68,17 +68,17 @@ it:
           s: 13
           from: "00:01:08,19"
           to: "00:01:16,08"
-          text: ~
+          text: "prima di partire c’era arrivato l’ordine dal generale Vercellino di minare la galleria del Frejus"
         sequence-14:
           s: 14
           from: "00:01:16,08"
           to: "00:01:25,24"
-          text: ~
+          text: "perché i tedeschi venivano dentro con i carriarmati e... il treno merci con tutto l’equipaggio."
         sequence-15:
           s: 15
           from: "00:01:25,24"
           to: "00:01:38,00"
-          text: ~
+          text: "Abbiamo portato dentro, allora dicevano 14 quintali di esplosivo da far saltare la galleria del Frejus. Infatti è stata fatta saltare."
         sequence-16:
           s: 16
           from: "00:01:38,00"
@@ -88,32 +88,32 @@ it:
           s: 17
           from: "00:01:39,13"
           to: "00:01:48,02"
-          text: ~
+          text: "Ma loro entravano dalla strada varcando le montagne e sparando."
         sequence-18:
           s: 18
           from: "00:01:48,02"
           to: "00:01:58,07"
-          text: ~
+          text: "Di lì è arrivato l’ordine di scappare verso Torino e siamo andati, cento chilometri e siamo arrivati a Torino, a piedi, attraverso le campagne."
         sequence-19:
           s: 19
           from: "00:01:58,07"
           to: "00:02:09,23"
-          text: ~
+          text: "Ma però a Torino eravamo circondati dai tedeschi perché loro erano entrati dalla strada e avevano già camminati con gli automezzi ed erano arrivati a Torino."
         sequence-20:
           s: 20
           from: "00:02:09,23"
           to: "00:02:14,19"
-          text: ~
+          text: "E di lì la buona parte ci hanno fatto prigionieri"
         sequence-21:
           s: 21
           from: "00:02:14,19"
           to: "00:02:26,28"
-          text: ~
+          text: "e ci hanno fatto salire sul treno merci e ci mettevano una settantina ogni carro merce,"
         sequence-22:
           s: 22
           from: "00:02:26,28"
           to: "00:02:33,11"
-          text: ~
+          text: "che avevano scaricato del bestiame prima, c’era la paglia e così... settanta ogni..."
         sequence-23:
           s: 23
           from: "00:02:33,11"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:02:34,22"
           to: "00:02:47,22"
-          text: ~
+          text: "in attesa di partire, che poi siamo andati... siamo andati sulla ferrovia e ci hanno portato... dicevano che andavamo in Germania."
         sequence-25:
           s: 25
           from: "00:02:47,22"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:49,27"
           to: "00:02:57,25"
-          text: ~
+          text: "Lì è successo che a Codoglio di Piacenza si è fermato il treno, perché"
         sequence-27:
           s: 27
           from: "00:02:57,25"
@@ -143,17 +143,17 @@ it:
           s: 28
           from: "00:03:02,22"
           to: "00:03:10,01"
-          text: ~
+          text: "era un treno a carbone eh... cioè non era elettrico... un treno... allora erano quasi tutti a vapore, a carbone."
         sequence-29:
           s: 29
           from: "00:03:10,01"
           to: "00:03:16,15"
-          text: ~
+          text: "Lì il treno si è fermato perché aspettava la coincidenza di un altro treno che veniva dall’opposto."
         sequence-30:
           s: 30
           from: "00:03:16,15"
           to: "00:03:20,09"
-          text: ~
+          text: "E lì siamo stati fermi un bel pochino."
         sequence-31:
           s: 31
           from: "00:03:20,09"
@@ -163,17 +163,17 @@ it:
           s: 32
           from: "00:03:21,18"
           to: "00:03:32,19"
-          text: ~
+          text: "E nel mentre dato che eravamo tanti ogni vagone, c’era caldo non c’era aria che circolava, qualcuno sveniva..."
         sequence-33:
           s: 33
           from: "00:03:32,19"
           to: "00:03:44,27"
-          text: ~
+          text: "allora hanno aperto i portoni scorrevoli, due palmi non di più, per aver la possibilità di respirare."
         sequence-34:
           s: 34
           from: "00:03:44,27"
           to: "00:03:54,05"
-          text: ~
+          text: "In quel tempo lì i tedeschi erano quattro, noi eravamo più di quattromila, sul treno."
         sequence-35:
           s: 35
           from: "00:03:54,05"
@@ -183,47 +183,47 @@ it:
           s: 36
           from: "00:03:58,21"
           to: "00:04:09,13"
-          text: ~
+          text: "E... mentre loro camminavano avanti e indietro vicino al treno, sempre con la maxi pistola a tracolla"
         sequence-37:
           s: 37
           from: "00:04:09,13"
           to: "00:04:19,22"
-          text: ~
+          text: "io avevo, avevamo uno zainetto a dietro noi, avevamo preso un po’ di roba prima di scappare e avevo la gavetta dove si mangiava,"
         sequence-38:
           s: 38
           from: "00:04:19,22"
           to: "00:04:28,20"
-          text: ~
+          text: "ci ho chiesto al tedesco, perché c’era una fontanina lì in stazione e noi era due giorni che non si beveva."
         sequence-39:
           s: 39
           from: "00:04:28,20"
           to: "00:04:35,13"
-          text: ~
+          text: "Forse non è stato il coraggio di scappare ma è stata la sete e la disperazione. E ci ho chiesto se"
         sequence-40:
           s: 40
           from: "00:04:35,13"
           to: "00:04:43,08"
-          text: ~
+          text: "mi lasciava prendere una gavetta d’acqua e lui: “Ja, ja, ja”, e allora son sceso dal treno e sono andato."
         sequence-41:
           s: 41
           from: "00:04:43,08"
           to: "00:04:51,02"
-          text: ~
+          text: "Nel mentre lui ha raggiunto l’altro collega che era più avanti, ci ha spezzettato un pezzetto di cocomero che mangiava"
         sequence-42:
           s: 42
           from: "00:04:51,02"
           to: "00:04:57,17"
-          text: ~
+          text: "e io ho buttato via la gavetta e poi sono scappato come un razzo. Ero magro... ventitrè anni."
         sequence-43:
           s: 43
           from: "00:04:57,17"
           to: "00:05:01,25"
-          text: ~
+          text: "Son scappato e lui ha tirato fuori la maxi pistola e mi ha sparato a dietro."
         sequence-44:
           s: 44
           from: "00:05:01,25"
           to: "00:05:09,28"
-          text: ~
+          text: "Ma dietro di me quando sono scappato mi ha inseguito un altro, un amico, uno del Genio, anche lui militare soldato"
         sequence-45:
           s: 45
           from: "00:05:09,28"
@@ -233,4 +233,4 @@ it:
           s: 46
           from: "00:05:11,09"
           to: "00:05:18,01"
-          text: ~
+          text: "e lui ha preso una scoppiettata nelle cosce ed è andato a cavalcioni nella rotaia del treno."

@@ -1,0 +1,231 @@
+it:
+  francesco-bertacchini:
+    chapter-8:
+      c: 8
+      title: Disciplina
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:02,00"
+          to: "00:00:13,14"
+          text: "Quanto alla disciplina mi è capitato che aveva cominciato a farmi male un dente e allora vado a cercare un medico,"
+        sequence-2:
+          s: 2
+          from: "00:00:13,15"
+          to: "00:00:17,06"
+          text: "eravamo su a Cerreto Alpi:"
+        sequence-3:
+          s: 3
+          from: "00:00:17,07"
+          to: "00:00:28,15"
+          text: "vado a cercare il dottore e mi fa “Non ho la pinza per levare i denti di sotto”."
+        sequence-4:
+          s: 4
+          from: "00:00:28,16"
+          to: "00:00:36,16"
+          text: "A me faceva un male che non riuscivo né a dormire né a mangiare allora mi ha detto"
+        sequence-5:
+          s: 5
+          from: "00:00:36,17"
+          to: "00:00:45,06"
+          text: "“Adesso mi occupo di questo attrezzo e poi ti faccio venire a levarlo”;"
+        sequence-6:
+          s: 6
+          from: "00:00:45,07"
+          to: "00:00:53,03"
+          text: "per farmi togliere il male mi ha detto “Te adesso vai a trovare in paese una patata"
+        sequence-7:
+          s: 7
+          from: "00:00:53,04"
+          to: "00:01:05,07"
+          text: "da qualche famiglia e dopo te la fai grattugiare e te la metti dove hai il male e vedrai che ti passa”."
+        sequence-8:
+          s: 8
+          from: "00:01:07,19"
+          to: "00:01:15,02"
+          text: "E difatti prima di andare di sentinella di notte"
+        sequence-9:
+          s: 9
+          from: "00:01:15,03"
+          to: "00:01:23,20"
+          text: "ho fatto questo lavoro poi mi sono messo il fazzoletto e poi sono andato non proprio vicino alla strada"
+        sequence-10:
+          s: 10
+          from: "00:01:23,21"
+          to: "00:01:30,21"
+          text: "ma un po' più riparato così da poter vedere chi veniva o chi andava;"
+        sequence-11:
+          s: 11
+          from: "00:01:30,22"
+          to: "00:01:37,14"
+          text: "fatto sta che mi sono messo là a sedere a pensare ai miei casi, alla mia gioventù,"
+        sequence-12:
+          s: 12
+          from: "00:01:37,15"
+          to: "00:01:42,03"
+          text: "alla mia famiglia che ho lasciato, a una storia e l'altra,"
+        sequence-13:
+          s: 13
+          from: "00:01:42,04"
+          to: "00:01:50,14"
+          text: "si vede che la patata ha fatto effetto, erano già un paio di giorni che non stavo bene con quel male al dente"
+        sequence-14:
+          s: 14
+          from: "00:01:50,15"
+          to: "00:01:53,18"
+          text: "e mi sono addormentato."
+        sequence-15:
+          s: 15
+          from: "00:01:53,19"
+          to: "00:02:01,02"
+          text: "C'era il comandate del “Cervi” che era Arturo Gambuzzi,"
+        sequence-16:
+          s: 16
+          from: "00:02:01,03"
+          to: "00:02:07,04"
+          text: "c'era Trolli che era venuto lì per una riunione,"
+        sequence-17:
+          s: 17
+          from: "00:02:07,05"
+          to: "00:02:11,07"
+          text: "c'erano altri due o tre caposquadra,"
+        sequence-18:
+          s: 18
+          from: "00:02:11,08"
+          to: "00:02:22,17"
+          text: "sono andati a quell'albergo che c'è prima di arrivare sul valico del Cerreto, anche quello lì ce l'avevo a portata di mano, era un lavoro..."
+        sequence-19:
+          s: 19
+          from: "00:02:30,05"
+          to: "00:02:35,01"
+          text: "Allora hanno finito la riunione e sono venuti in distaccamento:"
+        sequence-20:
+          s: 20
+          from: "00:02:35,02"
+          to: "00:02:46,01"
+          text: "come sono arrivati all'inizio della mulattiera non li ho sentiti perché si vede che il sonno mi aveva preso bene."
+        sequence-21:
+          s: 21
+          from: "00:02:46,02"
+          to: "00:02:51,16"
+          text: "Hanno cominciato a gridare “Ma dov'è la sentinella? Ma dov'è la sentinella?"
+        sequence-22:
+          s: 22
+          from: "00:02:51,17"
+          to: "00:02:57,02"
+          text: "Dovrebbe esserci la sentinella qua! Ma come mai non c'è?"
+        sequence-23:
+          s: 23
+          from: "00:02:57,03"
+          to: "00:03:03,12"
+          text: "E' una zona da restare senza sentinella qua!?”"
+        sequence-24:
+          s: 24
+          from: "00:03:03,13"
+          to: "00:03:07,12"
+          text: "fintanto che mi sono arrivati vicino e mi sono svegliato"
+        sequence-25:
+          s: 25
+          from: "00:03:07,13"
+          to: "00:03:13,24"
+          text: "“Sono qua, mi fa male il dente...” “Va bene. Ne parleremo domattina”."
+        sequence-26:
+          s: 26
+          from: "00:03:14,00"
+          to: "00:03:21,23"
+          text: "Alla mattina una grande riunione... La Gabellina era il ristorante!"
+        sequence-27:
+          s: 27
+          from: "00:03:21,24"
+          to: "00:03:29,21"
+          text: "Una riunione alla veloce per darmi la punizione perché non si poteva stare..."
+        sequence-28:
+          s: 28
+          from: "00:03:29,22"
+          to: "00:03:35,09"
+          text: "Però anch'io dovevo dire non mi sento"
+        sequence-29:
+          s: 29
+          from: "00:03:35,10"
+          to: "00:03:40,16"
+          text: "di fare la sentinella allora mi davano il cambio,"
+        sequence-30:
+          s: 30
+          from: "00:03:40,17"
+          to: "00:03:48,13"
+          text: "ma l'autodisciplina che ci eravamo proposti di fare non mi"
+        sequence-31:
+          s: 31
+          from: "00:03:48,14"
+          to: "00:03:54,22"
+          text: "dava la cosa di mandare un altro mio compagno di sentinella,"
+        sequence-32:
+          s: 32
+          from: "00:03:54,23"
+          to: "00:03:58,06"
+          text: "era il mio turno e quindi lo dovevo fare."
+        sequence-33:
+          s: 33
+          from: "00:03:58,07"
+          to: "00:04:04,18"
+          text: "Allora lì hanno capito la situazione com'era: una giornata di palo."
+        sequence-34:
+          s: 34
+          from: "00:04:06,24"
+          to: "00:04:14,13"
+          text: "Hanno pulito una pianta appena fuori dove eravamo accampati,"
+        sequence-35:
+          s: 35
+          from: "00:04:14,14"
+          to: "00:04:20,09"
+          text: "perché anche lì bisognava andare con i piedi di piombo, senza far rumore"
+        sequence-36:
+          s: 36
+          from: "00:04:20,10"
+          to: "00:04:30,02"
+          text: "perché noi potevamo vedere la strada statale però si poteva anche sentire chi parlava di là."
+        sequence-37:
+          s: 37
+          from: "00:04:30,03"
+          to: "00:04:35,04"
+          text: "Fatto sta che mi mettono al palo tutta la giornata"
+        sequence-38:
+          s: 38
+          from: "00:04:35,05"
+          to: "00:04:40,04"
+          text: "e quando è arrivata la sera tutti mi scanzonavano,"
+        sequence-39:
+          s: 39
+          from: "00:04:40,05"
+          to: "00:04:50,23"
+          text: "tutti ridevano perché lasciarsi addormentare in un posto così pericoloso era una cosa che..."
+        sequence-40:
+          s: 40
+          from: "00:04:50,24"
+          to: "00:04:54,11"
+          text: "Allora me la sono ricordata e quando c'era qualcosa"
+        sequence-41:
+          s: 41
+          from: "00:04:54,12"
+          to: "00:05:00,00"
+          text: "preferenza di fare brutta figura verso i compagni non accettavo"
+        sequence-42:
+          s: 42
+          from: "00:05:00,01"
+          to: "00:05:07,24"
+          text: "per la cosa di fare quello che effettivamente si doveva fare per essere tranquilli,"
+        sequence-43:
+          s: 43
+          from: "00:05:08,00"
+          to: "00:05:12,01"
+          text: "perché quando eri di sentinella o di pattuglia"
+        sequence-44:
+          s: 44
+          from: "00:05:12,02"
+          to: "00:05:16,05"
+          text: "dovevi fare il lavoro, dovevi fare effettivamente quello che si doveva fare,"
+        sequence-45:
+          s: 45
+          from: "00:05:19,16"
+          to: "00:05:24,14"
+          text: "lasciar tranquillo il distaccamento."

@@ -2,63 +2,63 @@ it:
   ana-zablatnik:
     chapter-10:
       c: 10
-      title: ~
+      title: "Discriminazione degli sloveni dopo la guerra"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,01"
           to: "00:00:08,04"
-          text: ~
+          text: "Hai dovuto difenderti sempre e non sei mai stato accettato."
         sequence-2:
           s: 2
           from: "00:00:08,04"
           to: "00:00:21,07"
-          text: ~
+          text: "Alla locanda eri deriso o insultato come un traditore del tuo paese d'origine."
         sequence-3:
           s: 3
           from: "00:00:21,07"
           to: "00:00:30,00"
-          text: ~
+          text: "Mio padre stava suonando musica dal vicino, quando qualcuno gli prese il trombone e lo ruppe."
         sequence-4:
           s: 4
           from: "00:00:30,00"
           to: "00:00:35,21"
-          text: ~
+          text: "E dopo disse: \"Tornatene a Laibach o da dove vieni.\""
         sequence-5:
           s: 5
           from: "00:00:35,21"
           to: "00:00:38,06"
-          text: ~
+          text: "Cose come questa sono successe molto spesso."
         sequence-6:
           s: 6
           from: "00:00:38,06"
           to: "00:00:46,26"
-          text: ~
+          text: "Oppure una volta, mentre eravamo alla locanda, alcuni giovinastri arrivarono e urlarono:"
         sequence-7:
           s: 7
           from: "00:00:46,26"
           to: "00:00:52,18"
-          text: ~
+          text: "\"Andatevene!\" e \"Traditori, che cosa ci fate qui?\""
         sequence-8:
           s: 8
           from: "00:00:52,18"
           to: "00:01:00,12"
-          text: ~
+          text: "Anche se mio marito è stato riconosciuto come partigiano."
         sequence-9:
           s: 9
           from: "00:01:00,12"
           to: "00:01:17,19"
-          text: ~
+          text: "A Maddau, quando le famiglie reinsediate avevano il loro incontro annuale nel cinema pubblico,"
         sequence-10:
           s: 10
           from: "00:01:17,19"
           to: "00:01:22,12"
-          text: ~
+          text: "si decise di fare una marcia di protesta silenziosa fino alla cattedrale."
         sequence-11:
           s: 11
           from: "00:01:22,12"
           to: "00:01:33,20"
-          text: ~
+          text: "Anche se il vescovo non lo ha permesso, ci siamo comunque arrivati."
         sequence-12:
           s: 12
           from: "00:01:33,20"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:35,24"
           to: "00:01:44,29"
-          text: ~
+          text: "Alla stazione di polizia, i poliziotti ci stavano già aspettando con i vigili del fuoco."
         sequence-14:
           s: 14
           from: "00:01:44,29"
@@ -78,17 +78,17 @@ it:
           s: 15
           from: "00:01:46,11"
           to: "00:01:51,01"
-          text: ~
+          text: "Giunti fin lì, c'era una barriera."
         sequence-16:
           s: 16
           from: "00:01:51,01"
           to: "00:02:00,17"
-          text: ~
+          text: "Alcuni di noi si sono lanciati di scatto cercando di aprire un varco."
         sequence-17:
           s: 17
           from: "00:02:00,17"
           to: "00:02:29,17"
-          text: ~
+          text: "Alla fine ci hanno puntato i tubi e al posto del saluto ci hanno scolati."
         sequence-18:
           s: 18
           from: "00:02:29,17"
@@ -98,27 +98,27 @@ it:
           s: 19
           from: "00:02:31,04"
           to: "00:02:37,02"
-          text: ~
+          text: "Dall'altro lato stavano i piedi gli inglesi."
         sequence-20:
           s: 20
           from: "00:02:37,02"
           to: "00:02:44,05"
-          text: ~
+          text: "Ero così arrabbiata: \"Oh, questi sarebbero i nostri alleati?\""
         sequence-21:
           s: 21
           from: "00:02:44,05"
           to: "00:02:48,06"
-          text: ~
+          text: "Gli ridemmo in faccia."
         sequence-22:
           s: 22
           from: "00:02:48,06"
           to: "00:02:54,02"
-          text: ~
+          text: "Le nostre donne - le nostre madri piangevano e gridavano."
         sequence-23:
           s: 23
           from: "00:02:54,02"
           to: "00:03:03,02"
-          text: ~
+          text: "Dicevo allora: \"Se potessi gli salterei sulla faccia e gliela spaccherei.\""
         sequence-24:
           s: 24
           from: "00:03:03,02"
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:03:07,20"
           to: "00:03:15,28"
-          text: ~
+          text: "Nello stesso momento in cui, l'Austria viene liberata, noi veniamo liberati,"
         sequence-26:
           s: 26
           from: "00:03:15,28"
           to: "00:03:23,26"
-          text: ~
+          text: "e devi ancora affrontare cose del genere, ci rendeva furiose."
         sequence-27:
           s: 27
           from: "00:03:23,26"
@@ -143,17 +143,17 @@ it:
           s: 28
           from: "00:03:36,14"
           to: "00:03:50,09"
-          text: ~
+          text: "Fino al 1955 potevano imparare il tedesco e lo sloveno a scuola, dato che era un'area bilingue."
         sequence-29:
           s: 29
           from: "00:03:50,09"
           to: "00:03:58,14"
-          text: ~
+          text: "All'improvviso con il trattato è cambiato di nuovo. Ci fu un trattato di stato intorno al 1957."
         sequence-30:
           s: 30
           from: "00:03:58,14"
           to: "00:04:07,16"
-          text: ~
+          text: "I maestri andarono nelle strade con i loro ragazzi"
         sequence-31:
           s: 31
           from: "00:04:07,16"
@@ -163,29 +163,29 @@ it:
           s: 32
           from: "00:04:11,17"
           to: "00:04:17,09"
-          text: ~
+          text: "e protestarono perché non potevano più insegnare e imparare lo sloveno."
         sequence-33:
           s: 33
           from: "00:04:17,09"
           to: "00:04:28,15"
-          text: ~
+          text: "Dopo i nostri ragazzi dovevano essere iscritti dai loro genitori, se volevano che imparassero lo sloveno."
         sequence-34:
           s: 34
           from: "00:04:28,15"
           to: "00:04:34,01"
-          text: ~
+          text: "Solo i più grandi non dovevano."
         sequence-35:
           s: 35
           from: "00:04:34,01"
           to: "00:04:38,25"
-          text: ~
+          text: "Ma le lezioni non erano uguali a quelle in tedesco."
         sequence-36:
           s: 36
           from: "00:04:38,25"
           to: "00:04:41,14"
-          text: ~
+          text: "Avevano solo poche lezioni."
         sequence-37:
           s: 37
           from: "00:04:41,14"
           to: "00:04:48,20"
-          text: ~
+          text: "Questa era un'altra discriminazione degli sloveni della Carinzia."

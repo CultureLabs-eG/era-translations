@@ -2,68 +2,68 @@ it:
   ana-zablatnik:
     chapter-8:
       c: 8
-      title: ~
+      title: "Le terribili condizioni in prigione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:09,06"
-          text: ~
+          text: "Circa 40 - 50 donne stavano in una cella con 10 letti."
         sequence-2:
           s: 2
           from: "00:00:09,06"
           to: "00:00:16,13"
-          text: ~
+          text: "Le une dovevano dormire accanto alle altre o in tre in un letto o sul pavimento."
         sequence-3:
           s: 3
           from: "00:00:16,13"
           to: "00:00:18,21"
-          text: ~
+          text: "Eravamo così tante."
         sequence-4:
           s: 4
           from: "00:00:18,21"
           to: "00:00:23,17"
-          text: ~
+          text: "Avevamo un solo recipiente per gabinetto,"
         sequence-5:
           s: 5
           from: "00:00:23,17"
           to: "00:00:28,02"
-          text: ~
+          text: "e la mattina c'era di tutto lì dentro,"
         sequence-6:
           s: 6
           from: "00:00:28,02"
           to: "00:00:31,24"
-          text: ~
+          text: "e ti puoi immaginare come sembrava."
         sequence-7:
           s: 7
           from: "00:00:31,24"
           to: "00:00:38,15"
-          text: ~
+          text: "Nessuno portò materassi di nuova paglia."
         sequence-8:
           s: 8
           from: "00:00:38,15"
           to: "00:00:40,21"
-          text: ~
+          text: "Con il cibo era lo stesso."
         sequence-9:
           s: 9
           from: "00:00:40,21"
           to: "00:00:47,11"
-          text: ~
+          text: "Al mattino c'era una minestra o un caffè leggero; non si sentiva neanche l'odore - allora era tè;"
         sequence-10:
           s: 10
           from: "00:00:47,11"
           to: "00:00:50,15"
-          text: ~
+          text: "alle 10 ricevevamo un pezzo di pane secco per l'intera giornata."
         sequence-11:
           s: 11
           from: "00:00:50,15"
           to: "00:00:52,25"
-          text: ~
+          text: "A cena c'era di nuovo zuppa,"
         sequence-12:
           s: 12
           from: "00:00:52,25"
           to: "00:00:59,06"
-          text: ~
+          text: "con qualche lenticchia, avena o"
         sequence-13:
           s: 13
           from: "00:00:59,06"
@@ -73,14 +73,14 @@ it:
           s: 14
           from: "00:01:00,21"
           to: "00:01:11,18"
-          text: ~
+          text: "qualunque cosa fosse rimasta dai gambi del cavolo, che non si potesse masticare."
         sequence-15:
           s: 15
           from: "00:01:11,18"
           to: "00:01:13,07"
-          text: ~
+          text: "Questo era il nostro pasto."
         sequence-16:
           s: 16
           from: "00:01:13,07"
           to: "00:01:15,00"
-          text: ~
+          text: "Al pomeriggio c'era ancora caffè."

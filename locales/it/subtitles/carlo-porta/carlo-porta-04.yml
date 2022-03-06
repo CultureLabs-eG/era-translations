@@ -2,13 +2,13 @@ it:
   carlo-porta:
     chapter-4:
       c: 4
-      title: ~
+      title: "Quattro anni di confino a Matera"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,00"
           to: "00:00:13,25"
-          text: ~
+          text: "Era una colonia agricola, il nostro indirizzo era “Colonia confinati Pisticci Matera”:"
         sequence-2:
           s: 2
           from: "00:00:13,25"
@@ -18,157 +18,157 @@ it:
           s: 3
           from: "00:00:17,11"
           to: "00:00:23,07"
-          text: ~
+          text: "là si è cominciato a lavorare, c’era una colonia agricola,"
         sequence-4:
           s: 4
           from: "00:00:23,07"
           to: "00:00:28,19"
-          text: ~
+          text: "poi questa storia qui se vuoi te la posso raccontare in due parole. Il dramma di quella colonia"
         sequence-5:
           s: 5
           from: "00:00:28,19"
           to: "00:00:33,11"
-          text: ~
+          text: "è che fu fatta perché avevano chiuso l’isola di Ponza,"
         sequence-6:
           s: 6
           from: "00:00:33,11"
           to: "00:00:39,08"
-          text: ~
+          text: "perché a Ponza, dove c’erano magari Terracini, Volponi, Cuccimarro,"
         sequence-7:
           s: 7
           from: "00:00:39,08"
           to: "00:00:43,07"
-          text: ~
+          text: "tutta quella gente lì che erano degli avvocati,"
         sequence-8:
           s: 8
           from: "00:00:43,07"
           to: "00:00:48,25"
-          text: ~
+          text: "e quindi succedeva che la gente, anche dal più piccolo contadino"
         sequence-9:
           s: 9
           from: "00:00:48,25"
           to: "00:00:55,12"
-          text: ~
+          text: "veniva fuori un mezzo intellettuale, perché studiavano capisci?"
         sequence-10:
           s: 10
           from: "00:00:55,12"
           to: "00:01:01,05"
-          text: ~
+          text: "Lì c’era per esempio Terracini, c’erano tutte le tavole da otto a mangiare nelle mense, una volta in una tavola"
         sequence-11:
           s: 11
           from: "00:01:01,05"
           to: "00:01:07,07"
-          text: ~
+          text: "loro non mangiavano mica, loro ti spiegavano quel che dovevano era il momento che lo potevano fare."
         sequence-12:
           s: 12
           from: "00:01:07,07"
           to: "00:01:14,08"
-          text: ~
+          text: "Quella è stata la ragione per il 90% di chiudere l’isola di Ponza:"
         sequence-13:
           s: 13
           from: "00:01:14,08"
           to: "00:01:20,22"
-          text: ~
+          text: "ne hanno trasferiti una parte a Ventotene, una parte come l’onorevole Bigi,"
         sequence-14:
           s: 14
           from: "00:01:20,22"
           to: "00:01:24,18"
-          text: ~
+          text: "Bonini, sono venuti in colonia da noi a Pisticci."
         sequence-15:
           s: 15
           from: "00:01:24,18"
           to: "00:01:32,11"
-          text: ~
+          text: "In quella colonia lì quando sono venuto via io c’erano quasi tremila confinati;"
         sequence-16:
           s: 16
           from: "00:01:32,11"
           to: "00:01:40,22"
-          text: ~
+          text: "dopo lì non c’erano politici ma di tutti i colori, c’erano poi le spie."
         sequence-17:
           s: 17
           from: "00:01:40,22"
           to: "00:01:45,17"
-          text: ~
+          text: "Io ho adoperato lì per tre anni un trattore."
         sequence-18:
           s: 18
           from: "00:01:45,17"
           to: "00:01:54,18"
-          text: ~
+          text: "Arriviamo alla direzione di questa colonia, poi ci mandano, c’era una baracca lì,"
         sequence-19:
           s: 19
           from: "00:01:54,18"
           to: "00:02:01,16"
-          text: ~
+          text: "eravamo 17 o 18 ci hanno messo in tre baracche."
         sequence-20:
           s: 20
           from: "00:02:01,16"
           to: "00:02:08,21"
-          text: ~
+          text: "Quando sono andato dentro c’erano già degli altri che erano lì:"
         sequence-21:
           s: 21
           from: "00:02:08,21"
           to: "00:02:17,25"
-          text: ~
+          text: "“cari compagni, siamo fortunati che l’Unione Sovietica sta allargando i paesi del socialismo,"
         sequence-22:
           s: 22
           from: "00:02:17,25"
           to: "00:02:38,24"
-          text: ~
+          text: "quello è un popolo che è una favola”, io spiegavo tutte quelle cose lì, perché avevano occupato la Svezia, la Norvegia e la Lituana in quel periodo, allora io dicevo “hanno allargato i paesi de socialismo”."
         sequence-23:
           s: 23
           from: "00:02:38,24"
           to: "00:02:46,11"
-          text: ~
+          text: "Al mattino un ometto alto così mi dice “vieni qua, da dove vieni?”"
         sequence-24:
           s: 24
           from: "00:02:46,11"
           to: "00:02:50,29"
-          text: ~
+          text: "“vengo da Reggio Emilia”"
         sequence-25:
           s: 25
           from: "00:02:50,29"
           to: "00:02:55,16"
-          text: ~
+          text: "“beh quello che hai detto ieri sera, ma sei convinto d’aver parlato bene?"
         sequence-26:
           s: 26
           from: "00:02:55,16"
           to: "00:02:59,29"
-          text: ~
+          text: "io gli ho dato un po’ del pazzo,"
         sequence-27:
           s: 27
           from: "00:02:59,29"
           to: "00:03:08,03"
-          text: ~
+          text: "ed era un certo Lonato un professore di Milano, con cui dopo abbiamo sempre avuto dei rapporti buoni via,"
         sequence-28:
           s: 28
           from: "00:03:08,03"
           to: "00:03:14,15"
-          text: ~
+          text: "anche con lui, poi c’erano dei parmigiani lì con noi."
         sequence-29:
           s: 29
           from: "00:03:14,15"
           to: "00:03:19,16"
-          text: ~
+          text: "Non dico mica che mi son trovato bene, perché io ero confinato,"
         sequence-30:
           s: 30
           from: "00:03:19,16"
           to: "00:03:25,11"
-          text: ~
+          text: "avevo un vantaggio che ero più giovane degli altri allora capivo;"
         sequence-31:
           s: 31
           from: "00:03:25,11"
           to: "00:03:32,01"
-          text: ~
+          text: "avevo con me un certo Bonini di Villa Seta poveraccio, un uomo che avrà avuto quarantacinque anni,"
         sequence-32:
           s: 32
           from: "00:03:32,01"
           to: "00:03:38,25"
-          text: ~
+          text: "la moglie a casa con un piccolo podere in affitto, con la responsabilità dei ragazzetti,"
         sequence-33:
           s: 33
           from: "00:03:38,25"
           to: "00:03:46,03"
-          text: ~
+          text: "per dirti che avevano delle tragedie, però superate sempre senza difficoltà."
         sequence-34:
           s: 34
           from: "00:03:46,03"
@@ -178,49 +178,49 @@ it:
           s: 35
           from: "00:03:46,23"
           to: "00:03:49,28"
-          text: ~
+          text: "Allora vengo a casa dal confino"
         sequence-36:
           s: 36
           from: "00:03:49,28"
           to: "00:03:53,17"
-          text: ~
+          text: "con i documenti, lasciano un documento che devi portare in Questura,"
         sequence-37:
           s: 37
           from: "00:03:53,17"
           to: "00:03:59,23"
-          text: ~
+          text: "io vado in Questura, busso alla porta (noi sapevamo poi già che era così),"
         sequence-38:
           s: 38
           from: "00:03:59,23"
           to: "00:04:04,12"
-          text: ~
+          text: "c’era uno dentro “avanti, chi sei?”"
         sequence-39:
           s: 39
           from: "00:04:04,12"
           to: "00:04:07,17"
-          text: ~
+          text: "“Porta” “Vai fuori”;"
         sequence-40:
           s: 40
           from: "00:04:07,17"
           to: "00:04:13,01"
-          text: ~
+          text: "torno a bussare, torno dentro, mi ha fatto andare fuori tre volte"
         sequence-41:
           s: 41
           from: "00:04:13,01"
           to: "00:04:19,15"
-          text: ~
+          text: "e poi mi ha detto “non sai che a venir qui devi salutare alla romana?”"
         sequence-42:
           s: 42
           from: "00:04:19,15"
           to: "00:04:27,14"
-          text: ~
+          text: "e gli ho detto “allora signore, io per meno ho fatto quasi quattro anni di confino”"
         sequence-43:
           s: 43
           from: "00:04:27,14"
           to: "00:04:34,06"
-          text: ~
+          text: "dice “io ti ci mando ancora” “magari, se io devo star qui a vivere alle sue dipendenze mi rimandi"
         sequence-44:
           s: 44
           from: "00:04:34,06"
           to: "00:04:39,22"
-          text: ~
+          text: "al confino che io sto meglio che qui” “Vai a casa, vai a casa!” cioè c’erano anche queste cose."

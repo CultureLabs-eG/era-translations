@@ -2,23 +2,23 @@ it:
   vincent-pascucci:
     chapter-4:
       c: 4
-      title: ~
+      title: "Organizzazione, struttura, persecuzione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,15"
           to: "00:00:04,10"
-          text: ~
+          text: "All'inizio, ci conoscevamo tutti."
         sequence-2:
           s: 2
           from: "00:00:04,10"
           to: "00:00:10,07"
-          text: ~
+          text: "Quando i primi furono arrestati capimmo che avevamo bisogno di una nuova struttura organizzativa."
         sequence-3:
           s: 3
           from: "00:00:10,07"
           to: "00:00:24,24"
-          text: ~
+          text: "Ciò non era appunto per Nanterre. Non eravamo abituati a lavorare o a organizzarci clandestinamente."
         sequence-4:
           s: 4
           from: "00:00:24,24"
@@ -28,32 +28,32 @@ it:
           s: 5
           from: "00:00:26,20"
           to: "00:00:45,21"
-          text: ~
+          text: "Le istruzioni ricevute dalla Gioventù Comunista o dal Partito Comunista erano di coordinarsi in triangoli."
         sequence-6:
           s: 6
           from: "00:00:45,21"
           to: "00:00:54,27"
-          text: ~
+          text: "Dovevamo riunirci in gruppi di tre compagni."
         sequence-7:
           s: 7
           from: "00:00:54,27"
           to: "00:01:06,23"
-          text: ~
+          text: "In caso di arresto sotto tortura avremmo potuto confessare solo due nomi."
         sequence-8:
           s: 8
           from: "00:01:06,23"
           to: "00:01:10,17"
-          text: ~
+          text: "Uno dei tre era responsabile."
         sequence-9:
           s: 9
           from: "00:01:10,17"
           to: "00:01:19,18"
-          text: ~
+          text: "Abbiamo creato una specie di ragnatela, con questi triangoli, a tutti i livelli organizzativi."
         sequence-10:
           s: 10
           from: "00:01:19,18"
           to: "00:01:31,19"
-          text: ~
+          text: "Questa era la struttura dell'organizzazione clandestina nel Partito Comunista, che poi si applicava ai cecchini e ai partigiani."
         sequence-11:
           s: 11
           from: "00:01:31,19"
@@ -63,17 +63,17 @@ it:
           s: 12
           from: "00:01:32,10"
           to: "00:01:39,14"
-          text: ~
+          text: "Ci strutturammo per regioni e settori."
         sequence-13:
           s: 13
           from: "00:01:39,14"
           to: "00:01:48,14"
-          text: ~
+          text: "Le regioni furono numerate (io ero nella regione 7) e poi c'erano i settori."
         sequence-14:
           s: 14
           from: "00:01:48,14"
           to: "00:01:53,20"
-          text: ~
+          text: "Il nostro settore comprendeva tre o quattro comuni intorno a Nanterre."
         sequence-15:
           s: 15
           from: "00:01:53,20"
@@ -83,57 +83,57 @@ it:
           s: 16
           from: "00:01:54,19"
           to: "00:02:06,27"
-          text: ~
+          text: "Uno dei nostri compagni aveva un grande garage a casa dei suoi genitori."
         sequence-17:
           s: 17
           from: "00:02:06,27"
           to: "00:02:13,08"
-          text: ~
+          text: "C'era un piccolo magazzino dove abbiamo installato il nostro materiale."
         sequence-18:
           s: 18
           from: "00:02:13,08"
           to: "00:02:23,02"
-          text: ~
+          text: "Con il nostro ciclostile a mano, producevamo volantini."
         sequence-19:
           s: 19
           from: "00:02:23,02"
           to: "00:02:44,22"
-          text: ~
+          text: "I nostri capi ci davano i comunicati per la resistenza e noi riproducevamo e distribuivamo i volantini."
         sequence-20:
           s: 20
           from: "00:02:44,22"
           to: "00:02:52,04"
-          text: ~
+          text: "Operavamo solitamente di notte, quanto di più pericoloso"
         sequence-21:
           s: 21
           from: "00:02:52,04"
           to: "00:03:02,05"
-          text: ~
+          text: "perché vigeva il coprifuoco dalle 22:00 alle 6:00 del mattino."
         sequence-22:
           s: 22
           from: "00:03:02,05"
           to: "00:03:11,15"
-          text: ~
+          text: "Si poteva uscire solo con un Ausweis (lasciapassare) rilasciato dalla polizia o dai tedeschi."
         sequence-23:
           s: 23
           from: "00:03:11,15"
           to: "00:03:21,09"
-          text: ~
+          text: "È strano a pensarci bene: oggi le nostre cassette sono piene di pubblicità,"
         sequence-24:
           s: 24
           from: "00:03:21,09"
           to: "00:03:33,18"
-          text: ~
+          text: "allora rischiavamo la nostra vita, rischiavamo di essere catturati, picchiati e torturati."
         sequence-25:
           s: 25
           from: "00:03:33,18"
           to: "00:03:44,11"
-          text: ~
+          text: "Molti furono usati come ostaggi e fucilati. Questo fu il caso dei compagni, di cui ho parlato prima."
         sequence-26:
           s: 26
           from: "00:03:44,11"
           to: "00:03:50,20"
-          text: ~
+          text: "Sono stati semplicemente fucilati dopo un'azione di resistenza."
         sequence-27:
           s: 27
           from: "00:03:50,20"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:03:51,04"
           to: "00:03:58,11"
-          text: ~
+          text: "Quelli che dicono di non aver avuto paura in quel periodo, sono stupidi o bugiardi."
         sequence-29:
           s: 29
           from: "00:03:58,11"
@@ -153,17 +153,17 @@ it:
           s: 30
           from: "00:03:58,25"
           to: "00:04:02,26"
-          text: ~
+          text: "O non hanno fatto niente."
         sequence-31:
           s: 31
           from: "00:04:02,26"
           to: "00:04:15,08"
-          text: ~
+          text: "Non appena entravi nella resistenza, c'era sempre il pericolo di essere arrestati, con tutte le conseguenze."
         sequence-32:
           s: 32
           from: "00:04:15,08"
           to: "00:04:24,04"
-          text: ~
+          text: "Nel nostro dipartimento di polizia bastonavano le piante dei piedi di chi veniva arrestato."
         sequence-33:
           s: 33
           from: "00:04:24,04"
@@ -173,27 +173,27 @@ it:
           s: 34
           from: "00:04:24,24"
           to: "00:04:33,11"
-          text: ~
+          text: "Alla domanda sulla vita quotidiana, rispondiamo che tutta la popolazione francese,"
         sequence-35:
           s: 35
           from: "00:04:33,11"
           to: "00:04:44,26"
-          text: ~
+          text: "eccezion fatta di una minoranza che ha approfittato della situazione e si è occupata del mercato nero, soffriva la fame,"
         sequence-36:
           s: 36
           from: "00:04:44,26"
           to: "00:04:55,23"
-          text: ~
+          text: "mentre oggigiorno gli studenti possono comprarsi il cornetto al cioccolato dal panettiere davanti la scuola senza problemi."
         sequence-37:
           s: 37
           from: "00:04:55,23"
           to: "00:05:02,09"
-          text: ~
+          text: "A quei tempi ci veniva concesso un pezzetto di pane al giorno, o 90 grammi di carne a settimana."
         sequence-38:
           s: 38
           from: "00:05:02,09"
           to: "00:05:08,22"
-          text: ~
+          text: "Avevi bisogno di una tessera annonaria; altrimenti eri costretto a comprare al mercato nero."
         sequence-39:
           s: 39
           from: "00:05:08,22"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:05:10,28"
           to: "00:05:16,08"
-          text: ~
+          text: "I nazisti razziarono tutto in Francia."
         sequence-41:
           s: 41
           from: "00:05:16,08"
@@ -213,9 +213,9 @@ it:
           s: 42
           from: "00:05:23,12"
           to: "00:05:30,19"
-          text: ~
+          text: "La Francia era stata autosufficiente grazie alla sua agricoltura e industria."
         sequence-43:
           s: 43
           from: "00:05:30,19"
           to: "00:05:36,15"
-          text: ~
+          text: "Ci hanno portato via ogni cosa, tutti i macchinari, ogni cosa."

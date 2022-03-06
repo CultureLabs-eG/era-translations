@@ -2,33 +2,33 @@ it:
   vincent-pascucci:
     chapter-6:
       c: 6
-      title: ~
+      title: "Preparazione del giorno della Liberazione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:07,23"
-          text: ~
+          text: "Louis Meunier e io eravamo molto vicini. Ero anche molto vicino alla sua famiglia."
         sequence-2:
           s: 2
           from: "00:00:07,23"
           to: "00:00:14,21"
-          text: ~
+          text: "Ci conoscevamo dai tempi del movimento dei Giovani Comunisti."
         sequence-3:
           s: 3
           from: "00:00:14,21"
           to: "00:00:21,04"
-          text: ~
+          text: "Il nostro gruppo non constava solo di giovani comunisti, ma anche di giovani cattolici,"
         sequence-4:
           s: 4
           from: "00:00:21,04"
           to: "00:00:28,06"
-          text: ~
+          text: "o di persone che non erano mai state affiliate a alcun gruppo."
         sequence-5:
           s: 5
           from: "00:00:28,06"
           to: "00:00:37,20"
-          text: ~
+          text: "La sua morte mi ha colpito enormemente."
         sequence-6:
           s: 6
           from: "00:00:37,20"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:40,22"
           to: "00:00:51,20"
-          text: ~
+          text: "Il giorno che fu arrestato dai nazisti, insieme a suo padre, ci eravamo separati appena un quarto d'ora prima."
         sequence-8:
           s: 8
           from: "00:00:51,20"
@@ -48,72 +48,72 @@ it:
           s: 9
           from: "00:00:53,18"
           to: "00:01:02,10"
-          text: ~
+          text: "Il governo connivente, il sindaco del comune era stato già arrestato dalla Resistenza"
         sequence-10:
           s: 10
           from: "00:01:02,10"
           to: "00:01:09,11"
-          text: ~
+          text: "e dovevamo organizzarci per assumere il controllo del Municipio"
         sequence-11:
           s: 11
           from: "00:01:09,11"
           to: "00:01:16,28"
-          text: ~
+          text: "con l'istituzione del Comitato di Liberazione per il giorno seguente."
         sequence-12:
           s: 12
           from: "00:01:16,28"
           to: "00:01:28,22"
-          text: ~
+          text: "Tutto ciò accadde il 20 Agosto 1944. I tedeschi erano ancora a Nanterre."
         sequence-13:
           s: 13
           from: "00:01:28,22"
           to: "00:01:41,15"
-          text: ~
+          text: "Louis Meunier, suo padre e io ci eravamo incontrati per garantire la sicurezza dell'evento."
         sequence-14:
           s: 14
           from: "00:01:41,15"
           to: "00:01:49,15"
-          text: ~
+          text: "Come dicevo, ci siamo separati."
         sequence-15:
           s: 15
           from: "00:01:49,15"
           to: "00:01:57,26"
-          text: ~
+          text: "Sono andato a incontrare i compagni, con i quali mi recai a Pont Neuilly per incontrare il vecchio sindaco di Nanterre,"
         sequence-16:
           s: 16
           from: "00:01:57,26"
           to: "00:02:07,22"
-          text: ~
+          text: "Raymond Bardet, che era nella resistenza - era uno dei leader della resistenza dei ferrovieri."
         sequence-17:
           s: 17
           from: "00:02:07,22"
           to: "00:02:17,08"
-          text: ~
+          text: "Dovevamo proteggerlo durante il suo ritorno in Municipio per il Consiglio del Comitati di Liberazione il giorno seguente."
         sequence-18:
           s: 18
           from: "00:02:17,08"
           to: "00:02:24,12"
-          text: ~
+          text: "Così ci siamo separati e mentre me ne andavo per svolgere il mio compito,"
         sequence-19:
           s: 19
           from: "00:02:24,12"
           to: "00:02:33,04"
-          text: ~
+          text: "Louis Meunier e suo padre incontrarono uno dei compagni che erano stati imprigionati il 14 luglio, 1940."
         sequence-20:
           s: 20
           from: "00:02:33,04"
           to: "00:02:46,11"
-          text: ~
+          text: "Era appena stato liberato, poiché le guardie carcerarie avevano iniziato a aprire le porte della prigione e lasciare scappare i combattenti della Resistenza."
         sequence-21:
           s: 21
           from: "00:02:46,11"
           to: "00:02:55,22"
-          text: ~
+          text: "Persero tempo per questo incontro."
         sequence-22:
           s: 22
           from: "00:02:55,22"
           to: "00:03:24,04"
-          text: ~
+          text: "Dunque gli ultimi tedeschi che stavano facendo esplodere l'attrezzatura dal campo di aviazione prima di partire sono passati e li hanno arrestati."
         sequence-23:
           s: 23
           from: "00:03:24,04"
@@ -123,17 +123,17 @@ it:
           s: 24
           from: "00:03:25,24"
           to: "00:03:33,08"
-          text: ~
+          text: "Li hanno perquisiti e hanno trovato il revolver che avevo dato a Louis Meunier."
         sequence-25:
           s: 25
           from: "00:03:33,08"
           to: "00:03:43,09"
-          text: ~
+          text: "A lui non piacevano le armi, ma gliene diedi una, dicendogli della necessità di potersi difendere."
         sequence-26:
           s: 26
           from: "00:03:43,09"
           to: "00:04:03,20"
-          text: ~
+          text: "Hanno trovato anche il suo braccialetto FFI (Forces Françaises à l'Interieur - Forze Francesi Interne che era la Resistenza)."
         sequence-27:
           s: 27
           from: "00:04:03,20"
@@ -143,12 +143,12 @@ it:
           s: 28
           from: "00:04:04,19"
           to: "00:04:16,02"
-          text: ~
+          text: "I suoi genitori non mi hanno mai incolpato, ma mi chiedo sempre se le cose sarebbero andate diversamente, se non gli avessi dato un revolver."
         sequence-29:
           s: 29
           from: "00:04:16,02"
           to: "00:04:22,07"
-          text: ~
+          text: "Temo che sia così. Tutto ha avuto un enorme impatto su di me."
         sequence-30:
           s: 30
           from: "00:04:22,07"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:04:24,11"
           to: "00:04:36,24"
-          text: ~
+          text: "Sarei stato lì con loro se non avessimo deciso che avrei incontrato i compagni per la questione del sindaco."
         sequence-32:
           s: 32
           from: "00:04:36,24"
@@ -168,4 +168,4 @@ it:
           s: 33
           from: "00:04:37,09"
           to: "00:04:46,08"
-          text: ~
+          text: "Questo mostra quanto sia sottile il filo da cui pende la vita. Solo un po' di fortuna."

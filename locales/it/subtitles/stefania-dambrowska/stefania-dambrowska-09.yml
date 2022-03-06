@@ -2,38 +2,38 @@ it:
   stefania-dambrowska:
     chapter-9:
       c: 9
-      title: ~
+      title: "Nascondendo una ragazza ebrea: Sonia; il raid della Gestapo"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:05,22"
-          text: ~
+          text: "Un bel giorno viene da me Jadzia e mi dice:"
         sequence-2:
           s: 2
           from: "00:00:05,22"
           to: "00:00:14,10"
-          text: ~
+          text: "\"Signorina, Nitson chiede se lei non potrebbe prendere con sè la sua nipote Sonia,"
         sequence-3:
           s: 3
           from: "00:00:14,10"
           to: "00:00:23,25"
-          text: ~
+          text: "perché loro vivono nella foresta in un rifugio interrato e Sonia non ne può più,"
         sequence-4:
           s: 4
           from: "00:00:23,25"
           to: "00:00:32,15"
-          text: ~
+          text: "insiste che vorrebbe vivere in mezzo alla gente."
         sequence-5:
           s: 5
           from: "00:00:32,15"
           to: "00:00:40,02"
-          text: ~
+          text: "Sonia ha quindici anni, è la figlia di un ricco commerciante della cittadina di Niemenczyn"
         sequence-6:
           s: 6
           from: "00:00:40,02"
           to: "00:00:46,08"
-          text: ~
+          text: "e della sorella del SIg. Nitson, anche lui un ricco commerciante."
         sequence-7:
           s: 7
           from: "00:00:46,08"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:48,06"
           to: "00:00:51,19"
-          text: ~
+          text: "Non parla polacco tanto bene."
         sequence-9:
           s: 9
           from: "00:00:51,19"
@@ -53,12 +53,12 @@ it:
           s: 10
           from: "00:00:54,00"
           to: "00:00:56,23"
-          text: ~
+          text: "Ha i documenti? No, non ce li ha."
         sequence-11:
           s: 11
           from: "00:00:56,23"
           to: "00:01:04,15"
-          text: ~
+          text: "Erano riusciti in qualche modo a lasciare il ghetto di Niemenczyn e si stavano nascondendo a pochi chilometri da noi, vicino a Drzwiniany."
         sequence-12:
           s: 12
           from: "00:01:04,15"
@@ -68,12 +68,12 @@ it:
           s: 13
           from: "00:01:07,17"
           to: "00:01:10,05"
-          text: ~
+          text: "Ma che cosa farà Sonia?"
         sequence-14:
           s: 14
           from: "00:01:10,05"
           to: "00:01:13,15"
-          text: ~
+          text: "Sonia potrebbe, insieme a Janusz, pascolare il bestiame."
         sequence-15:
           s: 15
           from: "00:01:13,15"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:14,21"
           to: "00:01:23,01"
-          text: ~
+          text: "Janusz era figlio della cugina di mia mamma, mandato dalla zia a Orwidów per l'estate,"
         sequence-17:
           s: 17
           from: "00:01:23,01"
           to: "00:01:30,15"
-          text: ~
+          text: "perché la zia era preoccupata che il ragazzo potesse iniziare a fare a Vilnius qualcosa di pericoloso."
         sequence-18:
           s: 18
           from: "00:01:30,15"
@@ -98,27 +98,27 @@ it:
           s: 19
           from: "00:01:31,20"
           to: "00:01:39,23"
-          text: ~
+          text: "Sonia e Janusz dovranno partire la mattina presto, attraversando i boschi, andando verso i pascoli"
         sequence-20:
           s: 20
           from: "00:01:39,23"
           to: "00:01:43,05"
-          text: ~
+          text: "e tornare la sera tardi."
         sequence-21:
           s: 21
           from: "00:01:43,05"
           to: "00:01:53,27"
-          text: ~
+          text: "Non importa quanto caldo faccia - le mucche non devono essere riportate per mezzogiorno perché Sonia si deve nascondere lontano."
         sequence-22:
           s: 22
           from: "00:01:53,27"
           to: "00:01:57,18"
-          text: ~
+          text: "Andò tutto bene per due o tre settimane."
         sequence-23:
           s: 23
           from: "00:01:57,18"
           to: "00:02:12,02"
-          text: ~
+          text: "Vicino a Orwidów c'era una croce."
         sequence-24:
           s: 24
           from: "00:02:12,02"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:13,01"
           to: "00:02:16,27"
-          text: ~
+          text: "Chiunque venisse Orwidów, doveva passare accanto a questa croce."
         sequence-26:
           s: 26
           from: "00:02:16,27"
@@ -138,17 +138,17 @@ it:
           s: 27
           from: "00:02:17,28"
           to: "00:02:33,01"
-          text: ~
+          text: "Per le festività religiose di maggio Natka aveva pensato di fare decorare questa croce alle bambine (a Marysia e Sonia)."
         sequence-28:
           s: 28
           from: "00:02:33,01"
           to: "00:02:45,11"
-          text: ~
+          text: "Non era esattamente una buona idea ma così si fece. Marysia non sapeva di che religione o nazionalità fosse."
         sequence-29:
           s: 29
           from: "00:02:45,11"
           to: "00:02:49,08"
-          text: ~
+          text: "Lei era semplicemente della Sig.ra Melania."
         sequence-30:
           s: 30
           from: "00:02:49,08"
@@ -158,27 +158,27 @@ it:
           s: 31
           from: "00:02:50,05"
           to: "00:03:04,18"
-          text: ~
+          text: "Un giorno - era una giornata di giugno molto calda - andai insieme a Stefan al mulino a Hamernia."
         sequence-32:
           s: 32
           from: "00:03:04,18"
           to: "00:03:14,03"
-          text: ~
+          text: "Rimanemmo lì a lungo per macinare il grano."
         sequence-33:
           s: 33
           from: "00:03:14,03"
           to: "00:03:19,19"
-          text: ~
+          text: "Tornammo a casa e tutti erano di un pessimo umore."
         sequence-34:
           s: 34
           from: "00:03:19,19"
           to: "00:03:21,01"
-          text: ~
+          text: "Cos'è successo?"
         sequence-35:
           s: 35
           from: "00:03:21,01"
           to: "00:03:27,10"
-          text: ~
+          text: "SI scoprì che durante la mia assenza avevamo ricevuto una visita da parte dei lituani e dei tedeschi"
         sequence-36:
           s: 36
           from: "00:03:27,10"
@@ -188,17 +188,17 @@ it:
           s: 37
           from: "00:03:29,02"
           to: "00:03:36,01"
-          text: ~
+          text: "e c'era stata non tanto una perlustrazione quanto un interrogatorio di tutti i residenti."
         sequence-38:
           s: 38
           from: "00:03:36,01"
           to: "00:03:43,20"
-          text: ~
+          text: "Li divisero in due gruppi."
         sequence-39:
           s: 39
           from: "00:03:43,20"
           to: "00:03:49,07"
-          text: ~
+          text: "Gli adulti dovevano stare sotto una quercia e i bambini sotto un'altra."
         sequence-40:
           s: 40
           from: "00:03:49,07"
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:03:50,26"
           to: "00:04:00,11"
-          text: ~
+          text: "La casa si trovava venti, trenta metri dalla scarpata, oltre la quale, in un profondo burrone, scorreva il fiume."
         sequence-42:
           s: 42
           from: "00:04:00,11"
@@ -218,7 +218,7 @@ it:
           s: 43
           from: "00:04:01,19"
           to: "00:04:10,18"
-          text: ~
+          text: "Sulla riva, di fronte alla casa c'erano due querce, e altre due più avanti."
         sequence-44:
           s: 44
           from: "00:04:10,18"
@@ -228,17 +228,17 @@ it:
           s: 45
           from: "00:04:11,15"
           to: "00:04:17,02"
-          text: ~
+          text: "Avevamo delle panchine sotto quelle querce, era un posto molto bello."
         sequence-46:
           s: 46
           from: "00:04:17,02"
           to: "00:04:21,05"
-          text: ~
+          text: "Quindi i lituani e i tedeschi divisero le persone in due gruppi."
         sequence-47:
           s: 47
           from: "00:04:21,05"
           to: "00:04:24,28"
-          text: ~
+          text: "Tutti gli adulti sotto una delle querce, tutti i bambini sotto un'altra."
         sequence-48:
           s: 48
           from: "00:04:24,28"
@@ -248,22 +248,22 @@ it:
           s: 49
           from: "00:04:26,08"
           to: "00:04:37,18"
-          text: ~
+          text: "Anche Sonia era lì perché era una giornata molto calda e le mucche non volevano stare sui pascoli, quindi i ragazzi le riportarono a casa."
         sequence-50:
           s: 50
           from: "00:04:37,18"
           to: "00:04:48,27"
-          text: ~
+          text: "Natka era molto ospitale e premurosa e invitò entrambe le bambine nella sala da pranzo,"
         sequence-51:
           s: 51
           from: "00:04:48,27"
           to: "00:05:02,23"
-          text: ~
+          text: "le fece mettersi a tavola, le diede del pane, del latte freddo e mentre le bambine stavano mangiando"
         sequence-52:
           s: 52
           from: "00:05:02,23"
           to: "00:05:06,12"
-          text: ~
+          text: "arrivarono i lituani e i tedeshi."
         sequence-53:
           s: 53
           from: "00:05:06,12"
@@ -273,7 +273,7 @@ it:
           s: 54
           from: "00:05:07,19"
           to: "00:05:12,18"
-          text: ~
+          text: "Tutti, tranne Sonia, avevano i documenti"
         sequence-55:
           s: 55
           from: "00:05:12,18"
@@ -283,17 +283,17 @@ it:
           s: 56
           from: "00:05:14,17"
           to: "00:05:22,02"
-          text: ~
+          text: "e quindi Sonia era spaventata. Riconobbe un ragazzo lituano che veniva al negozio dei suoi genitori"
         sequence-57:
           s: 57
           from: "00:05:22,02"
           to: "00:05:25,13"
-          text: ~
+          text: "a fare compere e che la teneva d'occhio."
         sequence-58:
           s: 58
           from: "00:05:25,13"
           to: "00:05:29,29"
-          text: ~
+          text: "Non sappiamo se il ragazzo l'avesse riconosciuta."
         sequence-59:
           s: 59
           from: "00:05:29,29"
@@ -303,22 +303,22 @@ it:
           s: 60
           from: "00:05:30,25"
           to: "00:05:33,21"
-          text: ~
+          text: "Sonia però si spaventò"
         sequence-61:
           s: 61
           from: "00:05:33,21"
           to: "00:05:42,15"
-          text: ~
+          text: "e quella sera venne da me Jadzia Pluchocianka"
         sequence-62:
           s: 62
           from: "00:05:42,15"
           to: "00:05:50,02"
-          text: ~
+          text: "perché, credo, quella notte Sonia avesse dormito da loro, e disse che Sonia supplicava di essere riportata dallo zio"
         sequence-63:
           s: 63
           from: "00:05:50,02"
           to: "00:05:55,06"
-          text: ~
+          text: "e che preferiva stare in quel rifugio interrato nei boschi che non in questa bella casa."
         sequence-64:
           s: 64
           from: "00:05:55,06"
@@ -328,7 +328,7 @@ it:
           s: 65
           from: "00:05:56,00"
           to: "00:05:58,16"
-          text: ~
+          text: "Non c'era altro da fare, dovevamo riportare Sonia dallo zio."
         sequence-66:
           s: 66
           from: "00:05:58,16"
@@ -338,9 +338,9 @@ it:
           s: 67
           from: "00:06:01,01"
           to: "00:06:08,16"
-          text: ~
+          text: "Riuscirono a sopravvivere e, quando arrivò l'esercito sovietico, poterano lasciare la foresta."
         sequence-68:
           s: 68
           from: "00:06:08,16"
           to: "00:06:17,01"
-          text: ~
+          text: "Il Sig. Nitson mi scrisse un biglietto ringraziandomi e dicendo che suo fratello e Sonia erano vivi."

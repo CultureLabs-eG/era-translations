@@ -2,23 +2,23 @@ it:
   tadeusz-sulowski:
     chapter-8:
       c: 8
-      title: ~
+      title: "Diventare partigiano; battaglie contro i tedeschi"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,25"
           to: "00:00:09,12"
-          text: ~
+          text: "Così giungemmo alle foreste di Chojnów e ci unimmo all'unità partigiana chiamata \"Lancia\"."
         sequence-2:
           s: 2
           from: "00:00:09,12"
           to: "00:00:14,10"
-          text: ~
+          text: "Era una squadra che proveniva dalla regione di Zamość."
         sequence-3:
           s: 3
           from: "00:00:14,10"
           to: "00:00:22,08"
-          text: ~
+          text: "Erano armati abbastanza bene. Iniziammo lì la nostra vita da partigiani."
         sequence-4:
           s: 4
           from: "00:00:22,08"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:23,12"
           to: "00:00:27,00"
-          text: ~
+          text: "Insieme all'unità \"Lancia\" attraversammo il fiume Pilica."
         sequence-6:
           s: 6
           from: "00:00:27,00"
@@ -38,67 +38,67 @@ it:
           s: 7
           from: "00:00:32,19"
           to: "00:00:41,15"
-          text: ~
+          text: "Visto che sapevo cavalcare e qualcuno della pattuglia equestre era appena morto,"
         sequence-8:
           s: 8
           from: "00:00:41,15"
           to: "00:00:48,11"
-          text: ~
+          text: "mi misero su un cavallo e questo mi piaceva moltissimo."
         sequence-9:
           s: 9
           from: "00:00:48,11"
           to: "00:01:04,25"
-          text: ~
+          text: "Sapete, un ragazzo di 15 anni che all'improvviso si ritrova in un distaccamento partigiano e gli danno pure un cavallo – era divertentissimo."
         sequence-10:
           s: 10
           from: "00:01:04,25"
           to: "00:01:14,28"
-          text: ~
+          text: "Allo stesso tempo questo non poteva assolutamente lenire il mio dolore per non essere nella Rivolta."
         sequence-11:
           s: 11
           from: "00:01:14,28"
           to: "00:01:21,27"
-          text: ~
+          text: "Del resto le mie sorelle erano lì, mia madre era rimasta a Varsavia e mia nonna anche."
         sequence-12:
           s: 12
           from: "00:01:21,27"
           to: "00:01:31,28"
-          text: ~
+          text: "Mentre io ancora non avevo avuto nessuna ferita, non mi era successo niente."
         sequence-13:
           s: 13
           from: "00:01:31,28"
           to: "00:01:44,25"
-          text: ~
+          text: "Ero tra i partigiani, ci allontanavamo sempre di più da Varsavia."
         sequence-14:
           s: 14
           from: "00:01:44,25"
           to: "00:02:00,05"
-          text: ~
+          text: "Dopo aver attraversato il fiume Pilica giungemmo in un villaggio, dove, nella foresta, c'era un reparto di partigiani molto numeroso,"
         sequence-15:
           s: 15
           from: "00:02:00,05"
           to: "00:02:06,10"
-          text: ~
+          text: "circa mille persone. Il 25° Reggimento di Fanteria di Piotrków."
         sequence-16:
           s: 16
           from: "00:02:06,10"
           to: "00:02:18,26"
-          text: ~
+          text: "Il gruppo \"Lancia\" decise di unirsi a questo reparto perché era molto più piccolo."
         sequence-17:
           s: 17
           from: "00:02:18,26"
           to: "00:02:31,12"
-          text: ~
+          text: "CIrca 150 persone. Al contrario il 25° Reggimento era grande, era un reggimento, mille uomini."
         sequence-18:
           s: 18
           from: "00:02:31,12"
           to: "00:02:48,22"
-          text: ~
+          text: "Ci diedero un caloroso benvenuto, persino ci pagarono."
         sequence-19:
           s: 19
           from: "00:02:48,22"
           to: "00:03:02,11"
-          text: ~
+          text: "Però la stessa notte il \"Lancia\" diede l'ordine di sellare i cavalli, di caricare i carri, e se ne andò. Dio sa dove."
         sequence-20:
           s: 20
           from: "00:03:02,11"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:03:03,13"
           to: "00:03:06,12"
-          text: ~
+          text: "Di fatto, presero la paga e scapparono."
         sequence-22:
           s: 22
           from: "00:03:06,12"
@@ -118,57 +118,57 @@ it:
           s: 23
           from: "00:03:09,21"
           to: "00:03:18,16"
-          text: ~
+          text: "La cosa positiva era che il nostro comandante, il tenente \"Osuch\" conosceva bene il comandante del reggimento di Włodzimierz,"
         sequence-24:
           s: 24
           from: "00:03:18,16"
           to: "00:03:35,15"
-          text: ~
+          text: "il quale ci sostenne e quindi, dopo tutto, il maggiore ci accettò nel reggimento."
         sequence-25:
           s: 25
           from: "00:03:35,15"
           to: "00:03:43,22"
-          text: ~
+          text: "In questo reggimento ci fermammo presso il villaggio di Mechlin. Per quasi un mese."
         sequence-26:
           s: 26
           from: "00:03:43,22"
           to: "00:03:54,25"
-          text: ~
+          text: "In seguito ci spostammo verso un altro luogo, molto peggiore, perché era vicino alla strada."
         sequence-27:
           s: 27
           from: "00:03:54,25"
           to: "00:04:11,29"
-          text: ~
+          text: "FInì male, perché i tedeschi ci attaccarono. Era troppo vicino alla strada e morirono delle persone."
         sequence-28:
           s: 28
           from: "00:04:11,29"
           to: "00:04:17,20"
-          text: ~
+          text: "Noi per fortuna rimanemmo illesi. Nessuno ci attaccò."
         sequence-29:
           s: 29
           from: "00:04:17,20"
           to: "00:04:22,04"
-          text: ~
+          text: "Al contrario, presso il villaggio di Mechlin, dove eravamo fermi per quasi un mese,"
         sequence-30:
           s: 30
           from: "00:04:22,04"
           to: "00:04:33,25"
-          text: ~
+          text: "avevano fatto una caccia all'uomo, attaccandoci con tutte le forze dei calmucchi, quei seguaci di Vlasov dei reparti della RONA."
         sequence-31:
           s: 31
           from: "00:04:33,25"
           to: "00:04:46,03"
-          text: ~
+          text: "Sapete, quelle unità sovietiche diventate prigioniere dei tedeschi e poi passate al servizio dell'esercito tedesco."
         sequence-32:
           s: 32
           from: "00:04:46,03"
           to: "00:04:53,18"
-          text: ~
+          text: "I tedeschi li usavano per eliminare i partigiani, nella Rivolta di Varsavia,"
         sequence-33:
           s: 33
           from: "00:04:53,18"
           to: "00:05:01,04"
-          text: ~
+          text: "e queste persone mostravano un'estrema crudeltà. Erano dei selvaggi semplicemente."
         sequence-34:
           s: 34
           from: "00:05:01,04"
@@ -178,14 +178,14 @@ it:
           s: 35
           from: "00:05:03,04"
           to: "00:05:12,29"
-          text: ~
+          text: "Attaccarono il villaggio di Stefanów, dove era di stanza il 25° Reggimento,"
         sequence-36:
           s: 36
           from: "00:05:12,29"
           to: "00:05:24,15"
-          text: ~
+          text: "lì vicino c'era il villaggio di Gałki, dove si trovava il 72° Reggimento, con circa 500 uomini."
         sequence-37:
           s: 37
           from: "00:05:24,15"
           to: "00:05:32,08"
-          text: ~
+          text: "Quindi quei due reggimenti dovevano andare avanti tutto il giorno a combattere contro i tedeschi, ma lì persero la vita forse 11 partigiani."

@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:11,23"
           to: "00:00:20,23"
-          text: "\"Chi vota Hindenburg vota Hitler e chi vota Hitler, vota per la guerra.\""
+          text: "\"Chi vota Hindenburg vota Hitler e chi vota Hitler vota per la guerra.\""
         sequence-4:
           s: 4
           from: "00:00:20,23"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:21,16"
           to: "00:00:30,17"
-          text: "La Grande Depressione incise sulla Germania."
+          text: "La Crisi economica del 1929 incise sulla Germania."
         sequence-6:
           s: 6
           from: "00:00:30,17"
@@ -168,7 +168,7 @@ it:
           s: 33
           from: "00:03:00,14"
           to: "00:03:15,19"
-          text: "Il movimento operaio era così spaccato, da non poter creare alcuna resistenza."
+          text: "Il movimento operaio era così spaccato, da non poter creare alcuna resistenza unita."
         sequence-34:
           s: 34
           from: "00:03:15,19"
@@ -188,7 +188,7 @@ it:
           s: 37
           from: "00:03:23,25"
           to: "00:03:30,29"
-          text: "che portarono poi all'incendio del Reichstag"
+          text: "che portarono poi all'incendio del Reichstag, una provocazione,"
         sequence-38:
           s: 38
           from: "00:03:30,29"
@@ -198,9 +198,9 @@ it:
           s: 39
           from: "00:03:32,15"
           to: "00:03:42,23"
-          text: "in cui molti vennero arrestati. Era già stato preparato tutto."
+          text: "per cui molti vennero arrestati. Era già stato preparato tutto."
         sequence-40:
           s: 40
           from: "00:03:42,23"
           to: "00:03:50,16"
-          text: "Ci furono ondate di arresti di lavoratori."
+          text: "Ci furono ondate di arresti di funzionari del movimento operaio."

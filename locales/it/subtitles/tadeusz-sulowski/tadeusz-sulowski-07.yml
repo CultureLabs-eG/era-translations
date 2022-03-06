@@ -2,23 +2,23 @@ it:
   tadeusz-sulowski:
     chapter-7:
       c: 7
-      title: ~
+      title: "La sconfitta a Okecie"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,00"
           to: "00:00:10,15"
-          text: ~
+          text: "Nel 1943 entrai nell'Armia Krajowa."
         sequence-2:
           s: 2
           from: "00:00:10,15"
           to: "00:00:17,15"
-          text: ~
+          text: "Quindi, purtroppo, durante la Rivolta di Varsavia non ero insieme ai miei compagni dei tempi degli scout."
         sequence-3:
           s: 3
           from: "00:00:17,15"
           to: "00:00:29,10"
-          text: ~
+          text: "Ero già un soldato dell'Armia Krajowa, assegnato al 7° reggimento di fanteria \"Garłuch\" a Okęcie."
         sequence-4:
           s: 4
           from: "00:00:29,10"
@@ -28,42 +28,42 @@ it:
           s: 5
           from: "00:00:30,10"
           to: "00:00:36,05"
-          text: ~
+          text: "Il comandante del reggimento, il maggiore \"Wysocki\""
         sequence-6:
           s: 6
           from: "00:00:36,05"
           to: "00:00:40,18"
-          text: ~
+          text: "(era uno pseudonimo, il suo nome era Babiarz)"
         sequence-7:
           s: 7
           from: "00:00:40,18"
           to: "00:00:53,00"
-          text: ~
+          text: "scoprì che i tedeschi avevano signifitivamente fortificato l'aeroporto."
         sequence-8:
           s: 8
           from: "00:00:53,00"
           to: "00:01:04,15"
-          text: ~
+          text: "Vi avevano collocato un'enorme quantità di armi, mitragliatrici ecc."
         sequence-9:
           s: 9
           from: "00:01:04,15"
           to: "00:01:14,01"
-          text: ~
+          text: "L'Armia Krajowa aveva pocchissime armi, praticamente non ne aveva."
         sequence-10:
           s: 10
           from: "00:01:14,01"
           to: "00:01:22,29"
-          text: ~
+          text: "Be', avevamo le granate di cui parlavo, e il nostro plotone aveva due mitragliatrici della prima guerra mondiale, senza gli alimentatori."
         sequence-11:
           s: 11
           from: "00:01:22,29"
           to: "00:01:30,19"
-          text: ~
+          text: "Dovevi mettere nella canna ogni proiettile separatamente, altrimenti non c'era modo di sparare,"
         sequence-12:
           s: 12
           from: "00:01:30,19"
           to: "00:01:36,22"
-          text: ~
+          text: "perché non avevamo quelle clip che funzionano come un serbatoio per le cartucce."
         sequence-13:
           s: 13
           from: "00:01:36,22"
@@ -73,32 +73,32 @@ it:
           s: 14
           from: "00:01:37,13"
           to: "00:01:46,11"
-          text: ~
+          text: "Alle ore 16 il comandante del reggimento diede l'ordine di non attaccare quegli hangar."
         sequence-15:
           s: 15
           from: "00:01:46,11"
           to: "00:01:56,17"
-          text: ~
+          text: "Non so perché quell'ordine non fosse stato dato alle 13 o alle 14."
         sequence-16:
           s: 16
           from: "00:01:56,17"
           to: "00:01:59,15"
-          text: ~
+          text: "L'ora \"W\" (l'ora dell'attacco) era stata fissata per le 17."
         sequence-17:
           s: 17
           from: "00:01:59,15"
           to: "00:02:08,18"
-          text: ~
+          text: "L'ordine fu portato dall'ufficiale di collegamento, ma alle 17:30, quando ormai era tardi."
         sequence-18:
           s: 18
           from: "00:02:08,18"
           to: "00:02:14,09"
-          text: ~
+          text: "L'attacco venne effettuato da degli uomini praticamente indifesi della batteria \"Kuba\"."
         sequence-19:
           s: 19
           from: "00:02:14,09"
           to: "00:02:20,03"
-          text: ~
+          text: "In una mezz'ora vennero uccise 125 persone."
         sequence-20:
           s: 20
           from: "00:02:20,03"
@@ -108,59 +108,59 @@ it:
           s: 21
           from: "00:02:25,10"
           to: "00:02:33,18"
-          text: ~
+          text: "Porto un rancore personale verso il comandante per non avere impartito quell'ordine almeno un'ora prima."
         sequence-22:
           s: 22
           from: "00:02:33,18"
           to: "00:02:41,11"
-          text: ~
+          text: "Del resto sapeva che non c'erano i telefoni e che bisognava comunicare l'ordine di persona e a piedi."
         sequence-23:
           s: 23
           from: "00:02:41,11"
           to: "00:02:47,14"
-          text: ~
+          text: "E spesso non potevi comunicarlo, perché ti imbattevi in ​​una pattuglia o qualcosa del genere."
         sequence-24:
           s: 24
           from: "00:02:47,14"
           to: "00:02:53,17"
-          text: ~
+          text: "Quindi bisognava mandare non un messaggero, bensì diversi."
         sequence-25:
           s: 25
           from: "00:02:53,17"
           to: "00:02:59,04"
-          text: ~
+          text: "Quindi finì in questo modo. Per questo motivo il reggimento venne sciolto."
         sequence-26:
           s: 26
           from: "00:02:59,04"
           to: "00:03:11,22"
-          text: ~
+          text: "Dovevamo arrivare da soli o a Varsavia o nella foresta di Kampinos."
         sequence-27:
           s: 27
           from: "00:03:11,22"
           to: "00:03:24,15"
-          text: ~
+          text: "Quando giunse questo ordine di scioglimento, il mio comandante e amico, cadetto \"Witold\" voleva spararsi."
         sequence-28:
           s: 28
           from: "00:03:24,15"
           to: "00:03:31,13"
-          text: ~
+          text: "Allora il tenente \"Andrzej\", il comandante della compagnia, afferrò il suo Sten,"
         sequence-29:
           s: 29
           from: "00:03:31,13"
           to: "00:03:38,05"
-          text: ~
+          text: "mentre io lo presi per le spalle e gli dissi: \" Cadetto, ma è impazzito?!"
         sequence-30:
           s: 30
           from: "00:03:38,05"
           to: "00:03:42,08"
-          text: ~
+          text: "La guerra per noi è appena iniziata e lei vuole suicidarsi?!"
         sequence-31:
           s: 31
           from: "00:03:42,08"
           to: "00:03:48,06"
-          text: ~
+          text: "Ne avrà delle occasioni per essere ucciso!\""
         sequence-32:
           s: 32
           from: "00:03:48,06"
           to: "00:03:53,07"
-          text: ~
+          text: "Così rimase. Venne ucciso in seguito. Non fece mai ritorno dopo essere diventato partigiano."

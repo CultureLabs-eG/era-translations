@@ -2,13 +2,13 @@ it:
   anita-malavasi:
     chapter-12:
       c: 12
-      title: ~
+      title: "Riflettere sul passato"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:03,04"
-          text: ~
+          text: "Vedi, io ci tengo in quanto, come dire,"
         sequence-2:
           s: 2
           from: "00:00:03,04"
@@ -18,24 +18,24 @@ it:
           s: 3
           from: "00:00:04,10"
           to: "00:00:07,01"
-          text: ~
+          text: "non è per me stessa,"
         sequence-4:
           s: 4
           from: "00:00:07,01"
           to: "00:00:15,11"
-          text: ~
+          text: "ma ci tengo consapevole dell’utilità di chi ascolta queste cose e che vuole riflettere su queste cose."
         sequence-5:
           s: 5
           from: "00:00:15,11"
           to: "00:00:18,04"
-          text: ~
+          text: "Perché è una realtà di vita,"
         sequence-6:
           s: 6
           from: "00:00:18,04"
           to: "00:00:26,08"
-          text: ~
+          text: "vedi che io non esagero, anzi certi episodi che sono eclatanti me li sono, come dire... non li presento per quello che sono,"
         sequence-7:
           s: 7
           from: "00:00:26,08"
           to: "00:00:35,06"
-          text: ~
+          text: "perché per me è importante la riflessione su questa realtà. E’ il Novecento, è di come abbiamo vissuto il Novecento, capisci?"

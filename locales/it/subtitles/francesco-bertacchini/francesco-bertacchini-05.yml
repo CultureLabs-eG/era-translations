@@ -1,0 +1,366 @@
+it:
+  francesco-bertacchini:
+    chapter-5:
+      c: 5
+      title: "Bruna e fuga"
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:01,02"
+          to: "00:00:10,10"
+          text: "La Bruna è un’altra staffetta che anche lei mi ha aiutato a salvarmi."
+        sequence-2:
+          s: 2
+          from: "00:00:10,11"
+          to: "00:00:17,02"
+          text: "Dovevamo trovarci lì tra Barco, Bibbiano Montecchio e Cavriago,"
+        sequence-3:
+          s: 3
+          from: "00:00:17,03"
+          to: "00:00:21,22"
+          text: "lì dove c’è la ferrovia: dovevamo trovarci lì a mezzanotte."
+        sequence-4:
+          s: 4
+          from: "00:00:27,04"
+          to: "00:00:29,16"
+          text: "Noi arriviamo alle undici"
+        sequence-5:
+          s: 5
+          from: "00:00:29,17"
+          to: "00:00:36,02"
+          text: "e allora per non stare lì impalati c’è una casa di contadini un po’ più spostata"
+        sequence-6:
+          s: 6
+          from: "00:00:36,03"
+          to: "00:00:45,00"
+          text: "allora abbiamo detto alla staffetta “Tu stai di guardia: noi andiamo a ripararci un po’, quando arrivano… Però stai attenta a chi sono!”"
+        sequence-7:
+          s: 7
+          from: "00:00:46,20"
+          to: "00:00:51,10"
+          text: "e difatti arriva oramai vicino a mezzanotte,"
+        sequence-8:
+          s: 8
+          from: "00:00:51,11"
+          to: "00:01:01,05"
+          text: "viene dentro e ci fa “Oh ragazzi! Ma quei partigiani che dovevano darci il cambio sono tutti vestiti di bianco"
+        sequence-9:
+          s: 9
+          from: "00:01:01,06"
+          to: "00:01:05,12"
+          text: "e gli ho chiesto la parola d’ordine, non ce l’hanno data”"
+        sequence-10:
+          s: 10
+          from: "00:01:05,13"
+          to: "00:01:12,24"
+          text: "“Come non te l’hanno data? Come mai?” Andiamo davanti alla porta della stalla e li abbiamo tutti lì davanti,"
+        sequence-11:
+          s: 11
+          from: "00:01:13,00"
+          to: "00:01:16,22"
+          text: "un pattuglione di venti persone tutti schierati lì davanti:"
+        sequence-12:
+          s: 12
+          from: "00:01:16,23"
+          to: "00:01:21,17"
+          text: "quando hanno capito che noi eravamo dentro la stalla"
+        sequence-13:
+          s: 13
+          from: "00:01:21,18"
+          to: "00:01:25,21"
+          text: "hanno cominciato a dire “Venite fuori con le mani in alto! Venite fuori con le mani in alto!”. "
+        sequence-14:
+          s: 14
+          from: "00:01:25,22"
+          to: "00:01:36,01"
+          text: "Avevamo la luce accesa e uno con il calcio del fucile ha rotto la lampadina per farci scuro:"
+        sequence-15:
+          s: 15
+          from: "00:01:36,02"
+          to: "00:01:40,02"
+          text: "come è venuto a meno la luce hanno cominciato a spararci addosso"
+        sequence-16:
+          s: 16
+          from: "00:01:40,03"
+          to: "00:01:45,04"
+          text: "così che hanno ucciso due mucche, un asino,"
+        sequence-17:
+          s: 17
+          from: "00:01:45,05"
+          to: "00:01:53,02"
+          text: "uno si era levato le scarpe e non ha avuto tempo di trovare le scarpe e siamo scappati."
+        sequence-18:
+          s: 18
+          from: "00:01:53,03"
+          to: "00:02:01,05"
+          text: "Siamo scappati dall’altra parte della porta perché di qua ormai eravamo circondati;"
+        sequence-19:
+          s: 19
+          from: "00:02:01,06"
+          to: "00:02:05,07"
+          text: "porta di ferro, mai stata aperta quella porta lì,"
+        sequence-20:
+          s: 20
+          from: "00:02:05,08"
+          to: "00:02:10,01"
+          text: "allora con tre o quattro colpi siamo riusciti a forzarla di sotto."
+        sequence-21:
+          s: 21
+          from: "00:02:10,02"
+          to: "00:02:15,16"
+          text: "Allora via via, fuori fuori mentre loro sparavano,"
+        sequence-22:
+          s: 22
+          from: "00:02:15,17"
+          to: "00:02:20,17"
+          text: "ma sparavano verso le mucche e noi facevamo in tempo."
+        sequence-23:
+          s: 23
+          from: "00:02:20,18"
+          to: "00:02:31,17"
+          text: "Quando siamo andati fuori, io sono rimasto l’ultimo e guardo dove sono: non li vedo più perché di dietro c’era il pollaio, allora ho guardato un po’, niente."
+        sequence-24:
+          s: 24
+          from: "00:02:31,18"
+          to: "00:02:45,13"
+          text: "Allora sono andato dietro il muro della stalla e ho sbagliato indirizzo diciamo,"
+        sequence-25:
+          s: 25
+          from: "00:02:45,14"
+          to: "00:02:52,08"
+          text: "andavo verso la strada: come sono un po’ più avanti sento uno che dice"
+        sequence-26:
+          s: 26
+          from: "00:02:52,09"
+          to: "00:02:55,19"
+          text: "“Vieni avanti con le mani in alto!” Porca miseria allora ho sbagliato …"
+        sequence-27:
+          s: 27
+          from: "00:02:55,20"
+          to: "00:03:09,02"
+          text: "Allora gli ho dato una raffica intanto che si calmassero e ritorno indietro, sono andato ancora dentro al pollaio, sono andato dall’altra parte e di dietro c’era un fosso."
+        sequence-28:
+          s: 28
+          from: "00:03:09,03"
+          to: "00:03:25,14"
+          text: "Sono andato dentro al fosso, mi sono chinato per vedere un po’ com’era: allora sono andato avanti un po’ visto che andava verso il cimitero,"
+        sequence-29:
+          s: 29
+          from: "00:03:25,15"
+          to: "00:03:28,01"
+          text: "ho fatto il giro del cimitero ma c’era la neve"
+        sequence-30:
+          s: 30
+          from: "00:03:28,02"
+          to: "00:03:36,10"
+          text: "allora per non lasciare la traccia sono stato dentro al fosso che c’era l’acqua e di lì ho guardato per vedere"
+        sequence-31:
+          s: 31
+          from: "00:03:36,11"
+          to: "00:03:40,12"
+          text: "pressappoco i miei dov’erano, non li vedevo più. Allora niente, ho cercato di attraversare il prato dietro il cimitero,"
+        sequence-32:
+          s: 32
+          from: "00:03:40,13"
+          to: "00:04:03,00"
+          text: "poi sono andato un po’, ho trovato un altro fosso sempre pieno d’acqua, allora dentro al fosso per perdere la traccia dove andavo"
+        sequence-33:
+          s: 33
+          from: "00:04:03,01"
+          to: "00:04:18,11"
+          text: "fintanto che sono arrivato in un altro capo però sentivo che oramai si erano dati appuntamento i tedeschi, si cominciava a sentire il galoppo dei cavalli,"
+        sequence-34:
+          s: 34
+          from: "00:04:18,12"
+          to: "00:04:26,13"
+          text: "gira a destra, gira a sinistra, gridare da una parte… Allora cosa faccio qua? Ho detto adesso mi fermo. C’era un fosso vicino…"
+        sequence-35:
+          s: 35
+          from: "00:04:26,14"
+          to: "00:04:53,20"
+          text: "allora erano alberi che sostenevano la vite, erano gli alberi di olmo, allora mi sono messo a sedere vicino all’olmo e poi vedevo pressappoco com’era. Ho cominciato a sentire l’orologio di Barco,"
+        sequence-36:
+          s: 36
+          from: "00:04:53,21"
+          to: "00:05:01,14"
+          text: "l’orologio della chiesa di Barco: e l’una, l’una e mezza, le due…"
+        sequence-37:
+          s: 37
+          from: "00:05:01,15"
+          to: "00:05:14,18"
+          text: "Sul fare del giorno ho cominciato a vedere pressappoco com’ero e ho visto una casina mica tanto distante: allora ho guardato a modo e poi ci sono andato vicino."
+        sequence-38:
+          s: 38
+          from: "00:05:14,19"
+          to: "00:05:31,01"
+          text: "Allora non c’erano i cani come adesso e quindi mi sono potuto avvicinare e andare davanti alla finestra:"
+        sequence-39:
+          s: 39
+          from: "00:05:31,02"
+          to: "00:05:43,20"
+          text: "mentre guardo dentro la cucina c’è una vecchietta con il bastone che stava soffiando verso il fuoco per accendere il camino."
+        sequence-40:
+          s: 40
+          from: "00:05:43,21"
+          to: "00:05:49,00"
+          text: "Allora mi sono guardato intorno, poi pian pianino…"
+        sequence-41:
+          s: 41
+          from: "00:05:49,01"
+          to: "00:05:54,04"
+          text: "Allora i contadini non chiudevano le porte come adesso,"
+        sequence-42:
+          s: 42
+          from: "00:05:54,05"
+          to: "00:05:58,21"
+          text: "lasciavano la porta aperta per andare alla stalla."
+        sequence-43:
+          s: 43
+          from: "00:05:58,22"
+          to: "00:06:08,20"
+          text: "Allora sono andato davanti alla porta, sono andato dentro e ho iniziato a picchiarla e le ho detto “Nonna, nonna!”"
+        sequence-44:
+          s: 44
+          from: "00:06:08,21"
+          to: "00:06:16,14"
+          text: "Come si è voltata ha preso paura e le è venuto male ed è caduta per terra perché era sopra uno sgabello."
+        sequence-45:
+          s: 45
+          from: "00:06:16,15"
+          to: "00:06:28,07"
+          text: "Allora cerco di tirarla su per metterla a sedere mentre viene giù la figlia “Cosa c’è? Cosa c’è?”"
+        sequence-46:
+          s: 46
+          from: "00:06:28,08"
+          to: "00:06:31,07"
+          text: "Allora le ho detto “Guardate non c’è niente…”"
+        sequence-47:
+          s: 47
+          from: "00:06:31,08"
+          to: "00:06:36,15"
+          text: "“Ma è fino adesso che si sente sparare, dei rumori, cosa c’è?”"
+        sequence-48:
+          s: 48
+          from: "00:06:36,16"
+          to: "00:06:43,22"
+          text: "“Non c’è niente, adesso cerchiamo di sistemare la nonna poi si vedrà”"
+        sequence-49:
+          s: 49
+          from: "00:06:43,23"
+          to: "00:06:51,17"
+          text: "perché avevo capelli lunghi, barba lunga, tutto bagnato dalla punta dei capelli ai piedi;"
+        sequence-50:
+          s: 50
+          from: "00:06:51,18"
+          to: "00:07:01,05"
+          text: "avevo anche la roba gelata addosso perché stare tutta notte al freddo…"
+        sequence-51:
+          s: 51
+          from: "00:07:01,06"
+          to: "00:07:11,12"
+          text: "Abbiamo aiutato la sua mamma a mettersi a posto e nel mentre viene giù il marito"
+        sequence-52:
+          s: 52
+          from: "00:07:11,13"
+          to: "00:07:16,21"
+          text: "allora gli ho detto, abbiamo fatto un discorsino"
+        sequence-53:
+          s: 53
+          from: "00:07:16,22"
+          to: "00:07:24,02"
+          text: "“Guardate se sono venuto in una casa simpatizzante a noi"
+        sequence-54:
+          s: 54
+          from: "00:07:24,03"
+          to: "00:07:26,22"
+          text: "non succede niente quindi siamo a posto,"
+        sequence-55:
+          s: 55
+          from: "00:07:26,23"
+          to: "00:07:31,19"
+          text: "se invece avete delle storie prima di me ci siete voi”."
+        sequence-56:
+          s: 56
+          from: "00:07:31,20"
+          to: "00:07:39,11"
+          text: "Lui mi ha detto“No no io sono un simpatizzante, sono uno che…”"
+        sequence-57:
+          s: 57
+          from: "00:07:39,12"
+          to: "00:07:44,13"
+          text: "“Non c’è niente di male, sistemiamo un po’ la faccenda…”"
+        sequence-58:
+          s: 58
+          from: "00:07:44,14"
+          to: "00:07:53,06"
+          text: "Allora ci siamo stretti lì e nel mentre si chiacchierava gli ho detto “Conoscete la Bruna?”"
+        sequence-59:
+          s: 59
+          from: "00:07:53,07"
+          to: "00:07:59,12"
+          text: "la Bruna era la staffetta di Cavriago"
+        sequence-60:
+          s: 60
+          from: "00:07:59,13"
+          to: "00:08:07,12"
+          text: "che dopo qualche giorno l’hanno presa e l’hanno torturata, gliene hanno fatte di tutti i colori."
+        sequence-61:
+          s: 61
+          from: "00:08:07,13"
+          to: "00:08:12,05"
+          text: "Fatto sta che mi hanno nascosto nel fienile,"
+        sequence-62:
+          s: 62
+          from: "00:08:12,06"
+          to: "00:08:24,12"
+          text: "dopo mi hanno dato della roba da cambiarmi e poi mi hanno portato al rifugio:"
+        sequence-63:
+          s: 63
+          from: "00:08:24,13"
+          to: "00:08:29,18"
+          text: "allora c’erano i rifugi nei campi. Mi hanno riportato nel rifugio"
+        sequence-64:
+          s: 64
+          from: "00:08:29,19"
+          to: "00:08:35,02"
+          text: "mentre lui andava a Cavriago a chiamare la Bruna,"
+        sequence-65:
+          s: 65
+          from: "00:08:35,03"
+          to: "00:08:48,10"
+          text: "e infatti me la sono vista arrivare e come l’ho vista mi sono sollevato: è venuta lì e mi ha detto che alle nove di sera passavano a prendermi"
+        sequence-66:
+          s: 66
+          from: "00:08:48,11"
+          to: "00:08:55,04"
+          text: "e difatti mi sono trovato sul viottolo mentre sono arrivati quei partigiani lì"
+        sequence-67:
+          s: 67
+          from: "00:08:55,05"
+          to: "00:09:00,06"
+          text: "e siamo arrivati fino a Gombio dove ero accampato."
+        sequence-68:
+          s: 68
+          from: "00:09:00,07"
+          to: "00:09:06,04"
+          text: "Lì avevo una morosina: sono andato nella stalla"
+        sequence-69:
+          s: 69
+          from: "00:09:06,05"
+          to: "00:09:12,14"
+          text: "perché sapevo che quando veniva giù veniva giù nella stalla"
+        sequence-70:
+          s: 70
+          from: "00:09:12,15"
+          to: "00:09:19,13"
+          text: "e come mi ha visto “Volpe! Volpe!” allora ci siamo abbracciati"
+        sequence-71:
+          s: 71
+          from: "00:09:19,14"
+          to: "00:09:24,03"
+          text: "“C’era la chiacchiera che ti avevano preso, ti avevano ucciso…\""
+        sequence-72:
+          s: 72
+          from: "00:09:24,04"
+          to: "00:09:26,18"
+          text: "invece è andato tutto bene e quindi siamo qua."

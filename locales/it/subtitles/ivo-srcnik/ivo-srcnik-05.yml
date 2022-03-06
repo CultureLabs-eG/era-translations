@@ -2,28 +2,28 @@ it:
   ivo-srcnik:
     chapter-5:
       c: 5
-      title: ~
+      title: "Entrato a far parte della Brigata Jugoslava"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,20"
           to: "00:00:05,16"
-          text: ~
+          text: "Poi è arrivato l'ordine, esci."
         sequence-2:
           s: 2
           from: "00:00:05,16"
           to: "00:00:13,26"
-          text: ~
+          text: "Non so se ci fosse una guardia; ma dove scappare in caso?"
         sequence-3:
           s: 3
           from: "00:00:13,26"
           to: "00:00:19,00"
-          text: ~
+          text: "L'inverno era perpetuo, no perpetuo no, tranne la neve..."
         sequence-4:
           s: 4
           from: "00:00:19,00"
           to: "00:00:26,05"
-          text: ~
+          text: "Ci hanno portato a Mosca, o veramente era Krasnogorsk."
         sequence-5:
           s: 5
           from: "00:00:26,05"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:27,14"
           to: "00:00:36,07"
-          text: ~
+          text: "C'era un campo di prigionieri di guerra a Krasnogorsk. Lì c'erano rappresentati tutti i tipi di nazionalità:"
         sequence-7:
           s: 7
           from: "00:00:36,07"
           to: "00:00:42,29"
-          text: ~
+          text: "sloveni, croati, cechi, polacchi e perfino francesi."
         sequence-8:
           s: 8
           from: "00:00:42,29"
@@ -48,97 +48,97 @@ it:
           s: 9
           from: "00:00:44,09"
           to: "00:00:48,25"
-          text: ~
+          text: "Ci hanno addestrato a Krasnogorsk."
         sequence-10:
           s: 10
           from: "00:00:48,25"
           to: "00:01:02,00"
-          text: ~
+          text: "Questo è ciò che penso e ne abbiamo discusso anche tra noi: saremmo stati mandati contro Hitler, contro la Germania."
         sequence-11:
           s: 11
           from: "00:01:02,00"
           to: "00:01:16,13"
-          text: ~
+          text: "Abbiamo deciso tutti che l'avremmo fatto. Quindi a Krasnogrosk eravamo preparati, ci hanno cambiato..."
         sequence-12:
           s: 12
           from: "00:01:16,13"
           to: "00:01:27,15"
-          text: ~
+          text: "suonerà un po' malizioso come lo dico... dal fascismo al bolscevismo o dal nazionalismo al bolscevismo."
         sequence-13:
           s: 13
           from: "00:01:27,15"
           to: "00:01:38,16"
-          text: ~
+          text: "È così che immaginavamo che andassero le cose in quel momento, perché non c'erano sentinelle o guardie che vegliassero su di noi a Krasnogorsk."
         sequence-14:
           s: 14
           from: "00:01:38,16"
           to: "00:01:45,14"
-          text: ~
+          text: "Credo che siamo stati lì a Krasnogorsk forse un mese circa."
         sequence-15:
           s: 15
           from: "00:01:45,14"
           to: "00:01:55,24"
-          text: ~
+          text: "Una volta Mesic venne a farci visita; era di rango un generale."
         sequence-16:
           s: 16
           from: "00:01:55,24"
           to: "00:02:04,21"
-          text: ~
+          text: "Era il padre dell'attuale croato Mesic, quello che ora è Presidente o qualcosa del genere."
         sequence-17:
           s: 17
           from: "00:02:04,21"
           to: "00:02:22,12"
-          text: ~
+          text: "Quindi suo padre è venuto da noi e ha detto, ragazzi chi vuole unirsi alla brigata può andare a combattere i tedeschi."
         sequence-18:
           s: 18
           from: "00:02:22,12"
           to: "00:02:30,04"
-          text: ~
+          text: "O per allontanarsi dall'accampamento,"
         sequence-19:
           s: 19
           from: "00:02:30,04"
           to: "00:02:34,18"
-          text: ~
+          text: "o forse solo per evitare di essere controllati,"
         sequence-20:
           s: 20
           from: "00:02:34,18"
           to: "00:02:41,26"
-          text: ~
+          text: "o forse anche noi eravamo del tutto consapevoli, comunque abbiamo scelto di unirci alle unità."
         sequence-21:
           s: 21
           from: "00:02:41,26"
           to: "00:02:51,10"
-          text: ~
+          text: "Sono entrato a far parte della brigata jugoslava, così è stata chiamata in seguito, ma allora era un distacco."
         sequence-22:
           s: 22
           from: "00:02:51,10"
           to: "00:02:58,16"
-          text: ~
+          text: "All'epoca eravamo forse circa 200 o 300, 400..."
         sequence-23:
           s: 23
           from: "00:02:58,16"
           to: "00:03:07,13"
-          text: ~
+          text: "Mi sono accodato e non so se fossi debole o meno; forse lo ero.   [00:03:06.10"
         sequence-24:
           s: 24
           from: "00:03:07,13"
           to: "00:03:19,07"
-          text: ~
+          text: "Ma sono arrivato in quel Quartier generale dove Mesic era l'ufficiale in comando e disse che sarei andato da qualcuno."
         sequence-25:
           s: 25
           from: "00:03:19,07"
           to: "00:03:22,24"
-          text: ~
+          text: "Chi? Non lo seppi."
         sequence-26:
           s: 26
           from: "00:03:22,24"
           to: "00:03:38,27"
-          text: ~
+          text: "Ma è successo che sono andato da quest'uomo che viveva in Russia dal 1918, o forse anche prima, dalla Prima Guerra Mondiale."
         sequence-27:
           s: 27
           from: "00:03:38,27"
           to: "00:03:43,17"
-          text: ~
+          text: "Il suo nome era Jevremovic."
         sequence-28:
           s: 28
           from: "00:03:43,17"
@@ -148,9 +148,9 @@ it:
           s: 29
           from: "00:03:45,05"
           to: "00:03:54,18"
-          text: ~
+          text: "Andai da quest'uomo che indossava un'uniforme e parlai in serbo con lui,"
         sequence-30:
           s: 30
           from: "00:03:54,18"
           to: "00:03:58,27"
-          text: ~
+          text: "e mi disse che sarei andato con lui per essere suo corriere."

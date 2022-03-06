@@ -2,18 +2,18 @@ it:
   ana-zablatnik:
     chapter-7:
       c: 7
-      title: ~
+      title: "In prigione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,24"
           to: "00:00:03,26"
-          text: ~
+          text: "Anch'io ero in prigione. C'è stato un raid."
         sequence-2:
           s: 2
           from: "00:00:03,26"
           to: "00:00:12,03"
-          text: ~
+          text: "Qualcuno ha detto - ciò è accaduto alla fine di ottobre - che stavamo tenendo dei contatti."
         sequence-3:
           s: 3
           from: "00:00:12,03"
@@ -23,62 +23,62 @@ it:
           s: 4
           from: "00:00:13,28"
           to: "00:00:22,21"
-          text: ~
+          text: "Una volta ce n'era una, che era stata anche imprigionata, che diceva sempre:"
         sequence-5:
           s: 5
           from: "00:00:22,21"
           to: "00:00:26,12"
-          text: ~
+          text: "\"Se succede qualcosa, vorresti venire con noi?\""
         sequence-6:
           s: 6
           from: "00:00:26,12"
           to: "00:00:30,09"
-          text: ~
+          text: "Così ho chiesto: \"Bene dunque, che cosa succede? Sì.\" \"Vedrai.\""
         sequence-7:
           s: 7
           from: "00:00:30,09"
           to: "00:00:34,12"
-          text: ~
+          text: "Qualcosa fu delata, presumibilmente."
         sequence-8:
           s: 8
           from: "00:00:34,12"
           to: "00:00:50,00"
-          text: ~
+          text: "C'erano due supervisori che avevano contatti con i comunisti."
         sequence-9:
           s: 9
           from: "00:00:50,00"
           to: "00:00:56,09"
-          text: ~
+          text: "Due o tre autobus avrebbero dovuto prelevarci dopo."
         sequence-10:
           s: 10
           from: "00:00:56,09"
           to: "00:01:04,01"
-          text: ~
+          text: "Ci fu la soffiata, e quei due furono portati"
         sequence-11:
           s: 11
           from: "00:01:04,01"
           to: "00:01:12,03"
-          text: ~
+          text: "alla prigione in 'Völkermarkter Str.' insieme ad altri."
         sequence-12:
           s: 12
           from: "00:01:12,03"
           to: "00:01:19,04"
-          text: ~
+          text: "Non hanno perquisito noi, ma tutti gli altri."
         sequence-13:
           s: 13
           from: "00:01:19,04"
           to: "00:01:25,10"
-          text: ~
+          text: "Tutti i materassi di paglia furono aperti e perquisiti."
         sequence-14:
           s: 14
           from: "00:01:25,10"
           to: "00:01:32,09"
-          text: ~
+          text: "Qualunque cosa avessimo con noi era tutta ammucchiata nel cortile."
         sequence-15:
           s: 15
           from: "00:01:32,09"
           to: "00:01:34,10"
-          text: ~
+          text: "Non trovarono niente."
         sequence-16:
           s: 16
           from: "00:01:34,10"
@@ -88,12 +88,12 @@ it:
           s: 17
           from: "00:01:36,08"
           to: "00:01:39,28"
-          text: ~
+          text: "Ma mentre cercavano prove"
         sequence-18:
           s: 18
           from: "00:01:39,28"
           to: "00:01:46,07"
-          text: ~
+          text: "ci siamo dovuti allineare in corridoio, a un metro di distanza reciproco e faccia al muro."
         sequence-19:
           s: 19
           from: "00:01:46,07"
@@ -103,17 +103,17 @@ it:
           s: 20
           from: "00:01:47,17"
           to: "00:01:50,07"
-          text: ~
+          text: "Poi siamo dovuti entrare in cella."
         sequence-21:
           s: 21
           from: "00:01:50,07"
           to: "00:01:58,10"
-          text: ~
+          text: "Lì dovevamo spogliarci completamente e ci hanno perquisito se avevamo qualcosa nascosto."
         sequence-22:
           s: 22
           from: "00:01:58,10"
           to: "00:02:03,05"
-          text: ~
+          text: "Non so dove si possa nascondere qualcosa se non indossi nulla."
         sequence-23:
           s: 23
           from: "00:02:03,05"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:02:04,26"
           to: "00:02:12,13"
-          text: ~
+          text: "Fu la Gestapo a farlo e questa è stata un'altra amara esperienza."
         sequence-25:
           s: 25
           from: "00:02:12,13"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:13,28"
           to: "00:02:18,29"
-          text: ~
+          text: "Non eri più un essere umano, nemmeno alla stregua di una mosca."
         sequence-27:
           s: 27
           from: "00:02:18,29"
@@ -143,4 +143,4 @@ it:
           s: 28
           from: "00:02:20,15"
           to: "00:02:29,20"
-          text: ~
+          text: "Anche loro di tanto in tanto le lascia andare di modo che possano volare via."

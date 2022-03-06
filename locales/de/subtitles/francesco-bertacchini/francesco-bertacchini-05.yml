@@ -1,0 +1,366 @@
+de:
+  francesco-bertacchini:
+    chapter-5:
+      c: 5
+      title: "Bruna und die Flucht"
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:01,02"
+          to: "00:00:10,10"
+          text: "Bruna war eine weitere Stafette, die geholfen hat, mich zu retten."
+        sequence-2:
+          s: 2
+          from: "00:00:10,11"
+          to: "00:00:17,02"
+          text: "Wir sollten uns zwischen Barco, Bibbiano, Montecchio und Cavriago treffen,"
+        sequence-3:
+          s: 3
+          from: "00:00:17,03"
+          to: "00:00:21,22"
+          text: "bei der Eisenbahnlinie, gegen Mitternacht."
+        sequence-4:
+          s: 4
+          from: "00:00:27,04"
+          to: "00:00:29,16"
+          text: "Wir kamen um elf an"
+        sequence-5:
+          s: 5
+          from: "00:00:29,17"
+          to: "00:00:36,02"
+          text: "und um nicht im Freien zu stehen, es gab in der Nähe ein Bauernhaus,"
+        sequence-6:
+          s: 6
+          from: "00:00:36,03"
+          to: "00:00:45,00"
+          text: "haben wir der Stafette gesagt: \"Du hältst Wache und wir verstecken uns da, bis sie kommen. Aber sei vorsichtig!\""
+        sequence-7:
+          s: 7
+          from: "00:00:46,20"
+          to: "00:00:51,10"
+          text: "Und gegen Mitternacht kommt sie,"
+        sequence-8:
+          s: 8
+          from: "00:00:51,11"
+          to: "00:01:01,05"
+          text: "tritt ein und sagt: \"Hey Leute! Die Partisanen, die wir treffen sollten, sind alle weiß gekleidet"
+        sequence-9:
+          s: 9
+          from: "00:01:01,06"
+          to: "00:01:05,12"
+          text: "und ich habe nach der Parole gefragt, aber sie haben sie nicht genannt!\""
+        sequence-10:
+          s: 10
+          from: "00:01:05,13"
+          to: "00:01:12,24"
+          text: "\"Wie, sie haben sie nicht genannt? Was soll das?\" Wir gingen zur Stalltür und da waren sie,"
+        sequence-11:
+          s: 11
+          from: "00:01:13,00"
+          to: "00:01:16,22"
+          text: "eine Gruppe von 20 Personen, direkt vor uns in Stellung."
+        sequence-12:
+          s: 12
+          from: "00:01:16,23"
+          to: "00:01:21,17"
+          text: "Als sie begriffen hatten, dass wir im Stall waren,"
+        sequence-13:
+          s: 13
+          from: "00:01:21,18"
+          to: "00:01:25,21"
+          text: "riefen sie: \"Kommt mit erhobenen Händen raus!\""
+        sequence-14:
+          s: 14
+          from: "00:01:25,22"
+          to: "00:01:36,01"
+          text: "Bei uns war Licht an und einer hat mit dem Kolben seines Gewehrs die Glühbirne zerschlagen, damit wir im Dunklen waren."
+        sequence-15:
+          s: 15
+          from: "00:01:36,02"
+          to: "00:01:40,02"
+          text: "Sobald das Licht ausging, haben sie angefangen auf uns zu schießen."
+        sequence-16:
+          s: 16
+          from: "00:01:40,03"
+          to: "00:01:45,04"
+          text: "Dabei haben sie zwei Kühe und eine Esel getötet."
+        sequence-17:
+          s: 17
+          from: "00:01:45,05"
+          to: "00:01:53,02"
+          text: "Einer von uns hatte seine Schuhe ausgezogen und keine Zeit mehr sie zu suchen, wir rannten alle weg."
+        sequence-18:
+          s: 18
+          from: "00:01:53,03"
+          to: "00:02:01,05"
+          text: "Wir flüchteten nach hinten, denn auf der Türseite waren wir schon umzingelt;"
+        sequence-19:
+          s: 19
+          from: "00:02:01,06"
+          to: "00:02:05,07"
+          text: "eine Eisentür, die war noch nie geöffnet worden,"
+        sequence-20:
+          s: 20
+          from: "00:02:05,08"
+          to: "00:02:10,01"
+          text: "nach drei oder vier Schlägen gelang es uns, sie von unten aufzuhebeln."
+        sequence-21:
+          s: 21
+          from: "00:02:10,02"
+          to: "00:02:15,16"
+          text: "Einer nach dem andern ist raus, während sie schossen,"
+        sequence-22:
+          s: 22
+          from: "00:02:15,17"
+          to: "00:02:20,17"
+          text: "aber sie schossen auf die Kühe und wir schafften es rechtzeitig raus."
+        sequence-23:
+          s: 23
+          from: "00:02:20,18"
+          to: "00:02:31,17"
+          text: "Ich war der letzte, der rauskam, schaute mich um, sah aber niemanden mehr, weil da ein Hühnerstall war, hab dort nachgeschaut, nichts."
+        sequence-24:
+          s: 24
+          from: "00:02:31,18"
+          to: "00:02:45,13"
+          text: "Ich ging um die Scheune herum, aber das war die falsche Richtung,"
+        sequence-25:
+          s: 25
+          from: "00:02:45,14"
+          to: "00:02:52,08"
+          text: "denn ich ging in Richtung Straße und plötzlich höre ich jemanden sagen:"
+        sequence-26:
+          s: 26
+          from: "00:02:52,09"
+          to: "00:02:55,19"
+          text: "\"Komm mit erhobenen Händen her!\" Verfluchter Mist, hier war ich wohl falsch..."
+        sequence-27:
+          s: 27
+          from: "00:02:55,20"
+          to: "00:03:09,02"
+          text: "Also habe ich ein Salve auf sie gefeuert, damit sie sich abregten, und bin zurück, ging wieder in den Hühnerstall und auf die andere Seite, da war ein Graben."
+        sequence-28:
+          s: 28
+          from: "00:03:09,03"
+          to: "00:03:25,14"
+          text: "Ich stieg in den Graben, duckte mich und ging darin ein Stück in Richtung Friedhof,"
+        sequence-29:
+          s: 29
+          from: "00:03:25,15"
+          to: "00:03:28,01"
+          text: "ich lief um den Friedhof herum, da aber Schnee lag"
+        sequence-30:
+          s: 30
+          from: "00:03:28,02"
+          to: "00:03:36,10"
+          text: "und ich keine Spuren hinterlassen wollte, blieb ich im Graben, obwohl da Wasser drin war, und schaute mich um"
+        sequence-31:
+          s: 31
+          from: "00:03:36,11"
+          to: "00:03:40,12"
+          text: "wo meine Leute waren. Aber ich sah sie nicht mehr. Dann habe ich versucht, die Wiese hinter dem Friedhof zu überqueren,"
+        sequence-32:
+          s: 32
+          from: "00:03:40,13"
+          to: "00:04:03,00"
+          text: "ich ging ein Stück, fand einen anderen Graben, auch wieder voller Wasser, und stieg hinein, um meine Spur zu verbergen."
+        sequence-33:
+          s: 33
+          from: "00:04:03,01"
+          to: "00:04:18,11"
+          text: "Als ich am anderen Ende ankam, hörte ich, dass sich die Deutschen schon ein Stelldichein gaben, das Galoppieren der Pferde war zu hören."
+        sequence-34:
+          s: 34
+          from: "00:04:18,12"
+          to: "00:04:26,13"
+          text: "Rechts lang, links lang, Rufe von einer Seite ... Was mache ich hier? Ich hielt an. Es gab einen Graben in der Nähe..."
+        sequence-35:
+          s: 35
+          from: "00:04:26,14"
+          to: "00:04:53,20"
+          text: "Damals wurden die Weinreben von Bäumen abgestützt, von Ulmen. Ich hockte mich neben eine Ulme und verschaffte mir einen Überblick. Dann hörte ich die Uhr in Barco,"
+        sequence-36:
+          s: 36
+          from: "00:04:53,21"
+          to: "00:05:01,14"
+          text: "die Kirchturmuhr in Barco: es schlug eins, halb zwei, zwei Uhr..."
+        sequence-37:
+          s: 37
+          from: "00:05:01,15"
+          to: "00:05:14,18"
+          text: "In der Morgendämmerung konnte ich besser sehen und entdeckte gar nicht weit entfernt ein kleines Haus. Vorsichtig habe ich mich genähert."
+        sequence-38:
+          s: 38
+          from: "00:05:14,19"
+          to: "00:05:31,01"
+          text: "Damals gab es keine Wachhunde so wie heute, darum konnte ich bis ans Fenster herangehen:"
+        sequence-39:
+          s: 39
+          from: "00:05:31,02"
+          to: "00:05:43,20"
+          text: "Als ich in die Küche schaute, sah ich eine alte Frau mit Krückstock, die ins Feuer blies, um den Kamin anzuzünden."
+        sequence-40:
+          s: 40
+          from: "00:05:43,21"
+          to: "00:05:49,00"
+          text: "Ich schaute mich um und dann, ganz vorsichtig..."
+        sequence-41:
+          s: 41
+          from: "00:05:49,01"
+          to: "00:05:54,04"
+          text: "Damals schlossen die Bauern die Haustür nicht ab wie heute,"
+        sequence-42:
+          s: 42
+          from: "00:05:54,05"
+          to: "00:05:58,21"
+          text: "sie ließen die Tür offen, um in den Stall zu gehen."
+        sequence-43:
+          s: 43
+          from: "00:05:58,22"
+          to: "00:06:08,20"
+          text: "Also ging ich vor die Tür, trat hinein, klopfte dann und sagte: \"Oma, Oma!\""
+        sequence-44:
+          s: 44
+          from: "00:06:08,21"
+          to: "00:06:16,14"
+          text: "Als sie sich umdrehte, erschrak sie derart, dass sie von ihrem Hocker auf den Boden fiel."
+        sequence-45:
+          s: 45
+          from: "00:06:16,15"
+          to: "00:06:28,07"
+          text: "Ich versuchte, sie hochzuziehen und wieder hinzusetzen, als ihre Tochter herunterkam: \"Was ist denn hier los?\""
+        sequence-46:
+          s: 46
+          from: "00:06:28,08"
+          to: "00:06:31,07"
+          text: "\"Hören Sie, es ist nichts passiert...\""
+        sequence-47:
+          s: 47
+          from: "00:06:31,08"
+          to: "00:06:36,15"
+          text: "\"Aber wir haben bis eben Schüsse und Geräusche gehört. Was ist los?\""
+        sequence-48:
+          s: 48
+          from: "00:06:36,16"
+          to: "00:06:43,22"
+          text: "\"Es ist nichts, jetzt versuchen wir erstmal, die Oma wieder herzurichten, dann sehen wir weiter\""
+        sequence-49:
+          s: 49
+          from: "00:06:43,23"
+          to: "00:06:51,17"
+          text: "Ich hatte lange Haare, einen langen Bart, war nass von der Haarspitze bis zu den Füßen;"
+        sequence-50:
+          s: 50
+          from: "00:06:51,18"
+          to: "00:07:01,05"
+          text: "meine Sachen waren zum Teil gefroren, weil ich die ganze Nacht in der Kälte verbracht hatte..."
+        sequence-51:
+          s: 51
+          from: "00:07:01,06"
+          to: "00:07:11,12"
+          text: "Wir halfen ihrer Mutter, sich hinzusetzen, währenddessen kam ihr Mann runter."
+        sequence-52:
+          s: 52
+          from: "00:07:11,13"
+          to: "00:07:16,21"
+          text: "Wir redeten miteinander, ich sagte:"
+        sequence-53:
+          s: 53
+          from: "00:07:16,22"
+          to: "00:07:24,02"
+          text: "\"Schaut, wenn ich einem Haus gelandet bin, das mit uns sympathisiert,"
+        sequence-54:
+          s: 54
+          from: "00:07:24,03"
+          to: "00:07:26,22"
+          text: "passiert nichts und alles ist ok."
+        sequence-55:
+          s: 55
+          from: "00:07:26,23"
+          to: "00:07:31,19"
+          text: "Wenn ihr allerdings Ärger macht, seid ihr vor mir dran!\"."
+        sequence-56:
+          s: 56
+          from: "00:07:31,20"
+          to: "00:07:39,11"
+          text: "Dann er: \"Nein, ich bin ein Sympathisant, ich bin jemand, der...\""
+        sequence-57:
+          s: 57
+          from: "00:07:39,12"
+          to: "00:07:44,13"
+          text: "\"Nichts für ungut, wir kriegen das alles wieder hin.\""
+        sequence-58:
+          s: 58
+          from: "00:07:44,14"
+          to: "00:07:53,06"
+          text: "Wir hockten da zusammen und während wir uns unterhielten, sagte ich: \"Kennt ihr Bruna?\""
+        sequence-59:
+          s: 59
+          from: "00:07:53,07"
+          to: "00:07:59,12"
+          text: "Bruna war die Stafette aus Cavriago,"
+        sequence-60:
+          s: 60
+          from: "00:07:59,13"
+          to: "00:08:07,12"
+          text: "die sie ein paar Tagen danach verhaftet haben. Sie folterten sie und haben ihr alles Mögliche angetan."
+        sequence-61:
+          s: 61
+          from: "00:08:07,13"
+          to: "00:08:12,05"
+          text: "Jedenfalls haben sie mich in der Scheune versteckt,"
+        sequence-62:
+          s: 62
+          from: "00:08:12,06"
+          to: "00:08:24,12"
+          text: "dann haben sie mir etwas zum Umziehen gegeben und mich ins Versteck gebracht:"
+        sequence-63:
+          s: 63
+          from: "00:08:24,13"
+          to: "00:08:29,18"
+          text: "Zu dieser Zeit gab es unterirdische Verstecke auf den Feldern. Da brachten sei mich hin."
+        sequence-64:
+          s: 64
+          from: "00:08:29,19"
+          to: "00:08:35,02"
+          text: "Er ging währenddessen nach Cavriago, um Bruna zu holen,"
+        sequence-65:
+          s: 65
+          from: "00:08:35,03"
+          to: "00:08:48,10"
+          text: "und sie kam tatsächlich, ich war so erleichtert, als ich sie sah. Sie kam an und sagte, dass man mich abends um neun abholen würde."
+        sequence-66:
+          s: 66
+          from: "00:08:48,11"
+          to: "00:08:55,04"
+          text: "Als ich um neun auf dem Pfad war, kamen wirklich diese Partisanen"
+        sequence-67:
+          s: 67
+          from: "00:08:55,05"
+          to: "00:09:00,06"
+          text: "und brachten mich bis nach Gombio, wo unser Lager war."
+        sequence-68:
+          s: 68
+          from: "00:09:00,07"
+          to: "00:09:06,04"
+          text: "Ich hatte dort eine Freundin: Ich ging in die Scheune,"
+        sequence-69:
+          s: 69
+          from: "00:09:06,05"
+          to: "00:09:12,14"
+          text: "denn ich wusste, dass sie immer in die Scheune ging, wenn sie runterkam,"
+        sequence-70:
+          s: 70
+          from: "00:09:12,15"
+          to: "00:09:19,13"
+          text: "und wie sie mich sieht: \"Volpe! Volpe!\", dann haben wir uns umarmt."
+        sequence-71:
+          s: 71
+          from: "00:09:19,14"
+          to: "00:09:24,03"
+          text: "\"Es gab das Gerücht, sie hätten dich erwischt, sie hätten dich getötet...\"."
+        sequence-72:
+          s: 72
+          from: "00:09:24,04"
+          to: "00:09:26,18"
+          text: "Es is aber alles gut gegangen und darum sind wir noch hier."

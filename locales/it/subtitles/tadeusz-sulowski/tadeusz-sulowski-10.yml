@@ -2,28 +2,28 @@ it:
   tadeusz-sulowski:
     chapter-10:
       c: 10
-      title: ~
+      title: "Circondati dai soldati tedeschi; la fuga"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:02,08"
           to: "00:00:06,13"
-          text: ~
+          text: "Lì ci attaccarono."
         sequence-2:
           s: 2
           from: "00:00:06,13"
           to: "00:00:12,20"
-          text: ~
+          text: "Ero molto malato in quei giorni. Avevo marciato molto a lungo"
         sequence-3:
           s: 3
           from: "00:00:12,20"
           to: "00:00:15,22"
-          text: ~
+          text: "e avevo delle escoriazioni su una gamba."
         sequence-4:
           s: 4
           from: "00:00:15,22"
           to: "00:00:25,24"
-          text: ~
+          text: "Portavamo degli scarponi alti e le gambe lì dentro venivano divorate dai pidocchi."
         sequence-5:
           s: 5
           from: "00:00:25,24"
@@ -33,37 +33,37 @@ it:
           s: 6
           from: "00:00:26,00"
           to: "00:00:39,19"
-          text: ~
+          text: "Quando si potevano togliere gli scarponi, ce li toglievamo e ci grattavamo quelle povere gambe morsicate dai pidocchi."
         sequence-7:
           s: 7
           from: "00:00:39,19"
           to: "00:00:48,18"
-          text: ~
+          text: "Questo mi provocò delle ferite e del liquido che ne fuoriusciva, avevo un'infezione, la febbre alta e non potevo camminare."
         sequence-8:
           s: 8
           from: "00:00:48,18"
           to: "00:00:57,26"
-          text: ~
+          text: "Il comandante tirò fuori delle mappe e cercò di capire come uscire da lì."
         sequence-9:
           s: 9
           from: "00:00:57,26"
           to: "00:01:04,27"
-          text: ~
+          text: "Dispiegò quelle mappe intorno e io vedevo come era tranquillo."
         sequence-10:
           s: 10
           from: "00:01:04,27"
           to: "00:01:10,02"
-          text: ~
+          text: "Le cannonate intorno erano così forti, che era chiaro che tra poco avremmo dovuto combattere."
         sequence-11:
           s: 11
           from: "00:01:10,02"
           to: "00:01:15,27"
-          text: ~
+          text: "Ma lui era lì sdraiato sulla sua coperta, tutto tranquillo, che guardava le mappe."
         sequence-12:
           s: 12
           from: "00:01:15,27"
           to: "00:01:23,00"
-          text: ~
+          text: "Probabilmente stava cercando di capire come farci uscire da quella trappola nel migliore dei modi."
         sequence-13:
           s: 13
           from: "00:01:23,00"
@@ -73,57 +73,57 @@ it:
           s: 14
           from: "00:01:25,02"
           to: "00:01:28,03"
-          text: ~
+          text: "Avevamo questo sottoufficiale a cavallo."
         sequence-15:
           s: 15
           from: "00:01:28,03"
           to: "00:01:44,28"
-          text: ~
+          text: "Gli chiedemmo di fare un giro a destra e a sinistra nella foresta per trovare la miglior via d'uscita."
         sequence-16:
           s: 16
           from: "00:01:44,28"
           to: "00:01:58,22"
-          text: ~
+          text: "Provò alcune volte in varie direzioni ma ogni volta tornava dicendo che eravamo circondati e non avevamo nessuna via di scampo."
         sequence-17:
           s: 17
           from: "00:01:58,22"
           to: "00:02:05,04"
-          text: ~
+          text: "A un certo punto qualcuno disse: \"Ragazzi, pensiamoci, dobbiamo fare qualcosa. Cosa facciamo?\""
         sequence-18:
           s: 18
           from: "00:02:05,04"
           to: "00:02:12,26"
-          text: ~
+          text: "Io dissi: \"Niente, rimaniamo qui, non ci arrenderemo facilmente. Tanto è la fine...\""
         sequence-19:
           s: 19
           from: "00:02:12,26"
           to: "00:02:22,17"
-          text: ~
+          text: "Però l'essere umano vuole sempre, fino all'ultimo, salvarsi. C'erano questi cespugli terribilmente fitti."
         sequence-20:
           s: 20
           from: "00:02:22,17"
           to: "00:02:28,07"
-          text: ~
+          text: "Non c'era modo di passarci."
         sequence-21:
           s: 21
           from: "00:02:28,07"
           to: "00:02:34,28"
-          text: ~
+          text: "Ma in qualche maniera riuscimmo a farci strada tra quei cespugli aiutandoci con i fucili."
         sequence-22:
           s: 22
           from: "00:02:34,28"
           to: "00:02:41,01"
-          text: ~
+          text: "Uno doveva sollevare con l'arma quelle mostruose, spesse, aguzze spine, mentre l'altro doveva strisciare sotto per passare."
         sequence-23:
           s: 23
           from: "00:02:41,01"
           to: "00:02:51,23"
-          text: ~
+          text: "Così entrammo in quei cespugli e pensavamo che nessuno ci avrebbe trovato lì."
         sequence-24:
           s: 24
           from: "00:02:51,23"
           to: "00:03:00,12"
-          text: ~
+          text: "Una volta entrati, dopo aver superato la parte peggiore, lì dentro si era creata una specie di piazzola, larga due volte questa stanza."
         sequence-25:
           s: 25
           from: "00:03:00,12"
@@ -133,67 +133,67 @@ it:
           s: 26
           from: "00:03:01,03"
           to: "00:03:07,16"
-          text: ~
+          text: "Ci cacciarono tutti quanti da quei cespugli e ci fecero prigionieri."
         sequence-27:
           s: 27
           from: "00:03:07,16"
           to: "00:03:13,16"
-          text: ~
+          text: "Io uscivo per ultimo."
         sequence-28:
           s: 28
           from: "00:03:13,16"
           to: "00:03:22,19"
-          text: ~
+          text: "Cosa avrebbero detto le mie sorelle? Mia madre? Io, fatto prigioniero!"
         sequence-29:
           s: 29
           from: "00:03:22,19"
           to: "00:03:35,26"
-          text: ~
+          text: "Uscì e vidi un mucchio fatto con le nostre armi, perché gli uomini di Vlasov ci dissero di lasciarle lì."
         sequence-30:
           s: 30
           from: "00:03:35,26"
           to: "00:03:45,06"
-          text: ~
+          text: "Le nostre armi ammucchiate così, i miei amici in una fila,"
         sequence-31:
           s: 31
           from: "00:03:45,06"
           to: "00:03:48,12"
-          text: ~
+          text: "e quelli di Vlasov che gli legavano le mani dietro la schiena."
         sequence-32:
           s: 32
           from: "00:03:48,12"
           to: "00:03:57,04"
-          text: ~
+          text: "Quando lo vidi, nascosi la testa e indietreggiai nascondendomi sotto questo boschetto di ginepri o qualcosa del genere,"
         sequence-33:
           s: 33
           from: "00:03:57,04"
           to: "00:04:05,19"
-          text: ~
+          text: "una pianta bassa."
         sequence-34:
           s: 34
           from: "00:04:05,19"
           to: "00:04:08,12"
-          text: ~
+          text: "Tenendo tra le gambe quel mio sten senza il caricatore,"
         sequence-35:
           s: 35
           from: "00:04:08,12"
           to: "00:04:17,17"
-          text: ~
+          text: "mi appoggiai sui gomiti e aspettai che le cose si calmassero."
         sequence-36:
           s: 36
           from: "00:04:17,17"
           to: "00:04:24,24"
-          text: ~
+          text: "Gli uomini di Vlasov legarono i miei amici e si sentivano le loro esclamazioni."
         sequence-37:
           s: 37
           from: "00:04:24,24"
           to: "00:04:35,08"
-          text: ~
+          text: "Perché mentre procedevano, per farsi coraggio, gridavano: \"Urrà! Urrà\". E inoltre erano tutti terribilmente ubriachi."
         sequence-38:
           s: 38
           from: "00:04:35,08"
           to: "00:04:47,14"
-          text: ~
+          text: "Quando qualcuno di loro moriva, controllavamo che armi avesse e loro avevano sempre delle borracce piene di alcolici."
         sequence-39:
           s: 39
           from: "00:04:47,14"
@@ -203,72 +203,72 @@ it:
           s: 40
           from: "00:04:49,26"
           to: "00:04:58,13"
-          text: ~
+          text: "Quindi li sentivo allontanarsi, ormai era notte."
         sequence-41:
           s: 41
           from: "00:04:58,13"
           to: "00:05:03,09"
-          text: ~
+          text: "All'improvviso qualcunò iniziò a fischiettare \"Jeszcze Polska nie zginęła\" [l'inno polacco]."
         sequence-42:
           s: 42
           from: "00:05:03,09"
           to: "00:05:08,05"
-          text: ~
+          text: "Dopo un po' gli risposi fischiettando a mia volta."
         sequence-43:
           s: 43
           from: "00:05:08,05"
           to: "00:05:14,08"
-          text: ~
+          text: "Allora mi chiese: \"Quanti siete?\". E io risposi: \"Sono solo\"."
         sequence-44:
           s: 44
           from: "00:05:14,08"
           to: "00:05:18,21"
-          text: ~
+          text: "\"Noi siamo in quattro.\""
         sequence-45:
           s: 45
           from: "00:05:18,21"
           to: "00:05:25,16"
-          text: ~
+          text: "Quindi c'erano altri quattro ragazzi furbi come me, che si nascondevano nei boschetti."
         sequence-46:
           s: 46
           from: "00:05:25,16"
           to: "00:05:32,26"
-          text: ~
+          text: "Qualcuno aveva dei fiammiferi, quindi li accendevamo per vedere si ci conoscessimo o meno."
         sequence-47:
           s: 47
           from: "00:05:32,26"
           to: "00:05:35,21"
-          text: ~
+          text: "C'erano circa 500 persone nell'unità \"Szary\"."
         sequence-48:
           s: 48
           from: "00:05:35,21"
           to: "00:05:41,22"
-          text: ~
+          text: "Era difficile che ci conoscessimo tutti."
         sequence-49:
           s: 49
           from: "00:05:41,22"
           to: "00:05:48,19"
-          text: ~
+          text: "Erano soprattutto i ragazzi dalla regione di Vilnius."
         sequence-50:
           s: 50
           from: "00:05:48,19"
           to: "00:05:59,12"
-          text: ~
+          text: "Perché erano di stanza a Kampinos, e il gruppo \"Dolina\", insieme ai ragazzi di Vilnius e Navahrudak, si era unito al gruppo di Kampinos."
         sequence-51:
           s: 51
           from: "00:05:59,12"
           to: "00:06:06,21"
-          text: ~
+          text: "Erano in molti e si erano uniti a noi. Per questo c'erano così tanti ragazzi dalla regione di Vilnius."
         sequence-52:
           s: 52
           from: "00:06:06,21"
           to: "00:06:13,21"
-          text: ~
+          text: "Gli chiesi in seguito dove avrebbero voluto andare dopo, cosa avrebbero voluto fare,"
         sequence-53:
           s: 53
           from: "00:06:13,21"
           to: "00:06:16,17"
-          text: ~
+          text: "e loro risposero: \"Torniamo a Vilnius\"."
         sequence-54:
           s: 54
           from: "00:06:16,17"
@@ -278,4 +278,4 @@ it:
           s: 55
           from: "00:06:19,28"
           to: "00:06:25,01"
-          text: ~
+          text: "Io li salutai e continuai la mia marcia."

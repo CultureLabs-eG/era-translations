@@ -2,13 +2,13 @@ it:
   lidia-valeriani:
     chapter-11:
       c: 11
-      title: ~
+      title: "La Liberazione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,20"
           to: "00:00:07,25"
-          text: ~
+          text: "A Modena il 25 aprile, noi eravamo già liberati perché ci siamo liberati il 23 o il 22."
         sequence-2:
           s: 2
           from: "00:00:07,25"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:08,26"
           to: "00:00:13,08"
-          text: ~
+          text: "E volevo dire una cosa, l’unica cosa che non sono riuscita a fare, che poi dopo c’era la Liberazione."
         sequence-4:
           s: 4
           from: "00:00:13,08"
@@ -28,22 +28,22 @@ it:
           s: 5
           from: "00:00:17,10"
           to: "00:00:27,01"
-          text: ~
+          text: "Noi siamo stati tutta la notte alzati per fare una cartina,"
         sequence-6:
           s: 6
           from: "00:00:27,01"
           to: "00:00:42,23"
-          text: ~
+          text: "dove veniva... dove dovevano partire i distaccamenti, i gruppi, i battaglioni della nostra circoscrizione, cioè dove c’erano tutti i nostri GAP;"
         sequence-7:
           s: 7
           from: "00:00:42,23"
           to: "00:00:48,07"
-          text: ~
+          text: "noi abbiamo fatto per i GAP, i SAP hanno fatto per i SAP,"
         sequence-8:
           s: 8
           from: "00:00:48,07"
           to: "00:00:59,06"
-          text: ~
+          text: "e ognuno ha preparato e dopo messi tutti d’accordo ecc. La montagna è venuta giù, anche lei aveva i suoi posti da liberare."
         sequence-9:
           s: 9
           from: "00:00:59,06"
@@ -53,12 +53,12 @@ it:
           s: 10
           from: "00:01:00,21"
           to: "00:01:06,04"
-          text: ~
+          text: "E siamo stati tutta la notte alzati per fare questo... questa cartina"
         sequence-11:
           s: 11
           from: "00:01:06,04"
           to: "00:01:16,22"
-          text: ~
+          text: "di avanzamento per buttare fuori da Modena i tedeschi e i fascisti, tutti quelli che c’erano insomma, gli armati che c’erano."
         sequence-12:
           s: 12
           from: "00:01:16,22"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:21,17"
           to: "00:01:24,11"
-          text: ~
+          text: "Io dovevo andare a Paganine"
         sequence-14:
           s: 14
           from: "00:01:24,11"
@@ -78,22 +78,22 @@ it:
           s: 15
           from: "00:01:25,17"
           to: "00:01:34,01"
-          text: ~
+          text: "a portare gli ordini, perché ci volevano delle staffette: uomini o donne, erano sempre delle staffette, che andavano a portare gli ordini..."
         sequence-16:
           s: 16
           from: "00:01:34,01"
           to: "00:01:43,28"
-          text: ~
+          text: "Perché non c’erano altri mezzi per potere... ci sarà stato qualcuno che aveva il telefono, ma noi non avevamo il telefono."
         sequence-17:
           s: 17
           from: "00:01:43,28"
           to: "00:01:51,12"
-          text: ~
+          text: "Allora sono partita, ho fatto... con i miei ordini"
         sequence-18:
           s: 18
           from: "00:01:51,12"
           to: "00:02:01,26"
-          text: ~
+          text: "che dovevo andare perché si sentivano già i cannoni a Bologna ad esempio, stavano già, li sentivano già,"
         sequence-19:
           s: 19
           from: "00:02:01,26"
@@ -103,22 +103,22 @@ it:
           s: 20
           from: "00:02:06,26"
           to: "00:02:18,17"
-          text: ~
+          text: "i rumori delle bombe che arrivavano e dei... perché c’erano poi anche quelli che bombardavano davanti noi..."
         sequence-21:
           s: 21
           from: "00:02:18,17"
           to: "00:02:22,12"
-          text: ~
+          text: "a Modena non hanno bombardato perché abbiamo detto..."
         sequence-22:
           s: 22
           from: "00:02:22,12"
           to: "00:02:29,06"
-          text: ~
+          text: "ma a Reggio hanno bombardato, a Cavriago dove c’erano i tedeschi dove c’erano dei comandi tedeschi."
         sequence-23:
           s: 23
           from: "00:02:29,06"
           to: "00:02:35,20"
-          text: ~
+          text: "E parto e vado giù da Via delle Morane per andare su a Paganine"
         sequence-24:
           s: 24
           from: "00:02:35,20"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:42,23"
           to: "00:02:46,19"
-          text: ~
+          text: "che era un paese verso... andiamo verso Bologna, verso la montagna insomma."
         sequence-26:
           s: 26
           from: "00:02:46,19"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:02:47,29"
           to: "00:02:54,09"
-          text: ~
+          text: "Quando arrivo, faccio 1 km e mi trovo già i tedeschi in ritirata."
         sequence-28:
           s: 28
           from: "00:02:54,09"
@@ -148,22 +148,22 @@ it:
           s: 29
           from: "00:02:55,23"
           to: "00:03:02,24"
-          text: ~
+          text: "Delle mucche, dei carri, dei cavalli, delle biciclette... avevano un po’ di tutto."
         sequence-30:
           s: 30
           from: "00:03:02,24"
           to: "00:03:08,18"
-          text: ~
+          text: "Qui non si passa. Mi fermano, e non si passa."
         sequence-31:
           s: 31
           from: "00:03:08,18"
           to: "00:03:17,10"
-          text: ~
+          text: "“Devo andare”, lì trovavamo sempre delle storie, un fratello malato qui o là insomma, oppure io abito là e devo andare."
         sequence-32:
           s: 32
           from: "00:03:17,10"
           to: "00:03:23,21"
-          text: ~
+          text: "“No, no, niente”. Mi volevano prendere la bicicletta e mi ha fatto tornare indietro."
         sequence-33:
           s: 33
           from: "00:03:23,21"
@@ -173,19 +173,19 @@ it:
           s: 34
           from: "00:03:24,13"
           to: "00:03:30,05"
-          text: ~
+          text: "Ho dovuto aspettare che arrivi l’ora di trovare quegli altri compagni,"
         sequence-35:
           s: 35
           from: "00:03:30,05"
           to: "00:03:36,25"
-          text: ~
+          text: "lì dove ci trovavamo poi tutti, quelli che erano andati a dare le disposizioni e tornavamo indietro lì,"
         sequence-36:
           s: 36
           from: "00:03:36,25"
           to: "00:03:42,26"
-          text: ~
+          text: "per aiutare poi a quelli che dovevano difendere la città e che arrivano."
         sequence-37:
           s: 37
           from: "00:03:42,26"
           to: "00:03:48,22"
-          text: ~
+          text: "Quella è stata l’unica azione che non sono riuscita a fare."

@@ -2,43 +2,43 @@ it:
   lipej-kolenik:
     chapter-5:
       c: 5
-      title: ~
+      title: "Adesione ai Partigiani"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,12"
           to: "00:00:03,09"
-          text: ~
+          text: "Dunque tornai a casa."
         sequence-2:
           s: 2
           from: "00:00:03,09"
           to: "00:00:07,26"
-          text: ~
+          text: "La prima sera c'erano già i Partigiani, quelli miei conoscenti."
         sequence-3:
           s: 3
           from: "00:00:07,26"
           to: "00:00:11,13"
-          text: ~
+          text: "Dopo 14 giorni la vacanza era finita."
         sequence-4:
           s: 4
           from: "00:00:11,13"
           to: "00:00:15,12"
-          text: ~
+          text: "'Bene, che cosa faremo madre?' Mia mamma piangeva di nuovo."
         sequence-5:
           s: 5
           from: "00:00:15,12"
           to: "00:00:19,08"
-          text: ~
+          text: "Mi spruzzava di acqua santa."
         sequence-6:
           s: 6
           from: "00:00:19,08"
           to: "00:00:30,07"
-          text: ~
+          text: "'Mamma, questo non aiuta! Io non tornerò da quelli che ci hanno condannato a morte.'"
         sequence-7:
           s: 7
           from: "00:00:30,07"
           to: "00:00:36,00"
-          text: ~
+          text: "Così sono andato e il comandante dei Partigiani ha detto:"
         sequence-8:
           s: 8
           from: "00:00:36,00"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:39,00"
           to: "00:00:41,18"
-          text: ~
+          text: "'Verremo a prenderti."
         sequence-10:
           s: 10
           from: "00:00:41,18"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:42,17"
           to: "00:00:54,25"
-          text: ~
+          text: "Porteremo un numero sufficiente di persone di modo che la tua famiglia non venga reinsediata o messa in prigione.'"
         sequence-12:
           s: 12
           from: "00:00:54,25"
@@ -68,57 +68,57 @@ it:
           s: 13
           from: "00:00:56,06"
           to: "00:00:57,26"
-          text: ~
+          text: "Venne la sera."
         sequence-14:
           s: 14
           from: "00:00:57,26"
           to: "00:01:05,22"
-          text: ~
+          text: "Nessun Partigiano ha chiamato, ma il comandante mi aveva detto che io sarei andato la sera."
         sequence-15:
           s: 15
           from: "00:01:05,22"
           to: "00:01:12,27"
-          text: ~
+          text: "Sono tornato a Bleiburg e ho preso tutta la mia attrezzatura militare."
         sequence-16:
           s: 16
           from: "00:01:12,27"
           to: "00:01:19,11"
-          text: ~
+          text: "Il giorno seguente incontrai il comandante dei partigiani e gli dissi:"
         sequence-17:
           s: 17
           from: "00:01:19,11"
           to: "00:01:21,04"
-          text: ~
+          text: "'Perché non siete venuti?'"
         sequence-18:
           s: 18
           from: "00:01:21,04"
           to: "00:01:22,10"
-          text: ~
+          text: "Mi rispose:"
         sequence-19:
           s: 19
           from: "00:01:22,10"
           to: "00:01:24,27"
-          text: ~
+          text: "'Sai da te stesso dove appartieni.'"
         sequence-20:
           s: 20
           from: "00:01:24,27"
           to: "00:01:29,07"
-          text: ~
+          text: "Facile da dirsi in quel momento."
         sequence-21:
           s: 21
           from: "00:01:29,07"
           to: "00:01:32,25"
-          text: ~
+          text: "Ma non era una cosa facile da fare."
         sequence-22:
           s: 22
           from: "00:01:32,25"
           to: "00:01:38,16"
-          text: ~
+          text: "Ma gli inglesi bombardarono Klagenfurt in quei giorni."
         sequence-23:
           s: 23
           from: "00:01:38,16"
           to: "00:01:51,29"
-          text: ~
+          text: "Quando la polizia è arrivata in seguito per chiedere se avessi fatto rapporto da qualche parte, mia madre disse:"
         sequence-24:
           s: 24
           from: "00:01:51,29"
@@ -128,27 +128,27 @@ it:
           s: 25
           from: "00:01:56,03"
           to: "00:02:00,07"
-          text: ~
+          text: "'Forse è stato ucciso nel raid aereo.'"
         sequence-26:
           s: 26
           from: "00:02:00,07"
           to: "00:02:09,09"
-          text: ~
+          text: "Mia madre era intelligente. C'era una collaboratore illegale dei Partigiani a Bleiburg."
         sequence-27:
           s: 27
           from: "00:02:09,09"
           to: "00:02:21,28"
-          text: ~
+          text: "Dopo 2 o 3 settimane, mia madre ha dato a uno di loro un pacco per portarlo a una donna."
         sequence-28:
           s: 28
           from: "00:02:21,28"
           to: "00:02:31,17"
-          text: ~
+          text: "Dopo questa donna ha portato il pacco alla posta con il mio indirizzo militare sopra,"
         sequence-29:
           s: 29
           from: "00:02:31,17"
           to: "00:02:35,24"
-          text: ~
+          text: "quello a cui avrei dovuto far rapporto dopo la mia vacanza."
         sequence-30:
           s: 30
           from: "00:02:35,24"
@@ -158,9 +158,9 @@ it:
           s: 31
           from: "00:02:36,25"
           to: "00:02:38,11"
-          text: ~
+          text: "Il pacco è tornato indietro..."
         sequence-32:
           s: 32
           from: "00:02:38,11"
           to: "00:02:42,11"
-          text: ~
+          text: "I pacchi continuavano a fare avanti e indietro."

@@ -2,18 +2,18 @@ it:
   ana-zablatnik:
     chapter-3:
       c: 3
-      title: ~
+      title: "La vita nella paura"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:04,28"
           to: "00:00:07,12"
-          text: ~
+          text: "Erano molto spaventati - ovviamente."
         sequence-2:
           s: 2
           from: "00:00:07,12"
           to: "00:00:11,23"
-          text: ~
+          text: "Hanno sentito quando uno è stato catturato e un altro..."
         sequence-3:
           s: 3
           from: "00:00:11,23"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:13,27"
           to: "00:00:16,22"
-          text: ~
+          text: "Abbiamo sempre pensato: 'speriamo che non succeda a noi'."
         sequence-5:
           s: 5
           from: "00:00:16,22"
           to: "00:00:20,10"
-          text: ~
+          text: "Tutti vivevano con la paura a quel tempo;"
         sequence-6:
           s: 6
           from: "00:00:20,10"
@@ -38,32 +38,32 @@ it:
           s: 7
           from: "00:00:22,08"
           to: "00:00:25,17"
-          text: ~
+          text: "anche a casa. Non sapevamo cosa sarebbe successo."
         sequence-8:
           s: 8
           from: "00:00:25,17"
           to: "00:00:31,26"
-          text: ~
+          text: "Nella nostra famiglia: mio fratello cadde nel 1942 in Russia,"
         sequence-9:
           s: 9
           from: "00:00:31,26"
           to: "00:00:36,27"
-          text: ~
+          text: "nel 1943 arruolarono il secondo fratello, nel 1944 fui arrestata,"
         sequence-10:
           s: 10
           from: "00:00:36,27"
           to: "00:00:41,28"
-          text: ~
+          text: "e nel gennaio 1945 l'altro mio fratello fu arruolato."
         sequence-11:
           s: 11
           from: "00:00:41,28"
           to: "00:00:46,11"
-          text: ~
+          text: "Nessuno sapeva come andava a finire."
         sequence-12:
           s: 12
           from: "00:00:46,11"
           to: "00:00:49,20"
-          text: ~
+          text: "Fu orribile per le famiglie."
         sequence-13:
           s: 13
           from: "00:00:49,20"
@@ -73,9 +73,9 @@ it:
           s: 14
           from: "00:00:52,07"
           to: "00:00:59,09"
-          text: ~
+          text: "Dovevi passarci attraverso, e credere ancora in un bel finale."
         sequence-15:
           s: 15
           from: "00:00:59,09"
           to: "00:01:00,26"
-          text: ~
+          text: "Faceva parte di ciò."

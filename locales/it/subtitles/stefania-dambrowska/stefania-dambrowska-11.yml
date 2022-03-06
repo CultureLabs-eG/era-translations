@@ -2,33 +2,33 @@ it:
   stefania-dambrowska:
     chapter-11:
       c: 11
-      title: ~
+      title: "La fuga di Helena Snarska dal treno verso Treblinka"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:04,15"
-          text: ~
+          text: "Aggiungo che, come dicevo prima, a Vilnius c'erano due preti:"
         sequence-2:
           s: 2
           from: "00:00:04,15"
           to: "00:00:09,20"
-          text: ~
+          text: "don Chlebowicz, che aveva rilasciato a Maryśka il certificato di nascita,"
         sequence-3:
           s: 3
           from: "00:00:09,20"
           to: "00:00:16,17"
-          text: ~
+          text: "e don Kretowicz, fratello del vecchietto Onufry Kretowicz che stava a Górny Orwidów"
         sequence-4:
           s: 4
           from: "00:00:16,17"
           to: "00:00:19,12"
-          text: ~
+          text: "e che a sua volta rilasciava dei certificati falsi."
         sequence-5:
           s: 5
           from: "00:00:19,12"
           to: "00:00:26,02"
-          text: ~
+          text: "A Górny Orwidów c'era anche una signora che era scappata dal treno per Treblinka"
         sequence-6:
           s: 6
           from: "00:00:26,02"
@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:26,24"
           to: "00:00:35,12"
-          text: ~
+          text: "e che don Kretowicz aveva mandato dalla sua cognata per dare una mano nella fattoria."
         sequence-8:
           s: 8
           from: "00:00:35,12"
@@ -48,17 +48,17 @@ it:
           s: 9
           from: "00:00:38,14"
           to: "00:00:43,16"
-          text: ~
+          text: "Si chiamava Helena Strumińska,"
         sequence-10:
           s: 10
           from: "00:00:43,16"
           to: "00:00:51,25"
-          text: ~
+          text: "spero di non avere sbagliato il cognome. Sentivo che c'era qualcosa di strano."
         sequence-11:
           s: 11
           from: "00:00:51,25"
           to: "00:00:58,04"
-          text: ~
+          text: "La sig.ra Helena era un chirurgo, era figlia di un medico di Vilnius, ebrea."
         sequence-12:
           s: 12
           from: "00:00:58,04"
@@ -68,42 +68,42 @@ it:
           s: 13
           from: "00:00:58,16"
           to: "00:01:01,10"
-          text: ~
+          text: "Cosa successe? Dunque, la sua storia era questa:"
         sequence-14:
           s: 14
           from: "00:01:01,10"
           to: "00:01:07,02"
-          text: ~
+          text: "era scappata da Varsavia insieme al marito, un medico anche lui."
         sequence-15:
           s: 15
           from: "00:01:07,02"
           to: "00:01:10,03"
-          text: ~
+          text: "Vivevano a Vilnius, dai parenti di lei."
         sequence-16:
           s: 16
           from: "00:01:10,03"
           to: "00:01:24,03"
-          text: ~
+          text: "All'inizio non c'era il ghetto, poi, quando venne creato il ghetto, i tedeschi vi portarono suo marito, Abraham Wajnryb, chiamato comunemente Stanisław,"
         sequence-17:
           s: 17
           from: "00:01:24,03"
           to: "00:01:36,23"
-          text: ~
+          text: "e suo padre, medico, di cui non ricordo il cognome."
         sequence-18:
           s: 18
           from: "00:01:36,23"
           to: "00:01:42,28"
-          text: ~
+          text: "Staś e il padre di Helena furono portati in Estonia a lavorare nelle cave di pietra."
         sequence-19:
           s: 19
           from: "00:01:42,28"
           to: "00:01:53,07"
-          text: ~
+          text: "Lì si trovavano gli scisti bituminosi e si trattava di un duro lavoro. Molta gente venne deportata lì per cercare questi scisti bituminosi."
         sequence-20:
           s: 20
           from: "00:01:53,07"
           to: "00:01:58,06"
-          text: ~
+          text: "Helena era rimasta a casa con sua madre, che era malata di cancro."
         sequence-21:
           s: 21
           from: "00:01:58,06"
@@ -113,52 +113,52 @@ it:
           s: 22
           from: "00:01:59,07"
           to: "00:02:04,11"
-          text: ~
+          text: "Quando i tedeschi stavano per raggiungere la loro abitazione,"
         sequence-23:
           s: 23
           from: "00:02:04,11"
           to: "00:02:07,11"
-          text: ~
+          text: "Helena fece a sua madre un'iniezione per anestetizzarla,"
         sequence-24:
           s: 24
           from: "00:02:07,11"
           to: "00:02:15,12"
-          text: ~
+          text: "perché sapeva che i tedeschi l'averebbero pichiata e uccisa nel letto,"
         sequence-25:
           s: 25
           from: "00:02:15,12"
           to: "00:02:19,05"
-          text: ~
+          text: "perché questi erano i loro metodi."
         sequence-26:
           s: 26
           from: "00:02:19,05"
           to: "00:02:22,15"
-          text: ~
+          text: "Helena invece fu caricata sul treno."
         sequence-27:
           s: 27
           from: "00:02:22,15"
           to: "00:02:28,09"
-          text: ~
+          text: "Era riuscita a strappare un'asse del pavimento,"
         sequence-28:
           s: 28
           from: "00:02:28,09"
           to: "00:02:33,12"
-          text: ~
+          text: "ad abbassarsi arrivando sui binari e a non farsi sparare,"
         sequence-29:
           s: 29
           from: "00:02:33,12"
           to: "00:02:42,20"
-          text: ~
+          text: "dato che alla fine del treno, in una casetta un po' più in alto, posta sull'ultima carrozza, c'era sempre un tedesco che doveva sparare in caso di fuga."
         sequence-30:
           s: 30
           from: "00:02:42,20"
           to: "00:02:45,17"
-          text: ~
+          text: "Helena c'era riuscita, era rotolata dal terrapieno,"
         sequence-31:
           s: 31
           from: "00:02:45,17"
           to: "00:02:52,27"
-          text: ~
+          text: "aveva attraversato un campo di patate, aveva raggiunto Vilnius e don Kretowicz le aveva fornito i documenti."
         sequence-32:
           s: 32
           from: "00:02:52,27"
@@ -168,7 +168,7 @@ it:
           s: 33
           from: "00:02:53,22"
           to: "00:02:59,07"
-          text: ~
+          text: "Tutti sapevano che faceva la domestica dai Kretowicz a Górny Orwidów."
         sequence-34:
           s: 34
           from: "00:02:59,07"
@@ -178,4 +178,4 @@ it:
           s: 35
           from: "00:03:00,22"
           to: "00:03:06,29"
-          text: ~
+          text: "Poi, quando arrivò lì la famiglia Konarzewski, Helena venne a stare da me."

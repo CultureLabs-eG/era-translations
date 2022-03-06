@@ -2,13 +2,13 @@ it:
   giacomina-castagnetti:
     chapter-10:
       c: 10
-      title: ~
+      title: "Giorni della Liberazione"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,23"
           to: "00:00:06,13"
-          text: ~
+          text: "Il 23 cominciammo ad avere sulla testa una nebbia fittissima"
         sequence-2:
           s: 2
           from: "00:00:06,13"
@@ -18,37 +18,37 @@ it:
           s: 3
           from: "00:00:09,24"
           to: "00:00:19,14"
-          text: ~
+          text: "e c’era tutto silenzio, tutto ovattato, poi cominciò ad arrivare i carri tedeschi in ritirata."
         sequence-4:
           s: 4
           from: "00:00:19,14"
           to: "00:00:33,15"
-          text: ~
+          text: "Ragazze, un esercito in rotta è la cosa più brutta, più… come si dice… più angosciosa che uno possa…"
         sequence-5:
           s: 5
           from: "00:00:33,15"
           to: "00:00:40,23"
-          text: ~
+          text: "c’era la fila dei carri che avevano requisito in Jugoslavia, dei carri a quattro ruote"
         sequence-6:
           s: 6
           from: "00:00:40,23"
           to: "00:00:50,24"
-          text: ~
+          text: "pieni di feriti… eh… delle cose che non si potevano guardare."
         sequence-7:
           s: 7
           from: "00:00:50,24"
           to: "00:00:55,21"
-          text: ~
+          text: "E che tutta questa, questi tedeschi andavano sul Po,"
         sequence-8:
           s: 8
           from: "00:00:55,21"
           to: "00:01:07,14"
-          text: ~
+          text: "però c’era qualche gruppo di giovani partigiani che erano in pianura, i SAP, che tentavano di disarmare i tedeschi,"
         sequence-9:
           s: 9
           from: "00:01:07,14"
           to: "00:01:15,16"
-          text: ~
+          text: "perché li vedevano così in rotta così… invece i tedeschi non ci hanno mollato fino all’ultimo momento."
         sequence-10:
           s: 10
           from: "00:01:15,16"
@@ -58,12 +58,12 @@ it:
           s: 11
           from: "00:01:16,11"
           to: "00:01:21,17"
-          text: ~
+          text: "Noi avevamo l’ordine di stare il più tranquilli possibile,"
         sequence-12:
           s: 12
           from: "00:01:21,17"
           to: "00:01:27,02"
-          text: ~
+          text: "perché non si sapeva bene come era la situazione."
         sequence-13:
           s: 13
           from: "00:01:27,02"
@@ -73,62 +73,62 @@ it:
           s: 14
           from: "00:01:31,11"
           to: "00:01:38,16"
-          text: ~
+          text: "Io ero in casa e sentivo un cavallo arrivare a tutta velocità, al galoppo proprio."
         sequence-15:
           s: 15
           from: "00:01:38,16"
           to: "00:01:53,01"
-          text: ~
+          text: "Aveva i tiranti lasciati andare perché si vede che l’aveva staccato da un carro e non si era dato la briga di togliere i fili."
         sequence-16:
           s: 16
           from: "00:01:53,01"
           to: "00:02:01,16"
-          text: ~
+          text: "Io sono corsa fuori ed era un tedesco, un giovane tedesco ma giovanissimo,"
         sequence-17:
           s: 17
           from: "00:02:01,16"
           to: "00:02:07,14"
-          text: ~
+          text: "perché sapete che Hitler aveva reclutato anche i giovanissimi di 16-15 anni."
         sequence-18:
           s: 18
           from: "00:02:07,14"
           to: "00:02:14,01"
-          text: ~
+          text: "Questo giovane mi ha visto, ha cominciato ad urlare: “Gli americani! Gli americani!”,"
         sequence-19:
           s: 19
           from: "00:02:14,01"
           to: "00:02:21,06"
-          text: ~
+          text: "cioè voleva che mi mettessi al riparo perché lui non sapeva che io ero una partigiana,"
         sequence-20:
           s: 20
           from: "00:02:21,06"
           to: "00:02:30,23"
-          text: ~
+          text: "però in quel momento eravamo solo due giovani, che avevamo voglia, tutti e due, che la guerra finisse."
         sequence-21:
           s: 21
           from: "00:02:30,23"
           to: "00:02:39,29"
-          text: ~
+          text: "Lui era sulla strada per provare ad arrivare a casa e io ero lì che aspettavo proprio che si liberasse il paese."
         sequence-22:
           s: 22
           from: "00:02:39,29"
           to: "00:02:48,18"
-          text: ~
+          text: "Quindi io in quel momento non mi sono sentita né di odiare i tedeschi, né di odiare quel giovane"
         sequence-23:
           s: 23
           from: "00:02:48,18"
           to: "00:02:58,17"
-          text: ~
+          text: "che forse prima mi avrebbe fatto del male, perché in quel momento avevo solo voglia che la guerra finisse e che le cose cambiassero."
         sequence-24:
           s: 24
           from: "00:02:58,17"
           to: "00:03:12,13"
-          text: ~
+          text: "Io il 24 l’ho vissuto così. Il 25 invece che poi è esploso, è esploso tutta la gioia che uno poteva aver dentro."
         sequence-25:
           s: 25
           from: "00:03:12,13"
           to: "00:03:26,16"
-          text: ~
+          text: "Perché io la guerra l’ho incominciata nel ’35, con la guerra d’Africa, che avevo 10 anni e il 25 aprile del ’45 avevo 20 anni."
         sequence-26:
           s: 26
           from: "00:03:26,16"
@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:03:30,01"
           to: "00:03:34,17"
-          text: ~
+          text: "La prima cosa che ho fatto sono andata a spalancare le finestre"
         sequence-28:
           s: 28
           from: "00:03:34,17"
           to: "00:03:51,10"
-          text: ~
+          text: "erano cinque anni che avevamo le finestre tappezzate con la carta blu da zucchero che allora si usava a impacchettare lo zucchero, perché non filtrasse nessuna luce dalle nostre case."
         sequence-29:
           s: 29
           from: "00:03:51,10"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:03:52,06"
           to: "00:04:02,20"
-          text: ~
+          text: "Poi abbiamo rimediato una bandiera e siamo partite in colonna per andare a Reggio, per manifestare la nostra gioia."
         sequence-31:
           s: 31
           from: "00:04:02,20"
@@ -163,39 +163,39 @@ it:
           s: 32
           from: "00:04:03,08"
           to: "00:04:14,15"
-          text: ~
+          text: "Lungo la Via Emilia, dalle due parti c’erano tutte già… i soldati americani di occupazione."
         sequence-33:
           s: 33
           from: "00:04:14,15"
           to: "00:04:26,28"
-          text: ~
+          text: "La mia grande sorpresa perché cominciai a vedere della gente di colore, neri indiani con il turbante"
         sequence-34:
           s: 34
           from: "00:04:26,28"
           to: "00:04:31,23"
-          text: ~
+          text: "tutte le truppe che erano dietro all’esercito americano, perché avanti erano venuti i carrarmati"
         sequence-35:
           s: 35
           from: "00:04:31,23"
           to: "00:04:38,09"
-          text: ~
+          text: "poi le truppe si erano tutte accostate sulla Via Emilia da Rubiera fino a Reggio."
         sequence-36:
           s: 36
           from: "00:04:38,09"
           to: "00:04:46,21"
-          text: ~
+          text: "Quando però arrivammo i partigiani erano già venuti giù dalla montagna."
         sequence-37:
           s: 37
           from: "00:04:46,21"
           to: "00:04:56,19"
-          text: ~
+          text: "Quando arrivammo lì all’Ospizio ci fermarono, fermarono il corteo dei partigiani perché dentro città c’era ancora molto rischio,"
         sequence-38:
           s: 38
           from: "00:04:56,19"
           to: "00:05:03,07"
-          text: ~
+          text: "c’erano i cecchini che dai solai sparavano. Infatti in quei giorni lì ci furono molti morti."
         sequence-39:
           s: 39
           from: "00:05:03,07"
           to: "00:05:14,11"
-          text: ~
+          text: "E noi disciplinatamente tornammo indietro e andammo a casa. Poi dopo non le contiamo le manifestazioni che si sono fatte."

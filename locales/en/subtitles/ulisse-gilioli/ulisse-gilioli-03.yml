@@ -1,0 +1,236 @@
+en:
+  ulisse-gilioli:
+    chapter-3:
+      c: 3
+      title: "The newspaper"
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:00,00"
+          to: "00:00:04,22"
+          text: "In the meantime I had composed a poem"
+        sequence-2:
+          s: 2
+          from: "00:00:04,23"
+          to: "00:00:08,22"
+          text: "about the partisan courier."
+        sequence-3:
+          s: 3
+          from: "00:00:08,23"
+          to: "00:00:14,14"
+          text: "Shall I recite it for you?"
+        sequence-4:
+          s: 4
+          from: "00:00:14,15"
+          to: "00:00:22,17"
+          text: "It's called \"Garibaldina\"."
+        sequence-5:
+          s: 5
+          from: "00:00:24,14"
+          to: "00:00:27,23"
+          text: "O hero walking with courage,"
+        sequence-6:
+          s: 6
+          from: "00:00:27,24"
+          to: "00:00:33,19"
+          text: "along the steep roads and horrible paths"
+        sequence-7:
+          s: 7
+          from: "00:00:33,20"
+          to: "00:00:38,00"
+          text: "you have something in your proud looks,"
+        sequence-8:
+          s: 8
+          from: "00:00:38,01"
+          to: "00:00:42,18"
+          text: "that recalls the mother, the bride, the sister."
+        sequence-9:
+          s: 9
+          from: "00:00:42,19"
+          to: "00:00:46,00"
+          text: "Simple are your hair and your skirt,"
+        sequence-10:
+          s: 10
+          from: "00:00:46,01"
+          to: "00:00:50,01"
+          text: "your thoughts are on struggle and uneasiness"
+        sequence-11:
+          s: 11
+          from: "00:00:50,02"
+          to: "00:00:53,21"
+          text: "you don't rest on candid pillows,"
+        sequence-12:
+          s: 12
+          from: "00:00:53,22"
+          to: "00:00:59,21"
+          text: "your pain is eased by laying on hay."
+        sequence-13:
+          s: 13
+          from: "00:00:59,22"
+          to: "00:01:04,00"
+          text: "Don't ever get tired, Anita,"
+        sequence-14:
+          s: 14
+          from: "00:01:04,01"
+          to: "00:01:07,23"
+          text: "if you live this exasperating life,"
+        sequence-15:
+          s: 15
+          from: "00:01:07,24"
+          to: "00:01:10,18"
+          text: "for the triumph of the ideal of freedom"
+        sequence-16:
+          s: 16
+          from: "00:01:10,19"
+          to: "00:01:14,15"
+          text: "that indicates the sacred battle to everyone"
+        sequence-17:
+          s: 17
+          from: "00:01:14,16"
+          to: "00:01:17,21"
+          text: "the way to a just and shiny future"
+        sequence-18:
+          s: 18
+          from: "00:01:17,22"
+          to: "00:01:21,04"
+          text: "the way to universal peace."
+        sequence-19:
+          s: 19
+          from: "00:01:25,15"
+          to: "00:01:32,17"
+          text: "I brought it to the journal some time before Christmas"
+        sequence-20:
+          s: 20
+          from: "00:01:32,18"
+          to: "00:01:37,15"
+          text: "and there I met the solicitor Lando Landini"
+        sequence-21:
+          s: 21
+          from: "00:01:37,16"
+          to: "00:01:41,02"
+          text: "who was studying medicine"
+        sequence-22:
+          s: 22
+          from: "00:01:41,03"
+          to: "00:01:48,01"
+          text: "and he told me: \"Look, this verse here has no flow ...\""
+        sequence-23:
+          s: 23
+          from: "00:01:48,02"
+          to: "00:01:56,08"
+          text: "and I replied: \"No, either you publish it like this of not at all.\""
+        sequence-24:
+          s: 24
+          from: "00:01:56,09"
+          to: "00:02:07,02"
+          text: "And I went away. After 20-30 meters he called me back and said:"
+        sequence-25:
+          s: 25
+          from: "00:02:07,03"
+          to: "00:02:12,07"
+          text: "\"Go away, I'll take care of it, we'll publish it."
+        sequence-26:
+          s: 26
+          from: "00:02:12,08"
+          to: "00:02:18,14"
+          text: "Now, could you come over here to work for the journal?\""
+        sequence-27:
+          s: 27
+          from: "00:02:18,15"
+          to: "00:02:25,04"
+          text: "They were issuing two newspapers, the \"Garibaldino\" and the \"Partigiano\","
+        sequence-28:
+          s: 28
+          from: "00:02:25,05"
+          to: "00:02:30,18"
+          text: "the former for the Garibaldi-brigades, the latter for the Green Flames."
+        sequence-29:
+          s: 29
+          from: "00:02:30,19"
+          to: "00:02:37,18"
+          text: "I accepted, they called me then special reporter"
+        sequence-30:
+          s: 30
+          from: "00:02:37,19"
+          to: "00:02:49,10"
+          text: "and was sent to the units to describe the partisan life."
+        sequence-31:
+          s: 31
+          from: "00:02:49,11"
+          to: "00:03:00,10"
+          text: "I liked it, I noticed I got better every day, I told myself how good I was ..."
+        sequence-32:
+          s: 32
+          from: "00:03:00,11"
+          to: "00:03:07,02"
+          text: "To make it short we went to Reggio Emilia and opened another journal,"
+        sequence-33:
+          s: 33
+          from: "00:03:07,03"
+          to: "00:03:17,00"
+          text: "the \"Volunteer of Freedom\", and I became the chief editor."
+        sequence-34:
+          s: 34
+          from: "00:03:17,01"
+          to: "00:03:22,16"
+          text: "The director was \"Eros\" Didimo Ferrari."
+        sequence-35:
+          s: 35
+          from: "00:03:22,17"
+          to: "00:03:27,04"
+          text: "We were issuing the newspaper because a guy called Cipro,"
+        sequence-36:
+          s: 36
+          from: "00:03:27,05"
+          to: "00:03:33,00"
+          text: "the future commander of the Battalion of the Single Command,"
+        sequence-37:
+          s: 37
+          from: "00:03:33,01"
+          to: "00:03:39,02"
+          text: "and me vice commander,"
+        sequence-38:
+          s: 38
+          from: "00:03:39,03"
+          to: "00:03:44,21"
+          text: "he was somehow able to manage it, I don't know how."
+        sequence-39:
+          s: 39
+          from: "00:03:44,22"
+          to: "00:03:52,10"
+          text: "Anyway, whenever he'd find them (paper) he'd bring them to the command post, to the journal."
+        sequence-40:
+          s: 40
+          from: "00:03:52,11"
+          to: "00:04:09,04"
+          text: "Then we went to provide the paper, the ink and the printer."
+        sequence-41:
+          s: 41
+          from: "00:04:09,05"
+          to: "00:04:18,22"
+          text: "We printed almost 1000 by hand."
+        sequence-42:
+          s: 42
+          from: "00:04:18,23"
+          to: "00:04:27,12"
+          text: "I slept in the night doing this, turning the handle."
+        sequence-43:
+          s: 43
+          from: "00:04:27,13"
+          to: "00:04:35,03"
+          text: "We had a lot of readers because there were some really nice stories told in it."
+        sequence-44:
+          s: 44
+          from: "00:04:35,04"
+          to: "00:04:42,20"
+          text: "Yesterday I met a partisan, a vice-commander, and he told me:"
+        sequence-45:
+          s: 45
+          from: "00:04:42,21"
+          to: "00:04:46,24"
+          text: "\"You wrote some really nice stuff\"."
+        sequence-46:
+          s: 46
+          from: "00:04:47,00"
+          to: "00:04:52,09"
+          text: "Well, we tried to keep the morale up, for example."

@@ -2,7 +2,7 @@ en:
   stefania-dambrowska:
     chapter-5:
       c: 5
-      title: "Hiding a Jewish couple: Hannah & Arnold Minkowscy"
+      title: "Hiding a Jewish couple: Hannah & Arnold Minkowski"
       subtitles:
         sequence-1:
           s: 1
@@ -33,7 +33,7 @@ en:
           s: 6
           from: "00:00:33,00"
           to: "00:00:39,10"
-          text: "She was a daughter of the best Jewish dentist,"
+          text: "She was a daughter of the best dentist of Vilnius, who was a Jew."
         sequence-7:
           s: 7
           from: "00:00:39,10"
@@ -43,7 +43,7 @@ en:
           s: 8
           from: "00:00:44,11"
           to: "00:00:53,26"
-          text: "who escaped from Germany, came to Vilnius, met Hana and married her."
+          text: "who escaped from the Germans, came to Vilnius, met Hana and married her."
         sequence-9:
           s: 9
           from: "00:00:53,26"

@@ -2,23 +2,23 @@ it:
   lipej-kolenik:
     chapter-3:
       c: 3
-      title: ~
+      title: "Chi supportava i Partigiani?"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,05"
           to: "00:00:06,16"
-          text: ~
+          text: "Ebbene, c'erano solo pochi che non appoggiavano i Partigiani."
         sequence-2:
           s: 2
           from: "00:00:06,16"
           to: "00:00:10,00"
-          text: ~
+          text: "In città ce n'erano di più."
         sequence-3:
           s: 3
           from: "00:00:10,00"
           to: "00:00:16,24"
-          text: ~
+          text: "Bleiburg è una città conosciuta e la Carinzia era una roccaforte nazista,"
         sequence-4:
           s: 4
           from: "00:00:16,24"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:19,15"
           to: "00:00:23,12"
-          text: ~
+          text: "ma la gente fuori aveva altre opinioni."
         sequence-6:
           s: 6
           from: "00:00:23,12"
@@ -38,14 +38,14 @@ it:
           s: 7
           from: "00:00:25,22"
           to: "00:00:36,12"
-          text: ~
+          text: "Erano solo pochi e non ci hanno denunciato alla polizia -"
         sequence-8:
           s: 8
           from: "00:00:36,12"
           to: "00:00:41,02"
-          text: ~
+          text: "ha taciuto e non ha mantenuto contatti con noi."
         sequence-9:
           s: 9
           from: "00:00:41,02"
           to: "00:00:44,07"
-          text: ~
+          text: "Ma solo il 10% all'incirca non era con noi."

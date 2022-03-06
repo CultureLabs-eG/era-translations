@@ -2,48 +2,48 @@ it:
   ivo-srcnik:
     chapter-4:
       c: 4
-      title: ~
+      title: "Come prigioniero di guerra in Unione Sovietica"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,04"
           to: "00:00:11,16"
-          text: ~
+          text: "Forse sono state una o due o tre settimane, non saprei dire perché non abbiamo seguito i giorni col calendario."
         sequence-2:
           s: 2
           from: "00:00:11,16"
           to: "00:00:17,04"
-          text: ~
+          text: "All'epoca non conoscevano nemmeno i calendari in Russia."
         sequence-3:
           s: 3
           from: "00:00:17,04"
           to: "00:00:28,17"
-          text: ~
+          text: "Sono stato fatto prigioniero mentre andavo col mio cavallo, pieno di cibo, sulla prima linea del fronte tedesco."
         sequence-4:
           s: 4
           from: "00:00:28,17"
           to: "00:00:52,25"
-          text: ~
+          text: "Giuro che era uno stallone russo, quando quello stallone ha sentito la lingua russa, io non l'ho nemmeno sentita, ha iniziato a nitrire."
         sequence-5:
           s: 5
           from: "00:00:52,25"
           to: "00:01:06,19"
-          text: ~
+          text: "Immagino di non essere stato attento; sono stato colto di sorpresa."
         sequence-6:
           s: 6
           from: "00:01:06,19"
           to: "00:01:17,20"
-          text: ~
+          text: "Feci ancora qualche centinaio di metri e poi cinque o sei persone, anche ragazze, mi circondarono."
         sequence-7:
           s: 7
           from: "00:01:17,20"
           to: "00:01:27,20"
-          text: ~
+          text: "Dissero che ero stato mobilitato nell'esercito tedesco. Lo dissi anch'io stesso."
         sequence-8:
           s: 8
           from: "00:01:27,20"
           to: "00:01:34,10"
-          text: ~
+          text: "Ma mi chiedevo come facessero questi sconosciuti a saperlo."
         sequence-9:
           s: 9
           from: "00:01:34,10"
@@ -53,27 +53,27 @@ it:
           s: 10
           from: "00:01:35,20"
           to: "00:01:45,03"
-          text: ~
+          text: "Uno dei soldati mi ha detto, in realtà era un civile, di mostrare la mia bombaska."
         sequence-11:
           s: 11
           from: "00:01:45,03"
           to: "00:01:54,02"
-          text: ~
+          text: "Come lo si può sapere? ...gente estranea, sconosciuti..."
         sequence-12:
           s: 12
           from: "00:01:54,02"
           to: "00:02:03,10"
-          text: ~
+          text: "Così l'ho tirato fuori dalla tasca della mia uniforme tedesca, più su sul lato sinistro avevamo una tasca,"
         sequence-13:
           s: 13
           from: "00:02:03,10"
           to: "00:02:08,29"
-          text: ~
+          text: "e ho tirato fuori il foglio e l'ho consegnato."
         sequence-14:
           s: 14
           from: "00:02:08,29"
           to: "00:02:16,28"
-          text: ~
+          text: "Il leader ha detto votja, charasho, che significa grazie per avergli dato il foglio."
         sequence-15:
           s: 15
           from: "00:02:16,28"
@@ -83,37 +83,37 @@ it:
           s: 16
           from: "00:02:18,15"
           to: "00:02:25,13"
-          text: ~
+          text: "Mi hanno preso il cavallo, quando ero circondato;"
         sequence-17:
           s: 17
           from: "00:02:25,13"
           to: "00:02:35,12"
-          text: ~
+          text: "e mi hanno fatto assaggiare del cibo, per vedere se fosse veramente commestibile."
         sequence-18:
           s: 18
           from: "00:02:35,12"
           to: "00:02:41,14"
-          text: ~
+          text: "Non so se dopo mangiarono quel cibo o no."
         sequence-19:
           s: 19
           from: "00:02:41,14"
           to: "00:02:47,11"
-          text: ~
+          text: "Mi hanno inseguito a tre o quattro chilometri di distanza."
         sequence-20:
           s: 20
           from: "00:02:47,11"
           to: "00:02:55,14"
-          text: ~
+          text: "Ma anche prima che venissi fatto prigioniero, l'orologio mi fu tolto dalla mano."
         sequence-21:
           s: 21
           from: "00:02:55,14"
           to: "00:02:59,19"
-          text: ~
+          text: "Ricordo di aver pensato come non facesse alcuna differenza."
         sequence-22:
           s: 22
           from: "00:02:59,19"
           to: "00:03:12,20"
-          text: ~
+          text: "Quando mi hanno preso, mi hanno portato in un villaggio chiamato Balakleja e mi chiusero in un pollaio."
         sequence-23:
           s: 23
           from: "00:03:12,20"
@@ -123,12 +123,12 @@ it:
           s: 24
           from: "00:03:13,22"
           to: "00:03:18,09"
-          text: ~
+          text: "Forse erano due metri per due, o uno per uno."
         sequence-25:
           s: 25
           from: "00:03:18,09"
           to: "00:03:26,02"
-          text: ~
+          text: "So solo che sono stato rinchiuso per un'eternità o almeno così sembrava."
         sequence-26:
           s: 26
           from: "00:03:26,02"
@@ -138,12 +138,12 @@ it:
           s: 27
           from: "00:03:27,13"
           to: "00:03:40,04"
-          text: ~
+          text: "Non so se fosse pomeriggio o il giorno dopo, ma due soldati sono entrati e mi hanno chiesto se fossi tedesco o no."
         sequence-28:
           s: 28
           from: "00:03:40,04"
           to: "00:03:44,04"
-          text: ~
+          text: "No, non lo sono, sono jugoslavo."
         sequence-29:
           s: 29
           from: "00:03:44,04"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:03:45,09"
           to: "00:03:50,26"
-          text: ~
+          text: "Non sapevano di alcun jugoslavo."
         sequence-31:
           s: 31
           from: "00:03:50,26"
@@ -163,32 +163,32 @@ it:
           s: 32
           from: "00:03:52,07"
           to: "00:04:04,02"
-          text: ~
+          text: "Mi hanno legato con un cavo e mi hanno portato in qualche Quartier generale."
         sequence-33:
           s: 33
           from: "00:04:04,02"
           to: "00:04:13,20"
-          text: ~
+          text: "C'era un enorme tavolo, in una stanza molto grande e gli ufficiali erano seduti lì."
         sequence-34:
           s: 34
           from: "00:04:13,20"
           to: "00:04:21,13"
-          text: ~
+          text: "Non so che tipo di ufficiali fossero. Mi hanno chiesto di tutto."
         sequence-35:
           s: 35
           from: "00:04:21,13"
           to: "00:04:35,03"
-          text: ~
+          text: "Forse ci stavo pensando nel pollaio, mi è stato chiesto il mio cognome."
         sequence-36:
           s: 36
           from: "00:04:35,03"
           to: "00:04:40,04"
-          text: ~
+          text: "Dissi Ivan Ivanovic Srcnikov."
         sequence-37:
           s: 37
           from: "00:04:40,04"
           to: "00:04:47,04"
-          text: ~
+          text: "Quella poteva essere la mia morte, anche se non lo sapevo."
         sequence-38:
           s: 38
           from: "00:04:47,04"
@@ -198,42 +198,42 @@ it:
           s: 39
           from: "00:04:48,03"
           to: "00:04:56,20"
-          text: ~
+          text: "E poi uno degli ufficiali, mi dice in russo qual'è il mio cognome?!"
         sequence-40:
           s: 40
           from: "00:04:56,20"
           to: "00:05:05,10"
-          text: ~
+          text: "Risposi Ivan Ivanovic Srcnikov. Disse che non sono jugoslavo, ma valacco piuttosto."
         sequence-41:
           s: 41
           from: "00:05:05,10"
           to: "00:05:22,07"
-          text: ~
+          text: "I valacchi erano soldati russi passati al nemico o che erano stati fatti prigionieri."
         sequence-42:
           s: 42
           from: "00:05:22,07"
           to: "00:05:29,02"
-          text: ~
+          text: "Erano passati e si erano arruolati nell'esercito tedesco."
         sequence-43:
           s: 43
           from: "00:05:29,02"
           to: "00:05:42,29"
-          text: ~
+          text: "Poi quell'ufficiale ha detto sitchas mi vidjot, significa vedremo, se sei veramente jugoslavo."
         sequence-44:
           s: 44
           from: "00:05:42,29"
           to: "00:05:51,28"
-          text: ~
+          text: "Mi chiedevo come facesse a capirlo a più di mille chilometri di distanza."
         sequence-45:
           s: 45
           from: "00:05:51,28"
           to: "00:06:05,05"
-          text: ~
+          text: "Mi hanno spinto via di nuovo, mi hanno slegato e rinchiuso nel pollaio. Ci sono stato forse un giorno o forse poche ore."
         sequence-46:
           s: 46
           from: "00:06:05,05"
           to: "00:06:07,28"
-          text: ~
+          text: "Le ore erano un'eternità."
         sequence-47:
           s: 47
           from: "00:06:07,28"
@@ -243,7 +243,7 @@ it:
           s: 48
           from: "00:06:10,11"
           to: "00:06:18,24"
-          text: ~
+          text: "Gli stessi due soldati tornarono mi legarono e mi coprirono gli occhi."
         sequence-49:
           s: 49
           from: "00:06:18,24"
@@ -253,17 +253,17 @@ it:
           s: 50
           from: "00:06:19,28"
           to: "00:06:29,02"
-          text: ~
+          text: "Pensai: addio Slovenia, Jugoslavia, mi spareranno."
         sequence-51:
           s: 51
           from: "00:06:29,02"
           to: "00:06:43,23"
-          text: ~
+          text: "Sapevo che i russi sparavano ai soldati tedeschi giù da qualche parte vicino ai pruni."
         sequence-52:
           s: 52
           from: "00:06:43,23"
           to: "00:06:48,23"
-          text: ~
+          text: "Ero sicuro di andare a morire."
         sequence-53:
           s: 53
           from: "00:06:48,23"
@@ -273,17 +273,17 @@ it:
           s: 54
           from: "00:06:50,14"
           to: "00:06:59,04"
-          text: ~
+          text: "I due soldati mi hanno legato gli occhi e ho pensato addio genitori, adesso morirò."
         sequence-55:
           s: 55
           from: "00:06:59,04"
           to: "00:07:10,17"
-          text: ~
+          text: "Siamo usciti dal pollaio e uno di loro disse che saremmo andati al Quartier generale."
         sequence-56:
           s: 56
           from: "00:07:10,17"
           to: "00:07:26,26"
-          text: ~
+          text: "Quando siamo arrivati qualcuno chiese il mio cognome. Ridissi Ivan Ivanovic Srcnikov."
         sequence-57:
           s: 57
           from: "00:07:26,26"
@@ -293,22 +293,22 @@ it:
           s: 58
           from: "00:07:28,24"
           to: "00:07:39,19"
-          text: ~
+          text: "Parlava in russo e ha detto qualcosa su alcune misurazioni; non ho capito perché parlava troppo velocemente."
         sequence-59:
           s: 59
           from: "00:07:39,19"
           to: "00:07:51,17"
-          text: ~
+          text: "Mi ha spiegato che ero in piedi davanti a un tavolo e che c'era qualcosa sul tavolo, ma non ha detto cosa."
         sequence-60:
           s: 60
           from: "00:07:51,17"
           to: "00:07:59,02"
-          text: ~
+          text: "Ha detto che avrei dovuto mostrarglielo prima che avesse contato fino a dieci."
         sequence-61:
           s: 61
           from: "00:07:59,02"
           to: "00:08:01,07"
-          text: ~
+          text: "Ancora non sapevo cosa."
         sequence-62:
           s: 62
           from: "00:08:01,07"
@@ -318,47 +318,47 @@ it:
           s: 63
           from: "00:08:02,23"
           to: "00:08:06,15"
-          text: ~
+          text: "I miei occhi erano ancora coperti."
         sequence-64:
           s: 64
           from: "00:08:06,15"
           to: "00:08:15,07"
-          text: ~
+          text: "Mi ha sciolto gli occhi e ha detto che dovevo mostrargli dove fosse Celje."
         sequence-65:
           s: 65
           from: "00:08:15,07"
           to: "00:08:20,15"
-          text: ~
+          text: "Ho dimenticato di menzionare che avevo detto che ero di Celje."
         sequence-66:
           s: 66
           from: "00:08:20,15"
           to: "00:08:27,02"
-          text: ~
+          text: "Ho pensato che se avessi detto che ero di Kropa, non avrebbero saputo dove fosse."
         sequence-67:
           s: 67
           from: "00:08:27,02"
           to: "00:08:35,07"
-          text: ~
+          text: "Se avessi detto che ero di Gornji grad, sarebbe stato persino peggio.Così ho detto che ero di Celje."
         sequence-68:
           s: 68
           from: "00:08:35,07"
           to: "00:08:48,02"
-          text: ~
+          text: "Quest'uomo, quello che ha tirato fuori la mappa ha detto che se posso mostragli dove si trovi Celje sulla mappa, allora sono jugoslavo."
         sequence-69:
           s: 69
           from: "00:08:48,02"
           to: "00:08:58,27"
-          text: ~
+          text: "Ha detto che per il momento conta fino a dieci; se non posso allora vado a Slivnjak, giù ai pruni."
         sequence-70:
           s: 70
           from: "00:08:58,27"
           to: "00:09:06,20"
-          text: ~
+          text: "Poi ha contato ras, dva, tri, shetiri... E gli ho mostrato, eccolo qui."
         sequence-71:
           s: 71
           from: "00:09:06,20"
           to: "00:09:16,00"
-          text: ~
+          text: "Mi ha dato una pacca sulla spalla e mi ha detto ti Jugoslav, che significa: tu sei jugoslavo e ora ci hai convinti."
         sequence-72:
           s: 72
           from: "00:09:16,00"
@@ -368,7 +368,7 @@ it:
           s: 73
           from: "00:09:17,04"
           to: "00:09:20,00"
-          text: ~
+          text: "Sono andato in Siberia."
         sequence-74:
           s: 74
           from: "00:09:20,00"
@@ -378,7 +378,7 @@ it:
           s: 75
           from: "00:09:21,09"
           to: "00:09:36,04"
-          text: ~
+          text: "Siamo andati con dei tedeschi; ci hanno portato in Siberia dove abbiamo incontrato altri sloveni."
         sequence-76:
           s: 76
           from: "00:09:36,04"
@@ -388,22 +388,22 @@ it:
           s: 77
           from: "00:09:37,22"
           to: "00:09:47,04"
-          text: ~
+          text: "Tutti gli sloveni si sono riuniti e ci è stato detto che ognuno di noi può scegliere il proprio gruppo."
         sequence-78:
           s: 78
           from: "00:09:47,04"
           to: "00:09:50,22"
-          text: ~
+          text: "E una volta formato il gruppo avremmo ottenuto il nostro lavoro."
         sequence-79:
           s: 79
           from: "00:09:50,22"
           to: "00:10:01,23"
-          text: ~
+          text: "È così che ci siamo riuniti; eravamo in dieci sloveni. Poi abbiamo ottenuto i nostri strumenti, seghe, asce..."
         sequence-80:
           s: 80
           from: "00:10:01,23"
           to: "00:10:06,14"
-          text: ~
+          text: "Siamo stati mandati nella foresta a abbattere alberi."
         sequence-81:
           s: 81
           from: "00:10:06,14"
@@ -413,39 +413,39 @@ it:
           s: 82
           from: "00:10:08,06"
           to: "00:10:15,25"
-          text: ~
+          text: "C'era abbastanza cibo mentre eravamo prigionieri russi."
         sequence-83:
           s: 83
           from: "00:10:15,25"
           to: "00:10:28,06"
-          text: ~
+          text: "Forse non c'era molto pane. I russi in Siberia, nella taiga, cucinano solo 'supa' e ‘kasha’."
         sequence-84:
           s: 84
           from: "00:10:28,06"
           to: "00:10:38,14"
-          text: ~
+          text: "Ti chiederai forse che cosa siano 'supa' e 'kasha'. 'Supa' è tutto ciò che è cotto e ancora fluido."
         sequence-85:
           s: 85
           from: "00:10:38,14"
           to: "00:10:46,21"
-          text: ~
+          text: "'Kasha' è porridge; tutto come purè di patate, cibi solidi."
         sequence-86:
           s: 86
           from: "00:10:46,21"
           to: "00:10:57,02"
-          text: ~
+          text: "Là abbiamo mangiato solo pesce, di cui ce n'era abbastanza, non molto pane, ma abbastanza."
         sequence-87:
           s: 87
           from: "00:10:57,02"
           to: "00:11:11,11"
-          text: ~
+          text: "Dopo un po' era ancora inverno, tutti gli sloveni e anche i croati"
         sequence-88:
           s: 88
           from: "00:11:11,11"
           to: "00:11:18,14"
-          text: ~
+          text: "e le altre nazionalità stavano tutti insieme secondo le nazionalità."
         sequence-89:
           s: 89
           from: "00:11:18,14"
           to: "00:11:23,15"
-          text: ~
+          text: "Forse sloveni e croati erano insieme..."

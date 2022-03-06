@@ -2,13 +2,13 @@ it:
   giacomina-castagnetti:
     chapter-7:
       c: 7
-      title: ~
+      title: "Gruppi di difesa della Donna"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:07,03"
-          text: ~
+          text: "Nascono i gruppi di difesa della donna."
         sequence-2:
           s: 2
           from: "00:00:07,03"
@@ -18,47 +18,47 @@ it:
           s: 3
           from: "00:00:08,06"
           to: "00:00:14,07"
-          text: ~
+          text: "Questa è stata la prima organizzazione femminile importante,"
         sequence-4:
           s: 4
           from: "00:00:14,07"
           to: "00:00:21,02"
-          text: ~
+          text: "direi quasi nata proprio dalla spontaneità delle donne."
         sequence-5:
           s: 5
           from: "00:00:21,02"
           to: "00:00:24,24"
-          text: ~
+          text: "Quindi nasce il gruppo di difesa della donna con dei compiti ben precisi."
         sequence-6:
           s: 6
           from: "00:00:24,24"
           to: "00:00:36,17"
-          text: ~
+          text: "All’inizio c’era un filo che ci legava tutte e in particolar modo anche quelle che nel Ventennio avevano creduto nel fascismo,"
         sequence-7:
           s: 7
           from: "00:00:36,17"
           to: "00:00:44,14"
-          text: ~
+          text: "oramai c’era una situazione che anche queste mamme che avevano i figli che erano morti in guerra e così via,"
         sequence-8:
           s: 8
           from: "00:00:44,14"
           to: "00:00:49,28"
-          text: ~
+          text: "avevano capito che il fascismo non aveva portato niente di buono,"
         sequence-9:
           s: 9
           from: "00:00:49,28"
           to: "00:00:59,28"
-          text: ~
+          text: "quindi anche quelle che non erano state fortunate come me di crescere in una famiglia antifascista, di avere già degli ideali miei,"
         sequence-10:
           s: 10
           from: "00:00:59,28"
           to: "00:01:07,14"
-          text: ~
+          text: "avevano capito che era giusto fare qualcosa perché questa situazione cambiasse."
         sequence-11:
           s: 11
           from: "00:01:07,14"
           to: "00:01:11,09"
-          text: ~
+          text: "Qual era il motivo principale che ci animava tutte?"
         sequence-12:
           s: 12
           from: "00:01:11,09"
@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:12,14"
           to: "00:01:20,00"
-          text: ~
+          text: "Era la lotta per la pace, perché la guerra finisse al più presto possibile. Questo era il filo conduttore che ci animò tutte."
         sequence-14:
           s: 14
           from: "00:01:20,00"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:23,16"
           to: "00:01:27,02"
-          text: ~
+          text: "E’ un’attività organizzata."
         sequence-16:
           s: 16
           from: "00:01:27,02"
@@ -88,22 +88,22 @@ it:
           s: 17
           from: "00:01:28,04"
           to: "00:01:34,24"
-          text: ~
+          text: "E il nostro lavoro, siamo nate noi in appoggio ai partigiani."
         sequence-18:
           s: 18
           from: "00:01:34,24"
           to: "00:01:44,15"
-          text: ~
+          text: "I gruppi di difesa della donna erano proprio, l’azione era prevalentemente in appoggio alla lotta partigiana,"
         sequence-19:
           s: 19
           from: "00:01:44,15"
           to: "00:01:51,28"
-          text: ~
+          text: "che è nato subito dopo l’8 settembre, quando i ragazzi hanno cominciato ad andare in montagna."
         sequence-20:
           s: 20
           from: "00:01:51,28"
           to: "00:02:00,02"
-          text: ~
+          text: "Che era un esercito che era senza divisa, era senza rifornimenti e viveri, era senza tutto."
         sequence-21:
           s: 21
           from: "00:02:00,02"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:02:01,16"
           to: "00:02:08,21"
-          text: ~
+          text: "Aveva tutto e niente di quello che era un esercito regolare."
         sequence-23:
           s: 23
           from: "00:02:08,21"
@@ -123,32 +123,32 @@ it:
           s: 24
           from: "00:02:10,18"
           to: "00:02:17,06"
-          text: ~
+          text: "Quindi noi donne cercare di accaparrarsi queste piccole cose."
         sequence-25:
           s: 25
           from: "00:02:17,06"
           to: "00:02:26,28"
-          text: "It might seem nothing to you now, but very time we went to ask families for a pair of pants,"
+          text: "Per voi adesso non vuol dire niente, per noi andare presso le famiglie a chiedere un paio di pantaloni, un paio di guanti"
         sequence-26:
           s: 26
           from: "00:02:26,28"
           to: "00:02:39,05"
-          text: ~
+          text: "una maglia, un paio di scarpe da mandare ai partigiani in montagna, voleva dire mettere la tua vita nel pericolo più grande che ci poteva essere,"
         sequence-27:
           s: 27
           from: "00:02:39,05"
           to: "00:02:52,07"
-          text: ~
+          text: "perché allora i fascisti erano appoggiati dai tedeschi, quindi le cose più brutte le facevano… perché ci arrestavano, ci torturavano e così via."
         sequence-28:
           s: 28
           from: "00:02:52,07"
           to: "00:03:01,19"
-          text: ~
+          text: "Noi che abbiamo lavorato nei gruppi di difesa della donna in pianura, il nostro rischio era così,"
         sequence-29:
           s: 29
           from: "00:03:01,19"
           to: "00:03:10,23"
-          text: ~
+          text: "perché noi andavamo a viso scoperto, non avevamo nomi… come si dice… di battaglia."
         sequence-30:
           s: 30
           from: "00:03:10,23"
@@ -158,17 +158,17 @@ it:
           s: 31
           from: "00:03:11,00"
           to: "00:03:21,08"
-          text: ~
+          text: "Perché per esempio non so si portava in giro i volantini, le notizie. Le notizie giravano nelle nostre borse, in bicicletta."
         sequence-32:
           s: 32
           from: "00:03:21,08"
           to: "00:03:29,08"
-          text: ~
+          text: "Però i volantini se ti fermavano, come hanno fermato me all’Ospizio che mi hanno preso la bicicletta, voleva dire eh…"
         sequence-33:
           s: 33
           from: "00:03:29,08"
           to: "00:03:35,05"
-          text: ~
+          text: "andare in galera dritte dritte e non saltare mai più fuori."
         sequence-34:
           s: 34
           from: "00:03:35,05"
@@ -178,49 +178,49 @@ it:
           s: 35
           from: "00:03:35,25"
           to: "00:03:44,01"
-          text: ~
+          text: "Si trasportava armi. Io per esempio nella borsa con le patate dentro ci mettevo le bombe a mano, perché le patate erano rognose"
         sequence-36:
           s: 36
           from: "00:03:44,01"
           to: "00:03:49,00"
-          text: ~
+          text: "anche loro e quindi le bombe a mano in fondo e sopra le patate."
         sequence-37:
           s: 37
           from: "00:03:49,00"
           to: "00:04:04,09"
-          text: ~
+          text: "Perché i partigiani per recuperare le armi, voi lo saprete, ma ve lo racconto anche io, che al primo momento davano l’assalto a tutti i presidi fascisti per recuperare le armi."
         sequence-38:
           s: 38
           from: "00:04:04,09"
           to: "00:04:10,20"
-          text: ~
+          text: "E quindi queste armi dopo dovevano essere trasportate da una persona all’altra e così via."
         sequence-39:
           s: 39
           from: "00:04:10,20"
           to: "00:04:20,11"
-          text: ~
+          text: "Poi c’era il bisogno delle notizie, i giovani erano in montagna ma dovevano sapere cosa succedeva in pianura."
         sequence-40:
           s: 40
           from: "00:04:20,11"
           to: "00:04:27,08"
-          text: ~
+          text: "Quindi c’era l’andare e venire sempre di questi piccoli bigliettini per portare le notizie di come si muovevano i tedeschi,"
         sequence-41:
           s: 41
           from: "00:04:27,08"
           to: "00:04:34,05"
-          text: ~
+          text: "di quello che facevano i tedeschi, se c’erano i rastrellamenti, se i nostri uomini erano in pericolo."
         sequence-42:
           s: 42
           from: "00:04:34,05"
           to: "00:04:40,28"
-          text: ~
+          text: "Se c’era un rastrellamento noi in bicicletta ci davamo la voce"
         sequence-43:
           s: 43
           from: "00:04:40,28"
           to: "00:04:51,20"
-          text: ~
+          text: "poi in quattro o cinque dai vari capi della frazione nel giro di mezz’ora o venticinque minuti noi davamo l’allarme"
         sequence-44:
           s: 44
           from: "00:04:51,20"
           to: "00:05:04,02"
-          text: ~
+          text: "e i giovani e gli uomini che erano a casa, che erano scappati dal fronte sapevano che dovevano andare fuori casa e andarsi a nascondere in pianura dove era possibile."

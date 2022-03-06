@@ -2,43 +2,43 @@ it:
   ivo-srcnik:
     chapter-9:
       c: 9
-      title: ~
+      title: "Come soldato jugoslavo dopo la guerra"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,29"
           to: "00:00:14,27"
-          text: ~
+          text: "Non appena sono arrivato a Celje, per niente pigro, sono andato direttamente a Kumrovec."
         sequence-2:
           s: 2
           from: "00:00:14,27"
           to: "00:00:20,22"
-          text: ~
+          text: "Sono andato a Kumrovec da Celje in bicicletta."
         sequence-3:
           s: 3
           from: "00:00:20,22"
           to: "00:00:31,20"
-          text: ~
+          text: "Poco prima di raggiungere Kumrovec, c'erano queste case di legno con persone che ci vivevano."
         sequence-4:
           s: 4
           from: "00:00:31,20"
           to: "00:00:40,25"
-          text: ~
+          text: "Sono arrivato in una di quelle case e dentro c'era una donna. Ho chiesto se potevo dormire lì."
         sequence-5:
           s: 5
           from: "00:00:40,25"
           to: "00:00:50,02"
-          text: ~
+          text: "Perché? Perché sto andando a Zagabria. Mi ha chiesto quando sarei partito. Ho detto la mattina presto."
         sequence-6:
           s: 6
           from: "00:00:50,02"
           to: "00:00:53,17"
-          text: ~
+          text: "Ha detto che potevo restare."
         sequence-7:
           s: 7
           from: "00:00:53,17"
           to: "00:01:03,02"
-          text: ~
+          text: "Mi ha preparato un letto; era così gonfio di piume che ne fui ricoperto."
         sequence-8:
           s: 8
           from: "00:01:03,02"
@@ -48,84 +48,84 @@ it:
           s: 9
           from: "00:01:05,28"
           to: "00:01:12,08"
-          text: ~
+          text: "Mi ha chiesto di nuovo quando sarei partito e ho detto all'alba."
         sequence-10:
           s: 10
           from: "00:01:12,08"
           to: "00:01:22,28"
-          text: ~
+          text: "Quando mi sono svegliato, forse erano le cinque del mattino del 17 Maggio."
         sequence-11:
           s: 11
           from: "00:01:22,28"
           to: "00:01:33,06"
-          text: ~
+          text: "C'era un enorme piatto di uova fritte che mi aspettava."
         sequence-12:
           s: 12
           from: "00:01:33,06"
           to: "00:01:40,02"
-          text: ~
+          text: "Ho mangiato, ci siamo salutati e ho proseguito per Zagabria."
         sequence-13:
           s: 13
           from: "00:01:40,02"
           to: "00:01:49,23"
-          text: ~
+          text: "Ma quando ci arrivai a Zagabria, la brigata non c'era più a Maksimir. Ero ancora su quella bicicletta."
         sequence-14:
           s: 14
           from: "00:01:49,23"
           to: "00:01:56,06"
-          text: ~
+          text: "Ho lasciato la bicicletta davanti a Maksimir e sono entrato dal portiere."
         sequence-15:
           s: 15
           from: "00:01:56,06"
           to: "00:02:04,16"
-          text: ~
+          text: "Quando sono tornato fuori, la bici era sparita. Qualcuno l'aveva rubata."
         sequence-16:
           s: 16
           from: "00:02:04,16"
           to: "00:02:08,08"
-          text: ~
+          text: "Facile, facile."
         sequence-17:
           s: 17
           from: "00:02:08,08"
           to: "00:02:16,00"
-          text: ~
+          text: "Ovviamente avevo un messaggio. Mali, devi fare rapporto al Quartier generale centrale a Belgrado."
         sequence-18:
           s: 18
           from: "00:02:16,00"
           to: "00:02:26,12"
-          text: ~
+          text: "Sono andato a Belgrado; devono essere stati 10 o 12 giorni. A volte ero su un treno, a volte viaggiavo a piedi."
         sequence-19:
           s: 19
           from: "00:02:26,12"
           to: "00:02:34,21"
-          text: ~
+          text: "Le rotaie erano disastrate. Giunsi a Belgrado; penso che fosse la fine di Maggio."
         sequence-20:
           s: 20
           from: "00:02:34,21"
           to: "00:02:46,02"
-          text: ~
+          text: "Ho fatto rapporto al Quartier generale centrale di Belgrado e vi ho trascorso un po' di tempo, una o due settimane, o addirittura un mese."
         sequence-21:
           s: 21
           from: "00:02:46,02"
           to: "00:02:52,23"
-          text: ~
+          text: "Poi sono stato mandato al Quartier generale del 1° reggimento a Nis."
         sequence-22:
           s: 22
           from: "00:02:52,23"
           to: "00:03:00,29"
-          text: ~
+          text: "Ci sono arrivato e mi ritrovai nel 'reparto personale'."
         sequence-23:
           s: 23
           from: "00:03:00,29"
           to: "00:03:13,19"
-          text: ~
+          text: "Il mio compito era interrogare coloro che si univano ai Partigiani e diventavano sottufficiali."
         sequence-24:
           s: 24
           from: "00:03:13,19"
           to: "00:03:25,23"
-          text: ~
+          text: "Gli dovevo chiedere dove fossero stati, ho dovuto interrogarli a fondo e scoprire che tipo di passato avessero."
         sequence-25:
           s: 25
           from: "00:03:25,23"
           to: "00:03:41,13"
-          text: ~
+          text: "È così che sono stato nel Primo reggimento fino a Novembre 1945."

@@ -8,9 +8,7 @@ en:
           s: 1
           from: "00:00:00,00"
           to: "00:00:13,25"
-          text: |-
-              We were taken to a farming penal colony, 
-              called “Colonia Confinati di Pisticci”, near Matera.
+          text: "We were taken to a farming penal colony, called “Colonia Confinati di Pisticci”, near Matera."
         sequence-2:
           s: 2
           from: "00:00:13,25"
@@ -25,9 +23,7 @@ en:
           s: 4
           from: "00:00:23,07"
           to: "00:00:28,19"
-          text: |-
-              If you want I can quickly tell you this story. 
-              The issue with this colony was
+          text: "If you want I can quickly tell you this story. The issue with this colony was"
         sequence-5:
           s: 5
           from: "00:00:28,19"
@@ -37,9 +33,7 @@ en:
           s: 6
           from: "00:00:33,11"
           to: "00:00:39,08"
-          text: |-
-              You see, in Ponza there were people 
-              like Terracini, Volponi, Cuccimarro
+          text: "You see, in Ponza there were people like Terracini, Volponi, Cuccimarro"
         sequence-7:
           s: 7
           from: "00:00:39,08"
@@ -64,23 +58,17 @@ en:
           s: 11
           from: "00:01:01,05"
           to: "00:01:07,07"
-          text: |-
-              – there were large tables for eight – 
-              he took that time to explain things to the others.
+          text: "– there were large tables for eight – he took that time to explain things to the others."
         sequence-12:
           s: 12
           from: "00:01:07,07"
           to: "00:01:14,08"
-          text: |-
-              It was mostly for this reason that they decided 
-              to close down the island of Ponza.
+          text: "It was mostly for this reason that they decided to close down the island of Ponza."
         sequence-13:
           s: 13
           from: "00:01:14,08"
           to: "00:01:20,22"
-          text: |-
-              Some were sent to Ventotene, 
-              others were transferred to Pisticci with us,
+          text: "Some were sent to Ventotene, others were transferred to Pisticci with us,"
         sequence-14:
           s: 14
           from: "00:01:20,22"
@@ -90,16 +78,12 @@ en:
           s: 15
           from: "00:01:24,18"
           to: "00:01:32,11"
-          text: |-
-              By the time I left the colony, there were almost 
-              three thousand people confined in Pisticci:
+          text: "By the time I left the colony, there were almost three thousand people confined in Pisticci:"
         sequence-16:
           s: 16
           from: "00:01:32,11"
           to: "00:01:40,22"
-          text: |-
-              not only political prisoners, but a bit of everything, 
-              including spies.
+          text: "not only political prisoners, but a bit of everything, including spies."
         sequence-17:
           s: 17
           from: "00:01:40,22"
@@ -109,9 +93,7 @@ en:
           s: 18
           from: "00:01:45,17"
           to: "00:01:54,18"
-          text: |-
-              We arrived at the offices of the colony, 
-              where we were divided in three sheds,
+          text: "We arrived at the offices of the colony, where we were divided in three sheds,"
         sequence-19:
           s: 19
           from: "00:01:54,18"
@@ -126,23 +108,17 @@ en:
           s: 21
           from: "00:02:08,21"
           to: "00:02:17,25"
-          text: |-
-              I started to explain to them how we were lucky 
-              that the number of socialist countries was growing,
+          text: "I started to explain to them how we were lucky that the number of socialist countries was growing,"
         sequence-22:
           s: 22
           from: "00:02:17,25"
           to: "00:02:38,24"
-          text: |-
-              thanks to the Soviet Union – they had just occupied Sweden, 
-              Norway and Lithuania at that time – and how great the Russians were.
+          text: "thanks to the Soviet Union – they had just occupied Sweden, Norway and Lithuania at that time – and how great the Russians were."
         sequence-23:
           s: 23
           from: "00:02:38,24"
           to: "00:02:46,11"
-          text: |-
-              Come morning, a tiny man called me over 
-              and asked me where I was from.
+          text: "Come morning, a tiny man called me over and asked me where I was from."
         sequence-24:
           s: 24
           from: "00:02:46,11"
@@ -162,9 +138,7 @@ en:
           s: 27
           from: "00:02:59,29"
           to: "00:03:08,03"
-          text: |-
-              He was a professor from Milan, whose name was Lonato. 
-              We were in great terms after that.
+          text: "He was a professor from Milan, whose name was Lonato. We were in great terms after that."
         sequence-28:
           s: 28
           from: "00:03:08,03"
@@ -179,16 +153,12 @@ en:
           s: 30
           from: "00:03:19,16"
           to: "00:03:25,11"
-          text: |-
-              However I was younger than the others, 
-              and I understood that this was an advantage.
+          text: "However I was younger than the others, and I understood that this was an advantage."
         sequence-31:
           s: 31
           from: "00:03:25,11"
           to: "00:03:32,01"
-          text: |-
-              I was with a man called Bonini, from Villa Seta, 
-              who was around forty-five years old
+          text: "I was with a man called Bonini, from Villa Seta, who was around forty-five years old"
         sequence-32:
           s: 32
           from: "00:03:32,01"
@@ -198,9 +168,7 @@ en:
           s: 33
           from: "00:03:38,25"
           to: "00:03:46,03"
-          text: |-
-              that was a lot harder, but he always managed to 
-              take care of things rather easily.
+          text: "that was a lot harder, but he always managed to take care of things rather easily."
         sequence-34:
           s: 34
           from: "00:03:46,03"
@@ -215,16 +183,12 @@ en:
           s: 36
           from: "00:03:49,28"
           to: "00:03:53,17"
-          text: |-
-              I had been given some documents 
-              which I was supposed to bring to the police.
+          text: "I had been given some documents which I was supposed to bring to the police."
         sequence-37:
           s: 37
           from: "00:03:53,17"
           to: "00:03:59,23"
-          text: |-
-              When I went there, I knocked on the door 
-              (we already knew how it worked)
+          text: "When I went there, I knocked on the door (we already knew how it worked)"
         sequence-38:
           s: 38
           from: "00:03:59,23"
@@ -244,16 +208,12 @@ en:
           s: 41
           from: "00:04:13,01"
           to: "00:04:19,15"
-          text: |-
-              Finally, he told me:
-              “Don’t you know that when you come here you must give the Roman salute?”.
+          text: "Finally, he told me: “Don’t you know that when you come here you must give the Roman salute?”."
         sequence-42:
           s: 42
           from: "00:04:19,15"
           to: "00:04:27,14"
-          text: |-
-              I replied that I had just come back from almost 
-              four years of confinement for a lot less,
+          text: "I replied that I had just come back from almost four years of confinement for a lot less,"
         sequence-43:
           s: 43
           from: "00:04:27,14"

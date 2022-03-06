@@ -2,50 +2,50 @@ it:
   stefania-dambrowska:
     chapter-1:
       c: 1
-      title: ~
+      title: "Introduzione, genitori"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:02,25"
-          text: ~
+          text: "Mi chiamo Stefania Dąmbrowska."
         sequence-2:
           s: 2
           from: "00:00:02,25"
           to: "00:00:12,29"
-          text: ~
+          text: "Il mio nome non mi piace. Sono Stefania Dąmbrowska, formalmente Stefania, ma il mio soprannome è Stenia."
         sequence-3:
           s: 3
           from: "00:00:12,29"
           to: "00:00:26,24"
-          text: ~
+          text: "Sono nata il 12 Ottobre 1916 a San Pietroburgo."
         sequence-4:
           s: 4
           from: "00:00:26,24"
           to: "00:00:33,15"
-          text: ~
+          text: "Mio padre era un militare, si chiamava Bohdan."
         sequence-5:
           s: 5
           from: "00:00:33,15"
           to: "00:00:39,14"
-          text: ~
+          text: "All'epoca in Russia credo che fosse il capitano di cavalleria."
         sequence-6:
           s: 6
           from: "00:00:39,14"
           to: "00:00:42,13"
-          text: ~
+          text: "Mia madre - il suo nome da nubile era Kościałkowska -"
         sequence-7:
           s: 7
           from: "00:00:42,13"
           to: "00:00:46,26"
-          text: ~
+          text: "stava semplicemente accanto al marito."
         sequence-8:
           s: 8
           from: "00:00:46,26"
           to: "00:00:50,10"
-          text: ~
+          text: "A quel tempo c'era già consuetudine che alcune donne lavorassero."
         sequence-9:
           s: 9
           from: "00:00:50,10"
           to: "00:00:57,00"
-          text: ~
+          text: "E la mia mamma lavorava in un ufficio chiamato \"Prodamed\"."

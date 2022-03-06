@@ -2,58 +2,58 @@ it:
   ciril-zlobec:
     chapter-8:
       c: 8
-      title: ~
+      title: "L'aneddoto del libro di preghiere; insegnante nella scuola partigiana"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,29"
           to: "00:00:16,00"
-          text: ~
+          text: "Nei due anni in cui sono stato con i Partigiani, sono stato più volte vicino alla morte."
         sequence-2:
           s: 2
           from: "00:00:16,00"
           to: "00:00:26,22"
-          text: ~
+          text: "In qualche modo ho dovuto abituarmi alla morte per diventare parte della vita Partigiana."
         sequence-3:
           s: 3
           from: "00:00:26,22"
           to: "00:00:32,21"
-          text: ~
+          text: "Per ogni combattimento c'era il successo o il fallimento dell'incontro."
         sequence-4:
           s: 4
           from: "00:00:32,21"
           to: "00:00:39,15"
-          text: ~
+          text: "Tutto era quasi esclusivamente determinato dal numero di morti."
         sequence-5:
           s: 5
           from: "00:00:39,15"
           to: "00:00:47,20"
-          text: ~
+          text: "Se combatti con i tedeschi e pensi che cinque partigiani sono caduti,"
         sequence-6:
           s: 6
           from: "00:00:47,20"
           to: "00:00:54,14"
-          text: ~
+          text: "devi esser soddisfatto nel risultato dell'incontro."
         sequence-7:
           s: 7
           from: "00:00:54,14"
           to: "00:01:06,09"
-          text: ~
+          text: "Dovevamo convincerci, indipendentemente da quanto fosse vero, che avevamo perso cinque Partigiani mentre il nemico ne aveva persi venti."
         sequence-8:
           s: 8
           from: "00:01:06,09"
           to: "00:01:15,13"
-          text: ~
+          text: "Avevi così l'impressione che la morte che ha inghiottito i tuoi colleghi non è stata vana."
         sequence-9:
           s: 9
           from: "00:01:15,13"
           to: "00:01:24,17"
-          text: ~
+          text: "Era piuttosto un mini contributo alla liberazione e persecuzione del nemico occupante,"
         sequence-10:
           s: 10
           from: "00:01:24,17"
           to: "00:01:31,24"
-          text: ~
+          text: "alla libertà e a tutto ciò che immaginavamo ci sarebbe stato dopo la fine della guerra."
         sequence-11:
           s: 11
           from: "00:01:31,24"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:33,15"
           to: "00:01:36,02"
-          text: ~
+          text: "Io stesso sono stato fortunato."
         sequence-13:
           s: 13
           from: "00:01:36,02"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:37,14"
           to: "00:02:00,00"
-          text: ~
+          text: "Ero un informatore, i tedeschi mi hanno beccato tre volte e tre volte mi hanno lasciato andare; tutto perché ho indossato questo..."
         sequence-15:
           s: 15
           from: "00:02:00,00"
@@ -83,167 +83,167 @@ it:
           s: 16
           from: "00:02:02,16"
           to: "00:02:10,24"
-          text: ~
+          text: "Io sono agnostico. Non sono un uomo credente. Ma mia madre era molto religiosa."
         sequence-17:
           s: 17
           from: "00:02:10,24"
           to: "00:02:20,14"
-          text: ~
+          text: "Quando mi sono unito ai partigiani mi ha detto: Figliolo, so che non preghi, ma... ecco, prendi questo piccolo rosario."
         sequence-18:
           s: 18
           from: "00:02:20,14"
           to: "00:02:26,06"
-          text: ~
+          text: "E me l'ha messo in tasca. Era una contadina."
         sequence-19:
           s: 19
           from: "00:02:26,06"
           to: "00:02:32,26"
-          text: ~
+          text: "Per rispetto a mia madre portavo sempre quel rosario in tasca."
         sequence-20:
           s: 20
           from: "00:02:32,26"
           to: "00:02:43,16"
-          text: ~
+          text: "Quando i tedeschi mi catturarono per la prima volta mi perquisirono e svuotarono le tasche, tirarono fuori il mio rosario."
         sequence-21:
           s: 21
           from: "00:02:43,16"
           to: "00:02:52,17"
-          text: ~
+          text: "Avevano l'abitudine di credere che tutti i Partigiani uccidano preti e brucino chiese."
         sequence-22:
           s: 22
           from: "00:02:52,17"
           to: "00:02:58,10"
-          text: ~
+          text: "Sicuramente si sorpresero di trovare un Partigiano con un rosario in tasca."
         sequence-23:
           s: 23
           from: "00:02:58,10"
           to: "00:03:10,06"
-          text: ~
+          text: "Inoltre, coincideva con le mie carte contraffatte, che affermavano che stavo ancora studiando al seminario teologico."
         sequence-24:
           s: 24
           from: "00:03:10,06"
           to: "00:03:20,05"
-          text: ~
+          text: "Una volta sono caduto tra le posizioni tedesche in strada. Sono stato perquisito, hanno controllato i miei documenti."
         sequence-25:
           s: 25
           from: "00:03:20,05"
           to: "00:03:27,20"
-          text: ~
+          text: "Non avevo soldi con me. Lui mi disse: cosa ci fai qui?"
         sequence-26:
           s: 26
           from: "00:03:27,20"
           to: "00:03:33,19"
-          text: ~
+          text: "Ero nei pressi di Opatje selo. In viaggio per Doberdob."
         sequence-27:
           s: 27
           from: "00:03:33,19"
           to: "00:03:38,12"
-          text: ~
+          text: "Dissi che andavo al seminario presso Gorica."
         sequence-28:
           s: 28
           from: "00:03:38,12"
           to: "00:03:45,18"
-          text: ~
+          text: "Dissero: è il bel mezzo dell'anno scolastico, dunque che cosa ci fai qui?"
         sequence-29:
           s: 29
           from: "00:03:45,18"
           to: "00:03:54,26"
-          text: ~
+          text: "Dissi che ero un po' malato ai polmoni e che ero stato mandato a casa per riprendermi e adesso stavo ritornando."
         sequence-30:
           s: 30
           from: "00:03:54,26"
           to: "00:04:02,17"
-          text: ~
+          text: "Stavo andando in bicicletta. Pensavo che non ci fossero tedeschi in giro così potevo pedalare sulla strada."
         sequence-31:
           s: 31
           from: "00:04:02,17"
           to: "00:04:08,10"
-          text: ~
+          text: "E il soldato: Sì, sì, sì... e che cosa farai senza soldi?"
         sequence-32:
           s: 32
           from: "00:04:08,10"
           to: "00:04:15,17"
-          text: ~
+          text: "Ho spiegato che registriamo le nostre quote in un biglietto e che paghiamo il saldo alla fine dell'anno."
         sequence-33:
           s: 33
           from: "00:04:15,17"
           to: "00:04:21,26"
-          text: ~
+          text: "Era insospettito da me. Non riusciva a capire come fregarmi."
         sequence-34:
           s: 34
           from: "00:04:21,26"
           to: "00:04:30,03"
-          text: ~
+          text: "Dopo aver sfogliato le mie carte finalmente tira fuori una foto del mio primo amore, Elvira di Stanjel."
         sequence-35:
           s: 35
           from: "00:04:30,03"
           to: "00:04:38,09"
-          text: ~
+          text: "'Persempre tua Elvira' c'era scritto sul retro. Conosceva un pò di sloveno e mi disse:"
         sequence-36:
           s: 36
           from: "00:04:38,09"
           to: "00:04:47,28"
-          text: ~
+          text: "Traduci questo per me. Per quel poco di sloveno che sapeva, si sentì poi vittorioso, sbuffò:"
         sequence-37:
           s: 37
           from: "00:04:47,28"
           to: "00:04:54,00"
-          text: ~
+          text: "Adesso ti ho beccato. Dunque questo è un seminario teologico? E tu sei un prete?!"
         sequence-38:
           s: 38
           from: "00:04:54,00"
           to: "00:04:59,26"
-          text: ~
+          text: "Ho abbassato la testa e ho detto: Cosa posso dire, la giovinezza è la giovinezza."
         sequence-39:
           s: 39
           from: "00:04:59,26"
           to: "00:05:05,07"
-          text: ~
+          text: "Ero pentito, come a dire che avevo disobbedito alle regole del seminario."
         sequence-40:
           s: 40
           from: "00:05:05,07"
           to: "00:05:11,28"
-          text: ~
+          text: "Mi ha guardato e poi ha detto: È una storia piuttosto inverosimile che hai raccontato, eh?"
         sequence-41:
           s: 41
           from: "00:05:11,28"
           to: "00:05:16,25"
-          text: ~
+          text: "L'ho guardato dritto negli occhi e gli ho detto:"
         sequence-42:
           s: 42
           from: "00:05:16,25"
           to: "00:05:25,04"
-          text: ~
+          text: "È così difficile discernere quando qualcuno sta dicendo una bugia o la verità?"
         sequence-43:
           s: 43
           from: "00:05:25,04"
           to: "00:05:33,24"
-          text: ~
+          text: "Lo stavo guardando dritto in faccia, ma grondavo sudore per la paura e il terrore. Mi ha detto di andare."
         sequence-44:
           s: 44
           from: "00:05:33,24"
           to: "00:05:41,24"
-          text: ~
+          text: "Probabilmente non avrei mai potuto dissimulare in quel modo senza i quattro anni di liceo."
         sequence-45:
           s: 45
           from: "00:05:41,24"
           to: "00:05:51,04"
-          text: ~
+          text: "Ero un po' al di sopra del livello a cui erano abituati loro incontrando un combattente regolare."
         sequence-46:
           s: 46
           from: "00:05:51,04"
           to: "00:05:57,02"
-          text: ~
+          text: "Un ragazzo di campagna sarebbe rimasto a guardare con orrore solo dopo essere stato catturato."
         sequence-47:
           s: 47
           from: "00:05:57,02"
           to: "00:06:05,14"
-          text: ~
+          text: "Una volta scoperta l'efficacia del rosario, sono stato più che felice di continuare a portarlo."
         sequence-48:
           s: 48
           from: "00:06:05,14"
           to: "00:06:10,24"
-          text: ~
+          text: "Ho raccontato questa storia altre due volte e ha sempre funzionato."
         sequence-49:
           s: 49
           from: "00:06:10,24"
@@ -253,174 +253,174 @@ it:
           s: 50
           from: "00:06:11,26"
           to: "00:06:17,18"
-          text: ~
+          text: "...Quelli erano ragazzini; stavano ancora imparando a leggere."
         sequence-51:
           s: 51
           from: "00:06:17,18"
           to: "00:06:21,12"
-          text: ~
+          text: "Avevo un rifugio nascosto a scuola."
         sequence-52:
           s: 52
           from: "00:06:21,12"
           to: "00:06:26,06"
-          text: ~
+          text: "Una tavola che si sollevava e io potevo nascondermici sotto."
         sequence-53:
           s: 53
           from: "00:06:26,06"
           to: "00:06:33,23"
-          text: ~
+          text: "Una donna sarebbe corsa dal villaggio, con la scusa di essere un'insegnante."
         sequence-54:
           s: 54
           from: "00:06:33,23"
           to: "00:06:39,19"
-          text: ~
+          text: "Tutti gli uomini della mia età erano o con i Partigiani o nei campi."
         sequence-55:
           s: 55
           from: "00:06:39,19"
           to: "00:06:49,24"
-          text: ~
+          text: "Non c'era quasi nessuno, tranne se i genitori erano così malati che qualcuno doveva prendersi cura di loro."
         sequence-56:
           s: 56
           from: "00:06:49,24"
           to: "00:06:54,23"
-          text: ~
+          text: "All'improvviso questo tedesco appare alla finestra."
         sequence-57:
           s: 57
           from: "00:06:54,23"
           to: "00:06:59,06"
-          text: ~
+          text: "Erano venuti dall'altra parte, non dal villaggio."
         sequence-58:
           s: 58
           from: "00:06:59,06"
           to: "00:07:04,24"
-          text: ~
+          text: "In realtà l'unità ha attraversato il villaggio, tutte tranne questa tedesca."
         sequence-59:
           s: 59
           from: "00:07:04,24"
           to: "00:07:10,18"
-          text: ~
+          text: "Presumo che avesse il compito di controllare la casa isolata, che era la scuola."
         sequence-60:
           s: 60
           from: "00:07:10,18"
           to: "00:07:17,29"
-          text: ~
+          text: "Si appoggiò al davanzale della finestra - era primavera dunque era aperto - sul suo mitra, guardando nell'aula."
         sequence-61:
           s: 61
           from: "00:07:17,29"
           to: "00:07:20,20"
-          text: ~
+          text: "Il mio sangue si è congelato."
         sequence-62:
           s: 62
           from: "00:07:20,20"
           to: "00:07:29,24"
-          text: ~
+          text: "Ammetto che all'inizio mi è venuto in mente che sarebbe finita in tragedia: questi poveri bambini sarebbero stati vittime."
         sequence-63:
           s: 63
           from: "00:07:29,24"
           to: "00:07:33,26"
-          text: ~
+          text: "Io stesso lo avrei trovato perfettamente logico."
         sequence-64:
           s: 64
           from: "00:07:33,26"
           to: "00:07:43,10"
-          text: ~
+          text: "I bambini avevano già assistito all'incendio del loro villaggio. Cominciarono tutti a urlare e a piangere come matti."
         sequence-65:
           s: 65
           from: "00:07:43,10"
           to: "00:07:53,23"
-          text: ~
+          text: "Era stato sempre detto che nel pericoloso caso di arrivo dei tedeschi, la tavola sotto cui nascondersi doveva essere sollevata."
         sequence-66:
           s: 66
           from: "00:07:53,23"
           to: "00:07:59,11"
-          text: ~
+          text: "Così un bambino si è lanciato alla carica per sollevare l'asse dove avrei dovuto nascondermi."
         sequence-67:
           s: 67
           from: "00:07:59,11"
           to: "00:08:10,25"
-          text: ~
+          text: "Lo premetti di nuovo velocemente e presi un manuale Partigiano che avevamo compilato."
         sequence-68:
           s: 68
           from: "00:08:10,25"
           to: "00:08:19,16"
-          text: ~
+          text: "Sebbene questi bambini fossero molto piccoli, ho semplicemente aperto il libro e ho detto loro di aprire i loro libri sulla stessa pagina."
         sequence-69:
           s: 69
           from: "00:08:19,16"
           to: "00:08:26,20"
-          text: ~
+          text: "Il testo era di Ivan Cankars, 'La tazza di caffè'. Era adatto di certo ai livelli più alti."
         sequence-70:
           s: 70
           from: "00:08:26,20"
           to: "00:08:33,22"
-          text: ~
+          text: "Ho detto al migliore di leggere, ma disse qualche parola e iniziò a piangere."
         sequence-71:
           s: 71
           from: "00:08:33,22"
           to: "00:08:37,22"
-          text: ~
+          text: "Il tedesco continuava a guardare e guardare."
         sequence-72:
           s: 72
           from: "00:08:37,22"
           to: "00:08:47,02"
-          text: ~
+          text: "Anch'io ho guardato ai bambini e ho cercato di calmarli ma non ci sono riuscito. Ero sicuro che eravamo giunti alla fine."
         sequence-73:
           s: 73
           from: "00:08:47,02"
           to: "00:08:58,00"
-          text: ~
+          text: "Ero lì e guardavo dritto negli occhi dei tedeschi. Gli ho mostrato questi bambini, gli ho indicato la loro tristezza."
         sequence-74:
           s: 74
           from: "00:08:58,00"
           to: "00:09:01,06"
-          text: ~
+          text: "Ha lasciato la finestra."
         sequence-75:
           s: 75
           from: "00:09:01,06"
           to: "00:09:05,12"
-          text: ~
+          text: "Pensavo che sarebbe sicuro tornato e sarebbe entrato dall'altra parte."
         sequence-76:
           s: 76
           from: "00:09:05,12"
           to: "00:09:12,26"
-          text: ~
+          text: "O che era andato a fare rapporto alla sua unità per farli venire e finirci."
         sequence-77:
           s: 77
           from: "00:09:12,26"
           to: "00:09:22,11"
-          text: ~
+          text: "Ma non si è mai fatto vivo, né altri tedeschi. Il silenzio era simile alla morte."
         sequence-78:
           s: 78
           from: "00:09:22,11"
           to: "00:09:32,17"
-          text: ~
+          text: "Un quarto d'ora dopo i tedeschi si ritirarono dal villaggio e tutte le donne, tutte le madri accorsero."
         sequence-79:
           s: 79
           from: "00:09:32,17"
           to: "00:09:41,19"
-          text: ~
+          text: "L'orrore che ha imperversato era oltre le parole. Le madri erano sicure che tutti noi nella scuola eravamo stati massacrati."
         sequence-80:
           s: 80
           from: "00:09:41,19"
           to: "00:09:45,23"
-          text: ~
+          text: "Ma vennero per trovarci invece vivi e in salute."
         sequence-81:
           s: 81
           from: "00:09:45,23"
           to: "00:09:55,13"
-          text: ~
+          text: "A quanto pare quel tedesco ebbe pietà di quei bambini. In quel mattino presto i tedeschi avevano ucciso i feriti."
         sequence-82:
           s: 82
           from: "00:09:55,13"
           to: "00:10:02,09"
-          text: ~
+          text: "Dover massacrare anche i bambini, forse, sarebbe stato troppo anche per lui."
         sequence-83:
           s: 83
           from: "00:10:02,09"
           to: "00:10:10,03"
-          text: ~
+          text: "Quindi anche tra i nemici, che indossavano le mostrine SS, c'erano alcuni che non erano bestie brutali."
         sequence-84:
           s: 84
           from: "00:10:10,03"
           to: "00:10:19,15"
-          text: ~
+          text: "C'erano quelli che furono trascinati dalla corrente dei tempi e uccisero semplicemente perché era così."

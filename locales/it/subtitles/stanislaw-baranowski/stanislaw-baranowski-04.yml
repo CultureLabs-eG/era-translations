@@ -2,18 +2,18 @@ it:
   stanislaw-baranowski:
     chapter-4:
       c: 4
-      title: ~
+      title: "Aiutando gli ebrei nel ghetto di Varsavia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,12"
           to: "00:00:06,04"
-          text: ~
+          text: "A un certo punto, per avere un contatto con il ghetto,"
         sequence-2:
           s: 2
           from: "00:00:06,04"
           to: "00:00:16,05"
-          text: ~
+          text: "ottenni dall'Amministrazione Controllata per i beni immobiliari degli ebrei a Varsavia un lasciapassare."
         sequence-3:
           s: 3
           from: "00:00:16,05"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:17,00"
           to: "00:00:21,26"
-          text: ~
+          text: "Era stato l'avvocato Jarczyk. Si trovava in via Królewska, 6."
         sequence-5:
           s: 5
           from: "00:00:21,26"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:23,01"
           to: "00:00:35,04"
-          text: ~
+          text: "Ebbi da lui questo lasciapassare e con quello potevo entrare nel ghetto."
         sequence-7:
           s: 7
           from: "00:00:35,04"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:36,00"
           to: "00:00:41,22"
-          text: ~
+          text: "Aiutavo a organizzare il trasporto del cibo."
         sequence-9:
           s: 9
           from: "00:00:41,22"
           to: "00:00:50,28"
-          text: ~
+          text: "Il ghetto aveva dei cancelli, che erano sorvegliati dai tedeschi."
         sequence-10:
           s: 10
           from: "00:00:50,28"
@@ -58,52 +58,52 @@ it:
           s: 11
           from: "00:00:51,24"
           to: "00:01:02,04"
-          text: ~
+          text: "E lì gli ebrei si mettevano d'accordo con i tedeschi. Non so quanto gli pagassero."
         sequence-12:
           s: 12
           from: "00:01:02,04"
           to: "00:01:09,13"
-          text: ~
+          text: "I tedeschi lasciavano entrare il carro con i viveri"
         sequence-13:
           s: 13
           from: "00:01:09,13"
           to: "00:01:30,00"
-          text: ~
+          text: "e lo scortavano persino verso la destinazione, perché la polizia ebraica era peggio della Gestapo."
         sequence-14:
           s: 14
           from: "00:01:30,00"
           to: "00:01:34,20"
-          text: ~
+          text: "Quindi un tedesco scortava il carro verso il luogo in cui doveva essere scaricato."
         sequence-15:
           s: 15
           from: "00:01:34,20"
           to: "00:01:39,00"
-          text: ~
+          text: "Chiaramente in cambio di mazzette. Si lasciavano corrompere in un modo o nell'altro."
         sequence-16:
           s: 16
           from: "00:01:39,00"
           to: "00:01:47,14"
-          text: ~
+          text: "Conobbi persone che avevano il diritto di entrare nel ghetto e che consegnavano legna da ardere."
         sequence-17:
           s: 17
           from: "00:01:47,14"
           to: "00:01:56,06"
-          text: ~
+          text: "Janek M.– non voglio dire il suo cognome – consegnava al ghetto la legna da ardere."
         sequence-18:
           s: 18
           from: "00:01:56,06"
           to: "00:02:02,20"
-          text: ~
+          text: "Carbone, legna."
         sequence-19:
           s: 19
           from: "00:02:02,20"
           to: "00:02:08,16"
-          text: ~
+          text: "Lui aveva una grande ditta di cavalli, perché non c'erano macchine all'epoca."
         sequence-20:
           s: 20
           from: "00:02:08,16"
           to: "00:02:13,16"
-          text: ~
+          text: "E sotto ogni carico di carbone o legna c'era nascosto il cibo."
         sequence-21:
           s: 21
           from: "00:02:13,16"
@@ -113,17 +113,17 @@ it:
           s: 22
           from: "00:02:14,27"
           to: "00:02:18,08"
-          text: ~
+          text: "E se lo avessero beccato perché aiutava gli ebrei..."
         sequence-23:
           s: 23
           from: "00:02:18,08"
           to: "00:02:20,28"
-          text: ~
+          text: "E come facevamo a portare fuori gli ebrei?"
         sequence-24:
           s: 24
           from: "00:02:20,28"
           to: "00:02:32,00"
-          text: ~
+          text: "Se si andava di notte, li si portava in quei nascondigli."
         sequence-25:
           s: 25
           from: "00:02:32,00"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:02:32,26"
           to: "00:02:49,23"
-          text: ~
+          text: "Tutto era possibile in cambio di grandi somme di denaro."
         sequence-27:
           s: 27
           from: "00:02:49,23"
           to: "00:02:56,07"
-          text: ~
+          text: "Quegli eberi delle fabbriche di Łódź, o i banchieri,"
         sequence-28:
           s: 28
           from: "00:02:56,07"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:57,21"
           to: "00:03:08,07"
-          text: ~
+          text: "trattavano con i tedeschi perché il 70% dei tedeschi si lasciavano corrompere."
         sequence-30:
           s: 30
           from: "00:03:08,07"
@@ -158,12 +158,12 @@ it:
           s: 31
           from: "00:03:11,13"
           to: "00:03:17,09"
-          text: ~
+          text: "I tedeschi spesso li portavano fuori in macchina… guidavano la loro auto"
         sequence-32:
           s: 32
           from: "00:03:17,09"
           to: "00:03:26,03"
-          text: ~
+          text: "e dietro c'era una macchina, la macchina della Gestapo, e loro li trasportavano, in modo che per strada nessuno potesse fermarli."
         sequence-33:
           s: 33
           from: "00:03:26,03"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:03:27,15"
           to: "00:03:38,10"
-          text: ~
+          text: "Sì, c'erano modi diversi per organizzare tutto questo."
         sequence-35:
           s: 35
           from: "00:03:38,10"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:03:41,15"
           to: "00:03:46,20"
-          text: ~
+          text: "Ma nessuno lo faceva gratis. Dobbiamo dirlo."
         sequence-37:
           s: 37
           from: "00:03:46,20"
@@ -193,22 +193,22 @@ it:
           s: 38
           from: "00:03:47,00"
           to: "00:03:48,26"
-          text: ~
+          text: "I bambini."
         sequence-39:
           s: 39
           from: "00:03:48,26"
           to: "00:03:54,29"
-          text: ~
+          text: "Con le ragazze non c'erano problemi, ma i ragazzi, se erano circoncisi, era un problema."
         sequence-40:
           s: 40
           from: "00:03:54,29"
           to: "00:03:59,03"
-          text: ~
+          text: "Per prima cosa bisognava andare nei villaggi,"
         sequence-41:
           s: 41
           from: "00:03:59,03"
           to: "00:04:04,07"
-          text: ~
+          text: "per procurarsi da qualche prete un certificato di nascita."
         sequence-42:
           s: 42
           from: "00:04:04,07"
@@ -218,52 +218,52 @@ it:
           s: 43
           from: "00:04:05,07"
           to: "00:04:14,06"
-          text: ~
+          text: "Andavamo in provincia, intorno a Varsavia, da qualche parte come Góra Kalwaria o Grójec."
         sequence-44:
           s: 44
           from: "00:04:14,06"
           to: "00:04:20,08"
-          text: ~
+          text: "Lì rilasciavano i certificati di nascita."
         sequence-45:
           s: 45
           from: "00:04:20,08"
           to: "00:04:26,13"
-          text: ~
+          text: "Si facevano i documenti e a qual punto era possibile portare fuori senza problemi o un ragazzo o..."
         sequence-46:
           s: 46
           from: "00:04:26,13"
           to: "00:04:37,19"
-          text: ~
+          text: "Molti bambini, maschi, portati fuori dal ghetto, andavano nei conventi."
         sequence-47:
           s: 47
           from: "00:04:37,19"
           to: "00:04:40,04"
-          text: ~
+          text: "I conventi aiutavano molto."
         sequence-48:
           s: 48
           from: "00:04:40,04"
           to: "00:04:52,26"
-          text: ~
+          text: "Tutti conventi intorno a Varsavia; io conosco dieci o quindici casi, perché in parte ero coinvolto in prima persona."
         sequence-49:
           s: 49
           from: "00:04:52,26"
           to: "00:04:59,20"
-          text: ~
+          text: "Gli procuravo i documenti o consegnavo i certificati di nascita, oppure portavo qualcuno al convento."
         sequence-50:
           s: 50
           from: "00:04:59,20"
           to: "00:05:02,22"
-          text: ~
+          text: "Ma non è che portavo il bambino direttamente in convento, no."
         sequence-51:
           s: 51
           from: "00:05:02,22"
           to: "00:05:07,13"
-          text: ~
+          text: "Lo portavo, diciamo, fino a Karczew e lì,"
         sequence-52:
           s: 52
           from: "00:05:07,13"
           to: "00:05:16,00"
-          text: ~
+          text: "a Karczew, lo affidavo a qualcun altro e quel qualcuno lo doveva portare fino al convento."
         sequence-53:
           s: 53
           from: "00:05:16,00"
@@ -273,12 +273,12 @@ it:
           s: 54
           from: "00:05:17,03"
           to: "00:05:19,14"
-          text: ~
+          text: "Ecco perché abbiamo così tanti preti…"
         sequence-55:
           s: 55
           from: "00:05:19,14"
           to: "00:05:22,27"
-          text: ~
+          text: "Se li guarda, si vede che sono ebrei."
         sequence-56:
           s: 56
           from: "00:05:22,27"
@@ -288,32 +288,32 @@ it:
           s: 57
           from: "00:05:23,16"
           to: "00:05:27,13"
-          text: ~
+          text: "Tutto questo costava."
         sequence-58:
           s: 58
           from: "00:05:27,13"
           to: "00:05:41,15"
-          text: ~
+          text: "Quando si andava da un prete così, bisognava larsciargli qualcosa sul vassoio, affinché rilasciasse quel certificato di nascita."
         sequence-59:
           s: 59
           from: "00:05:41,15"
           to: "00:05:43,22"
-          text: ~
+          text: "Perché correva dei rischi anche lui."
         sequence-60:
           s: 60
           from: "00:05:43,22"
           to: "00:05:50,17"
-          text: ~
+          text: "Se qualcuno avesse notato che era stato lui a fare questo certificato e che qualcuno era morto"
         sequence-61:
           s: 61
           from: "00:05:50,17"
           to: "00:05:56,00"
-          text: ~
+          text: "e che poi un altro certificato era stato fatto, perché doveva annullare i certificato di morte..."
         sequence-62:
           s: 62
           from: "00:05:56,00"
           to: "00:06:00,23"
-          text: ~
+          text: "Doveva cambiare tutto nei registri per assicurarsi che non ci fossero discrepanze."
         sequence-63:
           s: 63
           from: "00:06:00,23"
@@ -323,12 +323,12 @@ it:
           s: 64
           from: "00:06:02,00"
           to: "00:06:10,17"
-          text: ~
+          text: "C'era bisogno di tempo, dell'organizzazione, dei contatti... e dell'insolenza e della sfacciataggine."
         sequence-65:
           s: 65
           from: "00:06:10,17"
           to: "00:06:14,00"
-          text: ~
+          text: "Di tutti i pregi e i difetti che una persona possa avere."
         sequence-66:
           s: 66
           from: "00:06:14,00"
@@ -338,12 +338,12 @@ it:
           s: 67
           from: "00:06:15,00"
           to: "00:06:19,19"
-          text: ~
+          text: "Perché per avere dal prete un certificato di nascita, bisognava pagarlo."
         sequence-68:
           s: 68
           from: "00:06:19,19"
           to: "00:06:26,21"
-          text: ~
+          text: "Successivamente, per fare la \"Kennkarte\", il prezzo medio era fino a mille zloty o di più."
         sequence-69:
           s: 69
           from: "00:06:26,21"
@@ -353,7 +353,7 @@ it:
           s: 70
           from: "00:06:28,13"
           to: "00:06:37,20"
-          text: ~
+          text: "Poi le foto, trovare un fotografo. Il tutto doveva essere organizzato alla perfezione."
         sequence-71:
           s: 71
           from: "00:06:37,20"
@@ -363,12 +363,12 @@ it:
           s: 72
           from: "00:06:38,20"
           to: "00:06:41,28"
-          text: ~
+          text: "Erano tante le differenze."
         sequence-73:
           s: 73
           from: "00:06:41,28"
           to: "00:06:49,17"
-          text: ~
+          text: "Qui non c'erano persone affamate e nude sdraiate lungo la strada, o i cadaveri, mentre lì sì."
         sequence-74:
           s: 74
           from: "00:06:49,17"
@@ -378,12 +378,12 @@ it:
           s: 75
           from: "00:06:50,18"
           to: "00:06:53,17"
-          text: ~
+          text: "E in seguito c'era questo contrasto assurdo."
         sequence-76:
           s: 76
           from: "00:06:53,17"
           to: "00:07:01,17"
-          text: ~
+          text: "Se le dico che nel ghetto era possibile procurarsi delle banane, mentre a Varsavia questo era impensabile, mi crede?"
         sequence-77:
           s: 77
           from: "00:07:01,17"
@@ -393,7 +393,7 @@ it:
           s: 78
           from: "00:07:06,01"
           to: "00:07:33,24"
-          text: ~
+          text: "C'era un ristorante ebraico nel ghetto, nel '42, dove era possibile trovare di tutto."
         sequence-79:
           s: 79
           from: "00:07:33,24"
@@ -403,27 +403,27 @@ it:
           s: 80
           from: "00:07:34,22"
           to: "00:07:37,24"
-          text: ~
+          text: "Cose che non si trovavano neanche nella parte ariana…"
         sequence-81:
           s: 81
           from: "00:07:37,24"
           to: "00:07:44,22"
-          text: ~
+          text: "Mentre fuori, per strada – solo cadaveri, corpi nudi…"
         sequence-82:
           s: 82
           from: "00:07:44,22"
           to: "00:07:50,22"
-          text: ~
+          text: "E la polizia… Quando entravo nel ghetto, avevo paura solo della polizia ebraica. Nessun altro."
         sequence-83:
           s: 83
           from: "00:07:50,22"
           to: "00:07:56,09"
-          text: ~
+          text: "Perché nel ghetto non ho mai visto i tedeschi sparare agli ebrei."
         sequence-84:
           s: 84
           from: "00:07:56,09"
           to: "00:08:03,09"
-          text: ~
+          text: "Mentre vidi con i propri occhi come la polizia ebraica uccideva gli ebrei."
         sequence-85:
           s: 85
           from: "00:08:03,09"
@@ -433,12 +433,12 @@ it:
           s: 86
           from: "00:08:13,02"
           to: "00:08:17,03"
-          text: ~
+          text: "All'epoca non li capivo."
         sequence-87:
           s: 87
           from: "00:08:17,03"
           to: "00:08:20,05"
-          text: ~
+          text: "Solo a Majdanek capì a cosa era dovuto."
         sequence-88:
           s: 88
           from: "00:08:20,05"
@@ -448,7 +448,7 @@ it:
           s: 89
           from: "00:08:21,00"
           to: "00:08:28,16"
-          text: ~
+          text: "Quel gruppo di persone, quelli che gestivano il ghetto, volevano sopravvivere a tutti i costi."
         sequence-90:
           s: 90
           from: "00:08:28,16"
@@ -458,19 +458,19 @@ it:
           s: 91
           from: "00:08:29,10"
           to: "00:08:37,08"
-          text: ~
+          text: "Del resto, non erano i tedeschi quelli che formavano colonne di ebrei da mandare all'Umschlagplatz."
         sequence-92:
           s: 92
           from: "00:08:37,08"
           to: "00:08:41,11"
-          text: ~
+          text: "Lo facevano gli ebrei, quei poliziotti ebrei."
         sequence-93:
           s: 93
           from: "00:08:41,11"
           to: "00:08:45,10"
-          text: ~
+          text: "Gli era stato detto che dovevano far arrivare alla rampa quattrocento ebrei,"
         sequence-94:
           s: 94
           from: "00:08:45,10"
           to: "00:08:49,00"
-          text: ~
+          text: "e loro portarono per il trasporto quattrocento ebrei."

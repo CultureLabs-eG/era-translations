@@ -2,48 +2,48 @@ it:
   carlo-porta:
     chapter-3:
       c: 3
-      title: ~
+      title: "Arresto durante servizio militare"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,13"
           to: "00:00:04,24"
-          text: ~
+          text: "Allora c’era una regola da rispettare,"
         sequence-2:
           s: 2
           from: "00:00:04,24"
           to: "00:00:09,10"
-          text: ~
+          text: "chi lavorava alle Reggiane, siccome lì si fabbricavano gli aeroplani"
         sequence-3:
           s: 3
           from: "00:00:09,10"
           to: "00:00:21,27"
-          text: ~
+          text: "(ce n’è uno ancora, se lo vuoi andare a vedere, all’aeroporto di Reggio è lì coperto, quello lì era uno di quelli che si faceva alle Reggiane):"
         sequence-4:
           s: 4
           from: "00:00:21,27"
           to: "00:00:30,27"
-          text: ~
+          text: "i giovani dipendenti delle Reggiane che andavano a militare avevano il diritto di andare in aviazione,"
         sequence-5:
           s: 5
           from: "00:00:30,27"
           to: "00:00:39,27"
-          text: ~
+          text: "invece i dipendenti della Lombardini Motori che facevano i motori per le navi, andavano in marina."
         sequence-6:
           s: 6
           from: "00:00:39,27"
           to: "00:00:50,22"
-          text: ~
+          text: "Io sono andato militare, dopo da Bologna diamo andati a Orvieto, ho completato il CAR;"
         sequence-7:
           s: 7
           from: "00:00:50,22"
           to: "00:00:56,05"
-          text: ~
+          text: "finito il CAR ci hanno trasferito, io sono andato in un aeroporto"
         sequence-8:
           s: 8
           from: "00:00:56,05"
           to: "00:01:04,24"
-          text: ~
+          text: "in Roma, in un paesino che era una frazione di Roma che si chiama e si chiama tuttora Furbara:"
         sequence-9:
           s: 9
           from: "00:01:04,24"
@@ -53,92 +53,92 @@ it:
           s: 10
           from: "00:01:08,18"
           to: "00:01:16,18"
-          text: ~
+          text: "qui viene il bello, noi da lì i vari reparti andavano a far la guardia a Roma,"
         sequence-11:
           s: 11
           from: "00:01:16,18"
           to: "00:01:22,21"
-          text: ~
+          text: "allora siamo andati a far la guardia a Palazzo Venezia."
         sequence-12:
           s: 12
           from: "00:01:22,21"
           to: "00:01:31,11"
-          text: ~
+          text: "Durante la settimana una notte ci andavano gli aviatori,"
         sequence-13:
           s: 13
           from: "00:01:31,11"
           to: "00:01:38,01"
-          text: ~
+          text: "una sera gli artiglieri, cioè erano scaglionati così."
         sequence-14:
           s: 14
           from: "00:01:38,01"
           to: "00:01:47,11"
-          text: ~
+          text: "Siamo andati di guardia, mi ricordo che c’era un tenente nuovo che quando è venuto a prenderci al mattino alle 8 con un furgoncino"
         sequence-15:
           s: 15
           from: "00:01:47,11"
           to: "00:01:53,23"
-          text: ~
+          text: "ha detto “adesso giriamo un po’ per Roma perché io non l’ho mai vista”. "
         sequence-16:
           s: 16
           from: "00:01:53,23"
           to: "00:02:02,05"
-          text: ~
+          text: "Vado dentro all’aeroporto e c’è la posta, e mi danno la posta anche a me,"
         sequence-17:
           s: 17
           from: "00:02:02,05"
           to: "00:02:08,17"
-          text: ~
+          text: "vado nella mia camerata e mentre aprivo una lettera viene il mio tenente,"
         sequence-18:
           s: 18
           from: "00:02:08,17"
           to: "00:02:16,27"
-          text: ~
+          text: "un certo Santaroni di Ancona, bravissima persona perché mi ha abbracciato dopo quella storia lì"
         sequence-19:
           s: 19
           from: "00:02:16,27"
           to: "00:02:23,14"
-          text: ~
+          text: "e mi ha detto “questi signori hanno bisogno di te”"
         sequence-20:
           s: 20
           from: "00:02:23,14"
           to: "00:02:26,28"
-          text: ~
+          text: "ed erano tre della polizia."
         sequence-21:
           s: 21
           from: "00:02:26,28"
           to: "00:02:33,18"
-          text: ~
+          text: "Il maresciallo per prima cosa ha preso la lettera che avevo in mano,"
         sequence-22:
           s: 22
           from: "00:02:33,18"
           to: "00:02:38,23"
-          text: ~
+          text: "e in questa lettera mia mamma mi spiegava questa parole"
         sequence-23:
           s: 23
           from: "00:02:38,23"
           to: "00:02:50,09"
-          text: ~
+          text: "“sei fortunato te che sei militare perché in questi giorni hanno messo dentro Pattaccini, Boiardi,ecc.”"
         sequence-24:
           s: 24
           from: "00:02:50,09"
           to: "00:02:55,01"
-          text: ~
+          text: "cioè cinque o sei persone con cui lavoravo sempre insieme in quelle cose lì."
         sequence-25:
           s: 25
           from: "00:02:55,01"
           to: "00:03:02,10"
-          text: ~
+          text: "Lei poveretta mi ha detto queste cose spassionatamente proprio perché mi trovavo a Roma, e invece mi hanno beccato là."
         sequence-26:
           s: 26
           from: "00:03:02,10"
           to: "00:03:09,15"
-          text: ~
+          text: "Di quella lettera lì non sono mai più rientrato in possesso e sempre dove andavo c’era quella lettera lì:"
         sequence-27:
           s: 27
           from: "00:03:09,15"
           to: "00:03:20,28"
-          text: ~
+          text: "si aveva tutti l’abitudine di negare che tu questo non lo conoscevi, mentre io non avevo niente da dire perché lì c’erano scritti i nomi."
         sequence-28:
           s: 28
           from: "00:03:20,28"
@@ -148,97 +148,97 @@ it:
           s: 29
           from: "00:03:22,08"
           to: "00:03:26,16"
-          text: ~
+          text: "Un bel mattino partiamo alla stazione,"
         sequence-30:
           s: 30
           from: "00:03:26,16"
           to: "00:03:30,11"
-          text: ~
+          text: "a me avevano già tolto tutti i gradi,"
         sequence-31:
           s: 31
           from: "00:03:30,11"
           to: "00:03:38,23"
-          text: ~
+          text: "mi avevano tolto tutto poi avevo anche un po’ la barba lunga, ero un po’ malmesso."
         sequence-32:
           s: 32
           from: "00:03:38,23"
           to: "00:03:46,20"
-          text: ~
+          text: "Si parte e durante il percorso, la gente era curiosa:"
         sequence-33:
           s: 33
           from: "00:03:46,20"
           to: "00:03:54,00"
-          text: ~
+          text: "in quel momento non è che ci fosse disponibilità su un vagone, in altri casi lo facevano"
         sequence-34:
           s: 34
           from: "00:03:54,00"
           to: "00:04:03,19"
-          text: ~
+          text: "ad esempio quando sono andato al confino, che eravamo in diciotto avevamo un carro per noi, si stava tutti lì e non c’era nessuno."
         sequence-35:
           s: 35
           from: "00:04:03,19"
           to: "00:04:10,09"
-          text: ~
+          text: "Lì la gente ha cominciato a chiedere “cos’hai fatto?”"
         sequence-36:
           s: 36
           from: "00:04:10,09"
           to: "00:04:16,13"
-          text: ~
+          text: "e io ci tenevo anche a farmelo chiedere,"
         sequence-37:
           s: 37
           from: "00:04:16,13"
           to: "00:04:22,02"
-          text: ~
+          text: "così sono diventato popolare su quella carrozza, tutti mi davano qualcosa,"
         sequence-38:
           s: 38
           from: "00:04:22,02"
           to: "00:04:29,08"
-          text: ~
+          text: "da fumare… ; i carabinieri non sapevano cosa dire,"
         sequence-39:
           s: 39
           from: "00:04:29,08"
           to: "00:04:33,13"
-          text: ~
+          text: "sai non puoi mica andare a dire se uno ti offre una sigaretta,"
         sequence-40:
           s: 40
           from: "00:04:33,13"
           to: "00:04:38,29"
-          text: ~
+          text: "sono cose che se hai un mezzo per nasconderlo va bene se no così non puoi mica."
         sequence-41:
           s: 41
           from: "00:04:38,29"
           to: "00:04:44,21"
-          text: ~
+          text: "Solo che a Firenze poi i carabinieri hanno deciso di scendere,"
         sequence-42:
           s: 42
           from: "00:04:44,21"
           to: "00:04:53,26"
-          text: ~
+          text: "il perché l’ho capito dopo, perché hanno interrotto la comunicazione che avevo con questa gente e nell’altro treno"
         sequence-43:
           s: 43
           from: "00:04:53,26"
           to: "00:05:00,28"
-          text: ~
+          text: "che abbiamo preso c’è stata meno confusione dopo, Bologna-Reggio Emilia."
         sequence-44:
           s: 44
           from: "00:05:00,28"
           to: "00:05:07,25"
-          text: ~
+          text: "A Reggio Emilia mi portano subito in Questura,"
         sequence-45:
           s: 45
           from: "00:05:07,25"
           to: "00:05:14,27"
-          text: ~
+          text: "e là comincia la storia di questo, quello, quest’altro, però io avevo sempre il dramma di questa lettera,"
         sequence-46:
           s: 46
           from: "00:05:14,27"
           to: "00:05:20,00"
-          text: ~
+          text: "io certe cose non le dicevo neanche perché le avrei dette per niente,"
         sequence-47:
           s: 47
           from: "00:05:20,00"
           to: "00:05:30,21"
-          text: ~
+          text: "quando Pagliarello ti chiedeva una cosa aveva la lettera in mano non sapevi cosa rispondere."
         sequence-48:
           s: 48
           from: "00:05:30,21"
@@ -248,134 +248,134 @@ it:
           s: 49
           from: "00:05:33,11"
           to: "00:05:42,07"
-          text: ~
+          text: "In Questura ho avuto una cosa non bella perché avevo le manette,"
         sequence-50:
           s: 50
           from: "00:05:42,07"
           to: "00:05:48,09"
-          text: ~
+          text: "ho visto con la coda dell’occhio che lui da dietro cercava di fare il furbo,"
         sequence-51:
           s: 51
           from: "00:05:48,09"
           to: "00:05:59,16"
-          text: ~
+          text: "io mi sono riparato e lui ha picchiato con la mano sulle manette, allora si è arrabbiato e mi ha dato due o tre sberlotti."
         sequence-52:
           s: 52
           from: "00:05:59,16"
           to: "00:06:03,26"
-          text: ~
+          text: "Noi eravamo in coda,"
         sequence-53:
           s: 53
           from: "00:06:03,26"
           to: "00:06:08,00"
-          text: ~
+          text: "perché quello che ha fatto il mio nome, un certo Montermini che faceva il fornaio"
         sequence-54:
           s: 54
           from: "00:06:08,00"
           to: "00:06:14,00"
-          text: ~
+          text: "si è beccato quindici anni al tribunale speciale e ne ha fatti un bel po’,"
         sequence-55:
           s: 55
           from: "00:06:14,00"
           to: "00:06:23,28"
-          text: ~
+          text: "quindi noi eravamo gli ultimi e infatti le nostre condanne, io ho fatto quattro anni di confino."
         sequence-56:
           s: 56
           from: "00:06:23,28"
           to: "00:06:28,14"
-          text: ~
+          text: "Non ti difendeva nessuno, ti difendevi te come potevi"
         sequence-57:
           s: 57
           from: "00:06:28,14"
           to: "00:06:35,10"
-          text: ~
+          text: "però quando entravi nel movimento non c’era niente da difendere, noi lo sapevamo anche prima"
         sequence-58:
           s: 58
           from: "00:06:35,10"
           to: "00:06:43,00"
-          text: ~
+          text: "che se ti scoprivano ti beccavi qualcosa, un paio d’anni li dovevi pur fare,"
         sequence-59:
           s: 59
           from: "00:06:43,00"
           to: "00:06:46,26"
-          text: ~
+          text: "eravamo avvertiti di quella cosa lì."
         sequence-60:
           s: 60
           from: "00:06:46,26"
           to: "00:06:52,07"
-          text: ~
+          text: "Sono stato due mesi in carcere a San Tommaso a Reggio,"
         sequence-61:
           s: 61
           from: "00:06:52,07"
           to: "00:06:58,18"
-          text: ~
+          text: "poi a un bel momento hanno dovuto mandarci via perché hanno cominciato con degli arresti nuovi;"
         sequence-62:
           s: 62
           from: "00:06:58,18"
           to: "00:07:07,26"
-          text: ~
+          text: "eravamo 18-19, tutti ammanettati con una catena unica"
         sequence-63:
           s: 63
           from: "00:07:07,26"
           to: "00:07:16,04"
-          text: ~
+          text: "e quando siamo arrivati, a parte che i familiari erano stati avvertiti,"
         sequence-64:
           s: 64
           from: "00:07:16,04"
           to: "00:07:24,20"
-          text: ~
+          text: "qui alla stazione che eravamo tutti ammanettati c’erano anche dei familiari che piangevano a sua volta,"
         sequence-65:
           s: 65
           from: "00:07:24,20"
           to: "00:07:35,09"
-          text: ~
+          text: "e tu dovevi sacrificarti a ridere, a far finta di niente perché piangevano loro, se te gli davi una mano…"
         sequence-66:
           s: 66
           from: "00:07:35,09"
           to: "00:07:42,16"
-          text: ~
+          text: "Arriviamo a Castelfranco, il maresciallo, il capo delle guardie, è venuto il direttore e gli ha chiesto"
         sequence-67:
           s: 67
           from: "00:07:42,16"
           to: "00:07:50,24"
-          text: ~
+          text: "“dove li mettiamo questi qui?” perché era pieno anche là;"
         sequence-68:
           s: 68
           from: "00:07:50,24"
           to: "00:07:56,13"
-          text: ~
+          text: "ha chiesto “da dove vengono?” “da Reggio Emilia”"
         sequence-69:
           s: 69
           from: "00:07:56,13"
           to: "00:08:01,01"
-          text: ~
+          text: "e il direttore “se fosse per me li metterei tutti in un pozzo nero”."
         sequence-70:
           s: 70
           from: "00:08:01,01"
           to: "00:08:07,11"
-          text: ~
+          text: "E’ una cosa buona anche questa qui eh?"
         sequence-71:
           s: 71
           from: "00:08:07,11"
           to: "00:08:13,14"
-          text: ~
+          text: "Dopo ci hanno messi nelle celle di punizione noi che non entravamo per punizione,"
         sequence-72:
           s: 72
           from: "00:08:13,14"
           to: "00:08:20,20"
-          text: ~
+          text: "però visto che era pieno c’erano celle particolari per una o due persone"
         sequence-73:
           s: 73
           from: "00:08:20,20"
           to: "00:08:27,18"
-          text: ~
+          text: "che c’era la porta con un bollettino e basta e c’era una finestrina là per aria,"
         sequence-74:
           s: 74
           from: "00:08:27,18"
           to: "00:08:35,25"
-          text: ~
+          text: "lì non sentivi e non vedevi mai nessuno, la guardia quando passava a controllare."
         sequence-75:
           s: 75
           from: "00:08:35,25"
           to: "00:08:40,20"
-          text: ~
+          text: "Sono stato una ventina di giorni a Castelfranco."

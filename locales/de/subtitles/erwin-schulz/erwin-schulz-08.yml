@@ -108,7 +108,7 @@ de:
           s: 21
           from: "00:01:24,20"
           to: "00:01:28,19"
-          text: "\"Na, hast du das gut gemacht?\" Ich sage: \"Ich hoffe Herr Wachtmeister.\""
+          text: "\"Na, hast du das gut gemacht?\" Ich sage: \"Ich hoffe, Herr Wachtmeister.\""
         sequence-22:
           s: 22
           from: "00:01:28,19"

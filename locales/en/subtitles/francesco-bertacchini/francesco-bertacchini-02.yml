@@ -1,0 +1,61 @@
+en:
+  francesco-bertacchini:
+    chapter-2:
+      c: 2
+      title: Ceasefire
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:00,03"
+          to: "00:00:05,13"
+          text: "As for the ceasefire, I remember"
+        sequence-2:
+          s: 2
+          from: "00:00:05,14"
+          to: "00:00:08,19"
+          text: "that there was this little wall in front of our house"
+        sequence-3:
+          s: 3
+          from: "00:00:08,20"
+          to: "00:00:14,23"
+          text: "next to the road where we always stopped for a chat."
+        sequence-4:
+          s: 4
+          from: "00:00:14,24"
+          to: "00:00:22,16"
+          text: "I remember that as they announced these news around 5 p.m.,"
+        sequence-5:
+          s: 5
+          from: "00:00:22,17"
+          to: "00:00:32,12"
+          text: "the news that the war was over, my sister screamed at me:"
+        sequence-6:
+          s: 6
+          from: "00:00:32,13"
+          to: "00:00:40,05"
+          text: "\"Hey, Francesco, they said on the radio that the war is over"
+        sequence-7:
+          s: 7
+          from: "00:00:40,06"
+          to: "00:00:46,23"
+          text: "but now there will be discussions with the Germans ...\""
+        sequence-8:
+          s: 8
+          from: "00:00:46,24"
+          to: "00:00:53,03"
+          text: "So I went upstairs because in our house I was the only one in possession of a radio,"
+        sequence-9:
+          s: 9
+          from: "00:00:53,04"
+          to: "00:01:03,02"
+          text: "so I went to listen. They said something"
+        sequence-10:
+          s: 10
+          from: "00:01:03,03"
+          to: "00:01:09,13"
+          text: "about the cease-fire with the Americans so the war-thing was expected to be over,"
+        sequence-11:
+          s: 11
+          from: "00:01:09,14"
+          to: "00:01:13,10"
+          text: "but it was starting right in that moment instead, especially for us."

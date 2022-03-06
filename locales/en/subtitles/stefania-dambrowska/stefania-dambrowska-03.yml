@@ -8,7 +8,7 @@ en:
           s: 1
           from: "00:00:00,16"
           to: "00:00:04,20"
-          text: "I was walking a few kilometers towards Wilia."
+          text: "I was walking many kilometrers along the river Neris, which flowed a few kilometers from us."
         sequence-2:
           s: 2
           from: "00:00:04,20"
@@ -38,7 +38,7 @@ en:
           s: 7
           from: "00:01:04,17"
           to: "00:01:16,14"
-          text: "First, we could see explosions, there were lights so that we could see at night,"
+          text: "First, we could see explosions, there were lights so that they could see at night where to bomb"
         sequence-8:
           s: 8
           from: "00:01:16,14"
@@ -83,7 +83,7 @@ en:
           s: 16
           from: "00:02:08,13"
           to: "00:02:14,21"
-          text: "One beautiful day I was by the river Wilia,"
+          text: "One beautiful day I was by the river Neris,"
         sequence-17:
           s: 17
           from: "00:02:14,21"
@@ -133,7 +133,7 @@ en:
           s: 26
           from: "00:03:21,03"
           to: "00:03:31,22"
-          text: "Agriculture buildings, where the workers lived."
+          text: "Agriculture buildings, where the workers lived, were far away."
         sequence-27:
           s: 27
           from: "00:03:31,22"
@@ -173,7 +173,7 @@ en:
           s: 34
           from: "00:04:24,05"
           to: "00:04:28,00"
-          text: "She asked if they could live at my place?"
+          text: "She asked if they could live at my place."
         sequence-35:
           s: 35
           from: "00:04:28,00"

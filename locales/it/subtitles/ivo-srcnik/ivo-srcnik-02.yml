@@ -2,18 +2,18 @@ it:
   ivo-srcnik:
     chapter-2:
       c: 2
-      title: ~
+      title: "Mobilitazione nella Wehrmacht"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,28"
           to: "00:00:11,15"
-          text: ~
+          text: "Ci reclutarono mentre servivamo nell'Arbeitsdienst."
         sequence-2:
           s: 2
           from: "00:00:11,15"
           to: "00:00:16,11"
-          text: ~
+          text: "Fui assegnato alla fanteria tedesca."
         sequence-3:
           s: 3
           from: "00:00:16,11"
@@ -23,17 +23,17 @@ it:
           s: 4
           from: "00:00:17,15"
           to: "00:00:31,12"
-          text: ~
+          text: "Quando tornai a casa nel Dicembre 1942, fui reclutato nell'esercito tedesco, mobilitato con la forza."
         sequence-5:
           s: 5
           from: "00:00:31,12"
           to: "00:00:44,18"
-          text: ~
+          text: "All'epoca ero un ragazzo di 18 anni e non avevo idea di cosa fosse l'esercito o cosa fosse un'arma."
         sequence-6:
           s: 6
           from: "00:00:44,18"
           to: "00:00:54,24"
-          text: ~
+          text: "Sono arrivato nell'esercito tedesco a Brno nella Repubblica Ceca; si chiamava Brünn in tedesco."
         sequence-7:
           s: 7
           from: "00:00:54,24"
@@ -43,17 +43,17 @@ it:
           s: 8
           from: "00:00:56,07"
           to: "00:01:04,22"
-          text: ~
+          text: "Sono stato nell'esercito in Dicembre 1942 e in Gennaio e in Febraio."
         sequence-9:
           s: 9
           from: "00:01:04,22"
           to: "00:01:12,06"
-          text: ~
+          text: "Avevamo quella che in tedesco chiamano Ausbildung, una formazione per l'uso di armi tedesche."
         sequence-10:
           s: 10
           from: "00:01:12,06"
           to: "00:01:30,07"
-          text: ~
+          text: "Ci fu dato un incarico di cui non sapevo nulla: combattere contro i soldati Russi."
         sequence-11:
           s: 11
           from: "00:01:30,07"
@@ -63,14 +63,14 @@ it:
           s: 12
           from: "00:01:33,19"
           to: "00:01:43,06"
-          text: ~
+          text: "Siamo stati inviati nel febbraio 1943, la Germania era in sofferenza"
         sequence-13:
           s: 13
           from: "00:01:43,06"
           to: "00:01:54,00"
-          text: ~
+          text: "dai tempi duri causati dalle truppe Sovietiche che annientarono le truppe tedesche a Stalingrado,"
         sequence-14:
           s: 14
           from: "00:01:54,00"
           to: "00:02:00,21"
-          text: ~
+          text: "a Leningrado e fummo mandati sul fronte Orientale."

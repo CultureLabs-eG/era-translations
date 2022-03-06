@@ -2,53 +2,53 @@ it:
   stefania-dambrowska:
     chapter-4:
       c: 4
-      title: ~
+      title: "Il rifugio per la coppia ebreo-polacca; la situazione economica"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,28"
           to: "00:00:06,14"
-          text: ~
+          text: "Un paio di giorni dopo i signori Zambrowicz, arrivò un'altra famiglia ancora."
         sequence-2:
           s: 2
           from: "00:00:06,14"
           to: "00:00:29,03"
-          text: ~
+          text: "La signora, di origini ebraiche, era un'amica della moglie di mio zio."
         sequence-3:
           s: 3
           from: "00:00:29,03"
           to: "00:00:36,25"
-          text: ~
+          text: "Durante la Prima Guerra Mondiale era nella Organizzazione Militare Polacca (POW), era stata battezzata ed era una fervente cattolica,"
         sequence-4:
           s: 4
           from: "00:00:36,25"
           to: "00:00:43,04"
-          text: ~
+          text: "ma tutte le persone di Orwidów sapevano che era di origini ebraiche."
         sequence-5:
           s: 5
           from: "00:00:43,04"
           to: "00:00:50,16"
-          text: ~
+          text: "Veniva tutte le estati a far visita alla sua amica, cioè alla moglie di mio zio."
         sequence-6:
           s: 6
           from: "00:00:50,16"
           to: "00:00:53,17"
-          text: ~
+          text: "Il signore invece era ariano."
         sequence-7:
           s: 7
           from: "00:00:53,17"
           to: "00:01:05,04"
-          text: ~
+          text: "Dissero che volevano sapere come stava mia zia."
         sequence-8:
           s: 8
           from: "00:01:05,04"
           to: "00:01:09,01"
-          text: ~
+          text: "Pensavano che mia zia fosse lì, non sapevano che fosse stata deportata."
         sequence-9:
           s: 9
           from: "00:01:09,01"
           to: "00:01:13,17"
-          text: ~
+          text: "Quando lo scoprirono, decisero di tornare a Varsavia."
         sequence-10:
           s: 10
           from: "00:01:13,17"
@@ -58,114 +58,114 @@ it:
           s: 11
           from: "00:01:17,09"
           to: "00:01:21,01"
-          text: ~
+          text: "Per me invece era importante che rimanessero ma avrei messo in pericolo gli altri."
         sequence-12:
           s: 12
           from: "00:01:21,01"
           to: "00:01:30,09"
-          text: ~
+          text: "Così invitai tutti i lavoratori sulla veranda e gli dissi: \"Sentite,"
         sequence-13:
           s: 13
           from: "00:01:30,09"
           to: "00:01:39,24"
-          text: ~
+          text: "vorrei che questa famiglia restasse, ma non voglio decidere da sola perché sapete bene a quali pericoli andremmo incontro."
         sequence-14:
           s: 14
           from: "00:01:39,24"
           to: "00:01:47,13"
-          text: ~
+          text: "Quindi se nessuno parla, sarà un bene per questa famiglia e per tutti noi."
         sequence-15:
           s: 15
           from: "00:01:47,13"
           to: "00:01:50,03"
-          text: ~
+          text: "Se invece qualcuno parla, sarà un bastardo"
         sequence-16:
           s: 16
           from: "00:01:50,03"
           to: "00:01:56,21"
-          text: ~
+          text: "e forse si guadagnerà qualche merito per i tedeschi, ma ne soffriremo tutti noi."
         sequence-17:
           s: 17
           from: "00:01:56,21"
           to: "00:02:08,16"
-          text: ~
+          text: "Se invece qualcun altro farà la soffiata su questa cosa, saranno tutti gli abitanti di Orwidów a doverne rispondere."
         sequence-18:
           s: 18
           from: "00:02:08,16"
           to: "00:02:09,14"
-          text: ~
+          text: "Così rimasero."
         sequence-19:
           s: 19
           from: "00:02:09,14"
           to: "00:02:20,09"
-          text: ~
+          text: "C'erano stati alcuni momenti in cui dovevano lasciare Orwidów per qualche giorno perchè c'erano dei segnali di pericolo, ma fondamentalmente rimasero e dipendevano da noi."
         sequence-20:
           s: 20
           from: "00:02:20,09"
           to: "00:02:36,07"
-          text: ~
+          text: "Tutto era condiviso, mangiavamo insieme, tutto ciò che riuscivamo a raccogliere, tutti i soldi erano in comune."
         sequence-21:
           s: 21
           from: "00:02:36,07"
           to: "00:02:42,18"
-          text: ~
+          text: "Durante i temp dei tedeschi giravo per i villaggi e svendevo delle cose."
         sequence-22:
           s: 22
           from: "00:02:42,18"
           to: "00:02:51,02"
-          text: ~
+          text: "La casa era ben fornita e quindi vendevo dei piumoni, biancheria da letto, tovaglie ecc."
         sequence-23:
           s: 23
           from: "00:02:51,02"
           to: "00:03:00,00"
-          text: ~
+          text: "Bisognava venderlo per vivere in qualche modo."
         sequence-24:
           s: 24
           from: "00:03:00,00"
           to: "00:03:04,13"
-          text: ~
+          text: "La famiglia Zambrowicz si manteneva da sola, ma subbentrò quest'altra famiglia."
         sequence-25:
           s: 25
           from: "00:03:04,13"
           to: "00:03:12,06"
-          text: ~
+          text: "Io conoscevo Natka da molto tempo, sin dall'infanzia."
         sequence-26:
           s: 26
           from: "00:03:12,06"
           to: "00:03:27,06"
-          text: ~
+          text: "Stefan lavoricchiava un pochino, ma per il momento non aveva la più pallida idea di come si lavorasse in campagna."
         sequence-27:
           s: 27
           from: "00:03:27,06"
           to: "00:03:30,07"
-          text: ~
+          text: "Era un uomo di città, un giornalista,"
         sequence-28:
           s: 28
           from: "00:03:30,07"
           to: "00:03:36,01"
-          text: ~
+          text: "quindi non era pratico ma cercava di aiutare e fare qualcosa."
         sequence-29:
           s: 29
           from: "00:03:36,01"
           to: "00:03:39,29"
-          text: ~
+          text: "I guadagni non erano come durante i tempi dei sovietici,"
         sequence-30:
           s: 30
           from: "00:03:39,29"
           to: "00:03:53,29"
-          text: ~
+          text: "dovevamo fare qualsiasi cosa, caricare la legna per i tedeschi, offrire aiuto prestando il cavallo, la carrozza e un operaio."
         sequence-31:
           s: 31
           from: "00:03:53,29"
           to: "00:03:58,28"
-          text: ~
+          text: "Quindi non si guadagnava niente."
         sequence-32:
           s: 32
           from: "00:03:58,28"
           to: "00:04:04,15"
-          text: ~
+          text: "Dovevamo rubare la legna dal proprio bosco,"
         sequence-33:
           s: 33
           from: "00:04:04,15"
           to: "00:04:14,21"
-          text: ~
+          text: "tagliavamo degli alberi secchi e li portavamo a Vilnius per vendere e fare qualche soldo."

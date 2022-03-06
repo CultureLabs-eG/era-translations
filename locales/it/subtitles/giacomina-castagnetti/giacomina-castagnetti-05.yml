@@ -2,13 +2,13 @@ it:
   giacomina-castagnetti:
     chapter-5:
       c: 5
-      title: ~
+      title: "Adesione al Partito Comunista"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:02,07"
           to: "00:00:07,22"
-          text: ~
+          text: "La mia rabbia esplose particolarmente nel ’38,"
         sequence-2:
           s: 2
           from: "00:00:07,22"
@@ -18,32 +18,32 @@ it:
           s: 3
           from: "00:00:08,18"
           to: "00:00:12,05"
-          text: ~
+          text: "quando fu arrestato mio fratello."
         sequence-4:
           s: 4
           from: "00:00:12,05"
           to: "00:00:17,06"
-          text: ~
+          text: "Venne arrestato perché era sovversivo."
         sequence-5:
           s: 5
           from: "00:00:17,06"
           to: "00:00:23,25"
-          text: ~
+          text: "Venivano chiamati i sovversivi, cioè quelli che non la pensavano come la pensava il duce."
         sequence-6:
           s: 6
           from: "00:00:23,25"
           to: "00:00:31,22"
-          text: ~
+          text: "Questi sovversivi avevano fatto casa per casa, tra loro giovani, quindi la rete"
         sequence-7:
           s: 7
           from: "00:00:31,22"
           to: "00:00:37,14"
-          text: ~
+          text: "del Partito Comunista di allora si diffondeva sempre di più."
         sequence-8:
           s: 8
           from: "00:00:37,14"
           to: "00:00:44,14"
-          text: ~
+          text: "Cioè i capi erano già stati arrestati molto prima, mandati al confine."
         sequence-9:
           s: 9
           from: "00:00:44,14"
@@ -53,27 +53,27 @@ it:
           s: 10
           from: "00:00:47,03"
           to: "00:00:53,05"
-          text: ~
+          text: "Sembrava che non ci fosse più la testa che dirigesse,"
         sequence-11:
           s: 11
           from: "00:00:53,05"
           to: "00:00:57,20"
-          text: ~
+          text: "invece c’era una rete,"
         sequence-12:
           s: 12
           from: "00:00:57,20"
           to: "00:01:09,22"
-          text: ~
+          text: "se volete molto labile, molto sottile, però che si espandeva pian piano, sotto sotto e che veniva alimentata dai discorsi di questi giovani che tra di loro si facevano,"
         sequence-13:
           s: 13
           from: "00:01:09,22"
           to: "00:01:15,27"
-          text: ~
+          text: "quindi oggi erano due, domani erano tre perché trovavano"
         sequence-14:
           s: 14
           from: "00:01:15,27"
           to: "00:01:22,26"
-          text: ~
+          text: "veramente molta gente che oramai cominciava ad essere stanca del fascismo."
         sequence-15:
           s: 15
           from: "00:01:22,26"
@@ -83,17 +83,17 @@ it:
           s: 16
           from: "00:01:23,21"
           to: "00:01:27,08"
-          text: ~
+          text: "Nel ’39 mia mamma non ha retto a questa situazione"
         sequence-17:
           s: 17
           from: "00:01:27,08"
           to: "00:01:36,28"
-          text: ~
+          text: "perché la famosa contessa ci mandò una lettera dicendo"
         sequence-18:
           s: 18
           from: "00:01:36,28"
           to: "00:01:49,28"
-          text: ~
+          text: "che lei non poteva mantenere una famiglia antifascista."
         sequence-19:
           s: 19
           from: "00:01:49,28"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:50,20"
           to: "00:01:59,25"
-          text: ~
+          text: "Avevo 14 anni ed ero senza papà e senza mamma."
         sequence-21:
           s: 21
           from: "00:01:59,25"
@@ -113,17 +113,17 @@ it:
           s: 22
           from: "00:02:02,26"
           to: "00:02:09,11"
-          text: ~
+          text: "Poi dovemmo abbandonare tutto, gli amici, e tutto quello che c’era"
         sequence-23:
           s: 23
           from: "00:02:09,11"
           to: "00:02:14,15"
-          text: ~
+          text: "e ci siamo spostati e siamo andati a Gazzata di San Martino in Rio,"
         sequence-24:
           s: 24
           from: "00:02:14,15"
           to: "00:02:21,11"
-          text: ~
+          text: "e grazie che abbiamo trovato un padrone che ci ha dato un fondo da lavorare."
         sequence-25:
           s: 25
           from: "00:02:21,11"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:02:22,09"
           to: "00:02:27,17"
-          text: ~
+          text: "Forse sapevano già che la nostra era una famiglia antifascista, in virtù di quella rete di cui parlavo prima,"
         sequence-27:
           s: 27
           from: "00:02:27,17"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:02:29,14"
           to: "00:02:37,29"
-          text: ~
+          text: "e mi chiesero se gli davo una mano in alcuni lavori"
         sequence-29:
           s: 29
           from: "00:02:37,29"
@@ -153,42 +153,42 @@ it:
           s: 30
           from: "00:02:41,09"
           to: "00:02:46,07"
-          text: ~
+          text: "in appoggio al Partito Comunista"
         sequence-31:
           s: 31
           from: "00:02:46,07"
           to: "00:02:51,22"
-          text: ~
+          text: "che fossi una persona che non desse nell’occhio."
         sequence-32:
           s: 32
           from: "00:02:51,22"
           to: "00:03:05,24"
-          text: ~
+          text: "Io, con tutto quello che mi era successo, veramente non aspettavo altro, cioè volevo fare qualcosa, volevo aiutare, però non sapevo come."
         sequence-33:
           s: 33
           from: "00:03:05,24"
           to: "00:03:18,25"
-          text: ~
+          text: "Questi giovani mi hanno presentato l’idea e la possibilità di fare qualcosa sempre in aiuto alla mia famiglia"
         sequence-34:
           s: 34
           from: "00:03:18,25"
           to: "00:03:29,05"
-          text: ~
+          text: "e in aiuto a queste idee di antifascismo che cominciavano poi a radicarsi anche nel mio cervello."
         sequence-35:
           s: 35
           from: "00:03:29,05"
           to: "00:03:34,22"
-          text: ~
+          text: "E così cominciai ad andare a raccogliere il Soccorso Rosso,"
         sequence-36:
           s: 36
           from: "00:03:34,22"
           to: "00:03:42,11"
-          text: ~
+          text: "che erano quei pochi soldi di cui gli antifascisti potevano disporre che servivano per aiutare quelle famiglie"
         sequence-37:
           s: 37
           from: "00:03:42,11"
           to: "00:03:56,10"
-          text: ~
+          text: "che avevano i genitori o i fratelli o i papà, che erano stati costretti a scappare dall’Italia perché perseguitati dal regime fascista."
         sequence-38:
           s: 38
           from: "00:03:56,10"
@@ -198,12 +198,12 @@ it:
           s: 39
           from: "00:03:57,14"
           to: "00:04:01,06"
-          text: ~
+          text: "Era la cosa più normale di questo mondo."
         sequence-40:
           s: 40
           from: "00:04:01,06"
           to: "00:04:12,06"
-          text: ~
+          text: "Cioè io sono entrata dentro con tutto quello che era successo prima che per me aderire al Partito Comunista"
         sequence-41:
           s: 41
           from: "00:04:12,06"
@@ -213,17 +213,17 @@ it:
           s: 42
           from: "00:04:16,23"
           to: "00:04:22,18"
-          text: ~
+          text: "voleva dire proprio fare qualcosa per le mie idee che oramai erano maturate"
         sequence-43:
           s: 43
           from: "00:04:22,18"
           to: "00:04:33,11"
-          text: ~
+          text: "e per fare qualcosa perché la gente stesse meglio, per mio fratello"
         sequence-44:
           s: 44
           from: "00:04:33,11"
           to: "00:04:42,18"
-          text: ~
+          text: "Io ero già convinta. Io sono diventata comunista così pian piano, giorno per giorno, vivendo in quella atmosfera."
         sequence-45:
           s: 45
           from: "00:04:42,18"
@@ -233,14 +233,14 @@ it:
           s: 46
           from: "00:04:46,14"
           to: "00:04:55,05"
-          text: ~
+          text: "Perché a quindici anni, non voglio dire che ero cosciente di quello che succedeva"
         sequence-47:
           s: 47
           from: "00:04:55,05"
           to: "00:05:04,09"
-          text: ~
+          text: "magari non sapevo neanche fino in fondo cosa volesse dire, però per me, per quello che avevo vissuto, era lo sbocco naturale aderire al Partito Comunista,"
         sequence-48:
           s: 48
           from: "00:05:04,09"
           to: "00:05:12,08"
-          text: ~
+          text: "non poteva esserci un'altra via, né potevano esserci dei dubbi, non c’era né mi e né mo, era così."

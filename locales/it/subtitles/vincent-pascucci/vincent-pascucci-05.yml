@@ -2,13 +2,13 @@ it:
   vincent-pascucci:
     chapter-5:
       c: 5
-      title: ~
+      title: "Entrare in clandestinità; Attività"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:14,17"
-          text: ~
+          text: "Si può far parte del movimento di resistenza e avere una normale occupazione."
         sequence-2:
           s: 2
           from: "00:00:14,17"
@@ -18,12 +18,12 @@ it:
           s: 3
           from: "00:00:17,01"
           to: "00:00:23,08"
-          text: ~
+          text: "Io lavoravo nella fabbrica di Simca."
         sequence-4:
           s: 4
           from: "00:00:23,08"
           to: "00:00:35,10"
-          text: ~
+          text: "Era un'impresa italiana. Il direttore, Signor Picosi, era italiano."
         sequence-5:
           s: 5
           from: "00:00:35,10"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:36,27"
           to: "00:00:50,03"
-          text: ~
+          text: "Prima della guerra producevano automobili. Durante l'occupazione, furono costretti a produrre assi per i carri armati."
         sequence-7:
           s: 7
           from: "00:00:50,03"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:52,00"
           to: "00:00:59,03"
-          text: ~
+          text: "Iniziammo a sabotare i macchinari durante il nostro turno."
         sequence-9:
           s: 9
           from: "00:00:59,03"
           to: "00:01:13,27"
-          text: ~
+          text: "All'inizio del 1943, Hitler iniziò a perdere in alcune battaglie."
         sequence-10:
           s: 10
           from: "00:01:13,27"
@@ -58,12 +58,12 @@ it:
           s: 11
           from: "00:01:15,20"
           to: "00:01:23,12"
-          text: ~
+          text: "Perse nella battaglia di Stalingrado, nella battaglia di Libia."
         sequence-12:
           s: 12
           from: "00:01:23,12"
           to: "00:01:33,03"
-          text: ~
+          text: "Dovette mobilitare l'intera popolazione maschile, con l'occupazione di quasi tutta l'Europa."
         sequence-13:
           s: 13
           from: "00:01:33,03"
@@ -73,17 +73,17 @@ it:
           s: 14
           from: "00:01:36,04"
           to: "00:01:43,02"
-          text: ~
+          text: "Doveva tenere rodato l'ingranaggio della guerra."
         sequence-15:
           s: 15
           from: "00:01:43,02"
           to: "00:01:52,21"
-          text: ~
+          text: "È stato firmato un accordo tra il Governo francese di Pétain-Laval"
         sequence-16:
           s: 16
           from: "00:01:52,21"
           to: "00:02:03,20"
-          text: ~
+          text: "e l'amministrazione tedesca per creare il così detto STO (Lavoro Forzato)."
         sequence-17:
           s: 17
           from: "00:02:03,20"
@@ -93,72 +93,72 @@ it:
           s: 18
           from: "00:02:05,04"
           to: "00:02:15,24"
-          text: ~
+          text: "All'inizio ci hanno provato con la propaganda, dicendo che per un lavoratore andato in Germania avrebbero liberato dieci Prigionieri di Guerra."
         sequence-19:
           s: 19
           from: "00:02:15,24"
           to: "00:02:20,29"
-          text: ~
+          text: "Non ha funzionato bene, perché pochissimi si sono offerti come volontari."
         sequence-20:
           s: 20
           from: "00:02:20,29"
           to: "00:02:31,19"
-          text: ~
+          text: "Da quel momento in poi furono inviate alle fabbriche liste con i nomi di alcuni operai."
         sequence-21:
           s: 21
           from: "00:02:31,19"
           to: "00:02:37,19"
-          text: ~
+          text: "Se c'era il tuo nome sulla lista, dovevi partire per andare a lavorare in Germania."
         sequence-22:
           s: 22
           from: "00:02:37,19"
           to: "00:02:43,00"
-          text: ~
+          text: "Un giorno vidi il mio nome su una di quelle liste."
         sequence-23:
           s: 23
           from: "00:02:43,00"
           to: "00:02:52,01"
-          text: ~
+          text: "Avremmo dovuto avere un controllo medico a Courbevoie, con un magiore tedesco."
         sequence-24:
           s: 24
           from: "00:02:52,01"
           to: "00:03:02,10"
-          text: ~
+          text: "Io avevo un'ernia, che in verità non mi creava noie."
         sequence-25:
           s: 25
           from: "00:03:02,10"
           to: "00:03:13,02"
-          text: ~
+          text: "Ma sono arrivato lì come fossi dolorante, dicendo che il mio medico mi aveva detto che dovevo essere operato immediatamente."
         sequence-26:
           s: 26
           from: "00:03:13,02"
           to: "00:03:22,21"
-          text: ~
+          text: "Il maggiore rispose: \"Non temere. Abbiamo ottimi chirurghi in Germania, avanti.\""
         sequence-27:
           s: 27
           from: "00:03:22,21"
           to: "00:03:30,07"
-          text: ~
+          text: "Poi ho contattato i miei superiori."
         sequence-28:
           s: 28
           from: "00:03:30,07"
           to: "00:03:36,26"
-          text: ~
+          text: "Fu deciso che mi sarei dato alla 'macchia' a Corèse."
         sequence-29:
           s: 29
           from: "00:03:36,26"
           to: "00:03:43,17"
-          text: ~
+          text: "All'arrivo a Brives, dovevo contattare i compagni."
         sequence-30:
           s: 30
           from: "00:03:43,17"
           to: "00:03:51,11"
-          text: ~
+          text: "Quando passai la linea di demarcazione, non fui capace di stabilire il contatto."
         sequence-31:
           s: 31
           from: "00:03:51,11"
           to: "00:04:00,27"
-          text: ~
+          text: "La 'macchia' era sotto assedio, dopo aver fatto deragliare un treno tedesco pieno di deportati."
         sequence-32:
           s: 32
           from: "00:04:00,27"
@@ -168,22 +168,22 @@ it:
           s: 33
           from: "00:04:02,20"
           to: "00:04:11,29"
-          text: ~
+          text: "Ero già stato controllato più volte dalla polizia con i miei documenti d'identità falsi"
         sequence-34:
           s: 34
           from: "00:04:11,29"
           to: "00:04:18,02"
-          text: ~
+          text: "e realizzai che la situazione stava diventando critica."
         sequence-35:
           s: 35
           from: "00:04:18,02"
           to: "00:04:30,07"
-          text: ~
+          text: "Così tornai a Nanterre e dopo fui mandato a lavorare in una fabbrica nel dipartimento delle Marne."
         sequence-36:
           s: 36
           from: "00:04:30,07"
           to: "00:04:50,24"
-          text: ~
+          text: "Un giorno alcuni compagni e io - stavamo producendo piattaforme in cemento - mandammo un carro di cemento dentro una caserma tedesca."
         sequence-37:
           s: 37
           from: "00:04:50,24"
@@ -193,22 +193,22 @@ it:
           s: 38
           from: "00:04:52,29"
           to: "00:05:04,09"
-          text: ~
+          text: "Non abbiamo aspettato il nostro stipendio... Siamo partiti subito e sono tornato a Nanterre dove sono rimasto in clandestinità."
         sequence-39:
           s: 39
           from: "00:05:04,09"
           to: "00:05:13,19"
-          text: ~
+          text: "Avevo una piccola stanza nel seminterrato. Mio padre non sapeva dove fossi."
         sequence-40:
           s: 40
           from: "00:05:13,19"
           to: "00:05:21,02"
-          text: ~
+          text: "Pensava che fossi partito per la Germania, perché quando i nazisti e la polizia di Pétain"
         sequence-41:
           s: 41
           from: "00:05:21,02"
           to: "00:05:29,00"
-          text: ~
+          text: "non trovavano la persona che cercavano, si sono portati la sua famiglia."
         sequence-42:
           s: 42
           from: "00:05:29,00"
@@ -218,22 +218,22 @@ it:
           s: 43
           from: "00:05:29,24"
           to: "00:05:39,08"
-          text: ~
+          text: "Mentre ero in clandestinità, avevamo pochissime armi, qualche rivoltella."
         sequence-44:
           s: 44
           from: "00:05:39,08"
           to: "00:05:54,28"
-          text: ~
+          text: "Il mio compito era di organizzare un gruppo armato per proteggere coloro che si recavano in luogo pubblico per distribuire volantini o tenere un comizio."
         sequence-45:
           s: 45
           from: "00:05:54,28"
           to: "00:06:07,21"
-          text: ~
+          text: "L'unico intrattenimento consentito all'epoca era di andare al cinema."
         sequence-46:
           s: 46
           from: "00:06:07,21"
           to: "00:06:20,10"
-          text: ~
+          text: "Prima del film stesso hanno mostrato notizie/informazioni curate dai nazisti, dalla polizia francese, dal governo francese."
         sequence-47:
           s: 47
           from: "00:06:20,10"
@@ -243,17 +243,17 @@ it:
           s: 48
           from: "00:06:23,05"
           to: "00:06:33,16"
-          text: ~
+          text: "È in quel momento che intervenivamo. Occupavamo la cabina dei proiezionisti e l'ufficio del direttore,"
         sequence-49:
           s: 49
           from: "00:06:33,16"
           to: "00:06:44,11"
-          text: ~
+          text: "così da non poter chiamare la polizia, e uno dei nostri compagni, solitamente Louis Meunier, si sarebbe alzato per parlare."
         sequence-50:
           s: 50
           from: "00:06:44,11"
           to: "00:06:50,15"
-          text: ~
+          text: "Il nostro compito era coprirgli le spalle."
         sequence-51:
           s: 51
           from: "00:06:50,15"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:06:53,08"
           to: "00:07:06,18"
-          text: ~
+          text: "Mentre si distribuivano volantini, c'era sempre un gruppo armato a proteggere i compagni dalla polizia."
         sequence-53:
           s: 53
           from: "00:07:06,18"
@@ -273,22 +273,22 @@ it:
           s: 54
           from: "00:07:11,04"
           to: "00:07:18,08"
-          text: ~
+          text: "Lentamente la popolazione stessa, iniziò a fare da protezione."
         sequence-55:
           s: 55
           from: "00:07:18,08"
           to: "00:07:28,25"
-          text: ~
+          text: "Abbiamo avuto un certo sostegno nella popolazione. All'inizio c'era soprattutto paura."
         sequence-56:
           s: 56
           from: "00:07:28,25"
           to: "00:07:37,10"
-          text: ~
+          text: "Quando distribuivamo volantini, la gente si disperdeva. In seguito le cose sono cambiate."
         sequence-57:
           s: 57
           from: "00:07:37,10"
           to: "00:07:49,17"
-          text: ~
+          text: "Se la polizia arrivava, avrebbero formato dei gruppi per impedire il passaggio dei poliziotti. Ciò ci permetteva di scappare."
         sequence-58:
           s: 58
           from: "00:07:49,17"
@@ -298,17 +298,17 @@ it:
           s: 59
           from: "00:07:50,09"
           to: "00:08:01,17"
-          text: ~
+          text: "A Nanterre, nella sede dell'attuale Università, c'era un campo chiamato \"campo dell'aviazione\","
         sequence-60:
           s: 60
           from: "00:08:01,17"
           to: "00:08:06,18"
-          text: ~
+          text: "che fu occupato dai tedeschi."
         sequence-61:
           s: 61
           from: "00:08:06,18"
           to: "00:08:18,27"
-          text: ~
+          text: "Era usato per recuperare materiali, come pezzi di aeroplani abbattuti. Ci lavoravano prigionieri sovietici."
         sequence-62:
           s: 62
           from: "00:08:18,27"

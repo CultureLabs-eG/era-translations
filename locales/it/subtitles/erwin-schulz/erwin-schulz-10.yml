@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:09,19"
           to: "00:01:18,17"
-          text: "Per cinque anni fui sotto sorveglianza, come stabiliva il verdetto."
+          text: "Per cinque anni rimasi sotto sorveglianza, come stabiliva il verdetto."
         sequence-19:
           s: 19
           from: "00:01:18,17"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:27,15"
           to: "00:01:37,05"
-          text: "Un amico mi procurò un lavoro. Insieme abbiamo lavorato illegalmente."
+          text: "Un amico mi procurò un lavoro. Insieme lavorammo illegalmente."
         sequence-23:
           s: 23
           from: "00:01:37,05"
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:01:41,23"
           to: "00:01:48,03"
-          text: "Ancora una cosa: C'erano biglietti per tutto."
+          text: "Ancora una cosa: C'erano tessere annonarie per tutto."
         sequence-26:
           s: 26
           from: "00:01:48,03"
           to: "00:02:01,25"
-          text: "Quando mi rilasciarono, gli amici e i compagni con cui avevo lavorato, avevano raccolto:"
+          text: "Quando mi rilasciarono, gli amici e i compagni con cui avevo lavorato, o che mi conoscevano, avevano fatto una raccolta:"
         sequence-27:
           s: 27
           from: "00:02:01,25"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:02:03,02"
           to: "00:02:11,04"
-          text: "burro, uno aveva sgozzato un pollo."
+          text: "un po' di burro; uno aveva anche sgozzato un pollo."
         sequence-29:
           s: 29
           from: "00:02:11,04"

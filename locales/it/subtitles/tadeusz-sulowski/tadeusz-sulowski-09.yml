@@ -2,78 +2,78 @@ it:
   tadeusz-sulowski:
     chapter-9:
       c: 9
-      title: ~
+      title: "La vita da partigiano"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:07,01"
           to: "00:00:12,01"
-          text: ~
+          text: "Dopo aver lasciato Stefanów ci spostammo nelle foreste di Białaczow,"
         sequence-2:
           s: 2
           from: "00:00:12,01"
           to: "00:00:27,05"
-          text: ~
+          text: "e il tenente \"Osuch\" venne da me dicendo che stavano radunando i soldati"
         sequence-3:
           s: 3
           from: "00:00:27,05"
           to: "00:00:39,16"
-          text: ~
+          text: "sopravvissuti alla Rivolta di Varsavia, che si stavano unendo ai vari gruppi partigiani vicino nella foresta."
         sequence-4:
           s: 4
           from: "00:00:39,16"
           to: "00:00:52,17"
-          text: ~
+          text: "MI chiese se volessi far parte di un gruppo così."
         sequence-5:
           s: 5
           from: "00:00:52,17"
           to: "00:00:54,25"
-          text: ~
+          text: "Naturalmente dissi di sì."
         sequence-6:
           s: 6
           from: "00:00:54,25"
           to: "00:01:01,09"
-          text: ~
+          text: "Quindi mi ci portò, c'erano dieci uomini in questo gruppo."
         sequence-7:
           s: 7
           from: "00:01:01,09"
           to: "00:01:06,13"
-          text: ~
+          text: "Lungo la strada scoprimmo chi si trovava dove."
         sequence-8:
           s: 8
           from: "00:01:06,13"
           to: "00:01:16,07"
-          text: ~
+          text: "Nel villaggio di Bieliny avevamo questo messaggero, chiamato \"Malina\", che sapeva tutto quello che stava succedento intorno."
         sequence-9:
           s: 9
           from: "00:01:16,07"
           to: "00:01:25,04"
-          text: ~
+          text: "\"Malina\" ci disse che c'era un gruppo numeroso che ne cercava uno ancora più grande."
         sequence-10:
           s: 10
           from: "00:01:25,04"
           to: "00:01:33,26"
-          text: ~
+          text: "C'erano circa 150 persone sotto il comando del tenente \"Lech\", Stanisław Degórski."
         sequence-11:
           s: 11
           from: "00:01:33,26"
           to: "00:01:37,15"
-          text: ~
+          text: "Era un'unità proveniente dalla regione di Lublino. Come finirono lì?"
         sequence-12:
           s: 12
           from: "00:01:37,15"
           to: "00:01:42,11"
-          text: ~
+          text: "Probabilmente, per prima cosa, giunsero a Kampinos, e poi, dopo la sconfitta del gruppo di Kampinos vicino a Jaktorow,"
         sequence-13:
           s: 13
           from: "00:01:42,11"
           to: "00:01:46,22"
-          text: ~
+          text: "arrivarono nella nostra foresta."
         sequence-14:
           s: 14
           from: "00:01:46,22"
           to: "00:01:52,13"
-          text: ~
+          text: "Stabilirono con noi un contatto."
         sequence-15:
           s: 15
           from: "00:01:52,13"
@@ -83,52 +83,52 @@ it:
           s: 16
           from: "00:01:56,29"
           to: "00:02:04,04"
-          text: ~
+          text: "Con questa unità combattemmo a Zdzary, vicino a Drzewica."
         sequence-17:
           s: 17
           from: "00:02:04,04"
           to: "00:02:26,24"
-          text: ~
+          text: "Lì persero la vita due persone. Ci attaccarono i calmucchi."
         sequence-18:
           s: 18
           from: "00:02:26,24"
           to: "00:02:38,09"
-          text: ~
+          text: "Due giorni dopo, cadendo da un carro, esplosero alcune mine."
         sequence-19:
           s: 19
           from: "00:02:38,09"
           to: "00:02:57,10"
-          text: ~
+          text: "Il carro che c'era dietro passò sopra queste mine ed esse esplosero. Altri due uomini rimasero feriti. La gente era infuriata."
         sequence-20:
           s: 20
           from: "00:02:57,10"
           to: "00:03:01,16"
-          text: ~
+          text: "Nelle vicinanze era di stanza l'unità \"Szary’. Non volevano tornare al 25° reggimento."
         sequence-21:
           s: 21
           from: "00:03:01,16"
           to: "00:03:20,21"
-          text: ~
+          text: "Ogni plotone aveva i propri rappresentanti e questi chiedevano al comando di accettare la loro adesione all'unità 'Szary'."
         sequence-22:
           s: 22
           from: "00:03:20,21"
           to: "00:03:24,23"
-          text: ~
+          text: "Chiaramente, se \"Szary\" fosse d'accordo."
         sequence-23:
           s: 23
           from: "00:03:24,23"
           to: "00:03:32,01"
-          text: ~
+          text: "Così mandammo a \"Szary\" un messaggero e \"Szary\" disse di sì."
         sequence-24:
           s: 24
           from: "00:03:32,01"
           to: "00:03:35,05"
-          text: ~
+          text: "Ci accettò nella sua unità."
         sequence-25:
           s: 25
           from: "00:03:35,05"
           to: "00:03:45,07"
-          text: ~
+          text: "E fu così che io diventai un soldato del 3° reggimento delle Legioni Polacche al comando di \"Szary\"."
         sequence-26:
           s: 26
           from: "00:03:45,07"
@@ -138,29 +138,29 @@ it:
           s: 27
           from: "00:03:53,17"
           to: "00:03:57,20"
-          text: ~
+          text: "Ci rimasi poco,"
         sequence-28:
           s: 28
           from: "00:03:57,20"
           to: "00:04:06,15"
-          text: ~
+          text: "perché il fronte russo si stava avvicinando, erano ormai in corrispondenza del Vistola."
         sequence-29:
           s: 29
           from: "00:04:06,15"
           to: "00:04:30,28"
-          text: ~
+          text: "I tedeschi volevano sbarazzarsi dei partigiani e mandarono nella nostra foresta i calmucchi."
         sequence-30:
           s: 30
           from: "00:04:30,28"
           to: "00:04:42,11"
-          text: ~
+          text: "Il 5 novembre ci fermammo nel villaggio di Boków,"
         sequence-31:
           s: 31
           from: "00:04:42,11"
           to: "00:04:52,03"
-          text: ~
+          text: "mentre il 4 di novembre il 25° Reggimento combattè in questo villaggio."
         sequence-32:
           s: 32
           from: "00:04:52,03"
           to: "00:04:56,12"
-          text: ~
+          text: "Molti uomini morirono sia da parte nostra che dei tedeschi."

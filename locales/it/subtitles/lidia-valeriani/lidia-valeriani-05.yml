@@ -2,18 +2,18 @@ it:
   lidia-valeriani:
     chapter-5:
       c: 5
-      title: ~
+      title: "Inizio dell’attivitá cospirativa"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:11,14"
-          text: ~
+          text: "Io ho incominciato l’8 settembre a sapere un po’ dove c’erano i compagni da..."
         sequence-2:
           s: 2
           from: "00:00:11,14"
           to: "00:00:17,28"
-          text: ~
+          text: "intanto da avvisarli che li andavano già ad arrestare di nuovo."
         sequence-3:
           s: 3
           from: "00:00:17,28"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:19,20"
           to: "00:00:29,28"
-          text: ~
+          text: "Allora ad esempio Felice da Puianello, m’han mandato qualcuno a dire vai da Alfeo Viani"
         sequence-5:
           s: 5
           from: "00:00:29,28"
           to: "00:00:40,28"
-          text: ~
+          text: "a dire che siamo già, diciamo, nella lista dove ci vengono a arrestare ancora,"
         sequence-6:
           s: 6
           from: "00:00:40,28"
@@ -38,17 +38,17 @@ it:
           s: 7
           from: "00:00:42,08"
           to: "00:00:47,14"
-          text: ~
+          text: "e poi Didoni, quello di Scampate, e tutti più o meno quelli lì."
         sequence-8:
           s: 8
           from: "00:00:47,14"
           to: "00:00:50,03"
-          text: ~
+          text: "Io intanto andavo ad avvisare quelli lì,"
         sequence-9:
           s: 9
           from: "00:00:50,03"
           to: "00:00:58,26"
-          text: ~
+          text: "poi dopo quelli lì si sono trovati tutti, si sono trovati tutti a Scampate là da Chicco, da Castellani."
         sequence-10:
           s: 10
           from: "00:00:58,26"
@@ -58,17 +58,17 @@ it:
           s: 11
           from: "00:01:00,01"
           to: "00:01:06,08"
-          text: ~
+          text: "Diciamo poi che io a questa riunione ho fatto parte sì e no,"
         sequence-12:
           s: 12
           from: "00:01:06,08"
           to: "00:01:09,05"
-          text: ~
+          text: "perché sono andata là che mi han chiamata là,"
         sequence-13:
           s: 13
           from: "00:01:09,05"
           to: "00:01:25,26"
-          text: ~
+          text: "però dopo mi han mandata anche... cioè loro hanno fatto la riunione per designare a ognuno il proprio posto, perché erano diventati tutti dei, diciamo, dei dirigenti."
         sequence-14:
           s: 14
           from: "00:01:25,26"
@@ -78,17 +78,17 @@ it:
           s: 15
           from: "00:01:27,12"
           to: "00:01:35,00"
-          text: ~
+          text: "Mi han mandato qui in centro a fare le spese, a comprare gli occhiali, i berretti..."
         sequence-16:
           s: 16
           from: "00:01:35,00"
           to: "00:01:40,06"
-          text: ~
+          text: "tante cose per camuffarsi un po’ e per potersi poi spostare di là,"
         sequence-17:
           s: 17
           from: "00:01:40,06"
           to: "00:01:42,25"
-          text: ~
+          text: "vabbè che si spostavano di sera, ma anche..."
         sequence-18:
           s: 18
           from: "00:01:42,25"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:44,20"
           to: "00:01:47,21"
-          text: ~
+          text: "e dopo ognuno è stato designato al proprio posto."
         sequence-20:
           s: 20
           from: "00:01:47,21"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:49,14"
           to: "00:01:59,03"
-          text: ~
+          text: "E poi di lì, diciamo che qualcuno ha cominciato ad andare in montagna, ma in montagna non c’era proprio niente di pronto."
         sequence-22:
           s: 22
           from: "00:01:59,03"
@@ -118,12 +118,12 @@ it:
           s: 23
           from: "00:01:59,29"
           to: "00:02:14,26"
-          text: ~
+          text: "Andavamo dalle famiglie che erano anche già delle famiglie che sapevamo che erano degli antifascisti che erano contro la guerra, andavamo da queste famiglie..."
         sequence-24:
           s: 24
           from: "00:02:14,26"
           to: "00:02:24,04"
-          text: ~
+          text: "prima di tutto c’erano già dei militari che erano riusciti a scappare e li indirizzavamo ad andare in montagna,"
         sequence-25:
           s: 25
           from: "00:02:24,04"
@@ -133,17 +133,17 @@ it:
           s: 26
           from: "00:02:26,26"
           to: "00:02:36,11"
-          text: ~
+          text: "e poi si raccoglieva questa roba che io ad esempio... i vestiti, i viveri..."
         sequence-27:
           s: 27
           from: "00:02:36,11"
           to: "00:02:45,25"
-          text: ~
+          text: "io li portavo a Roncolo e li portavo da Torreggiani, che poi lui, di lì, partivano e andavano in montagna."
         sequence-28:
           s: 28
           from: "00:02:45,25"
           to: "00:02:52,03"
-          text: ~
+          text: "E più o meno nell’inverno abbiam fatto sempre queste cose,"
         sequence-29:
           s: 29
           from: "00:02:52,03"
@@ -153,17 +153,17 @@ it:
           s: 30
           from: "00:02:52,21"
           to: "00:02:59,12"
-          text: ~
+          text: "cioè raccoglievamo, preparavamo la gente, preparavamo le donne"
         sequence-31:
           s: 31
           from: "00:02:59,12"
           to: "00:03:10,21"
-          text: ~
+          text: "per avere delle case di latitanza da poter prendere per una notte qualcuno che non sapeva dove andare prima di mandarlo in montagna..."
         sequence-32:
           s: 32
           from: "00:03:10,21"
           to: "00:03:14,18"
-          text: ~
+          text: "cioè abbiam fatto più o meno sempre queste cose."
         sequence-33:
           s: 33
           from: "00:03:14,18"
@@ -173,7 +173,7 @@ it:
           s: 34
           from: "00:03:16,06"
           to: "00:03:24,05"
-          text: ~
+          text: "Qualcuno già era organizzato. Portavamo degli ordini..."
         sequence-35:
           s: 35
           from: "00:03:24,05"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:03:27,11"
           to: "00:03:32,09"
-          text: ~
+          text: "qualcuna era organizzata anche per fare altre cose,"
         sequence-37:
           s: 37
           from: "00:03:32,09"
@@ -193,19 +193,19 @@ it:
           s: 38
           from: "00:03:33,11"
           to: "00:03:50,12"
-          text: ~
+          text: "ma io come lavoro militare, più o meno, lo facevo in quel modo lì: solo per il sostegno dei ragazzi che c’era in montagna e di quelli che si dovevano nascondere e tutte queste cose qui."
         sequence-39:
           s: 39
           from: "00:03:50,12"
           to: "00:04:03,21"
-          text: ~
+          text: "La propaganda, che distribuivamo volantini, di queste cose che delle volte clandestinamente li andavamo a mettere di sera da una parte e dall’altra,"
         sequence-40:
           s: 40
           from: "00:04:03,21"
           to: "00:04:09,06"
-          text: ~
+          text: "e poi pian piano arrivò che c’eran già gli scioperi,"
         sequence-41:
           s: 41
           from: "00:04:09,06"
           to: "00:04:18,20"
-          text: ~
+          text: "eran già cominciati gli scioperi contro la guerra, ecc. e abbiamo preparato, ci siamo preparati per lo sciopero del 1° marzo."

@@ -1,0 +1,391 @@
+it:
+  camillo-marmiroli:
+    chapter-5:
+      c: 5
+      title: "Primo lancio e battaglia allo Sparavalle"
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:00,00"
+          to: "00:00:04,12"
+          text: "Il primo lancio l’han fatto a Lama Golese e lì lo aspettavamo"
+        sequence-2:
+          s: 2
+          from: "00:00:04,13"
+          to: "00:00:06,22"
+          text: "però gli inglesi si sono sbagliati,"
+        sequence-3:
+          s: 3
+          from: "00:00:06,23"
+          to: "00:00:11,19"
+          text: "dovevano darli a Modena e invece l’han buttato da noi:"
+        sequence-4:
+          s: 4
+          from: "00:00:11,20"
+          to: "00:00:18,05"
+          text: "avevano fatto un fuoco di triangoli, l’aeroplano girò girò e lanciò lì."
+        sequence-5:
+          s: 5
+          from: "00:00:18,06"
+          to: "00:00:22,00"
+          text: "Ci ha lanciato quattro mitragliatori Bren e 130 mitra,"
+        sequence-6:
+          s: 6
+          from: "00:00:22,01"
+          to: "00:00:25,10"
+          text: "eravamo una quarantina perciò ce n’era in abbondanza,"
+        sequence-7:
+          s: 7
+          from: "00:00:25,11"
+          to: "00:00:32,05"
+          text: "dopo un locale ha preso tutte le armi in più e le ha portate via."
+        sequence-8:
+          s: 8
+          from: "00:00:32,23"
+          to: "00:00:42,04"
+          text: "E lì \"Frigio\" sul suo libro, Franzini che è stato un grande partigiano responsabile, ha scritto quello che è vero, che le armi…"
+        sequence-9:
+          s: 9
+          from: "00:00:42,05"
+          to: "00:00:48,20"
+          text: "Io conoscevo le armi perché avevo fatto il servizio in Jugoslavia,"
+        sequence-10:
+          s: 10
+          from: "00:00:48,21"
+          to: "00:00:55,18"
+          text: "avevo imparato a conoscere tutte le armi dal cannoncino anticarro al mortaio,"
+        sequence-11:
+          s: 11
+          from: "00:00:55,19"
+          to: "00:00:58,23"
+          text: "io conoscevo le armi le ho aperte, guardate, pulite,"
+        sequence-12:
+          s: 12
+          from: "00:00:58,24"
+          to: "00:01:04,05"
+          text: "poi gli ho insegnato come si adoperano, come si conservano queste armi qua."
+        sequence-13:
+          s: 13
+          from: "00:01:04,20"
+          to: "00:01:11,19"
+          text: "A Lama Golese c’era una cabina dell’elettricità che non si poteva andar dentro"
+        sequence-14:
+          s: 14
+          from: "00:01:11,20"
+          to: "00:01:17,03"
+          text: "e delle capanne dei carbonai e siamo stati lì,"
+        sequence-15:
+          s: 15
+          from: "00:01:17,04"
+          to: "00:01:26,02"
+          text: "abbiamo ammazzato una vacca, una mucca per mangiarla: non si sapeva dove metterla e io gli ho insegnato di metterla sull’acqua,"
+        sequence-16:
+          s: 16
+          from: "00:01:26,03"
+          to: "00:01:32,14"
+          text: "lì giù un ruscello d’acqua quasi gelata, a pezzi e si è mantenuta bene per una ventina di giorni"
+        sequence-17:
+          s: 17
+          from: "00:01:32,15"
+          to: "00:01:39,06"
+          text: "perché l’acqua è fresca, aveva fatto un po’ di fango sopra ma era buona lo stesso."
+        sequence-18:
+          s: 18
+          from: "00:01:39,07"
+          to: "00:01:45,23"
+          text: "Anche lì, tanti non sapevano come fare perché non c’erano frigo, non c’erano piatti,"
+        sequence-19:
+          s: 19
+          from: "00:01:45,24"
+          to: "00:01:51,18"
+          text: "si mangiava su una piana di sasso un po’ di polenta così alla buona,"
+        sequence-20:
+          s: 20
+          from: "00:01:51,19"
+          to: "00:02:01,06"
+          text: "siamo riusciti perché eravamo giovani, fossimo in questa età qua si muore in una settimana tutti, si morirebbe."
+        sequence-21:
+          s: 21
+          from: "00:02:01,14"
+          to: "00:02:05,23"
+          text: "Eravamo vestiti, che allora gli armadi non erano pieni come adesso,"
+        sequence-22:
+          s: 22
+          from: "00:02:05,24"
+          to: "00:02:12,24"
+          text: "c’era un freddo cane perché c’era anche la neve quando siamo andati su il 15 aprile, c’era ancora la neve"
+        sequence-23:
+          s: 23
+          from: "00:02:13,00"
+          to: "00:02:18,10"
+          text: "e dei freddi vestiti male, non c’era nessun… C’era da tribolare."
+        sequence-24:
+          s: 24
+          from: "00:02:18,11"
+          to: "00:02:24,23"
+          text: "Si dormiva nelle capanne dei carbonai uniti come i maiali per stare un po’ caldi."
+        sequence-25:
+          s: 25
+          from: "00:02:25,05"
+          to: "00:02:30,14"
+          text: "A Lama Golese ogni tanto venivano su dei gruppi e poi abbiamo cominciato a fare i distaccamenti,"
+        sequence-26:
+          s: 26
+          from: "00:02:30,15"
+          to: "00:02:32,24"
+          text: "abbiamo formato i tre distaccamenti:"
+        sequence-27:
+          s: 27
+          from: "00:02:33,00"
+          to: "00:02:38,05"
+          text: "il “Piccinini” dov’ero io, che lo comandava Salsi Otello di Cervarezza,"
+        sequence-28:
+          s: 28
+          from: "00:02:38,06"
+          to: "00:02:45,10"
+          text: "poi c’era il “Bedeschi” che lo comandava Luigi che era uno di Rivalta, bravissimo,"
+        sequence-29:
+          s: 29
+          from: "00:02:45,11"
+          to: "00:02:52,21"
+          text: "e poi abbiamo fatto il “Camillo Prampolini” un altro, che era poi socialista,"
+        sequence-30:
+          s: 30
+          from: "00:02:52,22"
+          to: "00:03:01,06"
+          text: "che lo comandava Valter di Cavriago, era un robustone uno spaccone quello lì."
+        sequence-31:
+          s: 31
+          from: "00:03:01,07"
+          to: "00:03:06,16"
+          text: "Dopo siamo andati a fare l’attacco a Villa Minozzo:"
+        sequence-32:
+          s: 32
+          from: "00:03:06,17"
+          to: "00:03:12,07"
+          text: "siamo andati il 24 di maggio che era l’ultimo giorno…"
+        sequence-33:
+          s: 33
+          from: "00:03:12,08"
+          to: "00:03:20,05"
+          text: "Perché il governo italiano diceva a chi era scappato dalla guerra di presentarsi"
+        sequence-34:
+          s: 34
+          from: "00:03:20,06"
+          to: "00:03:28,00"
+          text: "e noi invece di presentarci ci siamo presentati all’assalto del comando che c’era a Villa Minozzo."
+        sequence-35:
+          s: 35
+          from: "00:03:28,10"
+          to: "00:03:34,05"
+          text: "A Villa Minozzo eravamo una cinquantina, però c’era una parte…"
+        sequence-36:
+          s: 36
+          from: "00:03:34,06"
+          to: "00:03:41,17"
+          text: "A me mi avevano messo in una posizione di fronte alla caserma di fascisti che era piena"
+        sequence-37:
+          s: 37
+          from: "00:03:41,18"
+          to: "00:03:44,03"
+          text: "e io sentivo dentro cantare le loro canzoni:"
+        sequence-38:
+          s: 38
+          from: "00:03:44,04"
+          to: "00:03:46,10"
+          text: "io ero un militare che era buono a tirare"
+        sequence-39:
+          s: 39
+          from: "00:03:46,11"
+          to: "00:03:54,05"
+          text: "e ci sparavo ma ero a cinquanta metri in un buco e non potevo uscire perché loro…"
+        sequence-40:
+          s: 40
+          from: "00:03:54,06"
+          to: "00:04:00,03"
+          text: "Abbiamo tribolato perché poi è venuto anche un aeroplano a mitragliarci sopra,"
+        sequence-41:
+          s: 41
+          from: "00:04:00,04"
+          to: "00:04:07,00"
+          text: "in un fossettino c’erano le ortiche dentro lì ci siamo impantanati come le rane."
+        sequence-42:
+          s: 42
+          from: "00:04:07,01"
+          to: "00:04:10,03"
+          text: "Sono momenti difficili."
+        sequence-43:
+          s: 43
+          from: "00:04:10,04"
+          to: "00:04:15,08"
+          text: "Poi dopo si parlava con gli amici che erano a 70, 80 metri, gli ho detto"
+        sequence-44:
+          s: 44
+          from: "00:04:15,09"
+          to: "00:04:19,18"
+          text: "“Sparate là, voi sparate e noi passiamo sotto”"
+        sequence-45:
+          s: 45
+          from: "00:04:19,19"
+          to: "00:04:27,10"
+          text: "un’operazione del ritiro degli amici, tu spari sopra agli amici, l’amico ritira…"
+        sequence-46:
+          s: 46
+          from: "00:04:27,11"
+          to: "00:04:33,20"
+          text: "Loro non erano esperti: due mitragliatori han sparato come i coglioni"
+        sequence-47:
+          s: 47
+          from: "00:04:33,21"
+          to: "00:04:39,18"
+          text: "così poi fermi allora loro lo ripetono, invece la tattica era sparare due o tre colpi e alternarli"
+        sequence-48:
+          s: 48
+          from: "00:04:39,19"
+          to: "00:04:43,03"
+          text: "così per tenerli schiavi mentre tu passavi sotto"
+        sequence-49:
+          s: 49
+          from: "00:04:43,04"
+          to: "00:04:48,20"
+          text: "e invece siamo passati con le raffiche alle calcagna. Ah erano momenti…"
+        sequence-50:
+          s: 50
+          from: "00:04:48,21"
+          to: "00:04:53,06"
+          text: "Perché loro erano esperti nella guerra invece i nostri erano lì ma non sapevano:"
+        sequence-51:
+          s: 51
+          from: "00:04:53,07"
+          to: "00:04:57,04"
+          text: "ad esempio c’era \"Gek\", un mio amico morto tempo fa,"
+        sequence-52:
+          s: 52
+          from: "00:04:57,05"
+          to: "00:05:00,14"
+          text: "si era inceppato il mitragliatore e allora ho detto con un partigiano"
+        sequence-53:
+          s: 53
+          from: "00:05:00,15"
+          to: "00:05:05,18"
+          text: "“Tiraci la bomba!” e lui ha buttato la bomba senza la sicurezza, come una sassata,"
+        sequence-54:
+          s: 54
+          from: "00:05:05,19"
+          to: "00:05:12,18"
+          text: "perché buttare una bomba non è una cosa facile, c’è l’esperienza che bisogna contare, bisogna…"
+        sequence-55:
+          s: 55
+          from: "00:05:12,19"
+          to: "00:05:16,16"
+          text: "Per tirare una bomba intanto ti devi preparare,"
+        sequence-56:
+          s: 56
+          from: "00:05:16,17"
+          to: "00:05:21,21"
+          text: "butti e poi ti butti sotto, non puoi buttarla in un prato così,"
+        sequence-57:
+          s: 57
+          from: "00:05:21,22"
+          to: "00:05:25,23"
+          text: "devi avere qualcosa di protezione perché i raggi vanno così."
+        sequence-58:
+          s: 58
+          from: "00:05:25,24"
+          to: "00:05:31,17"
+          text: "E poi bisogna buttarsi a terra e poi guardare la distanza, la forza che hai"
+        sequence-59:
+          s: 59
+          from: "00:05:31,18"
+          to: "00:05:36,22"
+          text: "se la butti a venti metri o dieci metri altrimenti ti fai male anche te."
+        sequence-60:
+          s: 60
+          from: "00:05:36,23"
+          to: "00:05:44,09"
+          text: "Io quando ero militare ho insegnato alle reclute del ‘21 e del ’22 proprio a fare le tattiche di guerra,"
+        sequence-61:
+          s: 61
+          from: "00:05:44,10"
+          to: "00:05:50,07"
+          text: "sparare, tiro a segno, buttare le bombe e anche loro erano degli inesperti."
+        sequence-62:
+          s: 62
+          from: "00:05:50,08"
+          to: "00:05:59,02"
+          text: "Per tirar via la leva dalla bomba e poi non puoi aprire la mano perché te ne vai tu, la devi lanciare."
+        sequence-63:
+          s: 63
+          from: "00:06:00,22"
+          to: "00:06:08,06"
+          text: "Insomma era la tattica che si usava e loro erano preparati, i tedeschi erano guerrafondai, erano tremendi."
+        sequence-64:
+          s: 64
+          from: "00:06:08,07"
+          to: "00:06:11,19"
+          text: "Ricordo un fatto quassù da noi:"
+        sequence-65:
+          s: 65
+          from: "00:06:11,20"
+          to: "00:06:15,03"
+          text: "abbiamo fatto una sparatoria una notte,"
+        sequence-66:
+          s: 66
+          from: "00:06:15,04"
+          to: "00:06:21,08"
+          text: "eravamo sotto Busana a Cinquecerri,"
+        sequence-67:
+          s: 67
+          from: "00:06:21,09"
+          to: "00:06:25,22"
+          text: "c’era uno di guardia e dice “Mirko Mirko ci sono i tedeschi!”"
+        sequence-68:
+          s: 68
+          from: "00:06:25,23"
+          to: "00:06:30,15"
+          text: "eravamo in un fienile a dormire saltavamo come le lepri!"
+        sequence-69:
+          s: 69
+          from: "00:06:30,16"
+          to: "00:06:35,19"
+          text: "“Dove sono?” “A Busana sullo Sparavalle” “Tes alora!”,"
+        sequence-70:
+          s: 70
+          from: "00:06:35,20"
+          to: "00:06:38,18"
+          text: "cioè erano sulla strada 63."
+        sequence-71:
+          s: 71
+          from: "00:06:38,19"
+          to: "00:06:44,04"
+          text: "E poi ci siamo preparati senza attendere niente, avevo trovato delle postazioni."
+        sequence-72:
+          s: 72
+          from: "00:06:44,05"
+          to: "00:06:50,04"
+          text: "“Andate sul posto e non sparate, guai se sparate! State nascosti e non fumate!”"
+        sequence-73:
+          s: 73
+          from: "00:06:50,05"
+          to: "00:06:53,16"
+          text: "che loro erano lì, infatti erano già le due o le tre"
+        sequence-74:
+          s: 74
+          from: "00:06:53,17"
+          to: "00:07:00,24"
+          text: "e invece alle sei del mattino hanno sparato con delle rivoltelle il segnale di attacco questi tedeschi."
+        sequence-75:
+          s: 75
+          from: "00:07:01,00"
+          to: "00:07:04,08"
+          text: "Noi non abbiamo sparato invece altri partigiani"
+        sequence-76:
+          s: 76
+          from: "00:07:04,09"
+          to: "00:07:10,08"
+          text: "di là hanno sparato delle raffiche e loro con i mortai li hanno fatti correre, stanno ancora correndo adesso!"
+        sequence-77:
+          s: 77
+          from: "00:07:10,09"
+          to: "00:07:14,19"
+          text: "Invece devi fargli tu la sorpresa!"

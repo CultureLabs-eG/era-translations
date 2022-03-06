@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:32,29"
           to: "00:00:46,05"
-          text: "E tutto si aggravò nel 1917 (mio padre venne arruolato nell'esercito come soldato)"
+          text: "E tutto si aggravò nel 1917: mio padre venne arruolato nell'esercito come soldato"
         sequence-10:
           s: 10
           from: "00:00:46,05"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:47,14"
           to: "00:01:00,02"
-          text: "con l'inverno della fame, in cui le condizioni alimentari per la popolazione peggiorarono."
+          text: "e con l'inverno della fame, le condizioni alimentari per la popolazione peggiorarono."
         sequence-12:
           s: 12
           from: "00:01:00,02"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:07,06"
           to: "00:01:13,05"
-          text: "Non era molto distante da casa nostra."
+          text: "La scuola non era molto distante da casa nostra."
         sequence-16:
           s: 16
           from: "00:01:13,05"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:01:14,16"
           to: "00:01:26,26"
-          text: "La figura dell'educatore si sviluppò in seguito."
+          text: "Figure di riferimento li trovai solo più tardi."
         sequence-18:
           s: 18
           from: "00:01:26,26"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:28,28"
           to: "00:01:39,14"
-          text: "Dei miei insegnanti nessuno era un educatore."
+          text: "Dei miei insegnanti nessuno era un esempio."
         sequence-20:
           s: 20
           from: "00:01:39,14"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:02:10,09"
           to: "00:02:23,05"
-          text: "Mi ricordo l'insegnante di allora; era un vero prepotente."
+          text: "Mi ricordo l'insegnante di allora: era un vero prepotente."
         sequence-26:
           s: 26
           from: "00:02:23,05"

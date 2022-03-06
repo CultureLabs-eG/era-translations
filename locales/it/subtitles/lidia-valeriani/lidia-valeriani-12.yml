@@ -2,18 +2,18 @@ it:
   lidia-valeriani:
     chapter-12:
       c: 12
-      title: ~
+      title: "Vita nel dopoguerra"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:06,26"
-          text: ~
+          text: "Che noi, la mia famiglia, siamo stati... chiamiamoci fortunati:"
         sequence-2:
           s: 2
           from: "00:00:06,26"
           to: "00:00:18,10"
-          text: ~
+          text: "perché io sono tornata a casa, mio padre è tornato dalla Germania, Avvenire è tornato dalla Germania, Davide era in montagna anche lui"
         sequence-3:
           s: 3
           from: "00:00:18,10"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:20,10"
           to: "00:00:23,29"
-          text: ~
+          text: "– uno dei capi che poi ha fatto il vicequestore anche qui."
         sequence-5:
           s: 5
           from: "00:00:23,29"
           to: "00:00:31,14"
-          text: ~
+          text: "Praticamente c’eravamo ancora tutti e nove dopo la guerra e con i nostri genitori."
         sequence-6:
           s: 6
           from: "00:00:31,14"
@@ -38,12 +38,12 @@ it:
           s: 7
           from: "00:00:32,19"
           to: "00:00:37,27"
-          text: ~
+          text: "E dopo abbiamo sempre lavorato per la pace, per la libertà, per l’uguaglianza..."
         sequence-8:
           s: 8
           from: "00:00:37,27"
           to: "00:00:39,09"
-          text: ~
+          text: "e lavoriamo ancora!"
         sequence-9:
           s: 9
           from: "00:00:39,09"
@@ -53,27 +53,27 @@ it:
           s: 10
           from: "00:00:40,05"
           to: "00:00:57,05"
-          text: ~
+          text: "60 anni fa pensavamo però che per voi, i nostri nipoti, le cose fossero un po’ più... diciamo un po’ meglio, un po’ più buone,"
         sequence-11:
           s: 11
           from: "00:00:57,05"
           to: "00:01:05,07"
-          text: ~
+          text: "un po’ più tranquille. Non tanto... un po’ più tranquille, perché anche voi ancora, non siete tranquilli, ecco, perché..."
         sequence-12:
           s: 12
           from: "00:01:05,07"
           to: "00:01:16,15"
-          text: ~
+          text: "abbiamo fatto tutto per i nostri figli e per i nostri nipoti, un giorno, che avessero tutto quello di umano e..."
         sequence-13:
           s: 13
           from: "00:01:16,15"
           to: "00:01:32,17"
-          text: ~
+          text: "non solo i nostri figli ma tutto il mondo che fosse più umano, tutto il mondo, senza guerre, senza più disagi, senza più cose brutte,"
         sequence-14:
           s: 14
           from: "00:01:32,17"
           to: "00:01:35,05"
-          text: ~
+          text: "perché ancora abbiamo delle cose brutte."
         sequence-15:
           s: 15
           from: "00:01:35,05"
@@ -83,39 +83,39 @@ it:
           s: 16
           from: "00:01:35,22"
           to: "00:01:39,26"
-          text: ~
+          text: "Tanti dicono “abbiamo lottato per niente”: no!"
         sequence-17:
           s: 17
           from: "00:01:39,26"
           to: "00:01:44,21"
-          text: ~
+          text: "Abbiamo lottato perché noi abbiamo avuto del benessere, dopo."
         sequence-18:
           s: 18
           from: "00:01:44,21"
           to: "00:01:53,24"
-          text: ~
+          text: "Perché la nostra lotta ha servito perché noi eravamo proprio delle persone sacrificate nella vita."
         sequence-19:
           s: 19
           from: "00:01:53,24"
           to: "00:01:58,03"
-          text: ~
+          text: "E abbiamo avuto tanto,"
         sequence-20:
           s: 20
           from: "00:01:58,03"
           to: "00:02:03,24"
-          text: ~
+          text: "però volevamo che anche adesso ci fosse tanto per gli altri."
         sequence-21:
           s: 21
           from: "00:02:03,24"
           to: "00:02:09,20"
-          text: ~
+          text: "Perché noi veramente, da quello che avevamo prima, abbiamo avuto tanto, dopo la guerra:"
         sequence-22:
           s: 22
           from: "00:02:09,20"
           to: "00:02:18,01"
-          text: ~
+          text: "abbiamo lavorato, abbiamo lottato anche dopo, abbiamo costruito, abbiamo cercato perché abbiamo lavorato giorno e notte..."
         sequence-23:
           s: 23
           from: "00:02:18,01"
           to: "00:02:21,01"
-          text: ~
+          text: "però abbiamo anche avuto dei risultati."

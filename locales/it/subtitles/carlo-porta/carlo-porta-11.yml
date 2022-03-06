@@ -2,30 +2,30 @@ it:
   carlo-porta:
     chapter-11:
       c: 11
-      title: ~
+      title: L'Anppia
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,18"
           to: "00:00:05,20"
-          text: ~
+          text: "L’ANPPIA è un’associazione nata nel 1948"
         sequence-2:
           s: 2
           from: "00:00:05,20"
           to: "00:00:15,26"
-          text: ~
+          text: "che a Reggio Emilia conserviamo ancora i documenti per duemila e rotti antifascisti"
         sequence-3:
           s: 3
           from: "00:00:15,26"
           to: "00:00:20,23"
-          text: ~
+          text: "e ci teniamo a curare quel lavoro lì;"
         sequence-4:
           s: 4
           from: "00:00:20,23"
           to: "00:00:29,26"
-          text: ~
+          text: "ANPPIA vuol dire Associazione Nazionale Perseguitati Politici Italiani Antifascisti,"
         sequence-5:
           s: 5
           from: "00:00:29,26"
           to: "00:00:35,16"
-          text: ~
+          text: "che noi dove possiamo raccontiamo dappertutto e facciamo in modo."

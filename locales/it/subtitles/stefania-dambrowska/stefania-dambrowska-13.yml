@@ -2,13 +2,13 @@ it:
   stefania-dambrowska:
     chapter-13:
       c: 13
-      title: ~
+      title: "Il processo di documentazione dei crimini nazisti a Majdanek"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,18"
           to: "00:00:07,03"
-          text: ~
+          text: "Della mia persona si interessavano due uomini."
         sequence-2:
           s: 2
           from: "00:00:07,03"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:08,04"
           to: "00:00:12,20"
-          text: ~
+          text: "Uno si occupava di affari economici,"
         sequence-4:
           s: 4
           from: "00:00:12,20"
@@ -28,12 +28,12 @@ it:
           s: 5
           from: "00:00:13,26"
           to: "00:00:21,16"
-          text: ~
+          text: "aveva un congnome strano - del resto era armeno e non russo -, Jekatow, era il marito di Muta Dziewicka."
         sequence-6:
           s: 6
           from: "00:00:21,16"
           to: "00:00:29,11"
-          text: ~
+          text: "Mi propose di lavorare nell'ufficio economico nel PKWN."
         sequence-7:
           s: 7
           from: "00:00:29,11"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:30,14"
           to: "00:00:35,13"
-          text: ~
+          text: "Subito dopo venne da me il professore di medicina forense Syngalewicz"
         sequence-9:
           s: 9
           from: "00:00:35,13"
           to: "00:00:39,12"
-          text: ~
+          text: "e mi chiese di lavorare con lui nella commissione di Majdanek."
         sequence-10:
           s: 10
           from: "00:00:39,12"
@@ -58,22 +58,22 @@ it:
           s: 11
           from: "00:00:40,24"
           to: "00:00:43,15"
-          text: ~
+          text: "Accettai la sua proposta."
         sequence-12:
           s: 12
           from: "00:00:43,15"
           to: "00:00:51,28"
-          text: ~
+          text: "Viaggiavamo, guardavamo e annotavamo tutte le cose che valeva la pena di annotare."
         sequence-13:
           s: 13
           from: "00:00:51,28"
           to: "00:00:56,20"
-          text: ~
+          text: "Ad esempio camminavamo su un campo di cavoli,"
         sequence-14:
           s: 14
           from: "00:00:56,20"
           to: "00:01:06,21"
-          text: ~
+          text: "le teste non c'erano più, solo i fusti,"
         sequence-15:
           s: 15
           from: "00:01:06,21"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:07,24"
           to: "00:01:13,11"
-          text: ~
+          text: "la terra si piegava sotto i nostri piedi come un materasso e qualcosa scricchiolava."
         sequence-17:
           s: 17
           from: "00:01:13,11"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:14,17"
           to: "00:01:15,27"
-          text: ~
+          text: "Erano le ossa umane,"
         sequence-19:
           s: 19
           from: "00:01:15,27"
@@ -103,17 +103,17 @@ it:
           s: 20
           from: "00:01:17,08"
           to: "00:01:19,25"
-          text: ~
+          text: "era quello che rimaneva nei forni crematori"
         sequence-21:
           s: 21
           from: "00:01:19,25"
           to: "00:01:26,28"
-          text: ~
+          text: "e che veniva versato lì e scavato insieme al terreno, dove poi vennero piantati i cavoli."
         sequence-22:
           s: 22
           from: "00:01:26,28"
           to: "00:01:32,05"
-          text: ~
+          text: "Poi ci avvicinammo ai quei forni crematori."
         sequence-23:
           s: 23
           from: "00:01:32,05"
@@ -123,12 +123,12 @@ it:
           s: 24
           from: "00:01:33,09"
           to: "00:01:41,20"
-          text: ~
+          text: "In alcuni c'erano dei resti umani, davanti ad altri c'erano i corpi pronti per essere messi dentro."
         sequence-25:
           s: 25
           from: "00:01:41,20"
           to: "00:01:50,08"
-          text: ~
+          text: "Le persone giacevano in fia, un colpo nella nuca. I corpi erano marroni."
         sequence-26:
           s: 26
           from: "00:01:50,08"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:01:52,06"
           to: "00:01:55,24"
-          text: ~
+          text: "Non avevano un aspetto orribile, erano marroni."
         sequence-28:
           s: 28
           from: "00:01:55,24"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:01:57,00"
           to: "00:02:03,24"
-          text: ~
+          text: "L'odore era tremendo, era una giornata molto calda, era metà agosto del 1944."
         sequence-30:
           s: 30
           from: "00:02:03,24"
@@ -158,17 +158,17 @@ it:
           s: 31
           from: "00:02:04,28"
           to: "00:02:13,16"
-          text: ~
+          text: "Avevamo sempre un foulard in testa per evitare che i capelli assorbissero quell'odore."
         sequence-32:
           s: 32
           from: "00:02:13,16"
           to: "00:02:24,24"
-          text: ~
+          text: "Quando tornavamo da Majdanek a Lublino, appendevamo i nostri vestiti fuori sul balcone."
         sequence-33:
           s: 33
           from: "00:02:24,24"
           to: "00:02:29,13"
-          text: ~
+          text: "C'erano giusto i balconi in quelle barracche in cui stavamo. Era un kolchoz. Uomini, donne - tutti dormivamo nelle stesse stanze."
         sequence-34:
           s: 34
           from: "00:02:29,13"
@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:02:32,03"
           to: "00:02:39,09"
-          text: ~
+          text: "Dopo guardavamo i mucchi di scarpe tolte dalle persone destinate alla morte."
         sequence-36:
           s: 36
           from: "00:02:39,09"
@@ -188,22 +188,22 @@ it:
           s: 37
           from: "00:02:42,09"
           to: "00:02:52,16"
-          text: ~
+          text: "Scarpe dei bambini, scarpe da uomo, da donna, dei vestiti, dovevamo annotare tutto."
         sequence-38:
           s: 38
           from: "00:02:52,16"
           to: "00:03:01,22"
-          text: ~
+          text: "Poi smettemmo di andare a Majdanek e due o tre volte andammo in una foresta,"
         sequence-39:
           s: 39
           from: "00:03:01,22"
           to: "00:03:04,21"
-          text: ~
+          text: "di cui non ricordo il nome,"
         sequence-40:
           s: 40
           from: "00:03:04,21"
           to: "00:03:10,06"
-          text: ~
+          text: "dove vennero uccise delle persone."
         sequence-41:
           s: 41
           from: "00:03:10,06"
@@ -213,17 +213,17 @@ it:
           s: 42
           from: "00:03:11,09"
           to: "00:03:16,15"
-          text: ~
+          text: "Venivano buttate in un grande fosso e sepolte così, com'erano cadute."
         sequence-43:
           s: 43
           from: "00:03:16,15"
           to: "00:03:20,03"
-          text: ~
+          text: "Quando uno di questi fossi venne scavato,"
         sequence-44:
           s: 44
           from: "00:03:20,03"
           to: "00:03:23,14"
-          text: ~
+          text: "vedemmo una madre che giaceva tenendo il suo bambino,"
         sequence-45:
           s: 45
           from: "00:03:23,14"
@@ -233,9 +233,9 @@ it:
           s: 46
           from: "00:03:28,00"
           to: "00:03:34,25"
-          text: ~
+          text: "vedemmo anche una coppia, c'erano persone in tutte le posizioni"
         sequence-47:
           s: 47
           from: "00:03:34,25"
           to: "00:03:45,15"
-          text: ~
+          text: "Bisognava tirare fuori dai vestiti i loro documenti e cercare di identificarle."

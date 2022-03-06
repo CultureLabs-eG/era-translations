@@ -2,18 +2,18 @@ it:
   lipej-kolenik:
     chapter-1:
       c: 1
-      title: ~
+      title: "Anschluss, persecuzione, propaganda per la Resistenza"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,08"
           to: "00:00:04,05"
-          text: ~
+          text: "Papà, Wasilij, era ancora giovane."
         sequence-2:
           s: 2
           from: "00:00:04,05"
           to: "00:00:18,27"
-          text: ~
+          text: "Continuava a dire del Nazionalsocialismo: 'Non andrà bene'."
         sequence-3:
           s: 3
           from: "00:00:18,27"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:20,17"
           to: "00:00:24,12"
-          text: ~
+          text: "Dopo, l'autorità fu presa dai nazisti,"
         sequence-5:
           s: 5
           from: "00:00:24,12"
           to: "00:00:31,28"
-          text: ~
+          text: "che hanno subito rinchiuso un certo numero di persone di minoranza slovena"
         sequence-6:
           s: 6
           from: "00:00:31,28"
@@ -38,32 +38,32 @@ it:
           s: 7
           from: "00:00:36,15"
           to: "00:00:45,18"
-          text: ~
+          text: "e preti. Abbiamo visto così che non era certo la maniera che ci era stata promessa."
         sequence-8:
           s: 8
           from: "00:00:45,18"
           to: "00:00:50,20"
-          text: ~
+          text: "Era un periodo senza lavoro e pane."
         sequence-9:
           s: 9
           from: "00:00:50,20"
           to: "00:01:00,08"
-          text: ~
+          text: "Questo aiutò i nazionalsocialisti a salire al potere."
         sequence-10:
           s: 10
           from: "00:01:00,08"
           to: "00:01:09,25"
-          text: ~
+          text: "E molti si lasciavano guidare dalla propaganda"
         sequence-11:
           s: 11
           from: "00:01:09,25"
           to: "00:01:16,20"
-          text: ~
+          text: "col credere che tutto si sarebbe rimesso a posto."
         sequence-12:
           s: 12
           from: "00:01:16,20"
           to: "00:01:22,27"
-          text: ~
+          text: "Che le persone avrebbero vissuto bene - sotto Adolf Hitler."
         sequence-13:
           s: 13
           from: "00:01:22,27"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:24,04"
           to: "00:01:36,00"
-          text: ~
+          text: "Ma quando i primi sloveni furono rinchiusi, sapevamo già che mio padre aveva ragione."
         sequence-15:
           s: 15
           from: "00:01:36,00"
@@ -83,22 +83,22 @@ it:
           s: 16
           from: "00:01:37,04"
           to: "00:01:47,05"
-          text: ~
+          text: "La gente ha perso fiducia in Adolf Hitler"
         sequence-17:
           s: 17
           from: "00:01:47,05"
           to: "00:01:54,12"
-          text: ~
+          text: "e si costituì la Resistenza contro il fascismo e l'hitlerismo."
         sequence-18:
           s: 18
           from: "00:01:54,12"
           to: "00:02:05,18"
-          text: ~
+          text: "I primi disertori della Wehrmacht erano già sfuggiti in Jugoslavia nel 1939."
         sequence-19:
           s: 19
           from: "00:02:05,18"
           to: "00:02:17,13"
-          text: ~
+          text: "Dopo l'occupazione della Jugoslavia furono arrestati o si nascosero sotto mentite spoglie;"
         sequence-20:
           s: 20
           from: "00:02:17,13"
@@ -108,17 +108,17 @@ it:
           s: 21
           from: "00:02:18,11"
           to: "00:02:22,07"
-          text: ~
+          text: "come fece il mio collega Karl Potoschki."
         sequence-22:
           s: 22
           from: "00:02:22,07"
           to: "00:02:31,04"
-          text: ~
+          text: "Lavorava sotto falso nome in un Hotel in Bosnia."
         sequence-23:
           s: 23
           from: "00:02:31,04"
           to: "00:02:45,07"
-          text: ~
+          text: "Il 20 Ottobre 1939 fu fucilato con 20.000 altri ricercati e ucciso."
         sequence-24:
           s: 24
           from: "00:02:45,07"
@@ -128,37 +128,37 @@ it:
           s: 25
           from: "00:02:47,02"
           to: "00:02:57,07"
-          text: ~
+          text: "Quelli che tornavano dopo l'occupazione della Jugoslavia furono per lo più rinchiusi,"
         sequence-26:
           s: 26
           from: "00:02:57,07"
           to: "00:03:05,06"
-          text: ~
+          text: "rispettivamente erano i quadri del fronte di liberazione degli sloveni in Carinzia."
         sequence-27:
           s: 27
           from: "00:03:05,06"
           to: "00:03:15,08"
-          text: ~
+          text: "Alcuni si unirono subito ai Partigiani; altri in seguito, ma l'inizio c'era già stato."
         sequence-28:
           s: 28
           from: "00:03:15,08"
           to: "00:03:22,27"
-          text: ~
+          text: "Di giorno in giorno la Resistenza si rafforzava sempre di più."
         sequence-29:
           s: 29
           from: "00:03:22,27"
           to: "00:03:32,29"
-          text: ~
+          text: "Oggi, ti rendi conto di quanto fosse coraggiosa la gente -"
         sequence-30:
           s: 30
           from: "00:03:32,29"
           to: "00:03:40,09"
-          text: ~
+          text: "era una questione di 'testa' e la gente non ne aveva la più pallida idea."
         sequence-31:
           s: 31
           from: "00:03:40,09"
           to: "00:03:51,20"
-          text: ~
+          text: "I poveri sono quelli che hanno aiutato la ribellione."
         sequence-32:
           s: 32
           from: "00:03:51,20"
@@ -168,14 +168,14 @@ it:
           s: 33
           from: "00:03:55,19"
           to: "00:04:02,08"
-          text: ~
+          text: "Senza l'aiuto della popolazione rurale, la Resistenza sarebbe stata impossibile."
         sequence-34:
           s: 34
           from: "00:04:02,08"
           to: "00:04:14,03"
-          text: ~
+          text: "Per questo solo fu possibile che il numero dei Partigiani diventasse ogni giorno più nutrito."
         sequence-35:
           s: 35
           from: "00:04:14,03"
           to: "00:04:20,11"
-          text: ~
+          text: "E con loro la speranza che un giorno le cose cambiassero."

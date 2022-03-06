@@ -2,23 +2,23 @@ it:
   carlo-porta:
     chapter-5:
       c: 5
-      title: ~
+      title: "Deportazione in Germania"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,26"
           to: "00:00:05,13"
-          text: ~
+          text: "Dopo quando sono tornato a casa sono andato a lavorare lì,"
         sequence-2:
           s: 2
           from: "00:00:05,13"
           to: "00:00:13,14"
-          text: ~
+          text: "dopo tre mesi mi chiamano militare ancora, perché io ero militare prima e ho dovuto tornare a fare il militare."
         sequence-3:
           s: 3
           from: "00:00:13,14"
           to: "00:00:20,17"
-          text: ~
+          text: "Mi han fatto fare il CAR a Bari per la seconda volta e poi ad un bel momento mi hanno mandato in Albania."
         sequence-4:
           s: 4
           from: "00:00:20,17"
@@ -28,57 +28,57 @@ it:
           s: 5
           from: "00:00:22,02"
           to: "00:00:27,19"
-          text: ~
+          text: "Io non ci volevo andare e mi sono messo a rapporto con il colonnello,"
         sequence-6:
           s: 6
           from: "00:00:27,19"
           to: "00:00:38,24"
-          text: ~
+          text: "dicendo che io le ragioni le conoscevo, cioè tu non potevi avere un’arma, non avevi più nessun diritto in seguito alla condanna che hai ricevuto."
         sequence-7:
           s: 7
           from: "00:00:38,24"
           to: "00:00:47,19"
-          text: ~
+          text: "Lui mi ha detto “guardi che io son dell’esercito però ho fatto la guerra in Albania con le camicie nere,"
         sequence-8:
           s: 8
           from: "00:00:47,19"
           to: "00:00:52,11"
-          text: ~
+          text: "quindi se ci son stato io ci vai anche te”."
         sequence-9:
           s: 9
           from: "00:00:52,11"
           to: "00:00:58,03"
-          text: ~
+          text: "Sono quattro o cinque mesi che sono in Albania, eravamo a Durazzo noi,"
         sequence-10:
           s: 10
           from: "00:00:58,03"
           to: "00:01:07,24"
-          text: ~
+          text: "arriva un documento del Ministero che io devo rientrare subito in Italia perché non dovevo essere lì:"
         sequence-11:
           s: 11
           from: "00:01:07,24"
           to: "00:01:16,15"
-          text: ~
+          text: "si va al porto, ci imbarchiamo sulla nave e mi ricorderò sempre si chiamava Disentine quella nave,"
         sequence-12:
           s: 12
           from: "00:01:16,15"
           to: "00:01:26,01"
-          text: ~
+          text: "siamo stati lì tre giorni, e la nave non partiva perché c’erano i sottomarini inglesi, questo è quello che si diceva."
         sequence-13:
           s: 13
           from: "00:01:26,01"
           to: "00:01:34,22"
-          text: ~
+          text: "Una sera lo vedevamo dalla nave, è scoppiata lì a Durazzo una grande festa,"
         sequence-14:
           s: 14
           from: "00:01:34,22"
           to: "00:01:40,12"
-          text: ~
+          text: "la gente che si abbracciava, dopo siamo scesi giù:"
         sequence-15:
           s: 15
           from: "00:01:40,12"
           to: "00:01:48,10"
-          text: ~
+          text: "Badoglio aveva detto che la guerra era finita, tutta quella storia lì, l’8 settembre."
         sequence-16:
           s: 16
           from: "00:01:48,10"
@@ -88,62 +88,62 @@ it:
           s: 17
           from: "00:01:53,10"
           to: "00:02:01,02"
-          text: ~
+          text: "Lì con noi come truppe di occupazione c’erano anche una cinquantina di tedeschi, sempre roba dell’esercito,"
         sequence-18:
           s: 18
           from: "00:02:01,02"
           to: "00:02:08,16"
-          text: ~
+          text: "i tedeschi si sono spogliati anche loro poi hanno festeggiato insieme agli italiani;"
         sequence-19:
           s: 19
           from: "00:02:08,16"
           to: "00:02:14,00"
-          text: ~
+          text: "dopo otto giorni sono tornati a vestirsi da tedeschi."
         sequence-20:
           s: 20
           from: "00:02:14,00"
           to: "00:02:20,08"
-          text: ~
+          text: "Dopo lì nessuno comunicava più con Roma,"
         sequence-21:
           s: 21
           from: "00:02:20,08"
           to: "00:02:31,09"
-          text: ~
+          text: "cioè anche gli addetti ai servizi, la foreria ecc., non riusciva più a comunicare con Roma perché non rispondeva nessuno"
         sequence-22:
           s: 22
           from: "00:02:31,09"
           to: "00:02:34,05"
-          text: ~
+          text: "e forse è stata anche una fortuna:"
         sequence-23:
           s: 23
           from: "00:02:34,05"
           to: "00:02:42,24"
-          text: ~
+          text: "i nostri grandi ufficiali, il generale Mondini che era di Parma, che era il generale della mia divisione e della Reggio,"
         sequence-24:
           s: 24
           from: "00:02:42,24"
           to: "00:02:48,02"
-          text: ~
+          text: "ad un certo momento hanno radunato tutti i soldati e han detto una balla,"
         sequence-25:
           s: 25
           from: "00:02:48,02"
           to: "00:02:53,20"
-          text: ~
+          text: "secondo me era una balla anche quando l’hanno detta,"
         sequence-26:
           s: 26
           from: "00:02:53,20"
           to: "00:03:01,05"
-          text: ~
+          text: "cioè hanno detto che avevano raggiunto un accordo con i tedeschi, che loro ci avrebbero portati a Trieste"
         sequence-27:
           s: 27
           from: "00:03:01,05"
           to: "00:03:05,11"
-          text: ~
+          text: "poi ognuno si sceglieva la propria strada."
         sequence-28:
           s: 28
           from: "00:03:05,11"
           to: "00:03:14,14"
-          text: ~
+          text: "Io non è che ci credessi troppo, e infatti ci siamo imbarcati, eravamo quarantadue ogni vagone."
         sequence-29:
           s: 29
           from: "00:03:14,14"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:03:15,11"
           to: "00:03:20,18"
-          text: ~
+          text: "Arriviamo sul confine e allora chiudono i vagoni dicendo che c’erano i partigiani."
         sequence-31:
           s: 31
           from: "00:03:20,18"
@@ -163,57 +163,57 @@ it:
           s: 32
           from: "00:03:21,12"
           to: "00:03:29,15"
-          text: ~
+          text: "Alla mattina, io avevo un libriccino in cui c’era una cartina, eravamo in Austria,"
         sequence-33:
           s: 33
           from: "00:03:29,15"
           to: "00:03:33,02"
-          text: ~
+          text: "e ho detto “allora qua signori belli noialtri…”;"
         sequence-34:
           s: 34
           from: "00:03:33,02"
           to: "00:03:41,25"
-          text: ~
+          text: "sono andato a Neubrandenburg che è 200 km oltre Berlino,"
         sequence-35:
           s: 35
           from: "00:03:41,25"
           to: "00:03:54,13"
-          text: ~
+          text: "che poi ho avuto la soddisfazione, tre o quattro anni fa, che sono andato a visitare il mio campo dopo sessant’anni, son tornato a vederlo."
         sequence-36:
           s: 36
           from: "00:03:54,13"
           to: "00:04:01,01"
-          text: ~
+          text: "Dopo siamo stati lì un periodo di tempo sempre sotto i bombardamenti:"
         sequence-37:
           s: 37
           from: "00:04:01,01"
           to: "00:04:09,13"
-          text: ~
+          text: "dentro al campo nelle prime due baracche c’era la direzione dei tedeschi eran tutti loro,"
         sequence-38:
           s: 38
           from: "00:04:09,13"
           to: "00:04:18,20"
-          text: ~
+          text: "poi c’erano due baracche di prigioniere, donne sovietiche che le facevano lavorare con pale piccole sulle ferrovie,"
         sequence-39:
           s: 39
           from: "00:04:18,20"
           to: "00:04:26,05"
-          text: ~
+          text: "poi c’erano i francesi e poi c’eravamo noi, non so quante migliaia di prigionieri c’erano."
         sequence-40:
           s: 40
           from: "00:04:26,05"
           to: "00:04:35,25"
-          text: ~
+          text: "Siccome che io, questo è quel che conta non voglio mica scordarlo, ero accompagnato da due sottufficiali,"
         sequence-41:
           s: 41
           from: "00:04:35,25"
           to: "00:04:41,25"
-          text: ~
+          text: "cioè i miei documenti partendo dall’Albania li avevano loro due,"
         sequence-42:
           s: 42
           from: "00:04:41,25"
           to: "00:04:50,15"
-          text: ~
+          text: "credo che li avessero mandati anche per una licenza premio, non lo so perché erano uno di Cosenza e uno di Catanzaro:"
         sequence-43:
           s: 43
           from: "00:04:50,15"
@@ -223,77 +223,77 @@ it:
           s: 44
           from: "00:04:52,03"
           to: "00:05:03,06"
-          text: ~
+          text: "quando le cose son cambiate che c’era quella situazione lì, a me è venuta anche una paura perché sapevo che i tedeschi con i comunisti con andavano tanto d’accordo,"
         sequence-45:
           s: 45
           from: "00:05:03,06"
           to: "00:05:12,17"
-          text: ~
+          text: "e loro cominciavamo ad aver anche qualche esigenza di una cosa o un’altra."
         sequence-46:
           s: 46
           from: "00:05:12,17"
           to: "00:05:19,08"
-          text: ~
+          text: "Una notte hanno cercato trenta, loro erano a dormire in un altro angolo del capannone,"
         sequence-47:
           s: 47
           from: "00:05:19,08"
           to: "00:05:25,22"
-          text: ~
+          text: "perché essendo ufficiali gli avevano dato dei letti a castello mentre noi dormivamo sulla paglia lì per terra,"
         sequence-48:
           s: 48
           from: "00:05:25,22"
           to: "00:05:37,08"
-          text: ~
+          text: "sono riuscito a sgattaiolare via, che dopo non ho più saputo niente e forse ho fatto male,"
         sequence-49:
           s: 49
           from: "00:05:37,08"
           to: "00:05:42,21"
-          text: ~
+          text: "perché mi era venuta paura se non gli danno"
         sequence-50:
           s: 50
           from: "00:05:42,21"
           to: "00:05:48,17"
-          text: ~
+          text: "i documenti in mano a una guardia, perché lì erano cattivi,"
         sequence-51:
           s: 51
           from: "00:05:48,17"
           to: "00:05:54,23"
-          text: ~
+          text: "perché passavano al mattino con una parola che ho imparato subito “Aufstehn”,"
         sequence-52:
           s: 52
           from: "00:05:54,23"
           to: "00:06:02,15"
-          text: ~
+          text: "abbiamo pensato cosa ci sarà da fare, ci sarà da prendere il caffè…"
         sequence-53:
           s: 53
           from: "00:06:02,15"
           to: "00:06:07,20"
-          text: ~
+          text: "Dopo sono venuti dentro in quattro o cinque con delle manette,"
         sequence-54:
           s: 54
           from: "00:06:07,20"
           to: "00:06:13,19"
-          text: ~
+          text: "dovevi alzarti però noi non sapevamo quella parola lì."
         sequence-55:
           s: 55
           from: "00:06:13,19"
           to: "00:06:20,15"
-          text: ~
+          text: "Cioè erano già cattivi anche lì, e così io ho abbandonato e sono andato in questo campo,"
         sequence-56:
           s: 56
           from: "00:06:20,15"
           to: "00:06:27,02"
-          text: ~
+          text: "che avevano bombardato un grosso fiume, abbiamo cominciato a lavorare così;"
         sequence-57:
           s: 57
           from: "00:06:27,02"
           to: "00:06:33,23"
-          text: ~
+          text: "io di loro non ho più saputo niente perché quello lì praticamente era un campo di smistamento,"
         sequence-58:
           s: 58
           from: "00:06:33,23"
           to: "00:06:42,10"
-          text: ~
+          text: "tutti i gironi arrivavano cento, centocinquanta o duecento prigionieri, era sempre un continuo arrivare lì con i treni. Dopo non ho più saputo niente."
         sequence-59:
           s: 59
           from: "00:06:42,10"
@@ -303,12 +303,12 @@ it:
           s: 60
           from: "00:06:48,03"
           to: "00:06:52,05"
-          text: ~
+          text: "Io ho fatto quattro campi di concentramento in Germania,"
         sequence-61:
           s: 61
           from: "00:06:52,05"
           to: "00:07:02,20"
-          text: ~
+          text: "che l’ultimo dove poi ci hanno liberato si chiama Wickede che era poi in Westfalia, in provincia di Dortmund, l’ultimo campo è stato quello lì."
         sequence-62:
           s: 62
           from: "00:07:02,20"
@@ -318,57 +318,57 @@ it:
           s: 63
           from: "00:07:04,14"
           to: "00:07:09,15"
-          text: ~
+          text: "Normalmente la gente poi dormiva anche subito,"
         sequence-64:
           s: 64
           from: "00:07:09,15"
           to: "00:07:19,15"
-          text: ~
+          text: "ma perché noi nel periodo più lungo che era ad Hagen In Westfalia ancora, era in provincia di Dortmund che era una grossissima città."
         sequence-65:
           s: 65
           from: "00:07:19,15"
           to: "00:07:32,00"
-          text: ~
+          text: "Lì dove c’era il campo a Wickede avevi la sveglia alle 5 del mattino, dovevi fare 2 km a piedi per andare in stazione,"
         sequence-66:
           s: 66
           from: "00:07:32,00"
           to: "00:07:38,07"
-          text: ~
+          text: "poi 70 km di treno, poi da là dovevi vagabondare dalla stazione per andare sul tuo lavoro,"
         sequence-67:
           s: 67
           from: "00:07:38,07"
           to: "00:07:44,02"
-          text: ~
+          text: "e alla sera a volte tornavo a casa alle nove."
         sequence-68:
           s: 68
           from: "00:07:44,02"
           to: "00:07:49,07"
-          text: ~
+          text: "Allora succedevano anche delle cose mica belle, poche volte però è successo:"
         sequence-69:
           s: 69
           from: "00:07:49,07"
           to: "00:07:59,06"
-          text: ~
+          text: "ad un certo orario non so dieci e mezza vengono a fare il controllo, tutti nel corridoio,"
         sequence-70:
           s: 70
           from: "00:07:59,06"
           to: "00:08:10,03"
-          text: ~
+          text: "c’era chi dormiva sotto in un angolo, c’era anche un malato, allora ci mandano tutti fuori a far ginnastica."
         sequence-71:
           s: 71
           from: "00:08:10,03"
           to: "00:08:19,18"
-          text: ~
+          text: "Avevi gli zoccolo di legno, magari li perdevi giù per la scala, c’erano sempre tre gradini in tutte le baracche,"
         sequence-72:
           s: 72
           from: "00:08:19,18"
           to: "00:08:25,10"
-          text: ~
+          text: "poi stavano delle ore a farti girare, delle volte pioveva anche;"
         sequence-73:
           s: 73
           from: "00:08:25,10"
           to: "00:08:31,03"
-          text: ~
+          text: "io dico che è successo poche volte però sono successe anche queste cose."
         sequence-74:
           s: 74
           from: "00:08:31,03"
@@ -378,34 +378,34 @@ it:
           s: 75
           from: "00:08:32,20"
           to: "00:08:39,25"
-          text: ~
+          text: "Io sono stato arrestato, cioè ci hanno caricati loro sui treni il 16 settembre"
         sequence-76:
           s: 76
           from: "00:08:39,25"
           to: "00:08:44,17"
-          text: ~
+          text: "e sono tornato a casa dopo due anni il 14 settembre,"
         sequence-77:
           s: 77
           from: "00:08:44,17"
           to: "00:08:52,05"
-          text: ~
+          text: "perché noi essendo in quella zona della Ruhr, le fabbriche di guerra erano tutte lì:"
         sequence-78:
           s: 78
           from: "00:08:52,05"
           to: "00:09:04,20"
-          text: ~
+          text: "c’erano quelle fabbriche dei carroarmati che gli americani per andarci dentro usavano quelle famose bombe a grappolo,"
         sequence-79:
           s: 79
           from: "00:09:04,20"
           to: "00:09:09,17"
-          text: ~
+          text: "bombardavano tutte le notti, io non scappavo neanche più"
         sequence-80:
           s: 80
           from: "00:09:09,17"
           to: "00:09:14,24"
-          text: ~
+          text: "perché quelli che scappavano correvano sotto alle bombe."
         sequence-81:
           s: 81
           from: "00:09:14,24"
           to: "00:09:17,03"
-          text: ~
+          text: "Noi abbiamo fatto quella trafila lì."

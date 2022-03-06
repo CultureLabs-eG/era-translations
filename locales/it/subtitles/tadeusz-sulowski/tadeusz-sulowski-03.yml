@@ -2,18 +2,18 @@ it:
   tadeusz-sulowski:
     chapter-3:
       c: 3
-      title: ~
+      title: "La vita a Varsavia; contatti con le organizzazioni di sinistra"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,00"
           to: "00:00:05,08"
-          text: ~
+          text: "A Varsavia dovevamo prendere in affitto un appartamento,"
         sequence-2:
           s: 2
           from: "00:00:05,08"
           to: "00:00:22,00"
-          text: ~
+          text: "perché la nostra casa era stata distrutta durante le operazioni militari."
         sequence-3:
           s: 3
           from: "00:00:22,00"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:25,28"
           to: "00:00:30,26"
-          text: ~
+          text: "Affittammo un appartamento in viale Ujazdowskie."
         sequence-5:
           s: 5
           from: "00:00:30,26"
           to: "00:00:35,29"
-          text: ~
+          text: "La proprietaria si chiamava sig.ra Kijewska."
         sequence-6:
           s: 6
           from: "00:00:35,29"
@@ -38,17 +38,17 @@ it:
           s: 7
           from: "00:00:40,24"
           to: "00:00:48,10"
-          text: ~
+          text: "Così iniziò la nostra vita nella Varsavia occupata."
         sequence-8:
           s: 8
           from: "00:00:48,10"
           to: "00:00:53,10"
-          text: ~
+          text: "A Varsavia, naturalmente, non ci dovevamo inchinare ai tedeschi."
         sequence-9:
           s: 9
           from: "00:00:53,10"
           to: "00:00:58,00"
-          text: ~
+          text: "Era il cosiddetto Gevernorato Generale."
         sequence-10:
           s: 10
           from: "00:00:58,00"
@@ -58,22 +58,22 @@ it:
           s: 11
           from: "00:01:01,02"
           to: "00:01:15,04"
-          text: ~
+          text: "Non avevamo delle grandi libertà, ma potevamo andare alla scuola elementare."
         sequence-12:
           s: 12
           from: "00:01:15,04"
           to: "00:01:21,15"
-          text: ~
+          text: "Mie sorelle studiavano dalle Suore di Nazareth."
         sequence-13:
           s: 13
           from: "00:01:21,15"
           to: "00:01:26,23"
-          text: ~
+          text: "Mio fratello si era già diplomato, quindi non andava a scuola."
         sequence-14:
           s: 14
           from: "00:01:26,23"
           to: "00:01:38,02"
-          text: ~
+          text: "Mia sorella più grande molto presto si iscrisse all'università illegale."
         sequence-15:
           s: 15
           from: "00:01:38,02"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:40,13"
           to: "00:01:46,03"
-          text: ~
+          text: "Le università infatti riuscirono a partire in tempo."
         sequence-17:
           s: 17
           from: "00:01:46,03"
@@ -93,39 +93,39 @@ it:
           s: 18
           from: "00:01:48,07"
           to: "00:01:54,22"
-          text: ~
+          text: "Mio fratello invece presto entrò in contatto"
         sequence-19:
           s: 19
           from: "00:01:54,22"
           to: "00:02:09,23"
-          text: ~
+          text: "con un'organizzazione illegale di sinistra."
         sequence-20:
           s: 20
           from: "00:02:09,23"
           to: "00:02:26,21"
-          text: ~
+          text: "Molti giovani all'epoca nutrivano rancore verso il nostro precedente sistema politico, il periodo del governo di Piłsudski,"
         sequence-21:
           s: 21
           from: "00:02:26,21"
           to: "00:02:32,04"
-          text: ~
+          text: "con molte ingiustizie e molta povertà."
         sequence-22:
           s: 22
           from: "00:02:32,04"
           to: "00:02:40,16"
-          text: ~
+          text: "I giovani spesso non accettavano questa situazione nella nuova Polonia"
         sequence-23:
           s: 23
           from: "00:02:40,16"
           to: "00:02:48,09"
-          text: ~
+          text: "e volevano introdurre un sistema più democratico."
         sequence-24:
           s: 24
           from: "00:02:48,09"
           to: "00:02:53,04"
-          text: ~
+          text: "Per questo motivo mio fratello entrò a far parte del PPS (Partito Socialista Polacco)."
         sequence-25:
           s: 25
           from: "00:02:53,04"
           to: "00:03:05,18"
-          text: ~
+          text: "Però non del PPS sotto la protezione dell'URSS, che era chiamato RPPS (Partito socialista operaio polacco), ma di quello guidato da Londra."

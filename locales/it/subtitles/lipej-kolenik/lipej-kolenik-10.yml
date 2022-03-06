@@ -2,13 +2,13 @@ it:
   lipej-kolenik:
     chapter-10:
       c: 10
-      title: ~
+      title: "Donne nella Resistenza"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:03,03"
-          text: ~
+          text: "Le donne erano davvero povere."
         sequence-2:
           s: 2
           from: "00:00:03,03"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:04,26"
           to: "00:00:11,29"
-          text: ~
+          text: "Perché per questo hanno dovuto pagare davvero più degli altri."
         sequence-4:
           s: 4
           from: "00:00:11,29"
@@ -28,32 +28,32 @@ it:
           s: 5
           from: "00:00:15,11"
           to: "00:00:20,18"
-          text: ~
+          text: "Ma erano donne davvero coraggiose."
         sequence-6:
           s: 6
           from: "00:00:20,18"
           to: "00:00:23,15"
-          text: ~
+          text: "Alcune erano più coraggiose degli uomini."
         sequence-7:
           s: 7
           from: "00:00:23,15"
           to: "00:00:31,12"
-          text: ~
+          text: "Tre di queste donne le porto nel mio cuore e non le dimenticherò mai."
         sequence-8:
           s: 8
           from: "00:00:31,12"
           to: "00:00:34,04"
-          text: ~
+          text: "Non avevano paure."
         sequence-9:
           s: 9
           from: "00:00:34,04"
           to: "00:00:41,01"
-          text: ~
+          text: "Se ci sono state sparatorie di ritorno loro hanno sparato proprio come gli altri."
         sequence-10:
           s: 10
           from: "00:00:41,01"
           to: "00:00:49,06"
-          text: ~
+          text: "Ma alcune erano placide."
         sequence-11:
           s: 11
           from: "00:00:49,06"
@@ -63,17 +63,17 @@ it:
           s: 12
           from: "00:00:50,16"
           to: "00:01:00,14"
-          text: ~
+          text: "Non avevano niente di cui ridere a causa dei loro \"problemi mensili\"."
         sequence-13:
           s: 13
           from: "00:01:00,14"
           to: "00:01:07,17"
-          text: ~
+          text: "Gestire tutto questo e farcela non è stato facile."
         sequence-14:
           s: 14
           from: "00:01:07,17"
           to: "00:01:18,13"
-          text: ~
+          text: "Ma ce l'hanno fatta e hanno mostrato coraggio."
         sequence-15:
           s: 15
           from: "00:01:18,13"
@@ -83,12 +83,12 @@ it:
           s: 16
           from: "00:01:19,08"
           to: "00:01:33,19"
-          text: ~
+          text: "La maggior parte di loro ha svolto il lavoro di ufficio nei battaglioni, per le organizzazioni più grandi."
         sequence-17:
           s: 17
           from: "00:01:33,19"
           to: "00:01:37,28"
-          text: ~
+          text: "Ma non è per tutte un lavoro del genere."
         sequence-18:
           s: 18
           from: "00:01:37,28"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:01:40,19"
           to: "00:01:43,17"
-          text: ~
+          text: "Ma non è stato facile per le donne."
         sequence-20:
           s: 20
           from: "00:01:43,17"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:01:53,04"
           to: "00:01:59,27"
-          text: ~
+          text: "Alcune donne sono state scelte per aiutare i feriti."
         sequence-22:
           s: 22
           from: "00:01:59,27"
@@ -118,54 +118,54 @@ it:
           s: 23
           from: "00:02:01,25"
           to: "00:02:10,01"
-          text: ~
+          text: "Erano anche molto coraggiose. Hanno aiutato nel miglior modo possibile."
         sequence-24:
           s: 24
           from: "00:02:10,01"
           to: "00:02:22,20"
-          text: ~
+          text: "Quando fui ferito il 19 marzo 1945, c'erano anche donne."
         sequence-25:
           s: 25
           from: "00:02:22,20"
           to: "00:02:27,24"
-          text: ~
+          text: "Prima mi hanno aiutato e poi mi hanno portato da un contadino"
         sequence-26:
           s: 26
           from: "00:02:27,24"
           to: "00:02:37,06"
-          text: ~
+          text: "e da lì dietro a una capanna che prima è stata una legnaia."
         sequence-27:
           s: 27
           from: "00:02:37,06"
           to: "00:02:44,25"
-          text: ~
+          text: "Avevano una baracca per i lavoratori forestali ed è lì che ho vissuto fino alla fine della guerra."
         sequence-28:
           s: 28
           from: "00:02:44,25"
           to: "00:02:49,21"
-          text: ~
+          text: "Ancora una volta sono state le donne ad aiutarmi."
         sequence-29:
           s: 29
           from: "00:02:49,21"
           to: "00:02:55,18"
-          text: ~
+          text: "Hanno portato latte, pane e zucchero."
         sequence-30:
           s: 30
           from: "00:02:55,18"
           to: "00:02:59,28"
-          text: ~
+          text: "Si sono prese cura di me come mia madre."
         sequence-31:
           s: 31
           from: "00:02:59,28"
           to: "00:03:02,23"
-          text: ~
+          text: "Non dimenticherò mai questa gente."
         sequence-32:
           s: 32
           from: "00:03:02,23"
           to: "00:03:08,23"
-          text: ~
+          text: "Non potresti nemmeno ripagarla."
         sequence-33:
           s: 33
           from: "00:03:08,23"
           to: "00:03:13,09"
-          text: ~
+          text: "Solo un sincero grazie, niente di più."

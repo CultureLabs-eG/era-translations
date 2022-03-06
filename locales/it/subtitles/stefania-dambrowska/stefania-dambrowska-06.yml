@@ -2,18 +2,18 @@ it:
   stefania-dambrowska:
     chapter-6:
       c: 6
-      title: ~
+      title: "La morte dei Minkowski. L'arrivo di una bambina ebrea"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,26"
           to: "00:00:03,05"
-          text: ~
+          text: "Era il 1941."
         sequence-2:
           s: 2
           from: "00:00:03,05"
           to: "00:00:09,06"
-          text: ~
+          text: "La guerra tedesco-sovietica scoppiò nel giugno del '41 ed era ancora lo stesso anno."
         sequence-3:
           s: 3
           from: "00:00:09,06"
@@ -23,27 +23,27 @@ it:
           s: 4
           from: "00:00:11,29"
           to: "00:00:19,11"
-          text: ~
+          text: "Cercai di noleggiare un carro che li potesse portare in Bielorussia."
         sequence-5:
           s: 5
           from: "00:00:19,11"
           to: "00:00:28,12"
-          text: ~
+          text: "Hana aveva dei vestiti, Arnold non aveva niente, lei però sì."
         sequence-6:
           s: 6
           from: "00:00:28,12"
           to: "00:00:34,19"
-          text: ~
+          text: "Avrà avuto qualcosa da suo padre. Così si poteva rivendere qualcosa."
         sequence-7:
           s: 7
           from: "00:00:34,19"
           to: "00:00:38,04"
-          text: ~
+          text: "Io avevo solo qualche soldo per mangiare."
         sequence-8:
           s: 8
           from: "00:00:38,04"
           to: "00:00:46,10"
-          text: ~
+          text: "C'era un signore che un tempo aveva comprato un pezzo di terra da Orwidów."
         sequence-9:
           s: 9
           from: "00:00:46,10"
@@ -53,37 +53,37 @@ it:
           s: 10
           from: "00:00:47,07"
           to: "00:00:54,21"
-          text: ~
+          text: "Aveva sempre sognato di andare in America."
         sequence-11:
           s: 11
           from: "00:00:54,21"
           to: "00:00:59,28"
-          text: ~
+          text: "Il suo nome era Janek Mackiewicz."
         sequence-12:
           s: 12
           from: "00:00:59,28"
           to: "00:01:10,12"
-          text: ~
+          text: "Decise che avrebbe potuto portarli a cavallo per circa 100 chilometri, in Bielorussia, dalla famiglia Fedecki."
         sequence-13:
           s: 13
           from: "00:01:10,12"
           to: "00:01:14,20"
-          text: ~
+          text: "Alla fine morirono lì."
         sequence-14:
           s: 14
           from: "00:01:14,20"
           to: "00:01:19,17"
-          text: ~
+          text: "Così una famiglia partì."
         sequence-15:
           s: 15
           from: "00:01:19,17"
           to: "00:01:26,00"
-          text: ~
+          text: "Andai a Vilnius, avevo un luogo di contatto perché dovevo procurare dei documenti per una persona"
         sequence-16:
           s: 16
           from: "00:01:26,00"
           to: "00:01:34,05"
-          text: ~
+          text: "che doveva venire da me a Orwidów, prendere quei documenti e partire, penso, per Varsavia."
         sequence-17:
           s: 17
           from: "00:01:34,05"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:36,15"
           to: "00:01:39,16"
-          text: ~
+          text: "Andai da una signora che avevo visto una volta sola nella vita."
         sequence-19:
           s: 19
           from: "00:01:39,16"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:41,03"
           to: "00:01:44,12"
-          text: ~
+          text: "Lì era stato fissato il mio luogo di contatto."
         sequence-21:
           s: 21
           from: "00:01:44,12"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:01:45,12"
           to: "00:01:49,18"
-          text: ~
+          text: "Lei mi disse che avrei potuto salvare un bambino."
         sequence-23:
           s: 23
           from: "00:01:49,18"
@@ -123,7 +123,7 @@ it:
           s: 24
           from: "00:01:51,19"
           to: "00:02:00,04"
-          text: ~
+          text: "Sorrisi anche perché i bambini non mi piacciono per niente, sono terribili."
         sequence-25:
           s: 25
           from: "00:02:00,04"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:02:01,14"
           to: "00:02:14,25"
-          text: ~
+          text: "Quindi c'era questa storia per cui una sua amica di Varsavia, anzi più di Vilnius,"
         sequence-27:
           s: 27
           from: "00:02:14,25"
           to: "00:02:25,10"
-          text: ~
+          text: "con cui prima della guerra aveva seguito qualche corso di pronto soccorso,"
         sequence-28:
           s: 28
           from: "00:02:25,10"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:02:27,00"
           to: "00:02:35,14"
-          text: ~
+          text: "aveva i genitori a Vilnius e a loro aveva affidato la sua figlia di 3 anni."
         sequence-30:
           s: 30
           from: "00:02:35,14"
@@ -158,22 +158,22 @@ it:
           s: 31
           from: "00:02:39,09"
           to: "00:02:43,03"
-          text: ~
+          text: "Lei viveva a Grodno perché il marito era un ingegnere chimico"
         sequence-32:
           s: 32
           from: "00:02:43,03"
           to: "00:02:50,00"
-          text: ~
+          text: "e lavorava a Grodno, per l'Unione Sovietica, in qualche fabbrica chimica."
         sequence-33:
           s: 33
           from: "00:02:50,00"
           to: "00:03:02,03"
-          text: ~
+          text: "Quando scoppiò la guerra con i tedeschi, il sig. Józef venne mobilitato e portato in profondità dell'Unione Sovietica per avviare lì delle fabbriche."
         sequence-34:
           s: 34
           from: "00:03:02,03"
           to: "00:03:12,29"
-          text: ~
+          text: "Anche sua moglie con il secondo figlio, più piccolo, venne mandata da qualche parte in Russia."
         sequence-35:
           s: 35
           from: "00:03:12,29"
@@ -183,22 +183,22 @@ it:
           s: 36
           from: "00:03:14,27"
           to: "00:03:24,09"
-          text: ~
+          text: "La figlia aveva dei documenti molto buoni perché questa mia conoscente era ariana"
         sequence-37:
           s: 37
           from: "00:03:24,09"
           to: "00:03:36,03"
-          text: ~
+          text: "e aveva deciso di darle il suo cognome, anzi il cognome del marito."
         sequence-38:
           s: 38
           from: "00:03:36,03"
           to: "00:03:41,14"
-          text: ~
+          text: "Un prete a Vilnius, il prete Chlebowicz, le aveva rilasciato il certificato di nascita, secondo cui la bambina sarebbe la figlia di Irena e Jan Nowicki."
         sequence-39:
           s: 39
           from: "00:03:41,14"
           to: "00:03:48,15"
-          text: ~
+          text: "A Vilnius c'erano due preti così: Kretowicz e Chlebowicz."
         sequence-40:
           s: 40
           from: "00:03:48,15"
@@ -208,17 +208,17 @@ it:
           s: 41
           from: "00:03:49,15"
           to: "00:03:51,08"
-          text: ~
+          text: "E di nuovo la stessa storia."
         sequence-42:
           s: 42
           from: "00:03:51,08"
           to: "00:03:57,05"
-          text: ~
+          text: "Vado a Orwidów, racconto cpme stanno le cose e chiedo se la prendiamo o no."
         sequence-43:
           s: 43
           from: "00:03:57,05"
           to: "00:04:01,20"
-          text: ~
+          text: "Ognuno si prende la responsabilità per questo."
         sequence-44:
           s: 44
           from: "00:04:01,20"
@@ -228,12 +228,12 @@ it:
           s: 45
           from: "00:04:03,24"
           to: "00:04:08,20"
-          text: ~
+          text: "Bene, ma come facciamo a spiegare la presenza della bambina?"
         sequence-46:
           s: 46
           from: "00:04:08,20"
           to: "00:04:20,11"
-          text: ~
+          text: "Io ho inventato una storia perché Irena era bionda con la pelle rosea,"
         sequence-47:
           s: 47
           from: "00:04:20,11"
@@ -243,7 +243,7 @@ it:
           s: 48
           from: "00:04:21,26"
           to: "00:04:33,07"
-          text: ~
+          text: "anche la bambina era chiara con gli occhi azzurri, quindi potevamo dire che era figlia di Irena."
         sequence-49:
           s: 49
           from: "00:04:33,07"
@@ -253,7 +253,7 @@ it:
           s: 50
           from: "00:04:34,16"
           to: "00:04:36,27"
-          text: ~
+          text: "La bambina però non sapeva una parola di polacco,"
         sequence-51:
           s: 51
           from: "00:04:36,27"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:04:37,23"
           to: "00:04:39,20"
-          text: ~
+          text: "parlava solo il russo"
         sequence-53:
           s: 53
           from: "00:04:39,20"
@@ -273,72 +273,72 @@ it:
           s: 54
           from: "00:04:40,27"
           to: "00:04:45,12"
-          text: ~
+          text: "perché il marito della nonna"
         sequence-55:
           s: 55
           from: "00:04:45,12"
           to: "00:04:55,03"
-          text: ~
+          text: "non era il vero nonno della bambina."
         sequence-56:
           s: 56
           from: "00:04:55,03"
           to: "00:05:01,13"
-          text: ~
+          text: "La signora Melezyniuk rimase vedova e si risposò di nuovo con un ebreo,"
         sequence-57:
           s: 57
           from: "00:05:01,13"
           to: "00:05:04,04"
-          text: ~
+          text: "che era scappato dall'Unione Sovietica,"
         sequence-58:
           s: 58
           from: "00:05:04,04"
           to: "00:05:18,03"
-          text: ~
+          text: "e gli ebrei che erano fuggiti a Vilnius dall'URSS parlavano il russo."
         sequence-59:
           s: 59
           from: "00:05:18,03"
           to: "00:05:30,10"
-          text: ~
+          text: "Altra cosa: la bambina parlava dei nonni chiamandoli in russo 'diedushka' e 'babushka',"
         sequence-60:
           s: 60
           from: "00:05:30,10"
           to: "00:05:36,27"
-          text: ~
+          text: "quindi inventammo una storia secondo la quale Irena era una mia cugina che era scappata da Varsavia."
         sequence-61:
           s: 61
           from: "00:05:36,27"
           to: "00:05:39,14"
-          text: ~
+          text: "In realtà non era mia cugina ma era fuggita da Varsavia per davvero."
         sequence-62:
           s: 62
           from: "00:05:39,14"
           to: "00:05:46,03"
-          text: ~
+          text: "Lavorava in un ospedale - e anche questo era vero -, era un'infermiera e aveva dei turni di notte,"
         sequence-63:
           s: 63
           from: "00:05:46,03"
           to: "00:05:56,04"
-          text: ~
+          text: "abitava a Vilnius con dei russi bianchi"
         sequence-64:
           s: 64
           from: "00:05:56,04"
           to: "00:06:04,27"
-          text: ~
+          text: "(a Vilnius ce n'erano un po', erano scappati dall'URSS),"
         sequence-65:
           s: 65
           from: "00:06:04,27"
           to: "00:06:11,22"
-          text: ~
+          text: "questi a casa parlavano il russo e la bambina, vedendo raramente la madre che lavorava in ospedale,"
         sequence-66:
           s: 66
           from: "00:06:11,22"
           to: "00:06:18,10"
-          text: ~
+          text: "imparò il russo ma parlava a malapena polacco, e per questa ragione Irena voleva sistemarla altrove."
         sequence-67:
           s: 67
           from: "00:06:18,10"
           to: "00:06:35,05"
-          text: ~
+          text: "Quindi arrivò questo essere - piccolo, arrabbiato, che piangeva, urlava. Aveva quasi tre anni perché era novembre e lei era nata a dicembre."
         sequence-68:
           s: 68
           from: "00:06:35,05"
@@ -348,17 +348,17 @@ it:
           s: 69
           from: "00:06:36,20"
           to: "00:06:39,10"
-          text: ~
+          text: "Il suo nome era Miriam ma la chiamavano Maryska."
         sequence-70:
           s: 70
           from: "00:06:39,10"
           to: "00:06:44,26"
-          text: ~
+          text: "Non ho la più pallida idea se le persone ci avessero creduto o meno."
         sequence-71:
           s: 71
           from: "00:06:44,26"
           to: "00:06:58,23"
-          text: ~
+          text: "Ma Maryska presto si guadagnò l'affetto soprattutto di Melania."
         sequence-72:
           s: 72
           from: "00:06:58,23"
@@ -368,4 +368,4 @@ it:
           s: 73
           from: "00:07:00,13"
           to: "00:07:05,25"
-          text: ~
+          text: "Melania la portava spesso nel villaggio."

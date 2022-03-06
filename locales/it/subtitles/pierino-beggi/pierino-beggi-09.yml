@@ -2,23 +2,23 @@ it:
   pierino-beggi:
     chapter-9:
       c: 9
-      title: ~
+      title: "Mine contro la cavalleria"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:08,25"
-          text: ~
+          text: "Siccome in montagna vicino alle colline tutti i ponti erano stati fatti saltare con l’esplosivo,"
         sequence-2:
           s: 2
           from: "00:00:08,25"
           to: "00:00:13,25"
-          text: ~
+          text: "allora i tedeschi non andavano più con l’autoblindo,"
         sequence-3:
           s: 3
           from: "00:00:13,25"
           to: "00:00:20,28"
-          text: ~
+          text: "con i carriarmati, hanno tentato diverse volte di circondare la montagna ma non ci sono mai riusciti per questo fatto."
         sequence-4:
           s: 4
           from: "00:00:20,28"
@@ -28,24 +28,24 @@ it:
           s: 5
           from: "00:00:21,00"
           to: "00:00:26,08"
-          text: ~
+          text: "E allora avevano organizzato la cavalleria dei Mongoli,"
         sequence-6:
           s: 6
           from: "00:00:26,08"
           to: "00:00:34,23"
-          text: ~
+          text: "prigionieri con i cavalli e avevamo saputo, avevamo sentito dello spostamento dalla bassa reggiana a venir su per tentare di circondare le colline"
         sequence-7:
           s: 7
           from: "00:00:34,23"
           to: "00:00:42,05"
-          text: ~
+          text: "della montagna. La strada che va dalla chiesa di Rivalta andando su e sapendo"
         sequence-8:
           s: 8
           from: "00:00:42,05"
           to: "00:00:50,06"
-          text: ~
+          text: "che venivano da quella strada abbiamo messo le mine in tutta la strada."
         sequence-9:
           s: 9
           from: "00:00:50,06"
           to: "00:01:00,18"
-          text: ~
+          text: "Infatti abbiamo visto i cavalli volare per aria... eh perché le mine anticarro..."

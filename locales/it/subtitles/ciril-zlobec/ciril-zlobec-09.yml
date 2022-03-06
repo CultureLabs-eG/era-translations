@@ -2,13 +2,13 @@ it:
   ciril-zlobec:
     chapter-9:
       c: 9
-      title: ~
+      title: "Essere individualisti in tempo di guerra"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,16"
           to: "00:00:12,25"
-          text: ~
+          text: "Mentre attendevamo la svolta, molti ragazzi sotto la mia guida piansero di paura."
         sequence-2:
           s: 2
           from: "00:00:12,25"
@@ -18,27 +18,27 @@ it:
           s: 3
           from: "00:00:13,28"
           to: "00:00:17,06"
-          text: ~
+          text: "Era uno spettacolo orribile."
         sequence-4:
           s: 4
           from: "00:00:17,06"
           to: "00:00:34,14"
-          text: ~
+          text: "Gli stessi ragazzi di 17, 18 o 20 anni al massimo, entro sei mesi si sono offerti per azioni pericolose e attacchi."
         sequence-5:
           s: 5
           from: "00:00:34,14"
           to: "00:00:43,03"
-          text: ~
+          text: "Quando un uomo è armato, quando assiste alla morte dei suoi colleghi,"
         sequence-6:
           s: 6
           from: "00:00:43,03"
           to: "00:00:55,02"
-          text: ~
+          text: "dei suoi amici, anche dei suoi vicini nello stesso villaggio, una passione omicida lo travolge."
         sequence-7:
           s: 7
           from: "00:00:55,02"
           to: "00:01:03,20"
-          text: ~
+          text: "Quando combatti, presto o tardi prevale la logica che la morte del tuo nemico è la tua salvezza."
         sequence-8:
           s: 8
           from: "00:01:03,20"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:01:04,14"
           to: "00:01:13,08"
-          text: ~
+          text: "Forse oggi, che riguardo indietro a me stesso come un uomo che si considerava un poeta,"
         sequence-10:
           s: 10
           from: "00:01:13,08"
@@ -58,12 +58,12 @@ it:
           s: 11
           from: "00:01:15,08"
           to: "00:01:18,23"
-          text: ~
+          text: "io ero un grandissimo individualista."
         sequence-12:
           s: 12
           from: "00:01:18,23"
           to: "00:01:24,19"
-          text: ~
+          text: "Certo, in una guerra le unità sono sotto stretta disciplina,"
         sequence-13:
           s: 13
           from: "00:01:24,19"
@@ -73,77 +73,77 @@ it:
           s: 14
           from: "00:01:27,10"
           to: "00:01:37,24"
-          text: ~
+          text: "tutto organizzato secondo una struttura militare necessaria per condurre in un qualsivoglia tipo di combattimento."
         sequence-15:
           s: 15
           from: "00:01:37,24"
           to: "00:01:52,07"
-          text: ~
+          text: "Non faceva affatto per me però; non si adattava al mio carattere. C'era un altro aspetto del carattere umano."
         sequence-16:
           s: 16
           from: "00:01:52,07"
           to: "00:02:02,28"
-          text: ~
+          text: "Anche all'aperto, ovunque potessimo schiacciare un pisolino, mi è sempre piaciuto dormire un po', sono un po' prigro al mattino."
         sequence-17:
           s: 17
           from: "00:02:02,28"
           to: "00:02:08,24"
-          text: ~
+          text: "Quando ero nella brigata, di solito marciavamo di notte."
         sequence-18:
           s: 18
           from: "00:02:08,24"
           to: "00:02:18,11"
-          text: ~
+          text: "Abbiamo camminato tutta la notte solo per spostarci un po' più in la, per esempio dal Carso al Trnovski gozd attraverso la valle del Vipava,"
         sequence-19:
           s: 19
           from: "00:02:18,11"
           to: "00:02:28,17"
-          text: ~
+          text: "dove c'erano le imboscate e gli avamposti. Ho spesso pensato che queste azioni fossero pericolose o semplicemente troppo faticose."
         sequence-20:
           s: 20
           from: "00:02:28,17"
           to: "00:02:35,13"
-          text: ~
+          text: "Quindi mi sono spesso offerto volontario per vari nuovi compiti che potessero spuntare in una battaglia."
         sequence-21:
           s: 21
           from: "00:02:35,13"
           to: "00:02:42,12"
-          text: ~
+          text: "Erano i più pericolosi, ma almeno potevo canalizzare il mio individualismo in questo modo."
         sequence-22:
           s: 22
           from: "00:02:42,12"
           to: "00:02:51,28"
-          text: ~
+          text: "Così sono diventato un informatore. Avrei viaggiato fino a Trieste solo con documenti falsi."
         sequence-23:
           s: 23
           from: "00:02:51,28"
           to: "00:02:59,15"
-          text: ~
+          text: "Era molto rischioso ma sentivo che la mia vita era a mia disposizione."
         sequence-24:
           s: 24
           from: "00:02:59,15"
           to: "00:03:10,19"
-          text: ~
+          text: "Dopo fui coi minatori. Era solo una piccola unità, forse eravamo 13 o 15. Era facile da comandare."
         sequence-25:
           s: 25
           from: "00:03:10,19"
           to: "00:03:14,22"
-          text: ~
+          text: "Un anno ho lavorato nel sistema educativo"
         sequence-26:
           s: 26
           from: "00:03:14,22"
           to: "00:03:22,28"
-          text: ~
+          text: "per organizzare il sistema scolastico e nominare insegnanti che perfino non esistevano."
         sequence-27:
           s: 27
           from: "00:03:22,28"
           to: "00:03:29,05"
-          text: ~
+          text: "Ero solo a nominare questi insegnanti e senza scuole slovene."
         sequence-28:
           s: 28
           from: "00:03:29,05"
           to: "00:03:41,14"
-          text: ~
+          text: "Ho deciso di convocare una riunione con tutte le donne rimaste da sole a casa in modo da poterle designare con la dettatura di un testo."
         sequence-29:
           s: 29
           from: "00:03:41,14"
@@ -153,12 +153,12 @@ it:
           s: 30
           from: "00:03:43,00"
           to: "00:03:53,01"
-          text: ~
+          text: "Avevo una certa conoscenza dello sloveno e ho esaminato i risultati"
         sequence-31:
           s: 31
           from: "00:03:53,01"
           to: "00:04:02,21"
-          text: ~
+          text: "e ho deciso che colei che avesse fatto il minor numero di errori sarebbe stata l'insegnante."
         sequence-32:
           s: 32
           from: "00:04:02,21"
@@ -168,117 +168,117 @@ it:
           s: 33
           from: "00:04:04,22"
           to: "00:04:14,28"
-          text: ~
+          text: "I bambini avevano bisogno di qualcuno che desse loro almeno le basi della lingua e un po' di matematica e di lettura."
         sequence-34:
           s: 34
           from: "00:04:14,28"
           to: "00:04:23,03"
-          text: ~
+          text: "Non potevano semplicemente affrontare la guerra senza alcuna istruzione... Il sistema scolastico ufficiale si era disintegrato."
         sequence-35:
           s: 35
           from: "00:04:23,03"
           to: "00:04:28,04"
-          text: ~
+          text: "Quindi è stato necessario creare una scuola slovena."
         sequence-36:
           s: 36
           from: "00:04:28,04"
           to: "00:04:35,08"
-          text: ~
+          text: "Le cose erano più facili per me mentre lavoravo nel sistema scolastico."
         sequence-37:
           s: 37
           from: "00:04:35,08"
           to: "00:04:39,02"
-          text: ~
+          text: "Anche se per molto tempo mi sono sentito un informatore."
         sequence-38:
           s: 38
           from: "00:04:39,02"
           to: "00:04:52,21"
-          text: ~
+          text: "A 18 anni mi sforzavo di essere un grande informatore, come tutti quei personaggi di cui avevo letto, Sherlock Holmes per esempio,"
         sequence-39:
           s: 39
           from: "00:04:52,21"
           to: "00:05:05,08"
-          text: ~
+          text: "e ho immaginato tutti i miracoli che avrei fatto. Ho fatto alcune cose audaci, perfino stupide, ma almeno hanno funzionato."
         sequence-40:
           s: 40
           from: "00:05:05,08"
           to: "00:05:15,21"
-          text: ~
+          text: "Ad esempio, se potevo, dormivo in un letto. Arrivavo in un villaggio e mi offrivano un letto. Io avrei rischiato."
         sequence-41:
           s: 41
           from: "00:05:15,21"
           to: "00:05:22,19"
-          text: ~
+          text: "I tedeschi sarebbero venuti di notte e quello era un problema: dove e come nascondersi."
         sequence-42:
           s: 42
           from: "00:05:22,19"
           to: "00:05:32,23"
-          text: ~
+          text: "Ho sempre avuto un mini nascondiglio da qualche parte dove riparare. Ho agito sempre contro ogni regola, piuttosto secondo il mio istinto."
         sequence-43:
           s: 43
           from: "00:05:32,23"
           to: "00:05:43,13"
-          text: ~
+          text: "Una volta ero nel mio villaggio natale e di notte all'improvviso arrivarono i tedeschi."
         sequence-44:
           s: 44
           from: "00:05:43,13"
           to: "00:05:49,21"
-          text: ~
+          text: "Per fortuna era buio pesto e si aggiravano con le torce."
         sequence-45:
           s: 45
           from: "00:05:49,21"
           to: "00:05:54,13"
-          text: ~
+          text: "Ero sul punto di tornarmene a casa, a casa mia e cosa dovevo fare?"
         sequence-46:
           s: 46
           from: "00:05:54,13"
           to: "00:06:02,24"
-          text: ~
+          text: "Stavano per ispezionare le case. E io ho un'idea."
         sequence-47:
           s: 47
           from: "00:06:02,24"
           to: "00:06:14,04"
-          text: ~
+          text: "Ho pensato che fosse più saggio seguire la pattuglia per vedere dove stavano andando. Così li ho seguiti a pochi metri di distanza, attraverso l'intero villaggio."
         sequence-48:
           s: 48
           from: "00:06:14,04"
           to: "00:06:22,16"
-          text: ~
+          text: "Stavo attento a come camminavo per non essere troppo rumoroso. Era completamente buio ma non avevo bisogno di una torcia."
         sequence-49:
           s: 49
           from: "00:06:22,16"
           to: "00:06:35,28"
-          text: ~
+          text: "Potevo muovermi indipendentemente o in piccole unità, organizzando in anticipo ciò che avremmo fatto. Ero anche un corriere."
         sequence-50:
           s: 50
           from: "00:06:35,28"
           to: "00:06:39,09"
-          text: ~
+          text: "Viaggiavamo sempre in coppia."
         sequence-51:
           s: 51
           from: "00:06:39,09"
           to: "00:06:49,20"
-          text: ~
+          text: "Non ero del tutto consapevole di quanto fosse pericoloso. Questo era per me un grosso vantaggio."
         sequence-52:
           s: 52
           from: "00:06:49,20"
           to: "00:06:59,13"
-          text: ~
+          text: "Allo stesso tempo aumentava il fattore pericolo, ma le cose hanno funzionato. Molti uomini sciocchi quanto me, caddero."
         sequence-53:
           s: 53
           from: "00:06:59,13"
           to: "00:07:13,21"
-          text: ~
+          text: "Mi resta un'idea quasi romantica del combattimento, come se fosse un periodo romantico. Che ovviamente non lo era; ben lontano da ciò."
         sequence-54:
           s: 54
           from: "00:07:13,21"
           to: "00:07:25,21"
-          text: ~
+          text: "Allo stesso tempo ci stavamo anche innamorando. Ero disposto a camminare tutta la notte solo per vedere la mia amata da lontano."
         sequence-55:
           s: 55
           from: "00:07:25,21"
           to: "00:07:35,23"
-          text: ~
+          text: "In breve, abbiamo vissuto intensamente nello stato di guerra. Bisognava stare attenti."
         sequence-56:
           s: 56
           from: "00:07:35,23"
@@ -288,104 +288,104 @@ it:
           s: 57
           from: "00:07:37,00"
           to: "00:07:44,08"
-          text: ~
+          text: "Ci sarebbe stato un raduno e avremmo ballato e ci saremmo scatenati e poi avremmo litigato il giorno dopo."
         sequence-58:
           s: 58
           from: "00:07:44,08"
           to: "00:07:50,11"
-          text: ~
+          text: "Questa è diventata la norma della nostra vita, abbiamo imparato a contare su di essa."
         sequence-59:
           s: 59
           from: "00:07:50,11"
           to: "00:07:56,00"
-          text: ~
+          text: "È stato tutto più semplice nella regione di Primorje, nel Carso specialmente."
         sequence-60:
           s: 60
           from: "00:07:56,00"
           to: "00:08:09,24"
-          text: ~
+          text: "Ovunque fossi giunto, qualcuno ha immediatamente dato la sua mucca al macello in modo che l'intera brigata potesse banchettare col gulasch."
         sequence-61:
           s: 61
           from: "00:08:09,24"
           to: "00:08:14,02"
-          text: ~
+          text: "Quando viaggiavo come corriere, venivo sempre sfamato."
         sequence-62:
           s: 62
           from: "00:08:14,02"
           to: "00:08:20,14"
-          text: ~
+          text: "Se ero bagnato venivo asciugato indipendentemente dalla casa in cui entravo."
         sequence-63:
           s: 63
           from: "00:08:20,14"
           to: "00:08:29,12"
-          text: ~
+          text: "Quantunque fossi solo, ovunque e in ogni dove sentivi di appartenere a un insieme."
         sequence-64:
           s: 64
           from: "00:08:29,12"
           to: "00:08:37,25"
-          text: ~
+          text: "Non c'é mai stato il pericolo che avessi preso una svolta sbagliata nella casa sbagliata."
         sequence-65:
           s: 65
           from: "00:08:37,25"
           to: "00:08:42,23"
-          text: ~
+          text: "Tutti erano inclini ai Partigiani."
         sequence-66:
           s: 66
           from: "00:08:42,23"
           to: "00:08:54,26"
-          text: ~
+          text: "Questo ci ha sollevato dai timori sorti altrove in tutta la Slovenia,"
         sequence-67:
           s: 67
           from: "00:08:54,26"
           to: "00:09:00,07"
-          text: ~
+          text: "dove si doveva considerare un potenziale tradimento della gente del posto."
         sequence-68:
           s: 68
           from: "00:09:00,07"
           to: "00:09:11,13"
-          text: ~
+          text: "Cioè, altrove, la Guardia Nazionale e i suoi informatori erano in agguato. Non c'era niente di tutto questo nell'area di Primorje."
         sequence-69:
           s: 69
           from: "00:09:11,13"
           to: "00:09:18,00"
-          text: ~
+          text: "Non ho mai incontrato un solo nemico sloveno vivo o morto."
         sequence-70:
           s: 70
           from: "00:09:18,00"
           to: "00:09:24,28"
-          text: ~
+          text: "Così mi rendo conto di avere una concezione un po' idealizzata."
         sequence-71:
           s: 71
           from: "00:09:24,28"
           to: "00:09:34,22"
-          text: ~
+          text: "Tuttavia, era genuina, l'idealizzazione che una guerra potesse dispiegare un'umanità così bella,"
         sequence-72:
           s: 72
           from: "00:09:34,22"
           to: "00:09:40,14"
-          text: ~
+          text: "se così posso dire, perché la guerra è tutt'altro che bella."
         sequence-73:
           s: 73
           from: "00:09:40,14"
           to: "00:09:51,05"
-          text: ~
+          text: "È vero però che come poeta era difficile per me scegliere la morte, anche quella del nemico."
         sequence-74:
           s: 74
           from: "00:09:51,05"
           to: "00:10:00,23"
-          text: ~
+          text: "Questo è anche il motivo per cui ho scelto compiti, che erano molto più pericolosi dell'essere in brigata."
         sequence-75:
           s: 75
           from: "00:10:00,23"
           to: "00:10:12,13"
-          text: ~
+          text: "Tuttavia, nei compiti che sceglievo era meno imperativo dover uccidere qualcuno in piedi davanti a me, persino il nemico."
         sequence-76:
           s: 76
           from: "00:10:12,13"
           to: "00:10:22,06"
-          text: ~
+          text: "Ho sempre cercato di vivere la mia vita con la minore morte e possibile, anche nei confronti dei tedeschi."
         sequence-77:
           s: 77
           from: "00:10:22,06"
           to: "00:10:32,20"
-          text: ~
+          text: "Uccidere, anche in nome di grandi ideali, alla fine ti tornerà in mente in seguito sotto forma di trauma."

@@ -2,28 +2,28 @@ it:
   lipej-kolenik:
     chapter-6:
       c: 6
-      title: ~
+      title: "La motivazione; i problemi dei Partigiani"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,26"
           to: "00:00:06,07"
-          text: ~
+          text: "Con i Partigiani la vita era leggermente diversa."
         sequence-2:
           s: 2
           from: "00:00:06,07"
           to: "00:00:09,00"
-          text: ~
+          text: "Al giorno d'oggi dici:"
         sequence-3:
           s: 3
           from: "00:00:09,00"
           to: "00:00:15,21"
-          text: ~
+          text: "'Non tutti hanno avuto l'opportunità di unirsi a loro.'"
         sequence-4:
           s: 4
           from: "00:00:15,21"
           to: "00:00:23,06"
-          text: ~
+          text: "Molti avrebbero avuto un'opportunità ma non hanno rischiato."
         sequence-5:
           s: 5
           from: "00:00:23,06"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:24,05"
           to: "00:00:32,04"
-          text: ~
+          text: "Non ero più in grado di lavorare per il fronte."
         sequence-7:
           s: 7
           from: "00:00:32,04"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:33,01"
           to: "00:00:38,28"
-          text: ~
+          text: "Per me ci sarebbe stato un lavoro forse."
         sequence-9:
           s: 9
           from: "00:00:38,28"
           to: "00:00:50,25"
-          text: ~
+          text: "Ma non volevo. Non potevo condividere la responsabilità di lavorare con quelli che volevano eliminarci."
         sequence-10:
           s: 10
           from: "00:00:50,25"
@@ -58,7 +58,7 @@ it:
           s: 11
           from: "00:00:53,21"
           to: "00:01:07,12"
-          text: ~
+          text: "I Partigiani avevano problemi con le provviste"
         sequence-12:
           s: 12
           from: "00:01:07,12"
@@ -68,34 +68,34 @@ it:
           s: 13
           from: "00:01:11,05"
           to: "00:01:16,09"
-          text: ~
+          text: "e col dormire nella foresta di notte."
         sequence-14:
           s: 14
           from: "00:01:16,09"
           to: "00:01:21,00"
-          text: ~
+          text: "Qua e là ancora nelle case, ma il più delle volte nella foresta."
         sequence-15:
           s: 15
           from: "00:01:21,00"
           to: "00:01:30,29"
-          text: ~
+          text: "Per giunta con il freddo e la neve i vestiti ti si sono congelati."
         sequence-16:
           s: 16
           from: "00:01:30,29"
           to: "00:01:36,16"
-          text: ~
+          text: "Ti sentivi rigido come un materasso di paglia."
         sequence-17:
           s: 17
           from: "00:01:36,16"
           to: "00:01:45,12"
-          text: ~
+          text: "Solo quelli duri di natura erano in grado di gestire la cosa."
         sequence-18:
           s: 18
           from: "00:01:45,12"
           to: "00:01:51,22"
-          text: ~
+          text: "Le persone erano incapaci di gestire questo abbandono."
         sequence-19:
           s: 19
           from: "00:01:51,22"
           to: "00:01:53,20"
-          text: ~
+          text: "Non era d'aiuto."

@@ -2,13 +2,13 @@ it:
   stefania-dambrowska:
     chapter-12:
       c: 12
-      title: ~
+      title: Liberazione
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,13"
           to: "00:00:10,16"
-          text: ~
+          text: "Non appena arrivò l'esercito sovietico, Helena partì subito per Vilnius"
         sequence-2:
           s: 2
           from: "00:00:10,16"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:12,16"
           to: "00:00:19,16"
-          text: ~
+          text: "e, come medico, venne mobilitata. Ma all'inizio a Vilnius c'erano ancora i tedeschi."
         sequence-4:
           s: 4
           from: "00:00:19,16"
@@ -28,12 +28,12 @@ it:
           s: 5
           from: "00:00:22,17"
           to: "00:00:31,02"
-          text: ~
+          text: "Poi i russi occuparono la città e venne creata una lista per i polacchi"
         sequence-6:
           s: 6
           from: "00:00:31,02"
           to: "00:00:38,11"
-          text: ~
+          text: "che avrebbero accettato e voluto lavorare a Lublino negli uffici del Comitato Polacco di Liberazione Nazionale (PKWN)."
         sequence-7:
           s: 7
           from: "00:00:38,11"
@@ -43,12 +43,12 @@ it:
           s: 8
           from: "00:00:39,29"
           to: "00:00:48,00"
-          text: ~
+          text: "Io non mi ero iscritta in questa lista, mi avevano iscritta, non l'avevo fatto io."
         sequence-9:
           s: 9
           from: "00:00:48,00"
           to: "00:00:54,18"
-          text: ~
+          text: "In questa lista c'ero io, gli Świezewski, Helena…"
         sequence-10:
           s: 10
           from: "00:00:54,18"
@@ -58,17 +58,17 @@ it:
           s: 11
           from: "00:00:55,25"
           to: "00:01:07,14"
-          text: ~
+          text: "Quando scendemmo dal camion che ci aveva portato dall'aeroporto di Lublino in città,"
         sequence-12:
           s: 12
           from: "00:01:07,14"
           to: "00:01:15,21"
-          text: ~
+          text: "raggiungemmo la via Spokojna, dove prima della guerra e anche in seguito si trovava l'edificio del voivodato,"
         sequence-13:
           s: 13
           from: "00:01:15,21"
           to: "00:01:22,03"
-          text: ~
+          text: "ma dove all'epoca c'era l'ufficio del PKWN."
         sequence-14:
           s: 14
           from: "00:01:22,03"
@@ -78,29 +78,29 @@ it:
           s: 15
           from: "00:01:23,10"
           to: "00:01:30,26"
-          text: ~
+          text: "Ascoltate, mentre andavamo con quel camion dall'aeroporto verso Lublino, era incredibile"
         sequence-16:
           s: 16
           from: "00:01:30,26"
           to: "00:01:37,01"
-          text: ~
+          text: "vedere dappertutto le scritte in polacco, l'esercito con la divisa polacca - ancora adesso, quando ci penso, mi vengono i brividi lungo la schiena."
         sequence-17:
           s: 17
           from: "00:01:37,01"
           to: "00:01:48,00"
-          text: ~
+          text: "Ci faceva un'impressione incredibile dopo tutta questa confusione, dopo la guerra."
         sequence-18:
           s: 18
           from: "00:01:48,00"
           to: "00:01:52,25"
-          text: ~
+          text: "L'Insurrezione di Varsavia continuava, noi sapevamo dell'insurrezione,"
         sequence-19:
           s: 19
           from: "00:01:52,25"
           to: "00:01:54,16"
-          text: ~
+          text: "sapevamo tutto."
         sequence-20:
           s: 20
           from: "00:01:54,16"
           to: "00:01:59,24"
-          text: ~
+          text: "Però qui c'erano le scritte in polacco, c'era l'esercito polacco."

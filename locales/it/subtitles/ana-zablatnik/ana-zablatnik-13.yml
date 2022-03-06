@@ -2,18 +2,18 @@ it:
   ana-zablatnik:
     chapter-13:
       c: 13
-      title: ~
+      title: Conclusione
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,09"
           to: "00:00:11,15"
-          text: ~
+          text: "Non so se i giovani di oggi possono immaginarselo."
         sequence-2:
           s: 2
           from: "00:00:11,15"
           to: "00:00:21,22"
-          text: ~
+          text: "La guerra andava avanti già da cinque anni, molti e molti venivano uccisi, peggiorava."
         sequence-3:
           s: 3
           from: "00:00:21,22"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:23,09"
           to: "00:00:25,29"
-          text: ~
+          text: "Non c'era un vero futuro per noi."
         sequence-5:
           s: 5
           from: "00:00:25,29"
@@ -33,9 +33,9 @@ it:
           s: 6
           from: "00:00:27,14"
           to: "00:00:36,19"
-          text: ~
+          text: "Ma questo ti ha reso più forte per entrare nella Resistenza"
         sequence-7:
           s: 7
           from: "00:00:36,19"
           to: "00:00:40,10"
-          text: ~
+          text: "e aiutare ovunque potessi."

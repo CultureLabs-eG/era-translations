@@ -2,18 +2,18 @@ it:
   stanislaw-baranowski:
     chapter-3:
       c: 3
-      title: ~
+      title: "Coinvolgimento nella resistenza armata"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,19"
           to: "00:00:05,28"
-          text: ~
+          text: "E iniziò la nostra attività, parliamo di quella parte legata alla beneficenza."
         sequence-2:
           s: 2
           from: "00:00:05,28"
           to: "00:00:11,07"
-          text: ~
+          text: "In quel tempo inoltre usciva già il \"Bollettino Informativo\"."
         sequence-3:
           s: 3
           from: "00:00:11,07"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:12,19"
           to: "00:00:18,28"
-          text: ~
+          text: "Al nostro gruppo in quel primo periodo ce lo consegnava Mietek Wiącek."
         sequence-5:
           s: 5
           from: "00:00:18,28"
@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:22,00"
           to: "00:00:27,19"
-          text: ~
+          text: "In seguito i nostri gruppi iniziarono a dividersi."
         sequence-7:
           s: 7
           from: "00:00:27,19"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:29,15"
           to: "00:00:37,11"
-          text: ~
+          text: "Io rimasi nel gruppo che era in contatto"
         sequence-9:
           s: 9
           from: "00:00:37,11"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:00:39,21"
           to: "00:00:46,11"
-          text: ~
+          text: "con il capitano dell'intelligence militare prima della guerra, Tadeusz Wasilewski."
         sequence-11:
           s: 11
           from: "00:00:46,11"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:00:47,29"
           to: "00:00:58,23"
-          text: ~
+          text: "Da questo momento il nostro gruppo iniziò a lavorare per lui."
         sequence-13:
           s: 13
           from: "00:00:58,23"
@@ -73,17 +73,17 @@ it:
           s: 14
           from: "00:01:00,10"
           to: "00:01:16,29"
-          text: ~
+          text: "E Mietek – era il 1941 o la fine del 1940 – sparì. Non sapevamo cosa gli fosse successo."
         sequence-15:
           s: 15
           from: "00:01:16,29"
           to: "00:01:19,08"
-          text: ~
+          text: "Si scoprì che era stato arrestato."
         sequence-16:
           s: 16
           from: "00:01:19,08"
           to: "00:01:30,21"
-          text: ~
+          text: "In seguito venne fuori che era un traditore, per colpa sua molte persone erano state arrastate."
         sequence-17:
           s: 17
           from: "00:01:30,21"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:01:32,24"
           to: "00:01:41,15"
-          text: ~
+          text: "Le nostre organizzazioni nacquero dal basso."
         sequence-19:
           s: 19
           from: "00:01:41,15"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:42,19"
           to: "00:02:01,12"
-          text: ~
+          text: "Quando ci unimmo al gruppo degli scout, il nostro gruppo che era fatto di dieci o dodici persone, crebbe, divenne più grande."
         sequence-21:
           s: 21
           from: "00:02:01,12"
@@ -113,27 +113,27 @@ it:
           s: 22
           from: "00:02:02,13"
           to: "00:02:10,03"
-          text: ~
+          text: "Capitava che, quando portavo un centinaio di copie del \"Bollettino Informativo\","
         sequence-23:
           s: 23
           from: "00:02:10,03"
           to: "00:02:21,15"
-          text: ~
+          text: "non le consegnavo personalmente, ma le distribuivo tra cinque, sei, sette compagni e loro mi aiutavano a consegnarle."
         sequence-24:
           s: 24
           from: "00:02:21,15"
           to: "00:02:28,17"
-          text: ~
+          text: "All'inizio era sciocco perché avevamo paura di consegnarle."
         sequence-25:
           s: 25
           from: "00:02:28,17"
           to: "00:02:35,10"
-          text: ~
+          text: "Le infilavamo sotto le porte per informare i cittadini di Varsavia su cosa stava accadendo."
         sequence-26:
           s: 26
           from: "00:02:35,10"
           to: "00:02:42,19"
-          text: ~
+          text: "Alle persone che conoscevamo dicevamo di passare il bollettino, una volta letto, ad altri."
         sequence-27:
           s: 27
           from: "00:02:42,19"
@@ -143,17 +143,17 @@ it:
           s: 28
           from: "00:02:43,21"
           to: "00:02:55,05"
-          text: ~
+          text: "E fu così che si sviluppò il tutto, perché l'AK nacque dal consolidamento di tutti questi gruppi."
         sequence-29:
           s: 29
           from: "00:02:55,05"
           to: "00:03:08,06"
-          text: ~
+          text: "Io iniziai già dal 1941 a lavorare in questo ambito di contatti."
         sequence-30:
           s: 30
           from: "00:03:08,06"
           to: "00:03:15,09"
-          text: ~
+          text: "Andavo in posti diversi, a Grójec, a Radom."
         sequence-31:
           s: 31
           from: "00:03:15,09"
@@ -163,17 +163,17 @@ it:
           s: 32
           from: "00:03:16,08"
           to: "00:03:23,24"
-          text: ~
+          text: "Come ho detto prima, iniziai a lavorare con Tadeusz Wasilewski."
         sequence-33:
           s: 33
           from: "00:03:23,24"
           to: "00:03:29,04"
-          text: ~
+          text: "Un giorno mi disse: \"Dobbiamo raggiungere l'aeroporto a Wolanów\"."
         sequence-34:
           s: 34
           from: "00:03:29,04"
           to: "00:03:33,21"
-          text: ~
+          text: "Era prima che scoppiasse la guerra con la Russia."
         sequence-35:
           s: 35
           from: "00:03:33,21"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:03:35,00"
           to: "00:03:38,12"
-          text: ~
+          text: "Credo fosse un paio di settimane prima."
         sequence-37:
           s: 37
           from: "00:03:38,12"
@@ -193,22 +193,22 @@ it:
           s: 38
           from: "00:03:39,07"
           to: "00:03:49,20"
-          text: ~
+          text: "Perché i tedeschi costruirono due aeroporti: vicino a Grójec e a Wolanów."
         sequence-39:
           s: 39
           from: "00:03:49,20"
           to: "00:03:56,18"
-          text: ~
+          text: "Quindi era un problema arrivare lì."
         sequence-40:
           s: 40
           from: "00:03:56,18"
           to: "00:03:59,18"
-          text: ~
+          text: "L'unico modo per arrivarci era fingermi un operaio."
         sequence-41:
           s: 41
           from: "00:03:59,18"
           to: "00:04:07,05"
-          text: ~
+          text: "Presi un carro con cavalli e andai da Varsavia a Radom, dove avevo un contatto."
         sequence-42:
           s: 42
           from: "00:04:07,05"
@@ -218,17 +218,17 @@ it:
           s: 43
           from: "00:04:08,08"
           to: "00:04:18,03"
-          text: ~
+          text: "In via Zeromskiego c'era un negozio di fiori e lì lavorava la nostra persona di collegamento – Janka."
         sequence-44:
           s: 44
           from: "00:04:18,03"
           to: "00:04:24,08"
-          text: ~
+          text: "Faceva lì la fioraia. Quindi in via Zeromskiego avevamo questo negozi di fiori."
         sequence-45:
           s: 45
           from: "00:04:24,08"
           to: "00:04:34,24"
-          text: ~
+          text: "Lei aveva fatto in modo che io potessi accedere con il carro a quell'aeroporto, fingendomi un carrettiere."
         sequence-46:
           s: 46
           from: "00:04:34,24"
@@ -238,17 +238,17 @@ it:
           s: 47
           from: "00:04:35,28"
           to: "00:04:40,23"
-          text: ~
+          text: "Ci misi tre o quattro giorni, non l'intera settimana."
         sequence-48:
           s: 48
           from: "00:04:40,23"
           to: "00:04:55,10"
-          text: ~
+          text: "Notai che era un aeroporto enorme, che, ci atteravano, ad esempio, due o tre aerei al giorno."
         sequence-49:
           s: 49
           from: "00:04:55,10"
           to: "00:05:02,07"
-          text: ~
+          text: "Tornai a Varsavia con lo stesso cavallo di Radom. Per arrivare a Varsavia ci misi due giorni."
         sequence-50:
           s: 50
           from: "00:05:02,07"
@@ -258,7 +258,7 @@ it:
           s: 51
           from: "00:05:03,24"
           to: "00:05:08,24"
-          text: ~
+          text: "Inoltre, mentre tornavo a Varsavia, stabilì un nuovo contatto."
         sequence-52:
           s: 52
           from: "00:05:08,24"
@@ -268,7 +268,7 @@ it:
           s: 53
           from: "00:05:09,24"
           to: "00:05:19,20"
-          text: ~
+          text: "Si trattava di un gruppo di Kielce – presi anche parte a un'azione nei pressi di Kielce."
         sequence-54:
           s: 54
           from: "00:05:19,20"
@@ -278,19 +278,19 @@ it:
           s: 55
           from: "00:05:20,20"
           to: "00:05:32,22"
-          text: ~
+          text: "All'epoca tra Radom e Roszki venne ucciso su quel treno un generale tedesco. Presi parte in quella azione."
         sequence-56:
           s: 56
           from: "00:05:32,22"
           to: "00:05:41,03"
-          text: ~
+          text: "Però non come partecipante diretto, ma come aiutante."
         sequence-57:
           s: 57
           from: "00:05:41,03"
           to: "00:05:49,22"
-          text: ~
+          text: "Cioè con quel carro avevo portato i fucili, le munizioni e altre cose."
         sequence-58:
           s: 58
           from: "00:05:49,22"
           to: "00:05:53,13"
-          text: ~
+          text: "Poi dovevo riprendere e riportare il tutto. Era questo il mio ruolo."

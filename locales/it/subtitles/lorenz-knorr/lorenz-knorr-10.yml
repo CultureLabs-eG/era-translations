@@ -68,7 +68,7 @@ it:
           s: 13
           from: "00:01:10,20"
           to: "00:01:19,22"
-          text: "Si aggregarono i soldati convalescenti dell'ospedale e così ci siamo procurati le micce."
+          text: "Si aggregarono i soldati convalescenti dell'ospedale e così ci procurammo le micce."
         sequence-14:
           s: 14
           from: "00:01:19,22"

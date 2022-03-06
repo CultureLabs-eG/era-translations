@@ -40,23 +40,17 @@ en:
           s: 7
           from: "00:00:51,26"
           to: "00:01:00,21"
-          text: |-
-              My mother and father had always been working 
-              to set up the cooperative.
+          text: "My mother and father had always been working to set up the cooperative."
         sequence-8:
           s: 8
           from: "00:01:00,21"
           to: "00:01:05,13"
-          text: |-
-              Then, that night, I remember that people came over 
-              to wake them up,
+          text: "Then, that night, I remember that people came over to wake them up,"
         sequence-9:
           s: 9
           from: "00:01:05,13"
           to: "00:01:12,26"
-          text: |-
-              shouting that “the coop was on fire”:
-              that’s a moment I will never forget.
+          text: "shouting that “the coop was on fire”: that’s a moment I will never forget."
         sequence-10:
           s: 10
           from: "00:01:12,26"
@@ -66,16 +60,12 @@ en:
           s: 11
           from: "00:01:23,25"
           to: "00:01:30,29"
-          text: |-
-              There were also other reasons which kept me 
-              from taking up membership,-.
+          text: "There were also other reasons which kept me from taking up membership,-."
         sequence-12:
           s: 12
           from: "00:01:30,29"
           to: "00:01:38,29"
-          text: |-
-              such as the fact that the Fascist youth had to take part 
-              in military activities and all kinds of classes every Saturday,
+          text: "such as the fact that the Fascist youth had to take part in military activities and all kinds of classes every Saturday,"
         sequence-13:
           s: 13
           from: "00:01:38,29"
@@ -85,9 +75,7 @@ en:
           s: 14
           from: "00:01:44,27"
           to: "00:02:04,13"
-          text: |-
-              I went to live in Villa Rivalta and I wasn’t even seventeen 
-              when I started working at Officine Reggiane.
+          text: "I went to live in Villa Rivalta and I wasn’t even seventeen when I started working at Officine Reggiane."
         sequence-15:
           s: 15
           from: "00:02:04,13"
@@ -97,16 +85,12 @@ en:
           s: 16
           from: "00:02:10,12"
           to: "00:02:17,27"
-          text: |-
-              It was unpleasant to have to show a 
-              Fascist membership card for everything,
+          text: "It was unpleasant to have to show a Fascist membership card for everything,"
         sequence-17:
           s: 17
           from: "00:02:17,27"
           to: "00:02:25,15"
-          text: |-
-              and that’s another aspect which had me 
-              disagreeing with the fascists.
+          text: "and that’s another aspect which had me disagreeing with the fascists."
         sequence-18:
           s: 18
           from: "00:02:25,15"
@@ -116,9 +100,7 @@ en:
           s: 19
           from: "00:02:31,27"
           to: "00:02:36,19"
-          text: |-
-              you were always expected to have your 
-              Fascist membership card with you.
+          text: "you were always expected to have your Fascist membership card with you."
         sequence-20:
           s: 20
           from: "00:02:36,19"
@@ -128,9 +110,7 @@ en:
           s: 21
           from: "00:02:41,21"
           to: "00:02:49,02"
-          text: |-
-              so I was forced to use alternative methods, 
-              those I had learned from my family,
+          text: "so I was forced to use alternative methods, those I had learned from my family,"
         sequence-22:
           s: 22
           from: "00:02:49,02"
@@ -140,9 +120,7 @@ en:
           s: 23
           from: "00:02:54,12"
           to: "00:03:07,19"
-          text: |-
-              During the first three months of school we did writing exercises 
-              and we learned to count up to fifty.
+          text: "During the first three months of school we did writing exercises and we learned to count up to fifty."
         sequence-24:
           s: 24
           from: "00:03:07,19"
@@ -152,9 +130,7 @@ en:
           s: 25
           from: "00:03:13,27"
           to: "00:03:22,22"
-          text: |-
-              I remember that my teacher was from Casalgrande 
-              and walked all the way to school and back, poor woman.
+          text: "I remember that my teacher was from Casalgrande and walked all the way to school and back, poor woman."
         sequence-26:
           s: 26
           from: "00:03:22,22"
@@ -164,9 +140,7 @@ en:
           s: 27
           from: "00:03:27,03"
           to: "00:03:36,04"
-          text: |-
-              Just take my case: as soon as I finished primary third grade, 
-              after I had failed second grade,
+          text: "Just take my case: as soon as I finished primary third grade, after I had failed second grade,"
         sequence-28:
           s: 28
           from: "00:03:36,04"
@@ -176,20 +150,14 @@ en:
           s: 29
           from: "00:03:39,25"
           to: "00:03:52,16"
-          text: |-
-              It’s not like someone stopped me from going, 
-              it’s just that it was enough to learn the basics of reading and writing.
+          text: "It’s not like someone stopped me from going, it’s just that it was enough to learn the basics of reading and writing."
         sequence-30:
           s: 30
           from: "00:03:52,16"
           to: "00:04:03,02"
-          text: |-
-              Later, in the army, I used to write letters for a fellow soldier from Guastalla 
-              and two more who were from the mountains.
+          text: "Later, in the army, I used to write letters for a fellow soldier from Guastalla and two more who were from the mountains."
         sequence-31:
           s: 31
           from: "00:04:03,02"
           to: "00:04:13,22"
-          text: |-
-              They were my age but didn’t know how to write:
-              I was not better than them, but I had gone to school until third grade.
+          text: "They were my age but didn’t know how to write: I was not better than them, but I had gone to school until third grade."

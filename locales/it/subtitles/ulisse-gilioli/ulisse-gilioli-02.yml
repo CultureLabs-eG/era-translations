@@ -1,0 +1,151 @@
+it:
+  ulisse-gilioli:
+    chapter-2:
+      c: 2
+      title: "Inizio attività partigiana"
+      subtitles:
+        sequence-1:
+          s: 1
+          from: "00:00:00,00"
+          to: "00:00:06,22"
+          text: "Com’ero a casa non mi sentivo sicuro,"
+        sequence-2:
+          s: 2
+          from: "00:00:06,23"
+          to: "00:00:11,17"
+          text: "perché quei fascistelli lì eran delle spie, degli spioni:"
+        sequence-3:
+          s: 3
+          from: "00:00:11,18"
+          to: "00:00:19,24"
+          text: "poi alla fine della guerra ho letto quello che hanno scritto di me, di mio fratello “Portos”,"
+        sequence-4:
+          s: 4
+          from: "00:00:19,25"
+          to: "00:00:28,00"
+          text: "comandante di distaccamento, e di mio fratello Tonino che era un portaordini ma han scritto della roba!"
+        sequence-5:
+          s: 5
+          from: "00:00:28,01"
+          to: "00:00:36,07"
+          text: "Un cretinotto che conosco, non gliel’ho mai rinfacciato proprio per carità di patria."
+        sequence-6:
+          s: 6
+          from: "00:00:36,08"
+          to: "00:00:44,19"
+          text: "Si faceva anche presto ad essere antifascisti perché erano cretini, solo dei cretinoni!"
+        sequence-7:
+          s: 7
+          from: "00:00:44,20"
+          to: "00:00:49,03"
+          text: "Adesso quando ci ripenso dico"
+        sequence-8:
+          s: 8
+          from: "00:00:49,04"
+          to: "00:00:52,25"
+          text: "ma pensa quanta gente ci ha creduto!"
+        sequence-9:
+          s: 9
+          from: "00:00:52,26"
+          to: "00:00:57,08"
+          text: "E mi è venuta una rabbia contro questi fascisti che uno non se lo può immaginare!"
+        sequence-10:
+          s: 10
+          from: "00:00:59,16"
+          to: "00:01:07,23"
+          text: "Per esempio se vedo adesso il duce mi viene il vomito, non li posso compatire!"
+        sequence-11:
+          s: 11
+          from: "00:01:07,24"
+          to: "00:01:11,15"
+          text: "E sono andato in montagna,"
+        sequence-12:
+          s: 12
+          from: "00:01:11,16"
+          to: "00:01:16,29"
+          text: "ho attraversato i campi di un certo Fontana, fascista ma onesto:"
+        sequence-13:
+          s: 13
+          from: "00:01:17,00"
+          to: "00:01:21,04"
+          text: "aveva capito che andavo ad arruolarmi."
+        sequence-14:
+          s: 14
+          from: "00:01:21,05"
+          to: "00:01:29,04"
+          text: "Siamo andati sulle rive dell’Enza e lì avevamo appuntamento con tanti altri ragazzi"
+        sequence-15:
+          s: 15
+          from: "00:01:29,05"
+          to: "00:01:39,18"
+          text: "e a me è toccato portare da Montecchio fino a Canossa un sacchetto con cinque chili di sale."
+        sequence-16:
+          s: 16
+          from: "00:01:39,19"
+          to: "00:01:48,29"
+          text: "Figlio di mugnai l’ho sistemato bene e andammo e così arrivai ai piedi di Canossa: lì ci hanno dato l’ALT:"
+        sequence-17:
+          s: 17
+          from: "00:01:49,00"
+          to: "00:02:04,15"
+          text: "Altolà! Parola d’ordine!. La parola d’ordine era “Torino. Avanti Toro!”"
+        sequence-18:
+          s: 18
+          from: "00:02:04,16"
+          to: "00:02:10,28"
+          text: "e così siamo scesi in una specie di fienile a dormire"
+        sequence-19:
+          s: 19
+          from: "00:02:10,29"
+          to: "00:02:18,00"
+          text: "e anche cenare perché poi dal mattino fino a quell’ora non avevamo fatto colazione"
+        sequence-20:
+          s: 20
+          from: "00:02:18,01"
+          to: "00:02:23,11"
+          text: "e ci hanno dato una bella tazzona di pane e latte."
+        sequence-21:
+          s: 21
+          from: "00:02:23,12"
+          to: "00:02:27,22"
+          text: "Ero con mio fratello nel distaccamento “Stalin”."
+        sequence-22:
+          s: 22
+          from: "00:02:27,23"
+          to: "00:02:34,23"
+          text: "Non mi chiamai Bonifacio VIII in memoria di Matilde di Canossa"
+        sequence-23:
+          s: 23
+          from: "00:02:34,24"
+          to: "00:02:38,12"
+          text: "ma mi chiamai “Orazio”,"
+        sequence-24:
+          s: 24
+          from: "00:02:38,13"
+          to: "00:02:43,25"
+          text: "allora avevo per la testa gli Orazi e i Curiazi:"
+        sequence-25:
+          s: 25
+          from: "00:02:43,26"
+          to: "00:02:52,05"
+          text: "infatti il mio scontro mortale (per loro, non per me)"
+        sequence-26:
+          s: 26
+          from: "00:02:52,06"
+          to: "00:02:56,17"
+          text: "con i tedeschi mi chiamavo “Orazio”, perché i tedeschi,"
+        sequence-27:
+          s: 27
+          from: "00:02:56,18"
+          to: "00:03:00,24"
+          text: "questi uomini del color di benzina,"
+        sequence-28:
+          s: 28
+          from: "00:03:00,25"
+          to: "00:03:03,13"
+          text: "avevano gli occhi di quel colore lì,"
+        sequence-29:
+          s: 29
+          from: "00:03:03,14"
+          to: "00:03:07,29"
+          text: "sembravano dei grandi guerrieri."
