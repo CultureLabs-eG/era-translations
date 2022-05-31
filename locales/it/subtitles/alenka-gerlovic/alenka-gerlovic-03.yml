@@ -2,18 +2,18 @@ it:
   alenka-gerlovic:
     chapter-3:
       c: 3
-      title: ~
+      title: "Il papà non approvava la decisione della figlia"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,14"
           to: "00:00:10,24"
-          text: ~
+          text: "Era un uomo importante, e in termini del suo orientamento politico nell'ex Jugoslavia, era conservatore,"
         sequence-2:
           s: 2
           from: "00:00:10,24"
           to: "00:00:16,11"
-          text: ~
+          text: "appartenente al partito cattolico."
         sequence-3:
           s: 3
           from: "00:00:16,11"
