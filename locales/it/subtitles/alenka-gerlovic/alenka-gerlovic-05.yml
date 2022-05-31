@@ -38,17 +38,17 @@ it:
           s: 7
           from: "00:00:47,09"
           to: "00:00:58,17"
-          text: ~
+          text: "Quindi la Slovenia fu completamente coperta, anche se non subito. Io avevo ruoli diversi."
         sequence-8:
           s: 8
           from: "00:00:58,17"
           to: "00:01:09,03"
-          text: ~
+          text: "All'inizio fui semplicemente integrata nel gruppo dell'OF degli studenti."
         sequence-9:
           s: 9
           from: "00:01:09,03"
           to: "00:01:18,29"
-          text: "I joined the students from the Faculty of Law for a while."
+          text: "Per un po' mi unì agli studenti della facoltà di giurisprudenza."
         sequence-10:
           s: 10
           from: "00:01:18,29"
