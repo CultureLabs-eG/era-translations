@@ -2,58 +2,58 @@ it:
   alenka-gerlovic:
     chapter-4:
       c: 4
-      title: "Assassination of Alenka’s father"
+      title: "L'assassinio del padre di Alenka"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:08,24"
-          text: ~
+          text: "Lubiana fu divisa nelle regioni individuali."
         sequence-2:
           s: 2
           from: "00:00:08,24"
           to: "00:00:19,20"
-          text: ~
+          text: "Il livello più basso era il comitato sul campo della OF. Sono stata un membro del campo per un po'."
         sequence-3:
           s: 3
           from: "00:00:19,20"
           to: "00:00:27,20"
-          text: ~
+          text: "Il livello successivo era il comitato distrettuale dell'OF, che univa diversi campi."
         sequence-4:
           s: 4
           from: "00:00:27,20"
           to: "00:00:38,02"
-          text: ~
+          text: "Io ero membro del comitato distrettuale. Il comitato regionale dell'OF rappresentava il livello più alto."
         sequence-5:
           s: 5
           from: "00:00:38,02"
           to: "00:00:46,13"
-          text: ~
+          text: "Alla fine diventai un membro del comitato regionale dell'OF."
         sequence-6:
           s: 6
           from: "00:00:46,13"
           to: "00:01:04,06"
-          text: ~
+          text: "Poco prima che uscisse il mio mandato di cattura, la polizia politica della Guardia Nazionale aveva arrestato mio padre."
         sequence-7:
           s: 7
           from: "00:01:04,06"
           to: "00:01:11,10"
-          text: ~
+          text: "All'epoca in cui i tedeschi erano a Lubiana"
         sequence-8:
           s: 8
           from: "00:01:11,10"
           to: "00:01:22,02"
-          text: ~
+          text: "molte competenze erano lasciate alla Guardia Nazionale."
         sequence-9:
           s: 9
           from: "00:01:22,02"
           to: "00:01:34,24"
-          text: ~
+          text: "Loro erano anche parte delle SS, cioè della polizia tedesca."
         sequence-10:
           s: 10
           from: "00:01:34,24"
           to: "00:01:42,21"
-          text: ~
+          text: "Per cui anche loro giurarono fedeltà a Hitler e al Reich tedesco."
         sequence-11:
           s: 11
           from: "00:01:42,21"
@@ -63,17 +63,17 @@ it:
           s: 12
           from: "00:01:44,07"
           to: "00:01:51,18"
-          text: ~
+          text: "Eseguirono molti arresti prima della fine della guerra."
         sequence-13:
           s: 13
           from: "00:01:51,18"
           to: "00:02:00,15"
-          text: ~
+          text: "Fu così che la polizia politica della Guardia Nazionale venne a portare via mio padre."
         sequence-14:
           s: 14
           from: "00:02:00,15"
           to: "00:02:08,13"
-          text: ~
+          text: "Solo molti anni dopo scoprimmo il perché."
         sequence-15:
           s: 15
           from: "00:02:08,13"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:02:12,02"
           to: "00:02:26,06"
-          text: ~
+          text: "Negli archivi vennero ritrovati i mandati di arresto. Erano indirizzati al capo della polizia politica della  Guardia Nazionale, Lovro Hacin."
         sequence-17:
           s: 17
           from: "00:02:26,06"
@@ -93,12 +93,12 @@ it:
           s: 18
           from: "00:02:28,24"
           to: "00:02:46,07"
-          text: ~
+          text: "In seguito scoprii, sempre dai miei studenti, alcuni dei quali stavano dalla parte opposta, con la Guardia Nazionale..."
         sequence-19:
           s: 19
           from: "00:02:46,07"
           to: "00:02:54,05"
-          text: ~
+          text: "Uno dei miei studenti mi diede molte informazioni perché la sua famiglia era"
         sequence-20:
           s: 20
           from: "00:02:54,05"
