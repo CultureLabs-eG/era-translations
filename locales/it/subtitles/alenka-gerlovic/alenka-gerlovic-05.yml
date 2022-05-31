@@ -53,27 +53,27 @@ it:
           s: 10
           from: "00:01:18,29"
           to: "00:01:26,02"
-          text: ~
+          text: "Successivamente ero collegata con il comitato sul campo,"
         sequence-11:
           s: 11
           from: "00:01:26,02"
           to: "00:01:37,02"
-          text: "because then the LF developed into an organizational network, covering all of Ljubljana."
+          text: "perché a quel punto l'OF aveva sviluppato una rete organizzativa che copriva tutta la Slovenia."
         sequence-12:
           s: 12
           from: "00:01:37,02"
           to: "00:01:46,01"
-          text: "Don’t forget that Ljubljana was closed in by a wire fence to that time."
+          text: "Non dimenticate che in quel momento Lubiana era chiusa da un recinto di filo spinato."
         sequence-13:
           s: 13
           from: "00:01:46,01"
           to: "00:01:56,06"
-          text: ~
+          text: "Gli italiani circondarono l'intera città con il filo spinato. C'erano solo poche uscite dalla città."
         sequence-14:
           s: 14
           from: "00:01:56,06"
           to: "00:02:06,09"
-          text: "They were strictly guarded, and sometimes we could even go out."
+          text: "Queste erano severamente sorvegliate, potevamo uscire occasionalmente."
         sequence-15:
           s: 15
           from: "00:02:06,09"
@@ -83,22 +83,22 @@ it:
           s: 16
           from: "00:02:07,10"
           to: "00:02:18,09"
-          text: "We expressed it in many ways. Firstly, just by helping. This wasn’t manifested publicly."
+          text: "Opponevamo resistenza in tanti modi. Prima di tutto, aiutando. Questo non avveniva pubblicamente."
         sequence-17:
           s: 17
           from: "00:02:18,09"
           to: "00:02:26,02"
-          text: ~
+          text: "Raccoglievamo cibo, vestiti, pacchi per gli internati..."
         sequence-18:
           s: 18
           from: "00:02:26,02"
           to: "00:02:33,09"
-          text: ~
+          text: "L'Italia iniziò immediatamente a mandare le persone"
         sequence-19:
           s: 19
           from: "00:02:33,09"
           to: "00:02:41,05"
-          text: "whom they considered suspicious of working for the LF to the internment camp."
+          text: "che pensava potessero lavorare per l'OF nei campi di internamento."
         sequence-20:
           s: 20
           from: "00:02:41,05"
