@@ -2,38 +2,38 @@ it:
   alenka-gerlovic:
     chapter-2:
       c: 2
-      title: ~
+      title: "La decisione di entrare nella Resistenza"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,03"
           to: "00:00:12,27"
-          text: ~
+          text: "Ero terribilmente dispiaciuta del fatto che Lubiana fosse stata occupata. Credo che la maggior parte degli abitanti lo fosse."
         sequence-2:
           s: 2
           from: "00:00:12,27"
           to: "00:00:18,20"
-          text: ~
+          text: "Lubiana era di fatto sul confine della zona dell'occupazione."
         sequence-3:
           s: 3
           from: "00:00:18,20"
           to: "00:00:27,09"
-          text: ~
+          text: "Il nord di Lubiana era stato occupato dai tedeschi,"
         sequence-4:
           s: 4
           from: "00:00:27,09"
           to: "00:00:35,21"
-          text: ~
+          text: "e dal confine settentrionale della città verso sud c'erano gli italiani..."
         sequence-5:
           s: 5
           from: "00:00:35,21"
           to: "00:00:43,07"
-          text: ~
+          text: "per non parlare del confine odierno con l'Ungheria."
         sequence-6:
           s: 6
           from: "00:00:43,07"
           to: "00:00:51,21"
-          text: ~
+          text: "Gli ungheresi erano entrati a far parte dell'Asse Roma-Berlino e occuparono l'Oltremura (Prekmurje)."
         sequence-7:
           s: 7
           from: "00:00:51,21"
@@ -43,17 +43,17 @@ it:
           s: 8
           from: "00:00:53,01"
           to: "00:00:59,00"
-          text: ~
+          text: "Beh, ovviamente sapevo cosa ci aspettava."
         sequence-9:
           s: 9
           from: "00:00:59,00"
           to: "00:01:10,28"
-          text: ~
+          text: "Sapevo che il fascismo italiano, esattamente come il nazismo tedesco, aveva nei suo programmi praticamente la liquidazione degli sloveni."
         sequence-10:
           s: 10
           from: "00:01:10,28"
           to: "00:01:22,00"
-          text: ~
+          text: "Per un po' non seppi nulla di nessun Fronte di Liberazione (OF), o forse avevo solo la sensazione che qualcosa si stava muovendo."
         sequence-11:
           s: 11
           from: "00:01:22,00"
@@ -63,12 +63,12 @@ it:
           s: 12
           from: "00:01:22,21"
           to: "00:01:38,17"
-          text: ~
+          text: "Un giorno all'inizio dell'autunno andai al Castello di Lubiana e guardai verso il confine tedesco."
         sequence-13:
           s: 13
           from: "00:01:38,17"
           to: "00:01:47,04"
-          text: ~
+          text: "Vidi delle enormi nubi di fumo alzarsi sopra il villaggio di Rasica."
         sequence-14:
           s: 14
           from: "00:01:47,04"
