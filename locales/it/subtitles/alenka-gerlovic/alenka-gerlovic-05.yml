@@ -8,32 +8,32 @@ it:
           s: 1
           from: "00:00:00,14"
           to: "00:00:05,06"
-          text: ~
+          text: "Il mio ruolo nell'OF variava."
         sequence-2:
           s: 2
           from: "00:00:05,06"
           to: "00:00:11,02"
-          text: ~
+          text: "Non si trattava solo di una rete segreta che si limitava a Lubiana."
         sequence-3:
           s: 3
           from: "00:00:11,02"
           to: "00:00:18,01"
-          text: ~
+          text: "Andava per tutta la Slovenia, sviluppandosi pian piano."
         sequence-4:
           s: 4
           from: "00:00:18,01"
           to: "00:00:30,20"
-          text: "Around Ljubljana it developed earlier, because here the leadership was"
+          text: "Si sviluppò prima intorno a Lubiana, perché lì c'era la leadership"
         sequence-5:
           s: 5
           from: "00:00:30,20"
           to: "00:00:38,05"
-          text: ~
+          text: "e l'incontro fondativo ebbe luogo a Vecna pot a Lubiana."
         sequence-6:
           s: 6
           from: "00:00:38,05"
           to: "00:00:47,09"
-          text: ~
+          text: "Poi si diffuse verso l'interno fino a Koroska e anche nella regione di Primorje."
         sequence-7:
           s: 7
           from: "00:00:47,09"
@@ -93,7 +93,7 @@ it:
           s: 18
           from: "00:02:26,02"
           to: "00:02:33,09"
-          text: "Italy had immediately begun to send people"
+          text: ~
         sequence-19:
           s: 19
           from: "00:02:33,09"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:03:34,22"
           to: "00:03:57,01"
-          text: "Places had to be arranged for meetings, in houses, where people were willing to risk letting people in to LF meetings."
+          text: ~
         sequence-26:
           s: 26
           from: "00:03:57,01"
