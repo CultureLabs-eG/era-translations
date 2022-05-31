@@ -18,42 +18,42 @@ it:
           s: 3
           from: "00:00:16,11"
           to: "00:00:33,04"
-          text: ~
+          text: "Molti conservatori durante la Seconda guerra mondiale iniziarono a collaborare con l'occupante."
         sequence-4:
           s: 4
           from: "00:00:33,04"
           to: "00:00:36,15"
-          text: ~
+          text: "Però mio padre non lo fece."
         sequence-5:
           s: 5
           from: "00:00:36,15"
           to: "00:00:44,13"
-          text: ~
+          text: "Era uno sloveno con una coscienza nazionale e aveva anche combattuto per il generale Maister durante la Prima guerra mondiale."
         sequence-6:
           s: 6
           from: "00:00:44,13"
           to: "00:00:52,11"
-          text: ~
+          text: "Tuttavia non approvava la mia decisione."
         sequence-7:
           s: 7
           from: "00:00:52,11"
           to: "00:01:06,05"
-          text: ~
+          text: "Vennero a incontrarlo due persone nel 1941. Più tardi scoprì che si trattava di importanti figure tra i partigiani."
         sequence-8:
           s: 8
           from: "00:01:06,05"
           to: "00:01:16,10"
-          text: ~
+          text: "Ma non sapevo perché fossero venuti a vederlo. All'epoca sembrava che fosse semplicemente diventato un pacifista."
         sequence-9:
           s: 9
           from: "00:01:16,10"
           to: "00:01:24,04"
-          text: ~
+          text: "Aiutava chiunque si fosse trovato in difficoltà e fosse venuto da lui."
         sequence-10:
           s: 10
           from: "00:01:24,04"
           to: "00:01:31,29"
-          text: ~
+          text: "Ma non si sforzava troppo."
         sequence-11:
           s: 11
           from: "00:01:31,29"
@@ -63,14 +63,14 @@ it:
           s: 12
           from: "00:01:33,15"
           to: "00:01:45,25"
-          text: ~
+          text: "Non al punto che io potessi dire che fosse un attivista dell'OF."
         sequence-13:
           s: 13
           from: "00:01:45,25"
           to: "00:01:54,29"
-          text: ~
+          text: "A casa non mi lasciavano lavorare per l'OF."
         sequence-14:
           s: 14
           from: "00:01:54,29"
           to: "00:02:06,22"
-          text: ~
+          text: "Però decisi che dovevo proseguire in autonomia e secondo i miei propri valori."
