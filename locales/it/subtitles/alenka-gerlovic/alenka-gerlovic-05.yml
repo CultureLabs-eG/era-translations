@@ -2,7 +2,7 @@ it:
   alenka-gerlovic:
     chapter-5:
       c: 5
-      title: "Activities under Italian occupation"
+      title: "Attività sotto l'occupazione italiana"
       subtitles:
         sequence-1:
           s: 1
@@ -103,22 +103,22 @@ it:
           s: 20
           from: "00:02:41,05"
           to: "00:02:49,24"
-          text: ~
+          text: "I campi di internamento erano dei luoghi terribili."
         sequence-21:
           s: 21
           from: "00:02:49,24"
           to: "00:02:57,05"
-          text: ~
+          text: "Non era, come disse Berlusconi, come fare una bella vacanza."
         sequence-22:
           s: 22
           from: "00:02:57,05"
           to: "00:03:11,14"
-          text: "Once in internment it was necessary to take care of the families of the internees and of people who joined the partisans."
+          text: "Una volta internati, bisognava prendersi cura delle famiglie degli internati e delle persone che si erano unite ai partigiani."
         sequence-23:
           s: 23
           from: "00:03:11,14"
           to: "00:03:22,10"
-          text: "And also of the illegal, which didn’t get coupons for rations."
+          text: "E anche delle famiglie dei clandestini, che non ricevevano i buoni per le razioni."
         sequence-24:
           s: 24
           from: "00:03:22,10"
