@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:02:57,05"
           to: "00:03:11,14"
-          text: "Una volta internati, bisognava prendersi cura delle famiglie degli internati e delle persone che si erano unite ai partigiani."
+          text: "Dopo l'internamento, bisognava prendersi cura delle famiglie degli internati e delle persone che si erano unite ai partigiani."
         sequence-23:
           s: 23
           from: "00:03:11,14"
@@ -123,12 +123,12 @@ it:
           s: 24
           from: "00:03:22,10"
           to: "00:03:34,22"
-          text: ~
+          text: "Per cui dovevamo raccogliere il necessario per la vita di tutti i giorni."
         sequence-25:
           s: 25
           from: "00:03:34,22"
           to: "00:03:57,01"
-          text: ~
+          text: "Dovevano essere organizzati luoghi per le riunioni, nelle case, dove le persone fossero disposte a rischiare e far entrare le persone per le riunioni dell'OF."
         sequence-26:
           s: 26
           from: "00:03:57,01"
@@ -138,17 +138,17 @@ it:
           s: 27
           from: "00:04:00,12"
           to: "00:04:09,09"
-          text: ~
+          text: "Noi partecipanti a questi incontri non ci conoscevamo, ma avevamo dei codici."
         sequence-28:
           s: 28
           from: "00:04:09,09"
           to: "00:04:20,03"
-          text: ~
+          text: "Si arrivava con un codice, ci si presentava al proprietario dell'appartamento. Lui rispondeva con un codice."
         sequence-29:
           s: 29
           from: "00:04:20,03"
           to: "00:04:28,00"
-          text: "That way we knew we could trust each other. We even had code names among each other."
+          text: "In questo modo sapevamo di poterci fidare l'uno dell'altro. Avevamo persino anche dei nomi in codice."
         sequence-30:
           s: 30
           from: "00:04:28,00"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:04:28,16"
           to: "00:04:43,17"
-          text: ~
+          text: "Ci esprimevamo pubblicamente con azioni di scrittura per infondere coraggio alla popolazione della città e della Slovenia."
         sequence-32:
           s: 32
           from: "00:04:43,17"
