@@ -2,28 +2,28 @@ it:
   alenka-gerlovic:
     chapter-7:
       c: 7
-      title: "Hiding; Alenka joins partisan movement"
+      title: "Clandestinità: Alenka si unisce al movimento partigiano"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,11"
           to: "00:00:08,18"
-          text: "As soon as my father was taken away, I began to sleep elsewhere."
+          text: "Non appena mio padre fu portato via, cominciai a dormire altrove."
         sequence-2:
           s: 2
           from: "00:00:08,18"
           to: "00:00:15,12"
-          text: ~
+          text: "Finché c'era la mia famiglia,"
         sequence-3:
           s: 3
           from: "00:00:15,12"
           to: "00:00:29,11"
-          text: "they wouldn’t let me go underground because it might evoke my family having to pay for it."
+          text: "non mi avrebbero lasciato andare in clandestinità perché questo avrebbe potuto causare ripercussioni per loro."
         sequence-4:
           s: 4
           from: "00:00:29,11"
           to: "00:00:36,23"
-          text: ~
+          text: "Avrebbero potuto portarli in un campo di internamento, ecc."
         sequence-5:
           s: 5
           from: "00:00:36,23"
