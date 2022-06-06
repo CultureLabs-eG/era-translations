@@ -48,22 +48,22 @@ it:
           s: 9
           from: "00:00:50,03"
           to: "00:00:56,04"
-          text: ~
+          text: "All'inizio ricevevamo una sorta di \"lascia passare\","
         sequence-10:
           s: 10
           from: "00:00:56,04"
           to: "00:01:10,11"
-          text: "some sort of legitimation paper, if you weren’t poorly thought of by the occupying police."
+          text: "una sorta di documento di autorizzazione, se non si era malvisti dalla polizia di occupazione."
         sequence-11:
           s: 11
           from: "00:01:10,11"
           to: "00:01:14,17"
-          text: ~
+          text: "In seguito l'abolirono."
         sequence-12:
           s: 12
           from: "00:01:14,17"
           to: "00:01:28,06"
-          text: "So as long as I still had the lascia passare, I’d still cycle to the outskirts of Ljubljana."
+          text: "Quindi, finché avevo ancora il lascia passare, andavo in bicicletta fino alla periferia di Lubiana."
         sequence-13:
           s: 13
           from: "00:01:28,06"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:01:31,29"
           to: "00:01:40,10"
-          text: ~
+          text: "Poi proibirono le biciclette e non potei più andare da nessuna parte."
         sequence-15:
           s: 15
           from: "00:01:40,10"
@@ -83,17 +83,17 @@ it:
           s: 16
           from: "00:01:46,29"
           to: "00:02:00,10"
-          text: "To find a way back out into the nature, I turned my ‘bicycle’ into a ‘tricycle’."
+          text: "Per trovare una via di ritorno nella natura, trasformai la mia bicicletta in un \"triciclo\"."
         sequence-17:
           s: 17
           from: "00:02:00,10"
           to: "00:02:20,01"
-          text: ~
+          text: "Presi una ruota dalla bicicletta di mia sorella e la feci attaccare da un collega alla mia bici."
         sequence-18:
           s: 18
           from: "00:02:20,01"
           to: "00:02:30,20"
-          text: "So I could go out again on my tricycle. I rode to the Ljubljana Marsh and such like."
+          text: "Così potei uscire di nuovo con il mio triciclo. Andai alla Palude di Lubiana ecc."
         sequence-19:
           s: 19
           from: "00:02:30,20"
@@ -103,59 +103,59 @@ it:
           s: 20
           from: "00:02:31,28"
           to: "00:02:41,21"
-          text: "Returning to the city, the guards stopped me"
+          text: "Al ritorno in città le guardie mi fermarono,"
         sequence-21:
           s: 21
           from: "00:02:41,21"
           to: "00:02:52,20"
-          text: ~
+          text: "mi ispezionarono e scoprrono che tutto ciò che avevo erano fiori, per cui mi fecero passare."
         sequence-22:
           s: 22
           from: "00:02:52,20"
           to: "00:03:04,19"
-          text: ~
+          text: "Ma quando raggiunsi l'odierna via Presernova e passai davanti alla polizia italiana,"
         sequence-23:
           s: 23
           from: "00:03:04,19"
           to: "00:03:10,12"
-          text: "somebody started shrieking that I should be stopped."
+          text: "qualcuno iniziò a gridare che dovevo essere fermata."
         sequence-24:
           s: 24
           from: "00:03:10,12"
           to: "00:03:20,28"
-          text: ~
+          text: "Poi i cosiddetti 'questori' mi arrestarono, confiscarono il mio triciclo e mi portarono alla polizia."
         sequence-25:
           s: 25
           from: "00:03:20,28"
           to: "00:03:27,13"
-          text: "What I was doing with this? I told them that I went out into the nature."
+          text: "Che ci facevo? Gli dissi che ero uscita in campagna."
         sequence-26:
           s: 26
           from: "00:03:27,13"
           to: "00:03:36,02"
-          text: ~
+          text: "Poi mi misero in un'auto della polizia, con un poliziotto per ogni lato."
         sequence-27:
           s: 27
           from: "00:03:36,02"
           to: "00:03:47,22"
-          text: ~
+          text: "Mi vergoganvo di essere accompagnata a casa in tale compagnia. Mi accompagnarono a casa perché avevo ammesso dove vivevo."
         sequence-28:
           s: 28
           from: "00:03:47,22"
           to: "00:03:55,16"
-          text: "My father opened the door and asked if I really was his daughter. He confirmed."
+          text: "Mio padre aprì la porta e gli chiesero se ero davvero sua figlia. Lui confermò."
         sequence-29:
           s: 29
           from: "00:03:55,16"
           to: "00:04:01,00"
-          text: ~
+          text: "\"Abita qui?\" - \"Abita qui\"."
         sequence-30:
           s: 30
           from: "00:04:01,00"
           to: "00:04:08,07"
-          text: ~
+          text: "Poi se ne andarono e il giorno dopo riebbi il mio triciclo."
         sequence-31:
           s: 31
           from: "00:04:08,07"
           to: "00:04:16,00"
-          text: ~
+          text: "Ma non mi fu più permesso di guidarlo perché dopo la mia piccola avventura, anche i tricicli furono vietati."
