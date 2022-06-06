@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:38,00"
           to: "00:00:44,07"
-          text: "But when they took my father away, and then 14 days later"
+          text: "Ma quando portarono via mio padre, e poi 14 giorni dopo sfrattarono   dall'appartamento mia madre"
         sequence-7:
           s: 7
           from: "00:00:44,07"
           to: "00:00:54,25"
-          text: "evicted my mother from the apartment, I knew that I couldn’t stay in a legal apartment anymore."
+          text: "sapevo di non poter più stare in un appartamento legale."
         sequence-8:
           s: 8
           from: "00:00:54,25"
@@ -48,22 +48,22 @@ it:
           s: 9
           from: "00:01:00,11"
           to: "00:01:07,17"
-          text: "I immediately moved out and over to the house of a colleague, Erni Korijari."
+          text: "Mi trasferii immediatamente a casa di una collega, Erni Korijari."
         sequence-10:
           s: 10
           from: "00:01:07,17"
           to: "00:01:18,25"
-          text: "She was a member of the LF and worked the props at the Ljubljana Drama house. She took me into hiding in her place."
+          text: "Era un membro dell'OF e lavorava agli arredi scenici presso il Teatro del Dramma di Ljubiana. Mi portò a nascondermi a casa sua."
         sequence-11:
           s: 11
           from: "00:01:18,25"
           to: "00:01:25,20"
-          text: ~
+          text: "Pochi giorni dopo il mio trasferimento, la Gestapo fece visita a mia madre,"
         sequence-12:
           s: 12
           from: "00:01:25,20"
           to: "00:01:34,08"
-          text: "she didn’t have her own apartment anymore and stayed at her sister’s place."
+          text: "lei non aveva più un appartamento suo ma stava a casa della sorella"
         sequence-13:
           s: 13
           from: "00:01:34,08"
@@ -73,22 +73,22 @@ it:
           s: 14
           from: "00:01:36,04"
           to: "00:01:44,09"
-          text: ~
+          text: "Volevano sapere dove fossi. Mia madre non lo sapeva."
         sequence-15:
           s: 15
           from: "00:01:44,09"
           to: "00:01:53,28"
-          text: ~
+          text: "Ma mi fece sapere che la Gestapo era venuta a cercarmi."
         sequence-16:
           s: 16
           from: "00:01:53,28"
           to: "00:02:02,04"
-          text: "I passed that message to my own superiors in the LF network."
+          text: "Trasmisi il messaggio ai miei superiori nella rete dell'OF."
         sequence-17:
           s: 17
           from: "00:02:02,04"
           to: "00:02:11,02"
-          text: ~
+          text: "Da quel momento in poi si presero cura di me."
         sequence-18:
           s: 18
           from: "00:02:11,02"
@@ -98,27 +98,27 @@ it:
           s: 19
           from: "00:02:13,10"
           to: "00:02:21,19"
-          text: ~
+          text: "A Lubiana si faceva così:"
         sequence-20:
           s: 20
           from: "00:02:21,19"
           to: "00:02:35,21"
-          text: "Every building had a listing of all the people staying there. Every so often there would be raids."
+          text: "Ogni edificio aveva un elenco di tutte le persone che vi alloggiavano. Ogni tanto c'erano delle irruzioni."
         sequence-21:
           s: 21
           from: "00:02:35,21"
           to: "00:02:43,29"
-          text: ~
+          text: "Se durante queste irruzioni veniva trovato qualcuno non presente nell'elenco,"
         sequence-22:
           s: 22
           from: "00:02:43,29"
           to: "00:02:51,06"
-          text: "they were taken away; also all those who were hiding them."
+          text: "veniva portato via lui e coloro che lo nascondevano."
         sequence-23:
           s: 23
           from: "00:02:51,06"
           to: "00:02:57,01"
-          text: ~
+          text: "Quelle persone si assumevano dei rischi,"
         sequence-24:
           s: 24
           from: "00:02:57,01"
