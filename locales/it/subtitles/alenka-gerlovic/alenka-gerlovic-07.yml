@@ -123,27 +123,27 @@ it:
           s: 24
           from: "00:02:57,01"
           to: "00:03:09,29"
-          text: "they would consciously accept this person into their home and partly also share their food."
+          text: "accettavano consapevolmente nella loro casa questa persona e condividevano anche in parte il loro cibo."
         sequence-25:
           s: 25
           from: "00:03:09,29"
           to: "00:03:16,22"
-          text: ~
+          text: "I buoni alimentari contraffatti – tutti avevano buoni alimentari –"
         sequence-26:
           s: 26
           from: "00:03:16,22"
           to: "00:03:24,08"
-          text: ~
+          text: "fatti per i clandestini arrivavano sempre con un grande ritardo,"
         sequence-27:
           s: 27
           from: "00:03:24,08"
           to: "00:03:30,05"
-          text: ~
+          text: "spesso quando non era più permesso stare lì."
         sequence-28:
           s: 28
           from: "00:03:30,05"
           to: "00:03:40,04"
-          text: "As illegal we would have to stay with people who didn’t even know who we were."
+          text: "Come clandestini dovevamoi stare con persone che non sapevano nemmeno chi fossimo."
         sequence-29:
           s: 29
           from: "00:03:40,04"
@@ -153,27 +153,27 @@ it:
           s: 30
           from: "00:03:41,21"
           to: "00:03:51,06"
-          text: "They just trusted us in needing help on the basis of the code word."
+          text: "Si fidavano di noi solo perché avevamo bisogno di aiuto, sulla base della parola in codice."
         sequence-31:
           s: 31
           from: "00:03:51,06"
           to: "00:04:03,22"
-          text: ~
+          text: "Potevo entrare ovunque con la parola in codice, il proprietario rispondeva con una parola in codice e a quel punto potevo rimanere lì."
         sequence-32:
           s: 32
           from: "00:04:03,22"
           to: "00:04:12,00"
-          text: ~
+          text: "Dovetti cambiare casa diverse volte perché starnutivo nella stanza in cui mi nascondevo."
         sequence-33:
           s: 33
           from: "00:04:12,00"
           to: "00:04:20,09"
-          text: ~
+          text: "Qualcuno all'esterno lo sentiva e commentava che doveva esserci qualcuno in casa."
         sequence-34:
           s: 34
           from: "00:04:20,09"
           to: "00:04:27,26"
-          text: "Then I’d have to leave already the next day or night."
+          text: "Poi dovevo partire il giorno o la notte successiva."
         sequence-35:
           s: 35
           from: "00:04:27,26"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:04:29,15"
           to: "00:04:39,20"
-          text: "It was with strangers that I was staying when finally,"
+          text: "Ero ospite di sconosciuti quando,"
         sequence-37:
           s: 37
           from: "00:04:39,20"
@@ -193,19 +193,19 @@ it:
           s: 38
           from: "00:04:45,27"
           to: "00:04:54,22"
-          text: ~
+          text: "dopo quattro mesi passati a nascondermi di casa in casa,"
         sequence-39:
           s: 39
           from: "00:04:54,22"
           to: "00:05:11,25"
-          text: "that one afternoon my friend Neda Grzinic came to see me."
+          text: "un pomeriggio la mia amica Neda Grzinic venne finalmente a trovarmi."
         sequence-40:
           s: 40
           from: "00:05:11,25"
           to: "00:05:23,19"
-          text: ~
+          text: "Mi disse che un corriere dell'OF mi avrebbe portato un passaporto falso quella sera stessa"
         sequence-41:
           s: 41
           from: "00:05:23,19"
           to: "00:05:36,00"
-          text: ~
+          text: "e che la mattina dopo sarei partita per unirmi ai partigiani."
