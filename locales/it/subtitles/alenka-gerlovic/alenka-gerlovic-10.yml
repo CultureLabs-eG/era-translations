@@ -2,18 +2,18 @@ it:
   alenka-gerlovic:
     chapter-10:
       c: 10
-      title: "Partisan Vito, Alenkas husband"
+      title: "Il partigiano Vito - marito di Alenka"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,17"
           to: "00:00:13,10"
-          text: "Later, Vito, a partisan not yet 26 years old, came to the Central Technique."
+          text: "Più tardi, Vito, un partigiano non ancora ventiseienne, venne al Centro tecnico."
         sequence-2:
           s: 2
           from: "00:00:13,10"
           to: "00:00:20,25"
-          text: ~
+          text: "Vito era un pittore di grande talento, nonostante non avesse studiato."
         sequence-3:
           s: 3
           from: "00:00:20,25"
@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:22,21"
           to: "00:00:35,17"
-          text: "His wish was to become a vocational painter after the war."
+          text: "Dopo la guerra voleva diventare un pittore professionista."
         sequence-5:
           s: 5
           from: "00:00:35,17"
@@ -33,12 +33,12 @@ it:
           s: 6
           from: "00:00:38,12"
           to: "00:00:46,17"
-          text: "Vito came to the Central Technique after me."
+          text: "Vito arrivò al Centro Tecnico dopo di me."
         sequence-7:
           s: 7
           from: "00:00:46,17"
           to: "00:00:58,07"
-          text: "Before though, he spent a long time in an Italian internment camp."
+          text: "Prima, però, aveva trascorso un lungo periodo in un campo di internamento italiano."
         sequence-8:
           s: 8
           from: "00:00:58,07"

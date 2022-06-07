@@ -23,7 +23,7 @@ it:
           s: 4
           from: "00:00:20,15"
           to: "00:00:32,15"
-          text: "For one premiere, for Bor’s Raztrganci, I contributed the stage scenery."
+          text: "Per uno spettacolo, Raztrganci di Bor, contribuii alla scenografia."
         sequence-5:
           s: 5
           from: "00:00:32,15"
@@ -33,19 +33,19 @@ it:
           s: 6
           from: "00:00:33,15"
           to: "00:00:38,02"
-          text: "One of the most important components"
+          text: "Una delle particolarità più importanti"
         sequence-7:
           s: 7
           from: "00:00:38,02"
           to: "00:00:48,29"
-          text: "of the ‘Central Technique’ (of the Slovene Communist Party Workshop) was the partisan printing press."
+          text: "del \"Centro tecnico\" (dell'Officina del Partito Comunista Sloveno) era la tipografia partigiana."
         sequence-8:
           s: 8
           from: "00:00:48,29"
           to: "00:01:09,14"
-          text: "Partisan printing presses were hidden all over the hills of Kocevski Rog and also Goteniski Sneznik."
+          text: "Le tipografie partigiane erano nascoste sulle colline di Kocevski Rog e Goteniski Sneznik."
         sequence-9:
           s: 9
           from: "00:01:09,14"
           to: "00:01:20,27"
-          text: "They printed partisan newspapers, brochures and even poetry collections and song-books."
+          text: "Stampavano giornali partigiani, opuscoli e persino raccolte di poesie e libri di canzoni."
