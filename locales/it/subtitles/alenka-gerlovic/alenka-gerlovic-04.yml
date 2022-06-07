@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:19,20"
           to: "00:00:27,20"
-          text: "Il livello successivo era il comitato distrettuale dell'OF, che univa diversi unità locali."
+          text: "Il livello successivo era il comitato distrettuale dell'OF, che univa diverse unità locali."
         sequence-4:
           s: 4
           from: "00:00:27,20"
@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:02:46,07"
           to: "00:02:54,05"
-          text: "Uno dei miei studenti mi diede molte informazioni perché la sua famiglia era"
+          text: "Uno dei miei studenti mi diede molte informazioni perché la sua famiglia era,"
         sequence-20:
           s: 20
           from: "00:02:54,05"
           to: "00:03:01,14"
-          text: "ed è tuttora in contatto con l'immigrazione della Guardia Nazionale."
+          text: "ed è tuttora, in contatto con l'immigrazione della Guardia Nazionale."
         sequence-21:
           s: 21
           from: "00:03:01,14"
@@ -113,17 +113,17 @@ it:
           s: 22
           from: "00:03:12,13"
           to: "00:03:22,07"
-          text: "Non solo tramite lui, ma anche direttamente durante la processione di Hacin."
+          text: "Non solo tramite lui, ma anche direttamente durante il processo di Hacin."
         sequence-23:
           s: 23
           from: "00:03:22,07"
           to: "00:03:32,02"
-          text: "C'è stata una grande processione a Lubiana contro Rösener, il capo delle SS nella provincia di Lubiana."
+          text: "Ci fu un grande processo a Lubiana contro Rösener, il capo delle SS nella provincia di Lubiana."
         sequence-24:
           s: 24
           from: "00:03:32,02"
           to: "00:03:43,19"
-          text: "Contro Rupnik, che era stato  il presidente delle provincia di Lubiana nonché il capo militare della Guardia Nazionale."
+          text: "Contro Rupnik, che era stato il presidente della provincia di Lubiana nonché il capo militare della Guardia Nazionale."
         sequence-25:
           s: 25
           from: "00:03:43,19"
@@ -143,17 +143,17 @@ it:
           s: 28
           from: "00:04:28,00"
           to: "00:04:41,00"
-          text: "Andai da mio padre e glielo dissi. Mi disse che non aveva fatto niente e intendeva andare da nessuna parte. Era una questione di vita e di morte."
+          text: "Andai da mio padre e glielo dissi. Mi disse che non aveva fatto niente e non sarebbe andato da nessuna parte. Era una questione di vita e di morte."
         sequence-29:
           s: 29
           from: "00:04:41,00"
           to: "00:04:51,23"
-          text: "C'erano false notizie maligne e provenivano proprio dall'ospedale in cui era il capo."
+          text: "Giravano delle false notizie maligne e provenivano proprio dall'ospedale in cui era il capo."
         sequence-30:
           s: 30
           from: "00:04:51,23"
           to: "00:05:02,05"
-          text: "Veniva dal livello più basso degli impiegati, gli addetti alle pulizie e gli infermieri, i lavoratori non qualificati."
+          text: "Venivano dal livello più basso del personale, dagli addetti alle pulizie e dagli infermieri, dai lavoratori non qualificati."
         sequence-31:
           s: 31
           from: "00:05:02,05"

@@ -2,7 +2,7 @@ it:
   alenka-gerlovic:
     chapter-5:
       c: 5
-      title: "Attività sotto l'occupazione italiana"
+      title: "Le attività sotto l'occupazione italiana"
       subtitles:
         sequence-1:
           s: 1
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:11,02"
           to: "00:00:18,01"
-          text: "Andava per tutta la Slovenia, sviluppandosi pian piano."
+          text: "Attraversava tutta la Slovenia, sviluppandosi pian piano."
         sequence-4:
           s: 4
           from: "00:00:18,01"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:18,29"
           to: "00:01:26,02"
-          text: "Successivamente ero collegata con il comitato sul campo,"
+          text: "Successivamente ero collegata con il comitato locale,"
         sequence-11:
           s: 11
           from: "00:01:26,02"
@@ -93,12 +93,12 @@ it:
           s: 18
           from: "00:02:26,02"
           to: "00:02:33,09"
-          text: "L'Italia iniziò immediatamente a mandare le persone"
+          text: "L'Italia iniziò immediatamente a mandare le persone,"
         sequence-19:
           s: 19
           from: "00:02:33,09"
           to: "00:02:41,05"
-          text: "che pensava potessero lavorare per l'OF nei campi di internamento."
+          text: "che pensava potessero lavorare per l'OF, nei campi di internamento."
         sequence-20:
           s: 20
           from: "00:02:41,05"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:03:34,22"
           to: "00:03:57,01"
-          text: "Dovevano essere organizzati luoghi per le riunioni, nelle case, dove le persone fossero disposte a rischiare e far entrare le persone per le riunioni dell'OF."
+          text: "Bisognava organizzare luoghi per le riunioni, nelle case, in cui le persone fossero disposte a rischiare e far entrare la gente per le riunioni dell'OF."
         sequence-26:
           s: 26
           from: "00:03:57,01"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:04:00,12"
           to: "00:04:09,09"
-          text: "Noi partecipanti a questi incontri non ci conoscevamo, ma avevamo dei codici."
+          text: "Noi partecipanti a questi incontri non ci conoscevamo, ma avevamo dei messaggi in codice."
         sequence-28:
           s: 28
           from: "00:04:09,09"
