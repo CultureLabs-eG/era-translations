@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:01,04"
           to: "00:00:12,05"
-          text: "So on the very day that Ljubljana was liberated, to the same time being the end of WWII,"
+          text: "Il giorno in cui Lubiana venne liberata, la Seconda Guerra Mondiale stava volgendo al termine."
         sequence-2:
           s: 2
           from: "00:00:12,05"
           to: "00:00:19,04"
-          text: ~
+          text: "Il 9 maggio 1945 tornammo a Lubiana."
         sequence-3:
           s: 3
           from: "00:00:19,04"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:20,15"
           to: "00:00:25,28"
-          text: ~
+          text: "Fu il giorno più bello della mia vita. Lo è ancora."
         sequence-5:
           s: 5
           from: "00:00:25,28"
           to: "00:00:37,20"
-          text: ~
+          text: "C'erano molte cose che non sapevo. Stavamo viaggiando su un piccolo camion."
         sequence-6:
           s: 6
           from: "00:00:37,20"
@@ -38,22 +38,22 @@ it:
           s: 7
           from: "00:00:41,00"
           to: "00:00:50,05"
-          text: ~
+          text: "Non sapevo di aver superato il luogo di eccidio dove giaceva sepolta la mia buona amica Neda Grzinic."
         sequence-8:
           s: 8
           from: "00:00:50,05"
           to: "00:01:06,09"
-          text: ~
+          text: "Non sapevo che stavamo passando davanti alla caserma dei pompieri di Lavrica dove mio padre era stato sepolto nel febbraio del 1944."
         sequence-9:
           s: 9
           from: "00:01:06,09"
           to: "00:01:15,00"
-          text: ~
+          text: "Non sapevo nulla di questi fatti orribili. Non sapevo che mio marito fosse sul letto di morte."
         sequence-10:
           s: 10
           from: "00:01:15,00"
           to: "00:01:20,07"
-          text: ~
+          text: "Quindi ero immensamente felice."
         sequence-11:
           s: 11
           from: "00:01:20,07"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:24,16"
           to: "00:01:35,06"
-          text: ~
+          text: "Con il tempo venni a sapere tutto questo e dovetti trovare un modo per sopravvivere."
         sequence-13:
           s: 13
           from: "00:01:35,06"
@@ -73,32 +73,32 @@ it:
           s: 14
           from: "00:01:37,17"
           to: "00:01:47,27"
-          text: ~
+          text: "Ero terribilmente povera e tutto quello che era di mia madre era andato a fuoco, l'intero appartamento."
         sequence-15:
           s: 15
           from: "00:01:47,27"
           to: "00:01:54,13"
-          text: "She barely saved her life from the burning building."
+          text: "Si era salvata a stento dall'edificio in fiamme."
         sequence-16:
           s: 16
           from: "00:01:54,13"
           to: "00:02:05,29"
-          text: "It was the first night that she was staying in the apartment that she attained from the housing administration."
+          text: "Era la prima notte che passava nell'appartamento che aveva ottenuto dall'amministrazione degli alloggi."
         sequence-17:
           s: 17
           from: "00:02:05,29"
           to: "00:02:10,04"
-          text: ~
+          text: "Era vicino alla stazione ferroviaria."
         sequence-18:
           s: 18
           from: "00:02:10,04"
           to: "00:02:16,18"
-          text: ~
+          text: "Una notte, una mattina in realtà,"
         sequence-19:
           s: 19
           from: "00:02:16,18"
           to: "00:02:21,23"
-          text: ~
+          text: "un carro pieno di armi esplose."
         sequence-20:
           s: 20
           from: "00:02:21,23"
