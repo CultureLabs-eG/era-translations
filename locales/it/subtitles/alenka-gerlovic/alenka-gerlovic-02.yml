@@ -8,12 +8,12 @@ it:
           s: 1
           from: "00:00:01,03"
           to: "00:00:12,27"
-          text: "Ero terribilmente dispiaciuta del fatto che Lubiana fosse stata occupata. Credo che la maggior parte degli abitanti lo fosse."
+          text: "Ero terribilmente dispiaciuta del fatto che Lubiana fosse stata occupata. Credo che lo fosse la maggior parte degli abitanti."
         sequence-2:
           s: 2
           from: "00:00:12,27"
           to: "00:00:18,20"
-          text: "Lubiana era di fatto sul confine della zona dell'occupazione."
+          text: "Lubiana era di fatto sul confine della zona di occupazione."
         sequence-3:
           s: 3
           from: "00:00:18,20"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:27,09"
           to: "00:00:35,21"
-          text: "e dal confine settentrionale della città verso sud c'erano gli italiani..."
+          text: "e dal confine settentrionale della città verso il sud sud c'erano gli italiani..."
         sequence-5:
           s: 5
           from: "00:00:35,21"
           to: "00:00:43,07"
-          text: "per non parlare del confine odierno con l'Ungheria."
+          text: "per non parlare del confine con l'odierna Ungheria."
         sequence-6:
           s: 6
           from: "00:00:43,07"
@@ -48,7 +48,7 @@ it:
           s: 9
           from: "00:00:59,00"
           to: "00:01:10,28"
-          text: "Sapevo che il fascismo italiano, esattamente come il nazismo tedesco, aveva nei suo programmi praticamente la liquidazione degli sloveni."
+          text: "Sapevo che il fascismo italiano, esattamente come il nazismo tedesco, aveva nei suoi programmi praticamente la liquidazione degli sloveni."
         sequence-10:
           s: 10
           from: "00:01:10,28"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:22,21"
           to: "00:01:38,17"
-          text: "Un giorno all'inizio dell'autunno andai al Castello di Lubiana e guardai verso il confine tedesco."
+          text: "Un giorno, all'inizio dell'autunno, andai al Castello di Lubiana e guardai verso il confine tedesco."
         sequence-13:
           s: 13
           from: "00:01:38,17"
@@ -123,9 +123,9 @@ it:
           s: 24
           from: "00:03:39,00"
           to: "00:03:47,26"
-          text: "e chiamai i miei amici, dai quali avevo sentito delle cose. Avevo intuito che questo avesse a che fare con l'occupante."
+          text: "e chiamai le miei amiche, dalle quali avevo sentito delle cose. Avevo intuito che questo avesse a che fare con l'occupante."
         sequence-25:
           s: 25
           from: "00:03:47,26"
           to: "00:03:59,10"
-          text: "Dissi che volevo \"entrarci\", che anche io volevo fare qualsiasi cosa di cui loro erano a conoscenza. Il giorno dopo fui chiamata al mio primo incontro."
+          text: "Dissi che volevo \"entrarci\", che anche io volevo fare qualsiasi cosa di cui loro erano a conoscenza. Il giorno dopo mi chiamarono al mio primo incontro."
