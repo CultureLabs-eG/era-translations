@@ -2,23 +2,23 @@ it:
   alenka-gerlovic:
     chapter-9:
       c: 9
-      title: "Cultural work at the partisans"
+      title: "Lavoro culturale presso i partigiani"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:00,25"
           to: "00:00:06,21"
-          text: "There were very many cultural workers with the partisans."
+          text: "C'erano molti, molti operatori culturali con i partigiani."
         sequence-2:
           s: 2
           from: "00:00:06,21"
           to: "00:00:11,15"
-          text: ~
+          text: "E la mia umile persona era tra loro."
         sequence-3:
           s: 3
           from: "00:00:11,15"
           to: "00:00:20,15"
-          text: "The theater was relatively well represented and many premieres were held."
+          text: "Il teatro era relativamente ben rappresentato e si tenevano molti spettacoli."
         sequence-4:
           s: 4
           from: "00:00:20,15"
