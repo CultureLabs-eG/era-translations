@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:04:09,09"
           to: "00:04:20,03"
-          text: "Si arrivava con un codice, ci si presentava al proprietario dell'appartamento. Lui rispondeva con un codice."
+          text: "Si arrivava con una parola in codice, ci si presentava al proprietario dell'appartamento. Poi questo rispondeva con una parola in codice."
         sequence-29:
           s: 29
           from: "00:04:20,03"
@@ -158,12 +158,12 @@ it:
           s: 31
           from: "00:04:28,16"
           to: "00:04:43,17"
-          text: "Ci esprimevamo pubblicamente con azioni di scrittura per infondere coraggio alla popolazione della città e della Slovenia."
+          text: "Pubblicamente ci esprimevamo con azioni di scrittura per infondere coraggio alla popolazione della città e della Slovenia."
         sequence-32:
           s: 32
           from: "00:04:43,17"
           to: "00:04:53,24"
-          text: "Scrivevamo codici sui muri a favore dell'OF. Ne riempivamo la città."
+          text: "Scrivevamo messaggi in codice sui muri a favore dell'OF. Ne inondavamo la città."
         sequence-33:
           s: 33
           from: "00:04:53,24"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:05:17,17"
           to: "00:05:38,05"
-          text: "con un secchio versammo del grasso per assali lungo la via Celovska e appiccicammo delle scritte dell'OF."
+          text: "con un secchio, versammo del grasso per assali lungo la via Celovska e appiccicammo delle scritte dell'OF."
         sequence-37:
           s: 37
           from: "00:05:38,05"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:06:01,23"
           to: "00:06:16,02"
-          text: "Non so se altri paesi dell'Europa occupata abbiano organizzato manifestazioni, o se ne abbiano organizzate tante come a Lubiana."
+          text: "Non so se altri popolii dell'Europa occupata abbiano organizzato manifestazioni, o se ne abbiano organizzate tante come a Lubiana."
         sequence-41:
           s: 41
           from: "00:06:16,02"
@@ -228,17 +228,17 @@ it:
           s: 45
           from: "00:06:49,11"
           to: "00:06:58,07"
-          text: "Infine, anche davanti alla diocesi di Lubiana. Ero presente in tutte queste manifestazioni."
+          text: "Infine, anche davanti alla diocesi di Lubiana. Ero presente a tutte queste manifestazioni."
         sequence-46:
           s: 46
           from: "00:06:58,07"
           to: "00:07:07,24"
-          text: "Altre si tennero qui nel cimitero, vicino alle tombe degli ostaggi."
+          text: "Altre si tennero qui al cimitero, vicino alle tombe degli ostaggi."
         sequence-47:
           s: 47
           from: "00:07:07,24"
           to: "00:07:24,22"
-          text: "Furono gli occupanti italiani ad abbattere ogni mossa dell'OF. Sparano a tanti ostaggi innocenti."
+          text: "Furono gli occupanti italiani ad abbattere ogni mossa dell'OF. Spararono a tanti ostaggi innocenti."
         sequence-48:
           s: 48
           from: "00:07:24,22"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:08:21,10"
           to: "00:08:33,08"
-          text: "Notai che i veicoli militari degli occupanti andavano su e giù per la strada"
+          text: "Notai come i veicoli militari degli occupanti andavano su e giù per la strada"
         sequence-53:
           s: 53
           from: "00:08:33,08"
