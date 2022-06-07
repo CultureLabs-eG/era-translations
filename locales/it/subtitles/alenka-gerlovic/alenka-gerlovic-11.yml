@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:02:21,23"
           to: "00:02:28,20"
-          text: "My mother was left with nothing of what had before been"
+          text: "A mia madre non rimase nulla di ciò che c'era prima,"
         sequence-21:
           s: 21
           from: "00:02:28,20"
@@ -113,34 +113,34 @@ it:
           s: 22
           from: "00:02:32,09"
           to: "00:02:41,19"
-          text: ~
+          text: "lo stile di vita abbastanza confortevole di una famiglia di intellettuali di Lubiana."
         sequence-23:
           s: 23
           from: "00:02:41,19"
           to: "00:02:53,19"
-          text: ~
+          text: "Anch'io non avevo nulla. Quando io e mio marito venimmo smobilitati, non c'era più nulla."
         sequence-24:
           s: 24
           from: "00:02:53,19"
           to: "00:03:01,27"
-          text: ~
+          text: "Eravamo abituati a vivere in modo modesto già durante la guerra. Ma non era questo il problema principale."
         sequence-25:
           s: 25
           from: "00:03:01,27"
           to: "00:03:10,08"
-          text: ~
+          text: "Il problema principale era che mio padre non c'era più, mio marito non c'era più e molti dei miei amici non c'erano più."
         sequence-26:
           s: 26
           from: "00:03:10,08"
           to: "00:03:17,29"
-          text: "One had to survive. So I’ve survived for most of my life."
+          text: "Uno doveva sopravvivere. Quindi sono sopravvissuta per la maggior parte della mia vita."
         sequence-27:
           s: 27
           from: "00:03:17,29"
           to: "00:03:33,19"
-          text: "I’ve supported myself as a professor of art, initially at high schools and then, following the reorganization of the schooling system, in elementary schools."
+          text: "Lavoravo come insegnante di arte, inizialmente nelle scuole superiori e poi, dopo la riorganizzazione del sistema scolastico, scuole nelle elementari."
         sequence-28:
           s: 28
           from: "00:03:33,19"
           to: "00:03:43,05"
-          text: "All up to my retirement in 1969, when I finally found my true calling."
+          text: "Fino alla pesione nel 1969, quando finalmente trovai la mia vera vocazione."
