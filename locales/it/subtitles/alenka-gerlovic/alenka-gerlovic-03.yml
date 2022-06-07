@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,14"
           to: "00:00:10,24"
-          text: "Era un uomo importante, e in termini del suo orientamento politico nell'ex Jugoslavia, era conservatore,"
+          text: "Era un uomo importante, e in termini del suo orientamento politico nell'ex Jugoslavia, era un conservatore,"
         sequence-2:
           s: 2
           from: "00:00:10,24"
