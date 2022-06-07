@@ -8,32 +8,32 @@ it:
           s: 1
           from: "00:00:00,18"
           to: "00:00:07,10"
-          text: ~
+          text: "Ebbi la fortuna di avere il passaggio ai partigiani."
         sequence-2:
           s: 2
           from: "00:00:07,10"
           to: "00:00:19,07"
-          text: "That evening a courier indeed brought me my passport, a fake one with a fabricated name."
+          text: "Quella sera un corriere mi portò il passaporto, falso e con un nome inventato."
         sequence-3:
           s: 3
           from: "00:00:19,07"
           to: "00:00:29,09"
-          text: "I headed to the train station and took a train down to the Primorje."
+          text: "Andai alla stazione ferroviaria e presi un treno per Primorje."
         sequence-4:
           s: 4
           from: "00:00:29,09"
           to: "00:00:40,07"
-          text: "The last call was in a place called Kosana; that’s where all the illegal from Ljubljana went."
+          text: "L'ultima chiamata fu in un posto chiamato Kosana, dove andavano tutti i clandestini di Lubiana."
         sequence-5:
           s: 5
           from: "00:00:40,07"
           to: "00:00:48,04"
-          text: ~
+          text: "Di nuovo dovevamo conoscere la parola in codice."
         sequence-6:
           s: 6
           from: "00:00:48,04"
           to: "00:00:59,08"
-          text: ~
+          text: "Il padrone di casa era l'albergatore del Dolgan Inn."
         sequence-7:
           s: 7
           from: "00:00:59,08"
@@ -43,17 +43,17 @@ it:
           s: 8
           from: "00:01:03,18"
           to: "00:01:18,15"
-          text: "I turned to him to say the code – Matija sends me from Ljubljana. He responded – Vremscica."
+          text: "Mi rivolsi a lui per dire la parola in codice: \"Matija mi manda da Lubiana\". Lui rispose: \"Vremscica\"."
         sequence-9:
           s: 9
           from: "00:01:18,15"
           to: "00:01:31,26"
-          text: "At the time I didn’t know what Vremscica was. After WWII I became a mountaineer and hiked up Vremscica many times."
+          text: "All'epoca non sapevo cosa fosse il Vremscica (il monte Auremiano). Dopo la II Guerra mondiale diventai una scalatrice e lo scalai molte volte."
         sequence-10:
           s: 10
           from: "00:01:31,26"
           to: "00:01:38,02"
-          text: ~
+          text: "È una montagna bellissima con una vista stupenda."
         sequence-11:
           s: 11
           from: "00:01:38,02"
@@ -63,17 +63,17 @@ it:
           s: 12
           from: "00:01:38,23"
           to: "00:01:50,19"
-          text: ~
+          text: "Mi unii ai partigiani relativamente tardi. Ero rimasta nascosta a Lubiana per quattro mesi. Partii nel luglio del 1944."
         sequence-13:
           s: 13
           from: "00:01:50,19"
           to: "00:01:59,08"
-          text: "A very long journey ensued of course."
+          text: "Ne seguì un viaggio molto lungo, naturalmente."
         sequence-14:
           s: 14
           from: "00:01:59,08"
           to: "00:02:10,17"
-          text: "Ultimately our goal was the village of Obcice pod Kolevskim Rogom."
+          text: "La nostra destinazione finale era il villaggio di Obcice pod Kolevskim Rogom."
         sequence-15:
           s: 15
           from: "00:02:10,17"
@@ -83,22 +83,22 @@ it:
           s: 16
           from: "00:02:11,12"
           to: "00:02:13,11"
-          text: ~
+          text: "Sapete cosa?"
         sequence-17:
           s: 17
           from: "00:02:13,11"
           to: "00:02:23,00"
-          text: "It was all unforgettable beautiful, already with my leaving Ljubljana and going to liberated territory."
+          text: "È stato tutto indimenticabilmente bello, semplicemente il mio lasciare Lubiana e andare nel territorio liberato."
         sequence-18:
           s: 18
           from: "00:02:23,00"
           to: "00:02:38,28"
-          text: "That was something incredible to me, to have found myself suddenly surrounded by nature after four months of hiding in basements."
+          text: "Fu incredibile per me trovarmi improvvisamente circondata dalla natura dopo quattro mesi passati a nascondermi negli scantinati."
         sequence-19:
           s: 19
           from: "00:02:38,28"
           to: "00:02:51,12"
-          text: "The journey through the Kolpa valley was extremely beautiful: first Cebranke and the Kolpa,"
+          text: "Il viaggio attraverso la valle del Kolpa è stato estremamente bello: prima Cebranke e poi Kolpa."
         sequence-20:
           s: 20
           from: "00:02:51,12"
