@@ -2,13 +2,13 @@ it:
   alenka-gerlovic:
     chapter-11:
       c: 11
-      title: "Fine della guerra: sola e bloccata"
+      title: "Fine della guerra: sola e intrappolata"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:01,04"
           to: "00:00:12,05"
-          text: "Il giorno in cui Lubiana venne liberata, la Seconda Guerra Mondiale stava volgendo al termine."
+          text: "Il giorno in cui Lubiana venne liberata, la Seconda Guerra Mondiale era alla fine."
         sequence-2:
           s: 2
           from: "00:00:12,05"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:41,19"
           to: "00:02:53,19"
-          text: "Anch'io non avevo nulla. Quando io e mio marito venimmo smobilitati, non c'era più nulla."
+          text: "Anch'io non avevo nulla. Quando io e mio marito fummo smobilitati, non c'era più nulla."
         sequence-24:
           s: 24
           from: "00:02:53,19"
@@ -133,14 +133,14 @@ it:
           s: 26
           from: "00:03:10,08"
           to: "00:03:17,29"
-          text: "Uno doveva sopravvivere. Quindi sono sopravvissuta per la maggior parte della mia vita."
+          text: "Uno doveva sopravvivere. Quindi ho passato così la maggior parte della mia vita."
         sequence-27:
           s: 27
           from: "00:03:17,29"
           to: "00:03:33,19"
-          text: "Lavoravo come insegnante di arte, inizialmente nelle scuole superiori e poi, dopo la riorganizzazione del sistema scolastico, scuole nelle elementari."
+          text: "Lavoravo come insegnante di arte, inizialmente nelle scuole superiori e poi, dopo la riorganizzazione del sistema scolastico, nelle elementari."
         sequence-28:
           s: 28
           from: "00:03:33,19"
           to: "00:03:43,05"
-          text: "Fino alla pesione nel 1969, quando finalmente trovai la mia vera vocazione."
+          text: "Fino alla pensione nel 1969, quando finalmente trovai la mia vera vocazione."

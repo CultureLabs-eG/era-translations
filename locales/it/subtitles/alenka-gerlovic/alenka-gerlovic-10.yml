@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:02:06,20"
           to: "00:02:17,21"
-          text: "Dormiva con la febbre alta, sdraiato sui rami nella neve."
+          text: "Dormiva con la febbre alta, sdraiato sui rami in mezzo alla neve."
         sequence-16:
           s: 16
           from: "00:02:17,21"
@@ -108,7 +108,7 @@ it:
           s: 21
           from: "00:03:15,18"
           to: "00:03:25,08"
-          text: "(l'intera milizia attiva si dirigeva verso Trieste), noi, le unità di riserva, seguivamo a ruota."
+          text: "(l'intera milizia attiva si dirigeva verso Trieste), noi, le unità di riserva, la seguivamo."
         sequence-22:
           s: 22
           from: "00:03:25,08"
