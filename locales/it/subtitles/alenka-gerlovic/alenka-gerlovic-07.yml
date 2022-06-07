@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:38,00"
           to: "00:00:44,07"
-          text: "Ma quando portarono via mio padre, e poi 14 giorni dopo sfrattarono   dall'appartamento mia madre"
+          text: "Ma quando portarono via mio padre, e poi 14 giorni dopo sfrattarono dall'appartamento mia madre"
         sequence-7:
           s: 7
           from: "00:00:44,07"
@@ -63,7 +63,7 @@ it:
           s: 12
           from: "00:01:25,20"
           to: "00:01:34,08"
-          text: "lei non aveva più un appartamento suo ma stava a casa della sorella"
+          text: "lei non aveva più un appartamento suo ma stava a casa della sorella."
         sequence-13:
           s: 13
           from: "00:01:34,08"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:44,09"
           to: "00:01:53,28"
-          text: "Ma mi fece sapere che la Gestapo era venuta a cercarmi."
+          text: "Ma mi comunicò che la Gestapo era venuta a cercarmi."
         sequence-16:
           s: 16
           from: "00:01:53,28"
@@ -123,17 +123,17 @@ it:
           s: 24
           from: "00:02:57,01"
           to: "00:03:09,29"
-          text: "accettavano consapevolmente nella loro casa questa persona e condividevano anche in parte il loro cibo."
+          text: "accettavano consapevolmente nella loro casa questa persona e in parte condividevano anche il proprio cibo."
         sequence-25:
           s: 25
           from: "00:03:09,29"
           to: "00:03:16,22"
-          text: "I buoni alimentari contraffatti – tutti avevano buoni alimentari –"
+          text: "I buoni alimentari contraffatti (tutti avevano buoni alimentari),"
         sequence-26:
           s: 26
           from: "00:03:16,22"
           to: "00:03:24,08"
-          text: "fatti per i clandestini arrivavano sempre con un grande ritardo,"
+          text: "fatti per i clandestini, arrivavano sempre con un grande ritardo,"
         sequence-27:
           s: 27
           from: "00:03:24,08"
@@ -143,7 +143,7 @@ it:
           s: 28
           from: "00:03:30,05"
           to: "00:03:40,04"
-          text: "Come clandestini dovevamoi stare con persone che non sapevano nemmeno chi fossimo."
+          text: "Come clandestini dovevamo stare con persone che non sapevano nemmeno chi fossimo."
         sequence-29:
           s: 29
           from: "00:03:40,04"
