@@ -1,33 +1,33 @@
 it:
-  project_partners: "ERA project partners"
-  project_teams: "ERA project teams"
+  project_partners: "Partner del progetto ERA"
+  project_teams: "Gruppi di lavoro"
   youth_antifa_berlin:
-    name: "Youth Antifa Berlin"
-    description: "The antifa-youth group of Berlin is a group of young people being engaged in the struggle against fascism, racism, nationalism, anti-Semitism and sexism."
+    name: "Youth Antifa Berlino"
+    description: "Il gruppo Youth Antifa di Berlino è un gruppo di giovani impegnati nella lotta contro i fenomeni come: fascismo, razzismo, nazionalismo, antisemitismo e sessismo."
   dgb_youth:
-    name: DGB-Youth
-    description: "The Youth organization of German trade unions consists of members of the youth working group of lecturers of the DGB. The lecturers regularly perform political youth work. This focuses on antiracist and antifascist subjects."
+    name: DGB-Jugend
+    description: "L'organizzazione giovanile dei sindacati tedeschi è composta da docenti del gruppo di lavoro del DGB, che regolarmente svolgono attività politiche per i giovani. Si concentrano su temi antirazzisti e antifascisti."
   pulse:
     name: Pulse
-    description: "PULSE is an Italian private Non-Profit Association founded in 2004 to promote and favor activities in different fields such as research, communication, education and training as well as international cooperation."
+    description: "PULSE è un'associazione privata italiana senza scopo di lucro, fondata nel 2004 per promuovere e favorire attività in diversi campi quali la ricerca, la comunicazione, l'istruzione e la formazione, nonché la cooperazione internazionale."
   karta:
     name: Karta
-    description: "Eleven high-school students developed the ERA project in Poland. The project coordinator came from the House of Historical Meetings and Karta Center. The three witnesses, who were engaged in various forms of historical resistance movements in Poland in the years between 1939 and 1945 were interviewed by the students."
+    description: "In Polonia il progetto ERA è stato portato avanti da undici studenti delle scuole superiori. Il coordinatore del progetto proveniva dalla House of Historical Meetings e dal Centro Karta. Proprio gli studenti hanno realizzato le interviste ai tre testimoni, impegnati in varie forme di movimenti storici di resistenza, che ebbero luogo in Polonia tra il 1939 e il 1945."
   istoreco:
     name: Istoreco
-    description: "The Istoreco working group for the ERA project consists of an historian, a memory worker and a teacher as well as eight high school and university students. The junior team was provided with the necessary materials and tutoring in order to carry out the video interviews with the witnesses who all fought against the German occupation in the partisan movement."
+    description: "Il gruppo di lavoro di Istoreco, impegnato nel progetto ERA, è composto da uno storico, un operatore della memoria e un insegnante, oltre che da otto studenti delle scuole superiori e dell'università. Ai più giovani è stato fornito tutto il materiale necessario nonché l’accompagnamento per realizzare le video interviste ai testimoni che combatterono nel movimento partigiano contro l'occupazione tedesca."
   gaj:
     name: "Grünalternative Jugendorganisationen (GAJ)"
-    description: "A mixed team of young people realized the interviews in Carinthia/Koroška. A professor for contemporary history at the University of Klagenfurt tutored them."
+    description: "Un gruppo misto di giovani ha realizzato le interviste in Carinzia/Koroška. Durante il lavoro sono stati seguiti dal professore di storia contemporanea dell'Università di Klagenfurt."
   inz:
-    name: "Institute of Contemporary History (INZ)"
-    description: "The interviews in Slovenia were realized by a team from the Institute for Contemporary History in Slovenia. A group of young people tutored by a team of historians realized the interviews with former members of the Slovenian resistance against the Nazi occupation."
+    name: "Istituto di storia contemporanea (INZ)"
+    description: "Le interviste in Slovenia sono state realizzate da un team dell'Istituto per la Storia Contemporanea della Slovenia. Un gruppo di giovani, seguiti da alcuni storici, ha realizzato le interviste con gli ex membri della resistenza slovena contro l'occupazione nazista."
   province_reggio:
-    name: ~
-    description: "The Province of Reggio Emilia promotes a well-balanced social and economic development for its community and invests in research, knowledge and vocational training, the valorization of its landscapes, the local territorial and environmental development, the local welfare. It also promotes gender equality in every field and cares about the identity of its community through the memory of its inhabitants."
+    name: "Provincia di Reggio Emilia"
+    description: "La Provincia di Reggio Emilia promuove per la sua popolazione uno sviluppo sociale ed economico equilibrato, investendo in ricerca, conoscenza, formazione professionale, valorizzazione dei paesaggi, sviluppo territoriale e ambientale e welfare locale. Essa inoltre promuove in ogni ambito l'uguaglianza di genere, e custodisce l’identità della sua comunità attraverso la memoria dei suoi abitanti."
   flucht_und_migration:
     name: "Forschungsgesellschaft Flucht und Migration"
-    description: "The Research Society Flight and Migration was founded in 1994. It does research and publishes facts about the situation of refugees and migrants on the periphery of the European Union as well as about the politics of separation and camps on the outer boarders of the European Union."
+    description: "La Società di Ricerca Fuga e Migrazione è stata fondata nel 1994. Essa si occupa di ricerca e pubblicazione di fatti riguardanti la situazione dei rifugiati e dei migranti alla periferia dell'Unione Europea, nonché la politica di separazione e i campi alle frontiere esterne dell'Unione Europea."
   cemea:
     name: CEMEA
-    description: "CEMEA was created in 1937 just after the Front Populaire (1936). CEMEA is a pedagogical organization which is historically related to the so called Education Populaire. The aim of CEMEA is to promote citizenship, equality of chances, social awareness and political involvement though education."
+    description: "CEMEA nasce nel 1937, subito dopo il Front Populaire (1936). Si tratta di un'organizzazione pedagogica, storicamente legata alla cosiddetta Education Populaire. L'obiettivo di CEMEA è quello di promuovere la cittadinanza, l'uguaglianza delle opportunità, la consapevolezza sociale e il coinvolgimento politico attraverso l'educazione."
