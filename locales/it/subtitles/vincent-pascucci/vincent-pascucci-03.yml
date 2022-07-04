@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:58,17"
           to: "00:02:05,17"
-          text: "Le fabbriche funzionanti erano pochissime."
+          text: "Erano pochissime le fabbriche ancora funzionanti."
         sequence-17:
           s: 17
           from: "00:02:05,17"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:06:25,21"
           to: "00:06:36,02"
-          text: "Alcuni di loro erano stati arrestati mentre distribuivano i volantini. Furono condannati."
+          text: "Alcuni di essi erano stati arrestati mentre distribuivano i volantini. Furono condannati."
         sequence-53:
           s: 53
           from: "00:06:36,02"
@@ -273,7 +273,7 @@ it:
           s: 54
           from: "00:06:39,00"
           to: "00:06:52,06"
-          text: "Due donne erano state deportate. Una di loro morì durante la deportazione."
+          text: "Due donne erano state deportate. Una di esse morì durante la deportazione."
         sequence-55:
           s: 55
           from: "00:06:52,06"
@@ -288,9 +288,9 @@ it:
           s: 57
           from: "00:07:17,04"
           to: "00:07:30,27"
-          text: "Non avevamo ancora l'abitudine di un'organizzazione clandestina, Tutti si conoscevano."
+          text: "Non avevamo ancora in testa un'organizzazione clandestina, Tutti si conoscevano."
         sequence-58:
           s: 58
           from: "00:07:30,27"
           to: "00:07:40,21"
-          text: "Nove di loro furono fucilati e gli altri otto morirono durante la deportazione ad Auschwitz."
+          text: "Nove di essi furono fucilati e gli altri otto morirono durante la deportazione ad Auschwitz."
