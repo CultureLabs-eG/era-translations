@@ -33,7 +33,7 @@ it:
           s: 6
           from: "00:00:36,27"
           to: "00:00:50,03"
-          text: "Prima della guerra producevano automobili. Durante l'occupazione, furono costretti a produrre assi per i carri armati."
+          text: "Prima della guerra producevano automobili. Durante l'occupazione furono costretti a produrre assi per i carri armati."
         sequence-7:
           s: 7
           from: "00:00:50,03"
@@ -118,7 +118,7 @@ it:
           s: 23
           from: "00:02:43,00"
           to: "00:02:52,01"
-          text: "Avremmo dovuto avere un controllo medico a Courbevoie, con un magiore tedesco."
+          text: "Avremmo dovuto avere un controllo medico a Courbevoie, con un maggiore tedesco."
         sequence-24:
           s: 24
           from: "00:02:52,01"
@@ -148,7 +148,7 @@ it:
           s: 29
           from: "00:03:36,26"
           to: "00:03:43,17"
-          text: "All'arrivo a Brives, dovevo contattare i compagni."
+          text: "All'arrivo a Brives dovevo contattare i compagni."
         sequence-30:
           s: 30
           from: "00:03:43,17"
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:05:21,02"
           to: "00:05:29,00"
-          text: "non trovavano la persona che cercavano, si sono portati la sua famiglia."
+          text: "non trovavano la persona che cercavano, si portavano via la sua famiglia."
         sequence-42:
           s: 42
           from: "00:05:29,00"
@@ -233,7 +233,7 @@ it:
           s: 46
           from: "00:06:07,21"
           to: "00:06:20,10"
-          text: "Prima del film stesso hanno mostrato notizie/informazioni curate dai nazisti, dalla polizia francese, dal governo francese."
+          text: "Prima del film stesso mostravano notizie/informazioni curate dai nazisti, dalla polizia francese, dal governo francese."
         sequence-47:
           s: 47
           from: "00:06:20,10"
@@ -248,7 +248,7 @@ it:
           s: 49
           from: "00:06:33,16"
           to: "00:06:44,11"
-          text: "così da non poter chiamare la polizia, e uno dei nostri compagni, solitamente Louis Meunier, si sarebbe alzato per parlare."
+          text: "così da non poter chiamare la polizia, e uno dei nostri compagni, solitamente Louis Meunier, si alzava per parlare."
         sequence-50:
           s: 50
           from: "00:06:44,11"
@@ -273,22 +273,22 @@ it:
           s: 54
           from: "00:07:11,04"
           to: "00:07:18,08"
-          text: "Lentamente la popolazione stessa, iniziò a fare da protezione."
+          text: "Lentamente la popolazione stessa iniziò a fare da protezione."
         sequence-55:
           s: 55
           from: "00:07:18,08"
           to: "00:07:28,25"
-          text: "Abbiamo avuto un certo sostegno nella popolazione. All'inizio c'era soprattutto paura."
+          text: "Avevamo un certo sostegno tra la popolazione. All'inizio c'era soprattutto paura."
         sequence-56:
           s: 56
           from: "00:07:28,25"
           to: "00:07:37,10"
-          text: "Quando distribuivamo volantini, la gente si disperdeva. In seguito le cose sono cambiate."
+          text: "Quando distribuivamo volantini, la gente si disperdeva. In seguito le cose cambiarono."
         sequence-57:
           s: 57
           from: "00:07:37,10"
           to: "00:07:49,17"
-          text: "Se la polizia arrivava, avrebbero formato dei gruppi per impedire il passaggio dei poliziotti. Ciò ci permetteva di scappare."
+          text: "Se la polizia arrivava, formavano dei gruppi per impedire il passaggio dei poliziotti. Ciò ci permetteva di scappare."
         sequence-58:
           s: 58
           from: "00:07:49,17"
