@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:08,11"
           to: "00:00:17,00"
-          text: "Mio padre fu mobilitato perché eravamo diventati cittadini francesi."
+          text: "Mio padre venne mobilitato perché eravamo diventati cittadini francesi."
         sequence-3:
           s: 3
           from: "00:00:17,00"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:01:11,11"
           to: "00:01:23,13"
-          text: "Abbiamo conosciuto la cosiddetta \"débacle\" - lo sfacelo totale - durante la nostra fuga."
+          text: "Durante il viaggio abbiamo conosciuto la cosiddetta \"débacle\" - lo sfacelo totale."
         sequence-9:
           s: 9
           from: "00:01:23,13"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:04:47,01"
           to: "00:05:02,16"
-          text: ~
+          text: "All'epoca non avevamo armi, poiché a Parigi non potevamo beneficiare del paracadutismo degli Alleati."
         sequence-41:
           s: 41
           from: "00:05:02,16"
@@ -213,47 +213,47 @@ it:
           s: 42
           from: "00:05:04,12"
           to: "00:05:09,23"
-          text: ~
+          text: "A Parigi, contrariamente al resto del Paese,"
         sequence-43:
           s: 43
           from: "00:05:09,23"
           to: "00:05:27,26"
-          text: ~
+          text: "i tedeschi avevano chiesto a tutti di consegnare le armi alla polizia francese, anche i fucili da caccia."
         sequence-44:
           s: 44
           from: "00:05:27,26"
           to: "00:05:34,21"
-          text: ~
+          text: "In assenza di armi la nostra attività principale consisteva nello spiegare alla gente"
         sequence-45:
           s: 45
           from: "00:05:34,21"
           to: "00:05:40,15"
-          text: ~
+          text: "cosa era successo e perché ci trovavamo in questa situazione."
         sequence-46:
           s: 46
           from: "00:05:40,15"
           to: "00:05:44,15"
-          text: ~
+          text: "Quindi iniziammo a produrre i volantini."
         sequence-47:
           s: 47
           from: "00:05:44,15"
           to: "00:05:56,15"
-          text: ~
+          text: "Oggi questo potrebbe sembrare relativamente banale."
         sequence-48:
           s: 48
           from: "00:05:56,15"
           to: "00:06:02,23"
-          text: ~
+          text: "A Nanterre si stavano lentamente formando diversi gruppi di resistenza."
         sequence-49:
           s: 49
           from: "00:06:02,23"
           to: "00:06:15,10"
-          text: ~
+          text: "Noi eravamo i giovani del Movimento Giovani Comunisti,"
         sequence-50:
           s: 50
           from: "00:06:15,10"
           to: "00:06:23,21"
-          text: ~
+          text: "ma eravamo separati dagli adulti del Partito Comunista per motivi di sicurezza."
         sequence-51:
           s: 51
           from: "00:06:23,21"
@@ -263,7 +263,7 @@ it:
           s: 52
           from: "00:06:25,21"
           to: "00:06:36,02"
-          text: ~
+          text: "Alcuni di loro erano stati arrestati mentre distribuivano i volantini. Furono condannati."
         sequence-53:
           s: 53
           from: "00:06:36,02"
@@ -273,24 +273,24 @@ it:
           s: 54
           from: "00:06:39,00"
           to: "00:06:52,06"
-          text: ~
+          text: "Due donne erano state deportate. Una di loro morì durante la deportazione."
         sequence-55:
           s: 55
           from: "00:06:52,06"
           to: "00:07:03,22"
-          text: ~
+          text: "Vi dico questo per spiegarvi che distribuire questi volantini o giornali all'epoca significava rischiare la vita."
         sequence-56:
           s: 56
           from: "00:07:03,22"
           to: "00:07:17,04"
-          text: ~
+          text: "Per quanto riguarda i resistenti maschi, ci furono più di 15 arresti."
         sequence-57:
           s: 57
           from: "00:07:17,04"
           to: "00:07:30,27"
-          text: ~
+          text: "Non avevamo ancora l'abitudine di un'organizzazione clandestina, Tutti si conoscevano."
         sequence-58:
           s: 58
           from: "00:07:30,27"
           to: "00:07:40,21"
-          text: ~
+          text: "Nove di loro furono fucilati e gli altri otto morirono durante la deportazione ad Auschwitz."
