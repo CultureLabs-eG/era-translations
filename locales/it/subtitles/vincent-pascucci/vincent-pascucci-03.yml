@@ -2,33 +2,33 @@ it:
   vincent-pascucci:
     chapter-3:
       c: 3
-      title: ~
+      title: "Prime attività di resistenza"
       subtitles:
         sequence-1:
           s: 1
           from: "00:00:02,08"
           to: "00:00:08,11"
-          text: ~
+          text: "Il 3 settembre 1939 fu dichiarata la guerra."
         sequence-2:
           s: 2
           from: "00:00:08,11"
           to: "00:00:17,00"
-          text: ~
+          text: "Mio padre fu mobilitato perché eravamo diventati cittadini francesi."
         sequence-3:
           s: 3
           from: "00:00:17,00"
           to: "00:00:26,26"
-          text: ~
+          text: "Fu mandato all'Est. Ma non avevano nemmeno le armi."
         sequence-4:
           s: 4
           from: "00:00:26,26"
           to: "00:00:39,09"
-          text: ~
+          text: "Purtroppo in quel periodo persi mia madre e mio padre tornò per prendersi cura della famiglia."
         sequence-5:
           s: 5
           from: "00:00:39,09"
           to: "00:00:49,04"
-          text: ~
+          text: "Mentre era ancora via i miei zii si presero cura di noi, di mio fratello e di me."
         sequence-6:
           s: 6
           from: "00:00:49,04"
@@ -38,22 +38,22 @@ it:
           s: 7
           from: "00:00:55,04"
           to: "00:01:11,11"
-          text: ~
+          text: "Nel 1940, quando il pericolo dell'occupazione tedesca era imminente, mia zia voleva che andassimo nel sud della Francia."
         sequence-8:
           s: 8
           from: "00:01:11,11"
           to: "00:01:23,13"
-          text: ~
+          text: "Abbiamo conosciuto la cosiddetta \"débacle\" - lo sfacelo totale - durante la nostra fuga."
         sequence-9:
           s: 9
           from: "00:01:23,13"
           to: "00:01:29,19"
-          text: ~
+          text: "Partimmo a piedi, spingendo le valigie in bicicletta."
         sequence-10:
           s: 10
           from: "00:01:29,19"
           to: "00:01:34,05"
-          text: ~
+          text: "A Le Mans i tedeschi ci raggiunsero."
         sequence-11:
           s: 11
           from: "00:01:34,05"
@@ -63,17 +63,17 @@ it:
           s: 12
           from: "00:01:35,09"
           to: "00:01:44,13"
-          text: ~
+          text: "Quando i tedeschi ci superarono, tornammo a Nanterre."
         sequence-13:
           s: 13
           from: "00:01:44,13"
           to: "00:01:49,13"
-          text: ~
+          text: "La città era quasi vuota in quel momento."
         sequence-14:
           s: 14
           from: "00:01:49,13"
           to: "00:01:57,17"
-          text: ~
+          text: "Era luglio e Nanterre era stata occupata il 14 giugno 1940."
         sequence-15:
           s: 15
           from: "00:01:57,17"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:58,17"
           to: "00:02:05,17"
-          text: ~
+          text: "Le fabbriche funzionanti erano pochissime."
         sequence-17:
           s: 17
           from: "00:02:05,17"
