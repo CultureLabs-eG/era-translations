@@ -38,7 +38,7 @@ it:
           s: 7
           from: "00:00:29,25"
           to: "00:00:37,24"
-          text: "I miei genitori sono venuti in Francia, per primo mio padre, grazie al contratto di manodopera operaia"
+          text: "I miei genitori sono venuti in Francia, per primo mio padre, grazie al contratto di manodopera operaia,"
         sequence-8:
           s: 8
           from: "00:00:37,24"
@@ -103,7 +103,7 @@ it:
           s: 20
           from: "00:01:47,03"
           to: "00:01:57,14"
-          text: "Si è tesserato al Partito Comunista francese dopo aver ottenuto la cittadinanza."
+          text: "Si era tesserato al Partito Comunista francese dopo aver ottenuto la cittadinanza."
         sequence-21:
           s: 21
           from: "00:01:57,14"
@@ -163,12 +163,12 @@ it:
           s: 32
           from: "00:03:23,24"
           to: "00:03:31,18"
-          text: "Ero combattuto tra il voler aiutare la famiglia lavorando"
+          text: "Da un lato, volevo aiutare la famiglia e lavorare."
         sequence-33:
           s: 33
           from: "00:03:31,18"
           to: "00:03:36,10"
-          text: "e il desiderio di essere libero,"
+          text: "Dall'altro - volevo essere libero e indipendente."
         sequence-34:
           s: 34
           from: "00:03:36,10"

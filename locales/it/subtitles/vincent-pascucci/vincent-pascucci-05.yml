@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,16"
           to: "00:00:14,17"
-          text: "Si può far parte del movimento di resistenza e avere una normale occupazione."
+          text: "Si poteva far parte del movimento di resistenza e avere una normale occupazione."
         sequence-2:
           s: 2
           from: "00:00:14,17"
@@ -78,7 +78,7 @@ it:
           s: 15
           from: "00:01:43,02"
           to: "00:01:52,21"
-          text: "È stato firmato un accordo tra il Governo francese di Pétain-Laval"
+          text: "Era stato firmato un accordo tra il Governo francese di Pétain-Laval"
         sequence-16:
           s: 16
           from: "00:01:52,21"
@@ -98,7 +98,7 @@ it:
           s: 19
           from: "00:02:15,24"
           to: "00:02:20,29"
-          text: "Non ha funzionato bene, perché pochissimi si sono offerti come volontari."
+          text: "Non aveva funzionato bene, perché pochissimi si erano offerti come volontari."
         sequence-20:
           s: 20
           from: "00:02:20,29"
@@ -128,7 +128,7 @@ it:
           s: 25
           from: "00:03:02,10"
           to: "00:03:13,02"
-          text: "Ma sono arrivato lì come fossi dolorante, dicendo che il mio medico mi aveva detto che dovevo essere operato immediatamente."
+          text: "Ma arrivai lì come se mi facesse male, dicendo che il mio medico mi aveva detto che dovevo essere operato immediatamente."
         sequence-26:
           s: 26
           from: "00:03:13,02"
@@ -138,7 +138,7 @@ it:
           s: 27
           from: "00:03:22,21"
           to: "00:03:30,07"
-          text: "Poi ho contattato i miei superiori."
+          text: "Poi contattai i miei superiori."
         sequence-28:
           s: 28
           from: "00:03:30,07"

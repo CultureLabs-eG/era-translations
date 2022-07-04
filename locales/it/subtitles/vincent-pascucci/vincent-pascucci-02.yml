@@ -28,12 +28,12 @@ it:
           s: 5
           from: "00:00:41,19"
           to: "00:00:48,17"
-          text: "Io partecipai agli incontri per le elezioni"
+          text: "Io partecipai agli incontri per le elezioni,"
         sequence-6:
           s: 6
           from: "00:00:48,17"
           to: "00:00:57,00"
-          text: "dove Waldeck Rocher vinse contro la Comte De Fels."
+          text: "in cui Waldeck Rocher vinse contro la Comte De Fels."
         sequence-7:
           s: 7
           from: "00:00:57,00"
@@ -43,7 +43,7 @@ it:
           s: 8
           from: "00:00:58,09"
           to: "00:01:03,08"
-          text: "Mio padre mi porto anche alla prima dimostrazione."
+          text: "Mio padre mi portò anche alla prima manifestazione."
         sequence-9:
           s: 9
           from: "00:01:03,08"
@@ -53,7 +53,7 @@ it:
           s: 10
           from: "00:01:11,20"
           to: "00:01:21,09"
-          text: "Ricordo che alla dimostrazione incontrai la mia insegnante, una giovane socialista."
+          text: "Ricordo che alla manifestazione incontrai la mia insegnante, una giovane socialista."
         sequence-11:
           s: 11
           from: "00:01:21,09"
