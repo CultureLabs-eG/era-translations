@@ -168,7 +168,7 @@ it:
           s: 33
           from: "00:03:31,18"
           to: "00:03:36,10"
-          text: "Dall'altro - volevo essere libero e indipendente."
+          text: "Dall'altro - volevo essere libero e indipendente,"
         sequence-34:
           s: 34
           from: "00:03:36,10"
@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:03:39,01"
           to: "00:03:46,02"
-          text: "di emanciparmi."
+          text: "volevo emanciparmi. Questo era anche più importante."
         sequence-36:
           s: 36
           from: "00:03:46,02"
@@ -188,7 +188,7 @@ it:
           s: 37
           from: "00:03:48,03"
           to: "00:03:53,21"
-          text: "Quindi ho cominciato a lavorare all'età di 14 anni."
+          text: "Quindi cominciai a lavorare all'età di 14 anni."
         sequence-38:
           s: 38
           from: "00:03:53,21"
