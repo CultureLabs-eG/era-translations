@@ -88,27 +88,27 @@ it:
           s: 17
           from: "00:02:05,17"
           to: "00:02:19,10"
-          text: ~
+          text: "Mi misi di nuovo in contatto con i miei compagni del Movimento Giovani Comunisti e iniziammo..."
         sequence-18:
           s: 18
           from: "00:02:19,10"
           to: "00:02:25,16"
-          text: ~
+          text: "come potrei descriverlo al meglio? Il popolo non capiva nulla."
         sequence-19:
           s: 19
           from: "00:02:25,16"
           to: "00:02:32,04"
-          text: ~
+          text: "All'improvviso venivano imprigionati invece di vivere in un Paese libero."
         sequence-20:
           s: 20
           from: "00:02:32,04"
           to: "00:02:37,20"
-          text: ~
+          text: "Questo successe in meno di un mese."
         sequence-21:
           s: 21
           from: "00:02:37,20"
           to: "00:02:50,19"
-          text: ~
+          text: "I nazisti attraversarono il confine francese il 10 maggio 1940 e il 10 giugno erano a Parigi."
         sequence-22:
           s: 22
           from: "00:02:50,19"
@@ -118,22 +118,22 @@ it:
           s: 23
           from: "00:02:53,01"
           to: "00:02:59,16"
-          text: ~
+          text: "Tutti erano spaventati e cercavano di andarsene."
         sequence-24:
           s: 24
           from: "00:02:59,16"
           to: "00:03:08,00"
-          text: ~
+          text: "Non capivamo come in questo paese di libertà,"
         sequence-25:
           s: 25
           from: "00:03:08,00"
           to: "00:03:15,12"
-          text: ~
+          text: "dove avevamo tutto quello che volevamo, un paese autosufficiente,"
         sequence-26:
           s: 26
           from: "00:03:15,12"
           to: "00:03:26,03"
-          text: ~
+          text: "(per la sua agricoltura e la sua industria), improvvisamente non era rimasto più nulla."
         sequence-27:
           s: 27
           from: "00:03:26,03"
