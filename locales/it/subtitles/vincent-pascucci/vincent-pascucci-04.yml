@@ -8,7 +8,7 @@ it:
           s: 1
           from: "00:00:00,15"
           to: "00:00:04,10"
-          text: "All'inizio, ci conoscevamo tutti."
+          text: "All'inizio ci conoscevamo tutti."
         sequence-2:
           s: 2
           from: "00:00:04,10"
@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:10,07"
           to: "00:00:24,24"
-          text: "Ciò non era appunto per Nanterre. Non eravamo abituati a lavorare o a organizzarci clandestinamente."
+          text: "Non era una particolarità di Nanterre. Non eravamo abituati a lavorare o a organizzarci clandestinamente."
         sequence-4:
           s: 4
           from: "00:00:24,24"
