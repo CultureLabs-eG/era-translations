@@ -13,7 +13,7 @@ it:
           s: 2
           from: "00:00:05,13"
           to: "00:00:24,10"
-          text: "Anche se ero un membro dell'associazione di ex combattenti, avevo altre responsabilità politiche."
+          text: "Anche se ero membro dell'associazione degli ex combattenti della resistenza, avevo altre responsabilità politiche."
         sequence-3:
           s: 3
           from: "00:00:24,10"
@@ -23,12 +23,12 @@ it:
           s: 4
           from: "00:00:37,01"
           to: "00:00:43,21"
-          text: "ho assunto alcune responsabilità politiche a livello locale."
+          text: "assunsi alcune responsabilità politiche a livello locale."
         sequence-5:
           s: 5
           from: "00:00:43,21"
           to: "00:00:54,11"
-          text: "Partecipavo alle riunioni annuali dell'ex associazione dei combattenti, ma non ero un membro attivo."
+          text: "Partecipavo alle riunioni annuali dell'associazione degli ex combattenti, ma non ero un membro attivo."
         sequence-6:
           s: 6
           from: "00:00:54,11"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:02:08,17"
           to: "00:02:24,26"
-          text: "Nei libri scolastici di Storia c'erano pochissime informazioni sul tempo:"
+          text: "Nei libri scolastici di Storia c'era poca scelta:"
         sequence-15:
           s: 15
           from: "00:02:24,26"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:02:45,17"
           to: "00:03:02,17"
-          text: "Ci è stato chiesto dai docenti di Storia di parlare della nostra esperienza in classe."
+          text: "Ci è stato chiesto dai docenti di Storia di parlare in classe della nostra esperienza."
         sequence-18:
           s: 18
           from: "00:03:02,17"
@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:03:09,13"
           to: "00:03:18,22"
-          text: "e si è iniziato a organizzare gite scolastiche in diversi memoriali, i luoghi in cui sono stati commessi crimini nazisti."
+          text: "e abbiamo iniziato a organizzare viaggi scolastici in diversi memoriali, i luoghi in cui sono stati commessi crimini nazisti."
         sequence-20:
           s: 20
           from: "00:03:18,22"
           to: "00:03:24,06"
-          text: "Abbiamo organizzato gite scolastiche a Oradour-sur-Glane,"
+          text: "Abbiamo organizzato viaggi scolastichi a Oradour-sur-Glane,"
         sequence-21:
           s: 21
           from: "00:03:24,06"
@@ -128,12 +128,12 @@ it:
           s: 25
           from: "00:04:04,08"
           to: "00:04:09,06"
-          text: "Ci sono molti di noi."
+          text: "Siamo in tanti."
         sequence-26:
           s: 26
           from: "00:04:09,06"
           to: "00:04:18,26"
-          text: "Un compagno, Lucien Ducastel era stato deportato ad Auschwitz-Birkenau."
+          text: "Un compagno, Lucien Ducastel, era stato deportato ad Auschwitz-Birkenau."
         sequence-27:
           s: 27
           from: "00:04:18,26"
@@ -198,7 +198,7 @@ it:
           s: 39
           from: "00:05:37,01"
           to: "00:05:45,13"
-          text: "Non rispondono a tutte le domande. Quando mi chiedono quanti tedeschi ho ucciso, non rispondo."
+          text: "Non rispondo a tutte le domande. Quando mi chiedono quanti tedeschi ho ucciso, non rispondo."
         sequence-40:
           s: 40
           from: "00:05:45,13"
@@ -208,17 +208,17 @@ it:
           s: 41
           from: "00:05:49,01"
           to: "00:05:54,11"
-          text: "Durante una guerra c'è una sola regola:"
+          text: "Durante la guerra c'è una sola regola:"
         sequence-42:
           s: 42
           from: "00:05:54,11"
           to: "00:06:02,19"
-          text: "Se io non sparo per prima, lui mi sparerà. Non mi ha fatto niente e io non gli ho fatto niente."
+          text: "se non sparo io per primo, sarà lui a sparare a me. Lui non mi ha fatto niente e io non ho fatto niente a lui."
         sequence-43:
           s: 43
           from: "00:06:02,19"
           to: "00:06:10,21"
-          text: "Non lo conosco. Ha una famiglia; anche io ho una famiglia. Perché allora, ci uccidiamo a vicenda?"
+          text: "Non lo conosco. Ha una famiglia; anche io ho una famiglia. Perché allora ci uccidiamo a vicenda?"
         sequence-44:
           s: 44
           from: "00:06:10,21"
