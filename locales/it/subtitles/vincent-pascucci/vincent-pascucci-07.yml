@@ -113,12 +113,12 @@ it:
           s: 22
           from: "00:03:17,12"
           to: "00:03:24,25"
-          text: "che era di stanza con la sua brigata nel Bois de Boulogne."
+          text: "il quale era di stanza con la sua brigata nel Bois de Boulogne."
         sequence-23:
           s: 23
           from: "00:03:24,25"
           to: "00:03:31,21"
-          text: "Il Colonnello Remy salì al forte e si arresero."
+          text: "Il Colonnello Remy salì alla fortezza e loro si arresero."
         sequence-24:
           s: 24
           from: "00:03:31,21"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:04:23,03"
           to: "00:04:37,25"
-          text: "Io stesso salii al forte il 28 agosto, il 29 agosto."
+          text: "Io stesso salii alla fortezza il 28 agosto, il 29 agosto."
         sequence-32:
           s: 32
           from: "00:04:37,25"
@@ -233,7 +233,7 @@ it:
           s: 46
           from: "00:06:21,04"
           to: "00:06:30,18"
-          text: "Abbiamo avuto la soddisfazione di dire che avevamo vinto."
+          text: "Avemmo la soddisfazione di dire che avevamo vinto."
         sequence-47:
           s: 47
           from: "00:06:30,18"
@@ -243,7 +243,7 @@ it:
           s: 48
           from: "00:06:42,20"
           to: "00:06:52,13"
-          text: "Ma ci eravamo impegnati per tutta la guerra."
+          text: "Ma noi ci impegnammo per tutta la guerra."
         sequence-49:
           s: 49
           from: "00:06:52,13"
