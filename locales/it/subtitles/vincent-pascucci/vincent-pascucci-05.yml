@@ -93,12 +93,12 @@ it:
           s: 18
           from: "00:02:05,04"
           to: "00:02:15,24"
-          text: "All'inizio ci hanno provato con la propaganda, dicendo che per un lavoratore andato in Germania avrebbero liberato dieci Prigionieri di Guerra."
+          text: "All'inizio ci provarono con la propaganda, dicendo che per un lavoratore andato in Germania avrebbero liberato dieci prigionieri di guerra."
         sequence-19:
           s: 19
           from: "00:02:15,24"
           to: "00:02:20,29"
-          text: "Non aveva funzionato bene, perché pochissimi si erano offerti come volontari."
+          text: "Non funzionò tanto, perché pochissimi si erano offerti come volontari."
         sequence-20:
           s: 20
           from: "00:02:20,29"
@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:04:18,02"
           to: "00:04:30,07"
-          text: "Così tornai a Nanterre e dopo fui mandato a lavorare in una fabbrica nel dipartimento delle Marne."
+          text: "Così tornai a Nanterre e dopo fui mandato a lavorare in una fabbrica nel dipartimento della Marne."
         sequence-36:
           s: 36
           from: "00:04:30,07"
@@ -193,7 +193,7 @@ it:
           s: 38
           from: "00:04:52,29"
           to: "00:05:04,09"
-          text: "Non abbiamo aspettato il nostro stipendio... Siamo partiti subito e sono tornato a Nanterre dove sono rimasto in clandestinità."
+          text: "Non aspettammo il nostro stipendio... Partimmo subito e io tornai a Nanterre dove rimasi in clandestinità."
         sequence-39:
           s: 39
           from: "00:05:04,09"

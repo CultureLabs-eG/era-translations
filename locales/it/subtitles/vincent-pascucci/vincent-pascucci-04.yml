@@ -178,7 +178,7 @@ it:
           s: 35
           from: "00:04:33,11"
           to: "00:04:44,26"
-          text: "eccezion fatta di una minoranza che ha approfittato della situazione e si è occupata del mercato nero, soffriva la fame,"
+          text: "eccezion fatta per una minoranza che approfittò della situazione e si diede al mercato nero, soffriva la fame,"
         sequence-36:
           s: 36
           from: "00:04:44,26"
@@ -218,4 +218,4 @@ it:
           s: 43
           from: "00:05:30,19"
           to: "00:05:36,15"
-          text: "Ci hanno portato via ogni cosa, tutti i macchinari, ogni cosa."
+          text: "Ci portarono via ogni cosa, tutti i macchinari, ogni cosa."
