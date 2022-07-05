@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:52,21"
           to: "00:02:03,20"
-          text: "e l'amministrazione tedesca per creare il così detto STO (Lavoro Forzato)."
+          text: "e l'amministrazione tedesca, per creare il così detto STO (Lavoro Forzato)."
         sequence-17:
           s: 17
           from: "00:02:03,20"
@@ -183,7 +183,7 @@ it:
           s: 36
           from: "00:04:30,07"
           to: "00:04:50,24"
-          text: "Un giorno alcuni compagni e io - stavamo producendo piattaforme in cemento - mandammo un carro di cemento dentro una caserma tedesca."
+          text: "Un giorno alcuni compagni e io – stavamo producendo piattaforme in cemento – mandammo un carro di cemento dentro una caserma tedesca."
         sequence-37:
           s: 37
           from: "00:04:50,24"
@@ -208,7 +208,7 @@ it:
           s: 41
           from: "00:05:21,02"
           to: "00:05:29,00"
-          text: "non trovavano la persona che cercavano, si portavano via la sua famiglia."
+          text: "non trovavano la persona che cercavano, prendevano la sua famiglia."
         sequence-42:
           s: 42
           from: "00:05:29,00"
@@ -223,12 +223,12 @@ it:
           s: 44
           from: "00:05:39,08"
           to: "00:05:54,28"
-          text: "Il mio compito era di organizzare un gruppo armato per proteggere coloro che si recavano in luogo pubblico per distribuire volantini o tenere un comizio."
+          text: "Il mio compito era quello di organizzare un gruppo armato per proteggere coloro che si recavano in un luogo pubblico per distribuire volantini o tenere un discorso."
         sequence-45:
           s: 45
           from: "00:05:54,28"
           to: "00:06:07,21"
-          text: "L'unico intrattenimento consentito all'epoca era di andare al cinema."
+          text: "L'unico intrattenimento consentito all'epoca era andare al cinema."
         sequence-46:
           s: 46
           from: "00:06:07,21"
@@ -248,7 +248,7 @@ it:
           s: 49
           from: "00:06:33,16"
           to: "00:06:44,11"
-          text: "così da non poter chiamare la polizia, e uno dei nostri compagni, solitamente Louis Meunier, si alzava per parlare."
+          text: "così che non potesse chiamare la polizia, e uno dei nostri compagni, solitamente Louis Meunier, si alzava per parlare."
         sequence-50:
           s: 50
           from: "00:06:44,11"
@@ -313,34 +313,34 @@ it:
           s: 62
           from: "00:08:18,27"
           to: "00:08:26,16"
-          text: ~
+          text: "Un giorno un compagno andò a visitare la moglie in ospedale"
         sequence-63:
           s: 63
           from: "00:08:26,16"
           to: "00:08:37,02"
-          text: ~
+          text: "e fu avvicinato per una sigaretta da un giovane prigioniero di guerra che non parlava francese."
         sequence-64:
           s: 64
           from: "00:08:37,02"
           to: "00:08:48,03"
-          text: ~
+          text: "Il nostro compagno gli disse di tornare il giorno dopo con dei vestiti e così lo aiutammo a fuggire."
         sequence-65:
           s: 65
           from: "00:08:48,03"
           to: "00:08:56,10"
-          text: ~
+          text: "Era rischioso, ma correvamo dei rischi ogni giorno."
         sequence-66:
           s: 66
           from: "00:08:56,10"
           to: "00:09:05,15"
-          text: ~
+          text: "Il giovane è nella foto che vi ho mostrato, insieme a Louis Meunier e a me."
         sequence-67:
           s: 67
           from: "00:09:05,15"
           to: "00:09:15,11"
-          text: ~
+          text: "Si unì alla \"macchia\". Con nostro grande rammarico non scoprimmo mai cosa gli fosse successo."
         sequence-68:
           s: 68
           from: "00:09:15,11"
           to: "00:09:26,12"
-          text: ~
+          text: "Avevamo la possibilità di aiutarlo a fuggire e facemmo."
