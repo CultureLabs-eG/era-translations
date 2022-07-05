@@ -233,7 +233,7 @@ it:
           s: 46
           from: "00:06:07,21"
           to: "00:06:20,10"
-          text: "Prima del film stesso mostravano notizie/informazioni curate dai nazisti, dalla polizia francese, dal governo francese."
+          text: "Prima del film mostravano notizie/informazioni curate dai nazisti, dalla polizia francese, dal governo francese."
         sequence-47:
           s: 47
           from: "00:06:20,10"
@@ -303,7 +303,7 @@ it:
           s: 60
           from: "00:08:01,17"
           to: "00:08:06,18"
-          text: "che fu occupato dai tedeschi."
+          text: "che era stato occupato dai tedeschi."
         sequence-61:
           s: 61
           from: "00:08:06,18"
@@ -343,4 +343,4 @@ it:
           s: 68
           from: "00:09:15,11"
           to: "00:09:26,12"
-          text: "Avevamo la possibilità di aiutarlo a fuggire e facemmo."
+          text: "Avevamo la possibilità di aiutarlo a fuggire e lo facemmo."
