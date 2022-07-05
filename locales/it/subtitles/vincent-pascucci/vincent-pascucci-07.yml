@@ -128,22 +128,22 @@ it:
           s: 25
           from: "00:03:33,16"
           to: "00:03:40,04"
-          text: "Non ho avuto molto tempo per godermi la liberazione."
+          text: "Non ebbi molto tempo per godermi la liberazione."
         sequence-26:
           s: 26
           from: "00:03:40,04"
           to: "00:03:48,25"
-          text: "Nel periodo di transizione, ero responsabile alla sicurezza di Raymond Barbet,"
+          text: "Nel periodo di transizione ero responsabile alla sicurezza di Raymond Barbet,"
         sequence-27:
           s: 27
           from: "00:03:48,25"
           to: "00:03:55,22"
-          text: "a sua volta responsabile della Resistenza dei ferrovieri."
+          text: "a sua volta responsabile della resistenza dei ferrovieri."
         sequence-28:
           s: 28
           from: "00:03:55,22"
           to: "00:04:08,06"
-          text: "Aveva organizzato l'insurrezione-sciopero dei ferrovieri il 10 Agosto 1944, scatenando l'insurrezione nazionale."
+          text: "Aveva organizzato lo sciopero insurrezionale dei ferrovieri del 10 agosto 1944, scatenando l'insurrezione nazionale."
         sequence-29:
           s: 29
           from: "00:04:08,06"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:04:23,03"
           to: "00:04:37,25"
-          text: "Io stesso sono salito al forte il 28 Agosto, il 29 Agosto."
+          text: "Io stesso salii al forte il 28 agosto, il 29 agosto."
         sequence-32:
           s: 32
           from: "00:04:37,25"
@@ -168,17 +168,17 @@ it:
           s: 33
           from: "00:04:39,15"
           to: "00:04:43,23"
-          text: "Siamo stati organizzati militarmente"
+          text: "Eravamo organizzati militarmente."
         sequence-34:
           s: 34
           from: "00:04:43,23"
           to: "00:05:00,21"
-          text: "e avevo ottenuto il grado di tenente nella Resistenza e mi era stata assegnata una sezione di cinquanta combattenti nella Resistenza."
+          text: "Io avevo ottenuto il grado di tenente e mi era stata affidata una sezione di 50 combattenti della resistenza."
         sequence-35:
           s: 35
           from: "00:05:00,21"
           to: "00:05:06,05"
-          text: "La chiamammo sezione Louis Meunier in sua memoria."
+          text: "La chiamammo sezione Louis Meunier, in sua memoria."
         sequence-36:
           s: 36
           from: "00:05:06,05"
@@ -188,7 +188,7 @@ it:
           s: 37
           from: "00:05:13,29"
           to: "00:05:20,01"
-          text: "Ciò che provai alla liberazione? Beh, tanta gioia!"
+          text: "Cosa provai alla liberazione? Beh, tanta gioia!"
         sequence-38:
           s: 38
           from: "00:05:20,01"
@@ -203,7 +203,7 @@ it:
           s: 40
           from: "00:05:36,10"
           to: "00:05:49,29"
-          text: "È stata una grande gioia aver liberato la Francia, anche se non era ancora finita."
+          text: "Fu una grande gioia aver liberato la Francia, anche se non era ancora finita."
         sequence-41:
           s: 41
           from: "00:05:49,29"
@@ -213,7 +213,7 @@ it:
           s: 42
           from: "00:05:52,12"
           to: "00:06:05,29"
-          text: "Alsazia-Lorena erano ancora occupate; c'era ancora la base sottomarina nell'enclave di La Rochelle."
+          text: "L'Alsazia-Lorena era ancora occupata; c'era ancora la base sottomarina nell'enclave di La Rochelle."
         sequence-43:
           s: 43
           from: "00:06:05,29"
@@ -223,7 +223,7 @@ it:
           s: 44
           from: "00:06:10,26"
           to: "00:06:15,07"
-          text: "Ma in realtà è stata la liberazione."
+          text: "Ma fu veramente una liberazione."
         sequence-45:
           s: 45
           from: "00:06:15,07"
@@ -238,7 +238,7 @@ it:
           s: 47
           from: "00:06:30,18"
           to: "00:06:42,20"
-          text: "Non tutti i compagni che erano stati nel gruppo con noi si sono arruolati successivamente nell'esercito."
+          text: "Non tutti i compagni che erano stati nel gruppo con noi successivamente si arruolarono nell'esercito."
         sequence-48:
           s: 48
           from: "00:06:42,20"
@@ -253,7 +253,7 @@ it:
           s: 50
           from: "00:06:58,05"
           to: "00:07:06,24"
-          text: "Io ho continuato perché volevo vendicare Louis. Al suo funerale avevamo giurato che l'avremmo vendicato."
+          text: "Io continuai perché volevo vendicare Louis. Al suo funerale avevamo giurato che l'avremmo vendicato."
         sequence-51:
           s: 51
           from: "00:07:06,24"
