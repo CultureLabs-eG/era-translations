@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:26,20"
           to: "00:00:45,21"
-          text: "Le istruzioni ricevute dalla Gioventù Comunista o dal Partito Comunista erano di coordinarsi in triangoli."
+          text: "Le istruzioni ricevute dai Giovani Comunisti o dal Partito Comunista erano di coordinarsi in triangoli."
         sequence-6:
           s: 6
           from: "00:00:45,21"
@@ -88,7 +88,7 @@ it:
           s: 17
           from: "00:02:06,27"
           to: "00:02:13,08"
-          text: "C'era un piccolo magazzino dove abbiamo installato il nostro materiale."
+          text: "C'era un piccolo magazzino dove installammo il nostro materiale."
         sequence-18:
           s: 18
           from: "00:02:13,08"
@@ -133,7 +133,7 @@ it:
           s: 26
           from: "00:03:44,11"
           to: "00:03:50,20"
-          text: "Sono stati semplicemente fucilati dopo un'azione di resistenza."
+          text: "Furono semplicemente fucilati dopo un'azione di resistenza."
         sequence-27:
           s: 27
           from: "00:03:50,20"
@@ -153,7 +153,7 @@ it:
           s: 30
           from: "00:03:58,25"
           to: "00:04:02,26"
-          text: "O non hanno fatto niente."
+          text: "O non facevano niente."
         sequence-31:
           s: 31
           from: "00:04:02,26"
