@@ -18,7 +18,7 @@ it:
           s: 3
           from: "00:00:24,10"
           to: "00:00:37,01"
-          text: "Mi ero iscritto al Partito Comunista Francese nel 1943, quando ero ancora clandestino,"
+          text: "Mi ero iscritto al Partito Comunista Francese nel 1943, quando era ancora clandestino,"
         sequence-4:
           s: 4
           from: "00:00:37,01"
@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:43,21"
           to: "00:00:54,11"
-          text: "Avrei partecipato alle riunioni annuali dell'ex associazione dei combattenti, ma non ero un membro attivo."
+          text: "Partecipavo alle riunioni annuali dell'ex associazione dei combattenti, ma non ero un membro attivo."
         sequence-6:
           s: 6
           from: "00:00:54,11"
@@ -38,12 +38,12 @@ it:
           s: 7
           from: "00:01:05,21"
           to: "00:01:14,16"
-          text: "amici miei mi hanno spinto alla presidenza dicendo:"
+          text: "i miei amici mi spinsero alla presidenza dicendo:"
         sequence-8:
           s: 8
           from: "00:01:14,16"
           to: "00:01:29,23"
-          text: "\"Eri così attivo durante la Resistenza; sei stato responsabile per la liberazione di Nanterre con Louis Meunier, etc...\""
+          text: "\"Eri così attivo durante la Resistenza; sei stato responsabile per la liberazione di Nanterre con Louis Meunier, ecc...\""
         sequence-9:
           s: 9
           from: "00:01:29,23"
@@ -73,7 +73,7 @@ it:
           s: 14
           from: "00:02:08,17"
           to: "00:02:24,26"
-          text: "Nei libri scolastici di Storia, c'erano pochissime informazioni sul tempo:"
+          text: "Nei libri scolastici di Storia c'erano pochissime informazioni sul tempo:"
         sequence-15:
           s: 15
           from: "00:02:24,26"
@@ -113,7 +113,7 @@ it:
           s: 22
           from: "00:03:33,15"
           to: "00:03:44,08"
-          text: "Abbiamo preso classi da tre differenti scuole a Auschwitz-Birkenau."
+          text: "Abbiamo portato classi da tre differenti scuole a Auschwitz-Birkenau."
         sequence-23:
           s: 23
           from: "00:03:44,08"
@@ -133,12 +133,12 @@ it:
           s: 26
           from: "00:04:09,06"
           to: "00:04:18,26"
-          text: "Un compagno, Lucien Ducastel era stato deportato a Auschwitz-Birkenau."
+          text: "Un compagno, Lucien Ducastel era stato deportato ad Auschwitz-Birkenau."
         sequence-27:
           s: 27
           from: "00:04:18,26"
           to: "00:04:26,11"
-          text: "Lo facciamo anche in memoria dei compagni periti a Auschwitz."
+          text: "Lo facciamo anche in memoria dei compagni morti ad Auschwitz."
         sequence-28:
           s: 28
           from: "00:04:26,11"
@@ -158,7 +158,7 @@ it:
           s: 31
           from: "00:04:45,00"
           to: "00:04:55,02"
-          text: "perché in Europa c'è una pericolosa ascesa del fascismo."
+          text: "c'è una pericolosa ascesa del fascismo."
         sequence-32:
           s: 32
           from: "00:04:55,02"
@@ -168,7 +168,7 @@ it:
           s: 33
           from: "00:05:01,10"
           to: "00:05:11,17"
-          text: "Oggigiorno, ci sono alcuni paesi europei che hanno un governo di estrema destra."
+          text: "Oggigiorno ci sono alcuni paesi europei che hanno un governo di estrema destra."
         sequence-34:
           s: 34
           from: "00:05:11,17"
