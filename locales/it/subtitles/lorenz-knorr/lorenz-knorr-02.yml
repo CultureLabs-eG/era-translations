@@ -28,7 +28,7 @@ it:
           s: 5
           from: "00:00:24,11"
           to: "00:00:29,17"
-          text: "sostituendolo con il regime nazista e proclamando il grande Reich tedesco."
+          text: "la sua sostituzione con il regime nazista e la proclamazione del grande Reich tedesco."
         sequence-6:
           s: 6
           from: "00:00:29,17"
@@ -53,12 +53,12 @@ it:
           s: 10
           from: "00:00:43,04"
           to: "00:00:54,24"
-          text: "Quindi abbiamo avuto, a partire dal Marzo 1938 fino agli accorti di Monaco del 29 settembre 1938"
+          text: "Quindi avevamo avuto, a partire dal marzo 1938 fino all'Accordo di Monaco del 29 settembre 1938"
         sequence-11:
           s: 11
           from: "00:00:54,24"
           to: "00:01:02,03"
-          text: "abbastanza opportunità di prepararci al lavoro illegale e alla lotta antifascista."
+          text: "abbastanza opportunità per prepararci al lavoro illegale e alla lotta antifascista."
         sequence-12:
           s: 12
           from: "00:01:02,03"
@@ -83,7 +83,7 @@ it:
           s: 16
           from: "00:01:15,27"
           to: "00:01:20,01"
-          text: "che non avevano avuto una tale esperienza, né tempo per prepararsi."
+          text: "i quali non avevano avuto una tale esperienza, né tempo per prepararsi."
         sequence-17:
           s: 17
           from: "00:01:20,01"
@@ -98,12 +98,12 @@ it:
           s: 19
           from: "00:01:26,20"
           to: "00:01:30,11"
-          text: "Non c'erano obblighi di partito alla resistenza,"
+          text: "Non c'erano obblighi di partito a partecipare alla resistenza,"
         sequence-20:
           s: 20
           from: "00:01:30,11"
           to: "00:01:35,11"
-          text: "si trattava piuttosto di una decisione volontaria. Di decidere se difendersi e attaccare,"
+          text: "La decisione di opporsi o meno era volontaria:"
         sequence-21:
           s: 21
           from: "00:01:35,11"
